@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# Pipeline intermediate data (regenerable)
+pipeline/data/merged/
+pipeline/data/drafts/
+pipeline/data/enriched/
+pipeline/data/extracted/fda_summaries/
+pipeline/data/extracted/fda_structured/
+pipeline/data/extracted/fda_safety/
+pipeline/data/extracted/documents/
+pipeline/data/extracted/skipped.json
+
+# Large model caches
+*.safetensors
+
+# OS
+Thumbs.db
+.DS_Store
