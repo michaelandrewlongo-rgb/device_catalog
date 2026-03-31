@@ -67,11 +67,13 @@ The repository is succeeding when:
 
 Move the catalog from “many partially captured products” to “materially useful device reference.”
 
-That means the next stage is not just more discovery. It is:
-- fixing high-value manufacturer gaps
-- enriching thin categories
-- promoting strong existing scraped data into curated knowledge
-- attaching more official source artifacts to important devices
+Progress as of 2026-03-31: catalog grew from 68 to 122 curated knowledge files via extraction pipeline + batch promotion. Extraction pipeline now harvests from 6 sources (FDA APIs, manufacturer scrapers, EVToday, NSPR, Marker PDF extraction, DeepSeek synthesis).
+
+The next stage is:
+- filling remaining gaps in promoted files (26% of core sections still empty)
+- acquiring NSPR-hosted technique guide PDFs for spine devices
+- promoting remaining enriched drafts that meet quality threshold
+- enriching thin categories: guidewires (0 curated), stent-retriever (0 curated), embolic coils (5 curated)
 
 ## Non-Goals
 

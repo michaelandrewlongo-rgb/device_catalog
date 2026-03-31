@@ -1,33 +1,41 @@
 # STATE.md
 
 I was trying to:
-Build and run the three-tier extraction/enrichment pipeline end-to-end.
+Build extraction pipeline, run it end-to-end, fix cross-match accuracy, promote enriched drafts, initialize git, and clean up repo.
 
 The last thing I saw:
-Pipeline ran successfully with all tiers:
-- Tier 1A: 281 FDA 510(k) PDFs extracted (pdfplumber)
-- Tier 1B: 242 UDI results, 592 safety records (MAUDE + Recalls)
-- Tier 1C: 301 EVToday devices (10 neuro categories, already cached)
-- Tier 1D: 1,122 NSPR products listed, 88 detail pages scraped
-- Tier 2: 43/57 catalog root PDFs extracted (Marker + DeepSeek). 14 remaining are large files or reference chapters.
-- Tier 3: 2,668 devices enriched from all sources
-- Final: 196 drafts, 74% core sections filled (439/588), 552 remaining [NEEDS CONTENT] placeholders
+All objectives completed successfully:
+- Extraction pipeline operational (9 modules in `pipeline/extraction/`)
+- 54 devices promoted to catalog root (68 -> 122 curated)
+- EVToday cross-match bug fixed (manufacturer-verified matching, 0 mismatches)
+- Git repo initialized with 3 commits
+- Auto-improve: stale files removed, deps fixed, ROADMAP updated
 
-Enrichment source breakdown: EVToday 1,070 fields, FDA UDI 938, scraper 319, NSPR 253.
+Current numbers (from CATALOG_INDEX.md, 2026-03-31):
+- 122 curated knowledge files
+- 112 scraped-only devices
+- 234 total indexed
+- 27 device categories
+- Enrichment sources: EVToday 189 fields, FDA UDI 942, scraper 389, NSPR 13
 
 I think the status is:
-Pipeline is functional. Marker models are downloaded and working. The FDA structured API queries are still running in background (242/2610 devices queried so far). Document extraction (Tier 2) processed 43 of 57 PDFs before stalling on large files.
+Pipeline is stable and producing clean data. The biggest remaining opportunity is filling the 26% of still-empty core sections. Two approaches: (1) visit NSPR detail pages with full browser rendering to get PDF URLs and Livewire-rendered spec tags, (2) let the FDA structured API queries finish and re-enrich.
 
 What I want next:
-1. Let FDA structured queries finish (still running in background)
-2. Re-run enrichment + drafts once FDA queries complete for maximum coverage
-3. Visit NSPR detail pages with full browser navigation (not iframe) to get PDF URLs and full Livewire-rendered spec tags
-4. Run `--nspr-download` to fetch technique guide PDFs
-5. Spot-check enriched drafts and promote best ones to catalog root
+1. Re-run FDA structured queries (background process may have timed out): `python -m pipeline.run_extract --fda-structured`
+2. Re-run enrichment and drafts: `python -m pipeline.run_enrich && python -m pipeline.run_pipeline --merge-only`
+3. NSPR detail scraping with full browser navigation (not iframe) to get PDF URLs
+4. Download NSPR technique guide PDFs: `python -m pipeline.run_extract --nspr-download`
+5. Run Tier 2 on downloaded PDFs: `python -m pipeline.run_extract --documents`
+6. Focus promotion on thin categories: guidewires (0 curated), embolic coils (5 curated), stent-retriever (0 curated)
 
 Key CLI:
 ```
-python -m pipeline.run_extract --all        # All extraction tiers
-python -m pipeline.run_enrich               # Tier 3 enrichment
-python -m pipeline.run_pipeline --merge-only # Regenerate drafts
+python -m pipeline.run_extract --help           # All extraction options
+python -m pipeline.run_extract --fda-structured  # FDA UDI/MAUDE/Recall
+python -m pipeline.run_extract --documents       # Marker + DeepSeek PDF extraction
+python -m pipeline.run_extract --nspr-download   # Download NSPR-hosted PDFs
+python -m pipeline.run_enrich                    # Tier 3 enrichment
+python -m pipeline.run_pipeline --merge-only     # Regenerate drafts
+python -m pipeline.run_pipeline --index-only     # Regenerate CATALOG_INDEX.md
 ```

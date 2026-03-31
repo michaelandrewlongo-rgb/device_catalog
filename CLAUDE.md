@@ -88,16 +88,16 @@ Non-goals:
 
 ## Current Catalog Snapshot
 
-Last verified snapshot: 2026-03-30.
-- 68 curated knowledge files
-- about 120 scraped-only devices
-- 188 total indexed devices
-- 25 device categories
-- 17 manufacturers
+Last verified snapshot: 2026-03-31.
+- 122 curated knowledge files
+- 112 scraped-only devices
+- 234 total indexed devices
+- 27 device categories
+- Two clinical domains: spine (pedicle screws, cages, plates, corpectomy, SI fusion, navigation, disc replacement) and neurovascular/interventional (flow diverters, stent retrievers, aspiration, coils, liquid embolics, microcatheters, intracranial stents, shunts, thrombectomy)
 
-Pipeline inputs currently include openFDA 510(k)/PMA APIs plus manufacturer scraping for Stryker, MicroVention, Balt, Penumbra, Cerenovus, Medtronic, and Integra, with Chrome MCP used for harder sites when needed.
+Pipeline inputs include openFDA 510(k)/PMA APIs, manufacturer scraping (Stryker, MicroVention, Balt, Penumbra, Cerenovus, Medtronic, Integra, Globus, SI-BONE, DePuy, NuVasive), Chrome MCP for gated sites, and external structured sources (EVToday device guide, NeuroSpine Product Review).
 
-Treat these numbers as a useful state snapshot, not a guarantee that every downstream summary is current. Re-check `CATALOG_INDEX.md` before making coverage claims.
+Treat these numbers as a state snapshot. Re-check `CATALOG_INDEX.md` before making coverage claims.
 
 ## File Naming Convention
 
@@ -186,37 +186,65 @@ python -m pipeline.run_fda --download-pdfs
 python -m pipeline.run_scrapers --list
 python -m pipeline.run_scrapers -m penumbra
 
-# Full pipeline
-python -m pipeline.run_pipeline --fda-only
+# Full pipeline (merge + draft generation)
 python -m pipeline.run_pipeline --merge-only
 python -m pipeline.run_pipeline --merge-only --all-drafts
 python -m pipeline.run_pipeline --index-only
-python -m pipeline.run_pipeline --download-pdfs
+
+# Extraction pipeline (Tiers 1-2)
+python -m pipeline.run_extract --fda-summaries     # Tier 1A: parse 510(k) PDFs
+python -m pipeline.run_extract --fda-structured     # Tier 1B: UDI/MAUDE/Recall APIs
+python -m pipeline.run_extract --evtoday            # Tier 1C: EVToday device guide
+python -m pipeline.run_extract --nspr-download      # Tier 1D: download NSPR PDFs
+python -m pipeline.run_extract --documents          # Tier 2: Marker + DeepSeek on PDFs
+python -m pipeline.run_extract --all                # All of the above
+
+# Enrichment (Tier 3)
+python -m pipeline.run_enrich                       # Multi-source synthesis
 ```
 
 ## Architecture
 
-- `config.py` maps product codes, manufacturer aliases, disambiguation rules, and the `EXISTING_DEVICES` set derived from the catalog root.
+- `config.py` maps product codes, manufacturer aliases, disambiguation rules, `EXISTING_DEVICES`, and loads `DEEPSEEK_API_KEY`.
 - `fda/` contains the openFDA client, 510(k)/PMA logic, PDF downloader, and `FDADeviceRecord` models.
 - `scrapers/` contains per-manufacturer scrapers. Each scraper extends `BaseScraper` and emits `ScrapedProduct` objects.
-- `scrapers/chrome_assisted.py` contains Chrome MCP save/load utilities. It is not itself a scraper class.
+- `scrapers/chrome_assisted.py` contains Chrome MCP save/load utilities for manufacturer scraping.
 - `scrapers/chrome_workflow.md` contains manufacturer-specific Chrome MCP guidance.
+- `extraction/` contains the three-tier extraction/enrichment pipeline:
+  - `evtoday_scraper.py` -- Tier 1C: EVToday device guide structured table scraper
+  - `nspr_scraper.py` -- Tier 1D: NSPR Chrome MCP helpers and PDF downloader
+  - `fda_parser.py` -- Tier 1A: FDA 510(k) PDF parsing with pdfplumber/Marker
+  - `fda_structured.py` -- Tier 1B: FDA UDI/MAUDE/Recall API queries
+  - `doc_extractor.py` -- Tier 2: Marker + DeepSeek structured extraction from brochures/IFUs
+  - `enricher.py` -- Tier 3: multi-source synthesis with manufacturer-verified matching
+  - `deepseek.py` -- DeepSeek API client (OpenAI-compatible, shared by Tiers 2-3)
+  - `pdf_utils.py` -- PDF validation and text extraction (pdfplumber + Marker fallback)
 - `processing/merger.py` joins FDA and scraped data into `MergedDeviceRecord`.
-- `processing/template.py` renders scaffold markdown.
+- `processing/template.py` renders scaffold markdown. Overlays enriched data when available.
 - `processing/naming.py` enforces filename rules and collision handling.
 - `processing/indexer.py` generates `CATALOG_INDEX.md`.
 - `processing/reviewer.py` generates `REVIEW_MANIFEST.md` with quality tiers.
-- `data/` contains intermediate storage, drafts, PDFs, and raw scraper/FDA outputs.
-- `scrapers/orchestrator_workflow.md` documents the bulk-promotion workflow.
+- `data/` contains intermediate storage:
+  - `fda_raw/`, `scraper_raw/` -- raw input data
+  - `merged/` -- FDA + scraper merged records
+  - `extracted/` -- Tier 1-2 extraction outputs (evtoday/, nspr/, fda_summaries/, fda_structured/, fda_safety/, documents/)
+  - `enriched/` -- Tier 3 enriched records with `_enrichment` metadata
+  - `drafts/` -- rendered knowledge file scaffolds
+  - `pdfs/` -- downloaded FDA 510(k) summary PDFs
 
 ## Key Design Decisions
 
 - FDA data provides regulatory metadata. Manufacturer sources provide most clinical detail.
 - Generated files go to `pipeline/data/drafts/`, never directly to the catalog root.
-- Manual promotion is expected for high-trust catalog entries.
+- Manual promotion is expected for high-trust catalog entries. Batch promotion is acceptable when quality scoring confirms readiness.
 - Scaffold files can contain `[NEEDS CONTENT - ...]` placeholders when a source gap remains.
 - Disambiguation rules in `config.py` are necessary because some FDA product codes span multiple real-world categories.
 - `EXISTING_DEVICES` is derived from the catalog root to avoid overwriting hand-curated files.
+- Extraction pipeline uses staged checkpoints: each tier writes to its own directory. Inspect between tiers.
+- EVToday and NSPR cross-matching requires manufacturer name verification (not just product name word overlap) to prevent false positives.
+- DeepSeek API (not Claude API) is used for LLM extraction to minimize cost. Key loaded from `~/Desktop/master_env.txt`.
+- Marker PDF-to-markdown is preferred for complex tables. pdfplumber is the fallback for simple text-based PDFs.
+- Enriched records never overwrite curated knowledge files. The enricher skips any device with an existing `--knowledge.md` in catalog root.
 
 ## Chrome-Assisted Scraping
 
@@ -270,16 +298,15 @@ Do not rely on chat history to preserve this.
 ## Source-of-Truth Files
 
 Read these before making assumptions:
-- `STATE.md`
-- `PRODUCT_GOAL.md`
-- `ROADMAP.md`
-- `CATALOG_INDEX.md`
-- `REVIEW_MANIFEST.md`
-- `pipeline/config.py`
-- `pipeline/scrapers/chrome_workflow.md`
-- `pipeline/scrapers/orchestrator_workflow.md`
-- `docs/superpowers/specs/`
-- `docs/superpowers/plans/`
+- `STATE.md` -- current working state and next steps
+- `PRODUCT_GOAL.md` -- durable north star
+- `ROADMAP.md` -- medium-term priorities with status
+- `CATALOG_INDEX.md` -- current coverage numbers (regenerate with `--index-only`)
+- `pipeline/config.py` -- product codes, manufacturer aliases, paths, API keys
+- `pipeline/scrapers/chrome_workflow.md` -- manufacturer-specific Chrome MCP guidance
+- `pipeline/scrapers/orchestrator_workflow.md` -- bulk promotion workflow
+- `docs/superpowers/specs/2026-03-30-pdf-extraction-pipeline-design.md` -- extraction pipeline design spec
+- `docs/superpowers/plans/2026-03-30-pdf-extraction-pipeline.md` -- extraction pipeline implementation plan
 
 ## What Good Looks Like
 
