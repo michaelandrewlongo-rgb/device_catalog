@@ -1,0 +1,18 @@
+{
+  "source": "fda_udi",
+  "brand_name": "POWEReam Xia/Serrato",
+  "extraction_method": "fda_udi_api",
+  "fields": {
+    "sizing_specs": "Catalog: 4405-240-000; Model: 4405240000",
+    "use_notes": "MRI: Labeling does not contain MRI Safety Information. Sterilized: ['Moist Heat or Steam Sterilization', 'Hydrogen Peroxide']. Single-use",
+    "also_known_as": [
+      "POWEReam Xia Serrato",
+      "Drilling power tool attachment, basic"
+    ]
+  },
+  "confidence": {
+    "sizing_specs": 0.85,
+    "use_notes": 0.85,
+    "also_known_as": 0.85
+  }
+}

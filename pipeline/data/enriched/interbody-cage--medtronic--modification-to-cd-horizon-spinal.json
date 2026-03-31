@@ -1,0 +1,62 @@
+{
+  "device_name": "MODIFICATION TO CD HORIZON SPINAL SYSTEM",
+  "manufacturer": "medtronic",
+  "catalog_category": "interbody-cage",
+  "filename_stem": "interbody-cage--medtronic--modification-to-cd-horizon-spinal",
+  "clearance_type": "510k",
+  "clearance_number": "K042962",
+  "clearance_date": "2004-12-14",
+  "device_class": 2,
+  "device_name_fda": "MODIFICATION TO CD HORIZON SPINAL SYSTEM",
+  "product_code": "NKB",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "[FDA RECALL] 2 active recall(s).\n  - This lot has incorrectly been laser marked both on the screw head itself as well as the data carrier tag attached to the screw.  The description on face two of the screw head and on the data carrier t\n  - Screws are longer then size etched on the screw.",
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf04/K042962.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "none",
+      "confidence": 0
+    },
+    "sizing_specs": {
+      "source": "none",
+      "confidence": 0
+    },
+    "indications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "none",
+      "confidence": 0
+    },
+    "also_known_as": {
+      "source": "none",
+      "confidence": 0
+    },
+    "_safety": {
+      "source": "fda_maude+recalls",
+      "confidence": 0.85
+    }
+  }
+}

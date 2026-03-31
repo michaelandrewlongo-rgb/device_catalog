@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K181119",
+  "clearance_date": "2018-06-26",
+  "device_class": 2,
+  "manufacturer_canonical": "stryker",
+  "manufacturer_raw": "K2m, Inc.",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "Range (Denali and Mesa) Spinal Systems",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--stryker--range-denali-and-mesa-spinal",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf18/K181119.pdf"
+}

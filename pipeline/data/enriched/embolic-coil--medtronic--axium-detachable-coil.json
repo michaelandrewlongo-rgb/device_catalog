@@ -1,0 +1,61 @@
+{
+  "device_name": "Axium Detachable Coil System",
+  "manufacturer": "medtronic",
+  "catalog_category": "embolic-coil",
+  "filename_stem": "embolic-coil--medtronic--axium-detachable-coil",
+  "clearance_type": "510k",
+  "clearance_number": "K151447",
+  "clearance_date": "2015-07-28",
+  "device_class": 2,
+  "device_name_fda": "Axium Detachable Coil System",
+  "product_code": "HCG",
+  "what_it_is": "COIL QC-6-20-HELIX V05",
+  "sizing_specs": "Model: QC-6-20-HELIX",
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "MRI: MR Conditional. Pre-sterilized. Single-use",
+  "deployment_steps": null,
+  "also_known_as": [
+    "Axium Detachable Coil System",
+    "Neurovascular embolization coil"
+  ],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf15/K151447.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "sizing_specs": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "indications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "also_known_as": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "device_name": "FlowGate 2\u00ae",
+  "manufacturer": "stryker",
+  "catalog_category": "distal-access",
+  "filename_stem": "distal-access--stryker--flowgate-2-r",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "Stryker's product portfolio",
+  "sizing_specs": "Specifications",
+  "indications": "FlowGate2 Balloon Guide Catheters are indicated for use\nin procedures for facilitating the insertion and guidance\nof an intravascular catheter into a selected blood vessel in\nthe neuro vascular system. The Balloon Guide Catheter is\nalso indicated for use as a conduit for Retrieval devices.\nThe balloon provides temporary vascular occlusion during\nthese and other angiographic procedures.",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.stryker.com/us/en/neurovascular/products/flowgate2--balloon-guide-catheter.html",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ]
+}

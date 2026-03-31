@@ -1,0 +1,28 @@
+{
+  "device_name": "TracStar LDP Large Distal Platform; Zoom 88 Large Distal Platform; Zoom 88 Large Distal Platform Support",
+  "manufacturer": "imperative-care-inc",
+  "catalog_category": "microcatheter",
+  "filename_stem": "microcatheter--imperative-care-inc--tracstar-ldp-large-distal-platform",
+  "clearance_type": "510k",
+  "clearance_number": "K231168",
+  "clearance_date": "2023-05-22",
+  "device_class": 2,
+  "device_name_fda": "TracStar LDP Large Distal Platform; Zoom 88 Large Distal Platform; Zoom 88 Large Distal Platform Support",
+  "product_code": "QJP",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K231168.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

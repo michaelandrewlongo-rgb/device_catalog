@@ -1,0 +1,20 @@
+{
+  "source": "fda_udi",
+  "brand_name": "APEX-DL Spine System",
+  "extraction_method": "fda_udi_api",
+  "fields": {
+    "what_it_is": "APEX-DL Ti Cannulated Poly Screw 10.0 x 70mm",
+    "sizing_specs": "Model: DP6-10070C",
+    "use_notes": "MRI: Labeling does not contain MRI Safety Information. Sterilized: Moist Heat or Steam Sterilization. Single-use",
+    "also_known_as": [
+      "APEX-DL Spine System",
+      "Spinal bone screw, non-bioabsorbable"
+    ]
+  },
+  "confidence": {
+    "what_it_is": 0.85,
+    "sizing_specs": 0.85,
+    "use_notes": 0.85,
+    "also_known_as": 0.85
+  }
+}

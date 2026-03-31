@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K110472",
+  "clearance_date": "2012-05-29",
+  "device_class": 2,
+  "manufacturer_canonical": "medtronic",
+  "manufacturer_raw": "Medtronic Sofamor Danek",
+  "catalog_category": "sacroiliac-fusion",
+  "device_name_fda": "SI-FIX SACROILIAC JOINT FUSION SYSTEM",
+  "product_code": "OUR",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "sacroiliac-fusion--medtronic--si-fix-sacroiliac-joint-fusion",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf11/K110472.pdf"
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K201076",
+  "clearance_date": "2020-08-06",
+  "device_class": 2,
+  "manufacturer_canonical": "aqure-medical-inc",
+  "manufacturer_raw": "Aqure Medical, Inc.",
+  "catalog_category": "microcatheter",
+  "device_name_fda": "Anchor Dual Lumen Guidewire Catheter",
+  "product_code": "QJP",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "microcatheter--aqure-medical-inc--anchor-dual-lumen-guidewire-catheter",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K201076.pdf"
+}

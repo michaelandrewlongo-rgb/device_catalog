@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K233375",
+  "clearance_date": "2024-03-20",
+  "device_class": 2,
+  "manufacturer_canonical": "nexus-spine-llc",
+  "manufacturer_raw": "Nexus Spine, LLC",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "Tranquil-L Interbody System",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--nexus-spine-llc--tranquil-l-interbody",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K233375.pdf"
+}

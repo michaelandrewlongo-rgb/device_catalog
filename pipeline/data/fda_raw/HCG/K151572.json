@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K151572",
+  "clearance_date": "2015-07-10",
+  "device_class": 2,
+  "manufacturer_canonical": "penumbra",
+  "manufacturer_raw": "Penumbra, Inc.",
+  "catalog_category": "embolic-coil",
+  "device_name_fda": "Penumbra Smart Coil",
+  "product_code": "HCG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "embolic-coil--penumbra--penumbra-smart-coil",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf15/K151572.pdf"
+}

@@ -1,0 +1,22 @@
+{
+  "source_pdf": "dural-sealant--integra--duraseal--ifu.pdf",
+  "device_name": "duraseal",
+  "manufacturer": "integra",
+  "doc_type": "ifu",
+  "extraction_method": "pdf_deepseek",
+  "fields": {
+    "what_it_is": "The DuraSeal Dural Sealant System consists of components for preparation of a synthetic absorbable sealant, and an applicator for delivery of the sealant to the target site. The sealant is composed of two solutions, a polyethylene glycol (PEG) ester solution and a trilysine amine solution (referred to as the 'blue' and 'clear' precursors, respectively). When mixed together, the precursors cross link to form the hydrogel sealant. The mixing of the precursors is accomplished as the materials exit the tip of the applicator. The hydrogel implant is absorbed in approximately 4 to 8 weeks, sufficient time to allow for healing. The DuraSeal Dural Sealant System is provided sterile and consists of the following packaged in a lidded tray: - Powder Vial/Diluent Syringe Assembly - Clear Precursor Syringe Applicator Spray Tips (3) Plunger Cap",
+    "sizing_specs": null,
+    "indications": "The DuraSeal Dural Sealant System is intended for use as an adjunct to sutured dural repair during cranial surgery to provide watertight closure. DuraSeal should only be used with autologous duraplasty material.",
+    "contraindications": "Do not apply the DuraSeal hydrogel to confined bony structures where nerves are present since neural compression may result due to hydrogel swelling. The hydrogel may swell up to 50% of its size in any dimension.",
+    "compatible_with": null,
+    "use_notes": "**Polymer Kit Mixing Instructions** \n\n### Note:\n\n- Inspect the PEG powder vial to ensure the powder is free flowing, or can be loosened up by shaking. If the powder remains not free-flowing, discard the entire kit.\n- Open the sterile tray. Remove the contents from the tray and introduce into the sterile field.\n- Pierce the vial seal on the powder vial by pushing the syringe/stopcock into the vial cap. The vial seal is completely pierced when the vial luer neck is recessed into the vial cap and a \"click\" is noted; twisting is not required. Avoid pushing the syringe plunger.\n- Rotate the stopcock to the open position, and inject syringe contents into the vial.\n   Note: if fluid is leaking from the vial/syringe assembly, discard the entire polymer kit.\n- Gently shake the vial/syringe assembly until the powder is completely dissolved. The solution will turn blue.\n- Invert the vial/syringe assembly, and draw the vial contents back into the syringe.\n- Unscrew the syringe from the vial/stopcock assembly and discard the vial/stopcock assembly.\n\n# Applicator Preparation (Assembly and Priming)\n\nPrior to attaching the syringes to the applicator, ensure syringe fluid levels are equal. If fluid levels are not equal, expel fluids out of syringes until equal.\n\nAttach blue and clear precursor syringes to the applicator.\n\n While holding the syringes by the plungers, carefully attach the plunger cap to the plungers of both syringes without dispensing precursors into the applicator.\n\n### Note:\n\nAvoid touching the plunger cap before application to avoid inadvertent precursor injection and tip plugging\n\n4. Attach a spray tip to the applicator.\n\n### **Hydrogel Application**\n\n### Note:\n\n- Achieve hemostasis and minimize CSF outflow. Ensure that there are 2-3 mm margins around the durotomy edge and that the margins are clear of clots and fluids, hemostatic agents and loose connective tissue.\n  - Position the applicator 2-4 cm from the target site. Apply firm even pressure to the center of the plunger cap to dispense the precursors. Rapid initial spraying, followed by a slower controlled rate is recommended.\n- Continue applying the hydrogel until a thin (1 2 mm) coating is formed.\n   Note: If delivery is interrupted and the spray tip is plugged, remove the spray tip, wipe the applicator tip, attach a new spray tip and continue delivery.\n   Note: The blue color of the hydrogel aids in gauging thickness. As the thickness of the DuraSeal hydrogel increases to 2 mm, the fine epidural vasculature becomes less visible.\n- Hydrogel application beyond the edges of the dural margin may be removed with scissors or mechanical disruption. Irrigation immediately after the sealant has solidified is permitted.",
+    "also_known_as": null
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "indications": 0.7,
+    "contraindications": 0.7,
+    "use_notes": 0.7
+  }
+}

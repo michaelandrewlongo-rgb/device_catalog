@@ -1,0 +1,61 @@
+{
+  "device_name": "CEREGLIDE 71 Intermediate Catheter with TruCourse",
+  "manufacturer": "cerenovus",
+  "catalog_category": "distal-access",
+  "filename_stem": "distal-access--cerenovus--cereglide-71-intermediate-catheter-with-trucourse",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "Intermediate catheter engineered for stroke intervention with TruCourse Technology for smoother navigation. Features 55cm hydrophilic coating, 1:1 responsiveness, angle cut polymer jacket for smooth transitions, and improved lumen integrity during intra-procedural use.",
+  "sizing_specs": "Usable Length: 115 cm; Product codes: EVT110, NIC71115U, NIC71132U, NIC71137U; Compatible with base catheters >= 0.085 inch ID",
+  "indications": "Optimized for effective direct aspiration and up to 3 stent retriever passes. Designed for acute ischemic stroke intervention.",
+  "contraindications": null,
+  "compatible_with": "EMBOTRAP III Revascularization Device, EMBOGUARD Balloon Guide Catheter, CEREBASE DA Guide Sheath, Prowler EX Microcatheter (CERENOVUS Stroke Solutions system)",
+  "use_notes": "More trackable than Sofia Plus, React 71, Catalyst 6, and Large Bore Catheter. Lower track forces than Zoom 71. More kink-resistant during intra-procedural use than Sofia Plus and React 71. Larger inner diameter than Sofia Plus, Catalyst 6, Catalyst 7, React 68.",
+  "deployment_steps": null,
+  "also_known_as": [
+    "CEREGLIDE 71",
+    "CereGlide"
+  ],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.jnjmedtech.com/en-US/products/neurovascular/ischemic/cereglide-71-intermediate-catheter-with-trucourse/",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "sizing_specs": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "indications": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "use_notes": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "also_known_as": {
+      "source": "scraper",
+      "confidence": 0.5
+    }
+  }
+}

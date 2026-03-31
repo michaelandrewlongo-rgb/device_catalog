@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K193211",
+  "clearance_date": "2020-03-20",
+  "device_class": 2,
+  "manufacturer_canonical": "nanovis-spine-llc",
+  "manufacturer_raw": "Nanovis Spine, LLC",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "Nano FortiFix® System",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--nanovis-spine-llc--nano-fortifix-r",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf19/K193211.pdf"
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K240350",
+  "clearance_date": "2024-04-03",
+  "device_class": 2,
+  "manufacturer_canonical": "gs-medical-co-ltd",
+  "manufacturer_raw": "GS Medical Co., Ltd.",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "AnyPlus II Spinal Fixation System",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--gs-medical-co-ltd--anyplus-ii-spinal-fixation",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K240350.pdf"
+}

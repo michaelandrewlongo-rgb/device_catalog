@@ -1,0 +1,20 @@
+{
+  "source": "fda_udi",
+  "brand_name": "072 Aspiration System",
+  "extraction_method": "fda_udi_api",
+  "fields": {
+    "what_it_is": "072 Aspiration Tubing",
+    "sizing_specs": "Catalog: APT-95; Model: FG 00995",
+    "use_notes": "MRI: Labeling does not contain MRI Safety Information. Pre-sterilized. Single-use",
+    "also_known_as": [
+      "072 Aspiration System",
+      "Thrombectomy suction catheter"
+    ]
+  },
+  "confidence": {
+    "what_it_is": 0.85,
+    "sizing_specs": 0.85,
+    "use_notes": 0.85,
+    "also_known_as": 0.85
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K091689",
+  "clearance_date": "2009-07-10",
+  "device_class": 2,
+  "manufacturer_canonical": "depuy",
+  "manufacturer_raw": "Synthes (Usa)",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "SYNAPSE SYSTEM 4.0MM, OC FUSION SYSTEM 4.0MM",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--depuy--synapse-4-0mm-oc-fusion",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf09/K091689.pdf"
+}

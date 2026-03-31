@@ -1,0 +1,28 @@
+{
+  "device_name": "Modified Trevo ProVue Retriever, Trevo XP ProVue Retriever 4x20mm, Trevo XP ProVue Retriever 3x20mm, Trevo XP ProVue Retriever 6x25mm, Trevo XP ProVue Retriever 4x30mm",
+  "manufacturer": "stryker",
+  "catalog_category": "thrombectomy",
+  "filename_stem": "thrombectomy--stryker--modified-trevo-provue-trevo-xp",
+  "clearance_type": "510k",
+  "clearance_number": "DEN150049",
+  "clearance_date": "2016-09-02",
+  "device_class": 2,
+  "device_name_fda": "Modified Trevo ProVue Retriever, Trevo XP ProVue Retriever 4x20mm, Trevo XP ProVue Retriever 3x20mm, Trevo XP ProVue Retriever 6x25mm, Trevo XP ProVue Retriever 4x30mm",
+  "product_code": "POL",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

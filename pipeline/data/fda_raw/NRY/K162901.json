@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K162901",
+  "clearance_date": "2017-04-20",
+  "device_class": 2,
+  "manufacturer_canonical": "penumbra",
+  "manufacturer_raw": "Penumbra, Inc.",
+  "catalog_category": "thrombectomy",
+  "device_name_fda": "Penumbra 3D Revascularization Device",
+  "product_code": "NRY",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "thrombectomy--penumbra--penumbra-3d-revascularization",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf16/K162901.pdf"
+}

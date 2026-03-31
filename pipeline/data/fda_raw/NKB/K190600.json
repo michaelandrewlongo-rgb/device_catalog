@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K190600",
+  "clearance_date": "2020-08-18",
+  "device_class": 2,
+  "manufacturer_canonical": "orion-biotech-inc",
+  "manufacturer_raw": "Orion Biotech, Inc.",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "ORION Spinal System",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--orion-biotech-inc--orion-spinal",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf19/K190600.pdf"
+}

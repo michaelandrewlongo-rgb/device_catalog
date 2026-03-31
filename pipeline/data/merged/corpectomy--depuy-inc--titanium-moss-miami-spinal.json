@@ -1,0 +1,28 @@
+{
+  "device_name": "TITANIUM MOSS MIAMI SPINAL SYSTEM",
+  "manufacturer": "depuy-inc",
+  "catalog_category": "corpectomy",
+  "filename_stem": "corpectomy--depuy-inc--titanium-moss-miami-spinal",
+  "clearance_type": "510k",
+  "clearance_number": "K955348",
+  "clearance_date": "1996-02-16",
+  "device_class": 2,
+  "device_name_fda": "TITANIUM MOSS MIAMI SPINAL SYSTEM",
+  "product_code": "KWP",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf95/K955348.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K924600",
+  "clearance_date": "1992-12-10",
+  "device_class": 2,
+  "manufacturer_canonical": "cordis",
+  "manufacturer_raw": "Cordis Corp.",
+  "catalog_category": "csf-shunt",
+  "device_name_fda": "INTEGRAL DRAINAGE/VENTRICULAR/LUMBAR DRAINAGE SETS",
+  "product_code": "JXG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "csf-shunt--cordis--integral-drainage-ventricular-lumbar-drainage",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf92/K924600.pdf"
+}

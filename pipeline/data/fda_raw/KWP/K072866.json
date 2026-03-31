@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K072866",
+  "clearance_date": "2007-12-13",
+  "device_class": 2,
+  "manufacturer_canonical": "custom-spine-inc",
+  "manufacturer_raw": "Custom Spine, Inc.",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "ISSYS LP SPINAL FIXATION SYSTEM",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--custom-spine-inc--issys-lp-spinal-fixation",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf07/K072866.pdf"
+}

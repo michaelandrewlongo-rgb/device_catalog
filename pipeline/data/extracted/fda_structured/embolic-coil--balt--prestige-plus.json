@@ -1,0 +1,18 @@
+{
+  "source": "fda_udi",
+  "brand_name": "Prestige Plus",
+  "extraction_method": "fda_udi_api",
+  "fields": {
+    "sizing_specs": "Model: 9185",
+    "use_notes": "MRI: Labeling does not contain MRI Safety Information. Pre-sterilized. Single-use",
+    "also_known_as": [
+      "PrimeWire Prestige Plus Pressure Guide Wire 185cm ST",
+      "Catheter-tip transducer, pressure"
+    ]
+  },
+  "confidence": {
+    "sizing_specs": 0.85,
+    "use_notes": 0.85,
+    "also_known_as": 0.85
+  }
+}

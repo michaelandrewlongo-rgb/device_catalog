@@ -1,0 +1,28 @@
+{
+  "device_name": "ETURN SPINAL IMPLANT MODEL ETURN XX-12; ETURN XX-16 WHERE XX=07, 09, 11, 13, OR 15 AND ETURN XX-12 K; ETURN XX-16 K WHER",
+  "manufacturer": "icotec",
+  "catalog_category": "pedicle-screw",
+  "filename_stem": "pedicle-screw--icotec--eturn-spinal-implant-model-eturn",
+  "clearance_type": "510k",
+  "clearance_number": "K100305",
+  "clearance_date": "2011-07-21",
+  "device_class": 2,
+  "device_name_fda": "ETURN SPINAL IMPLANT MODEL ETURN XX-12; ETURN XX-16 WHERE XX=07, 09, 11, 13, OR 15 AND ETURN XX-12 K; ETURN XX-16 K WHER",
+  "product_code": "MAX",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf10/K100305.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

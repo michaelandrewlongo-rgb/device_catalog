@@ -1,0 +1,18 @@
+{
+  "source": "fda_udi",
+  "brand_name": "VICEROY SPINAL SYSTEM",
+  "extraction_method": "fda_udi_api",
+  "fields": {
+    "sizing_specs": "Model: V-0200 7555",
+    "use_notes": "MRI: Labeling does not contain MRI Safety Information. Sterilized: Moist Heat or Steam Sterilization. Single-use",
+    "also_known_as": [
+      "VICEROY Spinal System",
+      "Bone-screw internal spinal fixation system, non-sterile"
+    ]
+  },
+  "confidence": {
+    "sizing_specs": 0.85,
+    "use_notes": 0.85,
+    "also_known_as": 0.85
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "device_name": "Endoskeleton TC Interbody System, Endoskeleton TCS Interbody System, Endoskeleton TA Interbody System, Endoskeleton TAS & TAS Hyp Interbody System, Endoskeleton TL Interbody System, Endoskeleton TL Hyp. Interbody System, Endoskeleton TO Interbody System, Endoskeleton TT Interbody System",
+  "manufacturer": "medtronic",
+  "catalog_category": "pedicle-screw",
+  "filename_stem": "pedicle-screw--medtronic--endoskeleton-tc-interbody-endoskeleton-tcs",
+  "clearance_type": "510k",
+  "clearance_number": "K211258",
+  "clearance_date": "2021-05-26",
+  "device_class": 2,
+  "device_name_fda": "Endoskeleton TC Interbody System, Endoskeleton TCS Interbody System, Endoskeleton TA Interbody System, Endoskeleton TAS & TAS Hyp Interbody System, Endoskeleton TL Interbody System, Endoskeleton TL Hyp. Interbody System, Endoskeleton TO Interbody System, Endoskeleton TT Interbody System",
+  "product_code": "MAX",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K211258.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K211120",
+  "clearance_date": "2022-03-31",
+  "device_class": 2,
+  "manufacturer_canonical": "microvention",
+  "manufacturer_raw": "MicroVention, Inc.",
+  "catalog_category": "thrombectomy",
+  "device_name_fda": "ERIC Retrieval Device",
+  "product_code": "NRY",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "thrombectomy--microvention--eric-retrieval",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K211120.pdf"
+}

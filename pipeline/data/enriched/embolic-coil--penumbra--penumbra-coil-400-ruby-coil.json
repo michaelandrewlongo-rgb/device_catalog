@@ -1,0 +1,62 @@
+{
+  "device_name": "Penumbra Coil 400, Ruby Coil System, POD System",
+  "manufacturer": "penumbra",
+  "catalog_category": "embolic-coil",
+  "filename_stem": "embolic-coil--penumbra--penumbra-coil-400-ruby-coil",
+  "clearance_type": "510k",
+  "clearance_number": "K173614",
+  "clearance_date": "2018-04-17",
+  "device_class": 2,
+  "device_name_fda": "Penumbra Coil 400, Ruby Coil System, POD System",
+  "product_code": "HCG",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "[FDA RECALL] 1 active recall(s).\n  - The diameter of a component of the device is out of tolerance specification; the Delivery Pusher pull wire which secures the coil in place can prolapse and allow premature detachment of the coil.",
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf17/K173614.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "none",
+      "confidence": 0
+    },
+    "sizing_specs": {
+      "source": "none",
+      "confidence": 0
+    },
+    "indications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "none",
+      "confidence": 0
+    },
+    "also_known_as": {
+      "source": "none",
+      "confidence": 0
+    },
+    "_safety": {
+      "source": "fda_maude+recalls",
+      "confidence": 0.85
+    }
+  }
+}

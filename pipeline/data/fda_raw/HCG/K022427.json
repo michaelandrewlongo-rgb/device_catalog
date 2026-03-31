@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K022427",
+  "clearance_date": "2002-08-22",
+  "device_class": 2,
+  "manufacturer_canonical": "boston-scientific",
+  "manufacturer_raw": "Boston Scientific Corp",
+  "catalog_category": "embolic-coil",
+  "device_name_fda": "CONTOUR SE MICROSPHERES",
+  "product_code": "HCG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "embolic-coil--boston-scientific--contour-se-microspheres",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf02/K022427.pdf"
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K212389",
+  "clearance_date": "2021-10-29",
+  "device_class": 2,
+  "manufacturer_canonical": "intelivation-llc",
+  "manufacturer_raw": "Intelivation, LLC",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "Advantage Lumbar System - ALIF, PLIF, DLIF, TLIF",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--intelivation-llc--advantage-lumbar-alif-plif-dlif",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K212389.pdf"
+}

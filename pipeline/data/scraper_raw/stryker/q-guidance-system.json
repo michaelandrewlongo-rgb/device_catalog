@@ -1,0 +1,18 @@
+{
+  "device_name": "Q Guidance System",
+  "manufacturer": "stryker",
+  "category_hint": "navigation",
+  "source_url": "https://www.stryker.com/us/en/spine/products/q-guidance-system.html",
+  "what_it_is": "Advanced surgical planning and navigation platform for cranial and spine procedures. Features FP8000 4th-generation camera with full-spectrum active/passive hybrid optical tracking. Only guidance system with proprietary active technology. Dual PC architecture (Real-Time PC tracks patient data independent of Application PC). Two touch screen monitors for inside/outside sterile field control.",
+  "sizing_specs": "Components: FP8000 camera, camera arm, monitor arm, dual computer system, big and small touch monitors, optional EM field generator for cranial. Castors with brakes.",
+  "indications": "Cranial and spine surgical navigation. Spine Guidance Software is FDA-cleared for pediatric patients age 13+.",
+  "contraindications": null,
+  "compatible_with": "Airo TruCT (seamless integration and auto registration). Cranial Guidance Software with optional EM tracking and Precision Targeting System for brain biopsy. Spine Guidance 5 Software with Copilot.",
+  "use_notes": "Up to 4x faster than StealthStation, up to 16x faster than Excelsius per manufacturer claims. Full-spectrum active/passive hybrid optical tracking enables accurate re-registration using reference points.",
+  "also_known_as": [
+    "Q Guidance",
+    "Stryker Navigation"
+  ],
+  "ifu_pdf_url": null,
+  "other_pdf_urls": {}
+}

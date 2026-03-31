@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K211594",
+  "clearance_date": "2021-11-26",
+  "device_class": 2,
+  "manufacturer_canonical": "stryker",
+  "manufacturer_raw": "Stryker Neurovascular",
+  "catalog_category": "microcatheter",
+  "device_name_fda": "Trevo Trak 21 Microcatheter",
+  "product_code": "QJP",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "microcatheter--stryker--trevo-trak-21-microcatheter",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K211594.pdf"
+}

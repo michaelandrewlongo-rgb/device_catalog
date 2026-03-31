@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K062685",
+  "clearance_date": "2006-10-06",
+  "device_class": 2,
+  "manufacturer_canonical": "ebi-l-p",
+  "manufacturer_raw": "Ebi, L.P.",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "EBI ARAY SPINAL SYSTEM",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--ebi-l-p--ebi-aray-spinal",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf06/K062685.pdf"
+}

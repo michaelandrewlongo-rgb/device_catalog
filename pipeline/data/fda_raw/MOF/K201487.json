@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K201487",
+  "clearance_date": "2020-07-02",
+  "device_class": 2,
+  "manufacturer_canonical": "microvention",
+  "manufacturer_raw": "MicroVention, Inc.",
+  "catalog_category": "guidewire",
+  "device_name_fda": "Traxcess 7 Mini Guidewire",
+  "product_code": "MOF",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "guidewire--microvention--traxcess-7-mini-guidewire",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K201487.pdf"
+}

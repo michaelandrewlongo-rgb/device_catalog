@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K210359",
+  "clearance_date": "2021-03-10",
+  "device_class": 2,
+  "manufacturer_canonical": "spinevision-s-a-s",
+  "manufacturer_raw": "Spinevision, S.A.S.",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "Hexanium TLIF",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--spinevision-s-a-s--hexanium-tlif",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K210359.pdf"
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K222743",
+  "clearance_date": "2022-10-04",
+  "device_class": 2,
+  "manufacturer_canonical": "route-92-medical-inc",
+  "manufacturer_raw": "Route 92 Medical, Inc.",
+  "catalog_category": "microcatheter",
+  "device_name_fda": "Route 92 Medical Full Length 070 Access System",
+  "product_code": "QJP",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "microcatheter--route-92-medical-inc--route-92-medical-full-length",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K222743.pdf"
+}

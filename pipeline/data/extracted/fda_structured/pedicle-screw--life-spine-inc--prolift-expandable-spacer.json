@@ -1,0 +1,18 @@
+{
+  "source": "fda_udi",
+  "brand_name": "ProLift Expandable Spacer System",
+  "extraction_method": "fda_udi_api",
+  "fields": {
+    "sizing_specs": "Catalog: 151-212; Model: 151-212",
+    "use_notes": "MRI: Labeling does not contain MRI Safety Information. Sterilized: Moist Heat or Steam Sterilization. Single-use",
+    "also_known_as": [
+      "ProLift Expandable Spacer System",
+      "Metallic spinal interbody fusion cage"
+    ]
+  },
+  "confidence": {
+    "sizing_specs": 0.85,
+    "use_notes": 0.85,
+    "also_known_as": 0.85
+  }
+}

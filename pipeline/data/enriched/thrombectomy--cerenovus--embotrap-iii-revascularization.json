@@ -1,0 +1,58 @@
+{
+  "device_name": "EMBOTRAP III Revascularization Device",
+  "manufacturer": "cerenovus",
+  "catalog_category": "thrombectomy",
+  "filename_stem": "thrombectomy--cerenovus--embotrap-iii-revascularization",
+  "clearance_type": "510k",
+  "clearance_number": "K193063",
+  "clearance_date": "2020-07-14",
+  "device_class": 2,
+  "device_name_fda": "EMBOTRAP III Revascularization Device",
+  "product_code": "NRY",
+  "what_it_is": null,
+  "sizing_specs": "Sheath Compatibility (F): –\nWorking Length (cm): 194 (overall length)",
+  "indications": "Designed for use in the anterior and posterior neurovasculature in vessels such as the internal carotid artery, the M1 or M2 segments of the middle cerebral artery, and basilar arteries (vessel sizes ranging from 1.5 mm up to 5 mm for the 5-mm diameter device)",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "Mode of Operation: –",
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf19/K193063.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "none",
+      "confidence": 0
+    },
+    "sizing_specs": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "indications": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "also_known_as": {
+      "source": "none",
+      "confidence": 0
+    }
+  }
+}

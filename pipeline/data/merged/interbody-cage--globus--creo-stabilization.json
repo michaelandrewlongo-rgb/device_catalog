@@ -1,0 +1,35 @@
+{
+  "device_name": "CREO 5.5 Stabilization System",
+  "manufacturer": "globus",
+  "catalog_category": "interbody-cage",
+  "filename_stem": "interbody-cage--globus--creo-stabilization",
+  "clearance_type": "510k",
+  "clearance_number": "K143633",
+  "clearance_date": "2015-01-30",
+  "device_class": 2,
+  "device_name_fda": "CREO Stabilization System",
+  "product_code": "NKB",
+  "what_it_is": "Complete thoracolumbar stabilization system with low-profile design. Non-threaded locking mechanism. Available in titanium and cobalt chromium (CREO CoCr). Multiple variants: CREO MIS (percutaneous), CREO MCS (cortical screw), CREO AMP (advanced modular platform), CREO NXT (non-threaded CoCr deformity), CREO DLX (6.0/6.35mm rod), CREO ONE Robotic Screw, CREO Side Loading. Procedurally integrated with ExcelsiusGPS.",
+  "sizing_specs": "5.5mm rod (standard). 6.0/6.35mm rod (DLX). Ti and CoCr alloy options.",
+  "indications": "Thoracolumbar stabilization for degenerative, deformity, tumor, and trauma.",
+  "contraindications": null,
+  "compatible_with": "ExcelsiusGPS navigation/robotics. Bendini rod bending. CREO Derotation Instruments. CREO AMP QUAD connectors.",
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [
+    "CREO",
+    "CREO MIS",
+    "CREO AMP",
+    "CREO NXT",
+    "CREO DLX"
+  ],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf14/K143633.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.globusmedical.com/healthcare-professionals/spine/procedures/deformity/",
+  "confidence_score": 0.6666666666666666,
+  "needs_review": true,
+  "data_sources": [
+    "fda",
+    "scraper"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K253577",
+  "clearance_date": "2025-12-19",
+  "device_class": 2,
+  "manufacturer_canonical": "medtronic",
+  "manufacturer_raw": "Medicrea International S.A.S. (Medtronic)",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "IB3D PL Spinal System (A24000000 / IB3D Universal Implant Inserter)",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--medtronic--ib3d-pl-spinal-a24000000-ib3d",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf25/K253577.pdf"
+}

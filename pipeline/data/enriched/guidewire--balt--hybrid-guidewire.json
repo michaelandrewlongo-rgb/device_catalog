@@ -1,0 +1,62 @@
+{
+  "device_name": "Hybrid",
+  "manufacturer": "balt",
+  "catalog_category": "guidewire",
+  "filename_stem": "guidewire--balt--hybrid-guidewire",
+  "clearance_type": "510k",
+  "clearance_number": "K182337",
+  "clearance_date": "2018-10-04",
+  "device_class": 2,
+  "device_name_fda": "HYBRID Guidewire",
+  "product_code": "MOF",
+  "what_it_is": "Revere Hybrid Access Catheter is a single lumen, hybrid coil and braid-reinforced, variable stiffness catheter with a radiopaque zone on the distal end and a luer hub on the proximal end. The catheter is provided sterile, non-pyrogenic, and is intended for single use only.",
+  "sizing_specs": "Catalog: N/A; Model: REVERE6F65",
+  "indications": "The HYBRID Guidewire is intended for general intravascular use, including the neuro and peripheral vasculature. The guidewire can be steered to facilitate the selective placement of diagnostic or therapeutic catheters. This device is not intended for use in the coronary arteries.",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "MRI: Labeling does not contain MRI Safety Information. Pre-sterilized. Single-use",
+  "deployment_steps": null,
+  "also_known_as": [
+    "Revere Hybrid Access Catheter",
+    "Vascular guide-catheter, single-use"
+  ],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf18/K182337.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "https://baltgroup.com/products/hybrid",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda",
+    "scraper"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "sizing_specs": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "indications": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "also_known_as": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    }
+  }
+}

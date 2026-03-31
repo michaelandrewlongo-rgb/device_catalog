@@ -1,0 +1,28 @@
+{
+  "device_name": "SP-FIX SPINOUS PROCESS FIXATION PLATE",
+  "manufacturer": "globus",
+  "catalog_category": "corpectomy",
+  "filename_stem": "corpectomy--globus--sp-fix-spinous-process-fixation",
+  "clearance_type": "510k",
+  "clearance_number": "K102195",
+  "clearance_date": "2011-01-19",
+  "device_class": 2,
+  "device_name_fda": "SP-FIX SPINOUS PROCESS FIXATION PLATE",
+  "product_code": "KWP",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf10/K102195.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "device_name": "Q Guidance System",
+  "manufacturer": "stryker",
+  "catalog_category": "navigation",
+  "filename_stem": "navigation--stryker--q-guidance-system",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "Advanced surgical planning and navigation platform for cranial and spine procedures. Features FP8000 4th-generation camera with full-spectrum active/passive hybrid optical tracking. Only guidance system with proprietary active technology. Dual PC architecture (Real-Time PC tracks patient data independent of Application PC). Two touch screen monitors for inside/outside sterile field control.",
+  "sizing_specs": "Components: FP8000 camera, camera arm, monitor arm, dual computer system, big and small touch monitors, optional EM field generator for cranial. Castors with brakes.",
+  "indications": "Cranial and spine surgical navigation. Spine Guidance Software is FDA-cleared for pediatric patients age 13+.",
+  "contraindications": null,
+  "compatible_with": "Airo TruCT (seamless integration and auto registration). Cranial Guidance Software with optional EM tracking and Precision Targeting System for brain biopsy. Spine Guidance 5 Software with Copilot.",
+  "use_notes": "Up to 4x faster than StealthStation, up to 16x faster than Excelsius per manufacturer claims. Full-spectrum active/passive hybrid optical tracking enables accurate re-registration using reference points.",
+  "deployment_steps": null,
+  "also_known_as": [
+    "Q Guidance",
+    "Stryker Navigation"
+  ],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.stryker.com/us/en/spine/products/q-guidance-system.html",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "sizing_specs": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "indications": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "use_notes": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "also_known_as": {
+      "source": "scraper",
+      "confidence": 0.5
+    }
+  }
+}

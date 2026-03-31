@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K142458",
+  "clearance_date": "2015-05-22",
+  "device_class": 2,
+  "manufacturer_canonical": "penumbra",
+  "manufacturer_raw": "Penumbra, Inc.",
+  "catalog_category": "aspiration",
+  "device_name_fda": "Penumbra System ACE",
+  "product_code": "NRY",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "aspiration--penumbra--penumbra-ace",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf14/K142458.pdf"
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K183259",
+  "clearance_date": "2019-03-01",
+  "device_class": 2,
+  "manufacturer_canonical": "clariance-sas",
+  "manufacturer_raw": "Clariance, Sas",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "Idys TLIF TiVac",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--clariance-sas--idys-tlif-tivac",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf18/K183259.pdf"
+}

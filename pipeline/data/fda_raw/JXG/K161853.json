@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K161853",
+  "clearance_date": "2017-02-27",
+  "device_class": 2,
+  "manufacturer_canonical": "aesculap-inc",
+  "manufacturer_raw": "Aesculap, Inc.",
+  "catalog_category": "csf-shunt",
+  "device_name_fda": "proGAV Programmable Shunt System, proGAV 2.0 Adjustable Shunt System, proSA Adjustable Shunt System",
+  "product_code": "JXG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "csf-shunt--aesculap-inc--progav-programmable-shunt-progav-2",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf16/K161853.pdf"
+}

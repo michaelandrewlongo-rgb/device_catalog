@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K242033",
+  "clearance_date": "2024-12-11",
+  "device_class": 2,
+  "manufacturer_canonical": "penumbra",
+  "manufacturer_raw": "Penumbra, Inc.",
+  "catalog_category": "microcatheter",
+  "device_name_fda": "Access25 Delivery Microcatheter",
+  "product_code": "QJP",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "microcatheter--penumbra--access25-delivery-microcatheter",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K242033.pdf"
+}

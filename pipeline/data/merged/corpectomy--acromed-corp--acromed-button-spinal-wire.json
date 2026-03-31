@@ -1,0 +1,28 @@
+{
+  "device_name": "ACROMED BUTTON SPINAL WIRE",
+  "manufacturer": "acromed-corp",
+  "catalog_category": "corpectomy",
+  "filename_stem": "corpectomy--acromed-corp--acromed-button-spinal-wire",
+  "clearance_type": "510k",
+  "clearance_number": "K895441",
+  "clearance_date": "1989-11-22",
+  "device_class": 2,
+  "device_name_fda": "ACROMED BUTTON SPINAL WIRE",
+  "product_code": "KWP",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf89/K895441.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

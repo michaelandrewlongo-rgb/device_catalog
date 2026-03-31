@@ -1,0 +1,28 @@
+{
+  "device_name": "MODIFIED TARGET THERAPEUTICS COILS",
+  "manufacturer": "stryker",
+  "catalog_category": "embolic-coil",
+  "filename_stem": "embolic-coil--stryker--modified-target-therapeutics-coils",
+  "clearance_type": "510k",
+  "clearance_number": "K901721",
+  "clearance_date": "1990-07-03",
+  "device_class": 2,
+  "device_name_fda": "MODIFIED TARGET THERAPEUTICS COILS",
+  "product_code": "HCG",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf90/K901721.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K123134",
+  "clearance_date": "2013-02-01",
+  "device_class": 2,
+  "manufacturer_canonical": "zimmer-biomet",
+  "manufacturer_raw": "Ldr Spine USA, Inc.",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "EASYSPINE SYSTEM",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--zimmer-biomet--easyspine",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf12/K123134.pdf"
+}

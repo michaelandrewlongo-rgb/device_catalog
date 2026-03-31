@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K110560",
+  "clearance_date": "2011-11-18",
+  "device_class": 2,
+  "manufacturer_canonical": "medtronic",
+  "manufacturer_raw": "Medtronic Neurosurgery",
+  "catalog_category": "csf-shunt",
+  "device_name_fda": "MEDTRONIC ARES ANTIBIOTIC-IMPREGNATED CATHETER",
+  "product_code": "JXG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": true,
+  "suggested_filename_stem": "csf-shunt--medtronic--medtronic-ares-antibiotic-impregnated-catheter",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf11/K110560.pdf"
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K043020",
+  "clearance_date": "2005-01-07",
+  "device_class": 2,
+  "manufacturer_canonical": "medtronic",
+  "manufacturer_raw": "Medtronic Sofamor Danek",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "GLAXY 3.2 SPINAL SYSTEM",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--medtronic--glaxy-3-2-spinal",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf04/K043020.pdf"
+}

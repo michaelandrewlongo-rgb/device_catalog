@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K120961",
+  "clearance_date": "2012-08-03",
+  "device_class": 2,
+  "manufacturer_canonical": "stryker",
+  "manufacturer_raw": "Concentric Medical, Inc.",
+  "catalog_category": "thrombectomy",
+  "device_name_fda": "TREVO RETRIEVER",
+  "product_code": "NRY",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": true,
+  "suggested_filename_stem": "thrombectomy--stryker--trevo",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf12/K120961.pdf"
+}

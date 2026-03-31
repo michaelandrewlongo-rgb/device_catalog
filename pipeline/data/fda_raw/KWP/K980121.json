@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K980121",
+  "clearance_date": "1998-06-10",
+  "device_class": 2,
+  "manufacturer_canonical": "aesculap-inc",
+  "manufacturer_raw": "Aesculap, Inc.",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "AESCULAP SPINE SYSTEM ADDITIONAL COMPONENTS",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--aesculap-inc--aesculap-spine-additional-components",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf98/K980121.pdf"
+}

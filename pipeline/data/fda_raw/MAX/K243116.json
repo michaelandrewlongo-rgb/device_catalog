@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K243116",
+  "clearance_date": "2025-05-21",
+  "device_class": 2,
+  "manufacturer_canonical": "integrity-implants-inc-dba-accelus",
+  "manufacturer_raw": "Integrity Implants Inc. Dba Accelus",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "FlareHawk Interbody Fusion System",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--integrity-implants-inc-dba-accelus--flarehawk-interbody-fusion",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K243116.pdf"
+}

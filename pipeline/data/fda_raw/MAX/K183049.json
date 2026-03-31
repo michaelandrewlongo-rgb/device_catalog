@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K183049",
+  "clearance_date": "2019-02-15",
+  "device_class": 2,
+  "manufacturer_canonical": "reliance-medical-systems-llc",
+  "manufacturer_raw": "Reliance Medical Systems, LLC",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "Reliance Lumbar IBF System",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--reliance-medical-systems-llc--reliance-lumbar-ibf",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf18/K183049.pdf"
+}

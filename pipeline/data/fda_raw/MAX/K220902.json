@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K220902",
+  "clearance_date": "2022-05-27",
+  "device_class": 2,
+  "manufacturer_canonical": "kalitec-medical-llc",
+  "manufacturer_raw": "Kalitec Medical, LLC",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "Navagio Lumbar Cage",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--kalitec-medical-llc--navagio-lumbar-cage",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K220902.pdf"
+}

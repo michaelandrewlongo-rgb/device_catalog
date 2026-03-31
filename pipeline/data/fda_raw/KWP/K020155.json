@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K020155",
+  "clearance_date": "2002-02-05",
+  "device_class": 2,
+  "manufacturer_canonical": "medtronic",
+  "manufacturer_raw": "Medtronic Sofamor Danek",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "DYNA-LOK CLASSIC SPINAL SYSTEM",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--medtronic--dyna-lok-classic-spinal",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf02/K020155.pdf"
+}

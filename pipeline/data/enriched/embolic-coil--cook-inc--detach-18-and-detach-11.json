@@ -1,0 +1,62 @@
+{
+  "device_name": "DETACH 18 AND DETACH 11, NEUROLOGICAL EMBOLIZATION COIL SYSTEM",
+  "manufacturer": "cook-inc",
+  "catalog_category": "embolic-coil",
+  "filename_stem": "embolic-coil--cook-inc--detach-18-and-detach-11",
+  "clearance_type": "510k",
+  "clearance_number": "K000651",
+  "clearance_date": "2000-11-24",
+  "device_class": 2,
+  "device_name_fda": "DETACH 18 AND DETACH 11, NEUROLOGICAL EMBOLIZATION COIL SYSTEM",
+  "product_code": "HCG",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "[FDA RECALL] 2 active recall(s).\n  - The product length is declared incorrectly in mm when the unit of measurement should be cm.\n  - The product length is declared incorrectly in mm when the unit of measurement should be cm.",
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf00/K000651.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "none",
+      "confidence": 0
+    },
+    "sizing_specs": {
+      "source": "none",
+      "confidence": 0
+    },
+    "indications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "none",
+      "confidence": 0
+    },
+    "also_known_as": {
+      "source": "none",
+      "confidence": 0
+    },
+    "_safety": {
+      "source": "fda_maude+recalls",
+      "confidence": 0.85
+    }
+  }
+}

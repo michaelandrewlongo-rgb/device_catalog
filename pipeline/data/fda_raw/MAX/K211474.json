@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K211474",
+  "clearance_date": "2021-09-14",
+  "device_class": 2,
+  "manufacturer_canonical": "baat-medical-products-b-v",
+  "manufacturer_raw": "BAAT Medical Products B.V.",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "Kleiner KG2 System",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--baat-medical-products-b-v--kleiner-kg2",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K211474.pdf"
+}

@@ -1,0 +1,63 @@
+{
+  "device_name": "FRED™ X",
+  "manufacturer": "microvention",
+  "catalog_category": "flow-diverter",
+  "filename_stem": "flow-diverter--microvention--fred-x-system",
+  "clearance_type": "pma",
+  "clearance_number": "P180027",
+  "clearance_date": "2025-09-18",
+  "device_class": 3,
+  "device_name_fda": "FRED X System",
+  "product_code": "OUT",
+  "what_it_is": "FRED™ X",
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "[FDA RECALL] 2 active recall(s).\n  - Flow diverter may have a manufacturing issue related to the tantalum length and/or tantalum attachment pattern, which may lead the device to be incompletely open or not properly apposed to the vessel \n  - Intracranial aneurysm flow diverter device may be manufactured with an incorrect inner stent length and may not perform as intended.",
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.terumoneuro.com/products/fred-x",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda",
+    "scraper"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "sizing_specs": {
+      "source": "none",
+      "confidence": 0
+    },
+    "indications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "none",
+      "confidence": 0
+    },
+    "also_known_as": {
+      "source": "none",
+      "confidence": 0
+    },
+    "_safety": {
+      "source": "fda_maude+recalls",
+      "confidence": 0.85
+    }
+  }
+}

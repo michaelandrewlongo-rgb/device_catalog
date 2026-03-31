@@ -1,0 +1,32 @@
+{
+  "device_name": "Solitaire X Revascularization Device",
+  "manufacturer": "medtronic",
+  "catalog_category": "thrombectomy",
+  "filename_stem": "thrombectomy--medtronic--solitaire-x-revascularization",
+  "clearance_type": "510k",
+  "clearance_number": "K203358",
+  "clearance_date": "2021-03-01",
+  "device_class": 2,
+  "device_name_fda": "Solitaire X Revascularization Device",
+  "product_code": "POL",
+  "what_it_is": "Stent retriever designed for effective clot retrieval during thrombectomies for acute ischemic stroke (AIS) patients. Most-published stent retriever with over 200 publications. Parametric overlap design allows stent to expand and compress in vessel during deployment and retrieval.",
+  "sizing_specs": "Sizes: 3mm (vessel 1.5-3.0mm), 4mm (vessel 1.5-4.0mm), 6mm (vessel 2.0-5.5mm); Microcatheter ID: 0.017 inch (3mm) or 0.021 inch (4mm/6mm); Body markers: 3-4; Usable lengths: 20mm, 24mm, 40mm; Product codes: SFR4-3-20-10, SFR4-3-40-10, SFR4-4-20-05, SFR4-4-20-10, SFR4-4-40-10, SFR4-6-20-10, SFR4-6-24-06, SFR4-6-40-10",
+  "indications": "Neurovascular mechanical thrombectomy for acute ischemic stroke (AIS). Vessel sizes 1.5-5.5 mm.",
+  "contraindications": null,
+  "compatible_with": "APRO 55/70 aspiration catheters, Phenom 17/21/27 catheters, React catheters",
+  "use_notes": "Most-published stent retriever. Overlap parametric design fundamental to Solitaire portfolio.",
+  "deployment_steps": null,
+  "also_known_as": [
+    "Solitaire X",
+    "Solitaire"
+  ],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K203358.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.medtronic.com/en-us/healthcare-professionals/products/neurological/neurovascular/stent-retrievers/solitaire-x-revascularization-device.html",
+  "confidence_score": 1.0,
+  "needs_review": false,
+  "data_sources": [
+    "fda",
+    "scraper"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K231241",
+  "clearance_date": "2023-07-12",
+  "device_class": 2,
+  "manufacturer_canonical": "nanohive-medical-llc",
+  "manufacturer_raw": "NanoHive Medical, LLC",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "NanoHive Medical Lumbar Interbody System",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--nanohive-medical-llc--nanohive-medical-lumbar-interbody",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K231241.pdf"
+}

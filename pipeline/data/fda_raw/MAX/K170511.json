@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K170511",
+  "clearance_date": "2017-04-25",
+  "device_class": 2,
+  "manufacturer_canonical": "ht-medical-llc",
+  "manufacturer_raw": "Ht Medical, LLC",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "NeoFuse HA Enhanced PLIF/TLIF",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--ht-medical-llc--neofuse-ha-enhanced-plif-tlif",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf17/K170511.pdf"
+}

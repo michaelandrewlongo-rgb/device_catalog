@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K142531",
+  "clearance_date": "2015-03-20",
+  "device_class": 2,
+  "manufacturer_canonical": "degen-medical",
+  "manufacturer_raw": "Degen Medical",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "F1-Modular Pedicle Screw System",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--degen-medical--f1-modular-pedicle-screw",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf14/K142531.pdf"
+}

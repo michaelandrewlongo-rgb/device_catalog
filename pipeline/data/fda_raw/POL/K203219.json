@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K203219",
+  "clearance_date": "2020-12-29",
+  "device_class": 2,
+  "manufacturer_canonical": "stryker",
+  "manufacturer_raw": "Stryker Neurovascular",
+  "catalog_category": "thrombectomy",
+  "device_name_fda": "Trevo XP ProVue Retriever and Trevo NXT ProVue Retriever",
+  "product_code": "POL",
+  "product_code_description": "Neurology",
+  "already_in_catalog": true,
+  "suggested_filename_stem": "thrombectomy--stryker--trevo-xp-provue-and-trevo",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K203219.pdf"
+}

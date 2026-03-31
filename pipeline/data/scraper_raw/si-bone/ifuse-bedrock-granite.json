@@ -1,0 +1,20 @@
+{
+  "device_name": "iFuse Bedrock Granite",
+  "manufacturer": "si-bone",
+  "category_hint": "sacroiliac-fusion",
+  "source_url": "https://si-bone.com/providers/solutions/spinopelvic-fixation/ifuse-bedrock-granite",
+  "what_it_is": "Spinopelvic fixation implant designed to address the 24% lumbopelvic fixation failure rate. FDA Breakthrough Device Designation. Features robust cannulated core with large neck and shank designed for spinopelvic stresses, FuSIon 3D microporous lattice surface mimicking cancellous bone, OMNICapture tulip and screw set with negative-rake square threads to mitigate tulip splay and expulsion, and IntelliHarvest macroporous graduated fenestrations for bone self-harvesting.",
+  "sizing_specs": null,
+  "indications": "Spinopelvic fixation in adult deformity, revision spine surgery, and cases with concomitant SI joint dysfunction.",
+  "contraindications": null,
+  "compatible_with": "OMNICapture Tulip & Screw Set (included)",
+  "use_notes": "FDA Breakthrough Device Designation. CMS New Technology Add-on Payment (NTAP) eligible for Medicare patients. Use cases include revision with S1/stacked S2AI, congenital deformity revision, adult idiopathic scoliosis.",
+  "also_known_as": [
+    "Bedrock Granite"
+  ],
+  "ifu_pdf_url": null,
+  "other_pdf_urls": {
+    "brochure": "https://assets.si-bone.com/doc/iFuse-Bedrock-Granite-Brochure_11138-031224.pdf",
+    "coding-guide": "https://assets.si-bone.com/doc/PM-12026-A_iFuse-Bedrock-Granite-NTAP-Coding-Guide-2025.pdf"
+  }
+}

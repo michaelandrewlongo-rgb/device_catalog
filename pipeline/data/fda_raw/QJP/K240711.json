@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K240711",
+  "clearance_date": "2024-10-17",
+  "device_class": 2,
+  "manufacturer_canonical": "perfuze-ltd",
+  "manufacturer_raw": "Perfuze, Ltd.",
+  "catalog_category": "microcatheter",
+  "device_name_fda": "Zipline Access Catheter",
+  "product_code": "QJP",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "microcatheter--perfuze-ltd--zipline-access-catheter",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K240711.pdf"
+}

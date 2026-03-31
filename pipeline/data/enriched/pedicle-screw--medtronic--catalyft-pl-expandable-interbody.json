@@ -1,0 +1,61 @@
+{
+  "device_name": "Catalyft PL Expandable Interbody System",
+  "manufacturer": "medtronic",
+  "catalog_category": "pedicle-screw",
+  "filename_stem": "pedicle-screw--medtronic--catalyft-pl-expandable-interbody",
+  "clearance_type": "510k",
+  "clearance_number": "K210425",
+  "clearance_date": "2021-05-24",
+  "device_class": 2,
+  "device_name_fda": "Catalyft PL Expandable Interbody System",
+  "product_code": "MAX",
+  "what_it_is": "Expandable posterior lumbar interbody cage for navigated MIS+ TLIF.",
+  "sizing_specs": null,
+  "indications": "TLIF.",
+  "contraindications": null,
+  "compatible_with": "Space-D, navigation.",
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [
+    "Catalyft PL"
+  ],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K210425.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.medtronicacademy.com/en-us/content/disc-prep---system-access/Spine-Biologics",
+  "confidence_score": 1.0,
+  "needs_review": false,
+  "data_sources": [
+    "fda",
+    "scraper"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "sizing_specs": {
+      "source": "none",
+      "confidence": 0
+    },
+    "indications": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "use_notes": {
+      "source": "none",
+      "confidence": 0
+    },
+    "also_known_as": {
+      "source": "scraper",
+      "confidence": 0.5
+    }
+  }
+}

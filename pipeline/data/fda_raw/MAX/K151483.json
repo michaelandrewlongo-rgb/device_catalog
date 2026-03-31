@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K151483",
+  "clearance_date": "2015-07-31",
+  "device_class": 2,
+  "manufacturer_canonical": "biomet-spine-llc",
+  "manufacturer_raw": "Biomet Spine, LLC",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "Biomet Spine Fusion System",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--biomet-spine-llc--biomet-spine-fusion",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf15/K151483.pdf"
+}

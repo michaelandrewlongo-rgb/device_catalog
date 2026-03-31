@@ -1,0 +1,63 @@
+{
+  "device_name": "Synchro 2 Guidewire",
+  "manufacturer": "stryker",
+  "catalog_category": "guidewire",
+  "filename_stem": "guidewire--stryker--synchro-select-guidewire",
+  "clearance_type": "510k",
+  "clearance_number": "K202522",
+  "clearance_date": "2020-09-25",
+  "device_class": 2,
+  "device_name_fda": "Synchro SELECT Guidewire",
+  "product_code": "MOF",
+  "what_it_is": "OD",
+  "sizing_specs": "CONTACT US\nX",
+  "indications": "The Synchro2 Guidewire series is intended for\ngeneral intravascular use, including neurovascular\nand peripheral vasculatures. It can be used to\nselectively introduce and position catheters and other\ninterventional devices within the peripheral and\nneurovasculature. This device should be used only\nby physicians trained in percutaneous, intravascular\ntechniques and procedures.",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "[FDA RECALL] 1 active recall(s).\n  - Stryker Neurovascular has observed an increased frequency of PTFE coating damage occurring on the Synchro Guidewires that may be caused by the practice of backloading the guidewire through the optiona",
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K202522.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.stryker.com/us/en/neurovascular/products/synchro2.html",
+  "confidence_score": 0.6666666666666666,
+  "needs_review": true,
+  "data_sources": [
+    "fda",
+    "scraper"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "sizing_specs": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "indications": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "none",
+      "confidence": 0
+    },
+    "also_known_as": {
+      "source": "none",
+      "confidence": 0
+    },
+    "_safety": {
+      "source": "fda_maude+recalls",
+      "confidence": 0.85
+    }
+  }
+}

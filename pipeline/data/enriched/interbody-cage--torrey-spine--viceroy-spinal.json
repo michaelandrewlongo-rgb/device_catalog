@@ -1,0 +1,61 @@
+{
+  "device_name": "VICEROY SPINAL SYSTEM",
+  "manufacturer": "torrey-spine",
+  "catalog_category": "interbody-cage",
+  "filename_stem": "interbody-cage--torrey-spine--viceroy-spinal",
+  "clearance_type": "510k",
+  "clearance_number": "K122229",
+  "clearance_date": "2012-11-20",
+  "device_class": 2,
+  "device_name_fda": "VICEROY SPINAL SYSTEM",
+  "product_code": "NKB",
+  "what_it_is": null,
+  "sizing_specs": "Model: V-0200 7555",
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "MRI: Labeling does not contain MRI Safety Information. Sterilized: Moist Heat or Steam Sterilization. Single-use",
+  "deployment_steps": null,
+  "also_known_as": [
+    "VICEROY Spinal System",
+    "Bone-screw internal spinal fixation system, non-sterile"
+  ],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf12/K122229.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "none",
+      "confidence": 0
+    },
+    "sizing_specs": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "indications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "also_known_as": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    }
+  }
+}

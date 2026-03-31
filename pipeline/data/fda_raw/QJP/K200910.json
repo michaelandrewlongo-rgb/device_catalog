@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K200910",
+  "clearance_date": "2020-05-02",
+  "device_class": 2,
+  "manufacturer_canonical": "marblehead-medical",
+  "manufacturer_raw": "Marblehead Medical",
+  "catalog_category": "balloon-catheter",
+  "device_name_fda": "BOSS Balloon Guide Catheter",
+  "product_code": "QJP",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "balloon-catheter--marblehead-medical--boss-balloon-guide-catheter",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K200910.pdf"
+}

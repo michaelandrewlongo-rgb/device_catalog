@@ -1,0 +1,61 @@
+{
+  "device_name": "Esperance 3+ Aspiration Catheter System",
+  "manufacturer": "wallaby-medical",
+  "catalog_category": "aspiration",
+  "filename_stem": "aspiration--wallaby-medical--esperance-3-aspiration-catheter",
+  "clearance_type": "510k",
+  "clearance_number": "K240917",
+  "clearance_date": "2024-10-01",
+  "device_class": 2,
+  "device_name_fda": "Esperance 3+ Aspiration Catheter System",
+  "product_code": "NRY",
+  "what_it_is": "The Esperance® 3+ Aspiration Catheter is a single-use, vascular catheter consisting of a single lumen, variable stiffness, composite catheter.",
+  "sizing_specs": "Model: ASP3F160KIT",
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "MRI: Labeling does not contain MRI Safety Information. Pre-sterilized. Single-use",
+  "deployment_steps": null,
+  "also_known_as": [
+    "Esperance 3+ Aspiration Catheter System",
+    "Thrombectomy suction catheter"
+  ],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K240917.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "sizing_specs": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "indications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "also_known_as": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    }
+  }
+}

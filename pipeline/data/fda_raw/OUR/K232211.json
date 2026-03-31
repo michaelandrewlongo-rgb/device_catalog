@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K232211",
+  "clearance_date": "2023-10-24",
+  "device_class": 2,
+  "manufacturer_canonical": "astura-medical",
+  "manufacturer_raw": "Astura Medical",
+  "catalog_category": "sacroiliac-fusion",
+  "device_name_fda": "REUNION Sacroiliac Joint Fusion System",
+  "product_code": "OUR",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "sacroiliac-fusion--astura-medical--reunion-sacroiliac-joint-fusion",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K232211.pdf"
+}

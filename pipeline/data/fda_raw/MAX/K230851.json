@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K230851",
+  "clearance_date": "2023-05-26",
+  "device_class": 2,
+  "manufacturer_canonical": "met-one-technologies-llc",
+  "manufacturer_raw": "Met One Technologies, LLC",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "Kodiak Lumbar Spacer System",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--met-one-technologies-llc--kodiak-lumbar-spacer",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K230851.pdf"
+}

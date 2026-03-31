@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K151704",
+  "clearance_date": "2016-04-13",
+  "device_class": 2,
+  "manufacturer_canonical": "signus-medizintechnik-gmbh",
+  "manufacturer_raw": "Signus Medizintechnik GmbH",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "Diplomat® Spinal System",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--signus-medizintechnik-gmbh--diplomat-r-spinal",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf15/K151704.pdf"
+}

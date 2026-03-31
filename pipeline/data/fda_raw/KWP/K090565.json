@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K090565",
+  "clearance_date": "2009-06-30",
+  "device_class": 2,
+  "manufacturer_canonical": "globus",
+  "manufacturer_raw": "Globus Medical, Inc.",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "ELLIPSE OCCIPITO-CERICO-THORACIC SPINAL SYSTEM",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--globus--ellipse-occipito-cerico-thoracic-spinal",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf09/K090565.pdf"
+}

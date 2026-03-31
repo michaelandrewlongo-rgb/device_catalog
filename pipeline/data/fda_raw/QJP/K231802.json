@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K231802",
+  "clearance_date": "2023-09-19",
+  "device_class": 2,
+  "manufacturer_canonical": "perfuze-ltd",
+  "manufacturer_raw": "Perfuze, Ltd.",
+  "catalog_category": "microcatheter",
+  "device_name_fda": "Millipede 088 Access Catheter",
+  "product_code": "QJP",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "microcatheter--perfuze-ltd--millipede-088-access-catheter",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K231802.pdf"
+}

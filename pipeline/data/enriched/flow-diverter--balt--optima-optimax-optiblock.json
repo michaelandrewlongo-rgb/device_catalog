@@ -1,0 +1,58 @@
+{
+  "device_name": "Optima / OptiMAX / Optiblock",
+  "manufacturer": "balt",
+  "catalog_category": "flow-diverter",
+  "filename_stem": "flow-diverter--balt--optima-optimax-optiblock",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "Optima / OptiMAX / Optiblock | Coil System\nREACH OUT",
+  "sizing_specs": "— To provide analysis;\n— To save your preferences;\n— To select the right content framework to serve you based on your geolocation.",
+  "indications": "The Optima Coil System is intended for the endovascular embolization of intracranial aneurysms and other neurovascular abnormalities such as arteriovenous malformations and arteriovenous fistulae. The Optima Coil System is also intended for vascular occlusion of blood vessels within the neurovascular system to permanently obstruct blood flow to an aneurysm or other vascular malformation and for arterial and venous embolizations in the peripheral vasculature.",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://baltgroup.com/products/optima",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "sizing_specs": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "indications": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "none",
+      "confidence": 0
+    },
+    "also_known_as": {
+      "source": "none",
+      "confidence": 0
+    }
+  }
+}

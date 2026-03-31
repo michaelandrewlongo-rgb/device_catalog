@@ -1,0 +1,30 @@
+{
+  "device_name": "CEREBASE DA Guide Sheath",
+  "manufacturer": "cerenovus",
+  "catalog_category": "distal-access",
+  "filename_stem": "distal-access--cerenovus--cerebase-da-guide-sheath",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "Guide sheath engineered for distal access with geometric anchoring for procedural support. Features Dex tip for enhanced tracking through challenging anatomy. Large inner diameter (0.090 inch) in an 8F short sheath compatible system.",
+  "sizing_specs": "Inner Diameter: 0.090 inch; Outer Diameter: 8F; Short Sheath Compatibility: 8F; Usable Lengths: 80 cm, 90 cm, 95 cm; Product codes: GS9080SD, GS9090SD, GS9095SD",
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "Better trackability and more support than NeuronMax, Infinity, Shuttle, Fubuki, and Ballast when placed in a distal cervical position.",
+  "deployment_steps": null,
+  "also_known_as": [
+    "CEREBASE"
+  ],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.jnjmedtech.com/en-US/products/neurovascular/guide-sheaths/cerebase-da-guide-sheath/",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ]
+}

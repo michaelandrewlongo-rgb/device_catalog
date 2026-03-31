@@ -1,0 +1,28 @@
+{
+  "device_name": "LANX SPINAL FIXATION SYSTEM",
+  "manufacturer": "lanx-inc",
+  "catalog_category": "corpectomy",
+  "filename_stem": "corpectomy--lanx-inc--lanx-spinal-fixation",
+  "clearance_type": "510k",
+  "clearance_number": "K103091",
+  "clearance_date": "2011-04-15",
+  "device_class": 2,
+  "device_name_fda": "LANX SPINAL FIXATION SYSTEM",
+  "product_code": "KWP",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf10/K103091.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

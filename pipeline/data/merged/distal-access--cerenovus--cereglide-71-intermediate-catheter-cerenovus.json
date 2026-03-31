@@ -1,0 +1,28 @@
+{
+  "device_name": "CEREGLIDE 71 Intermediate Catheter; Cerenovus Aspiration Tubing Set",
+  "manufacturer": "cerenovus",
+  "catalog_category": "distal-access",
+  "filename_stem": "distal-access--cerenovus--cereglide-71-intermediate-catheter-cerenovus",
+  "clearance_type": "510k",
+  "clearance_number": "K221934",
+  "clearance_date": "2023-03-09",
+  "device_class": 2,
+  "device_name_fda": "CEREGLIDE 71 Intermediate Catheter; Cerenovus Aspiration Tubing Set",
+  "product_code": "NRY",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K221934.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

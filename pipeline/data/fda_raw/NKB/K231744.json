@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K231744",
+  "clearance_date": "2023-10-13",
+  "device_class": 2,
+  "manufacturer_canonical": "vy-spine-llc",
+  "manufacturer_raw": "Vy Spine, LLC",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "VyLink Spinal Screw System",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--vy-spine-llc--vylink-spinal-screw",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K231744.pdf"
+}

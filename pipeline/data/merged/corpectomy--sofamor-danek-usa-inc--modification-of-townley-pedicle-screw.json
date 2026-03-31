@@ -1,0 +1,28 @@
+{
+  "device_name": "MODIFICATION OF TOWNLEY PEDICLE SCREW PLATING SYSTEM",
+  "manufacturer": "sofamor-danek-usa-inc",
+  "catalog_category": "corpectomy",
+  "filename_stem": "corpectomy--sofamor-danek-usa-inc--modification-of-townley-pedicle-screw",
+  "clearance_type": "510k",
+  "clearance_number": "K983706",
+  "clearance_date": "1998-11-12",
+  "device_class": 2,
+  "device_name_fda": "MODIFICATION OF TOWNLEY PEDICLE SCREW PLATING SYSTEM",
+  "product_code": "KWP",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf98/K983706.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "device_name": "Golden Isles Pedicle Screw System",
+  "manufacturer": "intelivation-llc",
+  "catalog_category": "interbody-cage",
+  "filename_stem": "interbody-cage--intelivation-llc--golden-isles-pedicle-screw",
+  "clearance_type": "510k",
+  "clearance_number": "K212185",
+  "clearance_date": "2021-08-19",
+  "device_class": 2,
+  "device_name_fda": "Golden Isles Pedicle Screw System",
+  "product_code": "NKB",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K212185.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

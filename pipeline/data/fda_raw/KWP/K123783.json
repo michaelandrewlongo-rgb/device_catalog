@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K123783",
+  "clearance_date": "2013-03-14",
+  "device_class": 2,
+  "manufacturer_canonical": "globus",
+  "manufacturer_raw": "Globus Medical, Inc.",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "ELLIPSE OCCIPITO-CERICO-THORACIC SPINAL SYSTEM AND CAPITOL IMPLANTS",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--globus--ellipse-occipito-cerico-thoracic-spinal",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf12/K123783.pdf"
+}

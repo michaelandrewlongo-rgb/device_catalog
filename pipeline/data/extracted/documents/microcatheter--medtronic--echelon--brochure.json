@@ -1,0 +1,20 @@
+{
+  "source_pdf": "microcatheter--medtronic--echelon--brochure.pdf",
+  "device_name": "echelon",
+  "manufacturer": "medtronic",
+  "doc_type": "brochure",
+  "extraction_method": "pdf_deepseek",
+  "fields": {
+    "what_it_is": "Echelon Micro Catheter with large 0.017\" ID, low profile 0.028\" OD, fluoro-safe marker band, nitinol braid technology with progressive picks-per-inch providing a balance of pushability and softness via graduated zones and transition points, optimal proximal pushability, stability, and support, kink resistance and minimal ovalization to maintain lumen durability for reliable device delivery, steam-shapeable, flexible tip with dual marker bands",
+    "sizing_specs": "| ECHELON™ 10 MICRO CATHETER |                       |                        |                       |                        |                   |\n|----------------------------|-----------------------|------------------------|-----------------------|------------------------|-------------------|\n| Product<br>Catalog Number  | Outer Diameter<br>(F) | Inner Diameter<br>(in) | Usable Length<br>(cm) | Max. Guidewire<br>(in) | Tip Configuration |\n| 105-5091-150               | 2.1>1.7               | .017                   | 150                   | 0.014                  | Straight          |\n| 145-5091-150               | 2.1>1.7               | .017                   | 150                   | 0.014                  | 45º               |\n| 190-5091-150               | 2.1>1.7               | .017                   | 150                   | 0.014                  | 90º               |\n\n| ECHELON™ 14 MICRO CATHETER |                       |                        |                       |                        |                   |  |\n|----------------------------|-----------------------|------------------------|-----------------------|------------------------|-------------------|--|\n| Product<br>Catalog Number  | Outer Diameter<br>(F) | Inner Diameter<br>(in) | Usable Length<br>(cm) | Max. Guidewire<br>(in) | Tip Configuration |  |\n| 105-5092-150               | 2.4>1.9               | .017                   | 150                   | 0.014                  | Straight          |  |\n| 145-5092-150               | 2.4>1.9               | .017                   | 150                   | 0.014                  | 45º               |  |\n| 190-5092-150               | 2.4>1.9               | .017                   | 150                   | 0.014                  | 90º               |  |\n\n| ECHELON™ SYRINGE ADAPTER  |          |           |  |  |\n|---------------------------|----------|-----------|--|--|\n| Product<br>Catalog Number | Quantity | Units/Box |  |  |\n| 103-5095                  | 1 Box    | 20        |  |  |",
+    "indications": null,
+    "contraindications": null,
+    "compatible_with": null,
+    "use_notes": null,
+    "also_known_as": null
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "sizing_specs": 0.7
+  }
+}

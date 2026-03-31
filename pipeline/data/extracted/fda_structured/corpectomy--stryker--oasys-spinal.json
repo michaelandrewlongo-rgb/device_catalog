@@ -1,0 +1,20 @@
+{
+  "source": "fda_udi",
+  "brand_name": "OASYS SPINAL SYSTEM",
+  "extraction_method": "fda_udi_api",
+  "fields": {
+    "what_it_is": "800-860 mm Transition Rod Tube",
+    "sizing_specs": "Catalog: 48850800; Model: 48850800",
+    "use_notes": "MRI: Labeling does not contain MRI Safety Information. Sterilized: Moist Heat or Steam Sterilization. Single-use",
+    "also_known_as": [
+      "OASYS Spinal System",
+      "General internal orthopaedic fixation system implantation kit"
+    ]
+  },
+  "confidence": {
+    "what_it_is": 0.85,
+    "sizing_specs": 0.85,
+    "use_notes": 0.85,
+    "also_known_as": 0.85
+  }
+}

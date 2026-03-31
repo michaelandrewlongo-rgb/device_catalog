@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K192915",
+  "clearance_date": "2019-11-13",
+  "device_class": 2,
+  "manufacturer_canonical": "grafton-medical-alliance",
+  "manufacturer_raw": "Grafton Medical Alliance",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "GMA 2.0 Pedicle Screw System",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--grafton-medical-alliance--gma-2-0-pedicle-screw",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf19/K192915.pdf"
+}

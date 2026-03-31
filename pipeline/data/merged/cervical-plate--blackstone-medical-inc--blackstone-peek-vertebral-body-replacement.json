@@ -1,0 +1,28 @@
+{
+  "device_name": "BLACKSTONE PEEK VERTEBRAL BODY REPLACEMENT SYSTEM LORDOTIC LATERAL SPACERS",
+  "manufacturer": "blackstone-medical-inc",
+  "catalog_category": "cervical-plate",
+  "filename_stem": "cervical-plate--blackstone-medical-inc--blackstone-peek-vertebral-body-replacement",
+  "clearance_type": "510k",
+  "clearance_number": "K041939",
+  "clearance_date": "2004-08-17",
+  "device_class": 2,
+  "device_name_fda": "BLACKSTONE PEEK VERTEBRAL BODY REPLACEMENT SYSTEM LORDOTIC LATERAL SPACERS",
+  "product_code": "MQP",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf04/K041939.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

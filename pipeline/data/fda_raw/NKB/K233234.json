@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K233234",
+  "clearance_date": "2023-10-26",
+  "device_class": 2,
+  "manufacturer_canonical": "nexus-spine-llc",
+  "manufacturer_raw": "Nexus Spine, LLC",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "PressON Spinal Fixation System",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--nexus-spine-llc--presson-spinal-fixation",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K233234.pdf"
+}

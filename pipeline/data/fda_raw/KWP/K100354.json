@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K100354",
+  "clearance_date": "2010-08-17",
+  "device_class": 2,
+  "manufacturer_canonical": "osteomed-lp",
+  "manufacturer_raw": "Osteomed LP",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "PRIMAL OK INTERSPINOUS FUSION SYSTEM",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--osteomed-lp--primal-ok-interspinous-fusion",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf10/K100354.pdf"
+}

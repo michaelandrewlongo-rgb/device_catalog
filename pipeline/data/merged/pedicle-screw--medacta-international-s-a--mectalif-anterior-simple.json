@@ -1,0 +1,28 @@
+{
+  "device_name": "MectaLIF Anterior Simple",
+  "manufacturer": "medacta-international-s-a",
+  "catalog_category": "pedicle-screw",
+  "filename_stem": "pedicle-screw--medacta-international-s-a--mectalif-anterior-simple",
+  "clearance_type": "510k",
+  "clearance_number": "K200048",
+  "clearance_date": "2020-03-09",
+  "device_class": 2,
+  "device_name_fda": "MectaLIF Anterior Simple",
+  "product_code": "MAX",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K200048.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

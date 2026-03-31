@@ -1,0 +1,321 @@
+{
+  "category": "aspiration",
+  "source_url": "https://evtoday.com/device-guide/us/thrombus-aspiration-devices",
+  "headers": [
+    "Compare",
+    "Company Name",
+    "Product Name",
+    "Type",
+    "Maximum Tip Diameter (mm)",
+    "Minimum Guide Catheter Size (F)",
+    "Catheter Length (cm)"
+  ],
+  "devices": [
+    {
+      "Compare": "",
+      "Company Name": "Merit Medical Systems, Inc.",
+      "Product Name": "ASAP Aspiration Catheter Kit",
+      "Type": "Manual aspiration catheter and kit",
+      "Maximum Tip Diameter (mm)": "1.73",
+      "Minimum Guide Catheter Size (F)": "6 (guiding catheter ID, ≥ 0.07 inch)",
+      "Catheter Length (cm)": "140"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Merit Medical Systems, Inc.",
+      "Product Name": "ASAPLP Aspiration Catheter Kit",
+      "Type": "Low-profile manual aspiration catheter and kit",
+      "Maximum Tip Diameter (mm)": "1.40",
+      "Minimum Guide Catheter Size (F)": "6 (guiding catheter ID, ≥ 0.066 inch)",
+      "Catheter Length (cm)": "145"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Stryker",
+      "Product Name": "AXS Catalyst 5 Distal Access Catheter",
+      "Type": "Aspiration catheter",
+      "Maximum Tip Diameter (mm)": "Distal OD: 1.76; ID: 0.058 inch",
+      "Minimum Guide Catheter Size (F)": "6 (≥ 0.078 inch)",
+      "Catheter Length (cm)": "132"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Stryker",
+      "Product Name": "AXS Catalyst 6 Distal Access Catheter",
+      "Type": "Aspiration catheter",
+      "Maximum Tip Diameter (mm)": "Distal OD: 1.81; ID: 0.060 inch",
+      "Minimum Guide Catheter Size (F)": "6 (≥ 0.084 inch)",
+      "Catheter Length (cm)": "132"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Stryker",
+      "Product Name": "AXS Catalyst 7 Distal Access Catheter",
+      "Type": "Aspiration catheter",
+      "Maximum Tip Diameter (mm)": "Distal OD: 2.08; ID: 0.068 inch",
+      "Minimum Guide Catheter Size (F)": "6 (≥ 0.084 inch)",
+      "Catheter Length (cm)": "125, 132"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Stryker",
+      "Product Name": "AXS Universal Aspiration Set",
+      "Type": "Vacuum pump + aspiration tubing + disposable canister liner",
+      "Maximum Tip Diameter (mm)": "–",
+      "Minimum Guide Catheter Size (F)": "–",
+      "Catheter Length (cm)": "–"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Stryker",
+      "Product Name": "AXS Vecta 71 Intermediate Catheter",
+      "Type": "Aspiration catheter",
+      "Maximum Tip Diameter (mm)": "Distal OD: 2.09; ID: 0.071 inch",
+      "Minimum Guide Catheter Size (F)": "6 (≥ 0.088 inch)",
+      "Catheter Length (cm)": "125, 132"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Stryker",
+      "Product Name": "AXS Vecta 74 Intermediate Catheter",
+      "Type": "Aspiration catheter",
+      "Maximum Tip Diameter (mm)": "Distal OD: 2.11; ID: 0.074",
+      "Minimum Guide Catheter Size (F)": "6 (≥ 0.091 inch)",
+      "Catheter Length (cm)": "125, 132"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Control Medical Technology",
+      "Product Name": "Control 11F Mechanical Thrombectomy System",
+      "Type": "Mechanical aspirator, OTW catheter, and dilator",
+      "Maximum Tip Diameter (mm)": "3.45",
+      "Minimum Guide Catheter Size (F)": "11 (sheath)",
+      "Catheter Length (cm)": "90"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Control Medical Technology",
+      "Product Name": "Control 5F Mechanical Thrombectomy System",
+      "Type": "Mechanical aspirator and OTW catheter",
+      "Maximum Tip Diameter (mm)": "1.65",
+      "Minimum Guide Catheter Size (F)": "5 (sheath)",
+      "Catheter Length (cm)": "135"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Control Medical Technology",
+      "Product Name": "Control 6F Mechanical Thrombectomy System",
+      "Type": "Mechanical aspirator and OTW catheter",
+      "Maximum Tip Diameter (mm)": "1.91",
+      "Minimum Guide Catheter Size (F)": "6 (sheath)",
+      "Catheter Length (cm)": "135"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Control Medical Technology",
+      "Product Name": "Control 7F Mechanical Thrombectomy System",
+      "Type": "Mechanical aspirator, OTW catheter, and dilator",
+      "Maximum Tip Diameter (mm)": "2.3",
+      "Minimum Guide Catheter Size (F)": "7 (sheath)",
+      "Catheter Length (cm)": "90"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Control Medical Technology",
+      "Product Name": "Control 8F Mechanical Thrombectomy System",
+      "Type": "Mechanical aspirator, OTW catheter, and dilator",
+      "Maximum Tip Diameter (mm)": "2.85",
+      "Minimum Guide Catheter Size (F)": "8 (sheath)",
+      "Catheter Length (cm)": "90"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Control Medical Technology",
+      "Product Name": "Control Mechanical Aspirator",
+      "Type": "Mechanical aspirator with 250-mL drain bag",
+      "Maximum Tip Diameter (mm)": "Any thrombectomy catheter",
+      "Minimum Guide Catheter Size (F)": "–",
+      "Catheter Length (cm)": "Any thrombectomy catheter"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Control Medical Technology",
+      "Product Name": "Control RX-LP Mechanical Thrombectomy System",
+      "Type": "Rapid-exchange low-profile system",
+      "Maximum Tip Diameter (mm)": "1.7",
+      "Minimum Guide Catheter Size (F)": "6",
+      "Catheter Length (cm)": "136"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Medtronic",
+      "Product Name": "Diver CE Aspiration Catheter",
+      "Type": "Low-profile, rapid-exchange, hydrophilic coating with and without side holes",
+      "Maximum Tip Diameter (mm)": "1.58",
+      "Minimum Guide Catheter Size (F)": "6",
+      "Catheter Length (cm)": "145"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Medtronic",
+      "Product Name": "Export Advance",
+      "Type": "Full-wall variable braiding; preloaded stylet; short, soft tip",
+      "Maximum Tip Diameter (mm)": "1.73",
+      "Minimum Guide Catheter Size (F)": "6",
+      "Catheter Length (cm)": "140"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Medtronic",
+      "Product Name": "Export AP Catheter",
+      "Type": "Full-wall variable hub to tip braiding; hydrophilic coating; short, soft tip",
+      "Maximum Tip Diameter (mm)": "1.73",
+      "Minimum Guide Catheter Size (F)": "6",
+      "Catheter Length (cm)": "140"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Terumo Interventional Systems",
+      "Product Name": "PriorityOne Aspiration Catheter",
+      "Type": "Fully braided stainless steel shaft with guidewire-style stylet for better deliverability",
+      "Maximum Tip Diameter (mm)": "1.65, 1.9",
+      "Minimum Guide Catheter Size (F)": "6, 7",
+      "Catheter Length (cm)": "140"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Teleflex",
+      "Product Name": "Pronto .035 Extraction Catheter",
+      "Type": "Large-vessel thrombus aspiration catheter; full-length braided shaft; patented Silva tip",
+      "Maximum Tip Diameter (mm)": "3.25",
+      "Minimum Guide Catheter Size (F)": "10 (sheath)",
+      "Catheter Length (cm)": "115"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Teleflex",
+      "Product Name": "Pronto LP 5 F Extraction Catheter",
+      "Type": "Low-profile; hydrophilic coating; patented Silva tip; delivery stylet; 5-F guide catheter compatibility",
+      "Maximum Tip Diameter (mm)": "1.35",
+      "Minimum Guide Catheter Size (F)": "5",
+      "Catheter Length (cm)": "138"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Teleflex",
+      "Product Name": "Pronto LP Extraction Catheter",
+      "Type": "Low-profile; hydrophilic coating; patented Silva tip; round, braided shaft; delivery stylet",
+      "Maximum Tip Diameter (mm)": "1.35",
+      "Minimum Guide Catheter Size (F)": "6",
+      "Catheter Length (cm)": "140"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Teleflex",
+      "Product Name": "Pronto V3 Extraction Catheter",
+      "Type": "Full-length braided shaft; hydrophilic coating; patented Silva tip; maximized extraction lumen and force",
+      "Maximum Tip Diameter (mm)": "1.65",
+      "Minimum Guide Catheter Size (F)": "6",
+      "Catheter Length (cm)": "140"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Teleflex",
+      "Product Name": "Pronto V4 Extraction Catheter",
+      "Type": "Embedded longitudinal wire; hydrophilic coating; patented Silva tip; maximized extraction lumen and force; 5.5, 6, 7, 8 F",
+      "Maximum Tip Diameter (mm)": "1.64–2.2",
+      "Minimum Guide Catheter Size (F)": "6, 7, 8",
+      "Catheter Length (cm)": "138"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Medtronic",
+      "Product Name": "React 68 Catheter",
+      "Type": "Nitinol, coil + braid construction, beveled distal tip",
+      "Maximum Tip Diameter (mm)": "0.068 inch",
+      "Minimum Guide Catheter Size (F)": "–",
+      "Catheter Length (cm)": "132"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Medtronic",
+      "Product Name": "Riptide Aspiration System",
+      "Type": "Aspiration pump, collection canister, intermediate tubing, aspiration tubing",
+      "Maximum Tip Diameter (mm)": "–",
+      "Minimum Guide Catheter Size (F)": "–",
+      "Catheter Length (cm)": "–"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Terumo Neuro",
+      "Product Name": "Sofia Flow Plus",
+      "Type": "Aspiration catheter",
+      "Maximum Tip Diameter (mm)": "Distal OD: 2.1; ID: 0.070 inch",
+      "Minimum Guide Catheter Size (F)": "6",
+      "Catheter Length (cm)": "125, 131"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Getinge",
+      "Product Name": "Xpress-Way RX Extraction Catheter",
+      "Type": "6-F, low-profile tip, resistent shaft design, hydrophilic coating, preloaded stylet, short guidewire lumen for improved deliverability and performance",
+      "Maximum Tip Diameter (mm)": "1.35",
+      "Minimum Guide Catheter Size (F)": "6",
+      "Catheter Length (cm)": "140"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Getinge",
+      "Product Name": "Xpress-Way RX Extraction Catheter",
+      "Type": "7-F, kink-resistent shaft design, hydrophilic coating, preloaded stylet, short guidewire lumen for improved deliverability and performance",
+      "Maximum Tip Diameter (mm)": "1.52",
+      "Minimum Guide Catheter Size (F)": "7",
+      "Catheter Length (cm)": "140"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Imperative Care (Stroke)",
+      "Product Name": "Zoom 35 Aspiration Catheter",
+      "Type": "Neurovascular aspiration catheter with asymmetric tip; single lumen, braid and coil reinforced, variable stiffness catheter with a radiopaque marker and a lubricious hydrophilic coating",
+      "Maximum Tip Diameter (mm)": "Distal OD: 1.30 mm; ID: 0.035 inch",
+      "Minimum Guide Catheter Size (F)": "6",
+      "Catheter Length (cm)": "160"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Imperative Care (Stroke)",
+      "Product Name": "Zoom 45 Aspiration Catheter",
+      "Type": "Neurovascular aspiration catheter with asymmetric tip; single lumen, braid and coil reinforced, variable stiffness catheter with a radiopaque marker and a lubricious hydrophilic coating",
+      "Maximum Tip Diameter (mm)": "Distal OD: 1.52 mm; ID: 0.045 inch",
+      "Minimum Guide Catheter Size (F)": "6",
+      "Catheter Length (cm)": "144"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Imperative Care (Stroke)",
+      "Product Name": "Zoom 55 Aspiration Catheter",
+      "Type": "Neurovascular aspiration catheter with asymmetric tip; single lumen, braid and coil reinforced, variable stiffness catheter with a radiopaque marker and a lubricious hydrophilic coating",
+      "Maximum Tip Diameter (mm)": "Distal OD: 1.75 mm; ID: 0.055 inch",
+      "Minimum Guide Catheter Size (F)": "6",
+      "Catheter Length (cm)": "137"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Imperative Care (Stroke)",
+      "Product Name": "Zoom 71 Aspiration Catheter",
+      "Type": "Neurovascular aspiration catheter with asymmetric tip; single lumen, braid and coil reinforced, variable stiffness catheter with a radiopaque marker and a lubricious hydrophilic coating",
+      "Maximum Tip Diameter (mm)": "Distal OD: 2.11 mm; ID: 0.071 inch",
+      "Minimum Guide Catheter Size (F)": "6",
+      "Catheter Length (cm)": "137"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Imperative Care (Stroke)",
+      "Product Name": "Zoom 7X Aspiration Catheter",
+      "Type": "Neurovascular aspiration catheter with asymmetric tip and CenTRX technology; single lumen, braid and coil reinforced, variable stiffness catheter with a radiopaque marker and a lubricious hydrophilic coating",
+      "Maximum Tip Diameter (mm)": "Distal OD: 2.11 mm, ID: 0.071 inch",
+      "Minimum Guide Catheter Size (F)": "6",
+      "Catheter Length (cm)": "137"
+    }
+  ]
+}

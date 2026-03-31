@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K153495",
+  "clearance_date": "2016-03-31",
+  "device_class": 2,
+  "manufacturer_canonical": "zimmer-biomet",
+  "manufacturer_raw": "Ldr Spine USA",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "Avenue L Lateral Lumbar Cage, Avenue T TLIF Cage System, ROI-A ALIF Cage System, ROI-T Implant System",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--zimmer-biomet--avenue-l-lateral-lumbar-cage",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf15/K153495.pdf"
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K053418",
+  "clearance_date": "2006-09-06",
+  "device_class": 2,
+  "manufacturer_canonical": "synthes-spine-co-lp",
+  "manufacturer_raw": "Synthes Spine Co.Lp",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "SYNTHES OC FUSION SYSTEM",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--synthes-spine-co-lp--synthes-oc-fusion",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf05/K053418.pdf"
+}

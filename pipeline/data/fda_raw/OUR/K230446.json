@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K230446",
+  "clearance_date": "2023-06-07",
+  "device_class": 2,
+  "manufacturer_canonical": "surgentec-llc",
+  "manufacturer_raw": "SurGenTec, LLC",
+  "catalog_category": "sacroiliac-fusion",
+  "device_name_fda": "TiLink-L SI Joint Fusion System",
+  "product_code": "OUR",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "sacroiliac-fusion--surgentec-llc--tilink-l-si-joint-fusion",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K230446.pdf"
+}

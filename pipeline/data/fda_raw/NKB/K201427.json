@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K201427",
+  "clearance_date": "2020-10-21",
+  "device_class": 2,
+  "manufacturer_canonical": "benvenue-medical-inc",
+  "manufacturer_raw": "Benvenue Medical, Inc.",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "Trivergent Spinal Fixation System",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--benvenue-medical-inc--trivergent-spinal-fixation",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K201427.pdf"
+}

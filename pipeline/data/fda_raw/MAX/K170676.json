@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K170676",
+  "clearance_date": "2017-07-13",
+  "device_class": 2,
+  "manufacturer_canonical": "hd-lifesciences-llc",
+  "manufacturer_raw": "Hd Lifesciences, LLC",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "HD Lumbar Interbody System",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--hd-lifesciences-llc--hd-lumbar-interbody",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf17/K170676.pdf"
+}

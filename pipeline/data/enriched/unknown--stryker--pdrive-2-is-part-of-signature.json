@@ -1,0 +1,58 @@
+{
+  "device_name": "πdrive 2 is part of Signature 2 Portfolio, the comprehensive and customizable neurosurgical high speed drill platform.",
+  "manufacturer": "stryker",
+  "catalog_category": "unknown",
+  "filename_stem": "unknown--stryker--pdrive-2-is-part-of-signature",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "½” shorter motor length than πdrive 2+",
+  "sizing_specs": "1-2\nπdrive 2 is part of Signature 2 Portfolio, the comprehensive and customizable neurosurgical high speed drill platform.\n½” shorter\nmotor length than πdrive 2+\n21% lighter\nthan πdrive+\n6.5% better motor balance\nvs πdrive\n16% better motor balance\nvs S2 drill\n50% reduction\nin sound energy vs πdrive",
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.stryker.com/us/en/nse/products/pidrive.html",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "sizing_specs": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "indications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "none",
+      "confidence": 0
+    },
+    "also_known_as": {
+      "source": "none",
+      "confidence": 0
+    }
+  }
+}

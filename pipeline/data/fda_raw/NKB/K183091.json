@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K183091",
+  "clearance_date": "2019-08-02",
+  "device_class": 2,
+  "manufacturer_canonical": "spinewelding-ag",
+  "manufacturer_raw": "Spinewelding AG",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "Elaris Pedicle Screw System",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--spinewelding-ag--elaris-pedicle-screw",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf18/K183091.pdf"
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K031852",
+  "clearance_date": "2003-08-20",
+  "device_class": 2,
+  "manufacturer_canonical": "medtronic",
+  "manufacturer_raw": "Micro Therapeutics, Inc.",
+  "catalog_category": "embolic-coil",
+  "device_name_fda": "SAPPHIRE DETACHABLE FIBER COILS",
+  "product_code": "HCG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "embolic-coil--medtronic--sapphire-detachable-fiber-coils",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf03/K031852.pdf"
+}

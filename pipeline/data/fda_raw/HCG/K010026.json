@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K010026",
+  "clearance_date": "2001-06-21",
+  "device_class": 2,
+  "manufacturer_canonical": "biosphere-medical-inc",
+  "manufacturer_raw": "Biosphere Medical, Inc.",
+  "catalog_category": "embolic-coil",
+  "device_name_fda": "EMBOGOLD MICROSPHERE",
+  "product_code": "HCG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "embolic-coil--biosphere-medical-inc--embogold-microsphere",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf01/K010026.pdf"
+}

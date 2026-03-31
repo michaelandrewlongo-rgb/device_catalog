@@ -1,0 +1,61 @@
+{
+  "device_name": "Millipede 088 Access Catheter",
+  "manufacturer": "perfuze-ltd",
+  "catalog_category": "microcatheter",
+  "filename_stem": "microcatheter--perfuze-ltd--millipede-088-access-catheter",
+  "clearance_type": "510k",
+  "clearance_number": "K214048",
+  "clearance_date": "2022-09-20",
+  "device_class": 2,
+  "device_name_fda": "Millipede 088 Access Catheter",
+  "product_code": "QJP",
+  "what_it_is": "The Millipede 088 Access Catheter consists of the catheter, a rotating hemostasis valve (RHV) and a valve crossing tool. The catheter, RHV and valve crossing tool are provided sterile. They are sterilized by ethylene oxide (EO).\nThe Millipede 088 Access Catheter is a single lumen, coil-reinforced, variable stiffness catheter. The distal segment has a hydrophilic coating for navigation through the vasculature. The catheter has a radiopaque marker located at its distal end for visualization under fluoroscopy. The valve crossing tool is used to open the valve of the access sheath and to facilitate insertion of the Millipede 088 Access Catheter through the access sheath without damage. The RHV is assembled onto the hub of the Millipede 088 Access Catheter and is used to maintain hemostasis during infusion of saline and contrast agent and insertion of other devices through the Millipede 088 Access Catheter.",
+  "sizing_specs": "Catalog: MA088117US; Model: 1.1",
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "MRI: Labeling does not contain MRI Safety Information. Pre-sterilized. Single-use",
+  "deployment_steps": null,
+  "also_known_as": [
+    "Millipede 088 Access Catheter",
+    "Vascular guide-catheter, single-use"
+  ],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K214048.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "sizing_specs": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "indications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "also_known_as": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    }
+  }
+}

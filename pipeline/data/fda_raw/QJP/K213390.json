@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K213390",
+  "clearance_date": "2022-08-18",
+  "device_class": 2,
+  "manufacturer_canonical": "penumbra",
+  "manufacturer_raw": "Penumbra, Inc.",
+  "catalog_category": "microcatheter",
+  "device_name_fda": "Benchmark BMX96 Access System",
+  "product_code": "QJP",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "microcatheter--penumbra--benchmark-bmx96-access",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K213390.pdf"
+}

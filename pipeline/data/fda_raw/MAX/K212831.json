@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K212831",
+  "clearance_date": "2021-10-29",
+  "device_class": 2,
+  "manufacturer_canonical": "medacta-international-s-a",
+  "manufacturer_raw": "Medacta International S.A.",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "MectaLIF Extension",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--medacta-international-s-a--mectalif-extension",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K212831.pdf"
+}

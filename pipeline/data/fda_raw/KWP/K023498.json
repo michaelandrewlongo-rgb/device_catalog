@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K023498",
+  "clearance_date": "2002-11-13",
+  "device_class": 2,
+  "manufacturer_canonical": "blackstone-medical-inc",
+  "manufacturer_raw": "Blackstone Medical, Inc.",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "MODIFICATION TO BLACKSTONE SPINAL FIXATION SYSTEM",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--blackstone-medical-inc--modification-to-blackstone-spinal-fixation",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf02/K023498.pdf"
+}

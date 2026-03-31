@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K220808",
+  "clearance_date": "2022-07-25",
+  "device_class": 2,
+  "manufacturer_canonical": "rapid-medical",
+  "manufacturer_raw": "Rapid Medical , Ltd.",
+  "catalog_category": "thrombectomy",
+  "device_name_fda": "Tigertriever 13 Revascularization Device",
+  "product_code": "NRY",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "thrombectomy--rapid-medical--tigertriever-13-revascularization",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K220808.pdf"
+}

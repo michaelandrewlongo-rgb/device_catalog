@@ -1,0 +1,20 @@
+{
+  "source_pdf": "microcatheter--ev3--marksman--510k.pdf",
+  "device_name": "marksman",
+  "manufacturer": "ev3",
+  "doc_type": "510k",
+  "extraction_method": "pdf_deepseek",
+  "fields": {
+    "what_it_is": "The MarksmanTM Catheter is a variable stiffness, single lumen catheter designed to access small, tortuous vascular areas. The outer surface of the catheter's distal segment is coated with a hydrophilic material to provide lubricity during use. The catheter also incorporates a PTFE liner to facilitate movement of introduction devices passed through its lumen. The MarksmanTM Catheter has a radiopaque marker at the distal tip to facilitate fluoroscopic visualization. The distal tip of the catheter is shapeable. The MarksmanTM Catheter is provided with various working lengths. The MarksmanTM Catheter is for single use only.",
+    "sizing_specs": null,
+    "indications": "The MarksmanTM Catheter is indicated for the introduction of interventional devices and infusion of diagnostic or therapeutic agents into the neuro, peripheral and coronary vasculature.",
+    "contraindications": null,
+    "compatible_with": null,
+    "use_notes": null,
+    "also_known_as": null
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "indications": 0.7
+  }
+}

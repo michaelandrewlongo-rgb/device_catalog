@@ -1,0 +1,28 @@
+{
+  "device_name": "VIRTU Lumbar Spacer System",
+  "manufacturer": "met-1-technologies-llc",
+  "catalog_category": "pedicle-screw",
+  "filename_stem": "pedicle-screw--met-1-technologies-llc--virtu-lumbar-spacer",
+  "clearance_type": "510k",
+  "clearance_number": "K160699",
+  "clearance_date": "2016-08-01",
+  "device_class": 2,
+  "device_name_fda": "VIRTU Lumbar Spacer System",
+  "product_code": "MAX",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf16/K160699.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

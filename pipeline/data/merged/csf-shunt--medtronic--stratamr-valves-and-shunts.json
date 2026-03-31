@@ -1,0 +1,28 @@
+{
+  "device_name": "StrataMR Valves and Shunts",
+  "manufacturer": "medtronic",
+  "catalog_category": "csf-shunt",
+  "filename_stem": "csf-shunt--medtronic--stratamr-valves-and-shunts",
+  "clearance_type": "510k",
+  "clearance_number": "K152700",
+  "clearance_date": "2016-04-07",
+  "device_class": 2,
+  "device_name_fda": "StrataMR Valves and Shunts",
+  "product_code": "JXG",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf15/K152700.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

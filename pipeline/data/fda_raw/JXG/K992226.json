@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K992226",
+  "clearance_date": "2000-08-04",
+  "device_class": 2,
+  "manufacturer_canonical": "radionics-inc",
+  "manufacturer_raw": "Radionics, Inc.",
+  "catalog_category": "csf-shunt",
+  "device_name_fda": "XDS EXTERNAL CSF DRAINAGE AND MONITORING SYSTEM",
+  "product_code": "JXG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "csf-shunt--radionics-inc--xds-external-csf-drainage-and",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf99/K992226.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "device_name": "TARGET DETACHABLE COIL",
+  "manufacturer": "boston-scientific",
+  "catalog_category": "embolic-coil",
+  "filename_stem": "embolic-coil--boston-scientific--target-detachable-coil",
+  "clearance_type": "510k",
+  "clearance_number": "K102672",
+  "clearance_date": "2010-10-15",
+  "device_class": 2,
+  "device_name_fda": "TARGET DETACHABLE COIL",
+  "product_code": "HCG",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf10/K102672.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

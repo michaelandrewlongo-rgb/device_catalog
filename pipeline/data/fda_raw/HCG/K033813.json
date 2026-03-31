@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K033813",
+  "clearance_date": "2004-02-04",
+  "device_class": 2,
+  "manufacturer_canonical": "micrus-corp",
+  "manufacturer_raw": "Micrus Corp.",
+  "catalog_category": "embolic-coil",
+  "device_name_fda": "MICRUS MODIFIED MICROCOIL SYSTEM, CERECYTE",
+  "product_code": "HCG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "embolic-coil--micrus-corp--micrus-modified-microcoil-cerecyte",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf03/K033813.pdf"
+}

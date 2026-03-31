@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K221244",
+  "clearance_date": "2022-05-25",
+  "device_class": 2,
+  "manufacturer_canonical": "medtronic",
+  "manufacturer_raw": "Medtronic",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "CD Horizon Spinal System",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--medtronic--cd-horizon-spinal",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K221244.pdf"
+}

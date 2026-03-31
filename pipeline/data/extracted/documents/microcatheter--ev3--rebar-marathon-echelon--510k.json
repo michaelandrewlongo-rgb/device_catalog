@@ -1,0 +1,21 @@
+{
+  "source_pdf": "microcatheter--ev3--rebar-marathon-echelon--510k.pdf",
+  "device_name": "rebar-marathon-echelon",
+  "manufacturer": "ev3",
+  "doc_type": "510k",
+  "extraction_method": "pdf_deepseek",
+  "fields": {
+    "what_it_is": "The MTI/ev3 micro catheters are single-lumen, end-hole catheters designed for the sub selective infusion of physician-specified therapeutic agents such as embolization materials and diagnostic materials such as contrast media in tortuous, distal vessels. The catheters have a semi-rigid proximal shaft and a highly flexible distal shaft to facilitate the advancement of the catheter in the anatomy. The proximal end of the catheters incorporates a standard luer adapter to facilitate the attachment of accessories. The catheters have single or dual radiopaque markers at the distal end to facilitate fluoroscopic visualization. The outer surfaces of the catheters are coated to increase lubricity.",
+    "sizing_specs": null,
+    "indications": "The Rebar Micro Catheter is intended for the controlled selective infusion of physician-specified therapeutic agents or contrast media into the vasculature of the peripheral and neuro anatomy. The UltraFlow HPC Flow Directed Micro Catheter is intended for the controlled selective infusion of physician-specified pharmacologic agents or contrast media into the distal vasculature of the peripheral and neuro anatomy. It is not intended for use in the coronary vasculature. The Nautica Micro Catheter is intended to access peripheral and neurovasculature for the controlled selective infusion of physician-specified therapeutic agents such as embolization materials and of diagnostic materials such as contrast media. Not intended for use in the coronary vasculature. The Marathon Micro Catheter is intended to access peripheral and neuro vasculature for the controlled selective infusion of physician-specified therapeutic agents such as embolization materials and of diagnostic materials such as contrast media. The Echelon™ Micro Catheter is intended to access peripheral and neuro vasculature for the controlled selective infusion of physician-specified therapeutic agents such as embolization materials and of diagnostic materials such as contrast media.",
+    "contraindications": null,
+    "compatible_with": null,
+    "use_notes": null,
+    "also_known_as": "Rebar™ Micro Catheter, Ultraflow™ HPC Flow Directed Micro Catheter, Nautica™ Micro Catheter, Marathon™ Flow Directed Micro Catheter, Echelon™ Micro Catheter"
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "indications": 0.7,
+    "also_known_as": 0.7
+  }
+}

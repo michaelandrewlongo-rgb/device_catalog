@@ -1,0 +1,58 @@
+{
+  "device_name": "Tigertriever 21 Revascularization Device, Tigertriever 17 Revascularization Device, Tigertriever 13 Revascularization Device",
+  "manufacturer": "rapid-medical",
+  "catalog_category": "thrombectomy",
+  "filename_stem": "thrombectomy--rapid-medical--tigertriever-21-revascularization-tigertriever-17",
+  "clearance_type": "510k",
+  "clearance_number": "K230429",
+  "clearance_date": "2023-04-17",
+  "device_class": 2,
+  "device_name_fda": "Tigertriever 21 Revascularization Device, Tigertriever 17 Revascularization Device, Tigertriever 13 Revascularization Device",
+  "product_code": "NRY",
+  "what_it_is": null,
+  "sizing_specs": "Sheath Compatibility (F): 0.0165/0.013 inch (ID)\nWorking Length (cm): 230",
+  "indications": "Intended to restore blood flow by removing thrombus from a large intracranial vessel in patients experiencing ischemic stroke within 8 hours of symptom onset; patients who are ineligible for intravenous tissue plasminogen activator (IV t-PA), or who fail IV t-PA therapy, are candidates for treatment",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "Mode of Operation: Adjusts to the vasculature and clot providing an atraumatic approach; precise control to capture the thrombus and remove the tension from the vasculature before removal leading to safe and effective procedure; the user can control the manual expansion of the braided distal portion into the clot using the handle component of the device",
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K230429.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "none",
+      "confidence": 0
+    },
+    "sizing_specs": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "indications": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "also_known_as": {
+      "source": "none",
+      "confidence": 0
+    }
+  }
+}

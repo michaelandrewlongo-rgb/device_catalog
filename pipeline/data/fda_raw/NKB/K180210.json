@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K180210",
+  "clearance_date": "2018-04-02",
+  "device_class": 2,
+  "manufacturer_canonical": "globus",
+  "manufacturer_raw": "Globus Medical, Inc.",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "CREO® Stabilization System",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--globus--creo-r-stabilization",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf18/K180210.pdf"
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K031049",
+  "clearance_date": "2003-08-01",
+  "device_class": 2,
+  "manufacturer_canonical": "boston-scientific-target",
+  "manufacturer_raw": "Boston Scientific, Target",
+  "catalog_category": "embolic-coil",
+  "device_name_fda": "GUGLIELMI DETACHABLE COIL (GDC)",
+  "product_code": "HCG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "embolic-coil--boston-scientific-target--guglielmi-detachable-coil-gdc",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf03/K031049.pdf"
+}

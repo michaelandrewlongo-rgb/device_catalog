@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K073654",
+  "clearance_date": "2008-01-24",
+  "device_class": 2,
+  "manufacturer_canonical": "blackstone-medical-inc",
+  "manufacturer_raw": "Blackstone Medical, Inc.",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "BLACKSTONE ASCENT POCT SYSTEM PARALLEL ROD CONNECTOR",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--blackstone-medical-inc--blackstone-ascent-poct-parallel-rod",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf07/K073654.pdf"
+}

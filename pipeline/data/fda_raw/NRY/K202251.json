@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K202251",
+  "clearance_date": "2020-08-31",
+  "device_class": 2,
+  "manufacturer_canonical": "penumbra",
+  "manufacturer_raw": "Penumbra, Inc.",
+  "catalog_category": "aspiration",
+  "device_name_fda": "Penumbra System (Penumbra JET 7 Reperfusion Catheter with Xtra Flex Technology; Penumbra JET 7MAX)",
+  "product_code": "NRY",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "aspiration--penumbra--penumbra-penumbra-jet-7-reperfusion",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K202251.pdf"
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K070300",
+  "clearance_date": "2007-04-10",
+  "device_class": 2,
+  "manufacturer_canonical": "depuy",
+  "manufacturer_raw": "Depuy Spine, Inc.",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "EXPEDIUM SFX CROSS CONNECTOR SYSTEM",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--depuy--expedium-sfx-cross-connector",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf07/K070300.pdf"
+}

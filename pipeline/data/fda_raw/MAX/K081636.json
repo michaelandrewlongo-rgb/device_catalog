@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K081636",
+  "clearance_date": "2008-08-07",
+  "device_class": 2,
+  "manufacturer_canonical": "zimmer-biomet",
+  "manufacturer_raw": "Biomet Spine",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "PEEK-OPTIMA ALIF SPACER",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--zimmer-biomet--peek-optima-alif-spacer",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf08/K081636.pdf"
+}

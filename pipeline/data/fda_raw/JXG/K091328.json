@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K091328",
+  "clearance_date": "2010-01-22",
+  "device_class": 2,
+  "manufacturer_canonical": "sophysa-sa",
+  "manufacturer_raw": "Sophysa SA",
+  "catalog_category": "csf-shunt",
+  "device_name_fda": "SIPHONX GRAVITATIONAL ANTISIPHON DEVICE",
+  "product_code": "JXG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "csf-shunt--sophysa-sa--siphonx-gravitational-antisiphon",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf09/K091328.pdf"
+}

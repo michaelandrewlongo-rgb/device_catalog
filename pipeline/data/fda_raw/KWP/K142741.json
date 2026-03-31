@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K142741",
+  "clearance_date": "2015-01-15",
+  "device_class": 2,
+  "manufacturer_canonical": "stryker",
+  "manufacturer_raw": "Stryker Corporation",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "OASYS System",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--stryker--oasys",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf14/K142741.pdf"
+}

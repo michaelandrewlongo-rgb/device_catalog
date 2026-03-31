@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K090343",
+  "clearance_date": "2009-08-11",
+  "device_class": 2,
+  "manufacturer_canonical": "life-spine",
+  "manufacturer_raw": "Life Spine",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "SENTINEL SPINAL SYSTEM",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--life-spine--sentinel-spinal",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf09/K090343.pdf"
+}

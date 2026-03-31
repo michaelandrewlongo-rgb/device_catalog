@@ -1,0 +1,62 @@
+{
+  "device_name": "TRUFILL n-BCA Liquid Embolic System",
+  "manufacturer": "cerenovus",
+  "catalog_category": "liquid-embolic",
+  "filename_stem": "liquid-embolic--cerenovus--trufill-n-bca-liquid-embolic-system",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "A clear, free-flowing liquid, which polymerizes quickly on contact with body fluid or tissue; it offers convenient preparation and delivery, customized radiopacity for visualization, and effective penetration of AVMs",
+  "sizing_specs": "Materials: Trufill n-BCA, Trufill ethiodized oil, and tantalum powder; these components must be used as a system",
+  "indications": "Embolization of cerebral AVMs when presurgical devascularization is desired; premarket approval device",
+  "contraindications": null,
+  "compatible_with": "Prowler EX Microcatheter, CEREBASE DA Guide Sheath, ENTERPRISE 2 Vascular Reconstruction Device; Does not require expensive detachable tip microcatheters or dual lumen balloon catheters",
+  "use_notes": "Complication rates numerically lower than Onyx LES but not statistically significant. Catheter retention rate 1.6% vs 9.3% for Onyx LES in RCT. Significantly shorter fluoroscopy time (37 vs 57 min, p<0.0001) and procedural time (2.1 vs 2.6 hrs, p=0.001) compared to Onyx LES. Lower total procedural costs than Onyx LES due to not requiring detachable tip microcatheters or dual lumen balloon catheters.",
+  "deployment_steps": null,
+  "also_known_as": [
+    "Trufill",
+    "TRUFILL n-BCA",
+    "n-BCA"
+  ],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.jnjmedtech.com/en-US/products/neurovascular/hemorrhagic/trufill-n-bca-liquid-embolic-system/",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "sizing_specs": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "indications": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "use_notes": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "also_known_as": {
+      "source": "scraper",
+      "confidence": 0.5
+    }
+  }
+}

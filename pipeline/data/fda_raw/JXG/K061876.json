@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K061876",
+  "clearance_date": "2006-10-16",
+  "device_class": 2,
+  "manufacturer_canonical": "cerenovus",
+  "manufacturer_raw": "Codman & Shurtleff, Inc.",
+  "catalog_category": "csf-shunt",
+  "device_name_fda": "CODMAN VPV SYSTEM, MODEL 82-3192",
+  "product_code": "JXG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "csf-shunt--cerenovus--codman-vpv-model-82-3192",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf06/K061876.pdf"
+}

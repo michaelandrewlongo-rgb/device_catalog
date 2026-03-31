@@ -1,0 +1,28 @@
+{
+  "device_name": "Calvary Spine Pedicle Screw System",
+  "manufacturer": "calvary-spine-llc",
+  "catalog_category": "interbody-cage",
+  "filename_stem": "interbody-cage--calvary-spine-llc--calvary-spine-pedicle-screw",
+  "clearance_type": "510k",
+  "clearance_number": "K201568",
+  "clearance_date": "2020-11-12",
+  "device_class": 2,
+  "device_name_fda": "Calvary Spine Pedicle Screw System",
+  "product_code": "NKB",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K201568.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

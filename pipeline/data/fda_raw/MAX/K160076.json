@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K160076",
+  "clearance_date": "2016-10-13",
+  "device_class": 2,
+  "manufacturer_canonical": "ouroboros-medical-inc",
+  "manufacturer_raw": "Ouroboros Medical, Inc.",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "XCage Interbody Fusion System",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--ouroboros-medical-inc--xcage-interbody-fusion",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf16/K160076.pdf"
+}

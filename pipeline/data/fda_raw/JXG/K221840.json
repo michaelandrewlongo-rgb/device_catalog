@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K221840",
+  "clearance_date": "2022-10-14",
+  "device_class": 2,
+  "manufacturer_canonical": "integra",
+  "manufacturer_raw": "Integra Lifesciences Production Corporation",
+  "catalog_category": "csf-shunt",
+  "device_name_fda": "Hakim Programmable Valves, Hakim Precision Fixed Pressure Valves",
+  "product_code": "JXG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "csf-shunt--integra--hakim-programmable-valves-hakim-precision",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K221840.pdf"
+}

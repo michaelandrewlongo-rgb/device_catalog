@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K170643",
+  "clearance_date": "2017-04-14",
+  "device_class": 2,
+  "manufacturer_canonical": "rti-surgical-inc-dba-rti-biologics",
+  "manufacturer_raw": "Rti Surgical, Inc. Dba Rti Biologics",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "Interbody Fusion (IBF)/Vertebral Body Replacement (VBR) System",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--rti-surgical-inc-dba-rti-biologics--interbody-fusion-ibf-vertebral-body",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf17/K170643.pdf"
+}

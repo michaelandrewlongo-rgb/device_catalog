@@ -1,0 +1,23 @@
+{
+  "source_pdf": "navigation--medtronic--stealthstation-cranial--pocket-guide.pdf",
+  "device_name": "stealthstation-cranial",
+  "manufacturer": "medtronic",
+  "doc_type": "pocket-guide",
+  "extraction_method": "pdf_deepseek",
+  "fields": {
+    "what_it_is": "Your Medtronic computer-assisted surgery system and its associated applications are intended as an aid for precisely locating anatomical structures in either open or percutaneous procedures.",
+    "sizing_specs": null,
+    "indications": "Their use is indicated for any medical condition in which the use of stereotactic surgery may be appropriate, and where reference to a rigid anatomical structure, such as the skull, can be identified relative to a CT- or MR-based model, fluoroscopic images, or digitized landmarks of the anatomy.",
+    "contraindications": "Medical conditions which contraindicate the use of a Medtronic computer-assisted surgery system and its associated applications include any medical conditions which may contraindicate the medical procedure itself.",
+    "compatible_with": null,
+    "use_notes": "### **Contents**\n| Intended Use                              | 5  |\n|-------------------------------------------|----|\n| Contraindications                         | 5  |\n| Warnings                                  | 6  |\n| Precautions                               |    |\n| Procedure                                 | 9  |\n| Logging In                                | 10 |\n| Selecting a Surgeon                       |    |\n| Selecting a Procedure                     | 14 |\n| Selecting a Patient                       | 16 |\n| Setting Up Equipment                      |    |\n| Verifying Instruments                     |    |\n| Defining a Surgical Plan                  | 26 |\n| Setting Up the Patient Reference          | 28 |\n| Aiming the Camera                         | 30 |\n| Registering                               | 32 |\n| Setting Up for Sterile Navigation         | 38 |\n| Navigating                                |    |\n| Shunt Placement: Guiding the Catheter     | 44 |\n| Biopsy                                    | 46 |\n| Archiving (Optional)                      | 66 |\n| Exiting                                   | 68 |\n| Appendixes                                | 69 |\n| A: Standard Equipment                     |    |\n| B: Using StealthMerge™ Image Registration |    |\n| C: Building or Editing a 3D Model         |    |\n| D: Adjusting 2D Images or 3D Models         | 82  |\n|---------------------------------------------|-----|\n| E: Performing Touch-n-Go Registration       | 84  |\n| F: Performing PointMerge® Registration      | 88  |\n| G: Creating Accuracy Checkpoints (Optional) | 98  |\n| H: Performing SureTrak® II Calibration      | 100 |\n| I: Using Tip Projection                     | 103 |\n| J: Troubleshooting                          | 105 |\n| K: Buttons                                  | 112 |\n| L: Symbols                                  | 116 |\n| Notes                                       | 118 |",
+    "also_known_as": "Synergy® Cranial Optical Pocket Guide"
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "indications": 0.7,
+    "contraindications": 0.7,
+    "use_notes": 0.7,
+    "also_known_as": 0.7
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K160663",
+  "clearance_date": "2016-11-16",
+  "device_class": 2,
+  "manufacturer_canonical": "evolution-spine-llc",
+  "manufacturer_raw": "Evolution Spine, LLC",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "Lumbar Interbody Fusion System (ALIF, PLIF, LLIF, TPLIF)",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--evolution-spine-llc--lumbar-interbody-fusion-alif-plif",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf16/K160663.pdf"
+}

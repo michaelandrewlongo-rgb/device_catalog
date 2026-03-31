@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K151921",
+  "clearance_date": "2015-10-08",
+  "device_class": 2,
+  "manufacturer_canonical": "safe-orthopaedics",
+  "manufacturer_raw": "Safe Orthopaedics",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "STERISPINE PS",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--safe-orthopaedics--sterispine-ps",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf15/K151921.pdf"
+}

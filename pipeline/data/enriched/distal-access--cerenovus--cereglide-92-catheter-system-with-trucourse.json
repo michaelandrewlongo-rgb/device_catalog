@@ -1,0 +1,61 @@
+{
+  "device_name": "CEREGLIDE 92 Catheter System with TruCourse",
+  "manufacturer": "cerenovus",
+  "catalog_category": "distal-access",
+  "filename_stem": "distal-access--cerenovus--cereglide-92-catheter-system-with-trucourse",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "Large-bore intermediate catheter system featuring INNERGLIDE 9 Delivery Aid (co-packaged). Engineered for optimized delivery to the M1 segment with TruCourse technology for improved trackability. Features BRITE-LINE for full-length catheter visibility under fluoroscopy. Largest inner diameter with lowest distal profile of 8F systems.",
+  "sizing_specs": "Distal ID: 0.092 inch; Proximal OD: 0.108 inch; Guide Compatibility: 8F (long guide sheaths >= 0.113 inch ID); Usable Length: 114 cm; Product codes: IG9DA, SBC92114UG, SBC92122UG, SBC92130UG, SBC92135UG; INNERGLIDE 9 compatible with guidewires up to 0.024 inch",
+  "indications": "Designed for acute ischemic stroke intervention with distal M1 access. Optimized for aspiration thrombectomy with reduced relay when used with CEREGLIDE 71.",
+  "contraindications": null,
+  "compatible_with": "INNERGLIDE 9 Delivery Aid (co-packaged), CEREGLIDE 71 Intermediate Catheter, EMBOTRAP III Revascularization Device, Prowler EX Microcatheter; Compatible with commonly sold 8F long guide sheaths >= 0.113 inch ID",
+  "use_notes": "Lower track forces than Zoom 88. Largest ID with lowest distal profile vs Zoom 88, Sofia 88, Millipede 088. Designed to diminish flow in M1 and for distal placement in M1 for reduced relay with CEREGLIDE 71.",
+  "deployment_steps": null,
+  "also_known_as": [
+    "CEREGLIDE 92",
+    "CereGlide 92"
+  ],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.jnjmedtech.com/en-US/products/neurovascular/ischemic/cereglide-92-catheter-system-with-trucourse/",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "sizing_specs": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "indications": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "use_notes": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "also_known_as": {
+      "source": "scraper",
+      "confidence": 0.5
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "device_name": "RAY SACRAL FIXATION SYSTEM",
+  "manufacturer": "danek-medical-inc",
+  "catalog_category": "corpectomy",
+  "filename_stem": "corpectomy--danek-medical-inc--ray-sacral-fixation",
+  "clearance_type": "510k",
+  "clearance_number": "K904520",
+  "clearance_date": "1991-10-25",
+  "device_class": 2,
+  "device_name_fda": "RAY SACRAL FIXATION SYSTEM",
+  "product_code": "KWP",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf90/K904520.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

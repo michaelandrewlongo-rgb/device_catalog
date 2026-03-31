@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K133464",
+  "clearance_date": "2014-01-17",
+  "device_class": 2,
+  "manufacturer_canonical": "stryker",
+  "manufacturer_raw": "Concentric Medical, Inc.",
+  "catalog_category": "thrombectomy",
+  "device_name_fda": "MODIFIED TREVO PROVUE RETRIEVER",
+  "product_code": "NRY",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "thrombectomy--stryker--modified-trevo-provue",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf13/K133464.pdf"
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K801120",
+  "clearance_date": "1980-05-20",
+  "device_class": 2,
+  "manufacturer_canonical": "zimmer-inc",
+  "manufacturer_raw": "Zimmer, Inc.",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "DUNN ANTERIOR DISTRACTION SYSTEM",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--zimmer-inc--dunn-anterior-distraction",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf80/K801120.pdf"
+}

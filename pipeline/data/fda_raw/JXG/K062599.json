@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K062599",
+  "clearance_date": "2006-09-27",
+  "device_class": 2,
+  "manufacturer_canonical": "integra",
+  "manufacturer_raw": "Integra LifeSciences Corporation",
+  "catalog_category": "csf-shunt",
+  "device_name_fda": "MONITORR ICP EXTERNAL DRAINAGE AND MONITORING SYSTEMS",
+  "product_code": "JXG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "csf-shunt--integra--monitorr-icp-external-drainage-and",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf06/K062599.pdf"
+}

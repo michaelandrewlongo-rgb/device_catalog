@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K202916",
+  "clearance_date": "2021-08-25",
+  "device_class": 2,
+  "manufacturer_canonical": "shanghai-heartcare-medical-technology-co-ltd",
+  "manufacturer_raw": "Shanghai Heartcare Medical Technology Co., Ltd.",
+  "catalog_category": "balloon-catheter",
+  "device_name_fda": "Balloon Guiding Catheter",
+  "product_code": "QJP",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "balloon-catheter--shanghai-heartcare-medical-technology-co-ltd--balloon-guiding-catheter",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K202916.pdf"
+}

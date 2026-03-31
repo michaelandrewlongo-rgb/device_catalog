@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K213589",
+  "clearance_date": "2022-03-24",
+  "device_class": 2,
+  "manufacturer_canonical": "asahi-intecc-co-ltd",
+  "manufacturer_raw": "Asahi Intecc Co., Ltd.",
+  "catalog_category": "microcatheter",
+  "device_name_fda": "FUBUKI XF Neurovascular Long Sheath",
+  "product_code": "QJP",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "microcatheter--asahi-intecc-co-ltd--fubuki-xf-long-sheath",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K213589.pdf"
+}

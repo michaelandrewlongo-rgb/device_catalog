@@ -1,0 +1,29 @@
+{
+  "device_name": "FRED\u2122 X",
+  "manufacturer": "microvention",
+  "catalog_category": "flow-diverter",
+  "filename_stem": "flow-diverter--microvention--fred-x-system",
+  "clearance_type": "pma",
+  "clearance_number": "P180027",
+  "clearance_date": "2025-09-18",
+  "device_class": 3,
+  "device_name_fda": "FRED X System",
+  "product_code": "OUT",
+  "what_it_is": "FRED\u2122 X",
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.terumoneuro.com/products/fred-x",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda",
+    "scraper"
+  ]
+}

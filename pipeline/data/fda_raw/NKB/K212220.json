@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K212220",
+  "clearance_date": "2023-04-20",
+  "device_class": 2,
+  "manufacturer_canonical": "artfx-medical-llc",
+  "manufacturer_raw": "Artfx Medical, LLC",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "ArtFX Spinal Fixation System",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--artfx-medical-llc--artfx-spinal-fixation",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K212220.pdf"
+}

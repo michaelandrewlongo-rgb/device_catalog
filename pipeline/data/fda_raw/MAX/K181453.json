@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K181453",
+  "clearance_date": "2018-07-25",
+  "device_class": 2,
+  "manufacturer_canonical": "alphatec-spine-inc",
+  "manufacturer_raw": "Alphatec Spine, Inc.",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "ATEC ALIF Spacer System",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--alphatec-spine-inc--atec-alif-spacer",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf18/K181453.pdf"
+}

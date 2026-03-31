@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K212402",
+  "clearance_date": "2021-12-16",
+  "device_class": 2,
+  "manufacturer_canonical": "mivi-neuroscience-inc",
+  "manufacturer_raw": "Mivi Neuroscience, Inc.",
+  "catalog_category": "distal-access",
+  "device_name_fda": "MIVI Q Distal Access Catheter",
+  "product_code": "QJP",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "distal-access--mivi-neuroscience-inc--mivi-q-distal-access-catheter",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K212402.pdf"
+}

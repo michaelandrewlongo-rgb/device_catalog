@@ -1,0 +1,28 @@
+{
+  "device_name": "Magic",
+  "manufacturer": "balt",
+  "catalog_category": "microcatheter",
+  "filename_stem": "microcatheter--balt--magic",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "Magic | Catheter\nREACH OUT",
+  "sizing_specs": "\u2014 To provide analysis;\n\u2014 To save your preferences;\n\u2014 To select the right content framework to serve you based on your geolocation.",
+  "indications": "MAGIC Infusion Catheter (K202366)\nThe MAGIC Infusion Catheter is intended for regional infusion of contrast materials into selected vessels in the neurovasculature. The MAGIC Infusion Catheter may be used for controlled, regional infusion into selected vessels and is not intended for use in the coronary vasculature.",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://baltgroup.com/products/magic",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ]
+}

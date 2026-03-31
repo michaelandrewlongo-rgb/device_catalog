@@ -1,0 +1,65 @@
+{
+  "device_name": "Optima Coil System",
+  "manufacturer": "balt",
+  "catalog_category": "embolic-coil",
+  "filename_stem": "embolic-coil--balt--optima-coil",
+  "clearance_type": "510k",
+  "clearance_number": "K200030",
+  "clearance_date": "2020-02-01",
+  "device_class": 2,
+  "device_name_fda": "Optima Coil System",
+  "product_code": "HCG",
+  "what_it_is": "The Prestige Coil System is indicated for arterial and venous embolizations in the peripheral vasculature. It is designed for use with the Ultra Detachment Controller.",
+  "sizing_specs": "Model: PRES0153HXP10",
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "MRI: MR Conditional. Pre-sterilized. Single-use\n\n[FDA RECALL] 5 active recall(s).\n  - Product pouch label does not match up with carton label\n  - Due to Label/Pouch mix-up.  Pouches incorrectly labeled. Incorrect shelf carton label or pouch label due to inadequate manufacturing line clearance. As a result of this labeling mix-up, there is the p",
+  "deployment_steps": null,
+  "also_known_as": [
+    "Optima Coil System",
+    "Non-neurovascular embolization coil"
+  ],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K200030.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "sizing_specs": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "indications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "also_known_as": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "_safety": {
+      "source": "fda_maude+recalls",
+      "confidence": 0.85
+    }
+  }
+}

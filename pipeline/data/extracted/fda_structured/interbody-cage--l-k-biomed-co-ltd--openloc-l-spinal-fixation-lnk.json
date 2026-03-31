@@ -1,0 +1,20 @@
+{
+  "source": "fda_udi",
+  "brand_name": "OpenLoc-L Spinal Fixation System, LnK Spinal Fixation System",
+  "extraction_method": "fda_udi_api",
+  "fields": {
+    "what_it_is": "Star Type (Closed Type with Rescue Hole)",
+    "sizing_specs": "Catalog: 1306-0000; Model: 1306-0000",
+    "use_notes": "MRI: Labeling does not contain MRI Safety Information. Sterilized: Moist Heat or Steam Sterilization. Single-use",
+    "also_known_as": [
+      "OpenLoc-L Spinal Fixation System/LnK Spinal Fixation System",
+      "Spinal bone set screw"
+    ]
+  },
+  "confidence": {
+    "what_it_is": 0.85,
+    "sizing_specs": 0.85,
+    "use_notes": 0.85,
+    "also_known_as": 0.85
+  }
+}

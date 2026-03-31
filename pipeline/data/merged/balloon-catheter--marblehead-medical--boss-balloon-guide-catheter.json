@@ -1,0 +1,28 @@
+{
+  "device_name": "BOSS Balloon Guide Catheter",
+  "manufacturer": "marblehead-medical",
+  "catalog_category": "balloon-catheter",
+  "filename_stem": "balloon-catheter--marblehead-medical--boss-balloon-guide-catheter",
+  "clearance_type": "510k",
+  "clearance_number": "K200910",
+  "clearance_date": "2020-05-02",
+  "device_class": 2,
+  "device_name_fda": "BOSS Balloon Guide Catheter",
+  "product_code": "QJP",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K200910.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

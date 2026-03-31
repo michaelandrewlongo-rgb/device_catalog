@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K221182",
+  "clearance_date": "2022-12-08",
+  "device_class": 2,
+  "manufacturer_canonical": "southern-medical-pty-ltd",
+  "manufacturer_raw": "Southern Medical (Pty) , Ltd.",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "Southern Transforaminal Lumbar Interbody Fusion (TLIF)",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--southern-medical-pty-ltd--southern-transforaminal-lumbar-interbody-fusion",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K221182.pdf"
+}

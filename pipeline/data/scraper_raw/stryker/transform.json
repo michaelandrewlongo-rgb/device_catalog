@@ -1,0 +1,19 @@
+{
+  "device_name": "TransForm",
+  "manufacturer": "stryker",
+  "category_hint": "embolic-coil",
+  "what_it_is": "Read Now",
+  "sizing_specs": "0.36 mm; 300 mm; 3 mm; 4 mm; 10 mm; 15 mm; 20 mm; 30 mm; 5 mm; 7 mm; 3 cm",
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "source_url": "https://www.stryker.com/us/en/neurovascular/products/transform-occlusion-balloon-catheter.html",
+  "ifu_pdf_url": null,
+  "other_pdf_urls": {
+    "transform_dfu_us_jun14": "https://www.stryker.com/content/dam/stryker/neurovascular/products/transform-occlusion-balloon-catheter/resources/TransForm_DFU_US_Jun14.pdf"
+  },
+  "clearance_numbers": []
+}

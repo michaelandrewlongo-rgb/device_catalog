@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K090507",
+  "clearance_date": "2009-06-25",
+  "device_class": 2,
+  "manufacturer_canonical": "zimmer-biomet",
+  "manufacturer_raw": "Ldr Spine USA",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "MODIFICATION TO LDR SPINE ROI INTERBODY FUSION SYSTEM; ROI-A IMPLANT SYSTEM",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--zimmer-biomet--modification-to-ldr-spine-roi",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf09/K090507.pdf"
+}

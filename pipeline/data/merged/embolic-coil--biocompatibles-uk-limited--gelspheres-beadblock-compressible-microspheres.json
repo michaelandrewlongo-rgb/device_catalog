@@ -1,0 +1,28 @@
+{
+  "device_name": "GELSPHERES / BEADBLOCK COMPRESSIBLE MICROSPHERES",
+  "manufacturer": "biocompatibles-uk-limited",
+  "catalog_category": "embolic-coil",
+  "filename_stem": "embolic-coil--biocompatibles-uk-limited--gelspheres-beadblock-compressible-microspheres",
+  "clearance_type": "510k",
+  "clearance_number": "K033761",
+  "clearance_date": "2004-02-04",
+  "device_class": 2,
+  "device_name_fda": "GELSPHERES / BEADBLOCK COMPRESSIBLE MICROSPHERES",
+  "product_code": "HCG",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf03/K033761.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

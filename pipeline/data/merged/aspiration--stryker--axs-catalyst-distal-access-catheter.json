@@ -1,0 +1,28 @@
+{
+  "device_name": "AXS Catalyst Distal Access Catheter 058 x 115cm; AXS Catalyst Distal Access Catheter 058 x 132cm; AXS Catalyst Distal Access Catheter 060 x 132cm",
+  "manufacturer": "stryker",
+  "catalog_category": "aspiration",
+  "filename_stem": "aspiration--stryker--axs-catalyst-distal-access-catheter",
+  "clearance_type": "510k",
+  "clearance_number": "K173841",
+  "clearance_date": "2018-03-18",
+  "device_class": 2,
+  "device_name_fda": "AXS Catalyst Distal Access Catheter 058 x 115cm; AXS Catalyst Distal Access Catheter 058 x 132cm; AXS Catalyst Distal Access Catheter 060 x 132cm",
+  "product_code": "NRY",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf17/K173841.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

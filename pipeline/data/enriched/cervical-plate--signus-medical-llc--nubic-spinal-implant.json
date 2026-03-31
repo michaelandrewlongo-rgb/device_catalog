@@ -1,0 +1,58 @@
+{
+  "device_name": "NUBIC SPINAL IMPLANT",
+  "manufacturer": "signus-medical-llc",
+  "catalog_category": "cervical-plate",
+  "filename_stem": "cervical-plate--signus-medical-llc--nubic-spinal-implant",
+  "clearance_type": "510k",
+  "clearance_number": "K052096",
+  "clearance_date": "2005-08-16",
+  "device_class": 2,
+  "device_name_fda": "NUBIC SPINAL IMPLANT",
+  "product_code": "MQP",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf05/K052096.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "none",
+      "confidence": 0
+    },
+    "sizing_specs": {
+      "source": "none",
+      "confidence": 0
+    },
+    "indications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "none",
+      "confidence": 0
+    },
+    "also_known_as": {
+      "source": "none",
+      "confidence": 0
+    }
+  }
+}

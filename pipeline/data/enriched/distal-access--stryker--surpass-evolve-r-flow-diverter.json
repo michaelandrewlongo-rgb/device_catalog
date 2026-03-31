@@ -1,0 +1,58 @@
+{
+  "device_name": "Surpass Evolve ® Flow Diverter",
+  "manufacturer": "stryker",
+  "catalog_category": "distal-access",
+  "filename_stem": "distal-access--stryker--surpass-evolve-r-flow-diverter",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "Surpass Evolve ® Flow Diverter",
+  "sizing_specs": "Stent Diameter (mm): 3.25, 4, 4.5, 5\nStent Length (mm): 12–40\nMaterials: Cobalt-chromium-nickel alloy (15% nickel)",
+  "indications": "The AXS Infinity LS Plus Long Sheath is indicated for the\nintroduction of interventional devices into the peripheral,\ncoronary, and neuro vasculature.",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.stryker.com/us/en/neurovascular/products/surpass-evolve.html",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "sizing_specs": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "indications": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "none",
+      "confidence": 0
+    },
+    "also_known_as": {
+      "source": "none",
+      "confidence": 0
+    }
+  }
+}

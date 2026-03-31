@@ -1,0 +1,28 @@
+{
+  "device_name": "Route 92 Medical HiPoint Reperfusion System and Aspiration Tubing Set",
+  "manufacturer": "route-92-medical-inc",
+  "catalog_category": "aspiration",
+  "filename_stem": "aspiration--route-92-medical-inc--route-92-medical-hipoint-reperfusion",
+  "clearance_type": "510k",
+  "clearance_number": "K243601",
+  "clearance_date": "2025-05-19",
+  "device_class": 2,
+  "device_name_fda": "Route 92 Medical HiPoint Reperfusion System and Aspiration Tubing Set",
+  "product_code": "NRY",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K243601.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

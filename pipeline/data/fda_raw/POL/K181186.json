@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K181186",
+  "clearance_date": "2018-10-25",
+  "device_class": 2,
+  "manufacturer_canonical": "medtronic",
+  "manufacturer_raw": "Micro Therapeutics, Inc. d/b/a ev3 Neurovascular",
+  "catalog_category": "thrombectomy",
+  "device_name_fda": "Solitare Platinum Revascularization Device",
+  "product_code": "POL",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "thrombectomy--medtronic--solitare-platinum-revascularization",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf18/K181186.pdf"
+}

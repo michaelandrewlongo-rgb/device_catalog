@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K240746",
+  "clearance_date": "2024-11-20",
+  "device_class": 2,
+  "manufacturer_canonical": "q-apel-medical-inc",
+  "manufacturer_raw": "Q'Apel Medical, Inc.",
+  "catalog_category": "microcatheter",
+  "device_name_fda": "Neurovascular Access System Family",
+  "product_code": "QJP",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "microcatheter--q-apel-medical-inc--access-family",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K240746.pdf"
+}

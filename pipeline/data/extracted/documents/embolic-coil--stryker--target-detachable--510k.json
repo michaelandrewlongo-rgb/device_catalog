@@ -1,0 +1,23 @@
+{
+  "source_pdf": "embolic-coil--stryker--target-detachable--510k.pdf",
+  "device_name": "target-detachable",
+  "manufacturer": "stryker",
+  "doc_type": "510k",
+  "extraction_method": "pdf_deepseek",
+  "fields": {
+    "what_it_is": "Stryker Neurovascular Target Detachable Coils are comprised of the following coil types: Target 360 Nano, Target Helical Nano, Target XL 360 Soft, Target 360 Ultra, Target Helical Ultra, Target XL 360 Stand, Target 360 Soft, Target XL Helical, Target 360 Standard, Target 3D. All Target Coils are stretch resistant coils. Target Coils incorporate a length of multi-strand material through the center of the coil designed to help resist stretching. Target Coils are designed for use with the Stryker Neurovascular InZone® Detachment System (sold separately). Each Target Coil type consists of a platinum-tungsten alloy coil attached to a stainless steel delivery wire. For Target Coils in the 360 shape, the distal end of the main coil is formed such that there is a smaller distal loop at the end of the main coil to facilitate placement of the coil. The diameter of the distal loop is 75% that of the rest of the main coil loops.",
+    "sizing_specs": null,
+    "indications": "Target Detachable Coils are indicated for endovascular embolization of: • Intracranial aneurysms • Other neurovascular abnormalities such as arteriovenous malformations and arteriovenous fistulae • Arterial and venous embolizations in the peripheral vasculature",
+    "contraindications": null,
+    "compatible_with": "Stryker Neurovascular InZone® Detachment System (sold separately)",
+    "use_notes": "The Stryker Neurovascular InZone Detachment System is intended for use with all Stryker Neurovascular Detachable Coils in the embolization of intracranial aneurysms and other vascular malformations of the neuro and peripheral vasculature.",
+    "also_known_as": "Target® Detachable Coils, Common Name: Occlusion Coil, Vascular Occlusion Coil, Neurovascular Occlusion Coil"
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "indications": 0.7,
+    "compatible_with": 0.7,
+    "use_notes": 0.7,
+    "also_known_as": 0.7
+  }
+}

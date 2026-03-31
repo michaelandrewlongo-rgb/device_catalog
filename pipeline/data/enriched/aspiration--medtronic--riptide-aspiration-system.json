@@ -1,0 +1,60 @@
+{
+  "device_name": "Riptide Aspiration System",
+  "manufacturer": "medtronic",
+  "catalog_category": "aspiration",
+  "filename_stem": "aspiration--medtronic--riptide-aspiration-system",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "Aspiration system designed to remove occlusive thrombus from cerebral vasculature during acute ischemic strokes using continuous aspiration. Catheter shaft has hydrophilic coating spanning distal 40 cm to reduce friction. Catheter acts as conduit providing direct aspiration to occlusion site via Riptide aspiration pump. Introduced through a guide catheter into the cerebral vasculature.",
+  "sizing_specs": null,
+  "indications": "Removal of occlusive thrombus from cerebral vasculature during acute ischemic stroke.",
+  "contraindications": null,
+  "compatible_with": "Riptide aspiration pump, guide catheter",
+  "use_notes": "Uses continuous aspiration mechanism. 40 cm hydrophilic coating on distal shaft.",
+  "deployment_steps": null,
+  "also_known_as": [
+    "Riptide"
+  ],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.medtronic.com/en-us/healthcare-professionals/products/neurological/neurovascular/aspiration/riptide-aspiration-system.html",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "sizing_specs": {
+      "source": "none",
+      "confidence": 0
+    },
+    "indications": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "use_notes": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "also_known_as": {
+      "source": "scraper",
+      "confidence": 0.5
+    }
+  }
+}

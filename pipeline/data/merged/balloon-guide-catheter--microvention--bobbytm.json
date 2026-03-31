@@ -1,0 +1,28 @@
+{
+  "device_name": "BOBBY\u2122",
+  "manufacturer": "microvention",
+  "catalog_category": "balloon-guide-catheter",
+  "filename_stem": "balloon-guide-catheter--microvention--bobbytm",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "BOBBY\u2122",
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.terumoneuro.com/products/bobby",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ]
+}

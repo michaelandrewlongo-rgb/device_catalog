@@ -1,0 +1,23 @@
+{
+  "source_pdf": "pedicle-screw--depuy--viper-prime-expedium--510k.pdf",
+  "device_name": "viper-prime-expedium",
+  "manufacturer": "depuy",
+  "doc_type": "510k",
+  "extraction_method": "pdf_deepseek",
+  "fields": {
+    "what_it_is": "The VIPER PRIME Screws are designed to facilitate a posterior percutaneous approach with minimally invasive surgery (MIS) instrumentation. The VIPER PRIME Screws with Fenestrations and the EXPEDIUM Verse Screws with Fenestrations are designed with a cannulation through the screw shank and fenestrations. The VIPER PRIME Screws, VIPER PRIME Screws with Fenestrations and EXPEDIUM Verse Screws with Fenestrations are manufactured from ASTM F136 implant grade titanium alloy and ASTM F1537 Cobalt Chromium Alloy. These devices are to be provided sterile via gamma radiation.",
+    "sizing_specs": null,
+    "indications": "The EXPEDIUM and VIPER Spine Systems are intended to provide immobilization and stabilization of spinal segments in skeletally mature patients as an adjunct to fusion in the treatment of acute and chronic instabilities or deformities of the thoracic, lumbar and sacral spine. The EXPEDIUM and VIPER Spine Systems are intended for noncervical pedicle fixation and nonpedicle fixation for the following indications: degenerative disc disease (defined as back pain of discogenic origin with degeneration of the disc confirmed by history and radiographic studies); spondylolisthesis; trauma (i.e., fracture or dislocation); spinal stenosis; curvatures (i.e., scoliosis, kyphosis, and/or lordosis); tumor, pseudoarthrosis; and failed previous fusion in skeletally mature patients. When used in a posterior percutaneous approach with MIS instrumentation, the VIPER System is intended for noncervical pedicle fixation and nonpedicle fixation for the following indications: degenerative disc disease (defined as back pain of discogenic origin with degeneration of the disc confirmed by history and radiographic studies); spondylolisthesis; trauma (i.e., fracture or dislocation); spinal stenosis; curvatures (i.e., scoliosis, kyphosis, and/or lordosis); tumor, pseudoarthrosis; and failed previous fusion in skeletally mature patients. When used for posterior noncervical pedicle screw fixation in pediatric patients, the EXPEDIUM and VIPER Spine System metallic implants are indicated as an adjunct to fusion to treat adolescent idiopathic scoliosis. The EXPEDIUM and VIPER Spine Systems are intended to be used with autograft and/or allograft. Pediatric pedicle screw fixation is limited to a posterior approach. When used in conjunction with CONFIDENCE High Viscosity Spinal Cement, the VIPER and EXPEDIUM Fenestrated Screw Systems are intended to restore the integrity of the spinal column even in the absence of fusion for a limited time period in patients with advanced stage tumors involving the thoracic and lumbar spine in whom life expectancy is of insufficient duration to permit achievement of fusion. The VIPER and EXPEDIUM Fenestrated Screw Systems augmented with CONFIDENCE High Viscosity Spinal Cement are for use at spinal levels where the structural integrity of the spine is not severely compromised.",
+    "contraindications": null,
+    "compatible_with": "The VIPER PRIME Screws are intended for use with existing components of the VIPER system. The VIPER PRIME Screws with Fenestrations and the EXPEDIUM Verse Screws with Fenestrations are intended for use with existing components of the VIPER and EXPEDIUM Verse system. The VIPER PRIME Screws with Fenestration and the EXPEDIUM Verse Screws with Fenestrations may be used in conjunction with, or without, CONFIDENCE High Viscosity Spinal Cement.",
+    "use_notes": "The VIPER PRIME Screws are intended for use with existing components of the VIPER system to generate a posterior construct to provide immobilization and stabilization of spinal segments as an adjunct to fusion. The VIPER PRIME Screws with Fenestrations and the EXPEDIUM Verse Screws with Fenestrations are intended for use with existing components of the VIPER and EXPEDIUM Verse system to generate a posterior construct to provide immobilization and stabilization of spinal segments.",
+    "also_known_as": "VIPER PRIME™ Screws, VIPER PRIME™ Screws with Fenestrations, EXPEDIUM® Verse Screws with Fenestrations, Thoracolumbosacral pedicle screw system"
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "indications": 0.7,
+    "compatible_with": 0.7,
+    "use_notes": 0.7,
+    "also_known_as": 0.7
+  }
+}

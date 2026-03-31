@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K211697",
+  "clearance_date": "2021-11-16",
+  "device_class": 2,
+  "manufacturer_canonical": "wallaby-medical",
+  "manufacturer_raw": "Wallaby Medical",
+  "catalog_category": "aspiration",
+  "device_name_fda": "Esperance Aspiration Catheter System",
+  "product_code": "NRY",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "aspiration--wallaby-medical--esperance-aspiration-catheter",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K211697.pdf"
+}

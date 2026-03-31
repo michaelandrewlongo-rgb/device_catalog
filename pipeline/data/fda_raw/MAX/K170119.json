@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K170119",
+  "clearance_date": "2017-09-29",
+  "device_class": 2,
+  "manufacturer_canonical": "x-spine-systems-inc",
+  "manufacturer_raw": "X-Spine Systems, Inc.",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "Calix Lumbar Spinal Implant System",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--x-spine-systems-inc--calix-lumbar-spinal-implant",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf17/K170119.pdf"
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K231944",
+  "clearance_date": "2023-08-24",
+  "device_class": 2,
+  "manufacturer_canonical": "tenon-medical-inc",
+  "manufacturer_raw": "Tenon Medical, Inc.",
+  "catalog_category": "sacroiliac-fusion",
+  "device_name_fda": "CATAMARAN SI Joint Fusion System",
+  "product_code": "OUR",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "sacroiliac-fusion--tenon-medical-inc--catamaran-si-joint-fusion",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K231944.pdf"
+}

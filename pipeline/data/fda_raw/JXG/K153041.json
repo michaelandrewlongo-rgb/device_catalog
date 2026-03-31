@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K153041",
+  "clearance_date": "2016-03-14",
+  "device_class": 2,
+  "manufacturer_canonical": "integra",
+  "manufacturer_raw": "Integra LifeSciences Corporation",
+  "catalog_category": "csf-shunt",
+  "device_name_fda": "Bundled Neurological Shunts and Accessories Product Families Labeling Modification to Support MR Conditional Labeling",
+  "product_code": "JXG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "csf-shunt--integra--bundled-neurological-shunts-and-accessories",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf15/K153041.pdf"
+}

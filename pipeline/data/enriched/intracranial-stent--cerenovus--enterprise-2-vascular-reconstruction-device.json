@@ -1,0 +1,62 @@
+{
+  "device_name": "ENTERPRISE 2 Vascular Reconstruction Device",
+  "manufacturer": "cerenovus",
+  "catalog_category": "intracranial-stent",
+  "filename_stem": "intracranial-stent--cerenovus--enterprise-2-vascular-reconstruction-device",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "Self-expanding intracranial stent (vascular reconstruction device) for coil-assisted embolization of wide-neck aneurysms. Closed-cell design providing stability, conformability, and ease of use. Can be recaptured and redeployed after partial deployment. Radiopaque markers for visibility during and after deployment.",
+  "sizing_specs": "Stent Diameters (mm): 5 (for vessels 2.5–4)\nStent Lengths (mm): 16, 23, 30, 39\nMaterials: Nitinol, laser-cut, closed-cell design with platinum markers",
+  "indications": "Authorized for use with embolic coils for treatment of wide-neck intracranial saccular or fusiform aneurysms arising from parent vessel diameter 2.5-4.0 mm. Wide-neck defined as neck width >= 4 mm or dome-to-neck ratio < 2. HUMANITARIAN DEVICE (USA ONLY).",
+  "contraindications": null,
+  "compatible_with": "Prowler EX Microcatheter, Prowler Select Plus (0.021 inch ID), TRUFILL n-BCA Liquid Embolic System, embolic coils",
+  "use_notes": "Higher radial resistive force than Neuroform, LVIS Jr, and Solitaire 2/FR stents. Higher chronic outward force than LVIS Jr and Solitaire 2/FR. Higher point load force than Neuroform, LVIS Jr, and Solitaire. Better wall apposition in curved vessels and excellent kink resistance vs ENTERPRISE 1. Less foreshortening than LVIS Jr and Solitaire 2/FR.",
+  "deployment_steps": null,
+  "also_known_as": [
+    "Enterprise 2",
+    "Enterprise VRD 2",
+    "ENTERPRISE2"
+  ],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.jnjmedtech.com/en-US/products/neurovascular/hemorrhagic/enterprise-2-vascular-reconstruction-device/",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "sizing_specs": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "indications": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "use_notes": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "also_known_as": {
+      "source": "scraper",
+      "confidence": 0.5
+    }
+  }
+}

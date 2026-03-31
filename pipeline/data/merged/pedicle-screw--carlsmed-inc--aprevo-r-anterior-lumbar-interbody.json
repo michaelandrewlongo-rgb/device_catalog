@@ -1,0 +1,28 @@
+{
+  "device_name": "aprevo\u00ae anterior lumbar interbody fusion device; aprevo\u00ae lateral lumbar interbody fusion device; aprevo\u00ae anterior lumbar interbody fusion device with interfixation; aprevo\u00ae transforaminal lumbar interbody fusion device; aprevo\u00ae TLIF-CA Articulating System; aprevo\u00ae Cervical ACDF; aprevo\u00ae Cervical ACDF-X; aprevo\u00ae Cervical ACDF-X No Cams",
+  "manufacturer": "carlsmed-inc",
+  "catalog_category": "pedicle-screw",
+  "filename_stem": "pedicle-screw--carlsmed-inc--aprevo-r-anterior-lumbar-interbody",
+  "clearance_type": "510k",
+  "clearance_number": "K250827",
+  "clearance_date": "2025-07-07",
+  "device_class": 2,
+  "device_name_fda": "aprevo\u00ae anterior lumbar interbody fusion device; aprevo\u00ae lateral lumbar interbody fusion device; aprevo\u00ae anterior lumbar interbody fusion device with interfixation; aprevo\u00ae transforaminal lumbar interbody fusion device; aprevo\u00ae TLIF-CA Articulating System; aprevo\u00ae Cervical ACDF; aprevo\u00ae Cervical ACDF-X; aprevo\u00ae Cervical ACDF-X No Cams",
+  "product_code": "MAX",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf25/K250827.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K052054",
+  "clearance_date": "2005-08-16",
+  "device_class": 2,
+  "manufacturer_canonical": "medtronic",
+  "manufacturer_raw": "Medtronic Sofamor Danek",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "TSRH SPINAL SYSTEM",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--medtronic--tsrh-spinal",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf05/K052054.pdf"
+}

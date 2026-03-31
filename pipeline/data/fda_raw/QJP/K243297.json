@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K243297",
+  "clearance_date": "2025-01-14",
+  "device_class": 2,
+  "manufacturer_canonical": "alembic-llc",
+  "manufacturer_raw": "Alembic, LLC",
+  "catalog_category": "microcatheter",
+  "device_name_fda": "APRO 70 Swift Catheter",
+  "product_code": "QJP",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "microcatheter--alembic-llc--apro-70-swift-catheter",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K243297.pdf"
+}

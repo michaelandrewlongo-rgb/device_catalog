@@ -1,0 +1,32 @@
+{
+  "device_name": "TRUFILL n-BCA Liquid Embolic System",
+  "manufacturer": "cerenovus",
+  "catalog_category": "liquid-embolic",
+  "filename_stem": "liquid-embolic--cerenovus--trufill-n-bca-liquid-embolic-system",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "N-butyl cyanoacrylate (n-BCA) liquid embolic system for embolization of cerebral arteriovenous malformations. Provides adjustable polymerization times to match hemodynamic flow rate and customizable tantalum concentration for visualization. Available as kit or procedural set with accessories.",
+  "sizing_specs": "Kit configurations: 1 Gram Kit (631400), 2 Gram Kit (631500), 1 Gram Procedural Set (632400NA), 2 Gram Procedural Set (632500NA); Kit contents: n-BCA, 10mL Ethiodized Oil, Tantalum Powder 1 Gram, self-piercing cap; Procedural Set adds: 30 mL beaker, 1 mL syringes (x3), 3 mL syringes (x3), 18G blunt fill needle, 21G hypodermic needles (x2), syringe labels",
+  "indications": "Embolization of cerebral arteriovenous malformations (AVMs).",
+  "contraindications": null,
+  "compatible_with": "Prowler EX Microcatheter, CEREBASE DA Guide Sheath, ENTERPRISE 2 Vascular Reconstruction Device; Does not require expensive detachable tip microcatheters or dual lumen balloon catheters",
+  "use_notes": "Complication rates numerically lower than Onyx LES but not statistically significant. Catheter retention rate 1.6% vs 9.3% for Onyx LES in RCT. Significantly shorter fluoroscopy time (37 vs 57 min, p<0.0001) and procedural time (2.1 vs 2.6 hrs, p=0.001) compared to Onyx LES. Lower total procedural costs than Onyx LES due to not requiring detachable tip microcatheters or dual lumen balloon catheters.",
+  "deployment_steps": null,
+  "also_known_as": [
+    "Trufill",
+    "TRUFILL n-BCA",
+    "n-BCA"
+  ],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.jnjmedtech.com/en-US/products/neurovascular/hemorrhagic/trufill-n-bca-liquid-embolic-system/",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ]
+}

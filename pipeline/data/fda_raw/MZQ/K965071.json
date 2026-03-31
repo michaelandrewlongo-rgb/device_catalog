@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K965071",
+  "clearance_date": "1998-04-21",
+  "device_class": 2,
+  "manufacturer_canonical": "stryker",
+  "manufacturer_raw": "Target Therapeutics",
+  "catalog_category": "balloon-catheter",
+  "device_name_fda": "DETACHABLE SLICONE BALLOON (DSB)",
+  "product_code": "MZQ",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "balloon-catheter--stryker--detachable-slicone-balloon-dsb",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf96/K965071.pdf"
+}

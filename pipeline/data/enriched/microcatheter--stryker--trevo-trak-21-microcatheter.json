@@ -1,0 +1,63 @@
+{
+  "device_name": "Trevo Trak ® 21 Microcatheter",
+  "manufacturer": "stryker",
+  "catalog_category": "microcatheter",
+  "filename_stem": "microcatheter--stryker--trevo-trak-21-microcatheter",
+  "clearance_type": "510k",
+  "clearance_number": "K211594",
+  "clearance_date": "2021-11-26",
+  "device_class": 2,
+  "device_name_fda": "Trevo Trak 21 Microcatheter",
+  "product_code": "QJP",
+  "what_it_is": "Trevo Trak ® 21 Microcatheter",
+  "sizing_specs": "Proximal Size (F): 2.7\nDistal Size (F): 2.4\nCatheter Working Length (cm): 162",
+  "indications": "The Microcatheter is indicated for use in the selective\nplacement of devices and/or fluids, such as contrast\nmedia, into the peripheral, coronary, and neuro\nvasculature during diagnostic and/or therapeutic\nprocedures.",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "[FDA RECALL] 3 active recall(s).\n  - Stryker Neurovascular has observed that devices with Out of United States (OUS) approved Instructions for Use (IFU) and Packaging Labels (pouch and carton), different configurations, have been erroneo\n  - The microcatheter IFU contains an intended use that has not been evaluated by the FDA.",
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K211594.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.stryker.com/us/en/neurovascular/products/trak-21.html",
+  "confidence_score": 0.8,
+  "needs_review": false,
+  "data_sources": [
+    "fda",
+    "scraper"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "sizing_specs": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "indications": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "none",
+      "confidence": 0
+    },
+    "also_known_as": {
+      "source": "none",
+      "confidence": 0
+    },
+    "_safety": {
+      "source": "fda_maude+recalls",
+      "confidence": 0.85
+    }
+  }
+}

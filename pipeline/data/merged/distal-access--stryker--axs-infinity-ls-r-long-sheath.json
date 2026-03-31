@@ -1,0 +1,28 @@
+{
+  "device_name": "AXS Infinity LS \u00ae Long Sheath",
+  "manufacturer": "stryker",
+  "catalog_category": "distal-access",
+  "filename_stem": "distal-access--stryker--axs-infinity-ls-r-long-sheath",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "AXS Infinity LS \u00ae Long Sheath",
+  "sizing_specs": "Techniques and portfolio",
+  "indications": "The AXS Infinity LS Long Sheath is indicated for the\nintroduction of interventional devices into the peripheral,\ncoronary, and neuro vasculature.",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.stryker.com/us/en/neurovascular/products/axs-infinity-ls.html",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ]
+}

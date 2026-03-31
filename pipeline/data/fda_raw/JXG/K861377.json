@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K861377",
+  "clearance_date": "1986-06-19",
+  "device_class": 2,
+  "manufacturer_canonical": "cordis",
+  "manufacturer_raw": "Cordis Corp.",
+  "catalog_category": "csf-shunt",
+  "device_name_fda": "STANDARD/PEDIATRIC CORDIS HYDROCEPHALUS VALVES",
+  "product_code": "JXG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "csf-shunt--cordis--standard-pediatric-cordis-hydrocephalus-valves",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf86/K861377.pdf"
+}

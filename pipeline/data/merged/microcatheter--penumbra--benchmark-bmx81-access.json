@@ -1,0 +1,28 @@
+{
+  "device_name": "BENCHMARK BMX81 Access System",
+  "manufacturer": "penumbra",
+  "catalog_category": "microcatheter",
+  "filename_stem": "microcatheter--penumbra--benchmark-bmx81-access",
+  "clearance_type": "510k",
+  "clearance_number": "K221822",
+  "clearance_date": "2022-11-04",
+  "device_class": 2,
+  "device_name_fda": "BENCHMARK BMX81 Access System",
+  "product_code": "QJP",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K221822.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K172035",
+  "clearance_date": "2018-03-24",
+  "device_class": 2,
+  "manufacturer_canonical": "btg-international-inc",
+  "manufacturer_raw": "Btg International, Inc.",
+  "catalog_category": "csf-shunt",
+  "device_name_fda": "EKOS ultrasound EVD Device, EVD Control Unit",
+  "product_code": "JXG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "csf-shunt--btg-international-inc--ekos-ultrasound-evd-evd-control",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf17/K172035.pdf"
+}

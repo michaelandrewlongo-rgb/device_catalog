@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K964021",
+  "clearance_date": "1997-03-27",
+  "device_class": 2,
+  "manufacturer_canonical": "baxter-edwards",
+  "manufacturer_raw": "Baxter Edwards",
+  "catalog_category": "embolic-coil",
+  "device_name_fda": "INTRAMED SIDE BRANCH OCCLUSION (SBO) SYSTEM  (700095 AND 700099)",
+  "product_code": "HCG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "embolic-coil--baxter-edwards--intramed-side-branch-occlusion-sbo",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf96/K964021.pdf"
+}

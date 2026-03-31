@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K212908",
+  "clearance_date": "2021-10-13",
+  "device_class": 2,
+  "manufacturer_canonical": "cerenovus",
+  "manufacturer_raw": "Neuravi, Ltd.",
+  "catalog_category": "thrombectomy",
+  "device_name_fda": "EmboTrap II Revascularization Device, EMBOTRAP III Revascularization Device",
+  "product_code": "NRY",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "thrombectomy--cerenovus--embotrap-ii-revascularization-embotrap-iii",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K212908.pdf"
+}

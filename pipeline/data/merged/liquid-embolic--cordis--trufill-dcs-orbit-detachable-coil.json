@@ -1,0 +1,28 @@
+{
+  "device_name": "TRUFILL DCS ORBIT DETACHABLE COIL AND TRUFILL DCS SYRINGE, ALSO KNOWN AS THE TRUFILL DCS ORBIT DETACHABLE COIL SYSTEM",
+  "manufacturer": "cordis",
+  "catalog_category": "liquid-embolic",
+  "filename_stem": "liquid-embolic--cordis--trufill-dcs-orbit-detachable-coil",
+  "clearance_type": "510k",
+  "clearance_number": "K030963",
+  "clearance_date": "2003-06-20",
+  "device_class": 2,
+  "device_name_fda": "TRUFILL DCS ORBIT DETACHABLE COIL AND TRUFILL DCS SYRINGE, ALSO KNOWN AS THE TRUFILL DCS ORBIT DETACHABLE COIL SYSTEM",
+  "product_code": "HCG",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf03/K030963.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

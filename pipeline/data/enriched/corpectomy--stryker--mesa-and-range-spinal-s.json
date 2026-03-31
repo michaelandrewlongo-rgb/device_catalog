@@ -1,0 +1,62 @@
+{
+  "device_name": "MESA AND RANGE SPINAL SYSTEMS",
+  "manufacturer": "stryker",
+  "catalog_category": "corpectomy",
+  "filename_stem": "corpectomy--stryker--mesa-and-range-spinal-s",
+  "clearance_type": "510k",
+  "clearance_number": "K082769",
+  "clearance_date": "2008-12-11",
+  "device_class": 2,
+  "device_name_fda": "MESA AND RANGE SPINAL SYSTEMS",
+  "product_code": "KWP",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "[FDA RECALL] 1 active recall(s).\n  - Stryker has received reports from customers indicating post-operative\nfracture of the pin that connects the tulip head to the plate body.",
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf08/K082769.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "none",
+      "confidence": 0
+    },
+    "sizing_specs": {
+      "source": "none",
+      "confidence": 0
+    },
+    "indications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "none",
+      "confidence": 0
+    },
+    "also_known_as": {
+      "source": "none",
+      "confidence": 0
+    },
+    "_safety": {
+      "source": "fda_maude+recalls",
+      "confidence": 0.85
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K181899",
+  "clearance_date": "2018-12-13",
+  "device_class": 2,
+  "manufacturer_canonical": "silony-medical-gmbh",
+  "manufacturer_raw": "Silony Medical GmbH",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "ROCCIA® PLIF",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--silony-medical-gmbh--roccia-r-plif",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf18/K181899.pdf"
+}

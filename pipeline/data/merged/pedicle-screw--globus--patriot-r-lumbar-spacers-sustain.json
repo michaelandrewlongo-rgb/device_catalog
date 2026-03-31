@@ -1,0 +1,28 @@
+{
+  "device_name": "PATRIOT\u00ae Lumbar Spacers, SUSTAIN\u00ae Spacers",
+  "manufacturer": "globus",
+  "catalog_category": "pedicle-screw",
+  "filename_stem": "pedicle-screw--globus--patriot-r-lumbar-spacers-sustain",
+  "clearance_type": "510k",
+  "clearance_number": "K181357",
+  "clearance_date": "2018-12-06",
+  "device_class": 2,
+  "device_name_fda": "PATRIOT\u00ae Lumbar Spacers, SUSTAIN\u00ae Spacers",
+  "product_code": "MAX",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf18/K181357.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

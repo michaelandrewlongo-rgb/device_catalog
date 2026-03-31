@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K180431",
+  "clearance_date": "2018-03-22",
+  "device_class": 2,
+  "manufacturer_canonical": "neurostructures-inc",
+  "manufacturer_raw": "Neurostructures, Inc.",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "Cortina [MAX] Lumbar Cage System",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--neurostructures-inc--cortina-max-lumbar-cage",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf18/K180431.pdf"
+}

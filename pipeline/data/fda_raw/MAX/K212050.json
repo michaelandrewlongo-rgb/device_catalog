@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K212050",
+  "clearance_date": "2021-12-01",
+  "device_class": 2,
+  "manufacturer_canonical": "ngmedical-gmbh",
+  "manufacturer_raw": "NGMedical GmbH",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "NGM WAVE PLIF Cage",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--ngmedical-gmbh--ngm-wave-plif-cage",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K212050.pdf"
+}

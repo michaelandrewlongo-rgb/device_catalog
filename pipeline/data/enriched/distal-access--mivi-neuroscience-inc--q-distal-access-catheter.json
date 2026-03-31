@@ -1,0 +1,61 @@
+{
+  "device_name": "Q Distal Access Catheter",
+  "manufacturer": "mivi-neuroscience-inc",
+  "catalog_category": "distal-access",
+  "filename_stem": "distal-access--mivi-neuroscience-inc--q-distal-access-catheter",
+  "clearance_type": "510k",
+  "clearance_number": "K222948",
+  "clearance_date": "2023-09-19",
+  "device_class": 2,
+  "device_name_fda": "Q Distal Access Catheter",
+  "product_code": "QJP",
+  "what_it_is": "The MIVI Q Catheter is a single-lumen, variable stiffness catheter with radiopaque markers on the distal and proximal end of the catheter portion for angiographic visualization. The catheter shaft has a hydrophilic coating. The proximal portion of the catheter is a stainless-steel control wire.",
+  "sizing_specs": "Model: Q5-57145",
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "MRI: Labeling does not contain MRI Safety Information. Pre-sterilized. Single-use",
+  "deployment_steps": null,
+  "also_known_as": [
+    "Q Distal Access Catheter",
+    "Vascular guide-catheter, single-use"
+  ],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K222948.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "sizing_specs": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "indications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "also_known_as": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    }
+  }
+}

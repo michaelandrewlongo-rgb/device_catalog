@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K212288",
+  "clearance_date": "2022-06-02",
+  "device_class": 2,
+  "manufacturer_canonical": "kai-medtech-llc",
+  "manufacturer_raw": "Kai Medtech, LLC",
+  "catalog_category": "microcatheter",
+  "device_name_fda": "Minjie Catheter System",
+  "product_code": "QJP",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "microcatheter--kai-medtech-llc--minjie-catheter",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K212288.pdf"
+}

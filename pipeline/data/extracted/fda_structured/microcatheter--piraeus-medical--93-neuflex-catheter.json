@@ -1,0 +1,20 @@
+{
+  "source": "fda_udi",
+  "brand_name": "93 NeuFlex Catheter",
+  "extraction_method": "fda_udi_api",
+  "fields": {
+    "what_it_is": "The 93 NeuFlex Catheter (100148-001) has an inner diameter of 0.093” (6F compatible), a maximum outer diameter of 0.110”, and a working length of 110 cm.",
+    "sizing_specs": "Catalog: 100148-001; Model: 100148-001",
+    "use_notes": "MRI: Labeling does not contain MRI Safety Information. Pre-sterilized. Single-use",
+    "also_known_as": [
+      "93 NeuFlex Catheter",
+      "Vascular guide-catheter, single-use"
+    ]
+  },
+  "confidence": {
+    "what_it_is": 0.85,
+    "sizing_specs": 0.85,
+    "use_notes": 0.85,
+    "also_known_as": 0.85
+  }
+}

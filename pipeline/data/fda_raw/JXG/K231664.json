@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K231664",
+  "clearance_date": "2023-10-19",
+  "device_class": 2,
+  "manufacturer_canonical": "irras-usa-inc",
+  "manufacturer_raw": "Irras USA, Inc.",
+  "catalog_category": "csf-shunt",
+  "device_name_fda": "IRRAflow Active Fluid Exchange System (AFES)",
+  "product_code": "JXG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "csf-shunt--irras-usa-inc--irraflow-active-fluid-exchange-afes",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K231664.pdf"
+}

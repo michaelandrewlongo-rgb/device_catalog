@@ -1,0 +1,62 @@
+{
+  "device_name": "VASCULAR OCCLUSION SYSTEM (TRUFILL PUSHABLE COILS), AND TRUFILL DCS ORBIT DETACHABLE COIL SYSEM",
+  "manufacturer": "cerenovus",
+  "catalog_category": "liquid-embolic",
+  "filename_stem": "liquid-embolic--cerenovus--vascular-occlusion-trufill-pushable-coils",
+  "clearance_type": "510k",
+  "clearance_number": "K123560",
+  "clearance_date": "2013-01-25",
+  "device_class": 2,
+  "device_name_fda": "VASCULAR OCCLUSION SYSTEM (TRUFILL PUSHABLE COILS), AND TRUFILL DCS ORBIT DETACHABLE COIL SYSEM",
+  "product_code": "HCG",
+  "what_it_is": "Excellent conformability and concentric filling for greater packing density",
+  "sizing_specs": "Materials: Bare platinum",
+  "indications": "Intracranial aneurysms, AVMs, and AVFs; embolization of peripheral vasculature",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "Method of Detachment: Hydraulic detachment\nCoil Type: Complex fill, complex standard, mini complex fill, helical fill, tight distal loop technology\n\n[FDA RECALL] 1 active recall(s).\n  - Detachable coils system may fail to detach, which could result in hemorrhagic and ischemic stroke, procedural delays, or the need for additional surgical intervention.",
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf12/K123560.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "sizing_specs": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "indications": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "also_known_as": {
+      "source": "none",
+      "confidence": 0
+    },
+    "_safety": {
+      "source": "fda_maude+recalls",
+      "confidence": 0.85
+    }
+  }
+}

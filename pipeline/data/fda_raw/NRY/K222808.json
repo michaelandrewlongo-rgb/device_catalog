@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K222808",
+  "clearance_date": "2022-12-20",
+  "device_class": 2,
+  "manufacturer_canonical": "penumbra",
+  "manufacturer_raw": "Penumbra, Inc.",
+  "catalog_category": "aspiration",
+  "device_name_fda": "Penumbra System (Reperfusion Catheter RED 43)",
+  "product_code": "NRY",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "aspiration--penumbra--penumbra-reperfusion-catheter-red-43",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K222808.pdf"
+}

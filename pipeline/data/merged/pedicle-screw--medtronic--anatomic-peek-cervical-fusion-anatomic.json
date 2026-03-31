@@ -1,0 +1,28 @@
+{
+  "device_name": "Anatomic PEEK\u0099 Cervical Fusion System, Anatomic PEEK\u0099 PTC Cervical Fusion System, Capstone\u0099 Spinal System, Capstone PTC\u0099 Spinal System, Capstone Control\u0099 Spinal System, Capstone Control PTC\u0099 Spinal System, Clydesdale\u0099 Spinal System, Clydesdale PTC\u0099 Spinal System, Cornerstone\u0099 PSR Cervical Fusion System, Crescent\u0099 Spinal System, Crescent\u0099 Spinal System Titanium, Divergence\u0099 Anterior Cervical Fusion System (For Stand-Alone Interbody Device Only), Divergence-L\u0099 Anterior/Oblique Lumbar Fus",
+  "manufacturer": "medtronic",
+  "catalog_category": "pedicle-screw",
+  "filename_stem": "pedicle-screw--medtronic--anatomic-peek-cervical-fusion-anatomic",
+  "clearance_type": "510k",
+  "clearance_number": "K192502",
+  "clearance_date": "2020-01-22",
+  "device_class": 2,
+  "device_name_fda": "Anatomic PEEK\u0099 Cervical Fusion System, Anatomic PEEK\u0099 PTC Cervical Fusion System, Capstone\u0099 Spinal System, Capstone PTC\u0099 Spinal System, Capstone Control\u0099 Spinal System, Capstone Control PTC\u0099 Spinal System, Clydesdale\u0099 Spinal System, Clydesdale PTC\u0099 Spinal System, Cornerstone\u0099 PSR Cervical Fusion System, Crescent\u0099 Spinal System, Crescent\u0099 Spinal System Titanium, Divergence\u0099 Anterior Cervical Fusion System (For Stand-Alone Interbody Device Only), Divergence-L\u0099 Anterior/Oblique Lumbar Fus",
+  "product_code": "MAX",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf19/K192502.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

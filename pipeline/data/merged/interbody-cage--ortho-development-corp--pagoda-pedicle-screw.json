@@ -1,0 +1,28 @@
+{
+  "device_name": "PAGODA PEDICLE SCREW SYSTEM",
+  "manufacturer": "ortho-development-corp",
+  "catalog_category": "interbody-cage",
+  "filename_stem": "interbody-cage--ortho-development-corp--pagoda-pedicle-screw",
+  "clearance_type": "510k",
+  "clearance_number": "K131785",
+  "clearance_date": "2013-08-20",
+  "device_class": 2,
+  "device_name_fda": "PAGODA PEDICLE SCREW SYSTEM",
+  "product_code": "NKB",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf13/K131785.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

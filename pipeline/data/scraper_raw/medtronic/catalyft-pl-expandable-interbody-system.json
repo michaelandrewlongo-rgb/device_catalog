@@ -1,0 +1,12 @@
+{
+  "device_name": "Catalyft PL Expandable Interbody System",
+  "manufacturer": "medtronic",
+  "category_hint": "interbody-cage",
+  "source_url": "https://www.medtronicacademy.com/en-us/content/disc-prep---system-access/Spine-Biologics",
+  "what_it_is": "Expandable posterior lumbar interbody cage for navigated MIS+ TLIF.",
+  "indications": "TLIF.",
+  "compatible_with": "Space-D, navigation.",
+  "also_known_as": [
+    "Catalyft PL"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K172548",
+  "clearance_date": "2018-01-12",
+  "device_class": 2,
+  "manufacturer_canonical": "wiltrom-corporation-limited",
+  "manufacturer_raw": "Wiltrom Corporation Limited",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "Wiltrom Spinal Fixation System",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--wiltrom-corporation-limited--wiltrom-spinal-fixation",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf17/K172548.pdf"
+}

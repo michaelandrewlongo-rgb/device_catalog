@@ -1,0 +1,530 @@
+[
+  {
+    "slug": "prestige-lp-cervical-artificial-disc",
+    "name": "Prestige LP Cervical Artificial Disc",
+    "company": "Medtronic",
+    "mfr_match": "medtronic"
+  },
+  {
+    "slug": "rise-expandable-intralif-spacer",
+    "name": "RISE expandable IntraLIF spacer",
+    "company": "Globus Medical",
+    "mfr_match": "globus"
+  },
+  {
+    "slug": "cascadia-an-3d-printed-titanium-plif-spacer",
+    "name": "Cascadia AN 3D Printed Titanium PLIF Spacer",
+    "company": "Stryker-K2M",
+    "mfr_match": "stryker"
+  },
+  {
+    "slug": "colonial-tps-acdf-spacer",
+    "name": "Colonial TPS ACDF spacer",
+    "company": "Globus Medical",
+    "mfr_match": "globus"
+  },
+  {
+    "slug": "coroent-small-interlock-2-titanium-plasma-sprayed-peek-acdf-spacer",
+    "name": "CoRoent Small Interlock 2 Titanium Plasma-Sprayed PEEK ACDF Spacer",
+    "company": "Nuvasive (Globus)",
+    "mfr_match": "nuvasive"
+  },
+  {
+    "slug": "anterior-lumbar-zero-profile-stand-alone-3d-printed-titanium-alif-spacer",
+    "name": "Anterior Lumbar Zero-Profile Stand-Alone 3D Printed Titanium ALIF Spacer",
+    "company": "Eminent Spine",
+    "mfr_match": "depuy"
+  },
+  {
+    "slug": "dakota-stand-alone-zero-profile-peektitanium-acdf-spacer",
+    "name": "DAKOTA Stand-Alone Zero-Profile PEEK/Titanium ACDF Spacer",
+    "company": "Precision Spine, Inc.",
+    "mfr_match": "depuy"
+  },
+  {
+    "slug": "tritanium-pl-3d-printed-titanium-plif-spacer",
+    "name": "Tritanium PL 3D Printed Titanium PLIF Spacer",
+    "company": "Stryker-K2M",
+    "mfr_match": "stryker"
+  },
+  {
+    "slug": "coalition-mis-titanium-acdf-spacer",
+    "name": "COALITION MIS Titanium ACDF spacer",
+    "company": "Globus Medical",
+    "mfr_match": "globus"
+  },
+  {
+    "slug": "mojave-pl-3d-expandable-interbody-plif-tlif-spacer-3d-printed",
+    "name": "Mojave PL 3D Expandable Interbody PLIF TLIF Spacer 3D printed",
+    "company": "Stryker-K2M",
+    "mfr_match": "stryker"
+  },
+  {
+    "slug": "coroent-xl-f-peek-xlif-spacer",
+    "name": "CoRoent XL-F PEEK XLIF Spacer",
+    "company": "Nuvasive (Globus)",
+    "mfr_match": "nuvasive"
+  },
+  {
+    "slug": "rise-expandable-tlifplif-spacer",
+    "name": "RISE expandable TLIF/PLIF spacer",
+    "company": "Globus Medical",
+    "mfr_match": "globus"
+  },
+  {
+    "slug": "hive-stand-alone-cervical-acdf-zero-profile",
+    "name": "HIVE Stand-Alone Cervical ACDF Zero-profile",
+    "company": "NanoHive Medical",
+    "mfr_match": "depuy"
+  },
+  {
+    "slug": "ais-c-zero-profile-stand-alone-peek-and-titanium-acdf",
+    "name": "AIS-C Zero-Profile Stand-Alone PEEK and Titanium ACDF",
+    "company": "Genesys Spine",
+    "mfr_match": "depuy"
+  },
+  {
+    "slug": "vault-c-zero-profile-modular-peektitanium-plate-stand-alone-acdf-spacer",
+    "name": "VAULT C Zero-Profile Modular PEEK/Titanium Plate Stand-Alone ACDF Spacer",
+    "company": "Precision Spine, Inc.",
+    "mfr_match": "depuy"
+  },
+  {
+    "slug": "vertu-ti-bond-zero-profile-stand-alone-acdf",
+    "name": "Vertu Ti-Bond Zero-Profile Stand-Alone ACDF",
+    "company": "Spinal Elements, Inc",
+    "mfr_match": "depuy"
+  },
+  {
+    "slug": "rise-l-expandable-titanium-lateral-interbody-spacer",
+    "name": "RISE -L Expandable Titanium Lateral Interbody Spacer",
+    "company": "Globus Medical",
+    "mfr_match": "globus"
+  },
+  {
+    "slug": "coalition-agx-anterior-cervical-plate-for-acdf",
+    "name": "COALITION AGX Anterior Cervical Plate for ACDF",
+    "company": "Globus Medical",
+    "mfr_match": "globus"
+  },
+  {
+    "slug": "capstone-peek-tlif-plif-interbody-spacer",
+    "name": "CAPSTONE PEEK TLIF & PLIF Interbody Spacer",
+    "company": "Medtronic",
+    "mfr_match": "medtronic"
+  },
+  {
+    "slug": "cascadia-cervical-3d-acdf-interbody-spacer",
+    "name": "Cascadia Cervical 3D ACDF Interbody Spacer",
+    "company": "Stryker-K2M",
+    "mfr_match": "stryker"
+  },
+  {
+    "slug": "tritanium-c-anterior-cervical-acdf-3d-titanium-spacer",
+    "name": "Tritanium C Anterior Cervical ACDF 3D Titanium Spacer",
+    "company": "Stryker-K2M",
+    "mfr_match": "stryker"
+  },
+  {
+    "slug": "divergence-peek-standalone-acdf-spacer-integrated-screws",
+    "name": "Divergence PEEK Standalone ACDF Spacer Integrated Screws",
+    "company": "Medtronic",
+    "mfr_match": "medtronic"
+  },
+  {
+    "slug": "pivox-oblique-lumbar-interbody-spacer",
+    "name": "PIVOX Oblique Lumbar Interbody Spacer",
+    "company": "Medtronic",
+    "mfr_match": "medtronic"
+  },
+  {
+    "slug": "coalition-mis-acdf-spacer-peek",
+    "name": "Coalition MIS ACDF Spacer PEEK",
+    "company": "Globus Medical",
+    "mfr_match": "globus"
+  },
+  {
+    "slug": "sable-expandable-lumbar-interbody-spacer",
+    "name": "SABLE Expandable Lumbar Interbody Spacer",
+    "company": "Globus Medical",
+    "mfr_match": "globus"
+  },
+  {
+    "slug": "coroent-small-interlock-peek-acdf-spacer",
+    "name": "CoRoent Small Interlock PEEK ACDF Spacer",
+    "company": "Nuvasive (Globus)",
+    "mfr_match": "nuvasive"
+  },
+  {
+    "slug": "colonial-peek-acdf-spacer",
+    "name": "COLONIAL PEEK ACDF Spacer",
+    "company": "Globus Medical",
+    "mfr_match": "globus"
+  },
+  {
+    "slug": "cascadia-al-3d-printed-titanium-anterior-lumbar-spacer",
+    "name": "Cascadia AL 3D Printed Titanium Anterior Lumbar Spacer",
+    "company": "Stryker-K2M",
+    "mfr_match": "stryker"
+  },
+  {
+    "slug": "capstone-ptc-peek-coated-titanium-plif-tlif-interbody-spacer",
+    "name": "CAPSTONE PTC PEEK Coated Titanium PLIF & TLIF Interbody Spacer",
+    "company": "Medtronic",
+    "mfr_match": "medtronic"
+  },
+  {
+    "slug": "divergence-l-alif-olif-peek-spacer",
+    "name": "Divergence -L ALIF & OLIF PEEK Spacer",
+    "company": "Medtronic",
+    "mfr_match": "medtronic"
+  },
+  {
+    "slug": "shoreline-rt-reef-topography-acdf-spacer-titanium-coated-peek",
+    "name": "Shoreline RT Reef Topography ACDF Spacer Titanium Coated PEEK",
+    "company": "Orthofix-SeaSpine",
+    "mfr_match": "globus"
+  },
+  {
+    "slug": "shoreline-rt-reef-topography-acdf-spacer-titanium-coated-peek",
+    "name": "Shoreline RT Reef Topography ACDF Spacer Titanium Coated PEEK",
+    "company": "Orthofix-SeaSpine",
+    "mfr_match": "nuvasive"
+  },
+  {
+    "slug": "coalition-agx-peek-cortical-allograft-spacer",
+    "name": "COALITION AGX PEEK & Cortical Allograft Spacer",
+    "company": "Globus Medical",
+    "mfr_match": "globus"
+  },
+  {
+    "slug": "cascadia-an-3d-titanium-lordotic-oblique-plif-tlif-spacer",
+    "name": "Cascadia AN 3D Titanium Lordotic Oblique PLIF & TLIF spacer",
+    "company": "Stryker-K2M",
+    "mfr_match": "stryker"
+  },
+  {
+    "slug": "coroent-oblique-tlif-spacer",
+    "name": "CoRoent Oblique TLIF Spacer",
+    "company": "Nuvasive (Globus)",
+    "mfr_match": "nuvasive"
+  },
+  {
+    "slug": "paramount-etched-titanium-zero-profile-acdf-spacer",
+    "name": "Paramount Etched Titanium Zero-Profile ACDF Spacer",
+    "company": "Spine Wave, Inc.",
+    "mfr_match": "depuy"
+  },
+  {
+    "slug": "cascadia-lateral-3d-titanium-lumbar-interbody-spacer",
+    "name": "Cascadia Lateral 3D Titanium Lumbar Interbody Spacer",
+    "company": "Stryker-K2M",
+    "mfr_match": "stryker"
+  },
+  {
+    "slug": "cascadia-tl-3d-tlif-banana-spacer",
+    "name": "Cascadia TL 3D TLIF Banana Spacer",
+    "company": "Stryker-K2M",
+    "mfr_match": "stryker"
+  },
+  {
+    "slug": "concorde-lift-expandable-tlif-plif-spacer",
+    "name": "CONCORDE LIFT Expandable TLIF & PLIF Spacer",
+    "company": "J&J MedTech (DePuy Synthes)",
+    "mfr_match": "depuy"
+  },
+  {
+    "slug": "irix-a-standalone-zero-profile-titanium-plasma-coated-peek-alif-spacer",
+    "name": "Irix-A Standalone Zero-Profile Titanium Plasma-Coated PEEK ALIF Spacer",
+    "company": "Xtant Medical",
+    "mfr_match": "depuy"
+  },
+  {
+    "slug": "clydesdale-peek-ptc-olif-llif-interbody-spacer",
+    "name": "Clydesdale PEEK & PTC OLIF LLIF Interbody Spacer",
+    "company": "Medtronic",
+    "mfr_match": "medtronic"
+  },
+  {
+    "slug": "tritanium-tl-curved-3d-tlif-spacer-3d-printed-titanium",
+    "name": "Tritanium TL Curved 3D TLIF Spacer 3D Printed Titanium",
+    "company": "Stryker-K2M",
+    "mfr_match": "stryker"
+  },
+  {
+    "slug": "altera-articulating-expandable-tlif-banana-spacer",
+    "name": "ALTERA articulating Expandable TLIF Banana Spacer",
+    "company": "Globus Medical",
+    "mfr_match": "globus"
+  },
+  {
+    "slug": "shoreline-acs-low-profile-and-0-profile-titanium-coated-peek-acdf-spacer",
+    "name": "Shoreline ACS Low profile and 0-Profile Titanium Coated PEEK ACDF Spacer",
+    "company": "Orthofix-SeaSpine",
+    "mfr_match": "globus"
+  },
+  {
+    "slug": "shoreline-acs-low-profile-and-0-profile-titanium-coated-peek-acdf-spacer",
+    "name": "Shoreline ACS Low profile and 0-Profile Titanium Coated PEEK ACDF Spacer",
+    "company": "Orthofix-SeaSpine",
+    "mfr_match": "nuvasive"
+  },
+  {
+    "slug": "zero-profile-cervical-spine-truss-system-stand-alone-acdf",
+    "name": "Zero-Profile Cervical Spine Truss System Stand Alone ACDF",
+    "company": "4WEB",
+    "mfr_match": "depuy"
+  },
+  {
+    "slug": "antares-3dr-stand-alone-zero-profile-alif-3d-titanium",
+    "name": "ANTARES 3DR Stand-Alone Zero-Profile ALIF 3D Titanium",
+    "company": "MiRus, LLC",
+    "mfr_match": "depuy"
+  },
+  {
+    "slug": "resonate-anterior-cervical-plate",
+    "name": "RESONATE Anterior Cervical Plate",
+    "company": "Globus Medical",
+    "mfr_match": "globus"
+  },
+  {
+    "slug": "reline-cervical-system",
+    "name": "Reline Cervical System",
+    "company": "Nuvasive (Globus)",
+    "mfr_match": "globus"
+  },
+  {
+    "slug": "reline-cervical-system",
+    "name": "Reline Cervical System",
+    "company": "Nuvasive (Globus)",
+    "mfr_match": "nuvasive"
+  },
+  {
+    "slug": "zevo-anterior-cervical-plating-system",
+    "name": "Zevo Anterior Cervical Plating System",
+    "company": "Medtronic",
+    "mfr_match": "medtronic"
+  },
+  {
+    "slug": "serrato-thoraco-lumbar-pedicle-screw-system",
+    "name": "Serrato Thoraco-Lumbar Pedicle Screw System",
+    "company": "Stryker-K2M",
+    "mfr_match": "stryker"
+  },
+  {
+    "slug": "creo-mcs-midline-cortical-screw-system",
+    "name": "CREO MCS - Midline Cortical Screw System",
+    "company": "Globus Medical",
+    "mfr_match": "globus"
+  },
+  {
+    "slug": "reline-small-stature-posterior-thoracic-fixation-system",
+    "name": "Reline Small Stature Posterior Thoracic Fixation System",
+    "company": "Nuvasive (Globus)",
+    "mfr_match": "globus"
+  },
+  {
+    "slug": "reline-small-stature-posterior-thoracic-fixation-system",
+    "name": "Reline Small Stature Posterior Thoracic Fixation System",
+    "company": "Nuvasive (Globus)",
+    "mfr_match": "nuvasive"
+  },
+  {
+    "slug": "creo-fenestrated-pedicle-screw-system",
+    "name": "CREO - Fenestrated Pedicle Screw System",
+    "company": "Globus Medical",
+    "mfr_match": "globus"
+  },
+  {
+    "slug": "creo-mis-percutaneous-pedicle-screw-system",
+    "name": "CREO MIS Percutaneous Pedicle Screw System",
+    "company": "Globus Medical",
+    "mfr_match": "globus"
+  },
+  {
+    "slug": "ifuse-bedrock-granite-sacroiliac-fusion-system",
+    "name": "iFuse Bedrock Granite Sacroiliac Fusion System",
+    "company": "SI-Bone, Inc",
+    "mfr_match": "si-bone"
+  },
+  {
+    "slug": "creo-cocr-cobalt-chrome-pedicle-screw-system",
+    "name": "CREO CoCr Cobalt Chrome Pedicle Screw System",
+    "company": "Globus Medical",
+    "mfr_match": "globus"
+  },
+  {
+    "slug": "reline-fenestrated-screw-system",
+    "name": "Reline Fenestrated Screw System",
+    "company": "Nuvasive (Globus)",
+    "mfr_match": "globus"
+  },
+  {
+    "slug": "reline-fenestrated-screw-system",
+    "name": "Reline Fenestrated Screw System",
+    "company": "Nuvasive (Globus)",
+    "mfr_match": "nuvasive"
+  },
+  {
+    "slug": "precept-posterior-spinal-fixation-system",
+    "name": "Precept Posterior Spinal Fixation System",
+    "company": "Nuvasive (Globus)",
+    "mfr_match": "nuvasive"
+  },
+  {
+    "slug": "es2-percutaneous-thoracolumbar-pedicle-screw-set",
+    "name": "ES2 Percutaneous Thoracolumbar Pedicle Screw Set",
+    "company": "Stryker-K2M",
+    "mfr_match": "stryker"
+  },
+  {
+    "slug": "creo-side-loading-pedicle-screw-system",
+    "name": "CREO Side Loading Pedicle Screw System",
+    "company": "Globus Medical",
+    "mfr_match": "globus"
+  },
+  {
+    "slug": "creo-linx-pedicle-screw-connector",
+    "name": "CREO LINX Pedicle Screw Connector",
+    "company": "Globus Medical",
+    "mfr_match": "globus"
+  },
+  {
+    "slug": "creo-s2ai-s2-alar-si-screw",
+    "name": "CREO S2AI S2-Alar SI Screw",
+    "company": "Globus Medical",
+    "mfr_match": "globus"
+  },
+  {
+    "slug": "creo-addition-fusion-extension-system",
+    "name": "CREO ADDITION Fusion Extension System",
+    "company": "Globus Medical",
+    "mfr_match": "globus"
+  },
+  {
+    "slug": "creo-55-small-diameter-low-profile-system",
+    "name": "CREO 5.5 Small Diameter low profile system",
+    "company": "Globus Medical",
+    "mfr_match": "globus"
+  },
+  {
+    "slug": "xia-45-ct-cortical-trajectory-pedicle-screw",
+    "name": "Xia 4.5 CT Cortical Trajectory Pedicle Screw",
+    "company": "Stryker-K2M",
+    "mfr_match": "stryker"
+  },
+  {
+    "slug": "creo-amp-modular-thoracolumbar-pedicle-screw-system",
+    "name": "CREO AMP - Modular Thoracolumbar Pedicle Screw System",
+    "company": "Globus Medical",
+    "mfr_match": "globus"
+  },
+  {
+    "slug": "ifuse-torq-tnt-3d-titanium-porous-through-and-through-bolt",
+    "name": "iFuse TORQ TNT 3D Titanium Porous Through-and-through Bolt",
+    "company": "SI-Bone, Inc",
+    "mfr_match": "si-bone"
+  },
+  {
+    "slug": "reline-posterior-fixation-systems",
+    "name": "Reline Posterior Fixation Systems",
+    "company": "Nuvasive (Globus)",
+    "mfr_match": "globus"
+  },
+  {
+    "slug": "reline-posterior-fixation-systems",
+    "name": "Reline Posterior Fixation Systems",
+    "company": "Nuvasive (Globus)",
+    "mfr_match": "nuvasive"
+  },
+  {
+    "slug": "creo-nxt-cobalt-chrome-deformity-system",
+    "name": "CREO NXT Cobalt Chrome Deformity System",
+    "company": "Globus Medical",
+    "mfr_match": "globus"
+  },
+  {
+    "slug": "quartex-addition-c-complex-and-revision-cervico-thoracic-fusion",
+    "name": "QUARTEX ADDITION-C Complex and Revision Cervico-Thoracic fusion",
+    "company": "Globus Medical",
+    "mfr_match": "globus"
+  },
+  {
+    "slug": "everest-thoracolumbar-spinal-deformity-set",
+    "name": "Everest Thoracolumbar Spinal Deformity Set",
+    "company": "Stryker-K2M",
+    "mfr_match": "stryker"
+  },
+  {
+    "slug": "ifuse-torq-3d-printed-porous-titanium-si-screw",
+    "name": "iFuse TORQ 3D Printed Porous Titanium SI Screw",
+    "company": "SI-Bone, Inc",
+    "mfr_match": "si-bone"
+  },
+  {
+    "slug": "creo-one-robotic-screw-system",
+    "name": "CREO ONE Robotic Screw System",
+    "company": "Globus Medical",
+    "mfr_match": "globus"
+  },
+  {
+    "slug": "xia-45-deformity-thoraco-lumbar-pedicle-screw-system",
+    "name": "Xia 4.5 Deformity Thoraco-Lumbar Pedicle Screw System",
+    "company": "Stryker-K2M",
+    "mfr_match": "stryker"
+  },
+  {
+    "slug": "xia-3-ais-thoracolumbar-fusion-set",
+    "name": "Xia 3 AIS Thoracolumbar Fusion Set",
+    "company": "Stryker-K2M",
+    "mfr_match": "stryker"
+  },
+  {
+    "slug": "ifuse-3d-porous-titanium-si-dowell",
+    "name": "iFuse 3D Porous Titanium SI Dowell",
+    "company": "SI-Bone, Inc",
+    "mfr_match": "si-bone"
+  },
+  {
+    "slug": "creo-dlx-large-diameter-rod-system",
+    "name": "CREO DLX Large Diameter Rod System",
+    "company": "Globus Medical",
+    "mfr_match": "globus"
+  },
+  {
+    "slug": "cd-horizon-modulex-55-spinal-system-with-nanolock",
+    "name": "CD Horizon ModuLeX 5.5 Spinal System with NanoLOCK",
+    "company": "Medtronic",
+    "mfr_match": "medtronic"
+  },
+  {
+    "slug": "cd-horizon-solera-475mm-5560mm-thoracolumbar-fixation-system",
+    "name": "CD Horizon Solera 4.75mm & 5.5/6.0mm Thoracolumbar Fixation System",
+    "company": "Medtronic",
+    "mfr_match": "medtronic"
+  },
+  {
+    "slug": "sacrix-sacrofuse-posterior-lateral-si-joint-fusion-screw",
+    "name": "SACRIX SacroFuse Posterior-Lateral SI Joint Fusion Screw\n\nCOMPANY: NANISX (KIC Ventures)\n\nTAGS: Spinal Implants, Screws, Lateral SI Screw (or Posterior...\n\nDESCRIPTION: The SacroFuse by SACRIX is a subsidiary of NANASX (A venture of KIC Ventures) that provide...\nLEARN ABOUT THIS PRODUCT",
+    "company": "",
+    "mfr_match": "medtronic"
+  },
+  {
+    "slug": "ifuse-intra-triangular-allograft-cortical-dowel",
+    "name": "iFuse INTRA Triangular Allograft Cortical Dowel\n\nCOMPANY: SI-Bone, Inc\n\nTAGS: Spinal Implants, SI Joint, Posterior Fixation, Allograf...\n\nDESCRIPTION: the iFuse INTRA is a triangular cortical allograft dowel for use in the intra-articular st...\nLEARN ABOUT THIS PRODUCT",
+    "company": "",
+    "mfr_match": "si-bone"
+  },
+  {
+    "slug": "ifuse-intra-ti-3d-titanium-posterior-si-joint-implant",
+    "name": "iFuse INTRA Ti 3D Titanium Posterior SI Joint Implant\n\nCOMPANY: SI-Bone, Inc\n\nTAGS: Spinal Implants, SI Joint, Posterior Fixation, Titanium...\n\nDESCRIPTION: The SI-Bone iFuse INTRA Ti is a 3D printed minimally invasive titanium implant desined for...\nLEARN ABOUT THIS PRODUCT",
+    "company": "",
+    "mfr_match": "si-bone"
+  },
+  {
+    "slug": "ifuse-intra-x-allograft-cortical-si-joint-dowell",
+    "name": "iFuse INTRA X Allograft Cortical SI Joint Dowell\n\nCOMPANY: SI-Bone, Inc\n\nTAGS: Spinal Implants, SI Joint, Posterior Fixation, Allograf...\n\nDESCRIPTION: The SI-Bone iFuse INTRA X are small cylindrical cortical allograft dowel pegs for intra-ar...\nLEARN ABOUT THIS PRODUCT",
+    "company": "",
+    "mfr_match": "si-bone"
+  }
+]

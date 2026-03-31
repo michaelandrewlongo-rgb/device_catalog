@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K162539",
+  "clearance_date": "2016-11-10",
+  "device_class": 2,
+  "manufacturer_canonical": "medtronic",
+  "manufacturer_raw": "Micro Therapeutics, Inc. d/b/a ev3 Neurovascular",
+  "catalog_category": "thrombectomy",
+  "device_name_fda": "Solitaire 2 Revascularization Device",
+  "product_code": "POL",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "thrombectomy--medtronic--solitaire-2-revascularization",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf16/K162539.pdf"
+}

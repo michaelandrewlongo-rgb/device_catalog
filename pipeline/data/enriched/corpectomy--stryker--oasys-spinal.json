@@ -1,0 +1,65 @@
+{
+  "device_name": "OASYS SPINAL SYSTEM",
+  "manufacturer": "stryker",
+  "catalog_category": "corpectomy",
+  "filename_stem": "corpectomy--stryker--oasys-spinal",
+  "clearance_type": "510k",
+  "clearance_number": "K111719",
+  "clearance_date": "2012-01-19",
+  "device_class": 2,
+  "device_name_fda": "OASYS SPINAL SYSTEM",
+  "product_code": "KWP",
+  "what_it_is": "800-860 mm Transition Rod Tube",
+  "sizing_specs": "Catalog: 48850800; Model: 48850800",
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "MRI: Labeling does not contain MRI Safety Information. Sterilized: Moist Heat or Steam Sterilization. Single-use\n\n[FDA RECALL] 1 active recall(s).\n  - Stryker has received reports from customers indicating post-operative\nfracture of the pin that connects the tulip head to the plate body.",
+  "deployment_steps": null,
+  "also_known_as": [
+    "OASYS Spinal System",
+    "General internal orthopaedic fixation system implantation kit"
+  ],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf11/K111719.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "sizing_specs": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "indications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "also_known_as": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "_safety": {
+      "source": "fda_maude+recalls",
+      "confidence": 0.85
+    }
+  }
+}

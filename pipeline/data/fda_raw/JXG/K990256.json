@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K990256",
+  "clearance_date": "1999-04-01",
+  "device_class": 2,
+  "manufacturer_canonical": "phoenix-biomedical-corp",
+  "manufacturer_raw": "Phoenix Biomedical Corp.",
+  "catalog_category": "csf-shunt",
+  "device_name_fda": "CRX WORLD SHUNT",
+  "product_code": "JXG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "csf-shunt--phoenix-biomedical-corp--crx-world-shunt",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf99/K990256.pdf"
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K142460",
+  "clearance_date": "2014-10-01",
+  "device_class": 2,
+  "manufacturer_canonical": "johnson-and-johnson",
+  "manufacturer_raw": "Johnson and Johnson",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "EXPEDIUM Spine System/Synapse System",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--johnson-and-johnson--expedium-spine-synapse",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf14/K142460.pdf"
+}

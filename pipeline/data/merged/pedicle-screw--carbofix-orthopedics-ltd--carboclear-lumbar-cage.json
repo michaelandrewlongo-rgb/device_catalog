@@ -1,0 +1,28 @@
+{
+  "device_name": "CarboClear Lumbar Cage System",
+  "manufacturer": "carbofix-orthopedics-ltd",
+  "catalog_category": "pedicle-screw",
+  "filename_stem": "pedicle-screw--carbofix-orthopedics-ltd--carboclear-lumbar-cage",
+  "clearance_type": "510k",
+  "clearance_number": "K193378",
+  "clearance_date": "2020-03-02",
+  "device_class": 2,
+  "device_name_fda": "CarboClear Lumbar Cage System",
+  "product_code": "MAX",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf19/K193378.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K221951",
+  "clearance_date": "2022-10-11",
+  "device_class": 2,
+  "manufacturer_canonical": "asahi-intecc-co-ltd",
+  "manufacturer_raw": "Asahi Intecc Co., Ltd.",
+  "catalog_category": "balloon-catheter",
+  "device_name_fda": "Branchor Balloon Guide Catheter",
+  "product_code": "QJP",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "balloon-catheter--asahi-intecc-co-ltd--branchor-balloon-guide-catheter",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K221951.pdf"
+}

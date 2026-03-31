@@ -1,0 +1,62 @@
+{
+  "device_name": "MicroPlex Coil System (MCS) - HyperSoft 3D",
+  "manufacturer": "microvention",
+  "catalog_category": "embolic-coil",
+  "filename_stem": "embolic-coil--microvention--microplex-coil-mcs-hypersoft-3d",
+  "clearance_type": "510k",
+  "clearance_number": "K161452",
+  "clearance_date": "2016-08-31",
+  "device_class": 2,
+  "device_name_fda": "MicroPlex Coil System (MCS) - HyperSoft 3D",
+  "product_code": "HCG",
+  "what_it_is": "Platinum coils provide versatile framework, stability, and conformability",
+  "sizing_specs": "Materials: Bare-platinum coils",
+  "indications": "Intended for the endovascular embolization of intracranial aneurysms and other neurovascular abnormalities such as arteriovenous malformations and arteriovenous fistulae; intended for vascular occlusion of blood vessels within the neurovascular system to permanently obstruct blood flow to an aneurysm or other vascular malformation and for arterial and venous embolizations in the peripheral vasculature",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "Method of Detachment: V-Grip detachment controller, self-contained integrated power supply, rapid coil detachment: 0.75 seconds\nCoil Type: MicroPlex Coil System, complex shape, for filling and finishing\n\n[FDA RECALL] 16 active recall(s).\n  - The devices may be missing the implant coil.\n  - The devices may be missing the implant coil.",
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf16/K161452.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "sizing_specs": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "indications": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "also_known_as": {
+      "source": "none",
+      "confidence": 0
+    },
+    "_safety": {
+      "source": "fda_maude+recalls",
+      "confidence": 0.85
+    }
+  }
+}

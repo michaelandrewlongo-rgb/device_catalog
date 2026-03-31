@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K170599",
+  "clearance_date": "2017-08-31",
+  "device_class": 2,
+  "manufacturer_canonical": "arkis-biosciences-inc",
+  "manufacturer_raw": "Arkis Biosciences, Inc.",
+  "catalog_category": "csf-shunt",
+  "device_name_fda": "SureFlo EVD Catheter",
+  "product_code": "JXG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "csf-shunt--arkis-biosciences-inc--sureflo-evd-catheter",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf17/K170599.pdf"
+}

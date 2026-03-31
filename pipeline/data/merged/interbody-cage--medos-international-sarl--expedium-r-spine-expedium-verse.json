@@ -1,0 +1,28 @@
+{
+  "device_name": "EXPEDIUM\u00ae Spine System, EXPEDIUM VERSE\u00ae Spine System: ALTALYNE\u0099 Ultra Rods",
+  "manufacturer": "medos-international-sarl",
+  "catalog_category": "interbody-cage",
+  "filename_stem": "interbody-cage--medos-international-sarl--expedium-r-spine-expedium-verse",
+  "clearance_type": "510k",
+  "clearance_number": "K222473",
+  "clearance_date": "2022-10-13",
+  "device_class": 2,
+  "device_name_fda": "EXPEDIUM\u00ae Spine System, EXPEDIUM VERSE\u00ae Spine System: ALTALYNE\u0099 Ultra Rods",
+  "product_code": "NKB",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K222473.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

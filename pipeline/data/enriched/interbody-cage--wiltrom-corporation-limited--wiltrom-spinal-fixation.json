@@ -1,0 +1,61 @@
+{
+  "device_name": "Wiltrom Spinal Fixation System",
+  "manufacturer": "wiltrom-corporation-limited",
+  "catalog_category": "interbody-cage",
+  "filename_stem": "interbody-cage--wiltrom-corporation-limited--wiltrom-spinal-fixation",
+  "clearance_type": "510k",
+  "clearance_number": "K202894",
+  "clearance_date": "2020-10-23",
+  "device_class": 2,
+  "device_name_fda": "Wiltrom Spinal Fixation System",
+  "product_code": "NKB",
+  "what_it_is": "The Wiltrom Spinal Fixation System is comprised of screws, rods, cross-link connector and associated surgical instruments that\nallow the surgeon to build an implant system to fit the patient's anatomical and physiological requirements. The Wiltrom Spinal\nFixation System is designed to be used to stabilize the vertebrae through a posterior approach. The Wiltrom spinal implants are\nmade of Ti-6Al-4V ELI material which complies with ISO 5832-3 and ASTM F136. Wiltrom Spinal Fixation System is provided nonsterile,\nand the implants are for single use only.",
+  "sizing_specs": "Model: 43557545 Polyaxial Reduction Pedicle Screw ø=7.5 L=45",
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "MRI: Labeling does not contain MRI Safety Information. Sterilized: Moist Heat or Steam Sterilization. Single-use",
+  "deployment_steps": null,
+  "also_known_as": [
+    "Wiltrom Spinal Fixation System",
+    "Spinal bone screw, non-bioabsorbable"
+  ],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K202894.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "sizing_specs": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "indications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "also_known_as": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    }
+  }
+}

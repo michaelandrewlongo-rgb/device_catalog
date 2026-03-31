@@ -1,0 +1,28 @@
+{
+  "device_name": "Solitaire 2 and Solitaire Platinum Revascularization Device",
+  "manufacturer": "medtronic",
+  "catalog_category": "thrombectomy",
+  "filename_stem": "thrombectomy--medtronic--solitaire-2-and-solitaire-platinum",
+  "clearance_type": "510k",
+  "clearance_number": "K181060",
+  "clearance_date": "2018-08-24",
+  "device_class": 2,
+  "device_name_fda": "Solitaire 2 and Solitaire Platinum Revascularization Device",
+  "product_code": "POL",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf18/K181060.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

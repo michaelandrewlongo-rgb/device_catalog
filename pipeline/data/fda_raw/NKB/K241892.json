@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K241892",
+  "clearance_date": "2024-08-02",
+  "device_class": 2,
+  "manufacturer_canonical": "xtant-medical-holdings-inc",
+  "manufacturer_raw": "Xtant Medical Holdings, Inc.",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "Cortera Spinal Fixation System",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--xtant-medical-holdings-inc--cortera-spinal-fixation",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K241892.pdf"
+}

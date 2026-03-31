@@ -1,0 +1,62 @@
+{
+  "device_name": "Onyx Liquid Embolic System",
+  "manufacturer": "medtronic",
+  "catalog_category": "liquid-embolic",
+  "filename_stem": "liquid-embolic--medtronic--onyx-liquid-embolic-system",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "An ethylene vinyl alcohol copolymer that provides controlled injection and reliability for presurgical embolization of brain AVMs",
+  "sizing_specs": "Materials: EVOH, dimethyl sulfoxide, tantalum",
+  "indications": "Presurgical embolization of brain AVMs",
+  "contraindications": null,
+  "compatible_with": "Apollo Onyx delivery micro catheter (detachable tip), Echelon micro catheter, Marathon flow-directed micro catheter, Mirage hydrophilic guidewire",
+  "use_notes": "Cohesive deposition provides responsive controlled embolization. Requires DMSO-compatible microcatheter for delivery. IFU reference: M016938CDOC2 Rev. G (12/2025).",
+  "deployment_steps": null,
+  "also_known_as": [
+    "Onyx 18",
+    "Onyx 34",
+    "Onyx LES"
+  ],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.medtronic.com/en-us/healthcare-professionals/products/neurological/neurovascular/liquid-embolics/onyx-liquid-embolic-system.html",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "sizing_specs": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "indications": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "use_notes": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "also_known_as": {
+      "source": "scraper",
+      "confidence": 0.5
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "device_name": "NOVA Minimally Invasive System",
+  "manufacturer": "baui-biotech-co-ltd",
+  "catalog_category": "interbody-cage",
+  "filename_stem": "interbody-cage--baui-biotech-co-ltd--nova-minimally-invasive",
+  "clearance_type": "510k",
+  "clearance_number": "K242899",
+  "clearance_date": "2024-10-17",
+  "device_class": 2,
+  "device_name_fda": "NOVA Minimally Invasive System",
+  "product_code": "NKB",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K242899.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

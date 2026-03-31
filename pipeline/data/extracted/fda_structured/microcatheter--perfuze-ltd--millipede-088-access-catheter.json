@@ -1,0 +1,20 @@
+{
+  "source": "fda_udi",
+  "brand_name": "Millipede 088 Access Catheter",
+  "extraction_method": "fda_udi_api",
+  "fields": {
+    "what_it_is": "The Millipede 088 Access Catheter consists of the catheter, a rotating hemostasis valve (RHV) and a valve crossing tool. The catheter, RHV and valve crossing tool are provided sterile. They are sterilized by ethylene oxide (EO).\nThe Millipede 088 Access Catheter is a single lumen, coil-reinforced, variable stiffness catheter. The distal segment has a hydrophilic coating for navigation through the vasculature. The catheter has a radiopaque marker located at its distal end for visualization under fluoroscopy. The valve crossing tool is used to open the valve of the access sheath and to facilitate insertion of the Millipede 088 Access Catheter through the access sheath without damage. The RHV is assembled onto the hub of the Millipede 088 Access Catheter and is used to maintain hemostasis during infusion of saline and contrast agent and insertion of other devices through the Millipede 088 Access Catheter.",
+    "sizing_specs": "Catalog: MA088117US; Model: 1.1",
+    "use_notes": "MRI: Labeling does not contain MRI Safety Information. Pre-sterilized. Single-use",
+    "also_known_as": [
+      "Millipede 088 Access Catheter",
+      "Vascular guide-catheter, single-use"
+    ]
+  },
+  "confidence": {
+    "what_it_is": 0.85,
+    "sizing_specs": 0.85,
+    "use_notes": 0.85,
+    "also_known_as": 0.85
+  }
+}

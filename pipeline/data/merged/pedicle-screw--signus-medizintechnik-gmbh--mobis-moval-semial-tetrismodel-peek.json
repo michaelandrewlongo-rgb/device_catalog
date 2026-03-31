@@ -1,0 +1,28 @@
+{
+  "device_name": "MOBIS, MOVAL, SEMIAL, TETRISMODEL PEEK AND TITANIUM, KIMBA MODEL STANDARD AND MINI",
+  "manufacturer": "signus-medizintechnik-gmbh",
+  "catalog_category": "pedicle-screw",
+  "filename_stem": "pedicle-screw--signus-medizintechnik-gmbh--mobis-moval-semial-tetrismodel-peek",
+  "clearance_type": "510k",
+  "clearance_number": "K111792",
+  "clearance_date": "2012-03-05",
+  "device_class": 2,
+  "device_name_fda": "MOBIS, MOVAL, SEMIAL, TETRISMODEL PEEK AND TITANIUM, KIMBA MODEL STANDARD AND MINI",
+  "product_code": "MAX",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf11/K111792.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

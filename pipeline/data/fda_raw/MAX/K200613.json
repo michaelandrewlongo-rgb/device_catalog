@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K200613",
+  "clearance_date": "2020-04-15",
+  "device_class": 2,
+  "manufacturer_canonical": "stryker",
+  "manufacturer_raw": "Stryker Corporation",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "Tritanium® X TL Expandable Curved Posterior Lumbar Cage",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--stryker--tritanium-r-x-tl-expandable",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K200613.pdf"
+}

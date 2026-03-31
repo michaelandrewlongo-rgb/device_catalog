@@ -1,0 +1,30 @@
+{
+  "device_name": "SABLE Expandable Posterior Lumbar Interbody Spacer",
+  "manufacturer": "globus",
+  "catalog_category": "interbody-cage",
+  "filename_stem": "interbody-cage--globus--sable-expandable-posterior-lumbar-interbody-spacer",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "Expandable posterior lumbar interbody spacer with 3D-printed titanium endplates. Minimizes endplate disruption, maximizes sagittal balance restoration, in situ bone graft delivery.",
+  "sizing_specs": null,
+  "indications": "TLIF/PLIF.",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [
+    "SABLE"
+  ],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.globusmedical.com/healthcare-professionals/spine/procedures/tlif/",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ]
+}

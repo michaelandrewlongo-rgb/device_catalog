@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K030875",
+  "clearance_date": "2003-06-24",
+  "device_class": 2,
+  "manufacturer_canonical": "medtronic",
+  "manufacturer_raw": "Medtronic Sofamor Danek, Inc.",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "MODIFICATION TO COLORADO 2 SPINAL SYSTEM",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--medtronic--modification-to-colorado-2-spinal",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf03/K030875.pdf"
+}

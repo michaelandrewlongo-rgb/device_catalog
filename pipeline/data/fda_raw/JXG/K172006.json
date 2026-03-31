@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K172006",
+  "clearance_date": "2017-11-09",
+  "device_class": 2,
+  "manufacturer_canonical": "alcyone-lifesciences-inc",
+  "manufacturer_raw": "Alcyone Lifesciences, Inc.",
+  "catalog_category": "csf-shunt",
+  "device_name_fda": "Alivio Ventricular Catheter and Flusher System (Alivio System)",
+  "product_code": "JXG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "csf-shunt--alcyone-lifesciences-inc--alivio-ventricular-catheter-and-flusher",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf17/K172006.pdf"
+}

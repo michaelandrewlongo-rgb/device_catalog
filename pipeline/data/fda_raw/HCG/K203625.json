@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K203625",
+  "clearance_date": "2021-09-01",
+  "device_class": 2,
+  "manufacturer_canonical": "microport-neurotech-shanghai-co-ltd",
+  "manufacturer_raw": "MicroPort NeuroTech (Shanghai) Co., Ltd.",
+  "catalog_category": "embolic-coil",
+  "device_name_fda": "Numen Coil Embolization System; NumenFR Detachment System",
+  "product_code": "HCG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "embolic-coil--microport-neurotech-shanghai-co-ltd--numen-coil-embolization-numenfr-detachment",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K203625.pdf"
+}

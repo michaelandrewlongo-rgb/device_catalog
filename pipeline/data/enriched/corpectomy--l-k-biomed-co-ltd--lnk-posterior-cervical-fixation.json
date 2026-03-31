@@ -1,0 +1,61 @@
+{
+  "device_name": "LnK Posterior Cervical Fixation System",
+  "manufacturer": "l-k-biomed-co-ltd",
+  "catalog_category": "corpectomy",
+  "filename_stem": "corpectomy--l-k-biomed-co-ltd--lnk-posterior-cervical-fixation",
+  "clearance_type": "510k",
+  "clearance_number": "K143278",
+  "clearance_date": "2015-07-29",
+  "device_class": 2,
+  "device_name_fda": "LnK Posterior Cervical Fixation System",
+  "product_code": "KWP",
+  "what_it_is": "L&K Biomed Cervical Partially poly axial Screw 3.5x26mm 1EA",
+  "sizing_specs": "Catalog: 6117-3526; Model: 6117-3526",
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "MRI: Labeling does not contain MRI Safety Information. Sterilized: Moist Heat or Steam Sterilization. Single-use",
+  "deployment_steps": null,
+  "also_known_as": [
+    "LnK Posterior Cervical Fixation System",
+    "Spinal bone screw, non-bioabsorbable"
+  ],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf14/K143278.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "sizing_specs": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "indications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "also_known_as": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    }
+  }
+}

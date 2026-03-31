@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K172828",
+  "clearance_date": "2018-02-01",
+  "device_class": 2,
+  "manufacturer_canonical": "double-medical-technology-inc",
+  "manufacturer_raw": "Double Medical Technology, Inc.",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "Double Medical Cage System",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--double-medical-technology-inc--double-medical-cage",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf17/K172828.pdf"
+}

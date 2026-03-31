@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K252514",
+  "clearance_date": "2025-11-05",
+  "device_class": 2,
+  "manufacturer_canonical": "phasor-health-llc",
+  "manufacturer_raw": "Phasor Health, LLC",
+  "catalog_category": "csf-shunt",
+  "device_name_fda": "EVAC-MRI",
+  "product_code": "JXG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "csf-shunt--phasor-health-llc--evac-mri",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf25/K252514.pdf"
+}

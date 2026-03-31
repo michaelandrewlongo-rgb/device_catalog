@@ -1,0 +1,28 @@
+{
+  "device_name": "Fortilink Interbody Fusion Device (IBF) with TETRAfuse 3D Technology",
+  "manufacturer": "pioneer-surgical-technology-inc-dba-rti-surgical-inc",
+  "catalog_category": "pedicle-screw",
+  "filename_stem": "pedicle-screw--pioneer-surgical-technology-inc-dba-rti-surgical-inc--fortilink-interbody-fusion-ibf-with",
+  "clearance_type": "510k",
+  "clearance_number": "K192718",
+  "clearance_date": "2019-12-20",
+  "device_class": 2,
+  "device_name_fda": "Fortilink Interbody Fusion Device (IBF) with TETRAfuse 3D Technology",
+  "product_code": "MAX",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf19/K192718.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

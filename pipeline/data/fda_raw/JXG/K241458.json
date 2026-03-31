@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K241458",
+  "clearance_date": "2024-08-20",
+  "device_class": 2,
+  "manufacturer_canonical": "borvo-medical-inc",
+  "manufacturer_raw": "Borvo Medical, Inc.",
+  "catalog_category": "csf-shunt",
+  "device_name_fda": "Borvo EVAC System (Ergo); Borvo EVAC System (Classic)",
+  "product_code": "JXG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "csf-shunt--borvo-medical-inc--borvo-evac-ergo-borvo-evac",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K241458.pdf"
+}

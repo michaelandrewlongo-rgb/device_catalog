@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K053474",
+  "clearance_date": "2006-01-06",
+  "device_class": 2,
+  "manufacturer_canonical": "medtronic",
+  "manufacturer_raw": "Medtronic Sofamor Danek",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "CD HORIZON SPINAL SYSTEM",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--medtronic--cd-horizon-spinal",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf05/K053474.pdf"
+}

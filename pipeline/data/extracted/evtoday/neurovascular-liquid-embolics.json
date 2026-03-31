@@ -1,0 +1,54 @@
+{
+  "category": "liquid-embolic",
+  "source_url": "https://evtoday.com/device-guide/us/neurovascular-liquid-embolics",
+  "headers": [
+    "Compare",
+    "Company Name",
+    "Product Name",
+    "Materials Used",
+    "US FDA Indicated Use",
+    "Comments"
+  ],
+  "devices": [
+    {
+      "Compare": "",
+      "Company Name": "Instylla, Inc.",
+      "Product Name": "Embrace Hydrogel Embolic System",
+      "Materials Used": "Water-based PEG hydrogel",
+      "US FDA Indicated Use": "Indicated for embolization of hypervascular tumors in peripheral arteries ≤ 5 mm",
+      "Comments": "N/A"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Sirtex Medical Inc.",
+      "Product Name": "LAVA Liquid Embolic System: LAVA 18 (2 mL, 6 mL) and LAVA 34 (2 mL, 6mL)",
+      "Materials Used": "EVOH, dimethyl sulfoxide, tantalum",
+      "US FDA Indicated Use": "Embolization of peripheral arterial hemorrhages",
+      "Comments": "An injectable, nonadhesive liquid embolic agent comprised of ethylene vinyl alcohol copolymer; available in two premixed product formulations with two different vial sizes offering convenient preparation, controlled delivery, and targeted occlusion for providing options for each patient’s specific treatment"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Medtronic",
+      "Product Name": "Onyx HD-500",
+      "Materials Used": "EVOH, dimethyl sulfoxide, tantalum",
+      "US FDA Indicated Use": "Treating intracranial, saccular, sidewall aneurysms that present with a wide neck (≥ 4 mm) or with a dome-to-neck ratio < 2 mm that are not amenable to treatment with surgical clipping",
+      "Comments": "High-viscosity formulation liquid embolic for the treatment of intracranial wide-necked aneurysms that are not amenable to treatment with surgical clipping"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Medtronic",
+      "Product Name": "Onyx Liquid Embolic System: Onyx 18 and Onyx 34",
+      "Materials Used": "EVOH, dimethyl sulfoxide, tantalum",
+      "US FDA Indicated Use": "Presurgical embolization of brain AVMs",
+      "Comments": "An ethylene vinyl alcohol copolymer that provides controlled injection and reliability for presurgical embolization of brain AVMs"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Cerenovus",
+      "Product Name": "Trufill n-BCA Liquid Embolic System",
+      "Materials Used": "Trufill n-BCA, Trufill ethiodized oil, and tantalum powder; these components must be used as a system",
+      "US FDA Indicated Use": "Embolization of cerebral AVMs when presurgical devascularization is desired; premarket approval device",
+      "Comments": "A clear, free-flowing liquid, which polymerizes quickly on contact with body fluid or tissue; it offers convenient preparation and delivery, customized radiopacity for visualization, and effective penetration of AVMs"
+    }
+  ]
+}

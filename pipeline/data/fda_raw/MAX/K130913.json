@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K130913",
+  "clearance_date": "2013-12-13",
+  "device_class": 2,
+  "manufacturer_canonical": "genesys-spine",
+  "manufacturer_raw": "Genesys Spine",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "GENESYS SPINE APACHE LATERAL LUMBAR INTERBODY FUSION SYSTEM",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--genesys-spine--genesys-spine-apache-lateral-lumbar",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf13/K130913.pdf"
+}

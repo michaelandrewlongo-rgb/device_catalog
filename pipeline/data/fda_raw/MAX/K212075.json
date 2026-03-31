@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K212075",
+  "clearance_date": "2021-12-08",
+  "device_class": 2,
+  "manufacturer_canonical": "precision-spine-inc",
+  "manufacturer_raw": "Precision Spine, Inc.",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "ShurFit Lumbar Interbody System",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--precision-spine-inc--shurfit-lumbar-interbody",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K212075.pdf"
+}

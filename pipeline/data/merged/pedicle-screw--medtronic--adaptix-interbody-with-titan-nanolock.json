@@ -1,0 +1,28 @@
+{
+  "device_name": "Adaptix\u0099 Interbody System with Titan nanoLOCK\u0099 Surface Technology",
+  "manufacturer": "medtronic",
+  "catalog_category": "pedicle-screw",
+  "filename_stem": "pedicle-screw--medtronic--adaptix-interbody-with-titan-nanolock",
+  "clearance_type": "510k",
+  "clearance_number": "K250669",
+  "clearance_date": "2025-04-22",
+  "device_class": 2,
+  "device_name_fda": "Adaptix\u0099 Interbody System with Titan nanoLOCK\u0099 Surface Technology",
+  "product_code": "MAX",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf25/K250669.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

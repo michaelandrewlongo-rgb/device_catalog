@@ -1,0 +1,61 @@
+{
+  "device_name": "iFuse TORQ TNT",
+  "manufacturer": "si-bone",
+  "catalog_category": "sacroiliac-fusion",
+  "filename_stem": "sacroiliac-fusion--si-bone--ifuse-torq-tnt",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "Screw Type:\n                                        \n                                                                                    Lateral SI Screw (or Posterior Lateral)",
+  "sizing_specs": "8.7 mm diameter. Lengths capable of spanning full posterior pelvis (transsacral).",
+  "indications": "Pelvic fragility fractures. Sacral insufficiency fractures with bilateral SI joint involvement.",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "FDA Breakthrough Device Designation: FDA determined it has potential to provide more effective fixation of pelvic fragility fractures than standard cannulated screws. Designed to reduce loosening through pelvis-specific fixation. Use cases include sacral fracture with bilateral SI joint involvement following low-energy falls.",
+  "deployment_steps": null,
+  "also_known_as": [
+    "TORQ TNT",
+    "Through and Through"
+  ],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://si-bone.com/providers/solutions/pelvic-trauma/ifuse-torq-tnt",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "nspr",
+      "confidence": 0.8
+    },
+    "sizing_specs": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "indications": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "also_known_as": {
+      "source": "scraper",
+      "confidence": 0.5
+    }
+  }
+}

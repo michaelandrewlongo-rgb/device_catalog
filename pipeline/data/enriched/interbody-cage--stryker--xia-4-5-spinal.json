@@ -1,0 +1,65 @@
+{
+  "device_name": "XIA 4.5 SPINAL SYSTEM",
+  "manufacturer": "stryker",
+  "catalog_category": "interbody-cage",
+  "filename_stem": "interbody-cage--stryker--xia-4-5-spinal",
+  "clearance_type": "510k",
+  "clearance_number": "K092605",
+  "clearance_date": "2009-12-03",
+  "device_class": 2,
+  "device_name_fda": "XIA 4.5 SPINAL SYSTEM",
+  "product_code": "NKB",
+  "what_it_is": "Vitallium Transition Rod",
+  "sizing_specs": "Catalog: 48143604; Model: 48143604",
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "MRI: Labeling does not contain MRI Safety Information. Sterilized: Moist Heat or Steam Sterilization. Single-use\n\n[FDA RECALL] 5 active recall(s).\n  - Stryker Spine is recalling Radius Rod to Rod Connector 5.5 to 3.5 mm (Catalog #486614530) because it does not have an associated 510(k) submisstion and subsequent clearance, which is required as this \n  - The Xia 3 8.5mm Polyaxial screws, lot A91109 were anodized turquoise instead of Fuchsia.  The turquoise color is reserved for the 9.5 mm Xia 3 screws.",
+  "deployment_steps": null,
+  "also_known_as": [
+    "XIA 4.5 Spinal System",
+    "Bone-screw internal spinal fixation system rod"
+  ],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf09/K092605.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "sizing_specs": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "indications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "also_known_as": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "_safety": {
+      "source": "fda_maude+recalls",
+      "confidence": 0.85
+    }
+  }
+}

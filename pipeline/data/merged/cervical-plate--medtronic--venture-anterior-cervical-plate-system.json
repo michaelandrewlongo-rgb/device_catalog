@@ -1,0 +1,30 @@
+{
+  "device_name": "Venture Anterior Cervical Plate System",
+  "manufacturer": "medtronic",
+  "catalog_category": "cervical-plate",
+  "filename_stem": "cervical-plate--medtronic--venture-anterior-cervical-plate-system",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "Anterior cervical plating system for ACDF.",
+  "sizing_specs": null,
+  "indications": "ACDF.",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [
+    "Venture"
+  ],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.medtronicacademy.com/en-us/content/anterior-cervical-discectomy---fusion/Spine-Biologics",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K901337",
+  "clearance_date": "1990-11-13",
+  "device_class": 2,
+  "manufacturer_canonical": "cook-inc",
+  "manufacturer_raw": "Cook, Inc.",
+  "catalog_category": "embolic-coil",
+  "device_name_fda": "HILAL EMBOLIZATION MICROCOIL(TM)",
+  "product_code": "HCG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "embolic-coil--cook-inc--hilal-embolization-microcoil-tm",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf90/K901337.pdf"
+}

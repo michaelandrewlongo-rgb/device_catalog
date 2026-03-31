@@ -1,0 +1,42 @@
+{
+  "category": "flow-diverter",
+  "source_url": "https://evtoday.com/device-guide/us/flow-diverters",
+  "headers": [
+    "Compare",
+    "Company Name",
+    "Product Name",
+    "Stent Diameter (mm)",
+    "Stent Length (mm)",
+    "Recommended Guide Catheter Size (inch)",
+    "Materials Used"
+  ],
+  "devices": [
+    {
+      "Compare": "",
+      "Company Name": "Terumo Neuro",
+      "Product Name": "FRED (Flow Re-Direction Endoluminal Device)",
+      "Stent Diameter (mm)": "2.5, 3, 3.5, 4, 4.5, 5, 5.5",
+      "Stent Length (mm)": "13–45",
+      "Recommended Guide Catheter Size (inch)": "Headway 21 (2.5–3 mm devices); Headway 27 (3.5–5.5 mm devices)",
+      "Materials Used": "Nitinol wire braid with tantalum helix for visibility"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Stryker",
+      "Product Name": "Surpass Evolve Flow Diverter",
+      "Stent Diameter (mm)": "3.25, 4, 4.5, 5",
+      "Stent Length (mm)": "12–40",
+      "Recommended Guide Catheter Size (inch)": "0.027",
+      "Materials Used": "Cobalt-chromium-nickel alloy (15% nickel)"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Stryker",
+      "Product Name": "Surpass Streamline Flow Diverter",
+      "Stent Diameter (mm)": "3, 4, 5",
+      "Stent Length (mm)": "15–50",
+      "Recommended Guide Catheter Size (inch)": "Over-the-wire",
+      "Materials Used": "Cobalt-chromium-nickel alloy (15% nickel)"
+    }
+  ]
+}

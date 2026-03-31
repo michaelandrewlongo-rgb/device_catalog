@@ -1,0 +1,61 @@
+{
+  "device_name": "Auxein Brand Vertaux 5.5 mm Pedicle Screw System",
+  "manufacturer": "auxein-medical-private-limited-71164",
+  "catalog_category": "interbody-cage",
+  "filename_stem": "interbody-cage--auxein-medical-private-limited-71164--auxein-brand-vertaux-5-5",
+  "clearance_type": "510k",
+  "clearance_number": "K201457",
+  "clearance_date": "2021-04-06",
+  "device_class": 2,
+  "device_name_fda": "Auxein Brand Vertaux 5.5 mm Pedicle Screw System",
+  "product_code": "NKB",
+  "what_it_is": "VERTAUX - Rod, Ø5.5mm x Length 150mm, Titanium",
+  "sizing_specs": "Model: SP-334",
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "MRI: Labeling does not contain MRI Safety Information. Sterilized: Moist Heat or Steam Sterilization. Single-use",
+  "deployment_steps": null,
+  "also_known_as": [
+    "Auxein Brand Vertaux 5.5 mm Pedicle Screw System",
+    "Bone-screw internal spinal fixation system, non-sterile"
+  ],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K201457.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "sizing_specs": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "indications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "also_known_as": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    }
+  }
+}

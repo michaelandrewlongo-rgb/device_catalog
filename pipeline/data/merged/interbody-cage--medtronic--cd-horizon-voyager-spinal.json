@@ -1,0 +1,32 @@
+{
+  "device_name": "CD Horizon Solera Spinal System",
+  "manufacturer": "medtronic",
+  "catalog_category": "interbody-cage",
+  "filename_stem": "interbody-cage--medtronic--cd-horizon-voyager-spinal",
+  "clearance_type": "510k",
+  "clearance_number": "K113529",
+  "clearance_date": "2012-02-09",
+  "device_class": 2,
+  "device_name_fda": "CD HORIZON VOYAGER SPINAL SYSTEM",
+  "product_code": "NKB",
+  "what_it_is": "5th-gen posterior thoracolumbar pedicle screw. SAS, fenestrated, Voyager variants. 5.5/6.0mm rods.",
+  "sizing_specs": null,
+  "indications": "DDD, stenosis, fracture, dislocation, failed fusion, tumors, AIS.",
+  "contraindications": null,
+  "compatible_with": "UNiD rods, PASS LP Crosslink, Kyphon cement, Mazor.",
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [
+    "Solera",
+    "Solera Voyager"
+  ],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf11/K113529.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.medtronicacademy.com/en-us/content/posterior-thoracolumbar/Spine-Biologics",
+  "confidence_score": 0.75,
+  "needs_review": true,
+  "data_sources": [
+    "fda",
+    "scraper"
+  ]
+}

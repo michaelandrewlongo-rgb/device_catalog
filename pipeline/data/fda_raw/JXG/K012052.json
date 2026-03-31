@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K012052",
+  "clearance_date": "2002-02-11",
+  "device_class": 2,
+  "manufacturer_canonical": "medtronic",
+  "manufacturer_raw": "Medtronic PS Medical",
+  "catalog_category": "csf-shunt",
+  "device_name_fda": "MEDTRONIC PS MEDICAL STRATA VALVE, MODELS 42855, 42865, 92865, 92855",
+  "product_code": "JXG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": true,
+  "suggested_filename_stem": "csf-shunt--medtronic--medtronic-ps-medical-strata-valve",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf01/K012052.pdf"
+}

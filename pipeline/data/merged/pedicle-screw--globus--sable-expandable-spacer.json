@@ -1,0 +1,31 @@
+{
+  "device_name": "ALTERA Articulating Expandable TLIF Spacer",
+  "manufacturer": "globus",
+  "catalog_category": "pedicle-screw",
+  "filename_stem": "pedicle-screw--globus--sable-expandable-spacer",
+  "clearance_type": "510k",
+  "clearance_number": "K192115",
+  "clearance_date": "2020-01-14",
+  "device_class": 2,
+  "device_name_fda": "SABLE Expandable Spacer",
+  "product_code": "MAX",
+  "what_it_is": "Articulating expandable TLIF spacer with integrated articulation at minimal height. Increases disc height, restores lordosis, maintains sagittal balance.",
+  "sizing_specs": null,
+  "indications": "TLIF.",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [
+    "ALTERA"
+  ],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf19/K192115.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.globusmedical.com/healthcare-professionals/spine/procedures/tlif/",
+  "confidence_score": 0.4,
+  "needs_review": true,
+  "data_sources": [
+    "fda",
+    "scraper"
+  ]
+}

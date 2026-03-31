@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K884690",
+  "clearance_date": "1989-06-02",
+  "device_class": 2,
+  "manufacturer_canonical": "kirschner-medical-corp",
+  "manufacturer_raw": "Kirschner Medical Corp.",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "KIRSCHNER SPINAL FIXATOR KMS-1",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--kirschner-medical-corp--kirschner-spinal-fixator-kms-1",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf88/K884690.pdf"
+}

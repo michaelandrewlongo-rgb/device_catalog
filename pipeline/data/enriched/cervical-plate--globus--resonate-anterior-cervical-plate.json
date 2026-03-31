@@ -1,0 +1,60 @@
+{
+  "device_name": "RESONATE Anterior Cervical Plate",
+  "manufacturer": "globus",
+  "catalog_category": "cervical-plate",
+  "filename_stem": "cervical-plate--globus--resonate-anterior-cervical-plate",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "The Anterior Cervical Plate System by NuVasive comes in an array of implant options with optimized plate lengths, stiffness, and profile for every level. The plates are designed with a lordotic curve, but if necessary, the plate can be manually contoured between the screw holes and retaining mechanisms for customized lordosis.",
+  "sizing_specs": null,
+  "indications": "ACDF fixation.",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [
+    "RESONATE"
+  ],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.globusmedical.com/healthcare-professionals/spine/procedures/acdf/",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "nspr",
+      "confidence": 0.8
+    },
+    "sizing_specs": {
+      "source": "none",
+      "confidence": 0
+    },
+    "indications": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "none",
+      "confidence": 0
+    },
+    "also_known_as": {
+      "source": "scraper",
+      "confidence": 0.5
+    }
+  }
+}

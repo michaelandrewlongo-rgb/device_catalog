@@ -1,0 +1,17 @@
+{
+  "device_name": "Serrato Pedicle Screw System",
+  "manufacturer": "stryker",
+  "category_hint": "pedicle-screw",
+  "source_url": "https://www.stryker.com/us/en/spine/products/serrato.html",
+  "what_it_is": "Dual lead pedicle screw system featuring True-Tip technology and 24 circumferential serrations on the distal screw tip. True-Tip is a self-centering, self-tapping 35-degree conical tip with threads extending to the distal tip for immediate bone engagement, reliable insertion, and accurate control. Cortical cancellous thread pattern continues the Xia design philosophy. Serrations reduce insertion force compared to dual lead screws with traditional cutting flutes.",
+  "sizing_specs": "Screw types: polyaxial, cannulated polyaxial, reduction, and medial biased designs.",
+  "indications": "Thoracolumbar spinal fixation.",
+  "contraindications": null,
+  "compatible_with": "Power and navigation platforms. Compatible with Spine Guidance 5 and Mako Spine with Copilot features.",
+  "use_notes": "Dual lead thread allows insertion twice as fast (half as many rotations) vs single lead. Now sold by VB Spine.",
+  "also_known_as": [
+    "Serrato"
+  ],
+  "ifu_pdf_url": null,
+  "other_pdf_urls": {}
+}

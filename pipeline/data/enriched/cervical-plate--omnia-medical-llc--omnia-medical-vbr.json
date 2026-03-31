@@ -1,0 +1,61 @@
+{
+  "device_name": "Omnia Medical VBR",
+  "manufacturer": "omnia-medical-llc",
+  "catalog_category": "cervical-plate",
+  "filename_stem": "cervical-plate--omnia-medical-llc--omnia-medical-vbr",
+  "clearance_type": "510k",
+  "clearance_number": "K172323",
+  "clearance_date": "2017-10-26",
+  "device_class": 2,
+  "device_name_fda": "Omnia Medical VBR",
+  "product_code": "MQP",
+  "what_it_is": "Omnia Medical VBR,  14mm X 14.5mm X 53mm Tall",
+  "sizing_specs": "Catalog: 06-0V-1453; Model: 06-0V-1453",
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "MRI: Labeling does not contain MRI Safety Information. Sterilized: Moist Heat or Steam Sterilization. Single-use",
+  "deployment_steps": null,
+  "also_known_as": [
+    "Omnia Medical VBR",
+    "Vertebral body prosthesis, non-sterile"
+  ],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf17/K172323.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "sizing_specs": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "indications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "also_known_as": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    }
+  }
+}

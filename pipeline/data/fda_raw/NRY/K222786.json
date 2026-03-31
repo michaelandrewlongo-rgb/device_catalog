@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K222786",
+  "clearance_date": "2023-08-25",
+  "device_class": 2,
+  "manufacturer_canonical": "q-apel-medical-inc",
+  "manufacturer_raw": "Q'Apel Medical, Inc.",
+  "catalog_category": "aspiration",
+  "device_name_fda": "072 Aspiration System",
+  "product_code": "NRY",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "aspiration--q-apel-medical-inc--072-aspiration",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K222786.pdf"
+}

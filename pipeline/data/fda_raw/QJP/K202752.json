@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K202752",
+  "clearance_date": "2021-08-27",
+  "device_class": 2,
+  "manufacturer_canonical": "stryker",
+  "manufacturer_raw": "Stryker Neurovascular",
+  "catalog_category": "distal-access",
+  "device_name_fda": "AXS Vecta 46 Intermediate Catheter",
+  "product_code": "QJP",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "distal-access--stryker--axs-vecta-46-intermediate-catheter",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K202752.pdf"
+}

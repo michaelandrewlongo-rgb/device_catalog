@@ -1,0 +1,15 @@
+{
+  "clearance_type": "pma",
+  "clearance_number": "P170032",
+  "clearance_date": "2021-01-11",
+  "device_class": 3,
+  "manufacturer_canonical": "microvention",
+  "manufacturer_raw": "MicroVention, Inc.",
+  "catalog_category": "intrasaccular",
+  "device_name_fda": "Woven EndoBridge (WEB) Aneurysm Embolization System (WEB 017)",
+  "product_code": "OPR",
+  "product_code_description": "Intrasaccular Flow Disruption Device",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "intrasaccular--microvention--woven-endobridge-web-aneurysm-embolization-system-web-017",
+  "pdf_summary_url": ""
+}

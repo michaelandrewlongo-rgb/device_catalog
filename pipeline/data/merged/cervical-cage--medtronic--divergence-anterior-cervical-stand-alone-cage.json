@@ -1,0 +1,30 @@
+{
+  "device_name": "Divergence Anterior Cervical Stand Alone Cage",
+  "manufacturer": "medtronic",
+  "catalog_category": "cervical-cage",
+  "filename_stem": "cervical-cage--medtronic--divergence-anterior-cervical-stand-alone-cage",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "Stand-alone anterior cervical interbody cage with integrated fixation (no plate needed).",
+  "sizing_specs": null,
+  "indications": "ACDF.",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [
+    "Divergence"
+  ],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.medtronicacademy.com/en-us/content/anterior-cervical-discectomy---fusion/Spine-Biologics",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ]
+}

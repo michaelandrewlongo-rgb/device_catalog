@@ -1,0 +1,61 @@
+{
+  "device_name": "L-VARLOCK",
+  "manufacturer": "kiscomedica-s-a",
+  "catalog_category": "pedicle-screw",
+  "filename_stem": "pedicle-screw--kiscomedica-s-a--l-varlock",
+  "clearance_type": "510k",
+  "clearance_number": "K080537",
+  "clearance_date": "2008-06-30",
+  "device_class": 2,
+  "device_name_fda": "L-VARLOCK",
+  "product_code": "MAX",
+  "what_it_is": "The L-Varlock is a lumbar cage, for intervertebral body fusion.",
+  "sizing_specs": "Catalog: VAL-CA-13-09; Model: 158",
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "MRI: Labeling does not contain MRI Safety Information. Sterilized: Moist Heat or Steam Sterilization. Single-use",
+  "deployment_steps": null,
+  "also_known_as": [
+    "L-Varlock",
+    "Metallic spinal interbody fusion cage"
+  ],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf08/K080537.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "sizing_specs": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "indications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "also_known_as": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    }
+  }
+}

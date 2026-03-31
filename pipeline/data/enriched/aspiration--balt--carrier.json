@@ -1,0 +1,61 @@
+{
+  "device_name": "Carrier",
+  "manufacturer": "balt",
+  "catalog_category": "aspiration",
+  "filename_stem": "aspiration--balt--carrier",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "The Carrier™ Delivery Catheter is a single lumen, variable stiffness, composite catheter.  The design facilitates the advancement of the catheter and is intended to assist the delivery of interventional devices in the peripheral and neurovasculature. The outer surface of the Carrier™ Delivery Catheter is coated with a hydrophilic coating to increase lubricity. The proximal end of the Carrier™ Delivery Catheter incorporates a luer fitting for the attachment of accessories. Two radiopaque markers at the distal end help to facilitate fluoroscopic visualization. \nA Steam Shaping Mandrel and Peel-away Introducer Tube are included within the tray. The Carrier™ Delivery Catheter is provided sterile, non-pyrogenic, and is intended for single use only.",
+  "sizing_specs": "Catalog: N/A; Model: CR8081162",
+  "indications": "The Carrier Delivery Catheter is intended for general intravascular use, including the peripheral, coronary and neuro vasculature for the infusion of diagnostic agents, such as contrast media, and to assist in the delivery of interventional devices, such as distal access catheters, in the neurovasculature.",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "MRI: Labeling does not contain MRI Safety Information. Pre-sterilized. Single-use",
+  "deployment_steps": null,
+  "also_known_as": [
+    "Carrier™ Delivery Catheter",
+    "Vascular guide-catheter, single-use"
+  ],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://baltgroup.com/products/carrier",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "sizing_specs": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "indications": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "also_known_as": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    }
+  }
+}

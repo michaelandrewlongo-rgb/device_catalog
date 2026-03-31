@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K190317",
+  "clearance_date": "2019-04-11",
+  "device_class": 2,
+  "manufacturer_canonical": "zavation-medical-products-llc",
+  "manufacturer_raw": "Zavation Medical Products, LLC",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "Zavation Spinal System",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--zavation-medical-products-llc--zavation-spinal",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf19/K190317.pdf"
+}

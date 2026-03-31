@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K911379",
+  "clearance_date": "1991-09-11",
+  "device_class": 2,
+  "manufacturer_canonical": "danek-medical-inc",
+  "manufacturer_raw": "Danek Medical, Inc.",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "DANEK SACRAL HOOK, MODIFICATION",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--danek-medical-inc--danek-sacral-hook-modification",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf91/K911379.pdf"
+}

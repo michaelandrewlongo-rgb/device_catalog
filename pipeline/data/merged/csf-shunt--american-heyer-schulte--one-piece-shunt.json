@@ -1,0 +1,28 @@
+{
+  "device_name": "ONE-PIECE SHUNT",
+  "manufacturer": "american-heyer-schulte",
+  "catalog_category": "csf-shunt",
+  "filename_stem": "csf-shunt--american-heyer-schulte--one-piece-shunt",
+  "clearance_type": "510k",
+  "clearance_number": "K834593",
+  "clearance_date": "1984-04-03",
+  "device_class": 2,
+  "device_name_fda": "ONE-PIECE SHUNT",
+  "product_code": "JXG",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf83/K834593.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

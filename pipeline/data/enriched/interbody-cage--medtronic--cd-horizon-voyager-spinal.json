@@ -1,0 +1,66 @@
+{
+  "device_name": "CD Horizon Solera Spinal System",
+  "manufacturer": "medtronic",
+  "catalog_category": "interbody-cage",
+  "filename_stem": "interbody-cage--medtronic--cd-horizon-voyager-spinal",
+  "clearance_type": "510k",
+  "clearance_number": "K113529",
+  "clearance_date": "2012-02-09",
+  "device_class": 2,
+  "device_name_fda": "CD HORIZON VOYAGER SPINAL SYSTEM",
+  "product_code": "NKB",
+  "what_it_is": "5th-gen posterior thoracolumbar pedicle screw. SAS, fenestrated, Voyager variants. 5.5/6.0mm rods.",
+  "sizing_specs": null,
+  "indications": "DDD, stenosis, fracture, dislocation, failed fusion, tumors, AIS.",
+  "contraindications": null,
+  "compatible_with": "UNiD rods, PASS LP Crosslink, Kyphon cement, Mazor.",
+  "use_notes": "[FDA RECALL] 2 active recall(s).\n  - This lot has incorrectly been laser marked both on the screw head itself as well as the data carrier tag attached to the screw.  The description on face two of the screw head and on the data carrier t\n  - Screws are longer then size etched on the screw.",
+  "deployment_steps": null,
+  "also_known_as": [
+    "Solera",
+    "Solera Voyager"
+  ],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf11/K113529.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.medtronicacademy.com/en-us/content/posterior-thoracolumbar/Spine-Biologics",
+  "confidence_score": 0.75,
+  "needs_review": true,
+  "data_sources": [
+    "fda",
+    "scraper"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "sizing_specs": {
+      "source": "none",
+      "confidence": 0
+    },
+    "indications": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "use_notes": {
+      "source": "none",
+      "confidence": 0
+    },
+    "also_known_as": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "_safety": {
+      "source": "fda_maude+recalls",
+      "confidence": 0.85
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K081952",
+  "clearance_date": "2008-10-07",
+  "device_class": 2,
+  "manufacturer_canonical": "zimmer-biomet",
+  "manufacturer_raw": "Biomet Spine",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "SYNERGY SPINAL SYSTEM (6.35 POLARIS)",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--zimmer-biomet--synergy-spinal-6-35-polaris",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf08/K081952.pdf"
+}

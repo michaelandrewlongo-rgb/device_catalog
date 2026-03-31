@@ -1,0 +1,28 @@
+{
+  "device_name": "CancelleX Porous Titanium Lumbar Interbody Device",
+  "manufacturer": "xenco-medical-llc",
+  "catalog_category": "pedicle-screw",
+  "filename_stem": "pedicle-screw--xenco-medical-llc--cancellex-porous-titanium-lumbar-interbody",
+  "clearance_type": "510k",
+  "clearance_number": "K180373",
+  "clearance_date": "2018-08-24",
+  "device_class": 2,
+  "device_name_fda": "CancelleX Porous Titanium Lumbar Interbody Device",
+  "product_code": "MAX",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf18/K180373.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

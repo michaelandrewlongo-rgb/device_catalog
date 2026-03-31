@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K202926",
+  "clearance_date": "2022-02-10",
+  "device_class": 2,
+  "manufacturer_canonical": "shanghai-heartcare-medical-technology-co-ltd",
+  "manufacturer_raw": "Shanghai Heartcare Medical Technology Co., Ltd.",
+  "catalog_category": "microcatheter",
+  "device_name_fda": "Micro Catheter",
+  "product_code": "QJP",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "microcatheter--shanghai-heartcare-medical-technology-co-ltd--micro-catheter",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K202926.pdf"
+}

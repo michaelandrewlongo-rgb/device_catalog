@@ -1,0 +1,61 @@
+{
+  "device_name": "Distal Access Catheter",
+  "manufacturer": "shanghai-heartcare-medical-technology-co-ltd",
+  "catalog_category": "distal-access",
+  "filename_stem": "distal-access--shanghai-heartcare-medical-technology-co-ltd--distal-access-catheter",
+  "clearance_type": "510k",
+  "clearance_number": "K233205",
+  "clearance_date": "2023-12-22",
+  "device_class": 2,
+  "device_name_fda": "Distal Access Catheter",
+  "product_code": "QJP",
+  "what_it_is": "The MIVI Mi-EXT™ Catheter is a single-lumen, variable stiffness catheter with radiopaque markers on the distal and proximal end of the catheter portion for angiographic visualization. The catheter shaft has a hydrophilic coating. The proximal portion of the catheter is a stainless-steel control wire.",
+  "sizing_specs": "Model: Mi-EXT-6925U",
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "MRI: Labeling does not contain MRI Safety Information. Pre-sterilized. Single-use",
+  "deployment_steps": null,
+  "also_known_as": [
+    "Mi-EXT Distal Access Catheter",
+    "Vascular guide-catheter, single-use"
+  ],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K233205.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "sizing_specs": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "indications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "also_known_as": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    }
+  }
+}

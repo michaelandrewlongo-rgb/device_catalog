@@ -1,0 +1,296 @@
+{
+  "category": "embolic-coil",
+  "source_url": "https://evtoday.com/device-guide/us/cerebral-coils",
+  "headers": [
+    "Compare",
+    "Company Name",
+    "Product Name",
+    "Materials Used",
+    "Coil Type",
+    "Method of Detachment",
+    "US FDA Indicated Use",
+    "Comments"
+  ],
+  "devices": [
+    {
+      "Compare": "",
+      "Company Name": "Medtronic",
+      "Product Name": "Axium Detachable Coils",
+      "Materials Used": "Implant material: platinum detachable coils",
+      "Coil Type": "Framing, filling, finishing",
+      "Method of Detachment": "Instant detachment (mechanical)",
+      "US FDA Indicated Use": "Intended for the endovascular embolization of intracranial aneurysms; also intended for the embolization of other neurovascular abnormalities such as AVMs and AVFs",
+      "Comments": "–"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Medtronic",
+      "Product Name": "Axium MicroFX Detachable Coils",
+      "Materials Used": "Implant material: platinum detachable coils with PGLA or nylon filaments",
+      "Coil Type": "Framing, filling, finishing",
+      "Method of Detachment": "Instant detachment (mechanical)",
+      "US FDA Indicated Use": "Intended for the endovascular embolization of intracranial aneurysms; also intended for the embolization of other neurovascular abnormalities such as AVMs and AVFs",
+      "Comments": "–"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Medtronic",
+      "Product Name": "Axium Prime Detachable Coils",
+      "Materials Used": "Implant material: platinum detachable coils",
+      "Coil Type": "Framing, filling, finishing",
+      "Method of Detachment": "Instant detachment (mechanical)",
+      "US FDA Indicated Use": "Intended for the endovascular embolization of intracranial aneurysms; also intended for the embolization of other neurovascular abnormalities such as AVMs and AVFs",
+      "Comments": "–"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Medtronic",
+      "Product Name": "Axium Prime Detachable Coils (Extra Soft)",
+      "Materials Used": "Implant material: platinum detachable coils",
+      "Coil Type": "Framing, filling, finishing",
+      "Method of Detachment": "Instant detachment (mechanical)",
+      "US FDA Indicated Use": "Intended for the endovascular embolization of intracranial aneurysms; also intended for the embolization of other neurovascular abnormalities such as AVMs and AVFs",
+      "Comments": "–"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Balt",
+      "Product Name": "Barricade Coil System",
+      "Materials Used": "Bare platinum",
+      "Coil Type": "Complex framing, helical filling, complex finishing, helical finishing",
+      "Method of Detachment": "Electrolytic",
+      "US FDA Indicated Use": "Intended for the endovascular embolization of intracranial aneurysms and other neurovascular abnormalities such as AVMs and AVFs; it is also intended for vascular occlusion of blood vessels within the neurovascular system to permanently obstruct blood flow to an aneurysm or other vascular malformation and for arterial and venous embolizations in the peripheral vasculature",
+      "Comments": "Optimized coil design offering a smooth delivery with excellent conformability and performance"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Cerenovus",
+      "Product Name": "Cerepak Detachable Coil System",
+      "Materials Used": "Platinum",
+      "Coil Type": "Complex, random complex, and helical",
+      "Method of Detachment": "Mechanical",
+      "US FDA Indicated Use": "The Cerepak Uniform, Uniform XL, Uniform 3D, Heliform Soft, Heliform XtraSoft, Heliform XL, Heliform XtraSoft XL, Freeform, Freeform Mini Detachable Coil Systems are indicated for embolization of intracranial aneurysms, neurovascular abnormalities\r\nsuch as arteriovenous malformations and arteriovenous fistulae, and arterial and venous embolizations in the peripheral vasculature; the Cerepak Freeform XtraSoft Detachable Coil System is indicated for embolization of intracranial aneurysms",
+      "Comments": "Cerepak has a comprehensive portfolio of coils with a variety of shapes, primary winds from 0.015 to 0.009 inches, and lengths from 60 to 1 cm"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Terumo Neuro",
+      "Product Name": "Complex Coils",
+      "Materials Used": "Bare-platinum coils",
+      "Coil Type": "MicroPlex Coil System, Complex Shape, for framing and filling",
+      "Method of Detachment": "V-Grip detachment controller, self-contained integrated power supply, rapid coil detachment: 0.75 seconds",
+      "US FDA Indicated Use": "Intended for the endovascular embolization of intracranial aneurysms and other neurovascular abnormalities such as arteriovenous malformations and arteriovenous fistulae; intended for vascular occlusion of blood vessels within the neurovascular system to permanently obstruct blood flow to an aneurysm or other vascular malformation and for arterial and venous embolizations in the peripheral vasculature",
+      "Comments": "Platinum coils provide versatile framework, stability, and conformability"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Terumo Neuro",
+      "Product Name": "Cosmos Coils",
+      "Materials Used": "Bare-platinum coils",
+      "Coil Type": "MicroPlex Coil System, Complex Shape, for framing and filling",
+      "Method of Detachment": "V-Grip detachment controller, self-contained integrated power supply, rapid coil detachment: 0.75 seconds",
+      "US FDA Indicated Use": "Intended for the endovascular embolization of intracranial aneurysms and other neurovascular abnormalities such as arteriovenous malformations and arteriovenous fistulae; intended for vascular occlusion of blood vessels within the neurovascular system to permanently obstruct blood flow to an aneurysm or other vascular malformation and for arterial and venous embolizations in the peripheral vasculature",
+      "Comments": "Platinum coils provide versatile framework, stability, and conformability"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Terumo Neuro",
+      "Product Name": "Helical Coils",
+      "Materials Used": "Bare-platinum coils",
+      "Coil Type": "MicroPlex Coil System, helical Shape, for filling and finishing",
+      "Method of Detachment": "V-Grip detachment controller, self-contained integrated power supply, rapid coil detachment: 0.75 seconds",
+      "US FDA Indicated Use": "Intended for the endovascular embolization of intracranial aneurysms and other neurovascular abnormalities such as arteriovenous malformations and arteriovenous fistulae; intended for vascular occlusion of blood vessels within the neurovascular system to permanently obstruct blood flow to an aneurysm or other vascular malformation and for arterial and venous embolizations in the peripheral vasculature",
+      "Comments": "Platinum coils provide versatile framework, stability, and conformability"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Terumo Neuro",
+      "Product Name": "HydroFill Coils",
+      "Materials Used": "Hydrogel thread placed inside of platinum coil",
+      "Coil Type": "HydroCoil Embolic System, helical shape, for filling",
+      "Method of Detachment": "V-Grip detachment controller, self-contained integrated power supply, rapid coil detachment: 0.75 seconds",
+      "US FDA Indicated Use": "Intended for the endovascular embolization of intracranial aneurysms and other neurovascular abnormalities such as arteriovenous malformations and arteriovenous fistulae; intended for vascular occlusion of blood vessels within the neurovascular system to permanently obstruct blood flow to an aneurysm or other vascular malformation and for arterial and venous embolizations in the\r\nperipheral vasculature",
+      "Comments": "Hydrogel core of HydroFill coil line expands diameter of coil by 20% for efficient filling"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Terumo Neuro",
+      "Product Name": "HydroFrame Coils",
+      "Materials Used": "Hydrogel thread placed inside of platinum coil",
+      "Coil Type": "HydroCoil Embolic System, complex shape, for framing and filling",
+      "Method of Detachment": "V-Grip detachment controller, self-contained integrated power supply, rapid coil detachment: 0.75 seconds",
+      "US FDA Indicated Use": "Intended for the endovascular embolization of intracranial aneurysms and other neurovascular abnormalities such as arteriovenous malformations and arteriovenous fistulae; intended for vascular occlusion of blood vessels within the neurovascular system to permanently obstruct blood flow to an aneurysm or other vascular malformation and for arterial and venous embolizations in the peripheral vasculature",
+      "Comments": "Hydrogel technology provides a scaffold for endothelialization at the aneurysm neck"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Terumo Neuro",
+      "Product Name": "HydroSoft 3D Coils",
+      "Materials Used": "Hydrogel thread placed inside of platinum coil",
+      "Coil Type": "HydroCoil Embolic System, complex shape, for filling and finishing",
+      "Method of Detachment": "V-Grip detachment controller, self-contained integrated power supply, rapid coil detachment: 0.75 seconds",
+      "US FDA Indicated Use": "Intended for the endovascular embolization of intracranial aneurysms and other neurovascular abnormalities such as arteriovenous malformations and arteriovenous fistulae; intended for vascular occlusion of blood vessels within the neurovascular system to permanently obstruct blood flow to an aneurysm or other vascular malformation and for arterial and venous embolizations in the peripheral vasculature",
+      "Comments": "Hydrogel technology provides a scaffold for endothelialization at the aneurysm neck"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Terumo Neuro",
+      "Product Name": "HydroSoft Helical Coils",
+      "Materials Used": "Hydrogel thread placed inside of platinum coil",
+      "Coil Type": "HydroCoil Embolic System, helical shape, for filling and finishing",
+      "Method of Detachment": "V-Grip detachment controller, self-contained integrated power supply, rapid coil detachment: 0.75 seconds",
+      "US FDA Indicated Use": "Intended for the endovascular embolization of intracranial aneurysms and other neurovascular abnormalities such as arteriovenous malformations and arteriovenous fistulae; intended for vascular occlusion of blood vessels within the neurovascular system to permanently obstruct blood flow to an aneurysm or other vascular malformation and for arterial and venous embolizations in the peripheral vasculature",
+      "Comments": "Hydrogel technology provides a scaffold for endothelialization at the aneurysm neck"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Terumo Neuro",
+      "Product Name": "HyperSoft 3D Coils",
+      "Materials Used": "Bare-platinum coils",
+      "Coil Type": "MicroPlex Coil System, complex shape, for filling and finishing",
+      "Method of Detachment": "V-Grip detachment controller, self-contained integrated power supply, rapid coil detachment: 0.75 seconds",
+      "US FDA Indicated Use": "Intended for the endovascular embolization of intracranial aneurysms and other neurovascular abnormalities such as arteriovenous malformations and arteriovenous fistulae; intended for vascular occlusion of blood vessels within the neurovascular system to permanently obstruct blood flow to an aneurysm or other vascular malformation and for arterial and venous embolizations in the peripheral vasculature",
+      "Comments": "Platinum coils provide versatile framework, stability, and conformability"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Terumo Neuro",
+      "Product Name": "HyperSoft Helical Coils",
+      "Materials Used": "Bare-platinum coils",
+      "Coil Type": "MicroPlex Coil System, helical shape, for filling and finishing",
+      "Method of Detachment": "V-Grip detachment controller, self-contained integrated power supply, rapid coil detachment: 0.75 seconds",
+      "US FDA Indicated Use": "Intended for the endovascular embolization of intracranial aneurysms and other neurovascular abnormalities such as arteriovenous malformations and arteriovenous fistulae; intended for vascular occlusion of blood vessels within the neurovascular system to permanently obstruct blood flow to an aneurysm or other vascular malformation and for arterial and venous embolizations in the peripheral vasculature",
+      "Comments": "Platinum coils provide versatile framework, stability, and conformability"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Balt",
+      "Product Name": "OptiBlock",
+      "Materials Used": "Bare platinum",
+      "Coil Type": "Large volume coil",
+      "Method of Detachment": "Thermal",
+      "US FDA Indicated Use": "Intended for the endovascular embolization of intracranial aneurysms and other neurovascular abnormalities such as arteriovenous malformations and arteriovenous fistulae; also intended for vascular occlusion of blood vessels within the neurovascular system to permanently obstruct blood flow to an aneurysm or other vascular malformation and for arterial and venous embolizations in the peripheral vasculature",
+      "Comments": "Coil is designed specifically for vessel embolization"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Balt",
+      "Product Name": "Optima",
+      "Materials Used": "Bare platinum",
+      "Coil Type": "Complex framing, helical filling, complex finishing, helical finishing",
+      "Method of Detachment": "Thermal",
+      "US FDA Indicated Use": "Intended for the endovascular embolization of intracranial aneurysms and other neurovascular abnormalities, such as arteriovenous malformations and arteriovenous fistulae; also intended for vascular occlusion of blood vessels within the neurovascular system to permanently obstruct blood flow to an aneurysm or other vascular malformation and for arterial and venous embolizations in the peripheral vasculature",
+      "Comments": "–"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Balt",
+      "Product Name": "Optimax",
+      "Materials Used": "Bare platinum",
+      "Coil Type": "Large-volume coils available in super soft, soft, and standard",
+      "Method of Detachment": "Thermal",
+      "US FDA Indicated Use": "Intended for the endovascular embolization of intracranial aneurysms and other neurovascular abnormalities, such as arteriovenous malformations and arteriovenous fistulae; also intended for vascular occlusion of blood vessels within the neurovascular system to permanently obstruct blood flow to an aneurysm or other vascular malformation and for arterial and venous embolizations in the peripheral vasculature",
+      "Comments": "–"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Cerenovus",
+      "Product Name": "Orbit Galaxy Detachable Coil System",
+      "Materials Used": "Bare platinum, polypropylene stretch-resistant suture",
+      "Coil Type": "Complex framing, filling, and finishing coils",
+      "Method of Detachment": "Hydraulic detachment",
+      "US FDA Indicated Use": "Indicated for embolizing intracranial aneurysms; indicated for embolizing intracranial aneurysms, AVMs, and AV fistulas; embolization of peripheral vasculature",
+      "Comments": "Coil has a unique ability to seek out and fill the open spaces in an aneurysm, enabling greater packing density"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Penumbra, Inc. (Neuro)",
+      "Product Name": "PAC400 Coil",
+      "Materials Used": "Stretch-resistant bare platinum",
+      "Coil Type": "–",
+      "Method of Detachment": "Instant mechanical detachment",
+      "US FDA Indicated Use": "Indicated for the embolization of intracranial aneurysms, other neurovascular abnormalities such as arteriovenous malformations and arteriovenous fistulae, and arterial and venous embolizations in the peripheral vasculature",
+      "Comments": "A soft coil designed to pack densely behind/within a POD400/PC400 backstop"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Penumbra, Inc. (Neuro)",
+      "Product Name": "Penumbra Coil 400 (PC400)",
+      "Materials Used": "Stretch-resistant bare platinum",
+      "Coil Type": "Complex standard, complex soft, curve extra soft, complex extra soft",
+      "Method of Detachment": "Instant mechanical detachment",
+      "US FDA Indicated Use": "Indicated for the embolization of intracranial aneurysms, other neurovascular abnormalities such as arteriovenous malformations and arteriovenous fistulae, and arterial and venous embolizations in the peripheral vasculature",
+      "Comments": "PC400 is a .020-inch coil designed for aneurysms and fistulas; comes in complex and helical shapes"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Penumbra, Inc. (Neuro)",
+      "Product Name": "Penumbra Smart Coil",
+      "Materials Used": "Stretch-resistant bare platinum",
+      "Coil Type": "Plus standard, standard, soft, extra soft, wave extra soft",
+      "Method of Detachment": "Instant mechanical detachment",
+      "US FDA Indicated Use": "Indicated for the embolization of intracranial aneurysms, other neurovascular abnormalities such as arteriovenous malformations and arteriovenous fistulae, and arterial and venous embolizations in the peripheral vasculature",
+      "Comments": "Embolization coil with complex and WAVE shapes, engineered with varying levels of softness"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Penumbra, Inc. (Neuro)",
+      "Product Name": "POD400 Coil",
+      "Materials Used": "Stretch-resistant bare platinum",
+      "Coil Type": "Coil with distal anchor segment and proximal packing segment designed for vessel sacrifice",
+      "Method of Detachment": "Instant mechanical detachment",
+      "US FDA Indicated Use": "Indicated for the embolization of intracranial aneurysms, other neurovascular abnormalities such as arteriovenous malformations and arteriovenous fistula, and arterial and venous embolizations in the peripheral vasculature",
+      "Comments": "POD400 is designed to predictably anchor in vessels to create a reliable backstop"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Spartan Micro, Inc.",
+      "Product Name": "Spartan eCoil",
+      "Materials Used": "Implant material: platinum detachable coils",
+      "Coil Type": "Framing, filling, finishing",
+      "Method of Detachment": "Instant detachment (mechanical)",
+      "US FDA Indicated Use": "Intended for the endovascular embolization of intracranial aneurysms and other neurovascular abnormalities, such as arteriovenous malformations and arteriovenous fistulae",
+      "Comments": "–"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Penumbra, Inc. (Neuro)",
+      "Product Name": "SwiftPAC",
+      "Materials Used": "Stretch-resistant bare platinum",
+      "Coil Type": "Shapeless packing coil",
+      "Method of Detachment": "Instant mechanical detachment",
+      "US FDA Indicated Use": "Indicated for the embolization of intracranial aneurysms, other neurovascular abnormalities such as arteriovenous malformations and arteriovenous fistulae, and arterial and venous embolizations in the peripheral vasculature",
+      "Comments": "Soft shapeless coil designed to pack densely, compatible with 0.0165-inch microcatheters"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Stryker",
+      "Product Name": "Target Detachable Coils",
+      "Materials Used": "Bare platinum",
+      "Coil Type": "360 XL Standard, 360 XL Soft, 360 Standard, 360 Soft, 360 Ultra, 360 Nano, 3D Standard, Helical XL Soft, Helical Ultra, Helical Nano",
+      "Method of Detachment": "Electrolytic, InZone detachment system",
+      "US FDA Indicated Use": "Intended for the endovascular embolization of intracranial aneurysms, other neurovascular abnormalities such as AVMs and AVFs, and arterial and venous embolizations in the peripheral vasculature",
+      "Comments": "Smooth and stable, comprehensive coiling solution"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Cerenovus",
+      "Product Name": "Trufill DCS Orbit Detachable Coil System",
+      "Materials Used": "Bare platinum",
+      "Coil Type": "Complex fill, complex standard, mini complex fill, helical fill, tight distal loop technology",
+      "Method of Detachment": "Hydraulic detachment",
+      "US FDA Indicated Use": "Intracranial aneurysms, AVMs, and AVFs; embolization of peripheral vasculature",
+      "Comments": "Excellent conformability and concentric filling for greater packing density"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Terumo Neuro",
+      "Product Name": "VFC Coils",
+      "Materials Used": "Bare-platinum coils",
+      "Coil Type": "MicroPlex Coil System, complex shape, for filling",
+      "Method of Detachment": "V-Grip detachment controller, self-contained integrated power supply, rapid coil detachment: 0.75 seconds",
+      "US FDA Indicated Use": "Intended for the endovascular embolization of intracranial aneurysms and other neurovascular abnormalities such as arteriovenous malformations and arteriovenous fistulae; intended for vascular occlusion of blood vessels within the neurovascular system to permanently obstruct blood flow to an aneurysm or other vascular malformation and for arterial and venous embolizations in the peripheral vasculature",
+      "Comments": "VFC coil’s unique loop/wave shape and long length sizes seek out and fill available space efficiently"
+    }
+  ]
+}

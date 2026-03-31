@@ -1,0 +1,22 @@
+{
+  "source_pdf": "navigation--stryker--spinemap-3d-spinemask--brochure.pdf",
+  "device_name": "spinemap-3d-spinemask",
+  "manufacturer": "stryker",
+  "doc_type": "brochure",
+  "extraction_method": "pdf_deepseek",
+  "fields": {
+    "what_it_is": "SpineMask Non-Invasive Tracker: Non-invasive patient tracking. SpineMap 3D Software: Offers intra-operative flexibility, intra-operative virtual k-wire and pedicle screw planning, enhanced navigation experience with user-defined views and workflows. Stryker KWIC Needle: Manual surgical instrument intended to be used in spine surgery to facilitate placement of guidewires, may also be used to aspirate autologous blood or bone marrow by use of a syringe.",
+    "sizing_specs": null,
+    "indications": "Stryker KWIC Needle: Indicated for any medical condition in which the use of image guided surgery may be appropriate, and where a reference to a rigid anatomical structure, such as the skull or vertebra, can be identified relative to medical images.",
+    "contraindications": null,
+    "compatible_with": "SpineMask: Compatible with a wide variety of imaging devices. SpineMap 3D Software: Compatible with a variety of intra-operative imaging devices for automatic registration.",
+    "use_notes": "SpineMask: Enables minimally invasive approaches for pedicle screw placement, seamless OR integration. SpineMap 3D Software: Automatic registration, intra-operative virtual k-wire and pedicle screw planning, user-defined views and workflows. Stryker KWIC Needle: May be used as part of a planning and intraoperative guidance system to enable open or percutaneous image guided surgery, the blood or bone marrow may be combined with bone graft or bone void filler.",
+    "also_known_as": null
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "indications": 0.7,
+    "compatible_with": 0.7,
+    "use_notes": 0.7
+  }
+}

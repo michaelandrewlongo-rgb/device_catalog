@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K100220",
+  "clearance_date": "2010-05-17",
+  "device_class": 2,
+  "manufacturer_canonical": "ebi-l-p",
+  "manufacturer_raw": "Ebi, L.P.",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "POLARIS SPINAL SYSTEM",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--ebi-l-p--polaris-spinal",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf10/K100220.pdf"
+}

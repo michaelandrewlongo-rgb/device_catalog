@@ -1,0 +1,62 @@
+{
+  "device_name": "ZOOM (71, 55, 45, 35) Reperfusion Catheters; ZOOM Aspiration Tubing",
+  "manufacturer": "imperative-care-inc",
+  "catalog_category": "aspiration",
+  "filename_stem": "aspiration--imperative-care-inc--zoom-71-55-45-35",
+  "clearance_type": "510k",
+  "clearance_number": "K202182",
+  "clearance_date": "2020-09-02",
+  "device_class": 2,
+  "device_name_fda": "ZOOM (71, 55, 45, 35) Reperfusion Catheters; ZOOM Aspiration Tubing",
+  "product_code": "NRY",
+  "what_it_is": null,
+  "sizing_specs": "Sheath Compatibility (F): –\nWorking Length (cm): 137–160",
+  "indications": "The Zoom 88 large distal platform (Zoom 88) is indicated for the introduction of interventional devices into the peripheral, coronary, and neurovasculature; Zoom 88 should only be used by physicians who have received appropriate training in interventional techniques and are proficient in using guide sheaths and catheters; the Zoom aspiration catheters (Zoom 71, Zoom 55, Zoom 45, Zoom 35), with the Zoom aspiration tubing set and Zoom aspiration pump (or equivalent vacuum pump), are indicated for use in the revascularization of patients with acute ischemic stroke secondary to intracranial large vessel occlusive disease (within the internal carotid, middle cerebral – M1 and M2 segments, basilar, and vertebral arteries) within 8 hours of symptom onset; patients who are ineligible for intravenous tissue plasminogen activator (IV t-PA) or who fail IV t-PA therapy are candidates for treatment; the Zoom aspiration pump is intended for general suction use in hospitals and clinics; the Zoom aspiration tubing set is intended to connect the Zoom aspiration catheter to the Zoom canister of the Zoom aspiration pump and to allow the user to control the fluid flow; the Zoom aspiration catheters, Zoom aspiration pump, and Zoom aspiration tubing set should only be used by physicians who have received appropriate training in interventional techniques and treatment of acute ischemic stroke",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "Mode of Operation: Vessel-matched aspiration catheters with angled TRX Tip; designed to be used as a complete system with the Zoom 88 Large Distal Platform, Zoom POD, and Zoom Pump\n\n[FDA RECALL] 1 active recall(s).\n  - There is a potential for distal end of catheters to fracture and become detached.",
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K202182.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "none",
+      "confidence": 0
+    },
+    "sizing_specs": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "indications": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "also_known_as": {
+      "source": "none",
+      "confidence": 0
+    },
+    "_safety": {
+      "source": "fda_maude+recalls",
+      "confidence": 0.85
+    }
+  }
+}

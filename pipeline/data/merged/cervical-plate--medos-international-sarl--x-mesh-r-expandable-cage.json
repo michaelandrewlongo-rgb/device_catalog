@@ -1,0 +1,28 @@
+{
+  "device_name": "X-MESH\u00ae Expandable Cage System, OCELOT\u00ae Stackable Cage System, Stackable Cage System, Surgical Titanium Mesh System, BENGAL Stackable Cage System, BENGAL System, CONCORDE\u00ae System, CONCORDE\u00ae Inline Lumbar Interbody System, CONCORDE\u00ae Curve Lumbar Interbody System, CONCORDE\u00ae Bullet Lumbar Interbody System, COUGAR\u00ae System, COUGAR\u00ae LS Lateral Cage System, DEVEX\u00ae System, LEOPARD\u00ae System, DePuy PULSE Cervical Cage System, DePuy PULSE Lumbar Cage System, LUMBAR I/F CAGE\u00ae System",
+  "manufacturer": "medos-international-sarl",
+  "catalog_category": "cervical-plate",
+  "filename_stem": "cervical-plate--medos-international-sarl--x-mesh-r-expandable-cage",
+  "clearance_type": "510k",
+  "clearance_number": "K173787",
+  "clearance_date": "2018-06-11",
+  "device_class": 2,
+  "device_name_fda": "X-MESH\u00ae Expandable Cage System, OCELOT\u00ae Stackable Cage System, Stackable Cage System, Surgical Titanium Mesh System, BENGAL Stackable Cage System, BENGAL System, CONCORDE\u00ae System, CONCORDE\u00ae Inline Lumbar Interbody System, CONCORDE\u00ae Curve Lumbar Interbody System, CONCORDE\u00ae Bullet Lumbar Interbody System, COUGAR\u00ae System, COUGAR\u00ae LS Lateral Cage System, DEVEX\u00ae System, LEOPARD\u00ae System, DePuy PULSE Cervical Cage System, DePuy PULSE Lumbar Cage System, LUMBAR I/F CAGE\u00ae System",
+  "product_code": "MQP",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf17/K173787.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

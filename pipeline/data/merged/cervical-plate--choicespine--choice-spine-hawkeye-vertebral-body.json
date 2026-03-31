@@ -1,0 +1,28 @@
+{
+  "device_name": "Choice Spine Hawkeye\u0099 Vertebral Body Replacement (VBR) System",
+  "manufacturer": "choicespine",
+  "catalog_category": "cervical-plate",
+  "filename_stem": "cervical-plate--choicespine--choice-spine-hawkeye-vertebral-body",
+  "clearance_type": "510k",
+  "clearance_number": "K171686",
+  "clearance_date": "2017-09-15",
+  "device_class": 2,
+  "device_name_fda": "Choice Spine Hawkeye\u0099 Vertebral Body Replacement (VBR) System",
+  "product_code": "MQP",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf17/K171686.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

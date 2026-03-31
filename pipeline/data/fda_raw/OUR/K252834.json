@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K252834",
+  "clearance_date": "2026-01-28",
+  "device_class": 2,
+  "manufacturer_canonical": "4web-medical",
+  "manufacturer_raw": "4Web Medical",
+  "catalog_category": "sacroiliac-fusion",
+  "device_name_fda": "Sacroiliac Joint Truss System (SJTS)",
+  "product_code": "OUR",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "sacroiliac-fusion--4web-medical--sacroiliac-joint-truss-sjts",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf25/K252834.pdf"
+}

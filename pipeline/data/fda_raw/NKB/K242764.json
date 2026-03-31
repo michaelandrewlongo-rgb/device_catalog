@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K242764",
+  "clearance_date": "2024-11-13",
+  "device_class": 2,
+  "manufacturer_canonical": "cmf-medicon-surgical-inc",
+  "manufacturer_raw": "Cmf Medicon Surgical, Inc.",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "MediRod Pedicle Screw System",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--cmf-medicon-surgical-inc--medirod-pedicle-screw",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K242764.pdf"
+}

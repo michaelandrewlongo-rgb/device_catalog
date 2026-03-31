@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K082034",
+  "clearance_date": "2008-08-15",
+  "device_class": 2,
+  "manufacturer_canonical": "stryker",
+  "manufacturer_raw": "Concentric Medical, Inc.",
+  "catalog_category": "thrombectomy",
+  "device_name_fda": "MODIFICATION TO MERCI RETRIEVER",
+  "product_code": "NRY",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "thrombectomy--stryker--modification-to-merci",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf08/K082034.pdf"
+}

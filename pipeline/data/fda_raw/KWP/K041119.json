@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K041119",
+  "clearance_date": "2004-07-19",
+  "device_class": 2,
+  "manufacturer_canonical": "depuy",
+  "manufacturer_raw": "Depuy Spine, Inc.",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "EXPEDIUM SPINE SYSTEM",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--depuy--expedium-spine",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf04/K041119.pdf"
+}

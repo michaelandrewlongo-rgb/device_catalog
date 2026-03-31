@@ -1,0 +1,62 @@
+{
+  "device_name": "Penumbra Smart Coil",
+  "manufacturer": "penumbra",
+  "catalog_category": "embolic-coil",
+  "filename_stem": "embolic-coil--penumbra--penumbra-smart-coil",
+  "clearance_type": "510k",
+  "clearance_number": "K160832",
+  "clearance_date": "2016-04-20",
+  "device_class": 2,
+  "device_name_fda": "Penumbra Smart Coil",
+  "product_code": "HCG",
+  "what_it_is": "Embolization coil with complex and WAVE shapes, engineered with varying levels of softness",
+  "sizing_specs": "Materials: Stretch-resistant bare platinum",
+  "indications": "Indicated for the embolization of intracranial aneurysms, other neurovascular abnormalities such as arteriovenous malformations and arteriovenous fistulae, and arterial and venous embolizations in the peripheral vasculature",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "Method of Detachment: Instant mechanical detachment\nCoil Type: Plus standard, standard, soft, extra soft, wave extra soft\n\n[FDA RECALL] 1 active recall(s).\n  - The diameter of a component of the device is out of tolerance specification; the Delivery Pusher pull wire which secures the coil in place can prolapse and allow premature detachment of the coil.",
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf16/K160832.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "sizing_specs": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "indications": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "also_known_as": {
+      "source": "none",
+      "confidence": 0
+    },
+    "_safety": {
+      "source": "fda_maude+recalls",
+      "confidence": 0.85
+    }
+  }
+}

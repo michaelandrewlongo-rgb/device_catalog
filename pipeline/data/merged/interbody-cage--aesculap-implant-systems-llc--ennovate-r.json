@@ -1,0 +1,28 @@
+{
+  "device_name": "ENNOVATE\u00ae",
+  "manufacturer": "aesculap-implant-systems-llc",
+  "catalog_category": "interbody-cage",
+  "filename_stem": "interbody-cage--aesculap-implant-systems-llc--ennovate-r",
+  "clearance_type": "510k",
+  "clearance_number": "K180433",
+  "clearance_date": "2018-04-26",
+  "device_class": 2,
+  "device_name_fda": "ENNOVATE\u00ae",
+  "product_code": "NKB",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf18/K180433.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

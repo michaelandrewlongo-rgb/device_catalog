@@ -1,0 +1,30 @@
+{
+  "device_name": "iFuse 3D",
+  "manufacturer": "si-bone",
+  "catalog_category": "sacroiliac-fusion",
+  "filename_stem": "sacroiliac-fusion--si-bone--ifuse-3d",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "Minimally invasive sacroiliac joint fusion implant with 3D-printed porous titanium (FuSIon 3D) surface. Triangular cross-section provides 6X more rotational resistance than screws. Patented fenestrated design allows bone through-growth while withstanding SI joint loads. Threaded base allows implant adjustments during placement. Self-harvests bone during press-fit implantation.",
+  "sizing_specs": null,
+  "indications": "Minimally invasive surgical fusion of the sacroiliac (SI) joint in patients who have failed non-surgical treatment.",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "Lateral transiliac approach. 5-year prospective multicenter trial (103 patients/12 sites): 88% patient satisfaction, 87% bridging bone within SI joint, 40% decrease in opioid use, 54-point VAS improvement, 25-point ODI improvement.",
+  "deployment_steps": null,
+  "also_known_as": [
+    "iFuse 3D Implant System"
+  ],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://si-bone.com/providers/solutions/si-joint-dysfunction/ifuse-3d",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ]
+}

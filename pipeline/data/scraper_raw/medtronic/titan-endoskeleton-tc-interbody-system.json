@@ -1,0 +1,13 @@
+{
+  "device_name": "Titan Endoskeleton TC Interbody System",
+  "manufacturer": "medtronic",
+  "category_hint": "cervical-cage",
+  "source_url": "https://www.medtronicacademy.com/en-us/content/anterior-cervical-discectomy---fusion/Spine-Biologics",
+  "what_it_is": "Cervical interbody cage with nanoLOCK surface technology. TCS variant available.",
+  "indications": "ACDF.",
+  "compatible_with": "Venture or Zevo plates.",
+  "also_known_as": [
+    "Titan TC",
+    "Titan Endoskeleton"
+  ]
+}

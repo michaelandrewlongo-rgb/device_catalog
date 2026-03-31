@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K222448",
+  "clearance_date": "2022-10-13",
+  "device_class": 2,
+  "manufacturer_canonical": "dio-medical-corporation",
+  "manufacturer_raw": "Dio Medical Corporation",
+  "catalog_category": "sacroiliac-fusion",
+  "device_name_fda": "UNITY Sacroiliac Joint Fixation System",
+  "product_code": "OUR",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "sacroiliac-fusion--dio-medical-corporation--unity-sacroiliac-joint-fixation",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K222448.pdf"
+}

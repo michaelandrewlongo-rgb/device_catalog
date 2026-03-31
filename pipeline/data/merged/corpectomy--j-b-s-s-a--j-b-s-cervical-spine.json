@@ -1,0 +1,28 @@
+{
+  "device_name": "J.B.S. CERVICAL SPINE SYSTEM",
+  "manufacturer": "j-b-s-s-a",
+  "catalog_category": "corpectomy",
+  "filename_stem": "corpectomy--j-b-s-s-a--j-b-s-cervical-spine",
+  "clearance_type": "510k",
+  "clearance_number": "K942432",
+  "clearance_date": "1995-07-11",
+  "device_class": 2,
+  "device_name_fda": "J.B.S. CERVICAL SPINE SYSTEM",
+  "product_code": "KWP",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf94/K942432.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

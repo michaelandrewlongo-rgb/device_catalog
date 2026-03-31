@@ -1,0 +1,28 @@
+{
+  "device_name": "CODMAN Microcoil Delivery System, DELTAMAXX Microcoil Delivery System, ORBIT GALAXY G2 Microcoil Delivery System, EnPower Control Cable, Connector Cable",
+  "manufacturer": "cerenovus",
+  "catalog_category": "embolic-coil",
+  "filename_stem": "embolic-coil--cerenovus--codman-microcoil-delivery-deltamaxx-microcoil",
+  "clearance_type": "510k",
+  "clearance_number": "K142429",
+  "clearance_date": "2014-12-24",
+  "device_class": 2,
+  "device_name_fda": "CODMAN Microcoil Delivery System, DELTAMAXX Microcoil Delivery System, ORBIT GALAXY G2 Microcoil Delivery System, EnPower Control Cable, Connector Cable",
+  "product_code": "HCG",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf14/K142429.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

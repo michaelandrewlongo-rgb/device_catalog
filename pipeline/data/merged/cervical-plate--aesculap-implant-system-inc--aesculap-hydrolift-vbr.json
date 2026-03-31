@@ -1,0 +1,28 @@
+{
+  "device_name": "AESCULAP HYDROLIFT VBR SYSTEM",
+  "manufacturer": "aesculap-implant-system-inc",
+  "catalog_category": "cervical-plate",
+  "filename_stem": "cervical-plate--aesculap-implant-system-inc--aesculap-hydrolift-vbr",
+  "clearance_type": "510k",
+  "clearance_number": "K083186",
+  "clearance_date": "2010-03-04",
+  "device_class": 2,
+  "device_name_fda": "AESCULAP HYDROLIFT VBR SYSTEM",
+  "product_code": "MQP",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf08/K083186.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

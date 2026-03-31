@@ -1,0 +1,28 @@
+{
+  "device_name": "ACRON\u0099 TLIF System",
+  "manufacturer": "spinemed-ges-m-b-h",
+  "catalog_category": "pedicle-screw",
+  "filename_stem": "pedicle-screw--spinemed-ges-m-b-h--acron-tlif",
+  "clearance_type": "510k",
+  "clearance_number": "K171151",
+  "clearance_date": "2018-04-27",
+  "device_class": 2,
+  "device_name_fda": "ACRON\u0099 TLIF System",
+  "product_code": "MAX",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf17/K171151.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K162918",
+  "clearance_date": "2017-02-09",
+  "device_class": 2,
+  "manufacturer_canonical": "atlas-spine-inc",
+  "manufacturer_raw": "Atlas Spine, Inc.",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "Atlas Spine Expandable Interbody System",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--atlas-spine-inc--atlas-spine-expandable-interbody",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf16/K162918.pdf"
+}

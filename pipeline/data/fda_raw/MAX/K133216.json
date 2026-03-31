@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K133216",
+  "clearance_date": "2013-11-22",
+  "device_class": 2,
+  "manufacturer_canonical": "medtronic",
+  "manufacturer_raw": "Medtronic Sofamor Danek, Inc.",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "CRESCENT SPINAL SYSTEM",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--medtronic--crescent-spinal",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf13/K133216.pdf"
+}

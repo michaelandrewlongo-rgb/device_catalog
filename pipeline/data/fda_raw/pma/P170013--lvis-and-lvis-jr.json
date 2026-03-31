@@ -1,0 +1,15 @@
+{
+  "clearance_type": "pma",
+  "clearance_number": "P170013",
+  "clearance_date": "2020-11-17",
+  "device_class": 3,
+  "manufacturer_canonical": "microvention",
+  "manufacturer_raw": "MicroVention, Inc.",
+  "catalog_category": "intracranial-stent",
+  "device_name_fda": "LVIS and LVIS Jr.",
+  "product_code": "QCA",
+  "product_code_description": "Intracranial coil-assist stent",
+  "already_in_catalog": true,
+  "suggested_filename_stem": "intracranial-stent--microvention--lvis-and-lvis-jr",
+  "pdf_summary_url": ""
+}

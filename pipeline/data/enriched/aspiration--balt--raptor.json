@@ -1,0 +1,61 @@
+{
+  "device_name": "Raptor",
+  "manufacturer": "balt",
+  "catalog_category": "aspiration",
+  "filename_stem": "aspiration--balt--raptor",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "The Raptor Aspiration Catheter is a single-lumen, variable stiffness composite catheter offered in various sizes that facilitates removal of thrombus from the neurovasculature when connected to a compatible aspiration pump and the Balt Aspiration Tubing Set. The distal tip of the catheter shaft includes a markerband and the proximal end of the catheter has a luer fitting to allow for the attachment of ancillary devices for navigation, infusion of fluids, and aspiration through the catheter. The Raptor Aspiration Catheter distal shaft has an external hydrophilic coating which provides a  lubricious surface during use. The Raptor Aspiration Catheters are compatible with 0.014” – 0.018” guidewires and other interventional devices. A peelable split Introducer Sheath is provided in the package to provide support and facilitate the introduction of the distal tip of the Raptor Aspiration Catheter into an appropriate vascular sheath. The catheter and Introducer Sheath are provided sterile, non-pyrogenic, and intended for single use only.",
+  "sizing_specs": "Catalog: N/A; Model: RPTR038155",
+  "indications": "The Raptor Aspiration Catheter with a compatible aspiration pump and Balt Aspiration Tubing Set is indicated for use in the revascularization of patients with acute ischemic stroke secondary to intracranial large vessel occlusive disease (within the internal carotid, middle cerebral – M1 and M2 segments, basilar, and vertebral arteries) within 8 hours of symptom onset. Patients who are ineligible for intravenous tissue plasminogen activator (IV-tPA) or who fail IV-tPA",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "MRI: Labeling does not contain MRI Safety Information. Pre-sterilized. Single-use",
+  "deployment_steps": null,
+  "also_known_as": [
+    "Raptor Aspiration Catheter",
+    "Thrombectomy suction catheter"
+  ],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://baltgroup.com/products/raptor",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "sizing_specs": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "indications": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "also_known_as": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    }
+  }
+}

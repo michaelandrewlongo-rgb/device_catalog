@@ -1,0 +1,20 @@
+{
+  "source": "fda_udi",
+  "brand_name": "CD HORIZON SPINAL SYSTEM",
+  "extraction_method": "fda_udi_api",
+  "fields": {
+    "what_it_is": "ROTATION ROD 653101360 360X5.5MM TI AL S",
+    "sizing_specs": "Model: 653101360",
+    "use_notes": "MRI: Labeling does not contain MRI Safety Information. Pre-sterilized. Single-use",
+    "also_known_as": [
+      "CD HORIZON Spinal System",
+      "Bone-screw internal spinal fixation system, sterile"
+    ]
+  },
+  "confidence": {
+    "what_it_is": 0.85,
+    "sizing_specs": 0.85,
+    "use_notes": 0.85,
+    "also_known_as": 0.85
+  }
+}

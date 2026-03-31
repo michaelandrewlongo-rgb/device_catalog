@@ -1,0 +1,22 @@
+{
+  "source_pdf": "pedicle-screw--stryker--xia3--510k.pdf",
+  "device_name": "xia3",
+  "manufacturer": "stryker",
+  "doc_type": "510k",
+  "extraction_method": "pdf_deepseek",
+  "fields": {
+    "what_it_is": "The Stryker Spine XIA® 3 Spinal System is a noncervical pedicle screw system comprised of monoaxial and polyaxial bone screws, blocker (as a locking mechanism), rods, hooks, and connectors. The implants are manufactured from Ti6Al4V alloy, CP Ti, and CoCrMo alloy (Vitallium).",
+    "sizing_specs": null,
+    "indications": "The XIA® 3 Spinal System is intended for use in the noncervical spine. When used as an anterior/anterolateral and posterior, noncervical pedicle and non-pedicle fixation system, the XIA® 3 Spinal System is intended to provide additional support during fustion using autograft or allograft in skeletally mature patients in the treatment of the following acute and chronic instabilities or deformities: - Degenerative disc disease (DDD) (defined as back pain of discogenic origin with degeneration of the disc confirmed by history and radiographic studies); - Spondylolisthesis; - Trauma (i.e. fracture or dislocation); - Spinal stenosis; - Curvatures (i.e. scoliosis, kyphosis, and/or lordosis) - Tumor: - Pseudoarthrosis; and - Failed previous fusion. The Ø5.5mm rods from the Stryker Spine Radius™ Spinal System and Ø6.0mm Vitallium Rods from the XIA® Spinal System are intended to be used with the other components of the XIA® 3 Spinal System. When used for posterior noncervical pedicle screw fixation in pediatric patients, the XIA® 3 Spinal System implants are indicated as an adjunct to fusion to treat adolescent idiopathic scoliosis. The XIA® 3 Spinal System for pediatric use is intended to be used with autograft and/or allograft. Pediatric pedicle screw fixation is limited to a posterior approach.",
+    "contraindications": null,
+    "compatible_with": "The Ø5.5mm rods from the Stryker Spine Radius™ Spinal System and Ø6.0mm Vitallium Rods from the XIA® Spinal System are intended to be used with the other components of the XIA® 3 Spinal System.",
+    "use_notes": "When used as an anterior/anterolateral and posterior, noncervical pedicle and non-pedicle fixation system, the XIA® 3 Spinal System is intended to provide additional support during fustion using autograft or allograft. When used for posterior noncervical pedicle screw fixation in pediatric patients, the XIA® 3 Spinal System implants are indicated as an adjunct to fusion to treat adolescent idiopathic scoliosis. Pediatric pedicle screw fixation is limited to a posterior approach.",
+    "also_known_as": null
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "indications": 0.7,
+    "compatible_with": 0.7,
+    "use_notes": 0.7
+  }
+}

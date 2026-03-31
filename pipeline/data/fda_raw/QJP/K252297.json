@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K252297",
+  "clearance_date": "2026-01-16",
+  "device_class": 2,
+  "manufacturer_canonical": "toro-neurovascular-inc",
+  "manufacturer_raw": "Toro Neurovascular, Inc.",
+  "catalog_category": "microcatheter",
+  "device_name_fda": "Toro 88 Superbore Catheter",
+  "product_code": "QJP",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "microcatheter--toro-neurovascular-inc--toro-88-superbore-catheter",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf25/K252297.pdf"
+}

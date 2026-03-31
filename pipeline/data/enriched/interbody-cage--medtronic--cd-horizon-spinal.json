@@ -1,0 +1,65 @@
+{
+  "device_name": "CD HORIZON SPINAL SYSTEM",
+  "manufacturer": "medtronic",
+  "catalog_category": "interbody-cage",
+  "filename_stem": "interbody-cage--medtronic--cd-horizon-spinal",
+  "clearance_type": "510k",
+  "clearance_number": "K053474",
+  "clearance_date": "2006-01-06",
+  "device_class": 2,
+  "device_name_fda": "CD HORIZON SPINAL SYSTEM",
+  "product_code": "NKB",
+  "what_it_is": "ROTATION ROD 653101360 360X5.5MM TI AL S",
+  "sizing_specs": "Model: 653101360",
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "MRI: Labeling does not contain MRI Safety Information. Pre-sterilized. Single-use\n\n[FDA RECALL] 2 active recall(s).\n  - This lot has incorrectly been laser marked both on the screw head itself as well as the data carrier tag attached to the screw.  The description on face two of the screw head and on the data carrier t\n  - Screws are longer then size etched on the screw.",
+  "deployment_steps": null,
+  "also_known_as": [
+    "CD HORIZON Spinal System",
+    "Bone-screw internal spinal fixation system, sterile"
+  ],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf05/K053474.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "sizing_specs": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "indications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "also_known_as": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "_safety": {
+      "source": "fda_maude+recalls",
+      "confidence": 0.85
+    }
+  }
+}

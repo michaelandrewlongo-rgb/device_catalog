@@ -1,0 +1,28 @@
+{
+  "device_name": "Reef TO/TA System; Regatta Lateral System; Explorer TO System; WaveForm C Interbody System; WaveForm TO Interbody System; WaveForm TA Interbody System; FORZA XP Expandable Spacer System; Shoreline ACS Interbody System; Shoreline RT Interbody System; Meridian Interbody System; WaveForm A Interbody System",
+  "manufacturer": "orthofix",
+  "catalog_category": "pedicle-screw",
+  "filename_stem": "pedicle-screw--orthofix--reef-to-ta-regatta-lateral",
+  "clearance_type": "510k",
+  "clearance_number": "K240830",
+  "clearance_date": "2024-06-20",
+  "device_class": 2,
+  "device_name_fda": "Reef TO/TA System; Regatta Lateral System; Explorer TO System; WaveForm C Interbody System; WaveForm TO Interbody System; WaveForm TA Interbody System; FORZA XP Expandable Spacer System; Shoreline ACS Interbody System; Shoreline RT Interbody System; Meridian Interbody System; WaveForm A Interbody System",
+  "product_code": "MAX",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K240830.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

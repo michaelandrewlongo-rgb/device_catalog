@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K210638",
+  "clearance_date": "2021-03-26",
+  "device_class": 2,
+  "manufacturer_canonical": "kaneka-medical-america-llc",
+  "manufacturer_raw": "Kaneka Medical America, LLC",
+  "catalog_category": "embolic-coil",
+  "device_name_fda": "i-ED COIL System",
+  "product_code": "HCG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "embolic-coil--kaneka-medical-america-llc--i-ed-coil",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K210638.pdf"
+}

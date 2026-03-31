@@ -1,0 +1,28 @@
+{
+  "device_name": "COLONNADE Posterior Screw Fixation System",
+  "manufacturer": "cg-bio-co-ltd",
+  "catalog_category": "interbody-cage",
+  "filename_stem": "interbody-cage--cg-bio-co-ltd--colonnade-posterior-screw-fixation",
+  "clearance_type": "510k",
+  "clearance_number": "K250582",
+  "clearance_date": "2025-05-08",
+  "device_class": 2,
+  "device_name_fda": "COLONNADE Posterior Screw Fixation System",
+  "product_code": "NKB",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf25/K250582.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

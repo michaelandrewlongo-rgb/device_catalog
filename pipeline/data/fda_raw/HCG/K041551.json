@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K041551",
+  "clearance_date": "2004-07-07",
+  "device_class": 2,
+  "manufacturer_canonical": "microvention",
+  "manufacturer_raw": "MicroVention, Inc.",
+  "catalog_category": "embolic-coil",
+  "device_name_fda": "MODIFICATION TO: HYDROCOIL EMBOLIC SYSTEM (HES)",
+  "product_code": "HCG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "embolic-coil--microvention--modification-to-hydrocoil-embolic-hes",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf04/K041551.pdf"
+}

@@ -1,0 +1,28 @@
+{
+  "device_name": "Carrier",
+  "manufacturer": "balt",
+  "catalog_category": "aspiration",
+  "filename_stem": "aspiration--balt--carrier",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "Carrier | Delivery Catheter\nREACH OUT",
+  "sizing_specs": "\u2014 To provide analysis;\n\u2014 To save your preferences;\n\u2014 To select the right content framework to serve you based on your geolocation.",
+  "indications": "The Carrier Delivery Catheter is intended for general intravascular use, including the peripheral, coronary and neuro vasculature for the infusion of diagnostic agents, such as contrast media, and to assist in the delivery of interventional devices, such as distal access catheters, in the neurovasculature.",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://baltgroup.com/products/carrier",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ]
+}

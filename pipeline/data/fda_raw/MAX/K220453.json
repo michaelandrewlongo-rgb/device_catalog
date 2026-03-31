@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K220453",
+  "clearance_date": "2022-03-24",
+  "device_class": 2,
+  "manufacturer_canonical": "integrity-implants-inc",
+  "manufacturer_raw": "Integrity Implants, Inc.",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "FlareHawk Interbody Fusion System",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--integrity-implants-inc--flarehawk-interbody-fusion",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K220453.pdf"
+}

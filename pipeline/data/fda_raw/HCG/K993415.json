@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K993415",
+  "clearance_date": "2000-01-21",
+  "device_class": 2,
+  "manufacturer_canonical": "boston-scientific-target",
+  "manufacturer_raw": "Boston Scientific, Target",
+  "catalog_category": "embolic-coil",
+  "device_name_fda": "GDC-10 STRETCH RESISTANT GUGLIELMI DETACHABLE COIL, GDC-10 2-DIAMETER STRETCH RESISTANT GUGLIELMI DETACHABLE COIL, GDC-1",
+  "product_code": "HCG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "embolic-coil--boston-scientific-target--gdc-10-stretch-resistant-guglielmi",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf99/K993415.pdf"
+}

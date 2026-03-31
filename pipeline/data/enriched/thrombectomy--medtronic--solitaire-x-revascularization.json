@@ -1,0 +1,62 @@
+{
+  "device_name": "Solitaire X Revascularization Device",
+  "manufacturer": "medtronic",
+  "catalog_category": "thrombectomy",
+  "filename_stem": "thrombectomy--medtronic--solitaire-x-revascularization",
+  "clearance_type": "510k",
+  "clearance_number": "K203358",
+  "clearance_date": "2021-03-01",
+  "device_class": 2,
+  "device_name_fda": "Solitaire X Revascularization Device",
+  "product_code": "POL",
+  "what_it_is": "Stent retriever designed for effective clot retrieval during thrombectomies for acute ischemic stroke (AIS) patients. Most-published stent retriever with over 200 publications. Parametric overlap design allows stent to expand and compress in vessel during deployment and retrieval.",
+  "sizing_specs": "Sheath Compatibility (F): 8, 9 (balloon guide)\nWorking Length (cm): 180 (Solitaire push wire)",
+  "indications": "Indicated for use to restore blood flow in the neurovasculature by removing thrombus for the treatment of acute ischemic stroke to reduce disability in patients with a persistent, proximal anterior circulation, large vessel occlusion, and smaller core infarcts who have first received IV tPA; endovascular therapy with the device should be started within 6 hours of symptom onset; indicated to restore blood flow by removing thrombus from a large intracranial vessel in patients experiencing ischemic stroke within 8 hours of symptom onset; patients who are ineligible for IV tPA or who fail IV tPA therapy are candidates for treatment",
+  "contraindications": null,
+  "compatible_with": "APRO 55/70 aspiration catheters, Phenom 17/21/27 catheters, React catheters",
+  "use_notes": "Mode of Operation: Designed to restore blood flow in patients experiencing ischemic stroke due to large intracranial vessel occlusion and for use in the neurovasculature, such as the internal carotid artery, M1 and M2 segments of the middle cerebral artery, basilar, and the vertebral arteries",
+  "deployment_steps": null,
+  "also_known_as": [
+    "Solitaire X",
+    "Solitaire"
+  ],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K203358.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.medtronic.com/en-us/healthcare-professionals/products/neurological/neurovascular/stent-retrievers/solitaire-x-revascularization-device.html",
+  "confidence_score": 1.0,
+  "needs_review": false,
+  "data_sources": [
+    "fda",
+    "scraper"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "sizing_specs": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "indications": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "use_notes": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "also_known_as": {
+      "source": "scraper",
+      "confidence": 0.5
+    }
+  }
+}

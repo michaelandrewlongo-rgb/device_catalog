@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K000651",
+  "clearance_date": "2000-11-24",
+  "device_class": 2,
+  "manufacturer_canonical": "cook-inc",
+  "manufacturer_raw": "Cook, Inc.",
+  "catalog_category": "embolic-coil",
+  "device_name_fda": "DETACH 18 AND DETACH 11, NEUROLOGICAL EMBOLIZATION COIL SYSTEM",
+  "product_code": "HCG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "embolic-coil--cook-inc--detach-18-and-detach-11",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf00/K000651.pdf"
+}

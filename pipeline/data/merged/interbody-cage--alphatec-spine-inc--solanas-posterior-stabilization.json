@@ -1,0 +1,28 @@
+{
+  "device_name": "SOLANAS POSTERIOR STABILIZATION SYSTEM",
+  "manufacturer": "alphatec-spine-inc",
+  "catalog_category": "interbody-cage",
+  "filename_stem": "interbody-cage--alphatec-spine-inc--solanas-posterior-stabilization",
+  "clearance_type": "510k",
+  "clearance_number": "K131119",
+  "clearance_date": "2013-05-21",
+  "device_class": 2,
+  "device_name_fda": "SOLANAS POSTERIOR STABILIZATION SYSTEM",
+  "product_code": "NKB",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf13/K131119.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K234035",
+  "clearance_date": "2024-09-06",
+  "device_class": 2,
+  "manufacturer_canonical": "globus",
+  "manufacturer_raw": "Globus Medical, Inc.",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "COSINE Spacer",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--globus--cosine-spacer",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K234035.pdf"
+}

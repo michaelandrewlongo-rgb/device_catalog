@@ -1,0 +1,61 @@
+{
+  "device_name": "ACURA Stabilization System",
+  "manufacturer": "indius-medical-technologies-pvt-ltd",
+  "catalog_category": "interbody-cage",
+  "filename_stem": "interbody-cage--indius-medical-technologies-pvt-ltd--acura-stabilization",
+  "clearance_type": "510k",
+  "clearance_number": "K200937",
+  "clearance_date": "2020-10-26",
+  "device_class": 2,
+  "device_name_fda": "ACURA Stabilization System",
+  "product_code": "NKB",
+  "what_it_is": "ACURA Stabilization System Ø 10.5 x 55 mm Polyaxial Screw - NT",
+  "sizing_specs": "Catalog: A004.7755; Model: A004.7755",
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "MRI: Labeling does not contain MRI Safety Information. Sterilized: Moist Heat or Steam Sterilization. Single-use",
+  "deployment_steps": null,
+  "also_known_as": [
+    "ACURA Stabilization System Ø 10.5 x 55 mm Polyaxial Screw - NT",
+    "Spinal bone screw, non-bioabsorbable"
+  ],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K200937.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "sizing_specs": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "indications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "also_known_as": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    }
+  }
+}

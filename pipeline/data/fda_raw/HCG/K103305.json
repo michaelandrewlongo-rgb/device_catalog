@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K103305",
+  "clearance_date": "2011-01-26",
+  "device_class": 2,
+  "manufacturer_canonical": "penumbra",
+  "manufacturer_raw": "Penumbra, Inc.",
+  "catalog_category": "embolic-coil",
+  "device_name_fda": "PENUMBRA EMBOLIZATION COIL SYSTEM",
+  "product_code": "HCG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "embolic-coil--penumbra--penumbra-embolization-coil",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf10/K103305.pdf"
+}

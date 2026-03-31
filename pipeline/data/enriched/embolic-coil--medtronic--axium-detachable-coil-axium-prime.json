@@ -1,0 +1,58 @@
+{
+  "device_name": "Axium Detachable Coil; Axium Prime Detachable Coil",
+  "manufacturer": "medtronic",
+  "catalog_category": "embolic-coil",
+  "filename_stem": "embolic-coil--medtronic--axium-detachable-coil-axium-prime",
+  "clearance_type": "510k",
+  "clearance_number": "K233420",
+  "clearance_date": "2023-11-07",
+  "device_class": 2,
+  "device_name_fda": "Axium Detachable Coil; Axium Prime Detachable Coil",
+  "product_code": "HCG",
+  "what_it_is": "–",
+  "sizing_specs": "Materials: Implant material: platinum detachable coils",
+  "indications": "Intended for the endovascular embolization of intracranial aneurysms; also intended for the embolization of other neurovascular abnormalities such as AVMs and AVFs",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "Method of Detachment: Instant detachment (mechanical)\nCoil Type: Framing, filling, finishing",
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K233420.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "sizing_specs": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "indications": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "also_known_as": {
+      "source": "none",
+      "confidence": 0
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "device_name": "SAPPHIRE VDS TENSION SAFE DETACHABLE COIL, E-3-12/3-T10-VT",
+  "manufacturer": "medtronic",
+  "catalog_category": "embolic-coil",
+  "filename_stem": "embolic-coil--medtronic--sapphire-vds-tension-safe-detachable",
+  "clearance_type": "510k",
+  "clearance_number": "K032497",
+  "clearance_date": "2003-09-25",
+  "device_class": 2,
+  "device_name_fda": "SAPPHIRE VDS TENSION SAFE DETACHABLE COIL, E-3-12/3-T10-VT",
+  "product_code": "HCG",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf03/K032497.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

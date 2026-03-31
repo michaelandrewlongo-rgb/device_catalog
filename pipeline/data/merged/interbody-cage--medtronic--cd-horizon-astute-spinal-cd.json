@@ -1,0 +1,28 @@
+{
+  "device_name": "CD HORIZON\u0099 ASTUTE\u0099 SPINAL SYSTEM; CD HORIZON\u0099 Growth Rod Conversion Set; CD HORIZON\u0099 SPINAL SYSTEM; CD Horizon\u0099 Fenestrated Screw Set; COLORADO 2\u0099 SPINAL System; GDLH\u0099 POSTERIOR SPINAL SYSTEM; SHILLA\u0099 Growth Guidance System; TENOR\u0099 SPINAL SYSTEM",
+  "manufacturer": "medtronic",
+  "catalog_category": "interbody-cage",
+  "filename_stem": "interbody-cage--medtronic--cd-horizon-astute-spinal-cd",
+  "clearance_type": "510k",
+  "clearance_number": "K221646",
+  "clearance_date": "2022-10-04",
+  "device_class": 2,
+  "device_name_fda": "CD HORIZON\u0099 ASTUTE\u0099 SPINAL SYSTEM; CD HORIZON\u0099 Growth Rod Conversion Set; CD HORIZON\u0099 SPINAL SYSTEM; CD Horizon\u0099 Fenestrated Screw Set; COLORADO 2\u0099 SPINAL System; GDLH\u0099 POSTERIOR SPINAL SYSTEM; SHILLA\u0099 Growth Guidance System; TENOR\u0099 SPINAL SYSTEM",
+  "product_code": "NKB",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K221646.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

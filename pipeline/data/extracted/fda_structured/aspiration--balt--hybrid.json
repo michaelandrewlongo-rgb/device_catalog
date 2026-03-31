@@ -1,0 +1,20 @@
+{
+  "source": "fda_udi",
+  "brand_name": "Hybrid",
+  "extraction_method": "fda_udi_api",
+  "fields": {
+    "what_it_is": "Revere Hybrid Access Catheter is a single lumen, hybrid coil and braid-reinforced, variable stiffness catheter with a radiopaque zone on the distal end and a luer hub on the proximal end. The catheter is provided sterile, non-pyrogenic, and is intended for single use only.",
+    "sizing_specs": "Catalog: N/A; Model: REVERE6F65",
+    "use_notes": "MRI: Labeling does not contain MRI Safety Information. Pre-sterilized. Single-use",
+    "also_known_as": [
+      "Revere Hybrid Access Catheter",
+      "Vascular guide-catheter, single-use"
+    ]
+  },
+  "confidence": {
+    "what_it_is": 0.85,
+    "sizing_specs": 0.85,
+    "use_notes": 0.85,
+    "also_known_as": 0.85
+  }
+}

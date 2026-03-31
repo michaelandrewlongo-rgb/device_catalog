@@ -1,0 +1,28 @@
+{
+  "device_name": "Excelsior SL-10",
+  "manufacturer": "stryker",
+  "catalog_category": "microcatheter",
+  "filename_stem": "microcatheter--stryker--excelsior-sl-10",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "Read Now",
+  "sizing_specs": "1.00 mm; 2.54 cm",
+  "indications": "/ indications for use\nStryker Neurovascular Excelsior SL-10 Microcatheter is\nintended to assist in the delivery of diagnostic agents,\nsuch as contrast media, and therapeutic agents, such\nas occlusion coils, into the peripheral, coronary, and\nneurovasculature.",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.stryker.com/us/en/neurovascular/products/excelsior--sl-10--microcatheter.html",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ]
+}

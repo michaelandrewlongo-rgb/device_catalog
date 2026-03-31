@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K241783",
+  "clearance_date": "2025-03-18",
+  "device_class": 2,
+  "manufacturer_canonical": "vy-spine-llc",
+  "manufacturer_raw": "Vy Spine, LLC",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "FortiVy OsteoVy Lumbar IBF",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--vy-spine-llc--fortivy-osteovy-lumbar-ibf",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K241783.pdf"
+}

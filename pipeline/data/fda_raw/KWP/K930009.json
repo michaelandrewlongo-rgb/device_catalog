@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K930009",
+  "clearance_date": "1994-09-01",
+  "device_class": 2,
+  "manufacturer_canonical": "stryker-corp",
+  "manufacturer_raw": "Stryker Corp.",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "STRYKER 2S SPINAL SYSTEM",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--stryker-corp--stryker-2s-spinal",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf93/K930009.pdf"
+}
