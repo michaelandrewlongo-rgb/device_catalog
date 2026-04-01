@@ -67,23 +67,26 @@ The repository is succeeding when:
 
 Move the catalog from “many partially captured products” to “materially useful device reference.”
 
-Progress as of 2026-03-31: catalog grew from 68 to 144 curated knowledge files via extraction pipeline + batch promotion. Extraction pipeline now harvests from 6 sources (FDA APIs, manufacturer scrapers, EVToday, NSPR, Marker PDF extraction, DeepSeek synthesis). Fixed FDA summary lookup (stem-based fallback) unlocked 724 enrichment fields.
+Progress as of 2026-04-01: catalog at 174 curated knowledge files across 22 categories and 31 manufacturers. 281 total indexed devices. Extraction pipeline harvests from 6 sources (FDA APIs, manufacturer scrapers, EVToday, NSPR, Marker PDF extraction, DeepSeek synthesis).
 
-Completed:
-- gap-fill engine built (pipeline/processing/gap_filler.py) -- deterministic placeholder fill
-- competitor comparison filler built (pipeline/processing/competitor_filler.py) -- 53/53 comparisons via DeepSeek
-- knowledge rewriter built (pipeline/processing/rewriter.py) -- FDA boilerplate cleanup
-- NSPR detail pages re-scraped: 103 products (89 with specs, 88 with descriptions)
-- guidewires: 0 -> 7 curated (Asahi Chikai x2, Balt Hybrid, MicroVention Traxcess x3, Stryker Synchro Select)
-- embolic coils: 5 -> 20 curated (15 new across Balt, Cerenovus, Kaneka, Medtronic, MicroVention, Penumbra, Stryker, Boston Scientific, Spartan)
-- FDA summary lookup fix unlocked 724 enrichment fields
-- [NEEDS CONTENT] reduced from 90 to 29 instances (68% reduction)
+Completed (2026-03-30 -- 2026-04-01):
+- Extraction pipeline built: three-tier (FDA/EVToday/NSPR -> Marker+DeepSeek -> multi-source synthesis)
+- 84 NSPR technique guide PDFs extracted via pdfplumber + DeepSeek (spine devices)
+- 80 catalog-root PDFs extracted (brochures, IFUs, technique guides)
+- Gap-fill engine: deterministic placeholder fill from extracted data
+- Competitor comparison filler: 83/83 comparisons via DeepSeek
+- Knowledge rewriter: FDA boilerplate cleanup (14 sections cleaned)
+- 30 devices promoted in latest batch (thrombectomy, CSF shunts, dural substitutes, microcatheters, aspiration, distal access, embolic coils, flow diverter, interbody cage, cervical plate)
+- Section fill improved: What It Is 98%, Sizing 82%, Key Differences 71%, Also Known As 86%
+- [NEEDS CONTENT] reduced from 90 to 30 instances (67% reduction)
+- Pipeline reliability fixes: DeepSeek timeout/token limits, Marker LLM hang fix, truncated JSON repair
 
 The next stage is:
-- cleaning noisy FDA boilerplate in 14 sections via Tier 2 rewriter (in progress)
-- acquiring NSPR technique guide PDFs (need user login for verified surgeon access)
-- enriching remaining thin category: stent-retriever (0 curated)
-- promoting more devices from enriched records (~30 candidates with 3+ FDA fields)
+- Clean FDA boilerplate in newly promoted neurovascular files (54 noisy sections)
+- Promote from remaining ~415 candidates with 3+ enriched fields
+- Acquire neurovascular IFU PDFs to fill remaining gaps (sizing, use notes)
+- Re-run FDA structured queries with rate limiting
+- Stent-retriever category remains at 0 curated
 
 ## Non-Goals
 

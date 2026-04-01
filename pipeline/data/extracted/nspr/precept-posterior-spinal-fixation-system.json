@@ -1,13 +1,23 @@
 {
   "source": "nspr",
   "nspr_url": "https://neurospineproductreview.com/precept-posterior-spinal-fixation-system",
-  "device_name": "",
+  "device_name": "Precept Posterior Spinal Fixation System",
   "manufacturer": "Nuvasive (Globus)",
   "specs": {
-    "COMPANY": "Nuvasive (Globus)"
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Screws",
+    "Screw Type": "Pedicle Screws (Thoraco-lumbar)",
+    "Features": "Detachable/ Modular Head , K-Wire Cannulated , Polyaxial Head , Extended Reduction Head Tabs , Percutaneous Screw",
+    "Screw Materials": "Titanium",
+    "By Location/Approach": "Posterior Thoracic , Posterior Lumbar",
+    "By Procedure Type": "Thoraco-lumbar-Pelvic Fixation",
+    "By System Type": "Degenerative , Deformity , MIS/Perc",
+    "By Material": "Titanium (Solid)"
   },
-  "description": "Features:\n                                        \n                                                                                    Detachable/ Modular Head , K-Wire Cannulated , Polyaxial Head , Extended Reduction Head Tabs , Percutaneous Screw",
+  "description": "p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 16.0px Helvetica; color: #000000; -webkit-text-stroke: #53595d; background-color: #ffffff}\np.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 16.0px Helvetica; color: #000000; -webkit-text-stroke: #53595d; background-color: #ffffff; min-height: 19.0px}\nspan.s1 {font-kerning: none}",
   "features": [],
-  "pdfs": [],
+  "pdfs": [
+    "https://neurospineproductreview.com/storage/products/pdfs/precept-technique-guide.PDF"
+  ],
   "mfr_link": ""
 }

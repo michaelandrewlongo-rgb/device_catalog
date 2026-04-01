@@ -1,15 +1,33 @@
 {
   "source": "nspr",
   "nspr_url": "https://neurospineproductreview.com/creo-mcs-midline-cortical-screw-system",
-  "device_name": "CREO MCS",
+  "device_name": "CREO MCS - Midline Cortical Screw System",
   "manufacturer": "Globus Medical",
   "specs": {
-    "COMPANY": "Globus Medical",
-    "MANUFACTURER INFO": "CREO MCS",
-    "CREO MCS": "Midline Cortical Screw System"
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Screws",
+    "Screw Type": "Pedicle Screws (Thoraco-lumbar)",
+    "Features": "Detachable/ Modular Head , Polyaxial Head , Medial Cortical Screw",
+    "Screw Materials": "Titanium",
+    "By Location/Approach": "Posterior Lumbar",
+    "By Procedure Type": "TLIF , PLIF , Thoraco-lumbar-Pelvic Fixation",
+    "By System Type": "Degenerative , MIS/Perc",
+    "By Material": "Titanium (Solid)"
   },
-  "description": "Features:\n                                        \n                                                                                    Detachable/ Modular Head , Polyaxial Head , Medial Cortical Screw",
-  "features": [],
-  "pdfs": [],
+  "description": "CREO MCS: Midline Cortical Screw System\nThe CREO MCS system is a minimally invasive solution for pedicle screw placement in the midline cortical approach technique. This is a modular screw platform which is compatible with the CREO AMP polyaxial head. The system has a dual outer diameter thread and tighter thread pitch than traditional pedicle screws.\nScrew options:",
+  "features": [
+    "Polyaxial Cortical screw",
+    "Modular head",
+    "±30° angulation (60° total)",
+    "Screw diameters: 5.0/4.0, 5.5/4.5, 6.0/5.0, 6.5/5.5mm",
+    "Screw lengths: 20–45mm",
+    "Traditional Pedicle screw post",
+    "Modular head separate",
+    "±30° angulation (60° total)",
+    "Sizes same as CREO AMP screw"
+  ],
+  "pdfs": [
+    "https://neurospineproductreview.com/storage/products/pdfs/globus-creo-mcs-medial-cortical-screw-modular-pedicle-techniqueguide-reve.pdf"
+  ],
   "mfr_link": ""
 }

@@ -1,13 +1,28 @@
 {
   "source": "nspr",
   "nspr_url": "https://neurospineproductreview.com/coalition-agx-anterior-cervical-plate-for-acdf",
-  "device_name": "",
+  "device_name": "COALITION AGX Anterior Cervical Plate for ACDF",
   "manufacturer": "Globus Medical",
   "specs": {
-    "COMPANY": "Globus Medical"
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Plates , Interbody Device",
+    "Plate Approach": "Anterior Plate",
+    "Plate Configuration": "Minimal Profile",
+    "Plate Dynamics": "Static Plate",
+    "By Location/Approach": "Anterior Cervical",
+    "By Procedure Type": "ACDF",
+    "By System Type": "Degenerative , MIS/Perc",
+    "Cage Material": "Titanium (Solid)",
+    "Cage Type": "Interbody Cage/Cervical",
+    "Expansion": "Static",
+    "Cage Approach": "Anterior",
+    "Configuration": "Low profile plate attached",
+    "By Material": "PEEK Solid block , Titanium Plasma Sprayed , Allograft (Structural) , PEEK/Titanium , Titanium etched"
   },
-  "description": "By Material:\n                                        \n                                                                                    PEEK Solid block , Titanium Plasma Sprayed , Allograft (Structural) , PEEK/Titanium , Titanium etched",
+  "description": "The COALITION AGX anterior cervical plate is a multi-use plate intended to be used in conjunction with the complementary cages such as the HEDRON IC (3D printed titanium ACDF spacer), COALITION AGX PEEK (ACDF PEEK interbody spacer), COALITION AGX Allograft (Cortical bone ACDF spacer),\nThe AGX plate comes in 2 profiles:\n- COALITION AGX RP Plate (reduced profile)\n- COALITION AGX standard profile (see photo)",
   "features": [],
-  "pdfs": [],
+  "pdfs": [
+    "https://neurospineproductreview.com/storage/products/pdfs/globus-coalition-agx-standalone-acdf-spacer-plate-technique-guide-reve.pdf"
+  ],
   "mfr_link": ""
 }

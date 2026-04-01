@@ -1,14 +1,39 @@
 {
   "source": "nspr",
   "nspr_url": "https://neurospineproductreview.com/anterior-lumbar-zero-profile-stand-alone-3d-printed-titanium-alif-spacer",
-  "device_name": "Stand-Alone ALIF 3D Printed Zero-Profile Spacer",
+  "device_name": "Anterior Lumbar Zero-Profile Stand-Alone 3D Printed Titanium ALIF Spacer",
   "manufacturer": "Eminent Spine",
   "specs": {
-    "COMPANY": "Eminent Spine",
-    "MANUFACTURER INFO": "Stand-Alone ALIF 3D Printed Zero-Profile Spacer"
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Interbody Device",
+    "Cage Type": "Interbody Cage/Lumbar",
+    "Expansion": "Static",
+    "Cage Approach": "Anterior",
+    "Configuration": "0-Profile (Integrated screws)",
+    "By Material": "PEEK Solid block , 3D Printed Titanium",
+    "By Location/Approach": "Anterior Lumbar",
+    "By Procedure Type": "ALIF",
+    "By System Type": "Degenerative"
   },
-  "description": "COMPANY:\n                                                    \n                                                        Kyocera Medical Technologies, Inc",
-  "features": [],
-  "pdfs": [],
+  "description": "The ALIF Stand-alone Spacer by Eminent Spine is a 3D printed titanium zero-profile ALIF spacer. It is also available in PEEK by request). The spacer has 3 screw hole fixation with rotating locking cam to prevent screw backout.",
+  "features": [
+    "Material available:",
+    "3D printed titanium (available with serrated teeth and without)",
+    "PEEK (available by request)",
+    "Large central window",
+    "Footprint options: WxD",
+    "32x21mm",
+    "35x25mm",
+    "38x26mm",
+    "Lordosis options:",
+    "6 degree",
+    "12 degree",
+    "18 degree",
+    "Height options:",
+    "10-20mm in 2mm increments"
+  ],
+  "pdfs": [
+    "https://neurospineproductreview.com/storage/products/pdfs/technique-guide-alif-stand-alone.pdf"
+  ],
   "mfr_link": ""
 }

@@ -1,13 +1,25 @@
 {
   "source": "nspr",
   "nspr_url": "https://neurospineproductreview.com/coroent-oblique-tlif-spacer",
-  "device_name": "",
+  "device_name": "CoRoent Oblique TLIF Spacer",
   "manufacturer": "Nuvasive (Globus)",
   "specs": {
-    "COMPANY": "Nuvasive (Globus)"
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Interbody Device",
+    "Cage Type": "Interbody Cage/Lumbar",
+    "Expansion": "Static",
+    "Cage Approach": "Posterior",
+    "Configuration": "Cage Alone",
+    "By Material": "PEEK Solid block",
+    "By Location/Approach": "Posterior Lumbar",
+    "By Procedure Type": "TLIF",
+    "By System Type": "Degenerative , MIS/Perc"
   },
-  "description": "COMPANY:\n                                                    \n                                                        Nuvasive (Globus)",
-  "features": [],
+  "description": "The CoRoent Oblique TLIF Spacer by Nuvasive is a PEEK implant spacer designed to be placed easily through an MIS oblique angle. The cage can also be placed via an insert-and-rotate technique.\nFootprint options: (width x length)\nPosterior Height options:\nLordosis options:",
+  "features": [
+    "4 degree",
+    "12 degree"
+  ],
   "pdfs": [],
   "mfr_link": ""
 }

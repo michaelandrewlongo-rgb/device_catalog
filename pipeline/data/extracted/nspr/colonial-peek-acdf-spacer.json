@@ -1,13 +1,41 @@
 {
   "source": "nspr",
   "nspr_url": "https://neurospineproductreview.com/colonial-peek-acdf-spacer",
-  "device_name": "",
+  "device_name": "COLONIAL PEEK ACDF Spacer",
   "manufacturer": "Globus Medical",
   "specs": {
-    "COMPANY": "Globus Medical"
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Interbody Device",
+    "Cage Type": "Interbody Cage/Cervical",
+    "Expansion": "Static",
+    "Cage Approach": "Anterior",
+    "Configuration": "Cage Alone",
+    "By Material": "PEEK Solid block",
+    "By Location/Approach": "Anterior Cervical",
+    "By Procedure Type": "ACDF",
+    "By System Type": "Degenerative , Deformity"
   },
-  "description": "COMPANY:\n                                                    \n                                                        Neuro Structures / NuGen",
-  "features": [],
-  "pdfs": [],
+  "description": "COLONIAL™ Spacer by Globus Medical is available in PEEK and a titanium plasma spray coated PEEK (TPS) spacer for use in the ACDF procedure. This is radiolucent spacer requiring supplemental fixation",
+  "features": [
+    "Titanium plasma sprayed coating over PEEK for radiolucent view on imaging",
+    "Tapered edge on insertion",
+    "Footprint options: DxW",
+    "Small: 11x12mm",
+    "Large: 12x14mm",
+    "XLarge: 14x16mm",
+    "XXLarge:15x18mm",
+    "Lordosis options:",
+    "Anatomic convex",
+    "0 degree",
+    "7 degree",
+    "12 degree",
+    "15 degree",
+    "20degree",
+    "Height options:",
+    "5-14mm"
+  ],
+  "pdfs": [
+    "https://neurospineproductreview.com/storage/products/pdfs/globus-colonial-colonial-tps-acdf-spacer-techniqueguide-reve-2.pdf"
+  ],
   "mfr_link": ""
 }

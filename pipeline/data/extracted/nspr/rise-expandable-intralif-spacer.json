@@ -1,13 +1,25 @@
 {
   "source": "nspr",
   "nspr_url": "https://neurospineproductreview.com/rise-expandable-intralif-spacer",
-  "device_name": "",
+  "device_name": "RISE expandable IntraLIF spacer",
   "manufacturer": "Globus Medical",
   "specs": {
-    "COMPANY": "Globus Medical"
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Interbody Device",
+    "Cage Type": "Interbody Cage/Lumbar",
+    "Expansion": "Expandable",
+    "Cage Approach": "Posterior/Straight (PLIF) Cage,Oblique Cages",
+    "Configuration": "Cage Alone",
+    "By Material": "Titanium (Solid) , 3D Printed Titanium",
+    "By Location/Approach": "Posterior Lumbar",
+    "By Procedure Type": "TLIF , PLIF",
+    "By System Type": "Degenerative , MIS/Perc",
+    "Expansion Type/Lordosis": "Parallel expansion (Fixed Lordosis)"
   },
-  "description": "Expansion Type/Lordosis:\n                                        \n                                                                                    Parallel expansion (Fixed Lordosis)",
+  "description": "p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 11.0px 'Helvetica Neue'; color: #000000}\nRISE IntraLIF spacer is a titanium expandable interbody spacer designed for a minimally invasive percutaneous extraforaminal approach through an 8.5mm inner diameter cannula, with implant placement across the midline of the vertebral body.",
   "features": [],
-  "pdfs": [],
+  "pdfs": [
+    "https://neurospineproductreview.com/storage/products/pdfs/globus-rise-intralif-expandable-spacer-technique-guide-revc.pdf"
+  ],
   "mfr_link": ""
 }

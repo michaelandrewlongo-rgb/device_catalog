@@ -1,12 +1,19 @@
 {
   "source": "nspr",
   "nspr_url": "https://neurospineproductreview.com/creo-cocr-cobalt-chrome-pedicle-screw-system",
-  "device_name": "",
+  "device_name": "CREO CoCr Cobalt Chrome Pedicle Screw System",
   "manufacturer": "Globus Medical",
   "specs": {
-    "COMPANY": "Globus Medical"
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Screws",
+    "Screw Type": "Pedicle Screws (Thoraco-lumbar)",
+    "Features": "Detachable/ Modular Head , Polyaxial Head , Extended Reduction Head Tabs",
+    "By Material": "Cobalt Chrome (CoCr)",
+    "By Location/Approach": "Posterior Thoracic , Posterior Lumbar",
+    "By Procedure Type": "TLIF , PLIF",
+    "By System Type": "Degenerative , Deformity"
   },
-  "description": "The CREO CoCr system by Globus medical is a modular high-strength Cobalt Chrome alloy thoracolumbar pedicle screw system intended for use in hight-force constructs and surgeries where increased stiffness is required. The system comes as modular head or preassembled heads with both threaded and non-threaded cap options. It is interchangeable with other modular CREO systems. Accepts both 5.5 and 6.0mm rod sizes.",
+  "description": "CREO CoCr: Cobalt Chrome Stabilization System\nThe CREO CoCr system by Globus medical is a modular high-strength Cobalt Chrome alloy thoracolumbar pedicle screw system intended for use in hight-force constructs and surgeries where increased stiffness is required. The system comes as modular head or preassembled heads with both threaded and non-threaded cap options. It is interchangeable with other modular CREO systems. Accepts both 5.5 and 6.0mm rod sizes.",
   "features": [],
   "pdfs": [],
   "mfr_link": ""

@@ -1,13 +1,40 @@
 {
   "source": "nspr",
   "nspr_url": "https://neurospineproductreview.com/pivox-oblique-lumbar-interbody-spacer",
-  "device_name": "",
+  "device_name": "PIVOX Oblique Lumbar Interbody Spacer",
   "manufacturer": "Medtronic",
   "specs": {
-    "COMPANY": "Medtronic"
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Interbody Device , Plates",
+    "Cage Type": "Interbody Cage/Lumbar",
+    "Expansion": "Static",
+    "Cage Approach": "Oblique (ATP: Anterior-To-Psoas) , Lateral",
+    "Configuration": "Cage Alone , Low profile plate attached",
+    "By Material": "PEEK Solid block",
+    "Plate Location": "Thoracic/lumbar",
+    "Plate Approach": "Lateral Plate",
+    "Plate Configuration": "Minimal Profile",
+    "Plate Dynamics": "Static Plate",
+    "By Location/Approach": "Lateral Lumbar , Oblique Lumbar",
+    "By Procedure Type": "XLIF/DLIF/LLIF/OLIF",
+    "By System Type": "Degenerative , Deformity , MIS/Perc"
   },
-  "description": "Cage Approach:\n                                        \n                                                                                    Oblique (ATP: Anterior-To-Psoas) , Lateral",
-  "features": [],
-  "pdfs": [],
+  "description": "The PIVOX is an Oblique interbody spacer for use in the Oblique lumbar approach by Medtronic. It is available in PEEK and has a pivoting inserter and ability to affix plate in an oblique approach as well.\nFeatrues:",
+  "features": [
+    "Radiolucent PEEK material",
+    "Optional plate can be affixed directly to cage",
+    "Pivoting inserter",
+    "Footprint options:",
+    "Width: 20mm",
+    "Lengths: 40, 45, 50, 55, 60mm",
+    "Heights: 8, 10, 12, 14, 16, 18mm",
+    "Lordosis: 6, 12, 18 degrees",
+    "Plate options:",
+    "Small: 28.4mm",
+    "Large: 34.6mm"
+  ],
+  "pdfs": [
+    "https://neurospineproductreview.com/storage/products/pdfs/pivox-surgical-technique.pdf"
+  ],
   "mfr_link": ""
 }

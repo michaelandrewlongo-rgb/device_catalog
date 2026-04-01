@@ -9,7 +9,19 @@ Threaded sacroiliac joint fusion implant with 3D-printed porous titanium (FuSIon
 
 ## Sizing/Specs
 
-[NEEDS CONTENT - dimensions, available sizes/configurations, materials table]
+| Specification |  |  | Size (mm) | Part Number |
+| --- | --- | --- | --- | --- |
+| Major Diameter |  |  | 8.7 | 870070 – 870170 |
+| Minor Diameter |  |  | 6.9 |  |
+| Inner Diameter |  |  | 2.7 |  |
+| Head Diameter |  |  | 10.5 |  |
+| Lengths |  |  | 70 – 170 |  |
+| Washer – Outer Diameter |  |  | 16.0 or 21.0 | 501939-0016 or 501939-0021 |
+| Washer – Inner Diameter |  |  | 10.3 |  |
+| Drill Bit Dimensions |  |  | 4.5 x 280 | 501765 |
+|  |  |  | 5.5 x 280 | 501766-0280 |
+|  |  |  | 5.5 x 375 | 501766-0375 |
+|  | Tap Dimensions |  | 8.0 x 275 | 400418 |
 
 ## Indications
 

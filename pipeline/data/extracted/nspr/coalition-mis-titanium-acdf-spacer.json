@@ -1,13 +1,37 @@
 {
   "source": "nspr",
   "nspr_url": "https://neurospineproductreview.com/coalition-mis-titanium-acdf-spacer",
-  "device_name": "",
+  "device_name": "COALITION MIS Titanium ACDF spacer",
   "manufacturer": "Globus Medical",
   "specs": {
-    "COMPANY": "Globus Medical"
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Interbody Device",
+    "Cage Type": "Interbody Cage/Cervical",
+    "Expansion": "Static",
+    "Cage Approach": "Anterior",
+    "Configuration": "0-Profile (Integrated screws)",
+    "By Material": "Titanium Plasma Sprayed",
+    "By Location/Approach": "Anterior Cervical",
+    "By Procedure Type": "ACDF",
+    "By System Type": "Degenerative , MIS/Perc"
   },
-  "description": "COMPANY:\n                                                    \n                                                        Amplify Surgical, Inc.",
-  "features": [],
-  "pdfs": [],
+  "description": "The COALITION MIS is a titanium cervical ACDF cage and utilizes an integrated anchor fixation system allowing implantation of the spacer through smaller corridors.  The spacer can be used with the MIS anchor or traditional screw fixation.\nThis cage is available in 2 formats:",
+  "features": [
+    "PEEK spacer with solid titanium plate",
+    "Titanium spacer with SintrOS which incorporated laser surfacet treatment technology which enhances bony ingrowth",
+    "Available footprint options include:",
+    "12x14mm",
+    "14x16mm",
+    "15x18mm",
+    "Eight Height options:",
+    "5-12mm",
+    "Three lordotic options:",
+    "0 deg",
+    "7 deg",
+    "12 deg"
+  ],
+  "pdfs": [
+    "https://neurospineproductreview.com/storage/products/pdfs/globus-coalition-mis-peek-acdf-spacer-technique-guide-revf-1.pdf"
+  ],
   "mfr_link": ""
 }

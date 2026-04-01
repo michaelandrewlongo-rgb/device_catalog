@@ -1,13 +1,23 @@
 {
   "source": "nspr",
   "nspr_url": "https://neurospineproductreview.com/reline-cervical-system",
-  "device_name": "",
+  "device_name": "Reline Cervical System",
   "manufacturer": "Nuvasive (Globus)",
   "specs": {
-    "COMPANY": "Nuvasive (Globus)"
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Screws , Plates",
+    "By Location/Approach": "Occipital , Posterior Cervical , Posterior Thoracic",
+    "Screw Type": "Posterior Cervical (Lateral Mass) , Pedicle Screws (Cervico-Thoracic)",
+    "Screw Materials": "Titanium",
+    "Plate Dynamics": "Static Plate",
+    "By Procedure Type": "PCF",
+    "By System Type": "Degenerative , Deformity , Trauma",
+    "By Material": "Titanium (Solid) , Cobalt Chrome (CoCr)"
   },
-  "description": "The Reline Cervical System is highly regarded by users, achieving an outstanding average rating of 5 out of 5, with praise focusing on its effectiveness and quality. While reviews are universally positive, the limited feedback provides minimal insight into specific strengths or weaknesses, though the trend indicates strong satisfaction among users.",
+  "description": "",
   "features": [],
-  "pdfs": [],
+  "pdfs": [
+    "https://neurospineproductreview.com/storage/products/pdfs/reline-cervical-technique-guide.PDF"
+  ],
   "mfr_link": ""
 }

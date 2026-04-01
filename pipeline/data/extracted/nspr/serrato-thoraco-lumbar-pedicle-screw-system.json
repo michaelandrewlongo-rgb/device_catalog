@@ -1,13 +1,43 @@
 {
   "source": "nspr",
   "nspr_url": "https://neurospineproductreview.com/serrato-thoraco-lumbar-pedicle-screw-system",
-  "device_name": "",
+  "device_name": "Serrato Thoraco-Lumbar Pedicle Screw System",
   "manufacturer": "Stryker-K2M",
   "specs": {
-    "COMPANY": "Stryker-K2M"
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Screws",
+    "Screw Type": "Pedicle Screws (Thoraco-lumbar)",
+    "Features": "K-Wire Cannulated , Polyaxial Head , Favored Angle Head",
+    "Screw Materials": "Titanium",
+    "By Location/Approach": "Posterior Thoracic , Posterior Lumbar",
+    "By Procedure Type": "Thoraco-lumbar-Pelvic Fixation",
+    "By System Type": "Degenerative , Deformity",
+    "By Material": "Titanium (Solid)"
   },
   "description": "The Stryker Serrato Pedicle screw is a sub-set of the Xia 3 system and is compatible with Xia 3 and ES2 systems. It features a serrated tip for increased grip in the bone. IT is a non-modular system and comes as a polyaxial head both true tip and cannulated, Favored angle (biased) screw, and reduction heads.",
-  "features": [],
+  "features": [
+    "Screw options:",
+    "True tip",
+    "Cannulated",
+    "Favored angle",
+    "Reduction heads",
+    "Cortical/cancellous threads",
+    "Accepts 5.5 and 6.0 rod systems",
+    "Works with Xia 3 and ES2 systems",
+    "6 point star screw driver interface",
+    "Polyaxial Screw sizes",
+    "Polyaixial screw diameters: 4.5, 5.5, 6.5, 7.5, 8.5, 9.5mm",
+    "Polyaxial length: 30-100mm",
+    "Cannulated Screw sizes",
+    "Cannulated screw diameters: 5.5, 6.5, 7.5mm",
+    "Cannulated screw lengths: 30-60mm",
+    "Reduction screw sizes",
+    "Reduction screw diameters: 5.5, 6.5, 7.5mm",
+    "Reduction screw lengths: 30-60mm",
+    "Medial Biased screws",
+    "Biased screw diameters: 7.5, 7.5mm",
+    "Biased screw lengths: 70-90mm"
+  ],
   "pdfs": [],
   "mfr_link": ""
 }

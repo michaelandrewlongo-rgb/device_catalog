@@ -1,13 +1,42 @@
 {
   "source": "nspr",
   "nspr_url": "https://neurospineproductreview.com/zero-profile-cervical-spine-truss-system-stand-alone-acdf",
-  "device_name": "",
+  "device_name": "Zero-Profile Cervical Spine Truss System Stand Alone ACDF",
   "manufacturer": "4WEB",
   "specs": {
-    "COMPANY": "4WEB"
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Interbody Device",
+    "Cage Type": "Interbody Cage/Cervical",
+    "Expansion": "Static",
+    "Cage Approach": "Anterior",
+    "Configuration": "0-Profile (Integrated screws)",
+    "By Material": "Titanium (Solid) , 3D Printed Titanium , Titanium Plasma Sprayed",
+    "By Location/Approach": "Anterior Cervical",
+    "By Procedure Type": "ACDF",
+    "By System Type": "Degenerative , MIS/Perc"
   },
-  "description": "By Material:\n                                        \n                                                                                    Titanium (Solid) , 3D Printed Titanium , Titanium Plasma Sprayed",
-  "features": [],
-  "pdfs": [],
+  "description": "The Cervical Spine Truss System - Stand Alone ASTS-SA is an open architecture 3D printed titanium spacer with titanium plasma sprayed coating and features a zero-profile integrated screw fixation.",
+  "features": [
+    "3D printed titanium with plasma sprayed titanium coating",
+    "Open architecture for optimal graft packing",
+    "Optional MIS Anchor fixation in place of screws",
+    "Truss system for load distribution",
+    "Footprint options:",
+    "12x15mm",
+    "14x17mm",
+    "Lordosis options:",
+    "0 degree",
+    "7 degree",
+    "Height options:",
+    "5-12mm",
+    "Screw options:",
+    "3.5mm, 3.8mm: 12, 14, 16mm"
+  ],
+  "pdfs": [
+    "https://neurospineproductreview.com/storage/products/pdfs/la-csts-sa-07-rev-d-csts-sa-sales-sheet.pdf",
+    "https://neurospineproductreview.com/storage/products/pdfs/la-csts-saa-07-rev-a-csts-sa-anchor-fixation-sales-sheet-1-securepdf.pdf",
+    "https://neurospineproductreview.com/storage/products/pdfs/st-csts-sa-01-rev-e-csts-sa-surgical-technique.pdf",
+    "https://neurospineproductreview.com/storage/products/pdfs/st-csts-saa-01-rev-b-csts-saa-surgical-technique-securepdf.pdf"
+  ],
   "mfr_link": ""
 }

@@ -88,16 +88,16 @@ Non-goals:
 
 ## Current Catalog Snapshot
 
-Last verified snapshot: 2026-03-31.
-- 144 curated knowledge files (21 categories, 21 manufacturers)
-- 109 scraped-only devices
-- 253 total indexed devices
-- 21 curated categories, strongest: embolic-coil (20), microcatheter (16), distal-access (14), pedicle-screw (14)
+Last verified snapshot: 2026-04-01.
+- 174 curated knowledge files (22 categories, 31 manufacturers)
+- 107 scraped-only devices
+- 281 total indexed devices
+- 22 curated categories, strongest: embolic-coil (22), microcatheter (22), distal-access (18), pedicle-screw (14), aspiration (13), thrombectomy (12)
 - Two clinical domains: spine (pedicle screws, cages, plates, corpectomy, SI fusion, navigation, disc replacement) and neurovascular/interventional (flow diverters, stent retrievers, aspiration, coils, liquid embolics, microcatheters, intracranial stents, shunts, thrombectomy, guidewires)
-- Section fill: What It Is 94%, Indications 97%, Use Notes 76%, Sizing 62%, Compatible With 51%, Contraindications 35%
-- 24 files still have [NEEDS CONTENT] gaps (29 total instances)
+- Section fill: What It Is 98%, Indications 97%, Also Known As 86%, Sizing 82%, Use Notes 79%, Key Differences 71%, Compatible With 46%, Contraindications 30%
+- 23 files still have [NEEDS CONTENT] gaps (30 total instances)
 
-Pipeline inputs include openFDA 510(k)/PMA APIs (281 summaries, 245 UDI, 592 recalls), manufacturer scraping (9 scrapers, 163 products), Chrome MCP for gated sites, EVToday device guide (301 neuro devices), NeuroSpine Product Review (103 detail pages), and Marker+DeepSeek document extraction (53 PDFs).
+Pipeline inputs include openFDA 510(k)/PMA APIs (281 summaries, 245 UDI, 592 recalls), manufacturer scraping (9 scrapers, 163 products), Chrome MCP for gated sites, EVToday device guide (301 neuro devices), NeuroSpine Product Review (103 detail pages, 84 technique guide PDFs extracted), and Marker+DeepSeek document extraction (175 PDFs total: 84 NSPR + 80 catalog + 11 FDA).
 
 Treat these numbers as a state snapshot. Re-check `CATALOG_INDEX.md` before making coverage claims.
 

@@ -1,14 +1,40 @@
 {
   "source": "nspr",
   "nspr_url": "https://neurospineproductreview.com/dakota-stand-alone-zero-profile-peektitanium-acdf-spacer",
-  "device_name": "DAKOTA Zero-profile Stand-Alone ACDF Spacer",
+  "device_name": "DAKOTA Stand-Alone Zero-Profile PEEK/Titanium ACDF Spacer",
   "manufacturer": "Precision Spine, Inc.",
   "specs": {
-    "COMPANY": "Precision Spine, Inc.",
-    "MANUFACTURER INFO": "DAKOTA Zero-profile Stand-Alone ACDF Spacer"
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Interbody Device , Plates",
+    "Cage Type": "Interbody Cage",
+    "Plate Location": "Cervical",
+    "Expansion": "Static",
+    "Cage Approach": "Anterior",
+    "Configuration": "0-Profile (Integrated screws) , Low profile plate attached",
+    "By Material": "PEEK Solid block , PEEK/Titanium",
+    "Plate Approach": "Anterior Plate",
+    "Plate Configuration": "Minimal Profile",
+    "Plate Dynamics": "Static Plate",
+    "By Location/Approach": "Anterior Cervical",
+    "By Procedure Type": "ACDF",
+    "By System Type": "Degenerative , MIS/Perc"
   },
-  "description": "Configuration:\n                                        \n                                                                                    0-Profile (Integrated screws) , Low profile plate attached",
-  "features": [],
-  "pdfs": [],
+  "description": "The DAKOTA ACDF by Precision Spine is a simplified integrated stand-alone ACDF spacer with a combined anterior titanium plate and a PEEK body. The plate features recessed screws and a locking screw cam. Cortico-cancellous screws facilitate in bony purchase",
+  "features": [
+    "PEEK body with integrated, pre-assembled titanium anterior plate",
+    "Recessed zero-profile screws with locking screw cam to prevent screw backout",
+    "Cortico-cancellous screws",
+    "Footprint options: WxD",
+    "14x12mm",
+    "16x14mm",
+    "Lordosis options:",
+    "7 degree",
+    "Height options:",
+    "6-12mm in 1mm increments"
+  ],
+  "pdfs": [
+    "https://neurospineproductreview.com/storage/products/pdfs/dakota-acdf-lbl-fb-139-rev-c.pdf",
+    "https://neurospineproductreview.com/storage/products/pdfs/dakota-lbl-stg-047-revd.pdf"
+  ],
   "mfr_link": ""
 }

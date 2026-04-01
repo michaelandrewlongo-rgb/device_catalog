@@ -4,11 +4,22 @@
   "device_name": "iFuse INTRA Ti 3D Titanium Posterior SI Joint Implant",
   "manufacturer": "SI-Bone, Inc",
   "specs": {
-    "COMPANY": "SI-Bone, Inc",
-    "MANUFACTURER INFO": "iFuse INTRA Ti 3D Titanium Posterior SI Joint Implant"
+    "Product Category": "Spinal Implants",
+    "By Product Type": "SI Joint",
+    "SI approach": "Posterior Fixation",
+    "Materials": "Titanium (solid)",
+    "By Material": "3D Printed Titanium , Titanium (Solid)",
+    "By Location/Approach": "Posterior Sacral",
+    "By Procedure Type": "SI Joint Fusion (Percutaneous)",
+    "By System Type": "Degenerative , MIS/Perc"
   },
   "description": "The SI-Bone iFuse INTRA Ti is a 3D printed minimally invasive titanium implant desined for use in the posterior percutaneous stabilization and fusion across the SI joint. If features a 3D iFuse lattice intended to improve bony adherence along with cutting blades and bone anchors to grip and compress across the SI joint. The implant featrues fenestrations to allow ingrowth of bone as well.",
-  "features": [],
+  "features": [
+    "3D printed titanium with iFuse lattice structure",
+    "Bone anchors to hold SI joint",
+    "Cutting blades to cut across the SI cortical bone",
+    "MIS implantation via a percutaneous posterior incision"
+  ],
   "pdfs": [],
   "mfr_link": ""
 }

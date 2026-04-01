@@ -1,14 +1,42 @@
 {
   "source": "nspr",
   "nspr_url": "https://neurospineproductreview.com/vault-c-zero-profile-modular-peektitanium-plate-stand-alone-acdf-spacer",
-  "device_name": "VAULT C Modular Stand-Alone ACDF Spacer PEEK/Titnaium",
+  "device_name": "VAULT C Zero-Profile Modular PEEK/Titanium Plate Stand-Alone ACDF Spacer",
   "manufacturer": "Precision Spine, Inc.",
   "specs": {
-    "COMPANY": "Precision Spine, Inc.",
-    "MANUFACTURER INFO": "VAULT C Modular Stand-Alone ACDF Spacer PEEK/Titnaium"
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Interbody Device , Plates",
+    "Cage Type": "Interbody Cage",
+    "Plate Location": "Cervical",
+    "Expansion": "Static",
+    "Cage Approach": "Anterior",
+    "Configuration": "0-Profile (Integrated screws)",
+    "By Material": "PEEK Solid block , PEEK/Titanium",
+    "Plate Approach": "Anterior Plate",
+    "Plate Configuration": "Minimal Profile",
+    "Plate Dynamics": "Static Plate",
+    "By Location/Approach": "Anterior Cervical",
+    "By Procedure Type": "ACDF",
+    "By System Type": "Degenerative , MIS/Perc"
   },
-  "description": "COMPANY:\n                                                    \n                                                        Highridge Medical",
-  "features": [],
-  "pdfs": [],
+  "description": "The VAULT C Stand-Alone ACDF Spacer by Precision Spine is a modular system with a PEEK body that attaches to a zero-profile titanium plate with integrated screw fixation. The Spacer features a large graft window and 42 degree screw angulation",
+  "features": [
+    "Radiolucent PEEK Spacer",
+    "Modular titanium anterior zero-profile plate with integrated screw (2-hole) fixation",
+    "Locking rotating screw cam to prevent screw backout",
+    "Footprint options: WxD",
+    "14x12mm",
+    "16x14mm",
+    "18x15mm",
+    "Lordosis options:",
+    "0 degree",
+    "7 degree",
+    "Height options:",
+    "6-12mm in 1mm increments"
+  ],
+  "pdfs": [
+    "https://neurospineproductreview.com/storage/products/pdfs/vault-c-ss-revc.pdf",
+    "https://neurospineproductreview.com/storage/products/pdfs/vault-c-stg-revg.pdf"
+  ],
   "mfr_link": ""
 }

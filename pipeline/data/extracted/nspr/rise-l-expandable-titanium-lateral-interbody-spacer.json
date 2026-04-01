@@ -1,14 +1,38 @@
 {
   "source": "nspr",
   "nspr_url": "https://neurospineproductreview.com/rise-l-expandable-titanium-lateral-interbody-spacer",
-  "device_name": "RISE -L Lateral Lumbar Expandable",
+  "device_name": "RISE -L Expandable Titanium Lateral Interbody Spacer",
   "manufacturer": "Globus Medical",
   "specs": {
-    "COMPANY": "Globus Medical",
-    "MANUFACTURER INFO": "RISE -L Lateral Lumbar Expandable"
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Interbody Device",
+    "Cage Type": "Interbody Cage/Thoracic,Lumbar",
+    "Expansion": "Expandable",
+    "Expansion Type/Lordosis": "Anterior Only Expansion , Parallel expansion (Fixed Lordosis)",
+    "Cage Approach": "Lateral",
+    "Configuration": "Cage Alone",
+    "By Material": "Titanium (Solid)",
+    "By Location/Approach": "Lateral Lumbar",
+    "By Procedure Type": "XLIF/DLIF/LLIF/OLIF",
+    "By System Type": "Degenerative , Deformity",
+    "Lateral Implant Width": "18mm , 22mm"
   },
-  "description": "Expansion Type/Lordosis:\n                                        \n                                                                                    Anterior Only Expansion , Parallel expansion (Fixed Lordosis)",
-  "features": [],
-  "pdfs": [],
+  "description": "The RISE -L is a lateral thoracolumbar titanium interbody spacer for use in the direct lateral approach. It features up to 7mm of expansion and multiple lordosis options.",
+  "features": [
+    "Width options",
+    "18mm",
+    "22mm",
+    "Length options:",
+    "40-60mm in 5mm increments",
+    "Height ranges:",
+    "7-14mm with 0 degree lordosis",
+    "10-17mm with 0 degree lordosis",
+    "8-15mm with 6 degree lordosis",
+    "10-17mm with 10 degree lordosis",
+    "7-14mm with 3-15 degree lordosis (progressive lordosis, fixed posterior height)"
+  ],
+  "pdfs": [
+    "https://neurospineproductreview.com/storage/products/pdfs/globus-rise-l-expandable-lateral-lumbar-interbody-technique-guide-revf.pdf"
+  ],
   "mfr_link": ""
 }

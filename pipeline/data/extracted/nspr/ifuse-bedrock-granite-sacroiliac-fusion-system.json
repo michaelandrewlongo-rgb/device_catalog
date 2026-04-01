@@ -1,14 +1,33 @@
 {
   "source": "nspr",
   "nspr_url": "https://neurospineproductreview.com/ifuse-bedrock-granite-sacroiliac-fusion-system",
-  "device_name": "iFuse Bedrock Granite SI Fusion",
+  "device_name": "iFuse Bedrock Granite Sacroiliac Fusion System",
   "manufacturer": "SI-Bone, Inc",
   "specs": {
-    "COMPANY": "SI-Bone, Inc",
-    "MANUFACTURER INFO": "iFuse Bedrock Granite SI Fusion"
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Screws",
+    "Screw Type": "Iliac Bolts (S2AI)",
+    "Features": "High-Angulation Screw , Favored Angle Head",
+    "Screw Materials": "Titanium",
+    "By Material": "3D Printed Titanium , Titanium (Solid)",
+    "By Location/Approach": "Posterior Sacral",
+    "By Procedure Type": "Thoraco-lumbar-Pelvic Fixation",
+    "By System Type": "Degenerative , Deformity , Trauma"
   },
-  "description": "Features:\n                                        \n                                                                                    High-Angulation Screw , Favored Angle Head",
-  "features": [],
-  "pdfs": [],
+  "description": "The iFuse Bedrock Granite is a 3D printed titanium microporous lattice outer structure that mimics cancellous bone for increased bony ingrowth. The Screw is intended for sacro-iliac and pelvic fixation as well as increased fusion at the sacrum (S1).",
+  "features": [
+    "3D printed \"FuSIon Surface\" that mimics cancellous bone for increased fusion",
+    "Intelliharvest fenestrations allow for self-harvesting of autograft bone on implantation.",
+    "40 degrees of favored angle sway for optimal rod capture.",
+    "For use in the S1, S2AI, Iliac bolts",
+    "Diameter options:",
+    "9.5, 10.5, 11.5mm",
+    "Length options:",
+    "40-120mm",
+    "Available with open or closed tulip head"
+  ],
+  "pdfs": [
+    "https://neurospineproductreview.com/storage/products/pdfs/300961-us-rev-h-ifuse-bedrock-granite-close-head-stm.pdf"
+  ],
   "mfr_link": ""
 }

@@ -9,7 +9,29 @@ Spinopelvic fixation implant designed to address the 24% lumbopelvic fixation fa
 
 ## Sizing/Specs
 
-[NEEDS CONTENT - dimensions, available sizes/configurations, materials table]
+| Diameter (mm) | 9.5 | 10.5 | 11.5 |
+| --- | --- | --- | --- |
+| 40 | 095040BG | — | — |
+| 45 | 095045BG | — | — |
+| 50 | 095050BG | 105050BG | — |
+| 60 | 095060BG | 105060BG | — |
+| 70 | 095070BG | 105070BG | 115070BG |
+| 80 | 095080BG | 105080BG | 115080BG |
+| 90 | 095090BG | 105090BG | 115090BG |
+| 100 | 095100BG | 105100BG | 115100BG |
+| 110 | 095110BG | 105110BG | — |
+| 120 | 095120BG | 105120BG | — |
+| 50 | 095050CH | 105050CH | — |
+| 60 | 095060CH | 105060CH | — |
+| 70 | 095070CH | 105070CH | 115070CH |
+| 80 | 095080CH | 105080CH | 115080CH |
+| 90 | 095090CH | 105090CH | 115090CH |
+| 100 | 095100CH | 105100CH | 115100CH |
+| 110 | 095110CH | 105110CH | — |
+| 120 | 095120CH | 105120CH | — |
+
+Description Standard Part No.
+Set Screw 501117
 
 ## Indications
 

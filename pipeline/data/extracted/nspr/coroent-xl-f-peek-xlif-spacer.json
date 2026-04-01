@@ -1,13 +1,35 @@
 {
   "source": "nspr",
   "nspr_url": "https://neurospineproductreview.com/coroent-xl-f-peek-xlif-spacer",
-  "device_name": "",
+  "device_name": "CoRoent XL-F PEEK XLIF Spacer",
   "manufacturer": "Nuvasive (Globus)",
   "specs": {
-    "COMPANY": "Nuvasive (Globus)"
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Interbody Device",
+    "Cage Type": "Interbody Cage/Lumbar",
+    "Expansion": "Static",
+    "Cage Approach": "Lateral",
+    "Configuration": "Low profile plate attached",
+    "By Material": "PEEK Solid block",
+    "By Location/Approach": "Lateral Lumbar",
+    "By Procedure Type": "XLIF/DLIF/LLIF/OLIF",
+    "By System Type": "Degenerative , Deformity"
   },
   "description": "CoRoent XL-F is a XLIF interbody implant and fixation system, utilizing a low-profile radiolucent PEEK interbody spacer with integrated self-locking screws. Similar to the entire CoRoent XL family of interbody implants, CoRoent XL-F is intended to be used with supplemental internal spinal fixation.",
-  "features": [],
-  "pdfs": [],
+  "features": [
+    "Radiolucent PEEK",
+    "Integrated self-locking screws",
+    "Footprints:",
+    "18 x 45 mm",
+    "18 x 50 mm",
+    "18 x 55 mm",
+    "18 x 60 mm",
+    "Heights:",
+    "8-18 mm (2 mm increments)",
+    "Lordotic implant available"
+  ],
+  "pdfs": [
+    "https://neurospineproductreview.com/storage/products/pdfs/coroent-xl-f-technique-guide.PDF"
+  ],
   "mfr_link": ""
 }

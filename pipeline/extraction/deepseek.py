@@ -18,10 +18,10 @@ logger = logging.getLogger(__name__)
 BASE_URL = "https://api.deepseek.com/v1/chat/completions"
 MODEL = "deepseek-chat"
 MAX_RETRIES = 3
-TIMEOUT = 60
+TIMEOUT = 180
 
 
-def deepseek_extract(prompt: str, max_tokens: int = 4096) -> dict | None:
+def deepseek_extract(prompt: str, max_tokens: int = 8192) -> dict | None:
     """Send prompt to DeepSeek, parse JSON response. Returns dict or None."""
     if not DEEPSEEK_API_KEY:
         logger.error("DEEPSEEK_API_KEY not set")
@@ -60,7 +60,10 @@ def deepseek_extract(prompt: str, max_tokens: int = 4096) -> dict | None:
 
 
 def _parse_json(text: str) -> dict | None:
-    """Parse JSON from LLM response, stripping markdown fences if present."""
+    """Parse JSON from LLM response, stripping markdown fences if present.
+
+    Attempts to repair truncated JSON from max_tokens cutoff.
+    """
     text = text.strip()
     if text.startswith("```"):
         lines = [l for l in text.splitlines() if not l.strip().startswith("```")]
@@ -68,5 +71,41 @@ def _parse_json(text: str) -> dict | None:
     try:
         return json.loads(text)
     except json.JSONDecodeError:
-        logger.error("Failed to parse JSON: %s", text[:200])
+        pass
+
+    # Try to repair truncated JSON (common when max_tokens cuts mid-response)
+    repaired = _repair_truncated_json(text)
+    if repaired is not None:
+        logger.warning("Repaired truncated JSON (%d chars)", len(text))
+        return repaired
+
+    logger.error("Failed to parse JSON: %s", text[:200])
+    return None
+
+
+def _repair_truncated_json(text: str) -> dict | None:
+    """Attempt to close truncated JSON by finding last complete key-value pair."""
+    if not text.startswith("{"):
         return None
+
+    # Find the last successfully closed value boundary
+    # Look for patterns like: `"value",` or `null,` or `"},`
+    import re
+    # Find all positions where a complete value ends (before next key or end)
+    boundaries = [m.end() for m in re.finditer(r'(?:null|true|false|"|\d)\s*,\s*"', text)]
+    # Also try the position after last complete key-value with closing comma
+    boundaries.extend(m.start() for m in re.finditer(r',\s*"[^"]*"\s*:\s*"[^"]*$', text))
+    boundaries.sort(reverse=True)
+
+    for pos in boundaries:
+        candidate = text[:pos].rstrip(" ,\n\r\t")
+        open_braces = candidate.count("{") - candidate.count("}")
+        attempt = candidate + "}" * max(1, open_braces)
+        try:
+            result = json.loads(attempt)
+            if len(result) >= 1:
+                return result
+        except json.JSONDecodeError:
+            continue
+
+    return None

@@ -1,13 +1,35 @@
 {
   "source": "nspr",
   "nspr_url": "https://neurospineproductreview.com/capstone-peek-tlif-plif-interbody-spacer",
-  "device_name": "",
+  "device_name": "CAPSTONE PEEK TLIF & PLIF Interbody Spacer",
   "manufacturer": "Medtronic",
   "specs": {
-    "COMPANY": "Medtronic"
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Interbody Device",
+    "Cage Type": "Interbody Cage/Lumbar",
+    "Expansion": "Static",
+    "Cage Approach": "Posterior/Straight (PLIF) Cage,Oblique Cages",
+    "Configuration": "Cage Alone",
+    "By Material": "PEEK Solid block",
+    "By Location/Approach": "Posterior Lumbar",
+    "By Procedure Type": "TLIF , PLIF",
+    "By System Type": "Degenerative , MIS/Perc"
   },
-  "description": "Cage Approach:\n                                        \n                                                                                    Posterior/Straight (PLIF) Cage,Oblique Cages",
-  "features": [],
-  "pdfs": [],
+  "description": "The CAPSTONE PEEK spacer by Medtronic is intended for use either unilaterally  obliquely or bilaterally in the PLIF procedure for interbody stabilization. It features a 10mm width spacer anatomically designed for easier implantation and contour to the endplate.",
+  "features": [
+    "Radiolucent PEEK design with teeth on surface to prevent expulsion",
+    "Can be placed MIS using MIS inserters",
+    "Tantalum marker on cage",
+    "Anatomic convex shape",
+    "Footprint options:",
+    "10x22mm",
+    "10x26mm",
+    "10x32mm",
+    "10x36mm",
+    "Height options: 6-16mm"
+  ],
+  "pdfs": [
+    "https://neurospineproductreview.com/storage/products/pdfs/capstone-peek-technique-guide.pdf"
+  ],
   "mfr_link": ""
 }

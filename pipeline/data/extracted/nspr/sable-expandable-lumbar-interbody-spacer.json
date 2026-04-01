@@ -1,13 +1,24 @@
 {
   "source": "nspr",
   "nspr_url": "https://neurospineproductreview.com/sable-expandable-lumbar-interbody-spacer",
-  "device_name": "",
+  "device_name": "SABLE Expandable Lumbar Interbody Spacer",
   "manufacturer": "Globus Medical",
   "specs": {
-    "COMPANY": "Globus Medical"
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Interbody Device",
+    "Cage Type": "Interbody Cage/Thoracic,Lumbar",
+    "Expansion": "Expandable",
+    "Expansion Type/Lordosis": "Parallel Expansion (Progressive Lordosis)",
+    "Cage Approach": "Posterior",
+    "By Material": "3D Printed Titanium",
+    "By Location/Approach": "Posterior Lumbar",
+    "By Procedure Type": "TLIF , PLIF",
+    "By System Type": "Degenerative , Deformity"
   },
-  "description": "Expansion Type/Lordosis:\n                                        \n                                                                                    Parallel Expansion (Progressive Lordosis)",
+  "description": "SABLE is an expandable posterior lumbar  interbody spacer with 3D printed titanium endplates. After insertion and expansion, the cage can be backfilled via a funnel placed in-situ down the inserter.\nLordotic options available:\n- 8, 15, 22o options\nExpansion Heights from:\n- 6-18mm\nFootprint options: (width x length mm)\n- 8x22mm\n-(8 deg ranges: 6-12mm, 9-15m)\n- (15 deg ranges: 7-13mm, 10-16mm)\n- (22 deg ranges: 9-15mm, 11-17mm)\n- 10x22mm\n- (8 deg ranges: 6-12mm, 9-15mm)\n- (15 deg ranges: 7-13mm, 10-16mm)\n- (22 deg ranges: 9-15mm, 11-17mm)\n- 10x26mm\n- (8 deg ranges: 6-12mm, 9-16mm)\n- (15 deg ranges: 7-14mm, 10-17mm)\n- (22 deg ranges: 9-17mm)\n- 10x30mm\n- (8 deg ranges: 6-12mm, 9-16mm)\n- (15 deg ranges: 7-14mm, 10-17mm)\n- (22 deg ranges: 10-18mm)\n- 12x26mm\n- (8 deg ranges: 6-12mm, 9-16mm)\n- (15 deg ranges: 7-14mm, 10-17mm)\n- (22 deg ranges: 9-16mm)\n-12x30mm\n- (8 deg ranges: 6-12mm, 9-16mm)\n- (15 deg ranges: 7-14mm, 10-17mm)\n- (22 deg ranges: 10-17mm)",
   "features": [],
-  "pdfs": [],
+  "pdfs": [
+    "https://neurospineproductreview.com/storage/products/pdfs/globus-sable-expandable-tlif-plif-spacer-technique-guide-revc-1.pdf"
+  ],
   "mfr_link": ""
 }

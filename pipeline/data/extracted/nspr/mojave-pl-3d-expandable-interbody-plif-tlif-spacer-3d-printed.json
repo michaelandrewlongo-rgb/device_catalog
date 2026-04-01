@@ -1,13 +1,36 @@
 {
   "source": "nspr",
   "nspr_url": "https://neurospineproductreview.com/mojave-pl-3d-expandable-interbody-plif-tlif-spacer-3d-printed",
-  "device_name": "",
+  "device_name": "Mojave PL 3D Expandable Interbody PLIF TLIF Spacer 3D printed",
   "manufacturer": "Stryker-K2M",
   "specs": {
-    "COMPANY": "Stryker-K2M"
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Interbody Device",
+    "Cage Type": "Interbody Cage/Lumbar",
+    "Expansion": "Expandable",
+    "Expansion Type/Lordosis": "Parallel expansion (Fixed Lordosis)",
+    "Cage Approach": "Posterior/Straight (PLIF) Cage,Oblique Cages",
+    "Configuration": "Cage Alone",
+    "By Material": "3D Printed Titanium",
+    "By Location/Approach": "Posterior Lumbar",
+    "By Procedure Type": "PLIF , TLIF",
+    "By System Type": "Degenerative , MIS/Perc",
+    "Cage Material": "Titanium (Solid)"
   },
   "description": "The Mojave PL 3D is a 3D printed titanium expandable interbody spacer for use in the PLIF procedure. Cage allows for controlled expansion and can be locked at any point during implantation. It features the ability to independently control the lordosis and the posterior height. The cage is composed of K2M 3D printed titanium lamellar technology with porous structure and roughened surface for increased bony ongrowth.",
-  "features": [],
+  "features": [
+    "3D printed titanium",
+    "Suitable for PLIF bilateral or oblique TLIF",
+    "Graft window within cage allows for graft packing",
+    "Footprint options:\n\n11x24mm\n11x28mm\n11x32mm",
+    "11x24mm",
+    "11x28mm",
+    "11x32mm",
+    "Height range:\n\n7-10mm\n9-12mm\n12-15mm",
+    "7-10mm",
+    "9-12mm",
+    "12-15mm"
+  ],
   "pdfs": [],
   "mfr_link": ""
 }

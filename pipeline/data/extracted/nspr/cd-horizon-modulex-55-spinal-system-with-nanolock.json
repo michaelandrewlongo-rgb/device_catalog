@@ -1,13 +1,36 @@
 {
   "source": "nspr",
   "nspr_url": "https://neurospineproductreview.com/cd-horizon-modulex-55-spinal-system-with-nanolock",
-  "device_name": "",
+  "device_name": "CD Horizon ModuLeX 5.5 Spinal System with NanoLOCK",
   "manufacturer": "Medtronic",
   "specs": {
-    "COMPANY": "Medtronic"
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Screws",
+    "Screw Type": "Pedicle Screws (Thoraco-lumbar)",
+    "Features": "Detachable/ Modular Head , Polyaxial Head , Medial Cortical Screw , Self Tapping",
+    "Screw Materials": "Titanium , Titanium Etched",
+    "By Location/Approach": "Posterior Thoracic , Posterior Lumbar",
+    "By Procedure Type": "Thoraco-lumbar-Pelvic Fixation",
+    "By System Type": "Degenerative , MIS/Perc",
+    "By Material": "Titanium (Solid) , Titanium etched"
   },
   "description": "The CD Horizon ModuLeX 5.5 Spinal system by Medtronic is a complete thoracolumbar fixation system using the 5.5mm rod system. It features pedicle screws for use in the traditional pedicle screw as well as the medial cortical screw. In addition If features the option for Osteogrip threadform which has a cortical and cancellous thread.",
-  "features": [],
-  "pdfs": [],
+  "features": [
+    "Modular head",
+    "54 degree cone of angulation",
+    "Screw options:",
+    "Cortical Shank: optimized for medial cortical screw placement",
+    "ATS (Awl Tip Screw): dual thread with self-drilling and self-tapping screw",
+    "Osteogrip: Dual thread features a 51% toggle reduction",
+    "Osteogrip with nanoLOCK: Surface etched with Titan NanoLOCK technology for increased fixation that acts as an osteoconductive scaffold for bony ingrowth.",
+    "Screw size options:",
+    "Diameters: 4.5, 5.5, 6.5, 7.5, 8.5mm",
+    "Lengths: 25-60mm"
+  ],
+  "pdfs": [
+    "https://neurospineproductreview.com/storage/products/pdfs/modulex-brochure.pdf",
+    "https://neurospineproductreview.com/storage/products/pdfs/modulex-nanolock-shank.pdf",
+    "https://neurospineproductreview.com/storage/products/pdfs/modulex-surgical-technique-1.pdf"
+  ],
   "mfr_link": ""
 }

@@ -1,13 +1,30 @@
 {
   "source": "nspr",
   "nspr_url": "https://neurospineproductreview.com/es2-percutaneous-thoracolumbar-pedicle-screw-set",
-  "device_name": "",
+  "device_name": "ES2 Percutaneous Thoracolumbar Pedicle Screw Set",
   "manufacturer": "Stryker-K2M",
   "specs": {
-    "COMPANY": "Stryker-K2M"
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Screws",
+    "Screw Type": "Pedicle Screws (Thoraco-lumbar)",
+    "Features": "K-Wire Cannulated , Polyaxial Head , Percutaneous Screw , Extended Reduction Head Tabs",
+    "Screw Materials": "Titanium",
+    "By Location/Approach": "Posterior Thoracic , Posterior Lumbar",
+    "By Procedure Type": "Thoraco-lumbar-Pelvic Fixation",
+    "By System Type": "MIS/Perc",
+    "By Material": "Titanium (Solid)"
   },
-  "description": "Features:\n                                        \n                                                                                    K-Wire Cannulated , Polyaxial Head , Percutaneous Screw , Extended Reduction Head Tabs",
-  "features": [],
+  "description": "The Stryker ES2 is a minimally invasive percutaneous system for thoracolumbar fixation. It utilizes blade towers with built in 15mm of reduction threads and features a polyaxial head with a six-point star drive thread with cannulated screws for K-wire.",
+  "features": [
+    "Cannulated polyaxial screw",
+    "6 point-star drive thread",
+    "Dual threaded",
+    "Insertion over K-wire",
+    "Options for short and long blade",
+    "Polyaxial screw:",
+    "Diameter options: 4.5, 5.5, 6.5, 7.5, 8.5mm",
+    "Length options: 25-90mm"
+  ],
   "pdfs": [],
   "mfr_link": ""
 }

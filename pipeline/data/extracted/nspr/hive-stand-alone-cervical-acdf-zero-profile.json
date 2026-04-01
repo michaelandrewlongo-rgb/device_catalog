@@ -4,11 +4,38 @@
   "device_name": "HIVE Stand-Alone Cervical ACDF Zero-profile",
   "manufacturer": "NanoHive Medical",
   "specs": {
-    "COMPANY": "NanoHive Medical",
-    "MANUFACTURER INFO": "HIVE Stand-Alone Cervical ACDF Zero-profile"
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Interbody Device , Plates",
+    "Cage Type": "Interbody Cage",
+    "Plate Location": "Cervical",
+    "Expansion": "Static",
+    "Cage Approach": "Anterior",
+    "Configuration": "0-Profile (Integrated screws) , Low profile plate attached",
+    "By Material": "3D Printed Titanium , Soft (Dynamic) Titanium , Titanium etched",
+    "Cage Material": "Titanium Solid (etched surface)",
+    "Plate Approach": "Anterior Plate",
+    "Plate Configuration": "Minimal Profile",
+    "Plate Dynamics": "Static Plate",
+    "By Location/Approach": "Anterior Cervical",
+    "By Procedure Type": "ACDF",
+    "By System Type": "Degenerative , MIS/Perc"
   },
   "description": "The HIVE Stand-Alone Cervical System by NanoHive is a unique solution for stand-alone fixation in the ACDF procedure. It utilizes both a zero-profile spacer with integrated screw fixation or a small anterior minimal-profile plate that is fixed to the spacer for easy rapid fixation. The spacer features a unique internal architecture that allows independent endplates that reduces device stiffness and allows new bone growth to be under load.",
-  "features": [],
-  "pdfs": [],
+  "features": [
+    "3D printed titanium featuring soft-titanium. Internal architecture allows some flex under physiologic loads that minics cancellous bone",
+    "Acid-etched surface treatmment for increased bony ingrowth",
+    "Available with zero-profile integrated screw fixation or ACDF spacer with minimal profile stand-alone plate.",
+    "Footprint options: WxD\n\n15x12mm\n18x14mm",
+    "15x12mm",
+    "18x14mm",
+    "Lordosis options:\n\n6 degree\n12 degree",
+    "6 degree",
+    "12 degree",
+    "Height options:\n\n5-12mm",
+    "5-12mm"
+  ],
+  "pdfs": [
+    "https://neurospineproductreview.com/storage/products/pdfs/lit0057-rev-d-hive-standalone-cervical-system-sell-sheet-english.pdf"
+  ],
   "mfr_link": ""
 }

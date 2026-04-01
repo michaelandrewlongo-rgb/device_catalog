@@ -2,72 +2,81 @@
 
 ## Current Priority Order
 
-### 1. Clean up noisy FDA boilerplate in curated files
-Status: **In Progress** (Tier 2 FDA extraction running, rewriter built)
-
-- 14 sections detected as noisy (raw regulatory text in knowledge files)
-- Mostly in recently promoted guidewires and embolic coils
-- Run `--fda-documents` then `--rewrite` to apply clean Tier 2 extractions
-
-### 2. Fill remaining content gaps
-Status: **Partially Complete** (29 gaps remain)
-
-Completed:
-- Gap-fill engine operational (pipeline/processing/gap_filler.py)
-- 53/53 competitor comparisons filled via DeepSeek
-- 5 deterministic gaps filled from extracted sources
-
-Remaining 29 gaps:
-- 8 alternate names (no source data)
-- 8 sizing/specs (need IFU documents)
-- 5 competitor comparisons (custom format, not batch-fillable)
-- 3 indications (need FDA data)
-- 5 IFU-specific details (need actual IFU PDFs)
-
-### 3. Acquire NSPR technique guide PDFs
-Status: **Complete** (84 PDFs downloaded, Tier 2 extraction running)
-
-- 103 NSPR detail pages with 84 PDF URLs captured (authenticated session)
-- 84 technique guide PDFs downloaded (495MB) to pipeline/data/extracted/nspr/pdfs/
-- Tier 2 (Marker + DeepSeek) extraction running on all 84 PDFs
-- Next: re-enrich after Tier 2 completes, then gap-fill spine device files
-
-### 4. Promote more devices from enriched records
+### 1. Clean FDA boilerplate in newly promoted files
 Status: **Ready**
 
-- 2,668 enriched records, ~30 candidates with 3+ FDA-sourced fields
-- Categories to target: other neurovascular (flow diverters, intracranial stents), spine
-- Stent-retriever still at 0 curated (ERIC by MicroVention is the only candidate)
+- 54 noisy sections detected in 24 enriched-from-FDA files (raw 510(k) language)
+- Rewriter skips these because no Tier 2 extraction data exists for neurovascular devices
+- Need: targeted DeepSeek rewrite pass, or acquire source IFU/brochure PDFs first
+- CLI: `python -m pipeline.run_enrich --rewrite` (after acquiring Tier 2 data)
+
+### 2. Promote more devices from enriched records
+Status: **Ready** (~415 candidates with 3+ fields)
+
+Completed:
+- 30 devices promoted on 2026-04-01 (6 from drafts, 24 from enriched)
+- 22 devices promoted on 2026-03-31
+
+Remaining pool:
+- ~415 candidates with 3+ enriched fields across all categories
+- Strongest pools: interbody-cage (91), pedicle-screw (52), microcatheter (47), aspiration (43)
+- Next batch should target 4+ field candidates in underrepresented categories
+
+### 3. Fill remaining content gaps
+Status: **Partially Complete** (30 gaps remain in 23 files)
+
+Remaining gaps by type:
+- 8 alternate names (no source data available)
+- 8 sizing/specs (need IFU documents)
+- 5 use notes (need IFU/technique guides)
+- 3 indications (need FDA data)
+- 6 other (compatible with, contraindications)
+
+Gap-fill engine is operational but remaining gaps lack source data.
+
+### 4. Acquire neurovascular IFU/brochure PDFs
+Status: **Not started**
+
+- Neurovascular devices lack Tier 2 extractions (NSPR covers spine only)
+- Priority targets: flow diverters, intracranial stents, liquid embolics, thrombectomy devices
+- Source: manufacturer sites via Chrome MCP, or FDA FOIA downloads
+- These PDFs would unlock rewriter cleanup and gap-fill for neurovascular files
 
 ### 5. Close manufacturer acquisition gaps
 Status: **Partially Complete**
 
-Completed:
-- Medtronic (29 curated), Stryker (30 curated), Cerenovus (15), MicroVention (13)
-- Balt (10), Penumbra (8), Globus (8), SI-BONE (6), DePuy (6)
+Strong coverage (5+ curated): Medtronic (29+), Stryker (30+), Cerenovus (17), MicroVention (13+), Balt (11), Penumbra (8+), Globus (8+), SI-BONE (6), DePuy (6)
 
 Remaining:
 - Balt: stabilize acquisition using Chrome (bot detection)
 - Penumbra: enrich tabs and technical tables
 - MicroVention: capture specification tabs missed by Python scraper
-- Asahi Intecc: only 2 curated (8 enriched records available)
+- Asahi Intecc: only 2 curated (enriched records available)
+- New manufacturers from promotions: Aesculap, Collagen Matrix, Nurami, NeuroDx, Phasor, MIVI, Q'Apel, Scientia, Perfuze
 
-### 6. Improve data quality metrics
+### 6. Re-run FDA structured queries
+Status: **Blocked** (429 rate limits)
+
+- UDI/MAUDE/Recall APIs hit rate limits on prior run
+- Need longer delays between requests
+- 245 UDI, 592 recalls already captured; MAUDE at 0
+
+### 7. Improve data quality metrics
 Status: **Partially addressed**
 
-- Enrichment `_enrichment` metadata tracks source and confidence per field
-- Review manifest grades devices by section fill rate
-- Section fill rates now tracked: What It Is 94%, Indications 97%, Sizing 62%
-- Need: distinguish marketing-only entries from source-grounded ones
+Current section fill rates (174 curated files):
+- What It Is: 98%
+- Indications: 97%
+- Also Known As: 86%
+- Sizing/Specs: 82%
+- Use Notes: 79%
+- Key Differences: 71%
+- Compatible With: 46%
+- Contraindications: 30%
 
-### 7. Expand into lower-priority data layers
-Status: **Partially started**
+### 8. Expand into lower-priority data layers
+Status: **Later**
 
-Started:
-- MAUDE adverse event integration (event counts, but API rate-limited)
-- FDA recall integration (592 recall records, active recalls annotated in use_notes)
-
-Later:
 - Clinical trial evidence
 - Reimbursement mapping
 - Registry outcomes

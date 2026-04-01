@@ -1,13 +1,20 @@
 {
   "source": "nspr",
   "nspr_url": "https://neurospineproductreview.com/creo-one-robotic-screw-system",
-  "device_name": "",
+  "device_name": "CREO ONE Robotic Screw System",
   "manufacturer": "Globus Medical",
   "specs": {
-    "COMPANY": "Globus Medical",
-    "CREO ONE": "Robotic Screw System"
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Screws",
+    "Screw Type": "Pedicle Screws (Thoraco-lumbar)",
+    "Features": "Detachable/ Modular Head , Polyaxial Head , Self Tapping , Percutaneous Screw , Extended Reduction Head Tabs",
+    "Screw Materials": "Titanium",
+    "By Location/Approach": "Posterior Thoracic , Posterior Lumbar",
+    "By Procedure Type": "TLIF , PLIF",
+    "By System Type": "Degenerative , MIS/Perc",
+    "By Material": "Titanium (Solid)"
   },
-  "description": "Features:\n                                        \n                                                                                    Detachable/ Modular Head , Polyaxial Head , Self Tapping , Percutaneous Screw , Extended Reduction Head Tabs",
+  "description": "CREO ONE: Robotic Screw System\nThe CREO ONE Robotic Screw System by Globus Medical is a Modular screw designed to be used with the ExcelsiusGPS Navigational Robot. It features a sharpened tips for self tapping. The self-tapping screw eliminates the need for tapping thereby increasing pull-out strength of the screw. The Screen post is interchangeable with CREO AMP, MIS head systems.",
   "features": [],
   "pdfs": [],
   "mfr_link": ""

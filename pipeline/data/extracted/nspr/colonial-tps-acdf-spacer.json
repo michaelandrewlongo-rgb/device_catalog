@@ -1,14 +1,41 @@
 {
   "source": "nspr",
   "nspr_url": "https://neurospineproductreview.com/colonial-tps-acdf-spacer",
-  "device_name": "COLONIAL TPS ACDF Spacer",
+  "device_name": "Colonial TPS ACDF spacer",
   "manufacturer": "Globus Medical",
   "specs": {
-    "COMPANY": "Globus Medical",
-    "MANUFACTURER INFO": "COLONIAL TPS ACDF Spacer"
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Interbody Device",
+    "Cage Type": "Interbody Cage/Cervical",
+    "Expansion": "Static",
+    "Cage Approach": "Anterior",
+    "Configuration": "Cage Alone",
+    "By Material": "PEEK Solid block , Titanium Coated PEEK , Titanium Plasma Sprayed",
+    "By Location/Approach": "Anterior Cervical",
+    "By Procedure Type": "ACDF",
+    "By System Type": "Degenerative , Deformity"
   },
-  "description": "By Material:\n                                        \n                                                                                    PEEK Solid block , Titanium Coated PEEK , Titanium Plasma Sprayed",
-  "features": [],
-  "pdfs": [],
+  "description": "COLONIAL™ Spacer by Globus Medical is available in PEEK and a titanium plasma spray coated PEEK (TPS) spacer for use in the ACDF procedure. This is radiolucent spacer requiring supplemental fixation",
+  "features": [
+    "Titanium plasma sprayed coating over PEEK for radiolucent view on imaging",
+    "Tapered edge on insertion",
+    "Footprint options: DxW",
+    "Small: 11x12mm",
+    "Large: 12x14mm",
+    "XLarge: 14x16mm",
+    "XXLarge:15x18mm",
+    "Lordosis options:",
+    "Anatomic convex",
+    "0 degree",
+    "7 degree",
+    "12 degree",
+    "15 degree",
+    "20degree",
+    "Height options:",
+    "5-14mm"
+  ],
+  "pdfs": [
+    "https://neurospineproductreview.com/storage/products/pdfs/gmtgd27-colonialandcolonialtps-techniqueguide-reve.pdf"
+  ],
   "mfr_link": ""
 }

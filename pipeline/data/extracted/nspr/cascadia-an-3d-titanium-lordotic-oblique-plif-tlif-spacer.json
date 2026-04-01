@@ -1,13 +1,35 @@
 {
   "source": "nspr",
   "nspr_url": "https://neurospineproductreview.com/cascadia-an-3d-titanium-lordotic-oblique-plif-tlif-spacer",
-  "device_name": "",
+  "device_name": "Cascadia AN 3D Titanium Lordotic Oblique PLIF & TLIF spacer",
   "manufacturer": "Stryker-K2M",
   "specs": {
-    "COMPANY": "Stryker-K2M"
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Interbody Device",
+    "Cage Type": "Interbody Cage/Lumbar",
+    "Expansion": "Static",
+    "Cage Approach": "Posterior",
+    "Configuration": "Cage Alone",
+    "By Material": "3D Printed Titanium",
+    "By Location/Approach": "Posterior Lumbar",
+    "By Procedure Type": "TLIF , PLIF",
+    "By System Type": "Degenerative"
   },
-  "description": "COMPANY:\n                                                    \n                                                        Expanding Innovations, Inc",
-  "features": [],
-  "pdfs": [],
+  "description": "The Cascadia AN 3D Lordotic Oblique spacer by K2M/Stryker is a posterior lumbar interbody spacer for use in the TLIF and PLIF procedure applied obliquely across midline. The cage is 3D printed titanium.",
+  "features": [
+    "3D printed titanium",
+    "70% porous",
+    "Bullet nosed",
+    "Footprint options:",
+    "10x28mm",
+    "10x32mm",
+    "Lordosis options:",
+    "6, 12, 18 degree",
+    "Height options: (posterior height)",
+    "4-12mm"
+  ],
+  "pdfs": [
+    "https://neurospineproductreview.com/storage/products/pdfs/cascadia-an-lordotic-oblique-sell-sheet.pdf"
+  ],
   "mfr_link": ""
 }

@@ -9,7 +9,21 @@ Triangular allograft implant for minimally invasive SI joint stabilization and f
 
 ## Sizing/Specs
 
-[NEEDS CONTENT - dimensions, available sizes/configurations, materials table]
+| Diameter    | 3.5 mm |
+|-------------|--------|
+| Length      | 20 mm  |
+| art Numbers | 20 n   |
+
+| pecifications  |        |
+|----------------|--------|
+| Stylet Length  | 129 mm |
+| Stylet Width   | 3.1 mm |
+| Cannula Length | 100 mm |
+| Cannula Width  | 4.2 mm |
+
+| Part Numbers               |        |  |
+|----------------------------|--------|--|
+| 8 Gauge Bone Access Needle | 501979 |  |
 
 ## Indications
 

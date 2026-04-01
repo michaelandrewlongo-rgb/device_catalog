@@ -44,6 +44,101 @@ Respond in JSON matching the field names above."""
 
 MAX_CONTENT_CHARS = 60000  # ~15K tokens
 
+# NSPR detail-page index for device name / manufacturer lookup
+_nspr_index: dict[str, dict] | None = None
+
+
+def _load_nspr_index() -> dict[str, dict]:
+    """Load NSPR detail-page JSONs keyed by PDF filename stem."""
+    global _nspr_index
+    if _nspr_index is not None:
+        return _nspr_index
+
+    _nspr_index = {}
+    nspr_dir = EXTRACTED_DIR / "nspr"
+    pdfs_index_path = nspr_dir / "pdfs_index.json"
+
+    # Try the pdfs_index.json first (maps slug -> pdf filenames)
+    if pdfs_index_path.exists():
+        try:
+            index = json.loads(pdfs_index_path.read_text(encoding="utf-8"))
+            # index maps slug -> list of pdf URLs; we need reverse: pdf stem -> slug
+            for slug, pdf_urls in index.items():
+                for url in (pdf_urls if isinstance(pdf_urls, list) else [pdf_urls]):
+                    pdf_stem = Path(url.split("/")[-1]).stem if "/" in str(url) else str(url)
+                    _nspr_index[pdf_stem] = {"slug": slug}
+        except Exception:
+            pass
+
+    # Enrich with detail-page data (device_name, manufacturer)
+    for jf in nspr_dir.glob("*.json"):
+        if jf.name.startswith("_") or jf.name == "pdfs_index.json":
+            continue
+        try:
+            data = json.loads(jf.read_text(encoding="utf-8"))
+            if not isinstance(data, dict):
+                continue
+            slug = jf.stem
+            # Match PDFs to this slug via the index
+            for stem, info in _nspr_index.items():
+                if info.get("slug") == slug:
+                    info["device_name"] = data.get("device_name", "")
+                    info["manufacturer"] = data.get("manufacturer", "")
+        except Exception:
+            pass
+
+    return _nspr_index
+
+
+def extract_nspr_document(pdf_path: Path) -> dict | None:
+    """Extract structured fields from an NSPR technique guide PDF.
+
+    Uses pdfplumber (not Marker LLM) to avoid double DeepSeek calls,
+    then sends to DeepSeek for structured field extraction.
+    """
+    # Look up device name / manufacturer from NSPR detail pages
+    index = _load_nspr_index()
+    stem = pdf_path.stem
+    meta = index.get(stem, {})
+    device_name = meta.get("device_name", stem.replace("-", " ").title())
+    manufacturer = meta.get("manufacturer", "unknown")
+
+    # Use pdfplumber directly -- reliable for text-based technique guides
+    # and avoids Marker LLM timeout issues on large PDFs
+    text = pdf_to_text(pdf_path)
+    if not text or len(text.strip()) < 100:
+        # Fall back to Marker without LLM for scanned pages
+        text = pdf_to_markdown(pdf_path, use_llm=False)
+    if not text:
+        logger.warning("  No text extracted from NSPR PDF: %s", pdf_path.name)
+        return None
+
+    if len(text) > MAX_CONTENT_CHARS:
+        text = text[:MAX_CONTENT_CHARS]
+
+    prompt = EXTRACTION_PROMPT.format(
+        doc_type="technique_guide",
+        device_name=device_name,
+        manufacturer=manufacturer,
+        content=text,
+    )
+
+    fields = deepseek_extract(prompt)
+    if not fields:
+        return None
+
+    return {
+        "source_pdf": pdf_path.name,
+        "source_path": str(pdf_path),
+        "device_name": device_name,
+        "manufacturer": manufacturer,
+        "doc_type": "technique_guide",
+        "extraction_method": "pdfplumber_deepseek",
+        "extraction_source": "nspr_pdf",
+        "fields": fields,
+        "confidence": {k: 0.7 for k, v in fields.items() if v is not None},
+    }
+
 
 def extract_document(
     pdf_path: Path,
@@ -52,10 +147,13 @@ def extract_document(
     doc_type: str = "brochure",
 ) -> dict | None:
     """Extract structured fields from a single manufacturer PDF."""
-    # Try Marker first (better tables), fall back to pdfplumber
-    text = pdf_to_markdown(pdf_path, use_llm=(doc_type in ("ifu", "technique")))
+    # Use pdfplumber first (fast, reliable for text-based PDFs).
+    # Marker LLM mode is disabled -- it calls DeepSeek internally with no
+    # timeout, causing hangs on large technique guides. DeepSeek extraction
+    # happens in the separate deepseek_extract() call below.
+    text = pdf_to_text(pdf_path)
     if not text:
-        text = pdf_to_text(pdf_path)
+        text = pdf_to_markdown(pdf_path, use_llm=False)
     if not text:
         return None
 
@@ -106,7 +204,11 @@ def extract_all_documents() -> list[dict]:
         doc_type = parts[3] if len(parts) > 3 else "unknown"
 
         logger.info("  Extracting: %s", pdf.name)
-        result = extract_document(pdf, product, manufacturer, doc_type)
+        try:
+            result = extract_document(pdf, product, manufacturer, doc_type)
+        except Exception as exc:
+            logger.error("  Extraction crashed on %s: %s", pdf.name, exc)
+            result = None
         if result:
             out_file.write_text(
                 json.dumps(result, indent=2, ensure_ascii=False), encoding="utf-8"
@@ -117,13 +219,19 @@ def extract_all_documents() -> list[dict]:
     # Source 2: NSPR-downloaded PDFs
     nspr_pdfs = EXTRACTED_DIR / "nspr" / "pdfs"
     if nspr_pdfs.exists():
-        for pdf in sorted(nspr_pdfs.glob("*.pdf")):
+        nspr_list = sorted(nspr_pdfs.glob("*.pdf"))
+        nspr_total = len(nspr_list)
+        for idx, pdf in enumerate(nspr_list, 1):
             out_file = OUTPUT_DIR / f"nspr--{pdf.stem}.json"
             if out_file.exists():
                 continue
 
-            logger.info("  Extracting NSPR: %s", pdf.name)
-            result = extract_document(pdf, pdf.stem, "nspr")
+            logger.info("  [%d/%d] Extracting NSPR: %s", idx, nspr_total, pdf.name)
+            try:
+                result = extract_nspr_document(pdf)
+            except Exception as exc:
+                logger.error("  NSPR extraction crashed on %s: %s", pdf.name, exc)
+                result = None
             if result:
                 out_file.write_text(
                     json.dumps(result, indent=2, ensure_ascii=False),

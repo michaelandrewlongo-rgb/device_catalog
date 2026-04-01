@@ -1,14 +1,42 @@
 {
   "source": "nspr",
   "nspr_url": "https://neurospineproductreview.com/divergence-l-alif-olif-peek-spacer",
-  "device_name": "Divergence -L ALIF & OLIF",
+  "device_name": "Divergence -L ALIF & OLIF PEEK Spacer",
   "manufacturer": "Medtronic",
   "specs": {
-    "COMPANY": "Medtronic",
-    "MANUFACTURER INFO": "Divergence -L ALIF & OLIF"
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Interbody Device , Plates",
+    "Cage Type": "Interbody Cage/Lumbar",
+    "Expansion": "Static",
+    "Cage Approach": "Anterior , Oblique (ATP: Anterior-To-Psoas)",
+    "Configuration": "Cage Alone , Low profile plate attached",
+    "By Material": "PEEK Solid block",
+    "Plate Location": "Thoracic/lumbar",
+    "Plate Approach": "Anterior Plate",
+    "Plate Configuration": "Stand-Alone Plate , Minimal Profile",
+    "Plate Dynamics": "Static Plate",
+    "By Location/Approach": "Anterior Lumbar , Oblique Lumbar",
+    "By Procedure Type": "XLIF/DLIF/LLIF/OLIF",
+    "By System Type": "Degenerative , Deformity"
   },
-  "description": "Cage Approach:\n                                        \n                                                                                    Anterior , Oblique (ATP: Anterior-To-Psoas)",
-  "features": [],
-  "pdfs": [],
+  "description": "The Divergence -L is a PEEK spacer for use in the Anterior ALIF and oblique OLIF approach. The radiolucent PEEK spacer has an anterior plate that can be affixed to the anterior or obliquely. Comes in 3 footprints and multiple lordosis options:",
+  "features": [
+    "Radiolucent PEEK material",
+    "Separate plate for ALIF and OLIF",
+    "Footprint options:",
+    "Small: 32x25mm",
+    "Medium: 37x29mm",
+    "Large: 42x32mm",
+    "Lordosis options:",
+    "6 degree",
+    "12 degree",
+    "18 degree",
+    "24 degree",
+    "Height options:",
+    "10-20mm"
+  ],
+  "pdfs": [
+    "https://neurospineproductreview.com/storage/products/pdfs/divergence-l-data-sheet.pdf"
+  ],
   "mfr_link": ""
 }

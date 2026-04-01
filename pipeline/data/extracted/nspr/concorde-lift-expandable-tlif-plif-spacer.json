@@ -1,13 +1,41 @@
 {
   "source": "nspr",
   "nspr_url": "https://neurospineproductreview.com/concorde-lift-expandable-tlif-plif-spacer",
-  "device_name": "",
+  "device_name": "CONCORDE LIFT Expandable TLIF & PLIF Spacer",
   "manufacturer": "J&J MedTech (DePuy Synthes)",
   "specs": {
-    "COMPANY": "J&J MedTech (DePuy Synthes)"
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Interbody Device",
+    "Cage Type": "Interbody Cage/Lumbar",
+    "Expansion": "Expandable",
+    "Expansion Type/Lordosis": "Parallel expansion (Fixed Lordosis)",
+    "Cage Approach": "Posterior/Straight (PLIF) Cage,Oblique Cages",
+    "Configuration": "Cage Alone",
+    "By Material": "Titanium (Solid)",
+    "By Location/Approach": "Posterior Lumbar",
+    "By Procedure Type": "TLIF , PLIF",
+    "By System Type": "Degenerative , MIS/Perc"
   },
-  "description": "Expansion Type/Lordosis:\n                                        \n                                                                                    Parallel expansion (Fixed Lordosis)",
-  "features": [],
-  "pdfs": [],
+  "description": "The CONCORDE LIFT by DePuy-Synthes is a titanium expandable lumbar interbody spacer for use in the TLIF or PLIF procedure and can be used singularly or bilaterally. The cage comes as 2 footprint options and two lordotic options.",
+  "features": [
+    "Titanium construction",
+    "Available as parallel expansion in convex shape or lordotic parallel expansion.",
+    "Convex implant options:",
+    "Footprint options:",
+    "9x21mm",
+    "9x26mm",
+    "Height options:",
+    "8-13mm",
+    "Lordotic implant options:",
+    "Footprint options:",
+    "9x23mm",
+    "9x27mm",
+    "Height options:",
+    "10-15mm"
+  ],
+  "pdfs": [
+    "https://neurospineproductreview.com/storage/products/pdfs/depuy-synthes-concorde-lift-expandable-tlif-plif-spacer-sales-sheet-depuysynthes-2.pdf",
+    "https://neurospineproductreview.com/storage/products/pdfs/depuy-synthes-concorde-lift-technique-guide-sgt-depuysynthes.pdf"
+  ],
   "mfr_link": ""
 }

@@ -1,13 +1,36 @@
 {
   "source": "nspr",
   "nspr_url": "https://neurospineproductreview.com/tritanium-c-anterior-cervical-acdf-3d-titanium-spacer",
-  "device_name": "",
+  "device_name": "Tritanium C Anterior Cervical ACDF 3D Titanium Spacer",
   "manufacturer": "Stryker-K2M",
   "specs": {
-    "COMPANY": "Stryker-K2M"
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Interbody Device",
+    "Cage Type": "Interbody Cage/Cervical",
+    "Expansion": "Static",
+    "Cage Approach": "Anterior",
+    "Configuration": "Cage Alone",
+    "By Material": "3D Printed Titanium",
+    "By Location/Approach": "Anterior Cervical",
+    "By Procedure Type": "ACDF",
+    "By System Type": "Degenerative"
   },
-  "description": "COMPANY:\n                                                    \n                                                        Met One Technologies LLC",
-  "features": [],
-  "pdfs": [],
+  "description": "The Tritanium C is a 3D printed titanium ACDF spacer designed to mimic the microarchitecture of cancellous bone to improve bony ingrowth. The cage has a large central window for graft placement",
+  "features": [
+    "3D printed titanium",
+    "Hight porous design",
+    "Footprint options:",
+    "12x14mm",
+    "14x17mm",
+    "Lordosis options:",
+    "6 degree",
+    "10 degree",
+    "Height options:",
+    "5-9mm in 1mm increments"
+  ],
+  "pdfs": [
+    "https://neurospineproductreview.com/storage/products/pdfs/tritanium-c-sell-sheet.pdf",
+    "https://neurospineproductreview.com/storage/products/pdfs/styker-tritanium-c.pdf"
+  ],
   "mfr_link": ""
 }

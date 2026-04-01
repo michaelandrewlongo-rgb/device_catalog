@@ -1,13 +1,35 @@
 {
   "source": "nspr",
   "nspr_url": "https://neurospineproductreview.com/tritanium-pl-3d-printed-titanium-plif-spacer",
-  "device_name": "",
+  "device_name": "Tritanium PL 3D Printed Titanium PLIF Spacer",
   "manufacturer": "Stryker-K2M",
   "specs": {
-    "COMPANY": "Stryker-K2M"
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Interbody Device",
+    "Cage Type": "Interbody Cage/Lumbar",
+    "Expansion": "Static",
+    "Cage Approach": "Posterior/Straight (PLIF) Cage,Oblique Cages",
+    "Configuration": "Cage Alone",
+    "By Material": "3D Printed Titanium",
+    "By Location/Approach": "Posterior Lumbar",
+    "By Procedure Type": "TLIF , PLIF",
+    "By System Type": "Degenerative"
   },
-  "description": "Cage Approach:\n                                        \n                                                                                    Posterior/Straight (PLIF) Cage,Oblique Cages",
-  "features": [],
+  "description": "The Tritanium PL is a 3D printed titanium interbody spacer for use in the PLIF procedure and is intended to be use unilaterally obliquely or bilaterally. The 3D printed nature allows for high porosity.",
+  "features": [
+    "3D printed titanium",
+    "Highly porous unto 55-65%",
+    "Bullet nosed for easier insertion",
+    "Footprint options:",
+    "9x23mm",
+    "9x28mm",
+    "9x32mm",
+    "11x23mm",
+    "11x28mm",
+    "11x32mm",
+    "Lordosis options:",
+    "Height options: 7-14mm"
+  ],
   "pdfs": [],
   "mfr_link": ""
 }

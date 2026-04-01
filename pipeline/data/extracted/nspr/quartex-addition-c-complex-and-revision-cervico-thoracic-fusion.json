@@ -1,13 +1,24 @@
 {
   "source": "nspr",
   "nspr_url": "https://neurospineproductreview.com/quartex-addition-c-complex-and-revision-cervico-thoracic-fusion",
-  "device_name": "",
+  "device_name": "QUARTEX ADDITION-C Complex and Revision Cervico-Thoracic fusion",
   "manufacturer": "Globus Medical",
   "specs": {
-    "COMPANY": "Globus Medical"
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Screws",
+    "Screw Type": "Occipital , Posterior Cervical (Lateral Mass) , Pedicle Screws (Cervico-Thoracic)",
+    "Features": "Polyaxial Head",
+    "Screw Materials": "Titanium",
+    "By Location/Approach": "Posterior Cervical , Posterior Thoracic",
+    "By Procedure Type": "PCF",
+    "By System Type": "Degenerative , Deformity",
+    "By Material": "Titanium (Solid)"
   },
   "description": "The Globus Medical QUARTEX ADDITION-C is an addition set to be used with either complex or revision cervico-thoracic fusions requiring connection to either existing fusion or primary implant requiring complex rod connection. This set offers a variety of hardware to connect to various rod diameters and arrangements. Intended for use with the QUARTEX OCT set",
   "features": [],
-  "pdfs": [],
+  "pdfs": [
+    "https://neurospineproductreview.com/storage/products/pdfs/globus-quartex-oct-posterior-fusion-system-technique-guide-revd-1.pdf",
+    "https://neurospineproductreview.com/storage/products/pdfs/gmtgd265-quartexaddition-c-techniqueguide-reva.pdf"
+  ],
   "mfr_link": ""
 }

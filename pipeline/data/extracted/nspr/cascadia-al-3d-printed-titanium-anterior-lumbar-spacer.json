@@ -1,13 +1,33 @@
 {
   "source": "nspr",
   "nspr_url": "https://neurospineproductreview.com/cascadia-al-3d-printed-titanium-anterior-lumbar-spacer",
-  "device_name": "",
+  "device_name": "Cascadia AL 3D Printed Titanium Anterior Lumbar Spacer",
   "manufacturer": "Stryker-K2M",
   "specs": {
-    "COMPANY": "Stryker-K2M"
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Interbody Device",
+    "Cage Type": "Interbody Cage/Lumbar",
+    "Expansion": "Static",
+    "Cage Approach": "Anterior",
+    "Configuration": "Cage Alone",
+    "By Material": "3D Printed Titanium",
+    "By Location/Approach": "Anterior Lumbar",
+    "By Procedure Type": "ALIF",
+    "By System Type": "Degenerative"
   },
-  "description": "COMPANY:\n                                                    \n                                                        Spineology Inc.",
-  "features": [],
+  "description": "The Cascadia AL Anterior Lumbar interbody spacer is a 3D printed titanium spacer for use in the ALIF procedure. The porous nature of the 3D printed lattice is designed for improved bony ingrowth and faster rate of fusion.",
+  "features": [
+    "3-5 micrometer surface roughness for bony on-growth",
+    "3D printed Titanium",
+    "Footprint options:",
+    "24x30mm",
+    "28x36mm",
+    "30x40mm",
+    "Lordosis options:",
+    "10, 15, and 20 degree lordosis",
+    "Height options:",
+    "9-19mm"
+  ],
   "pdfs": [],
   "mfr_link": ""
 }

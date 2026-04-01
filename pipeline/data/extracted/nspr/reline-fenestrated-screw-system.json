@@ -1,13 +1,22 @@
 {
   "source": "nspr",
   "nspr_url": "https://neurospineproductreview.com/reline-fenestrated-screw-system",
-  "device_name": "",
+  "device_name": "Reline Fenestrated Screw System",
   "manufacturer": "Nuvasive (Globus)",
   "specs": {
-    "COMPANY": "Nuvasive (Globus)"
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Screws",
+    "Screw Type": "Pedicle Screws (Thoraco-lumbar)",
+    "Features": "Fenestrated",
+    "Screw Materials": "Titanium",
+    "By Location/Approach": "Posterior Thoracic , Posterior Lumbar",
+    "By Procedure Type": "Thoraco-lumbar-Pelvic Fixation",
+    "By System Type": "Degenerative , Deformity , Trauma"
   },
-  "description": "COMPANY:\n                                                    \n                                                        Pioneer Surgical Technologies",
+  "description": "p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 16.0px Helvetica; color: #000000; -webkit-text-stroke: #53595d; background-color: #ffffff}\nspan.s1 {font-kerning: none}\nThe Reline Fenestrated Screw System is designed to allow for the delivery of cement into the vertebral body through the six fenestrations located in the distal third of the screw shank.",
   "features": [],
-  "pdfs": [],
+  "pdfs": [
+    "https://neurospineproductreview.com/storage/products/pdfs/reline-fenestrated-technique-guide-1.PDF"
+  ],
   "mfr_link": ""
 }

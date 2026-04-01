@@ -1,13 +1,34 @@
 {
   "source": "nspr",
   "nspr_url": "https://neurospineproductreview.com/shoreline-rt-reef-topography-acdf-spacer-titanium-coated-peek",
-  "device_name": "",
+  "device_name": "Shoreline RT Reef Topography ACDF Spacer Titanium Coated PEEK",
   "manufacturer": "Orthofix-SeaSpine",
   "specs": {
-    "COMPANY": "Orthofix-SeaSpine"
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Interbody Device",
+    "Cage Type": "Interbody Cage/Cervical",
+    "Expansion": "Static",
+    "Cage Approach": "Anterior",
+    "Configuration": "Cage Alone , Low profile plate attached",
+    "By Material": "Titanium Coated PEEK",
+    "By Location/Approach": "Anterior Cervical",
+    "By Procedure Type": "ACDF",
+    "By System Type": "Degenerative"
   },
   "description": "The Shoreline RT is an Anterior cervical spacer for use in the ACDF procedure. It features Reef Topography that has undercut edges and allows for increased mechanical stability in conjunction with the NanoMetalene titanium coated PEEK. It is compatible with the TruProfile minimal-profile Anterior cervical plate.",
-  "features": [],
+  "features": [
+    "Reef Topography with undercut grooves allows for graft impaction and increased grip on bone",
+    "Titanium coated PEEK with NanoMetalene",
+    "Compatible with TruProfile Anterior Cervical plate",
+    "Footprint options:",
+    "14x16mm",
+    "15x18mm",
+    "15x20mm",
+    "Lordosis options:",
+    "7, 10, 15 degrees",
+    "Height options:",
+    "5-12mm in 1mm increments"
+  ],
   "pdfs": [],
   "mfr_link": ""
 }

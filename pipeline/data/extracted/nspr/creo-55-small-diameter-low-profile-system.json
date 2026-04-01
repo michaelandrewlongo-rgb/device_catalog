@@ -1,12 +1,20 @@
 {
   "source": "nspr",
   "nspr_url": "https://neurospineproductreview.com/creo-55-small-diameter-low-profile-system",
-  "device_name": "",
+  "device_name": "CREO 5.5 Small Diameter low profile system",
   "manufacturer": "Globus Medical",
   "specs": {
-    "COMPANY": "Globus Medical"
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Screws",
+    "Screw Type": "Pedicle Screws (Thoraco-lumbar)",
+    "Features": "Polyaxial Head",
+    "Screw Materials": "Titanium",
+    "By Location/Approach": "Posterior Thoracic , Posterior Lumbar",
+    "By Procedure Type": "TLIF , PLIF",
+    "By System Type": "Degenerative",
+    "By Material": "Titanium (Solid)"
   },
-  "description": "By Location/Approach:\n                                        \n                                                                                    Posterior Thoracic , Posterior Lumbar",
+  "description": "CREO 5.5: Small Diameter low-profile Stabilization system\nThe CREO 5.5 system is a low-profile thoracolumbar stabilization system designed to accept the 5.5mm rod diameter. It is a non-modular polyaxial head system in titanium with non-threaded locking caps to prevent cross-threading.",
   "features": [],
   "pdfs": [],
   "mfr_link": ""

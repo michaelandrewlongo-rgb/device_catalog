@@ -1,13 +1,37 @@
 {
   "source": "nspr",
   "nspr_url": "https://neurospineproductreview.com/clydesdale-peek-ptc-olif-llif-interbody-spacer",
-  "device_name": "",
+  "device_name": "Clydesdale PEEK & PTC OLIF LLIF Interbody Spacer",
   "manufacturer": "Medtronic",
   "specs": {
-    "COMPANY": "Medtronic"
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Interbody Device",
+    "Cage Type": "Interbody Cage/Lumbar",
+    "Expansion": "Static",
+    "Cage Approach": "Oblique (ATP: Anterior-To-Psoas) , Lateral",
+    "Configuration": "Cage Alone",
+    "By Material": "PEEK Solid block , Titanium Coated PEEK",
+    "By Location/Approach": "Lateral Lumbar , Oblique Lumbar",
+    "By Procedure Type": "XLIF/DLIF/LLIF/OLIF",
+    "By System Type": "Degenerative , Deformity , MIS/Perc"
   },
-  "description": "Cage Approach:\n                                        \n                                                                                    Oblique (ATP: Anterior-To-Psoas) , Lateral",
-  "features": [],
-  "pdfs": [],
+  "description": "The Clydesdale PEEK and PTC (Pure Titanium Coated) spacer by Medtronic is intended for use in the OLIF and LLIF procedure.",
+  "features": [
+    "2 material options:",
+    "Radiolucent PEEK",
+    "Titanium Coated PEEK",
+    "Width options:",
+    "18mm",
+    "22mm",
+    "Lordosis options:",
+    "0, 6, 12 degree",
+    "Height options:",
+    "8-16mm",
+    "Length options:",
+    "40-60mm"
+  ],
+  "pdfs": [
+    "https://neurospineproductreview.com/storage/products/pdfs/clydesdale-surgical-technique-1.pdf"
+  ],
   "mfr_link": ""
 }

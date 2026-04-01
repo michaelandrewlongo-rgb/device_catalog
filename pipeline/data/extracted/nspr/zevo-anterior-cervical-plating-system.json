@@ -1,13 +1,35 @@
 {
   "source": "nspr",
   "nspr_url": "https://neurospineproductreview.com/zevo-anterior-cervical-plating-system",
-  "device_name": "",
+  "device_name": "Zevo Anterior Cervical Plating System",
   "manufacturer": "Medtronic",
   "specs": {
-    "COMPANY": "Medtronic"
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Plates",
+    "Plate Location": "Cervical",
+    "Plate Approach": "Anterior Plate",
+    "Plate Configuration": "Stand-Alone Plate",
+    "Plate Dynamics": "Static Plate",
+    "By Location/Approach": "Anterior Cervical",
+    "By Procedure Type": "ACDF",
+    "By System Type": "Degenerative",
+    "By Material": "Titanium (Solid)"
   },
   "description": "The Zevo is an Anterior cervical plate fixation system by Medtronic that utilizes a locking screw system with a high angle at the superior and inferior ends designed to minimize plate extension to decrease risk of adjacent segment disease. If features a 35 degree angulation at the superior and inferior screw holes.",
-  "features": [],
-  "pdfs": [],
+  "features": [
+    "1 to 5 level plates",
+    "1.9mm thick for 1-3 level plates",
+    "2.1mm thick for 4 and 5 level",
+    "Rotational screw lock",
+    "Lengths:",
+    "1 level: 15-29mm",
+    "2 level: 27-51mm",
+    "3 level: 43-71mm",
+    "4 level: 65-89mm",
+    "5 level: 77-108mm"
+  ],
+  "pdfs": [
+    "https://neurospineproductreview.com/storage/products/pdfs/zevo-technique-guide.pdf"
+  ],
   "mfr_link": ""
 }

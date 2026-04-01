@@ -1,13 +1,35 @@
 {
   "source": "nspr",
   "nspr_url": "https://neurospineproductreview.com/cascadia-cervical-3d-acdf-interbody-spacer",
-  "device_name": "",
+  "device_name": "Cascadia Cervical 3D ACDF Interbody Spacer",
   "manufacturer": "Stryker-K2M",
   "specs": {
-    "COMPANY": "Stryker-K2M"
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Interbody Device",
+    "Cage Type": "Interbody Cage/Cervical",
+    "Expansion": "Static",
+    "Cage Approach": "Anterior",
+    "Configuration": "Cage Alone",
+    "By Material": "3D Printed Titanium",
+    "By Location/Approach": "Anterior Cervical",
+    "By Procedure Type": "ACDF",
+    "By System Type": "Degenerative"
   },
-  "description": "COMPANY:\n                                                    \n                                                        J&J MedTech (DePuy Synthes)",
-  "features": [],
-  "pdfs": [],
+  "description": "The Cascadia Cervical 3D is a 3D printed titanium ACDF interbody spacer.",
+  "features": [
+    "3D printed titanium",
+    "70% porous architecture",
+    "Large bony window for graft",
+    "Footprint options:",
+    "12x14mm",
+    "13x16mm",
+    "Lordosis options:",
+    "0, 7, 12 degree",
+    "Height options:",
+    "4-12mm"
+  ],
+  "pdfs": [
+    "https://neurospineproductreview.com/storage/products/pdfs/cascadia-cervical-3d-surgical-technique-global-version.pdf"
+  ],
   "mfr_link": ""
 }

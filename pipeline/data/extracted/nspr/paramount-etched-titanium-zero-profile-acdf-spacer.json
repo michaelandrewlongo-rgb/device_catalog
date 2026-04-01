@@ -1,14 +1,40 @@
 {
   "source": "nspr",
   "nspr_url": "https://neurospineproductreview.com/paramount-etched-titanium-zero-profile-acdf-spacer",
-  "device_name": "Paramount Titanium 0-P Stand-Alone ACDF Spacer",
+  "device_name": "Paramount Etched Titanium  Zero-Profile ACDF Spacer",
   "manufacturer": "Spine Wave, Inc.",
   "specs": {
-    "COMPANY": "Spine Wave, Inc.",
-    "MANUFACTURER INFO": "Paramount Titanium 0-P Stand-Alone ACDF Spacer"
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Interbody Device",
+    "Cage Type": "Interbody Cage/Cervical",
+    "Expansion": "Static",
+    "Cage Approach": "Anterior",
+    "Configuration": "0-Profile (Integrated screws)",
+    "Cage Material": "Titanium Solid (etched surface)",
+    "By Location/Approach": "Anterior Cervical",
+    "By Procedure Type": "ACDF",
+    "By System Type": "Degenerative , Deformity , MIS/Perc",
+    "By Material": "Titanium etched , Titanium (Solid)"
   },
   "description": "Paramount by Spine Wave is an anterior cervical interbody device made of roughened titanium with integrated fixation plates. The self-contained anchor plates minimize exposure, providing a less invasive and zero profile implant. A threaded deployment mechanism avoids aggressive impaction, and the angle of deployment is directed away from the spinal cord and toward the anterior aspect of the vertebral body improving bony purchase. Both anchor plates deploy simultaneously, simplifying and streamlining the procedure. The system allows for a back-filling grafting technique, and the open architecture allows for the graft material to be placed in front of the anchor plates in addition to the graft chamber, and is then held in place with a PEEK/barium sulfate graft containment plate.",
-  "features": [],
-  "pdfs": [],
+  "features": [
+    "Zero profile, minimal exposure stand-alone ACDF spacer",
+    "Spacer is made of etched and roughened titanium alloy",
+    "Integrated anchor plates are made of unalloyed titanium",
+    "Graft back-filling system with PEEK/6%BaSO4 graft containment plate",
+    "Controlled simultaneous plate deployment",
+    "Footprint options:\n\n14x12 mm\n15.5x14 mm",
+    "14x12 mm",
+    "15.5x14 mm",
+    "Height options:\n\n5-10 mm in 1mm increments",
+    "5-10 mm in 1mm increments",
+    "Lordosis options:\n\n3 degree, anatomic\n7 degree",
+    "3 degree, anatomic",
+    "7 degree"
+  ],
+  "pdfs": [
+    "https://neurospineproductreview.com/storage/products/pdfs/paramount-sell-sheet.pdf",
+    "https://neurospineproductreview.com/storage/products/pdfs/paramount-surgical-technqiue-modular.pdf"
+  ],
   "mfr_link": ""
 }
