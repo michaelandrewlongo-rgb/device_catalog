@@ -31,6 +31,7 @@ def cli():
     parser.add_argument("--fda-summaries", action="store_true", help="Tier 1A: parse 510(k) PDFs")
     parser.add_argument("--fda-structured", action="store_true", help="Tier 1B: UDI/MAUDE/Recalls")
     parser.add_argument("--documents", action="store_true", help="Tier 2: extract brochures/guides")
+    parser.add_argument("--fda-documents", action="store_true", help="Tier 2: extract curated FDA PDFs via DeepSeek")
     parser.add_argument("--all", action="store_true", help="Run all tiers")
     args = parser.parse_args()
 
@@ -73,6 +74,12 @@ def cli():
         from .extraction.doc_extractor import extract_all_documents
         results = extract_all_documents()
         console.print(f"  [green]{len(results)}[/green] documents")
+
+    if args.fda_documents:
+        console.rule("[bold]Tier 2: FDA Document Extraction (curated)")
+        from .extraction.doc_extractor import extract_fda_documents
+        results = extract_fda_documents(curated_only=True)
+        console.print(f"  [green]{len(results)}[/green] FDA documents extracted")
 
 
 def _load_device_list() -> list[dict]:

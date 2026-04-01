@@ -2,77 +2,73 @@
 
 ## Current Priority Order
 
-### 1. Convert the highest-value existing scraped inventory into useful knowledge
-Status: **In Progress** (batch promotion from 68 to 122 curated files completed 2026-03-31)
+### 1. Clean up noisy FDA boilerplate in curated files
+Status: **In Progress** (Tier 2 FDA extraction running, rewriter built)
 
-Remaining:
-- 90+ enriched devices scored ready but lack draft files (need merger re-run to generate drafts)
-- Review promoted files for accuracy, especially EVToday-sourced sizing data
-- Priority categories still thin: guidewires (0 curated), embolic coils (5 curated)
+- 14 sections detected as noisy (raw regulatory text in knowledge files)
+- Mostly in recently promoted guidewires and embolic coils
+- Run `--fda-documents` then `--rewrite` to apply clean Tier 2 extractions
 
-### 2. Close the biggest manufacturer acquisition gaps
+### 2. Fill remaining content gaps
+Status: **Partially Complete** (29 gaps remain)
+
+Completed:
+- Gap-fill engine operational (pipeline/processing/gap_filler.py)
+- 53/53 competitor comparisons filled via DeepSeek
+- 5 deterministic gaps filled from extracted sources
+
+Remaining 29 gaps:
+- 8 alternate names (no source data)
+- 8 sizing/specs (need IFU documents)
+- 5 competitor comparisons (custom format, not batch-fillable)
+- 3 indications (need FDA data)
+- 5 IFU-specific details (need actual IFU PDFs)
+
+### 3. Acquire NSPR technique guide PDFs
+Status: **Complete** (84 PDFs downloaded, Tier 2 extraction running)
+
+- 103 NSPR detail pages with 84 PDF URLs captured (authenticated session)
+- 84 technique guide PDFs downloaded (495MB) to pipeline/data/extracted/nspr/pdfs/
+- Tier 2 (Marker + DeepSeek) extraction running on all 84 PDFs
+- Next: re-enrich after Tier 2 completes, then gap-fill spine device files
+
+### 4. Promote more devices from enriched records
+Status: **Ready**
+
+- 2,668 enriched records, ~30 candidates with 3+ FDA-sourced fields
+- Categories to target: other neurovascular (flow diverters, intracranial stents), spine
+- Stent-retriever still at 0 curated (ERIC by MicroVention is the only candidate)
+
+### 5. Close manufacturer acquisition gaps
 Status: **Partially Complete**
 
 Completed:
-- Medtronic spine (12 products) and neurovascular (9 products) via Chrome MCP + Academy
-- Cerenovus (9 products) via Chrome MCP
-- Stryker spine (7 products) via Chrome MCP
-- Globus Medical (12 products) via Chrome MCP
-- SI-BONE (7 products) via Chrome MCP
+- Medtronic (29 curated), Stryker (30 curated), Cerenovus (15), MicroVention (13)
+- Balt (10), Penumbra (8), Globus (8), SI-BONE (6), DePuy (6)
 
 Remaining:
-- Balt: stabilize acquisition using Chrome where Python scraping blocks
+- Balt: stabilize acquisition using Chrome (bot detection)
 - Penumbra: enrich tabs and technical tables
 - MicroVention: capture specification tabs missed by Python scraper
+- Asahi Intecc: only 2 curated (8 enriched records available)
 
-### 3. Extraction pipeline (NEW - built 2026-03-30/31)
-Status: **Operational**
+### 6. Improve data quality metrics
+Status: **Partially addressed**
 
-Built `pipeline/extraction/` with 9 modules:
-- Tier 1A: FDA 510(k) PDF parsing (281 PDFs extracted via pdfplumber, Marker available)
-- Tier 1B: FDA UDI/MAUDE/Recall API queries (242 UDI, 592 safety records)
-- Tier 1C: EVToday device guide scraper (301 neurovascular devices, 10 categories)
-- Tier 1D: NSPR spine/cranial harvester (1,122 listings across 7 categories, 88 detail pages)
-- Tier 2: Marker + DeepSeek PDF extraction (43/57 catalog PDFs processed)
-- Tier 3: Multi-source enrichment with manufacturer-verified matching
+- Enrichment `_enrichment` metadata tracks source and confidence per field
+- Review manifest grades devices by section fill rate
+- Section fill rates now tracked: What It Is 94%, Indications 97%, Sizing 62%
+- Need: distinguish marketing-only entries from source-grounded ones
 
-Remaining:
-- Download NSPR-hosted technique guide PDFs (need full browser rendering for PDF URLs)
-- Complete Tier 2 for remaining 14 catalog PDFs (large files)
-- Let FDA structured queries finish (still running for remaining ~2,400 devices)
-
-### 4. Strengthen durable workflow state
-Status: **Improved**
-
-Completed:
-- Git repo initialized with baseline commit
-- STATE.md updated with current pipeline commands
-- .gitignore added for regenerable data
-- CLAUDE.md expanded with priorities, source hierarchy, session rules
-
-Remaining:
-- Keep STATE.md current after each work session
-- Keep CATALOG_INDEX.md regenerated when major work lands
-
-### 5. Improve quality metrics so they reflect clinical usefulness
-Status: **Partially addressed by enrichment pipeline**
-
-The enrichment `_enrichment` metadata tracks source and confidence per field.
-Review manifest grades devices by section fill rate.
-
-Remaining:
-- Track which entries have official PDFs or source pages
-- Distinguish marketing-only entries from source-grounded ones
-
-### 6. Only then expand into lower-priority data layers
+### 7. Expand into lower-priority data layers
 Status: **Partially started**
 
 Started:
-- MAUDE adverse event integration (event counts per device)
-- FDA recall integration (active recalls annotated in use_notes)
+- MAUDE adverse event integration (event counts, but API rate-limited)
+- FDA recall integration (592 recall records, active recalls annotated in use_notes)
 
 Later:
-- Clinical trial evidence (MCP tools available but not pipelined)
+- Clinical trial evidence
 - Reimbursement mapping
 - Registry outcomes
 

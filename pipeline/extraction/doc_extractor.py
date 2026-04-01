@@ -134,3 +134,56 @@ def extract_all_documents() -> list[dict]:
 
     logger.info("Document extraction: %d documents processed", len(results))
     return results
+
+
+def extract_fda_documents(curated_only: bool = True) -> list[dict]:
+    """Extract structured fields from FDA 510(k) PDFs via Marker + DeepSeek.
+
+    Args:
+        curated_only: If True, only process PDFs matching curated knowledge files.
+    """
+    from ..config import DATA_DIR
+
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    pdf_dir = DATA_DIR / "pdfs"
+    if not pdf_dir.exists():
+        logger.warning("No FDA PDF directory: %s", pdf_dir)
+        return []
+
+    # Build set of curated stems for filtering
+    curated_stems: set[str] = set()
+    if curated_only:
+        for kf in CATALOG_ROOT.glob("*--knowledge.md"):
+            curated_stems.add(kf.name.replace("--knowledge.md", ""))
+
+    results = []
+    for pdf in sorted(pdf_dir.glob("*.pdf")):
+        parts = pdf.stem.split("--")
+        if len(parts) < 3:
+            continue
+
+        # Stem is everything before --510k (the doc_type suffix)
+        stem = "--".join(parts[:-1]) if parts[-1] == "510k" else pdf.stem
+
+        if curated_only and stem not in curated_stems:
+            continue
+
+        out_file = OUTPUT_DIR / f"{pdf.stem}.json"
+        if out_file.exists():
+            logger.info("  Skip (exists): %s", pdf.name)
+            continue
+
+        manufacturer = parts[1]
+        product = parts[2] if len(parts) > 2 else ""
+
+        logger.info("  Extracting FDA: %s", pdf.name)
+        result = extract_document(pdf, product, manufacturer, "510k")
+        if result:
+            out_file.write_text(
+                json.dumps(result, indent=2, ensure_ascii=False), encoding="utf-8"
+            )
+            results.append(result)
+        time.sleep(1)
+
+    logger.info("FDA document extraction: %d documents processed", len(results))
+    return results

@@ -26,7 +26,11 @@ Shield Technology (phosphorylcholine surface modification) shown to reduce throm
 
 ## Key Differences vs Competitors
 
-[NEEDS CONTENT - head-to-head comparison with competing devices in same category]
+- **Surface Technology**: Pipeline Flex with Shield Technology incorporates phosphorylcholine surface modification to reduce thrombogenicity, a feature not specified for the standard Pipeline Flex, FRED, or Surpass Streamline.
+- **Clinical Evidence**: Pipeline Flex with Shield Technology is described as the reference device in flow diversion with 10 years of experience and the highest number of clinical studies, a distinction not specified for the other devices.
+- **Device Design**: FRED features a dual-layer braid design (inner high-density mesh, outer stent) for flow diversion and scaffolding, differing from the single-layer braided designs of the Pipeline devices and Surpass Streamline.
+- **Indication Specificity**: Surpass Streamline is indicated for patients 18 years and older, while Pipeline Flex and FRED are indicated for adults ≥22 years old; the age indication for Pipeline Flex with Shield Technology is not specified.
+- **Delivery System Compatibility**: Pipeline Flex with Shield Technology is compatible with Phenom 17/21/27 microcatheters, whereas FRED uses Headway 21/27 microcatheters, and compatibility for Surpass Streamline is not specified.
 
 ## Also Known As
 

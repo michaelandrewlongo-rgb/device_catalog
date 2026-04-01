@@ -33,7 +33,11 @@ Warnings
 
 ## Key Differences vs Competitors
 
-[NEEDS CONTENT - head-to-head comparison with competing devices in same category]
+- **Intended anatomical target**: The Artemis Neuro Evacuation Device is specifically intended for aspiration from the Ventricular System and/or Cerebrum through a neuroendoscope sheath, whereas competitors like the Raptor, APRO, React, and Riptide are indicated for thrombus removal from the cerebral vasculature (e.g., internal carotid, MCA, basilar arteries).
+- **Access and delivery method**: The Artemis requires a 14 mm burr hole and works through a 19 F (6 mm) sheath with a neuroendoscope, a direct cranial access approach. In contrast, the other aspiration catheters (Raptor, APRO, React, Riptide) are introduced intravascularly via guide catheters into the neurovasculature.
+- **System integration**: The Artemis is designed to work specifically with the Penumbra Pump MAX and Penumbra System components. Competitors have different compatibilities: Raptor works with a compatible aspiration pump and Balt tubing; APRO and React are compatible with Medtronic accessories like Alembic tubing and Solitaire X; Riptide pairs with its dedicated Riptide aspiration pump.
+- **Device construction details**: While the Artemis construction is not specified, competitors highlight specific features: APRO has stainless-steel and coil plus braid reinforcements; React features coil, braid, and end-to-end nitinol construction; Riptide has a hydrophilic coating on the distal 40 cm of its shaft.
+- **Indication specificity**: The Artemis is indicated for controlled aspiration of tissue and/or fluid. The Raptor, APRO, React, and Riptide are all indicated specifically for thrombus removal in acute ischemic stroke, with Raptor and Penumbra's own Reperfusion Catheters sharing nearly identical stroke indication language regarding vessel segments and time window.
 
 ## Also Known As
 

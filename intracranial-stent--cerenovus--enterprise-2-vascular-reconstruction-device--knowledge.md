@@ -25,7 +25,11 @@ Higher radial resistive force than Neuroform, LVIS Jr, and Solitaire 2/FR stents
 
 ## Key Differences vs Competitors
 
-[NEEDS CONTENT - head-to-head comparison with competing devices in same category]
+- **Radial/Chronic/Point Load Forces**: ENTERPRISE 2 has higher radial resistive force than Neuroform Atlas, LVIS Jr, and Solitaire 2/FR; higher chronic outward force than LVIS Jr and Solitaire 2/FR; and higher point load force than Neuroform Atlas, LVIS Jr, and Solitaire. This is not specified for LEO+, Enterprise VRD, LVIS/LVIS Jr, or Neuroform Atlas.
+- **Deployment & Recapture**: ENTERPRISE 2 can be recaptured and redeployed after partial deployment. LVIS/LVIS Jr can also be resheathed/recaptured before full deployment. Recapture capability is not specified for LEO+, Enterprise VRD, or Neuroform Atlas.
+- **Parent Vessel Diameter Range**: ENTERPRISE 2 is indicated for vessels 2.5-4.0 mm. LVIS/LVIS Jr and Neuroform Atlas cover a wider range (2.0-4.5 mm). Vessel diameter range is not specified for LEO+ or Enterprise VRD.
+- **Design & Wall Apposition**: ENTERPRISE 2 has a closed-cell design with better wall apposition in curved vessels and excellent kink resistance vs ENTERPRISE 1. LVIS/LVIS Jr is closed-cell, Neuroform Atlas is open-cell. Design details are not specified for LEO+ or Enterprise VRD.
+- **Regulatory Status**: ENTERPRISE 2 is a Humanitarian Device (USA ONLY). Enterprise VRD is also approved under a Humanitarian Device Exemption (HDE). Regulatory status is not specified for LEO+, LVIS/LVIS Jr, or Neuroform Atlas.
 
 ## Also Known As
 

@@ -75,11 +75,11 @@ def enrich_all() -> list[dict]:
 
 def _enrich_device(stem: str, merged: dict) -> dict:
     """Enrich a single device by merging all available sources."""
-    sources = _gather_sources(stem, merged)
+    sources = gather_sources(stem, merged)
     enrichment_log: dict = {}
 
     for field in CONTENT_FIELDS:
-        value, source_name, confidence = _resolve_field(field, sources)
+        value, source_name, confidence = resolve_field(field, sources)
         if value is not None:
             merged[field] = value
             enrichment_log[field] = {"source": source_name, "confidence": confidence}
@@ -89,7 +89,7 @@ def _enrich_device(stem: str, merged: dict) -> dict:
     # Safety annotations
     safety = sources.get("safety")
     if safety:
-        _annotate_safety(merged, safety)
+        annotate_safety(merged, safety)
         enrichment_log["_safety"] = {
             "source": "fda_maude+recalls",
             "confidence": 0.85,
@@ -99,7 +99,7 @@ def _enrich_device(stem: str, merged: dict) -> dict:
     return merged
 
 
-def _gather_sources(stem: str, merged: dict) -> dict:
+def gather_sources(stem: str, merged: dict) -> dict:
     """Gather all available data sources for a device."""
     sources: dict = {"merged": merged}
 
@@ -110,6 +110,13 @@ def _gather_sources(stem: str, merged: dict) -> dict:
         if fda_path.exists():
             sources["fda_summary"] = json.loads(
                 fda_path.read_text(encoding="utf-8")
+            )
+    # Also check by stem (fda_parser saves as {stem}--510k.json)
+    if "fda_summary" not in sources:
+        stem_fda = EXTRACTED_DIR / "fda_summaries" / f"{stem}--510k.json"
+        if stem_fda.exists():
+            sources["fda_summary"] = json.loads(
+                stem_fda.read_text(encoding="utf-8")
             )
 
     # Tier 1B: UDI structured data
@@ -129,12 +136,12 @@ def _gather_sources(stem: str, merged: dict) -> dict:
         sources["safety"] = safety
 
     # Tier 1C: EVToday
-    evt_match = _find_evtoday_match(stem, merged)
+    evt_match = find_evtoday_match(stem, merged)
     if evt_match:
         sources["evtoday"] = evt_match
 
     # Tier 1D: NSPR
-    nspr_match = _find_nspr_match(stem, merged)
+    nspr_match = find_nspr_match(stem, merged)
     if nspr_match:
         sources["nspr"] = nspr_match
 
@@ -150,7 +157,7 @@ def _gather_sources(stem: str, merged: dict) -> dict:
     return sources
 
 
-def _resolve_field(
+def resolve_field(
     field: str, sources: dict
 ) -> tuple[str | list | None, str, float]:
     """Walk priority chain to resolve a field value."""
@@ -225,7 +232,7 @@ _MFR_ALIASES: dict[str, set[str]] = {
 }
 
 
-def _manufacturer_matches(our_mfr: str, external_co: str) -> bool:
+def manufacturer_matches(our_mfr: str, external_co: str) -> bool:
     """Check if our canonical manufacturer slug matches an external company name."""
     external_lower = external_co.lower().strip()
 
@@ -242,7 +249,7 @@ def _manufacturer_matches(our_mfr: str, external_co: str) -> bool:
     return False
 
 
-def _find_evtoday_match(stem: str, merged: dict) -> dict | None:
+def find_evtoday_match(stem: str, merged: dict) -> dict | None:
     """Find matching EVToday device entry.
 
     Requires manufacturer match plus product name similarity to avoid
@@ -273,7 +280,7 @@ def _find_evtoday_match(stem: str, merged: dict) -> dict | None:
             entry_co = (entry.get("Company Name") or "").lower()
 
             # Require manufacturer match
-            if not _manufacturer_matches(manufacturer, entry_co):
+            if not manufacturer_matches(manufacturer, entry_co):
                 continue
 
             # Score by meaningful word overlap (excluding stop words)
@@ -286,11 +293,11 @@ def _find_evtoday_match(stem: str, merged: dict) -> dict | None:
                 best_match = entry
 
     if best_match:
-        return {"fields": _map_evtoday(best_match)}
+        return {"fields": map_evtoday(best_match)}
     return None
 
 
-def _find_nspr_match(stem: str, merged: dict) -> dict | None:
+def find_nspr_match(stem: str, merged: dict) -> dict | None:
     """Find matching NSPR product detail.
 
     Requires manufacturer match plus product name similarity.
@@ -319,7 +326,7 @@ def _find_nspr_match(stem: str, merged: dict) -> dict | None:
         nspr_co = (data.get("manufacturer") or data.get("company") or "").lower()
 
         # Require manufacturer match
-        if not _manufacturer_matches(manufacturer, nspr_co):
+        if not manufacturer_matches(manufacturer, nspr_co):
             continue
 
         name_words = set(device_name.split()) - stop_words
@@ -331,12 +338,12 @@ def _find_nspr_match(stem: str, merged: dict) -> dict | None:
             best_match = data
 
     if best_match:
-        return {"fields": _map_nspr(best_match)}
+        return {"fields": map_nspr(best_match)}
 
     return None
 
 
-def _map_evtoday(entry: dict) -> dict:
+def map_evtoday(entry: dict) -> dict:
     """Map EVToday table columns to ScrapedProduct fields."""
     fields: dict = {}
 
@@ -380,7 +387,7 @@ def _map_evtoday(entry: dict) -> dict:
     return fields
 
 
-def _map_nspr(data: dict) -> dict:
+def map_nspr(data: dict) -> dict:
     """Map NSPR product detail to ScrapedProduct fields."""
     fields: dict = {}
 
@@ -412,7 +419,7 @@ def _map_nspr(data: dict) -> dict:
     return fields
 
 
-def _annotate_safety(merged: dict, safety: dict) -> None:
+def annotate_safety(merged: dict, safety: dict) -> None:
     """Add safety annotations to use_notes from MAUDE/recall data."""
     notes = merged.get("use_notes") or ""
 

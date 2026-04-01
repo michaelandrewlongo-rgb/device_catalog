@@ -26,7 +26,10 @@ More trackable than Sofia Plus, React 71, Catalyst 6, and Large Bore Catheter. L
 
 ## Key Differences vs Competitors
 
-[NEEDS CONTENT - head-to-head comparison with competing devices in same category]
+- **Device Type & Primary Function**: CEREGLIDE 71 is an intermediate catheter for stroke intervention, while CEREBASE DA is a guide sheath for distal access support. The Catalyst series are distal access catheters for aspiration thrombectomy.
+- **Key Performance vs. Similar Catheters**: CEREGLIDE 71 has more trackability than Sofia Plus, React 71, Catalyst 6, and Large Bore Catheter; lower track forces than Zoom 71; more kink-resistance than Sofia Plus and React 71; and a larger inner diameter than Sofia Plus, Catalyst 6, and Catalyst 7.
+- **Sizing & Compatibility**: CEREGLIDE 71 has a 115 cm usable length and requires base catheters with ≥0.085 inch ID. CEREBASE DA has a 0.090 inch ID and 8F OD with 80-95 cm lengths. CEREGLIDE 92 has a 0.092 inch distal ID, 114 cm length, and requires 8F long sheaths (≥0.113 inch ID). Catalyst device specific lengths and IDs are not specified.
+- **Indications & System Role**: CEREGLIDE 71 is optimized for direct aspiration and up to 3 stent retriever passes in acute ischemic stroke. CEREGLIDE 92 is designed for distal M1 access and aspiration with reduced relay when used with CEREGLIDE 71. Catalyst devices are indicated for thrombus removal in specific cerebral vessels (ICA, MCA M1/M2, basilar artery).
 
 ## Also Known As
 

@@ -25,7 +25,10 @@ Dual lead thread allows insertion twice as fast (half as many rotations) vs sing
 
 ## Key Differences vs Competitors
 
-[NEEDS CONTENT - head-to-head comparison with competing devices in same category]
+- **Insertion speed**: Serrato's dual lead thread allows insertion twice as fast (half as many rotations) vs single lead screws, a specific speed advantage not mentioned for ES2 MIS, Xia 3, CD HORIZON, CREO MIS, EXPEDIUM VERSE, Neo, or Reline.
+- **Distal tip design**: Features True-Tip technology (self-centering, self-tapping 35-degree conical tip with threads to the tip) and 24 circumferential serrations to reduce insertion force. This differs from ES2 MIS (three cutting flutes), Xia 3 (not specified), CD HORIZON (Awl Tap Screws combine access/insertion), CREO MIS (cannulated for guidewire), EXPEDIUM VERSE (not specified), Neo (cannulated fenestrated), and Reline (not specified).
+- **Primary application focus**: Indicated for thoracolumbar spinal fixation, a narrower scope than Xia 3 (primarily deformity correction), CD HORIZON (broad thoracolumbosacral), CREO MIS (MIS thoracolumbosacral), EXPEDIUM VERSE (versatile open/MIS thoracolumbosacral, including pediatric), Neo (degenerative, tumor, trauma), and Reline (occiput to pelvis).
+- **Compatibility**: Compatible with Spine Guidance 5 and Mako Spine with Copilot features, similar to ES2 MIS but distinct from CD HORIZON (StealthStation), CREO MIS (Globus systems), EXPEDIUM VERSE (EXPEDIUM/VIPER), Neo (self-contained), and Reline (ExcelsiusGPS).
 
 ## Also Known As
 

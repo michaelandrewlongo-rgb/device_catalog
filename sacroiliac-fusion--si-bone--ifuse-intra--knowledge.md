@@ -21,7 +21,11 @@ Simple technique designed for reproducible placement. Compared favorably vs comp
 
 ## Key Differences vs Competitors
 
-[NEEDS CONTENT - head-to-head comparison with competing devices in same category]
+- **Material**: iFuse INTRA uses allograft (bone graft), while iFuse Implant System uses titanium, iFuse TORQ uses 3D-printed porous titanium, and iFuse TORQ TNT uses 3D-printed porous titanium.
+- **Implant geometry**: iFuse INTRA has a triangular allograft design, compared to the triangular titanium cross-section of iFuse Implant System, the threaded design of iFuse TORQ, and the threaded transsacral design of iFuse TORQ TNT.
+- **Placement approach**: iFuse INTRA is designed for intra-articular placement with procedural decortication, while iFuse INTRA X uses percutaneous delivery through a single needle-like incision, and iFuse TORQ offers two minimally invasive lateral transiliac approach options.
+- **Primary indications**: iFuse INTRA is indicated for minimally invasive SI joint stabilization and fusion, whereas iFuse Bedrock Granite is for spinopelvic fixation in adult deformity and revision spine surgery, and iFuse TORQ TNT is for pelvic fragility fractures and sacral insufficiency fractures with bilateral SI joint involvement.
+- **Biomechanical testing**: iFuse INTRA was compared favorably vs competitor rectangular ridged allograft in biomechanical testing (Technical Study 301310-TS), similar to iFuse INTRA X which showed favorable results in FEA biomechanics testing vs the same competitor.
 
 ## Also Known As
 

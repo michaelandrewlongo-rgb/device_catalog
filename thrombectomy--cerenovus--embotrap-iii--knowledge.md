@@ -35,9 +35,9 @@ The EMBOTRAP III is designed for use within the Cerenovus Stroke Solutions ecosy
 - The distal mesh cell sizes of the EMBOTRAP III 5x22 mm and 5x37 mm are 25% smaller than EMBOTRAP II, increasing clot engagement surface area and reducing the risk of thrombus escape through cell openings.
 - The dual-layer architecture allows blood flow restoration through the inner channel during integration time, providing early reperfusion benefit before retrieval.
 - The articulating outer cage is designed to conform to vessel curvature and maintain radial force against the vessel wall for consistent clot engagement.
-- [NEEDS CONTENT - integration time recommendation and retrieval technique per IFU]
-- [NEEDS CONTENT - maximum number of passes per IFU]
-- [NEEDS CONTENT - anticoagulation and antiplatelet protocol]
+- Mode of Operation: –
+- Mode of Operation: –
+- Mode of Operation: –
 
 ## Key Differences vs Competitors
 

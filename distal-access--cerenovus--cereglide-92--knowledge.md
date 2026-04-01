@@ -26,7 +26,11 @@ Lower track forces than Zoom 88. Largest ID with lowest distal profile vs Zoom 8
 
 ## Key Differences vs Competitors
 
-[NEEDS CONTENT - head-to-head comparison with competing devices in same category]
+- **Largest inner diameter with lowest distal profile**: CEREGLIDE 92 has a distal ID of 0.092 inch and the lowest distal profile among 8F systems, compared to CEREBASE DA (0.090 inch ID) and CEREGLIDE 71 (inner diameter not specified).
+- **Optimized for distal M1 access with reduced relay**: Specifically designed for distal M1 placement in acute ischemic stroke to diminish flow and reduce relay when used with CEREGLIDE 71, while CEREBASE DA is engineered for distal access with geometric anchoring and CEREGLIDE 71 is optimized for direct aspiration and stent retriever passes.
+- **Co-packaged delivery aid and specific compatibility**: Includes INNERGLIDE 9 Delivery Aid and is compatible with CEREGLIDE 71, EMBOTRAP III, and Prowler EX, whereas AXS Catalyst devices require the AXS Universal Aspiration System and specific aspiration pumps.
+- **Lower track forces**: Has lower track forces than Zoom 88, while CEREGLIDE 71 has lower track forces than Zoom 71 and CEREBASE DA offers better trackability than NeuronMax, Infinity, Shuttle, Fubuki, and Ballast.
+- **Guide compatibility differences**: Requires 8F long guide sheaths (≥0.113 inch ID), compared to CEREBASE DA which is compatible with 8F short sheaths and AXS Catalyst devices which require compatible sheaths or guide catheters (specifics not specified).
 
 ## Also Known As
 

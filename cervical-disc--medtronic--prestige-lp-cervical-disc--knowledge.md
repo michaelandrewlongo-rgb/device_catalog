@@ -21,7 +21,11 @@ Reconstruction of disc C3-C7 following discectomy for radiculopathy or myelopath
 
 ## Key Differences vs Competitors
 
-[NEEDS CONTENT - head-to-head comparison with competing devices in same category]
+- **FDA Approval Data**: Prestige LP has 10-year IDE study data showing 4.3% reoperation rate vs 14.4% for ACDF (two-level), while this specific data point is not specified for other devices in this category.
+- **Material Composition**: Prestige LP uses proprietary titanium ceramic composite with no nickel/cobalt/chromium, while material composition details are not specified for other devices.
+- **MRI Compatibility**: Prestige LP is MR Conditional at 1.5/4T, while MRI compatibility is not specified for other devices.
+- **Sizing Options**: Prestige LP offers Small, Medium, and Large footprint options with multiple height choices, while sizing specifications are not specified for other devices.
+- **Surgical Approach**: Prestige LP uses standard Smith-Robinson anterior cervical approach with dedicated instrument set for endplate preparation, while surgical compatibility details are not specified for other devices.
 
 ## Also Known As
 

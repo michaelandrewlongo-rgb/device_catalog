@@ -22,7 +22,11 @@ ExcelsiusGPS navigation/robotics. Bendini rod bending. CREO Derotation Instrumen
 
 ## Key Differences vs Competitors
 
-[NEEDS CONTENT - head-to-head comparison with competing devices in same category]
+- **Device type**: CREO 5.5 is a complete thoracolumbar stabilization system (pedicle screw/rod system), while all listed competitors (CONCORDE LIFT, RISE TLIF, Elevate, CoRoent, Tritanium TL) are interbody fusion cages.
+- **Primary function**: CREO 5.5 provides posterior fixation and stabilization; competitors are designed for interbody fusion with disc height restoration and load sharing within the disc space.
+- **Material options**: CREO 5.5 offers titanium and cobalt chromium alloys; competitors use PEEK with titanium endplates (CONCORDE LIFT, RISE TLIF, Elevate), PEEK (CoRoent), or 3D-printed porous titanium (Tritanium TL).
+- **Expansion capability**: CREO 5.5 is non-expandable (static stabilization system); CONCORDE LIFT, RISE TLIF, and Elevate are expandable interbody cages; expansion capability for CoRoent and Tritanium TL is not specified.
+- **Surgical approach**: CREO 5.5 indications specify thoracolumbar stabilization for various pathologies; competitors are specifically designed for lumbar interbody fusion approaches (TLIF, PLIF, XLIF).
 
 ## Also Known As
 

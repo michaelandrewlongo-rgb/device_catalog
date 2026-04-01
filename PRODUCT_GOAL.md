@@ -67,13 +67,23 @@ The repository is succeeding when:
 
 Move the catalog from “many partially captured products” to “materially useful device reference.”
 
-Progress as of 2026-03-31: catalog grew from 68 to 122 curated knowledge files via extraction pipeline + batch promotion. Extraction pipeline now harvests from 6 sources (FDA APIs, manufacturer scrapers, EVToday, NSPR, Marker PDF extraction, DeepSeek synthesis).
+Progress as of 2026-03-31: catalog grew from 68 to 144 curated knowledge files via extraction pipeline + batch promotion. Extraction pipeline now harvests from 6 sources (FDA APIs, manufacturer scrapers, EVToday, NSPR, Marker PDF extraction, DeepSeek synthesis). Fixed FDA summary lookup (stem-based fallback) unlocked 724 enrichment fields.
+
+Completed:
+- gap-fill engine built (pipeline/processing/gap_filler.py) -- deterministic placeholder fill
+- competitor comparison filler built (pipeline/processing/competitor_filler.py) -- 53/53 comparisons via DeepSeek
+- knowledge rewriter built (pipeline/processing/rewriter.py) -- FDA boilerplate cleanup
+- NSPR detail pages re-scraped: 103 products (89 with specs, 88 with descriptions)
+- guidewires: 0 -> 7 curated (Asahi Chikai x2, Balt Hybrid, MicroVention Traxcess x3, Stryker Synchro Select)
+- embolic coils: 5 -> 20 curated (15 new across Balt, Cerenovus, Kaneka, Medtronic, MicroVention, Penumbra, Stryker, Boston Scientific, Spartan)
+- FDA summary lookup fix unlocked 724 enrichment fields
+- [NEEDS CONTENT] reduced from 90 to 29 instances (68% reduction)
 
 The next stage is:
-- filling remaining gaps in promoted files (26% of core sections still empty)
-- acquiring NSPR-hosted technique guide PDFs for spine devices
-- promoting remaining enriched drafts that meet quality threshold
-- enriching thin categories: guidewires (0 curated), stent-retriever (0 curated), embolic coils (5 curated)
+- cleaning noisy FDA boilerplate in 14 sections via Tier 2 rewriter (in progress)
+- acquiring NSPR technique guide PDFs (need user login for verified surgeon access)
+- enriching remaining thin category: stent-retriever (0 curated)
+- promoting more devices from enriched records (~30 candidates with 3+ FDA fields)
 
 ## Non-Goals
 

@@ -31,7 +31,11 @@ Warnings
 
 ## Key Differences vs Competitors
 
-[NEEDS CONTENT - head-to-head comparison with competing devices in same category]
+- **Indications specificity**: Penumbra Neuro Access Catheters have detailed stroke revascularization indications for specific vessels (internal carotid, M1/M2, basilar, vertebral arteries) within 8 hours of symptom onset, while most Stryker AXS Catalyst devices list only "Excessive aspiration may cause patient complications" as their indication, except the AXS Catalyst Distal Access Catheter which has similar stroke indications but without the 8-hour time window specification.
+- **Sizing transparency**: Penumbra provides 12 specific diameter measurements (1.09mm to 2.77mm), while Stryker AXS Catalyst devices provide catalog/model numbers but not diameter measurements, instead offering selection rules based on vessel location (e.g., Catalyst 5 for M2, Catalyst 6 for larger vessels, Catalyst 7 for proximal targets).
+- **System integration**: Penumbra devices are designed as part of the PENUMBRA SYSTEM with specific compatible components (Reperfusion Catheters, Separators, Aspiration Tubing, Aspiration Pump), while Stryker AXS Catalyst devices integrate with the AXS Universal Aspiration System and require specific pumps (Medela Dominant Flex Pump) and accessories.
+- **MRI compatibility**: Penumbra does not specify MRI compatibility, while Stryker AXS Catalyst 5 and 6 are MR Conditional, and Catalyst 7 and AXS Offset have labeling without MRI safety information.
+- **Contraindications/warnings**: Penumbra provides detailed contraindications (none known) and specific warnings about single use, vessel sizing, and resistance, while Stryker devices generally note only "Pre-sterilized. Single-use" without detailed contraindications or warnings.
 
 ## Also Known As
 

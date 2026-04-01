@@ -24,7 +24,11 @@ MRI: Labeling does not contain MRI Safety Information. Pre-sterilized. Single-us
 
 ## Key Differences vs Competitors
 
-[NEEDS CONTENT - head-to-head comparison with competing devices in same category]
+- **Device Type**: Eclipse 2L is a double lumen balloon catheter for temporary occlusion and infusion, while all other listed devices are embolic coil systems (Optima, Prestige Plus, Axium, Axium Prime, CODMAN/DELTAMAXX/ORBIT GALAXY G2, HydroCoil, i-ED COIL) or a detachment system (INZONE).
+- **Primary Function**: Eclipse 2L provides temporary vascular occlusion and balloon-assisted embolization, whereas the coil systems are designed for permanent embolization of aneurysms and vascular abnormalities.
+- **MRI Compatibility**: Eclipse 2L labeling does not contain MRI safety information, while Optima (MR Conditional), Axium (MR Conditional), Axium Prime (MR Conditional), HydroCoil (MRI compatible), and i-ED COIL (MR Conditional) have specified MRI compatibility.
+- **FDA Recalls**: Eclipse 2L has no mentioned recalls, while Optima has 5 active recalls (labeling issues), CODMAN/DELTAMAXX/ORBIT GALAXY G2 has 1 active recall (detachment failure risk), and INZONE has 1 active recall (missing temperature indicator).
+- **Indications Scope**: Eclipse 2L is indicated for both peripheral/neurovasculature temporary occlusion and infusion, while most coil systems focus on neurovascular embolization (Optima, Axium, Axium Prime, HydroCoil, i-ED COIL) or peripheral embolization (Prestige Plus), with some having dual indications.
 
 ## Also Known As
 

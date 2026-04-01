@@ -25,7 +25,11 @@ Cohesive deposition provides responsive controlled embolization. Requires DMSO-c
 
 ## Key Differences vs Competitors
 
-[NEEDS CONTENT - head-to-head comparison with competing devices in same category]
+- **Material composition**: Onyx LES uses ethylene vinyl-alcohol copolymer (EVOH) dissolved in DMSO with tantalum powder, forming a non-adhesive cohesive embolus that solidifies inward. TRUFILL n-BCA uses n-butyl cyanoacrylate mixed with Ethiodized Oil and tantalum powder, forming an adhesive cast that polymerizes instantly on contact with ionic fluids.
+- **Indications**: Onyx LES is indicated for presurgical embolization of brain arteriovenous malformations (AVMs) and as a surgical adjunct for subacute/chronic subdural hematoma. TRUFILL n-BCA is indicated for embolization of cerebral AVMs. Onyx HD-500 is indicated for endovascular embolization of intracranial aneurysms under a Humanitarian Device Exemption.
+- **Compatibility requirements**: Onyx LES requires DMSO-compatible microcatheters such as Apollo Onyx, Echelon, or Marathon. TRUFILL n-BCA is compatible with standard microcatheters like Prowler EX and does not require detachable-tip microcatheters or dual-lumen balloon catheters.
+- **Procedural characteristics**: TRUFILL n-BCA has a catheter retention rate of 1.6% vs 9.3% for Onyx LES in RCT, with significantly shorter fluoroscopy time (37 vs 57 minutes) and procedural time (2.1 vs 2.6 hours). Onyx LES provides cohesive deposition with responsive controlled embolization designed for complete filling and distal penetration.
+- **Formulations and configurations**: Onyx LES offers formulations Onyx 18 and Onyx 34 LES with EVOH 8% concentration. TRUFILL n-BCA offers 1 Gram and 2 Gram kits and procedural sets. Onyx HD-500 has a higher EVOH concentration (20%) and viscosity of approximately 500 cSt for aneurysm treatment.
 
 ## Also Known As
 

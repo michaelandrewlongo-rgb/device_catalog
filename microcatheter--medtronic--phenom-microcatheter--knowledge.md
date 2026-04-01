@@ -25,7 +25,10 @@ Phenom 17: designed for coiling with low coil delivery force and large ID. Pheno
 
 ## Key Differences vs Competitors
 
-[NEEDS CONTENT - head-to-head comparison with competing devices in same category]
+- **Specialized stroke device deployment focus**: The Phenom is specifically designed for hemorrhagic and acute ischemic stroke procedures with dedicated models for coiling (Phenom 17), stent/flow diverter deployment (Phenom 21), and large device deployment (Phenom 27). In contrast, the Echelon and Excelsior families are described for general neurovascular procedures including coil delivery and diagnostic/therapeutic agent infusion without this specific stroke deployment focus.
+- **Larger inner diameter options**: The Phenom offers 0.027 inch ID (Phenom 27) for large device deployment, while the Echelon has 0.017 inch ID (Echelon 14) and the Excelsior SL-10 has not specified ID. The Phenom 21 also provides 0.021 inch ID for stent/flow diverter deployment.
+- **Dual-braided proximal shaft construction**: The Phenom features a dual-braided proximal shaft with progressive flexibility for superior pushability, whereas the Echelon uses nitinol-braided construction with progressive picks-per-inch, and the Excelsior uses stainless steel wire braid reinforcement.
+- **Specific compatibility with large devices**: The Phenom 27 is explicitly compatible with Solitaire X delivery and large device deployment requiring 0.027 inch ID, while the Echelon and Excelsior families emphasize compatibility with occlusion coils, contrast media, and in some cases Onyx liquid embolics (Echelon) or intracranial stents requiring 0.027" ID (Excelsior XT-27, though not detailed in provided data).
 
 ## Also Known As
 

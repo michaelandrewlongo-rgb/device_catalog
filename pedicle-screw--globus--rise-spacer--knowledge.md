@@ -24,7 +24,10 @@ TLIF, PLIF. IntraLIF for percutaneous approach.
 
 ## Key Differences vs Competitors
 
-[NEEDS CONTENT - head-to-head comparison with competing devices in same category]
+- **Device Type**: RISE is an expandable lumbar interbody spacer (TLIF/PLIF cage), while all other listed devices (CREO, Reline, Revere, CD HORIZON, ES2, EXPEDIUM VERSE, Neo, Reline by NuVasive) are pedicle screw fixation systems for posterior spinal stabilization.
+- **Approach & Delivery**: RISE IntraLIF variant is designed for percutaneous delivery via an 8.5mm cannula with extraforaminal access. In contrast, competitor pedicle screw systems offer various approaches: CREO and ES2 are minimally invasive percutaneous systems; CD HORIZON, EXPEDIUM VERSE, and Reline (both Globus and NuVasive) support both open and MIS approaches; Revere is revision-specific; Neo's approach is not specified.
+- **Key Differentiator & Caution**: RISE has 20 active FDA recalls related to specific lots of ALTERA implants containing incorrect internal alloy components. No other device in this comparison has any recall information specified in the provided data.
+- **Compatibility**: RISE is an interbody device compatible with pedicle screw systems like Globus CREO (as noted in CREO's compatibility list). Competitor pedicle screw systems are primarily compatible with other fixation components, interbody cages from their respective manufacturers, or navigation systems, but not directly with expandable interbody spacers like RISE.
 
 ## Also Known As
 

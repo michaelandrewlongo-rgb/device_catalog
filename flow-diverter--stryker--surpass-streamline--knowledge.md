@@ -14,16 +14,13 @@ Self-expandable braided flow diverter for endovascular treatment of large/giant 
 
 ## Sizing/Specs
 
-| Device Diameter (mm) | Device Length (mm) | Unconstrained Implant OD (mm) | Max Vessel Diameter (mm) | Recommended Min Vessel Diameter (mm) |
-|---|---|---|---|---|
-| 3.0 | 15, 20, 25 | >3.5 | 3.5 | 2.5 |
-| 4.0 | 15, 20, 25, 30, 40, 50 | >4.4 | 4.4 | 3.4 |
-| 5.0 | 20, 25, 30, 40, 50 | >5.3 | 5.3 | 4.3 |
+**Table 1. Implant Sizes**
 
-- **Parent vessel range:** 2.5-5.3 mm diameter
-- **MRI:** "MR Conditional" per ASTM testing
-- **Sterilization:** 100% EtO, SAL 10^-6
-- **Shelf life:** 1 year (validated for 3 years in accelerated aging)
+| Device<br>Diameter<br>(mm) | Device Length (mm)     | Unconstrained<br>Implant Outer<br>Diameter (OD)<br>(mm) | Maximum Vessel<br>Diameter (mm) | Recommended<br>Minimum Vessel<br>Diameter (mm) |
+|----------------------------|------------------------|---------------------------------------------------------|---------------------------------|------------------------------------------------|
+| 3.0                        | 15, 20, 25             | > 3.5                                                   | 3.5                             | 2.5                                            |
+| 4.0                        | 15, 20, 25, 30, 40, 50 | > 4.4                                                   | 4.4                             | 3.4                                            |
+| 5.0                        | 20, 25, 30, 40, 50     | > 5.3                                                   | 5.3                             | 4.3                                            |
 
 ## Indications
 

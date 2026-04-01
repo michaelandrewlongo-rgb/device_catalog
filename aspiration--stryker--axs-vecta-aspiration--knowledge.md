@@ -27,8 +27,10 @@ ablation probes.
 
 ## Key Differences vs Competitors
 
-[NEEDS CONTENT - head-to-head comparison with competing devices in same category]
+- **Indications**: The AXS Universal Aspiration Set is indicated for creating a constant vacuum for general surgical and clinical suction (e.g., fluids, tissue, gases), including specific procedures like vacuum extraction and aesthetic body contouring. In contrast, most competitors (APRO, React, Riptide, Raptor, Artemis) are specifically indicated for thrombus removal or fluid/tissue evacuation in the cerebral or neurovasculature during acute ischemic stroke or cranial procedures.
+- **Sizing/Specs**: Sizing/specifications for the AXS Universal Aspiration Set are not specified, whereas competitors like the APRO Aspiration Catheter (APRO 55, APRO 70) and React Aspiration Catheter (React 68, React 71) provide specific model sizes, and the Artemis device specifies use with a 19 F sheath via a 14 mm burr hole.
+- **Compatibility/Use Notes**: The AXS device's compatibility details are not specified. Competitors like the APRO, React, and Riptide systems list specific compatible devices (e.g., Solitaire X, Phenom microcatheters, Riptide pump), and several Balt devices note they are pre-sterilized, single-use, and have labeling without MRI safety information.
 
 ## Also Known As
 
-[NEEDS CONTENT - alternate names, abbreviations, legacy product names]
+AXS Vecta® Aspiration System (formerly known as the InNeuroCo Zenith Flex System and InNeuroCo 071 & 074 Zenith Flex Catheters), Common Name: Percutaneous Catheter

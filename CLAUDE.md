@@ -89,13 +89,15 @@ Non-goals:
 ## Current Catalog Snapshot
 
 Last verified snapshot: 2026-03-31.
-- 122 curated knowledge files
-- 112 scraped-only devices
-- 234 total indexed devices
-- 27 device categories
-- Two clinical domains: spine (pedicle screws, cages, plates, corpectomy, SI fusion, navigation, disc replacement) and neurovascular/interventional (flow diverters, stent retrievers, aspiration, coils, liquid embolics, microcatheters, intracranial stents, shunts, thrombectomy)
+- 144 curated knowledge files (21 categories, 21 manufacturers)
+- 109 scraped-only devices
+- 253 total indexed devices
+- 21 curated categories, strongest: embolic-coil (20), microcatheter (16), distal-access (14), pedicle-screw (14)
+- Two clinical domains: spine (pedicle screws, cages, plates, corpectomy, SI fusion, navigation, disc replacement) and neurovascular/interventional (flow diverters, stent retrievers, aspiration, coils, liquid embolics, microcatheters, intracranial stents, shunts, thrombectomy, guidewires)
+- Section fill: What It Is 94%, Indications 97%, Use Notes 76%, Sizing 62%, Compatible With 51%, Contraindications 35%
+- 24 files still have [NEEDS CONTENT] gaps (29 total instances)
 
-Pipeline inputs include openFDA 510(k)/PMA APIs, manufacturer scraping (Stryker, MicroVention, Balt, Penumbra, Cerenovus, Medtronic, Integra, Globus, SI-BONE, DePuy, NuVasive), Chrome MCP for gated sites, and external structured sources (EVToday device guide, NeuroSpine Product Review).
+Pipeline inputs include openFDA 510(k)/PMA APIs (281 summaries, 245 UDI, 592 recalls), manufacturer scraping (9 scrapers, 163 products), Chrome MCP for gated sites, EVToday device guide (301 neuro devices), NeuroSpine Product Review (103 detail pages), and Marker+DeepSeek document extraction (53 PDFs).
 
 Treat these numbers as a state snapshot. Re-check `CATALOG_INDEX.md` before making coverage claims.
 
@@ -196,11 +198,19 @@ python -m pipeline.run_extract --fda-summaries     # Tier 1A: parse 510(k) PDFs
 python -m pipeline.run_extract --fda-structured     # Tier 1B: UDI/MAUDE/Recall APIs
 python -m pipeline.run_extract --evtoday            # Tier 1C: EVToday device guide
 python -m pipeline.run_extract --nspr-download      # Tier 1D: download NSPR PDFs
-python -m pipeline.run_extract --documents          # Tier 2: Marker + DeepSeek on PDFs
+python -m pipeline.run_extract --documents          # Tier 2: Marker + DeepSeek on catalog PDFs
+python -m pipeline.run_extract --fda-documents      # Tier 2: Marker + DeepSeek on curated FDA PDFs
 python -m pipeline.run_extract --all                # All of the above
 
 # Enrichment (Tier 3)
 python -m pipeline.run_enrich                       # Multi-source synthesis
+
+# Post-processing
+python -m pipeline.run_enrich --gap-fill             # Fill [NEEDS CONTENT] from extracted data
+python -m pipeline.run_enrich --gap-fill --dry-run   # Preview gap fills
+python -m pipeline.run_enrich --competitor-fill       # DeepSeek competitor comparisons
+python -m pipeline.run_enrich --rewrite              # Clean noisy FDA boilerplate
+python -m pipeline.run_enrich --rewrite --dry-run    # Preview rewrites
 ```
 
 ## Architecture
@@ -224,6 +234,9 @@ python -m pipeline.run_enrich                       # Multi-source synthesis
 - `processing/naming.py` enforces filename rules and collision handling.
 - `processing/indexer.py` generates `CATALOG_INDEX.md`.
 - `processing/reviewer.py` generates `REVIEW_MANIFEST.md` with quality tiers.
+- `processing/gap_filler.py` fills [NEEDS CONTENT] placeholders in curated files from extracted data.
+- `processing/competitor_filler.py` generates competitor comparisons via DeepSeek using catalog-grounded data.
+- `processing/rewriter.py` detects and replaces FDA boilerplate in curated files with clean Tier 2 extractions.
 - `data/` contains intermediate storage:
   - `fda_raw/`, `scraper_raw/` -- raw input data
   - `merged/` -- FDA + scraper merged records

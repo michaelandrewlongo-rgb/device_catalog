@@ -25,7 +25,10 @@ Up to 4x faster than StealthStation, up to 16x faster than Excelsius per manufac
 
 ## Key Differences vs Competitors
 
-[NEEDS CONTENT - head-to-head comparison with competing devices in same category]
+- **Technology focus**: Q Guidance System is a comprehensive surgical planning and navigation platform with proprietary active/passive hybrid optical tracking and dual PC architecture, while competitors like ChoiceSpine NavLock are instrument sets for existing platforms, ExcelsiusGPS and Mazor X are robotic guidance systems, and O-arm is an imaging system.
+- **Primary applications**: Q Guidance System is indicated for both cranial and spine surgical navigation, whereas ExcelsiusGPS, Mazor X, ChoiceSpine NavLock, and Stryker SpineMap 3D are focused on spine procedures, and Medtronic StealthStation S8 is for cranial navigation.
+- **Tracking/compatibility**: Q Guidance System uses proprietary active technology and integrates with Airo TruCT, while ChoiceSpine NavLock uses passive reflective spheres and requires Medtronic StealthStation, Mazor X requires StealthStation and O-arm, and Stryker SpineMap 3D uses passive optical tracking on Stryker hardware.
+- **Key differentiators**: Q Guidance System claims faster registration than StealthStation and ExcelsiusGPS, offers dual touch screen monitors for sterile field control, and has cranial capabilities with optional EM tracking, unlike the spine-only robotic platforms and instrument sets.
 
 ## Also Known As
 

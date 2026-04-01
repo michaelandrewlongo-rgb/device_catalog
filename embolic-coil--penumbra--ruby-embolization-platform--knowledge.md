@@ -33,7 +33,11 @@ Warnings
 
 ## Key Differences vs Competitors
 
-[NEEDS CONTENT - head-to-head comparison with competing devices in same category]
+- **Primary function differs**: The Ruby Embolization Platform is designed for embolization procedures using Ruby, POD®, and Packing Coil technologies, while most competitors (Penumbra Coil 400, Penumbra LP Coil, Penumbra Smart Coil, POD SYSTEM, Axium systems, CODMAN systems) are specifically indicated for embolization of intracranial aneurysms, AVMs, fistulae, and peripheral vasculature. The Eclipse 2L is a balloon catheter for temporary occlusion and balloon-assisted embolization.
+- **Indications focus on stroke revascularization**: Ruby's listed indications are for acute ischemic stroke revascularization using Reperfusion Catheters and Separators as part of the PENUMBRA SYSTEM, unlike other embolic coils which target aneurysms and vascular abnormalities.
+- **Recall status differs**: Ruby has no mentioned FDA recalls, while Penumbra Coil 400, Penumbra LP Coil, Penumbra Smart Coil, POD SYSTEM, and CODMAN systems all have active recalls related to delivery system issues.
+- **Detachment mechanism not specified**: Ruby's detachment method is not specified, whereas competitors use instant mechanical detachment (Penumbra coils, Axium systems) or hydraulic detachment (CODMAN systems).
+- **MRI safety information**: Ruby's MRI compatibility is not specified, while Axium systems are MR Conditional and other devices either lack information or state labeling doesn't contain MRI safety details.
 
 ## Also Known As
 

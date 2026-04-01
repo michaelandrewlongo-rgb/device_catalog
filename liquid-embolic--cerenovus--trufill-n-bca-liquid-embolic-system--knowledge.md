@@ -25,7 +25,10 @@ Complication rates numerically lower than Onyx LES but not statistically signifi
 
 ## Key Differences vs Competitors
 
-[NEEDS CONTENT - head-to-head comparison with competing devices in same category]
+- **Indication specificity**: TRUFILL n-BCA is indicated for embolization of cerebral arteriovenous malformations (AVMs), while Onyx HD-500 is specifically indicated for intracranial aneurysms under a Humanitarian Device Exemption, and Onyx LES is indicated for presurgical embolization of brain AVMs.
+- **Material mechanism**: TRUFILL n-BCA is an adhesive liquid embolic (n-butyl cyanoacrylate) that polymerizes on contact with ionic fluids, whereas Onyx LES and Onyx HD-500 are non-adhesive EVOH-based systems that precipitate when DMSO dissipates.
+- **Compatibility requirements**: TRUFILL n-BCA does not require detachable-tip microcatheters or dual-lumen balloon catheters and is compatible with standard microcatheters like Prowler EX, while Onyx LES requires DMSO-compatible microcatheters such as Apollo Onyx delivery microcatheter (detachable tip).
+- **Procedural characteristics**: TRUFILL n-BCA has shown significantly shorter fluoroscopy time (37 vs 57 minutes) and procedural time (2.1 vs 2.6 hours) compared to Onyx LES in RCT data, with lower total procedural costs due to catheter compatibility.
 
 ## Also Known As
 

@@ -21,7 +21,10 @@ FDA Breakthrough Device Designation: FDA determined it has potential to provide 
 
 ## Key Differences vs Competitors
 
-[NEEDS CONTENT - head-to-head comparison with competing devices in same category]
+- **Implant design and fixation approach**: iFuse TORQ TNT is a 3D-printed porous threaded implant designed to span the entire posterior pelvis (transsacral), passing through both ilia and the sacrum. This differs from the triangular cross-section implants (iFuse Implant System, iFuse INTRA, iFuse INTRA X) and the spinopelvic fixation implant (iFuse Bedrock Granite), which are not described as transsacral. The standard iFuse TORQ uses a lateral transiliac approach, not specified as transsacral.
+- **Primary indication**: iFuse TORQ TNT is specifically indicated for pelvic fragility fractures and sacral insufficiency fractures with bilateral SI joint involvement. This contrasts with the other devices, whose indications focus on SI joint dysfunction, stabilization/fusion, or spinopelvic fixation in deformity/revision cases.
+- **Key mechanical features**: iFuse TORQ TNT has an 8.7 mm diameter, is 150% stronger in bending vs. a 7.3 mm stainless steel screw, and uses a TORQLock hooked thread profile and variable thread heights/leads tailored to the posterior pelvis. The iFuse Implant System has smaller inscribed diameters (4.0mm or 7.0mm). Strength comparisons and specific thread designs for the pelvis are not specified for the other devices.
+- **FDA designation and use case**: iFuse TORQ TNT has an FDA Breakthrough Device Designation for potentially providing more effective fixation of pelvic fragility fractures than standard cannulated screws. iFuse Bedrock Granite also has an FDA Breakthrough Device Designation, but for spinopelvic fixation. The other devices do not have this designation specified.
 
 ## Also Known As
 
