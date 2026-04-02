@@ -200,3 +200,40 @@ def test_parse_aliases_grouped_bold_headers():
         assert not a.startswith("*"), f"Raw markdown in alias: {a!r}"
     # Should have extracted the actual device name aliases
     assert "Excelsior SL-10" in aliases or "SL-10" in aliases
+
+
+import subprocess
+
+CATALOG_ROOT = Path(__file__).parent.parent
+
+
+def test_build_site_integration():
+    """Run the build script against the real catalog and check output."""
+    result = subprocess.run(
+        ["python", "pipeline/build_site.py"],
+        cwd=str(CATALOG_ROOT),
+        capture_output=True,
+        text=True,
+    )
+    assert result.returncode == 0, f"Build failed:\n{result.stderr}"
+
+    output = CATALOG_ROOT / "site" / "index.html"
+    assert output.exists(), "site/index.html not created"
+
+    content = output.read_text(encoding="utf-8")
+    assert "<!DOCTYPE html>" in content
+    assert "Pipeline Flex" in content
+    assert "Headway Duo" in content
+    assert "__CATALOG_DATA__" not in content
+    assert "neurovascular" in content
+
+
+def test_build_site_device_count():
+    """Site should reference at least 200 devices."""
+    output = (CATALOG_ROOT / "site" / "index.html").read_text(encoding="utf-8")
+    import re
+    match = re.search(r'const CATALOG = (\[.*?\]);\s*\n', output, re.DOTALL)
+    assert match, "Could not find CATALOG array in output"
+    import json as _json
+    catalog = _json.loads(match.group(1))
+    assert len(catalog) >= 200, f"Expected >= 200 devices, got {len(catalog)}"

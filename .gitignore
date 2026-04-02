@@ -20,3 +20,4 @@ pipeline/data/extracted/skipped.json
 # OS
 Thumbs.db
 .DS_Store
+site/

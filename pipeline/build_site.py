@@ -179,3 +179,27 @@ def load_devices(catalog_root: Path) -> list[dict]:
             "sections": sections,
         })
     return devices
+
+
+def main() -> None:
+    catalog_root = Path(__file__).parent.parent
+    template_path = Path(__file__).parent / "site_template.html"
+    output_dir = catalog_root / "site"
+    output_path = output_dir / "index.html"
+
+    print(f"Loading devices from {catalog_root} ...")
+    devices = load_devices(catalog_root)
+    print(f"  {len(devices)} curated devices loaded")
+
+    template = template_path.read_text(encoding="utf-8")
+    catalog_json = json.dumps(devices, ensure_ascii=False)
+    html = template.replace("__CATALOG_DATA__", catalog_json)
+
+    output_dir.mkdir(exist_ok=True)
+    output_path.write_text(html, encoding="utf-8")
+    print(f"  Written to {output_path}")
+    print("Done. Open site/index.html in your browser.")
+
+
+if __name__ == "__main__":
+    main()
