@@ -21,3 +21,5 @@ pipeline/data/extracted/skipped.json
 Thumbs.db
 .DS_Store
 site/
+!site/images/
+!site/images/**

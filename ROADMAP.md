@@ -2,6 +2,23 @@
 
 ## Current Priority Order
 
+### 0. Prototype — user-facing catalog viewer
+Status: **In progress** (image pipeline added 2026-04-02)
+
+- Static HTML prototype built on branch `feat/catalog-prototype`
+- Split-panel layout: search + browse (domain tree) on left, device detail + comparison on right
+- Build: `python pipeline/build_site.py` → `site/index.html` (opens in any browser, no server needed)
+- 174 root-level curated devices loaded; Fuse.js fuzzy search; marked.js markdown rendering
+
+#### Image pipeline (partial — paused 2026-04-02)
+- `pipeline/fetch_images.py` — fetches og:image from manufacturer pages, saves to `site/images/`
+- Template updated: images render in device detail panel with onerror fallback
+- 4 images downloaded: Balt aspiration (ballast, carrier, hybrid, raptor) as .webp
+- **Blocked:** Medtronic CDN requires real browser — Chrome MCP bridge approach needed
+  - og:image URLs extracted and documented in STATE.md, ready to resume
+- **Next step:** Resume Medtronic download, then run full catalog pass
+- After images complete: merge to main
+
 ### 1. Clean FDA boilerplate in newly promoted files
 Status: **Ready**
 
