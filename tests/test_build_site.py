@@ -138,3 +138,53 @@ def test_map_domain_other_for_unknown():
     assert map_domain("unknown") == "other"
     assert map_domain("accessory") == "other"
     assert map_domain("not-a-real-category") == "other"
+
+
+from pipeline.build_site import load_devices
+
+
+def test_load_devices_basic(tmp_path):
+    (tmp_path / "flow-diverter--medtronic--pipeline-flex--knowledge.md").write_text(
+        "# Pipeline Flex\n\n## What It Is\n\nFlow diverter.\n\n## Also Known As\n\nPipeline, PED",
+        encoding="utf-8",
+    )
+    (tmp_path / "microcatheter--microvention--headway-duo--knowledge.md").write_text(
+        "# Headway Duo\n\n## What It Is\n\nMicrocatheter.",
+        encoding="utf-8",
+    )
+    devices = load_devices(tmp_path)
+    assert len(devices) == 2
+    names = {d["name"] for d in devices}
+    assert "Pipeline Flex" in names
+    assert "Headway Duo" in names
+
+
+def test_load_devices_fields(tmp_path):
+    (tmp_path / "flow-diverter--medtronic--pipeline-flex--knowledge.md").write_text(
+        "# Pipeline Flex\n\n## What It Is\n\nFlow diverter.\n\n## Also Known As\n\nPipeline, PED",
+        encoding="utf-8",
+    )
+    devices = load_devices(tmp_path)
+    d = devices[0]
+    assert d["domain"] == "neurovascular"
+    assert d["manufacturer_display"] == "Medtronic"
+    assert d["category_display"] == "Flow Diverter"
+    assert d["aliases"] == ["Pipeline", "PED"]
+    assert "What It Is" in d["sections"]
+
+
+def test_load_devices_skips_non_knowledge_files(tmp_path):
+    (tmp_path / "flow-diverter--medtronic--pipeline.pdf").write_bytes(b"")
+    (tmp_path / "README.md").write_text("hello")
+    (tmp_path / "flow-diverter--medtronic--knowledge.md").write_text("too few parts")
+    devices = load_devices(tmp_path)
+    assert len(devices) == 0
+
+
+def test_load_devices_fallback_name_from_slug(tmp_path):
+    (tmp_path / "flow-diverter--medtronic--surpass-evolve--knowledge.md").write_text(
+        "## What It Is\n\nNo H1 here.",
+        encoding="utf-8",
+    )
+    devices = load_devices(tmp_path)
+    assert devices[0]["name"] == "Surpass Evolve"

@@ -132,3 +132,34 @@ DOMAIN_MAP: dict[str, str] = {
 def map_domain(category: str) -> str:
     """Return the top-level clinical domain for a device category slug."""
     return DOMAIN_MAP.get(category, "other")
+
+
+def load_devices(catalog_root: Path) -> list[dict]:
+    """Load all curated knowledge files from catalog_root.
+
+    Reads every file matching *--knowledge.md directly in catalog_root
+    (non-recursive -- drafts in subdirectories are excluded).
+    Returns a list of device dicts ready for JSON serialization.
+    """
+    devices: list[dict] = []
+    for path in sorted(catalog_root.glob("*--knowledge.md")):
+        meta = parse_filename(path.name)
+        if not meta:
+            continue
+        try:
+            content = path.read_text(encoding="utf-8")
+        except Exception:
+            continue
+        name, sections, aliases = parse_markdown(content)
+        if not name:
+            name = slug_to_title(meta["slug"])
+        devices.append({
+            **meta,
+            "name": name,
+            "domain": map_domain(meta["category"]),
+            "manufacturer_display": slug_to_title(meta["manufacturer"]),
+            "category_display": slug_to_title(meta["category"]),
+            "aliases": aliases,
+            "sections": sections,
+        })
+    return devices
