@@ -235,6 +235,31 @@ def test_fetch_image_for_device_no_image_on_page(tmp_path, monkeypatch):
         assert fi.fetch_image_for_device("cat--mfr--dev") == "failed"
 
 
+# --- get_all_device_ids -----------------------------------------------------
+
+def test_get_all_device_ids(tmp_path, monkeypatch):
+    # Create 2 valid knowledge files and 1 invalid filename
+    (tmp_path / "flow-diverter--medtronic--pipeline-flex--knowledge.md").write_bytes(b"")
+    (tmp_path / "aspiration--balt--ballast--knowledge.md").write_bytes(b"")
+    (tmp_path / "not-a-device.md").write_bytes(b"")  # should be ignored
+    monkeypatch.setattr(fi, "CATALOG_ROOT", tmp_path)
+    ids = fi.get_all_device_ids()
+    assert "flow-diverter--medtronic--pipeline-flex" in ids
+    assert "aspiration--balt--ballast" in ids
+    assert len(ids) == 2
+    assert ids == sorted(ids)  # must be sorted
+
+
+def test_get_source_url_non_http_url(tmp_path, monkeypatch):
+    enriched = tmp_path / "enriched"
+    enriched.mkdir()
+    (enriched / "cat--mfr--dev.json").write_text(
+        json.dumps({"source_url": "ftp://example.com/prod"}), encoding="utf-8"
+    )
+    monkeypatch.setattr(fi, "ENRICHED_DIR", enriched)
+    assert fi.get_source_url("cat--mfr--dev") is None
+
+
 def test_fetch_image_for_device_dry_run(tmp_path, monkeypatch, capsys):
     enriched = tmp_path / "enriched"
     enriched.mkdir()
