@@ -193,6 +193,8 @@ def main() -> None:
 
     template = template_path.read_text(encoding="utf-8")
     catalog_json = json.dumps(devices, ensure_ascii=False)
+    assert "__CATALOG_DATA__" not in catalog_json, \
+        "A knowledge file contains the literal string '__CATALOG_DATA__' — rename it before building."
     html = template.replace("__CATALOG_DATA__", catalog_json)
 
     output_dir.mkdir(exist_ok=True)
