@@ -228,12 +228,14 @@ def main() -> None:
     last_host = ""
 
     for device_id in device_ids:
-        source_url = get_source_url(device_id)
-        if source_url:
-            host = urllib.parse.urlparse(source_url).netloc
-            if host == last_host:
-                time.sleep(INTER_REQUEST_DELAY)
-            last_host = host
+        # Only compute host / sleep when the image actually needs fetching
+        if find_existing_image(device_id) is None:
+            source_url = get_source_url(device_id)
+            if source_url:
+                host = urllib.parse.urlparse(source_url).netloc
+                if host == last_host:
+                    time.sleep(INTER_REQUEST_DELAY)
+                last_host = host
 
         result = fetch_image_for_device(device_id, dry_run=args.dry_run)
         counts[result] = counts.get(result, 0) + 1
