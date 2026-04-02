@@ -1,6 +1,7 @@
 # pipeline/build_site.py
 from pathlib import Path
 import json
+import sys
 
 
 def parse_filename(filename: str) -> dict | None:
@@ -36,7 +37,7 @@ def parse_markdown(content: str) -> tuple[str, dict, list[str]]:
     sections -- dict of H2 heading text -> section body (raw markdown, stripped)
     aliases  -- list extracted from the "Also Known As" section
     """
-    lines = content.split("\n")
+    lines = content.replace("\r\n", "\n").replace("\r", "\n").split("\n")
     name: str = ""
     sections: dict[str, str] = {}
     current_section: str | None = None
@@ -69,10 +70,24 @@ def _parse_aliases(text: str) -> list[str]:
         return [
             line.lstrip("-").strip()
             for line in stripped.split("\n")
-            if line.strip().startswith("-")
+            if line.strip().startswith("-") and line.lstrip("-").strip()
         ]
-    flat = stripped.replace("\n", ", ")
-    return [a.strip() for a in flat.split(",") if a.strip()]
+    # Comma-separated or grouped format -- strip markdown and group headers
+    flat = stripped.replace("\r\n", "\n").replace("\n", ", ")
+    raw_items = [a.strip() for a in flat.split(",")]
+    items = []
+    for item in raw_items:
+        # Strip bold markers
+        clean = item.strip("*").strip()
+        # Skip empty items, group headers (end with ":"), and residual markdown
+        if not clean or clean.endswith(":") or clean.startswith("*") or clean.startswith("#"):
+            continue
+        # Dash-prefixed entries are real aliases (from sub-lists in grouped format)
+        if clean.startswith("-"):
+            clean = clean.lstrip("-").strip()
+        if clean:
+            items.append(clean)
+    return items
 
 
 _SPECIAL_WORDS: dict[str, str] = {
@@ -148,7 +163,8 @@ def load_devices(catalog_root: Path) -> list[dict]:
             continue
         try:
             content = path.read_text(encoding="utf-8")
-        except Exception:
+        except Exception as e:
+            print(f"WARNING: skipped {path.name}: {e}", file=sys.stderr)
             continue
         name, sections, aliases = parse_markdown(content)
         if not name:

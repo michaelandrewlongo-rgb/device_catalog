@@ -188,3 +188,15 @@ def test_load_devices_fallback_name_from_slug(tmp_path):
     )
     devices = load_devices(tmp_path)
     assert devices[0]["name"] == "Surpass Evolve"
+
+
+def test_parse_aliases_grouped_bold_headers():
+    """Grouped AKA sections with bold headers should not produce markdown as aliases."""
+    text = "**SL-10:**\n- Excelsior SL-10\n- SL-10\n\n**1018:**\n- Excelsior 1018"
+    from pipeline.build_site import _parse_aliases
+    aliases = _parse_aliases(text)
+    # Should not contain raw markdown like "**SL-10:**"
+    for a in aliases:
+        assert not a.startswith("*"), f"Raw markdown in alias: {a!r}"
+    # Should have extracted the actual device name aliases
+    assert "Excelsior SL-10" in aliases or "SL-10" in aliases
