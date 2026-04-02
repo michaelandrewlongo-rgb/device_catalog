@@ -290,7 +290,11 @@ def test_build_output_image_null_when_no_image_file(tmp_path):
 
 
 def test_build_output_template_renders_device_image_js(tmp_path):
-    """The built HTML includes the JS that conditionally renders device.image."""
+    """The built HTML includes the JS that conditionally renders device.image.
+
+    NOTE: This test is expected to fail until Task 3 updates site_template.html
+    to add the image block (device.image reference and device-image-wrap CSS class).
+    """
     (tmp_path / "flow-diverter--medtronic--pipeline-flex--knowledge.md").write_text(
         "# Pipeline Flex\n\n## What It Is\n\nFlow diverter.", encoding="utf-8"
     )
