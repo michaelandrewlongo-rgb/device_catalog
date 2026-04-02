@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NeuroDevice Catalog</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { height: 100%; overflow: hidden; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+       background: #0f0f1a; color: #e0e0e0; display: flex; flex-direction: column; }
+
+/* Top bar */
+#top-bar { background: #1a1a2e; border-bottom: 1px solid #2a2a45;
+           padding: 10px 16px; display: flex; align-items: center;
+           gap: 12px; flex-shrink: 0; }
+.logo { color: #4f8ef7; font-weight: 700; font-size: 15px; white-space: nowrap; }
+.logo span { color: #666; font-weight: 400; }
+#search-input { flex: 1; max-width: 440px; background: #0f3460;
+                border: 1px solid #2a2a55; border-radius: 6px; color: #fff;
+                padding: 7px 12px; font-size: 13px; outline: none; }
+#search-input:focus { border-color: #4f8ef7; }
+#search-input::placeholder { color: #444; }
+#device-count { color: #444; font-size: 12px; white-space: nowrap; margin-left: auto; }
+
+/* App body */
+#app-body { display: flex; flex: 1; overflow: hidden; }
+
+/* Left panel */
+#left-panel { width: 300px; background: #13132a; border-right: 1px solid #2a2a45;
+              display: flex; flex-direction: column; flex-shrink: 0; }
+.panel-tabs { display: flex; border-bottom: 1px solid #2a2a45; flex-shrink: 0; }
+.panel-tab { flex: 1; padding: 8px; background: none; border: none; color: #555;
+             font-size: 12px; font-weight: 600; cursor: pointer; letter-spacing: 0.3px; }
+.panel-tab.active { color: #4f8ef7; border-bottom: 2px solid #4f8ef7; }
+.results-header { padding: 8px 14px 6px; color: #444; font-size: 11px;
+                  letter-spacing: 0.4px; border-bottom: 1px solid #1e1e38; flex-shrink: 0; }
+.results-list { flex: 1; overflow-y: auto; }
+
+.result-item { padding: 9px 14px; border-bottom: 1px solid #1a1a30; cursor: pointer; }
+.result-item:hover { background: #1a1a38; }
+.result-item.active { background: #0f1e40; border-left: 2px solid #4f8ef7; padding-left: 12px; }
+.result-name { font-size: 13px; color: #ddd; font-weight: 500; }
+.result-meta { font-size: 11px; color: #555; margin-top: 2px; }
+.cat-pill { display: inline-block; background: #1e1e38; border-radius: 3px;
+            padding: 1px 5px; font-size: 10px; color: #777; }
+
+/* Browse mode */
+#browse-mode { display: none; flex-direction: column; flex: 1; overflow: hidden; }
+#browse-tree { overflow-y: auto; border-bottom: 1px solid #2a2a45; flex-shrink: 0; max-height: 55%; }
+#browse-results { display: flex; flex-direction: column; flex: 1; overflow: hidden; }
+.domain-header { padding: 8px 14px; color: #888; font-size: 12px; font-weight: 600;
+                 cursor: pointer; display: flex; justify-content: space-between; }
+.domain-header:hover { background: #1a1a38; color: #bbb; }
+.domain-header.expanded { color: #4f8ef7; }
+.domain-cats { display: none; }
+.domain-cats.open { display: block; }
+.cat-row { padding: 6px 14px 6px 24px; font-size: 12px; color: #777;
+           cursor: pointer; display: flex; justify-content: space-between; }
+.cat-row:hover { background: #1a1a38; color: #ccc; }
+.cat-row.active { color: #4f8ef7; background: #0f1e40; }
+.cat-count { color: #444; }
+
+/* Right panel */
+#right-panel { flex: 1; display: flex; overflow: hidden; }
+.detail-pane { flex: 1; overflow-y: auto; padding: 20px 24px; }
+.detail-pane + .detail-pane { border-left: 2px solid #2a2a45; }
+
+.empty-state { display: flex; align-items: center; justify-content: center;
+               height: 80%; color: #2a2a45; font-size: 13px; }
+
+/* Device header */
+.device-header { margin-bottom: 16px; padding-bottom: 14px; border-bottom: 1px solid #2a2a35; }
+.device-category-label { font-size: 11px; color: #4f8ef7; font-weight: 600;
+                          letter-spacing: 0.5px; margin-bottom: 4px; }
+.device-name { font-size: 20px; font-weight: 700; color: #fff; margin-bottom: 3px; }
+.device-mfr { font-size: 13px; color: #666; margin-bottom: 10px; }
+.compare-btn { background: #1e2d50; border: 1px solid #2a4070; border-radius: 5px;
+               color: #4f8ef7; font-size: 12px; padding: 5px 12px; cursor: pointer; }
+.compare-btn:hover { background: #253660; }
+.exit-compare-btn { background: #2a1e1e; border: 1px solid #503030; border-radius: 5px;
+                    color: #c06060; font-size: 12px; padding: 5px 12px; cursor: pointer; }
+
+/* Compare search */
+.compare-search-wrap { display: none; margin-top: 10px; position: relative; }
+.compare-search-input { width: 100%; background: #0f3460; border: 1px solid #4f8ef7;
+                        border-radius: 6px; color: #fff; padding: 7px 12px;
+                        font-size: 13px; outline: none; }
+.compare-dropdown { position: absolute; top: 100%; left: 0; right: 0;
+                    background: #1a1a38; border: 1px solid #2a2a55;
+                    border-top: none; border-radius: 0 0 6px 6px;
+                    max-height: 200px; overflow-y: auto; z-index: 10; }
+.compare-option { padding: 8px 12px; cursor: pointer; }
+.compare-option:hover { background: #0f3460; }
+.co-name { font-size: 12px; color: #ddd; }
+.co-meta { font-size: 11px; color: #555; }
+
+/* Sections */
+.section-block { margin-bottom: 18px; }
+.section-label { font-size: 10px; font-weight: 700; color: #444; letter-spacing: 0.8px;
+                 text-transform: uppercase; margin-bottom: 6px; }
+.section-content { font-size: 13px; color: #c0c0c0; line-height: 1.6; }
+.section-content table { border-collapse: collapse; width: 100%; margin-top: 4px; font-size: 12px; }
+.section-content td, .section-content th { border: 1px solid #2a2a45; padding: 5px 8px; }
+.section-content th { background: #1a1a38; color: #777; }
+.section-content td { color: #bbb; }
+.section-content strong { color: #ddd; }
+.section-content code { background: #1e1e38; padding: 1px 4px; border-radius: 3px; font-size: 11px; }
+.section-content ul, .section-content ol { padding-left: 18px; }
+.section-content li { margin-bottom: 3px; }
+.aka-tags { display: flex; flex-wrap: wrap; gap: 5px; }
+.aka-tag { background: #1e1e38; border-radius: 3px; padding: 2px 7px;
+           font-size: 11px; color: #777; }
+
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #2a2a45; border-radius: 2px; }
+</style>
+</head>
+<body>
+
+<div id="top-bar">
+  <div class="logo">NeuroDevice <span>Catalog</span></div>
+  <input id="search-input" type="text"
+         placeholder="Search devices by name, alias, or manufacturer...">
+  <span id="device-count"></span>
+</div>
+
+<div id="app-body">
+
+  <div id="left-panel">
+    <div class="panel-tabs">
+      <button class="panel-tab active" id="tab-search"
+              onclick="setMode('search')">Search</button>
+      <button class="panel-tab" id="tab-browse"
+              onclick="setMode('browse')">Browse</button>
+    </div>
+
+    <div id="search-mode"
+         style="display:flex;flex-direction:column;flex:1;overflow:hidden;">
+      <div class="results-header" id="results-header">ALL DEVICES</div>
+      <div class="results-list" id="results-list"></div>
+    </div>
+
+    <div id="browse-mode">
+      <div id="browse-tree"></div>
+      <div id="browse-results">
+        <div class="results-header" id="results-header-browse"></div>
+        <div class="results-list" id="results-list-browse"
+             style="flex:1;overflow-y:auto;"></div>
+      </div>
+    </div>
+  </div>
+
+  <div id="right-panel">
+    <div id="detail-panel-a" class="detail-pane">
+      <div class="empty-state">Select a device to view details</div>
+    </div>
+    <div id="detail-panel-b" class="detail-pane" style="display:none;"></div>
+  </div>
+
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script>
+const CATALOG = __CATALOG_DATA__;
+
+// State
+var fuse;
+var activeDeviceId  = null;
+var compareDeviceId = null;
+var mode            = 'search';
+var activeDomain    = null;
+var activeCategory  = null;
+var currentResults  = [];
+var searchTimer     = null;
+
+// Init
+document.addEventListener('DOMContentLoaded', function() {
+  document.getElementById('device-count').textContent =
+    CATALOG.length + ' curated devices';
+
+  fuse = new Fuse(CATALOG, {
+    keys: [
+      { name: 'name',                 weight: 1.0 },
+      { name: 'aliases',              weight: 0.9 },
+      { name: 'manufacturer_display', weight: 0.6 },
+      { name: 'category',             weight: 0.5 },
+    ],
+    threshold: 0.4,
+    includeScore: true,
+  });
+
+  buildBrowseTree();
+  showResults(CATALOG, 'search');
+
+  document.getElementById('search-input')
+    .addEventListener('input', onSearch);
+});
+
+// Mode toggle
+function setMode(m) {
+  mode = m;
+  document.getElementById('search-mode').style.display =
+    m === 'search' ? 'flex' : 'none';
+  document.getElementById('browse-mode').style.display =
+    m === 'browse' ? 'flex' : 'none';
+  document.getElementById('tab-search')
+    .classList.toggle('active', m === 'search');
+  document.getElementById('tab-browse')
+    .classList.toggle('active', m === 'browse');
+
+  if (m === 'search') {
+    document.getElementById('search-input').focus();
+    var q = document.getElementById('search-input').value.trim();
+    showResults(q ? fuse.search(q).map(function(r) { return r.item; }) : CATALOG, 'search');
+  } else {
+    var filtered = activeCategory
+      ? CATALOG.filter(function(d) { return d.category === activeCategory; })
+      : activeDomain
+        ? CATALOG.filter(function(d) { return d.domain === activeDomain; })
+        : CATALOG;
+    showResults(filtered, 'browse');
+  }
+}
+
+// Search
+function onSearch(e) {
+  clearTimeout(searchTimer);
+  var val = e.target.value;
+  searchTimer = setTimeout(function() {
+    var q = val.trim();
+    showResults(q ? fuse.search(q).map(function(r) { return r.item; }) : CATALOG, 'search');
+  }, 150);
+}
+
+// Results list
+function showResults(devices, target) {
+  currentResults = devices;
+  var listId   = target === 'browse' ? 'results-list-browse'  : 'results-list';
+  var headerId = target === 'browse' ? 'results-header-browse' : 'results-header';
+  document.getElementById(headerId).textContent =
+    devices.length + ' DEVICE' + (devices.length !== 1 ? 'S' : '');
+  document.getElementById(listId).innerHTML = devices.map(function(d) {
+    return '<div class="result-item' + (activeDeviceId === d.id ? ' active' : '') +
+      '" onclick="selectDevice(\'' + d.id.replace(/'/g, "\\'") + '\')">' +
+      '<div class="result-name">' + esc(d.name) + '</div>' +
+      '<div class="result-meta">' + esc(d.manufacturer_display) +
+      ' <span class="cat-pill">' + esc(d.category_display) + '</span></div>' +
+      '</div>';
+  }).join('');
+}
+
+function refreshList() {
+  showResults(currentResults, mode === 'browse' ? 'browse' : 'search');
+}
+
+// Browse tree
+var DOMAIN_ORDER  = ['neurovascular', 'spine', 'cranial', 'other'];
+var DOMAIN_LABELS = {
+  neurovascular: 'Neurovascular',
+  spine: 'Spine',
+  cranial: 'Cranial',
+  other: 'Other'
+};
+
+function catDisplay(cat) {
+  var SPECIAL = { csf:'CSF', si:'SI', vrd:'VRD', tlif:'TLIF',
+                  llif:'LLIF', alif:'ALIF', acdf:'ACDF' };
+  return cat.split('-').map(function(w) {
+    return SPECIAL[w] || (w.charAt(0).toUpperCase() + w.slice(1));
+  }).join(' ');
+}
+
+function buildBrowseTree() {
+  var tree = document.getElementById('browse-tree');
+  tree.innerHTML = DOMAIN_ORDER.map(function(domain) {
+    var cats = [];
+    CATALOG.forEach(function(d) {
+      if (d.domain === domain && cats.indexOf(d.category) === -1)
+        cats.push(d.category);
+    });
+    cats.sort();
+    if (!cats.length) return '';
+    var rows = cats.map(function(cat) {
+      var count = CATALOG.filter(function(d) { return d.category === cat; }).length;
+      return '<div class="cat-row' + (activeCategory === cat ? ' active' : '') +
+        '" onclick="selectCategory(\'' + domain + '\',\'' + cat + '\')">' +
+        '<span>' + catDisplay(cat) + '</span>' +
+        '<span class="cat-count">' + count + '</span></div>';
+    }).join('');
+    var isExp = activeDomain === domain;
+    return '<div>' +
+      '<div class="domain-header' + (isExp ? ' expanded' : '') +
+      '" id="dh-' + domain + '" onclick="toggleDomain(\'' + domain + '\')">' +
+      '<span>' + DOMAIN_LABELS[domain] + '</span>' +
+      '<span>' + (isExp ? '&#9660;' : '&#9658;') + '</span></div>' +
+      '<div class="domain-cats' + (isExp ? ' open' : '') +
+      '" id="dc-' + domain + '">' + rows + '</div></div>';
+  }).join('');
+}
+
+function toggleDomain(domain) {
+  var cats = document.getElementById('dc-' + domain);
+  if (!cats) return;
+  var opening = !cats.classList.contains('open');
+  DOMAIN_ORDER.forEach(function(d) {
+    var c = document.getElementById('dc-' + d);
+    var h = document.getElementById('dh-' + d);
+    if (c) c.classList.remove('open');
+    if (h) {
+      h.classList.remove('expanded');
+      var arr = h.querySelector('span:last-child');
+      if (arr) arr.innerHTML = '&#9658;';
+    }
+  });
+  if (opening) {
+    activeDomain   = domain;
+    activeCategory = null;
+    buildBrowseTree();
+    var c2 = document.getElementById('dc-' + domain);
+    var h2 = document.getElementById('dh-' + domain);
+    if (c2) c2.classList.add('open');
+    if (h2) {
+      h2.classList.add('expanded');
+      var arr2 = h2.querySelector('span:last-child');
+      if (arr2) arr2.innerHTML = '&#9660;';
+    }
+    showResults(CATALOG.filter(function(d) { return d.domain === domain; }), 'browse');
+  } else {
+    activeDomain   = null;
+    activeCategory = null;
+    buildBrowseTree();
+    showResults(CATALOG, 'browse');
+  }
+}
+
+function selectCategory(domain, cat) {
+  activeDomain   = domain;
+  activeCategory = cat;
+  buildBrowseTree();
+  var c = document.getElementById('dc-' + domain);
+  var h = document.getElementById('dh-' + domain);
+  if (c) c.classList.add('open');
+  if (h) {
+    h.classList.add('expanded');
+    var arr = h.querySelector('span:last-child');
+    if (arr) arr.innerHTML = '&#9660;';
+  }
+  showResults(CATALOG.filter(function(d) { return d.category === cat; }), 'browse');
+}
+
+// Device detail
+var SECTION_ORDER = [
+  'What It Is','Sizing','Indications','Contraindications',
+  'Compatible With','Use Notes','Key Differences vs Competitors','Also Known As'
+];
+
+function selectDevice(id) {
+  activeDeviceId  = id;
+  compareDeviceId = null;
+  refreshList();
+  document.getElementById('detail-panel-b').style.display = 'none';
+  renderDetail(id, 'detail-panel-a', true);
+}
+
+function renderDetail(id, panelId, showCompareBtn) {
+  var device = CATALOG.find(function(d) { return d.id === id; });
+  var panel  = document.getElementById(panelId);
+  if (!device) { panel.innerHTML = ''; return; }
+
+  var ordered = SECTION_ORDER.filter(function(k) { return device.sections[k]; });
+  var extras  = Object.keys(device.sections).filter(function(k) {
+    return SECTION_ORDER.indexOf(k) === -1;
+  });
+
+  var sectionsHtml = ordered.concat(extras).map(function(label) {
+    var content = device.sections[label];
+    if (label === 'Also Known As') {
+      var inner = device.aliases.length
+        ? device.aliases.map(function(a) {
+            return '<span class="aka-tag">' + esc(a) + '</span>';
+          }).join('')
+        : marked.parse(content);
+      return '<div class="section-block">' +
+        '<div class="section-label">' + esc(label) + '</div>' +
+        '<div class="section-content"><div class="aka-tags">' + inner + '</div></div>' +
+        '</div>';
+    }
+    return '<div class="section-block">' +
+      '<div class="section-label">' + esc(label) + '</div>' +
+      '<div class="section-content">' + marked.parse(content) + '</div>' +
+      '</div>';
+  }).join('');
+
+  var actionHtml = showCompareBtn
+    ? '<button class="compare-btn" onclick="openCompareSearch()">&#8596; Compare with...</button>' +
+      '<div class="compare-search-wrap" id="compare-search-wrap">' +
+      '<input class="compare-search-input" id="compare-search-input"' +
+      ' placeholder="Search for second device..." oninput="onCompareSearch(event)">' +
+      '<div class="compare-dropdown" id="compare-dropdown"></div></div>'
+    : '<button class="exit-compare-btn" onclick="exitComparison()">&#10005; Exit comparison</button>';
+
+  panel.innerHTML =
+    '<div class="device-header">' +
+    '<div class="device-category-label">' +
+    esc(catDisplay(device.category)) + ' &middot; ' +
+    esc(device.manufacturer_display.toUpperCase()) + '</div>' +
+    '<div class="device-name">' + esc(device.name) + '</div>' +
+    '<div class="device-mfr">' + esc(device.manufacturer_display) + '</div>' +
+    '<div>' + actionHtml + '</div>' +
+    '</div>' + sectionsHtml;
+}
+
+// Comparison
+function openCompareSearch() {
+  var wrap = document.getElementById('compare-search-wrap');
+  if (wrap) { wrap.style.display = 'block'; }
+  var inp = document.getElementById('compare-search-input');
+  if (inp) { inp.focus(); }
+}
+
+function onCompareSearch(e) {
+  var q = e.target.value.trim();
+  var dd = document.getElementById('compare-dropdown');
+  if (!dd) return;
+  if (!q) { dd.innerHTML = ''; return; }
+  var results = fuse.search(q).slice(0, 8)
+    .map(function(r) { return r.item; })
+    .filter(function(d) { return d.id !== activeDeviceId; });
+  dd.innerHTML = results.map(function(d) {
+    return '<div class="compare-option" onclick="selectCompareDevice(\'' +
+      d.id.replace(/'/g, "\\'") + '\')">' +
+      '<div class="co-name">' + esc(d.name) + '</div>' +
+      '<div class="co-meta">' + esc(d.manufacturer_display) + ' &middot; ' +
+      esc(catDisplay(d.category)) + '</div></div>';
+  }).join('');
+}
+
+function selectCompareDevice(id) {
+  compareDeviceId = id;
+  document.getElementById('detail-panel-b').style.display = 'block';
+  renderDetail(activeDeviceId,  'detail-panel-a', false);
+  renderDetail(compareDeviceId, 'detail-panel-b', false);
+}
+
+function exitComparison() {
+  compareDeviceId = null;
+  document.getElementById('detail-panel-b').style.display = 'none';
+  renderDetail(activeDeviceId, 'detail-panel-a', true);
+}
+
+// Utils
+function esc(str) {
+  return String(str)
+    .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+    .replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+}
+</script>
+</body>
+</html>
