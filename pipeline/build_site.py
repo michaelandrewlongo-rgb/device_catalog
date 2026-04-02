@@ -73,3 +73,62 @@ def _parse_aliases(text: str) -> list[str]:
         ]
     flat = stripped.replace("\n", ", ")
     return [a.strip() for a in flat.split(",") if a.strip()]
+
+
+_SPECIAL_WORDS: dict[str, str] = {
+    "csf": "CSF",
+    "si":  "SI",
+    "vrd": "VRD",
+    "tlif": "TLIF",
+    "llif": "LLIF",
+    "alif": "ALIF",
+    "acdf": "ACDF",
+    "nbca": "NBCA",
+    "llc":  "LLC",
+    "inc":  "Inc",
+    "ltd":  "Ltd",
+    "co":   "Co",
+}
+
+
+def slug_to_title(slug: str) -> str:
+    """Convert 'flow-diverter' -> 'Flow Diverter', 'csf-shunt' -> 'CSF Shunt'."""
+    return " ".join(
+        _SPECIAL_WORDS.get(w, w.title()) for w in slug.split("-")
+    )
+
+
+DOMAIN_MAP: dict[str, str] = {
+    "flow-diverter":          "neurovascular",
+    "microcatheter":          "neurovascular",
+    "aspiration":             "neurovascular",
+    "aspiration-catheter":    "neurovascular",
+    "distal-access":          "neurovascular",
+    "embolic-coil":           "neurovascular",
+    "intracranial-stent":     "neurovascular",
+    "stent-retriever":        "neurovascular",
+    "thrombectomy":           "neurovascular",
+    "intrasaccular":          "neurovascular",
+    "liquid-embolic":         "neurovascular",
+    "balloon-catheter":       "neurovascular",
+    "balloon-guide-catheter": "neurovascular",
+    "guidewire":              "neurovascular",
+    "guiding-catheter":       "neurovascular",
+    "delivery-catheter":      "neurovascular",
+    "pedicle-screw":          "spine",
+    "interbody-cage":         "spine",
+    "cervical-cage":          "spine",
+    "cervical-plate":         "spine",
+    "corpectomy":             "spine",
+    "sacroiliac-fusion":      "spine",
+    "cervical-disc":          "spine",
+    "csf-shunt":              "cranial",
+    "dural-sealant":          "cranial",
+    "dural-substitute":       "cranial",
+    "navigation":             "cranial",
+}
+
+
+def map_domain(category: str) -> str:
+    """Return the top-level clinical domain for a device category slug."""
+    return DOMAIN_MAP.get(category, "other")

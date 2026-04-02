@@ -91,3 +91,50 @@ def test_parse_markdown_section_content_stripped():
     content = "# D\n\n## What It Is\n\n\nText with leading blank.\n\n"
     _, sections, _ = parse_markdown(content)
     assert sections["What It Is"] == "Text with leading blank."
+
+
+from pipeline.build_site import slug_to_title, map_domain
+
+
+def test_slug_to_title_simple():
+    assert slug_to_title("flow-diverter") == "Flow Diverter"
+
+
+def test_slug_to_title_special_abbreviations():
+    assert slug_to_title("csf-shunt") == "CSF Shunt"
+    assert slug_to_title("sacroiliac-fusion") == "Sacroiliac Fusion"
+
+
+def test_slug_to_title_manufacturer_with_inc():
+    assert slug_to_title("imperative-care-inc") == "Imperative Care Inc"
+
+
+def test_slug_to_title_single_word():
+    assert slug_to_title("medtronic") == "Medtronic"
+
+
+def test_map_domain_neurovascular():
+    for cat in ["flow-diverter", "microcatheter", "aspiration", "distal-access",
+                "embolic-coil", "intracranial-stent", "stent-retriever",
+                "thrombectomy", "intrasaccular", "liquid-embolic",
+                "balloon-catheter", "balloon-guide-catheter",
+                "guidewire", "guiding-catheter", "delivery-catheter",
+                "aspiration-catheter"]:
+        assert map_domain(cat) == "neurovascular", f"Expected neurovascular for {cat}"
+
+
+def test_map_domain_spine():
+    for cat in ["pedicle-screw", "interbody-cage", "cervical-cage",
+                "cervical-plate", "corpectomy", "sacroiliac-fusion", "cervical-disc"]:
+        assert map_domain(cat) == "spine", f"Expected spine for {cat}"
+
+
+def test_map_domain_cranial():
+    for cat in ["csf-shunt", "dural-sealant", "dural-substitute", "navigation"]:
+        assert map_domain(cat) == "cranial", f"Expected cranial for {cat}"
+
+
+def test_map_domain_other_for_unknown():
+    assert map_domain("unknown") == "other"
+    assert map_domain("accessory") == "other"
+    assert map_domain("not-a-real-category") == "other"
