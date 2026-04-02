@@ -177,8 +177,21 @@ def load_devices(catalog_root: Path) -> list[dict]:
             "category_display": slug_to_title(meta["category"]),
             "aliases": aliases,
             "sections": sections,
+            "image": find_device_image(meta["id"], catalog_root),
         })
     return devices
+
+
+def find_device_image(device_id: str, catalog_root: Path) -> "str | None":
+    """Return 'images/{device_id}.{ext}' if image exists in site/images/, else None.
+
+    The returned path is relative to the site/ directory, suitable for HTML src.
+    """
+    images_dir = catalog_root / "site" / "images"
+    for ext in (".jpg", ".jpeg", ".png", ".webp"):
+        if (images_dir / f"{device_id}{ext}").exists():
+            return f"images/{device_id}{ext}"
+    return None
 
 
 def main() -> None:

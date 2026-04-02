@@ -140,7 +140,7 @@ def test_map_domain_other_for_unknown():
     assert map_domain("not-a-real-category") == "other"
 
 
-from pipeline.build_site import load_devices
+from pipeline.build_site import find_device_image, load_devices
 
 
 def test_load_devices_basic(tmp_path):
@@ -200,6 +200,110 @@ def test_parse_aliases_grouped_bold_headers():
         assert not a.startswith("*"), f"Raw markdown in alias: {a!r}"
     # Should have extracted the actual device name aliases
     assert "Excelsior SL-10" in aliases or "SL-10" in aliases
+
+
+import json as _json_module
+
+
+def test_find_device_image_jpg(tmp_path):
+    images_dir = tmp_path / "site" / "images"
+    images_dir.mkdir(parents=True)
+    (images_dir / "flow-diverter--medtronic--pipeline-flex.jpg").write_bytes(b"")
+    result = find_device_image("flow-diverter--medtronic--pipeline-flex", tmp_path)
+    assert result == "images/flow-diverter--medtronic--pipeline-flex.jpg"
+
+
+def test_find_device_image_webp(tmp_path):
+    images_dir = tmp_path / "site" / "images"
+    images_dir.mkdir(parents=True)
+    (images_dir / "aspiration--balt--ballast.webp").write_bytes(b"")
+    result = find_device_image("aspiration--balt--ballast", tmp_path)
+    assert result == "images/aspiration--balt--ballast.webp"
+
+
+def test_find_device_image_none_when_missing(tmp_path):
+    (tmp_path / "site" / "images").mkdir(parents=True)
+    assert find_device_image("does--not--exist--device", tmp_path) is None
+
+
+def test_find_device_image_none_when_no_images_dir(tmp_path):
+    # site/images does not exist at all -- must not raise
+    assert find_device_image("any--device--id", tmp_path) is None
+
+
+def test_load_devices_image_field_is_none_when_no_file(tmp_path):
+    (tmp_path / "flow-diverter--medtronic--pipeline-flex--knowledge.md").write_text(
+        "# Pipeline Flex\n\n## What It Is\n\nFlow diverter.", encoding="utf-8"
+    )
+    devices = load_devices(tmp_path)
+    assert len(devices) == 1
+    assert "image" in devices[0]
+    assert devices[0]["image"] is None
+
+
+def test_load_devices_image_field_populated_when_file_present(tmp_path):
+    (tmp_path / "flow-diverter--medtronic--pipeline-flex--knowledge.md").write_text(
+        "# Pipeline Flex\n\n## What It Is\n\nFlow diverter.", encoding="utf-8"
+    )
+    images_dir = tmp_path / "site" / "images"
+    images_dir.mkdir(parents=True)
+    (images_dir / "flow-diverter--medtronic--pipeline-flex.jpg").write_bytes(b"")
+    devices = load_devices(tmp_path)
+    assert devices[0]["image"] == "images/flow-diverter--medtronic--pipeline-flex.jpg"
+
+
+def test_build_output_contains_image_path_in_catalog_json(tmp_path):
+    """Image path appears in the embedded CATALOG JSON of the built HTML."""
+    (tmp_path / "flow-diverter--medtronic--pipeline-flex--knowledge.md").write_text(
+        "# Pipeline Flex\n\n## What It Is\n\nFlow diverter.", encoding="utf-8"
+    )
+    images_dir = tmp_path / "site" / "images"
+    images_dir.mkdir(parents=True)
+    (images_dir / "flow-diverter--medtronic--pipeline-flex.jpg").write_bytes(b"fake")
+
+    template_path = Path(__file__).parent.parent / "pipeline" / "site_template.html"
+    template = template_path.read_text(encoding="utf-8")
+
+    devices = load_devices(tmp_path)
+    catalog_json = _json_module.dumps(devices, ensure_ascii=False)
+    html = template.replace("__CATALOG_DATA__", catalog_json)
+
+    assert '"image": "images/flow-diverter--medtronic--pipeline-flex.jpg"' in html
+
+
+def test_build_output_image_null_when_no_image_file(tmp_path):
+    """image field is null in CATALOG JSON for devices without a downloaded image."""
+    (tmp_path / "flow-diverter--medtronic--pipeline-flex--knowledge.md").write_text(
+        "# Pipeline Flex\n\n## What It Is\n\nFlow diverter.", encoding="utf-8"
+    )
+    (tmp_path / "site" / "images").mkdir(parents=True)
+
+    template_path = Path(__file__).parent.parent / "pipeline" / "site_template.html"
+    template = template_path.read_text(encoding="utf-8")
+
+    devices = load_devices(tmp_path)
+    catalog_json = _json_module.dumps(devices, ensure_ascii=False)
+    html = template.replace("__CATALOG_DATA__", catalog_json)
+
+    assert '"image": null' in html
+    assert "flow-diverter--medtronic--pipeline-flex.jpg" not in html
+
+
+def test_build_output_template_renders_device_image_js(tmp_path):
+    """The built HTML includes the JS that conditionally renders device.image."""
+    (tmp_path / "flow-diverter--medtronic--pipeline-flex--knowledge.md").write_text(
+        "# Pipeline Flex\n\n## What It Is\n\nFlow diverter.", encoding="utf-8"
+    )
+    (tmp_path / "site" / "images").mkdir(parents=True)
+
+    template_path = Path(__file__).parent.parent / "pipeline" / "site_template.html"
+    template = template_path.read_text(encoding="utf-8")
+
+    devices = load_devices(tmp_path)
+    html = template.replace("__CATALOG_DATA__", _json_module.dumps(devices))
+
+    assert "device.image" in html
+    assert "device-image-wrap" in html
 
 
 import subprocess
