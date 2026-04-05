@@ -11,7 +11,6 @@ from ..config import (
     PMA_NUMBERS,
     DATA_DIR,
     EXISTING_DEVICES,
-    normalize_manufacturer,
 )
 
 console = Console()

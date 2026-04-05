@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 *.pyo
 .venv/
+.pytest_cache/
 
 # Pipeline intermediate data (regenerable)
 pipeline/data/merged/
@@ -20,3 +21,6 @@ pipeline/data/extracted/skipped.json
 # OS
 Thumbs.db
 .DS_Store
+site/
+!site/images/
+!site/images/**

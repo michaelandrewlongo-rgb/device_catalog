@@ -10,7 +10,6 @@ for any missing data. Only replaces the exact competitor comparison placeholder.
 from __future__ import annotations
 
 import logging
-import re
 import time
 from collections import defaultdict
 from pathlib import Path

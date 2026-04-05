@@ -1,7 +1,5 @@
 """Scrape 510(k) clearances from openFDA and normalize to FDADeviceRecords."""
 
-import json
-from pathlib import Path
 from slugify import slugify
 import sys
 import io

@@ -2,6 +2,23 @@
 
 ## Current Priority Order
 
+### 0. Prototype — user-facing catalog viewer
+Status: **In progress** (image pipeline added 2026-04-02)
+
+- Static HTML prototype built on branch `feat/catalog-prototype`
+- Split-panel layout: search + browse (domain tree) on left, device detail + comparison on right
+- Build: `python pipeline/build_site.py` → `site/index.html` (opens in any browser, no server needed)
+- 213 root-level curated devices loaded; Fuse.js fuzzy search; marked.js markdown rendering
+
+#### Image pipeline (partial — paused 2026-04-02)
+- `pipeline/fetch_images.py` — fetches og:image from manufacturer pages, saves to `site/images/`
+- Template updated: images render in device detail panel with onerror fallback
+- 4 images downloaded: Balt aspiration (ballast, carrier, hybrid, raptor) as .webp
+- **Blocked:** Medtronic CDN requires real browser — Chrome MCP bridge approach needed
+  - og:image URLs extracted and documented in STATE.md, ready to resume
+- **Next step:** Resume Medtronic download, then run full catalog pass
+- After images complete: merge to main
+
 ### 1. Clean FDA boilerplate in newly promoted files
 Status: **Ready**
 
@@ -23,14 +40,7 @@ Remaining pool:
 - Next batch should target 4+ field candidates in underrepresented categories
 
 ### 3. Fill remaining content gaps
-Status: **Partially Complete** (30 gaps remain in 23 files)
-
-Remaining gaps by type:
-- 8 alternate names (no source data available)
-- 8 sizing/specs (need IFU documents)
-- 5 use notes (need IFU/technique guides)
-- 3 indications (need FDA data)
-- 6 other (compatible with, contraindications)
+Status: **Partially Complete** (48 gaps remain in 38 files)
 
 Gap-fill engine is operational but remaining gaps lack source data.
 
@@ -64,7 +74,7 @@ Status: **Blocked** (429 rate limits)
 ### 7. Improve data quality metrics
 Status: **Partially addressed**
 
-Current section fill rates (174 curated files):
+Current section fill rates (213 curated files):
 - What It Is: 98%
 - Indications: 97%
 - Also Known As: 86%

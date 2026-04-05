@@ -10,11 +10,10 @@ Usage:
 import argparse
 import asyncio
 import json
-from pathlib import Path
 
 from rich.console import Console
 
-from .config import PRODUCT_CODE_MAP, DATA_DIR
+from .config import DATA_DIR
 from .fda.scraper_510k import scrape_510k_all, print_discovery_report
 from .fda.scraper_pma import scrape_pma_all, print_pma_report
 from .fda.pdf_downloader import download_fda_pdfs

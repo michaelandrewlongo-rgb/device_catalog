@@ -8,7 +8,6 @@ from rich.console import Console
 
 from ..fda.models import FDADeviceRecord
 from ..scrapers.base import ScrapedProduct
-from ..config import DATA_DIR
 
 console = Console()
 
