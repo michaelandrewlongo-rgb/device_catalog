@@ -1,7 +1,6 @@
 """Abstract base class for manufacturer website scrapers."""
 
 import asyncio
-import functools
 import io
 import json
 import re
@@ -10,8 +9,7 @@ import warnings
 import xml.etree.ElementTree as ET
 from abc import ABC, abstractmethod
 from html import unescape
-from pathlib import Path
-from typing import Any, Iterable
+from typing import Iterable
 from urllib.parse import urldefrag, urljoin, urlparse
 
 from pydantic import BaseModel, Field

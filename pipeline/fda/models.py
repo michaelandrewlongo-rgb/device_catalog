@@ -1,6 +1,6 @@
 """Pydantic models for FDA device records."""
 
-from pydantic import BaseModel, Field
+from pydantic import BaseModel
 
 
 class FDA510kRecord(BaseModel):

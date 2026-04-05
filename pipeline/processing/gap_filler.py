@@ -13,11 +13,9 @@ from __future__ import annotations
 import json
 import logging
 import re
-from pathlib import Path
 
 from ..config import CATALOG_ROOT, DATA_DIR
 from ..extraction.enricher import (
-    CONTENT_FIELDS,
     gather_sources,
     resolve_field,
 )
