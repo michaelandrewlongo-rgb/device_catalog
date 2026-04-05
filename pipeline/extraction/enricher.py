@@ -249,6 +249,47 @@ def manufacturer_matches(our_mfr: str, external_co: str) -> bool:
     return False
 
 
+_evtoday_cache: list[dict] | None = None
+_nspr_cache: list[dict] | None = None
+
+
+def _load_evtoday_entries() -> list[dict]:
+    """Load all EVToday device entries once into memory."""
+    global _evtoday_cache
+    if _evtoday_cache is not None:
+        return _evtoday_cache
+    evtoday_dir = EXTRACTED_DIR / "evtoday"
+    if not evtoday_dir.exists():
+        _evtoday_cache = []
+        return _evtoday_cache
+    entries = []
+    for cat_file in evtoday_dir.glob("*.json"):
+        data = json.loads(cat_file.read_text(encoding="utf-8"))
+        entries.extend(data.get("devices", []))
+    _evtoday_cache = entries
+    logger.info("  Loaded %d EVToday entries into cache", len(entries))
+    return _evtoday_cache
+
+
+def _load_nspr_details() -> list[dict]:
+    """Load all NSPR detail pages once into memory."""
+    global _nspr_cache
+    if _nspr_cache is not None:
+        return _nspr_cache
+    nspr_dir = EXTRACTED_DIR / "nspr"
+    if not nspr_dir.exists():
+        _nspr_cache = []
+        return _nspr_cache
+    details = []
+    for f in nspr_dir.glob("*.json"):
+        if f.name.startswith("_") or f.name == "pdfs_index.json":
+            continue
+        details.append(json.loads(f.read_text(encoding="utf-8")))
+    _nspr_cache = details
+    logger.info("  Loaded %d NSPR details into cache", len(details))
+    return _nspr_cache
+
+
 def find_evtoday_match(stem: str, merged: dict) -> dict | None:
     """Find matching EVToday device entry.
 
@@ -256,8 +297,8 @@ def find_evtoday_match(stem: str, merged: dict) -> dict | None:
     cross-category false positives (e.g., aspiration catheter matching
     a balloon catheter entry on generic words like 'system').
     """
-    evtoday_dir = EXTRACTED_DIR / "evtoday"
-    if not evtoday_dir.exists():
+    entries = _load_evtoday_entries()
+    if not entries:
         return None
 
     device_name = (merged.get("device_name") or "").lower()
@@ -273,24 +314,22 @@ def find_evtoday_match(stem: str, merged: dict) -> dict | None:
     best_match = None
     best_score = 0
 
-    for cat_file in evtoday_dir.glob("*.json"):
-        data = json.loads(cat_file.read_text(encoding="utf-8"))
-        for entry in data.get("devices", []):
-            entry_name = (entry.get("Product Name") or "").lower()
-            entry_co = (entry.get("Company Name") or "").lower()
+    for entry in entries:
+        entry_name = (entry.get("Product Name") or "").lower()
+        entry_co = (entry.get("Company Name") or "").lower()
 
-            # Require manufacturer match
-            if not manufacturer_matches(manufacturer, entry_co):
-                continue
+        # Require manufacturer match
+        if not manufacturer_matches(manufacturer, entry_co):
+            continue
 
-            # Score by meaningful word overlap (excluding stop words)
-            name_words = set(device_name.split()) - stop_words
-            entry_words = set(entry_name.split()) - stop_words
-            overlap = len(name_words & entry_words)
+        # Score by meaningful word overlap (excluding stop words)
+        name_words = set(device_name.split()) - stop_words
+        entry_words = set(entry_name.split()) - stop_words
+        overlap = len(name_words & entry_words)
 
-            if overlap >= 2 and overlap > best_score:
-                best_score = overlap
-                best_match = entry
+        if overlap >= 2 and overlap > best_score:
+            best_score = overlap
+            best_match = entry
 
     if best_match:
         return {"fields": map_evtoday(best_match)}
@@ -302,8 +341,8 @@ def find_nspr_match(stem: str, merged: dict) -> dict | None:
 
     Requires manufacturer match plus product name similarity.
     """
-    nspr_dir = EXTRACTED_DIR / "nspr"
-    if not nspr_dir.exists():
+    details = _load_nspr_details()
+    if not details:
         return None
 
     device_name = (merged.get("device_name") or "").lower()
@@ -318,10 +357,7 @@ def find_nspr_match(stem: str, merged: dict) -> dict | None:
     best_match = None
     best_score = 0
 
-    for f in nspr_dir.glob("*.json"):
-        if f.name.startswith("_") or f.name == "pdfs_index.json":
-            continue
-        data = json.loads(f.read_text(encoding="utf-8"))
+    for data in details:
         nspr_name = (data.get("device_name") or data.get("name") or "").lower()
         nspr_co = (data.get("manufacturer") or data.get("company") or "").lower()
 
