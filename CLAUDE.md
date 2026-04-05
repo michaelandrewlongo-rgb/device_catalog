@@ -88,14 +88,13 @@ Non-goals:
 
 ## Current Catalog Snapshot
 
-Last verified snapshot: 2026-04-01.
-- 174 curated knowledge files (22 categories, 31 manufacturers)
-- 107 scraped-only devices
-- 281 total indexed devices
-- 22 curated categories, strongest: embolic-coil (22), microcatheter (22), distal-access (18), pedicle-screw (14), aspiration (13), thrombectomy (12)
+Last verified snapshot: 2026-04-04.
+- 213 curated knowledge files (22 categories, 40 manufacturers)
+- 104 scraped-only devices
+- 317 total indexed devices
+- 22 curated categories, strongest: microcatheter (30), embolic-coil (29), aspiration (22), distal-access (21), thrombectomy (17), pedicle-screw (14)
 - Two clinical domains: spine (pedicle screws, cages, plates, corpectomy, SI fusion, navigation, disc replacement) and neurovascular/interventional (flow diverters, stent retrievers, aspiration, coils, liquid embolics, microcatheters, intracranial stents, shunts, thrombectomy, guidewires)
-- Section fill: What It Is 98%, Indications 97%, Also Known As 86%, Sizing 82%, Use Notes 79%, Key Differences 71%, Compatible With 46%, Contraindications 30%
-- 23 files still have [NEEDS CONTENT] gaps (30 total instances)
+- 38 files still have [NEEDS CONTENT] gaps (48 total instances)
 
 Pipeline inputs include openFDA 510(k)/PMA APIs (281 summaries, 245 UDI, 592 recalls), manufacturer scraping (9 scrapers, 163 products), Chrome MCP for gated sites, EVToday device guide (301 neuro devices), NeuroSpine Product Review (103 detail pages, 84 technique guide PDFs extracted), and Marker+DeepSeek document extraction (175 PDFs total: 84 NSPR + 80 catalog + 11 FDA).
 
