@@ -67,7 +67,7 @@ The repository is succeeding when:
 
 Move the catalog from “many partially captured products” to “materially useful device reference.”
 
-Progress as of 2026-04-01: catalog at 174 curated knowledge files across 22 categories and 31 manufacturers. 281 total indexed devices. Extraction pipeline harvests from 6 sources (FDA APIs, manufacturer scrapers, EVToday, NSPR, Marker PDF extraction, DeepSeek synthesis).
+Progress as of 2026-04-04: catalog at 213 curated knowledge files across 22 categories and 40 manufacturers. 317 total indexed devices. Extraction pipeline harvests from 6 sources (FDA APIs, manufacturer scrapers, EVToday, NSPR, Marker PDF extraction, DeepSeek synthesis).
 
 Completed (2026-03-30 -- 2026-04-01):
 - Extraction pipeline built: three-tier (FDA/EVToday/NSPR -> Marker+DeepSeek -> multi-source synthesis)
@@ -78,7 +78,7 @@ Completed (2026-03-30 -- 2026-04-01):
 - Knowledge rewriter: FDA boilerplate cleanup (14 sections cleaned)
 - 30 devices promoted in latest batch (thrombectomy, CSF shunts, dural substitutes, microcatheters, aspiration, distal access, embolic coils, flow diverter, interbody cage, cervical plate)
 - Section fill improved: What It Is 98%, Sizing 82%, Key Differences 71%, Also Known As 86%
-- [NEEDS CONTENT] reduced from 90 to 30 instances (67% reduction)
+- [NEEDS CONTENT] reduced from 90 to 48 instances (47% reduction)
 - Pipeline reliability fixes: DeepSeek timeout/token limits, Marker LLM hang fix, truncated JSON repair
 
 The next stage is:

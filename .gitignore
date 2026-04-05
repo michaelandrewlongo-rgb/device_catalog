@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 *.pyo
 .venv/
+.pytest_cache/
 
 # Pipeline intermediate data (regenerable)
 pipeline/data/merged/
