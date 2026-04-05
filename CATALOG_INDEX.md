@@ -1,24 +1,24 @@
 # Device Catalog Index
 
 Generated: 2026-04-01  
-Total devices: **281** (174 curated, 107 scraped-only)
+Total devices: **317** (213 curated, 104 scraped-only)
 
 ## Coverage Summary
 
 | Source | Count |
 |--------|-------|
-| Curated knowledge files | 174 |
-| Scraped-only (not yet curated) | 107 |
-| **Total** | **281** |
+| Curated knowledge files | 213 |
+| Scraped-only (not yet curated) | 104 |
+| **Total** | **317** |
 
 ## By Category
 
 | Category | Curated | Scraped | Total |
 |----------|---------|---------|-------|
 | accessory | 0 | 2 | 2 |
-| aspiration | 13 | 2 | 15 |
+| aspiration | 22 | 2 | 24 |
 | aspiration-catheter | 0 | 1 | 1 |
-| balloon-catheter | 3 | 1 | 4 |
+| balloon-catheter | 5 | 1 | 6 |
 | balloon-guide-catheter | 0 | 1 | 1 |
 | cervical-cage | 4 | 6 | 10 |
 | cervical-disc | 2 | 0 | 2 |
@@ -26,23 +26,23 @@ Total devices: **281** (174 curated, 107 scraped-only)
 | corpectomy | 3 | 1 | 4 |
 | csf-shunt | 9 | 0 | 9 |
 | delivery-catheter | 0 | 1 | 1 |
-| distal-access | 18 | 8 | 26 |
+| distal-access | 21 | 7 | 28 |
 | dural-sealant | 1 | 0 | 1 |
 | dural-substitute | 3 | 0 | 3 |
-| embolic-coil | 22 | 14 | 36 |
+| embolic-coil | 29 | 14 | 43 |
 | flow-diverter | 5 | 4 | 9 |
-| guidewire | 7 | 6 | 13 |
+| guidewire | 11 | 6 | 17 |
 | guiding-catheter | 0 | 1 | 1 |
 | interbody-cage | 7 | 9 | 16 |
-| intracranial-stent | 6 | 4 | 10 |
+| intracranial-stent | 7 | 3 | 10 |
 | intrasaccular | 1 | 1 | 2 |
 | liquid-embolic | 5 | 0 | 5 |
-| microcatheter | 22 | 7 | 29 |
+| microcatheter | 30 | 7 | 37 |
 | navigation | 7 | 0 | 7 |
 | pedicle-screw | 14 | 6 | 20 |
 | sacroiliac-fusion | 6 | 3 | 9 |
 | stent-retriever | 0 | 1 | 1 |
-| thrombectomy | 12 | 1 | 13 |
+| thrombectomy | 17 | 0 | 17 |
 | unknown | 0 | 24 | 24 |
 
 ## By Manufacturer
@@ -50,8 +50,8 @@ Total devices: **281** (174 curated, 107 scraped-only)
 | Manufacturer | Curated | Scraped | Total |
 |--------------|---------|---------|-------|
 | aesculap-inc | 2 | 0 | 2 |
-| asahi-intecc-co-ltd | 2 | 0 | 2 |
-| balt | 11 | 13 | 24 |
+| asahi-intecc-co-ltd | 6 | 0 | 6 |
+| balt | 12 | 13 | 25 |
 | boston-scientific | 1 | 0 | 1 |
 | cerenovus | 17 | 1 | 18 |
 | choicespine | 1 | 0 | 1 |
@@ -62,8 +62,9 @@ Total devices: **281** (174 curated, 107 scraped-only)
 | globus | 9 | 9 | 18 |
 | integra | 2 | 5 | 7 |
 | kaneka-pharma-america-llc | 1 | 0 | 1 |
-| medtronic | 34 | 11 | 45 |
-| microvention | 15 | 27 | 42 |
+| marblehead-medical | 1 | 0 | 1 |
+| medtronic | 38 | 11 | 49 |
+| microvention | 17 | 27 | 44 |
 | miethke | 3 | 0 | 3 |
 | mivi-neuroscience-inc | 1 | 0 | 1 |
 | neo-medical | 1 | 0 | 1 |
@@ -71,15 +72,23 @@ Total devices: **281** (174 curated, 107 scraped-only)
 | nurami-medical-ltd | 1 | 0 | 1 |
 | nuvasive | 2 | 0 | 2 |
 | osimplant | 1 | 0 | 1 |
-| penumbra | 11 | 7 | 18 |
-| perfuze-ltd | 1 | 0 | 1 |
+| penumbra | 14 | 7 | 21 |
+| perfuze-ltd | 2 | 0 | 2 |
 | phasor-health-llc | 1 | 0 | 1 |
+| phenox | 1 | 0 | 1 |
+| piraeus-medical | 2 | 0 | 2 |
 | q-apel-medical-inc | 1 | 0 | 1 |
-| rapid-medical | 1 | 0 | 1 |
-| scientia-vascular-inc | 2 | 0 | 2 |
+| rapid-medical | 2 | 0 | 2 |
+| route-92-medical-inc | 2 | 0 | 2 |
+| scientia-vascular-inc | 3 | 0 | 3 |
 | si-bone | 6 | 2 | 8 |
 | spartan-micro-inc | 1 | 0 | 1 |
-| stryker | 34 | 32 | 66 |
+| stryker | 44 | 29 | 73 |
+| toro-neurovascular-inc | 1 | 0 | 1 |
+| unity-medical-inc | 1 | 0 | 1 |
+| vesalio-inc | 1 | 0 | 1 |
+| wallaby-medical | 2 | 0 | 2 |
+| wallaby-medical-inc | 1 | 0 | 1 |
 
 ## Full Device List
 
@@ -100,13 +109,22 @@ Total devices: **281** (174 curated, 107 scraped-only)
 | raptor | balt | curated | 5/7 | -- |
 | apro-aspiration-catheter | medtronic | curated | 5/7 | -- |
 | react-aspiration-catheter | medtronic | curated | 6/7 | -- |
+| riptide-aspiration-react-68-catheter | medtronic | curated | 5/7 | -- |
 | riptide-aspiration-system | medtronic | curated | 4/7 | -- |
 | artemis-neuro-evacuation-device | penumbra | curated | 3/7 | -- |
 | penumbra-red-68-reperfusion-catheter | penumbra | curated | 5/7 | -- |
 | penumbra-reperfusion-catheter-red-62 | penumbra | curated | 5/7 | -- |
+| millipede70-aspiration-catheter-perfuze-aspiration | perfuze-ltd | curated | 4/7 | -- |
+| esperance-phlo-aspiration | phenox | curated | 4/7 | -- |
 | 072-aspiration | q-apel-medical-inc | curated | 5/7 | -- |
+| route-92-medical-full-length | route-92-medical-inc | curated | 5/7 | -- |
+| route-92-medical-hipoint-reperfusion | route-92-medical-inc | curated | 5/7 | -- |
 | socrates-aspiration | scientia-vascular-inc | curated | 5/7 | -- |
+| axs-catalyst-7-distal-access | stryker | curated | 5/7 | -- |
+| axs-catalyst-distal-access-catheter | stryker | curated | 4/7 | -- |
 | axs-vecta-aspiration | stryker | curated | 4/7 | -- |
+| nevasc-aspiration | vesalio-inc | curated | 5/7 | -- |
+| esperance-3-aspiration-catheter | wallaby-medical | curated | 5/7 | -- |
 | CAVT | penumbra | scraped | 2/7 | -- |
 | Indigo System CAT RX | penumbra | scraped | 3/7 | -- |
 
@@ -120,7 +138,9 @@ Total devices: **281** (174 curated, 107 scraped-only)
 
 | Device | Manufacturer | Status | Sections | Sources |
 |--------|--------------|--------|----------|---------|
+| branchor-balloon-guide-catheter | asahi-intecc-co-ltd | curated | 4/7 | -- |
 | emboguard-balloon-guide-catheter | cerenovus | curated | 6/7 | -- |
+| boss-balloon-guide-catheter | marblehead-medical | curated | 2/7 | -- |
 | scepter-c-xc | microvention | curated | 5/7 | ifu |
 | scepter-mini | microvention | curated | 5/7 | ifu |
 | Scepter C™ & Scepter XC™ | microvention | scraped | 1/7 | -- |
@@ -215,12 +235,14 @@ Total devices: **281** (174 curated, 107 scraped-only)
 | axs-infinity-ls-r-long-sheath | stryker | curated | 4/7 | -- |
 | axs-offset | stryker | curated | 5/7 | -- |
 | axs-universal-aspiration-set | stryker | curated | 4/7 | -- |
+| axs-vecta-46-intermediate-catheter | stryker | curated | 4/7 | -- |
+| axs-vecta-71-74 | stryker | curated | 3/7 | -- |
 | axs-vecta-71-intermediate-catheter | stryker | curated | 5/7 | -- |
+| esperance-distal-access-catheter | wallaby-medical | curated | 5/7 | -- |
 | SOFIA™ 88 | microvention | scraped | 1/7 | -- |
 | SOFIA™ EX | microvention | scraped | 1/7 | -- |
 | SOFIA™ Plus | microvention | scraped | 1/7 | -- |
 | AXS Infinity LS ® Long Sheath | stryker | scraped | 3/7 | -- |
-| AXS Vecta 71/74 | stryker | scraped | 3/7 | -- |
 | FlowGate 2® | stryker | scraped | 3/7 | -- |
 | Surpass Evolve ® Flow Diverter | stryker | scraped | 3/7 | -- |
 | Trevo Trak ® 21 Microcatheter | stryker | scraped | 3/7 | -- |
@@ -245,6 +267,7 @@ Total devices: **281** (174 curated, 107 scraped-only)
 |--------|--------------|--------|----------|---------|
 | eclipse-2l | balt | curated | 5/7 | -- |
 | optima-coil | balt | curated | 5/7 | -- |
+| optima-coil-optiblock-line-extension | balt | curated | 4/7 | -- |
 | optima-coil-optima-packing-coil | balt | curated | 5/7 | -- |
 | prestige-plus | balt | curated | 5/7 | -- |
 | inzone-detachment | boston-scientific | curated | 3/7 | -- |
@@ -252,8 +275,11 @@ Total devices: **281** (174 curated, 107 scraped-only)
 | orbit-galaxy-g2-microcoil-delivery | cerenovus | curated | 4/7 | -- |
 | i-ed-coil | kaneka-pharma-america-llc | curated | 5/7 | -- |
 | axium-detachable-coil | medtronic | curated | 5/7 | -- |
+| axium-detachable-coil-axium-prime | medtronic | curated | 5/7 | -- |
 | axium-prime-detachable-coil | medtronic | curated | 5/7 | -- |
 | hydrocoil | microvention | curated | 5/7 | 510k |
+| microplex-coil | microvention | curated | 4/7 | -- |
+| microplex-coil-cosmos | microvention | curated | 5/7 | -- |
 | microplex-coil-cosmos-10-hydrocoil | microvention | curated | 3/7 | -- |
 | microplex-coil-mcs | microvention | curated | 6/7 | -- |
 | microplex-coil-mcs-hypersoft-3d | microvention | curated | 4/7 | -- |
@@ -261,10 +287,13 @@ Total devices: **281** (174 curated, 107 scraped-only)
 | penumbra-lp-coil | penumbra | curated | 4/7 | -- |
 | penumbra-smart-coil | penumbra | curated | 4/7 | -- |
 | pod | penumbra | curated | 4/7 | -- |
+| pod-packing-coil | penumbra | curated | 4/7 | -- |
 | ruby-embolization-platform | penumbra | curated | 3/7 | -- |
 | spartan-ecoil | spartan-micro-inc | curated | 3/7 | -- |
 | inzone-detachment | stryker | curated | 3/7 | -- |
+| inzone-ist-detachment-izds-connecting | stryker | curated | 6/7 | -- |
 | target-detachable | stryker | curated | 6/7 | 510k |
+| wallaby-avenir-coil | wallaby-medical-inc | curated | 3/7 | -- |
 | Cosmos™ | microvention | scraped | 1/7 | -- |
 | HydroFill™ | microvention | scraped | 1/7 | -- |
 | HydroFrame™ | microvention | scraped | 1/7 | -- |
@@ -298,13 +327,17 @@ Total devices: **281** (174 curated, 107 scraped-only)
 
 | Device | Manufacturer | Status | Sections | Sources |
 |--------|--------------|--------|----------|---------|
+| asahi-chikai-10-guide-wire | asahi-intecc-co-ltd | curated | 5/7 | -- |
 | asahi-chikai-guide-wire | asahi-intecc-co-ltd | curated | 2/7 | -- |
+| asahi-chikai-guide-wire-round | asahi-intecc-co-ltd | curated | 5/7 | -- |
 | chikai-nexus-014 | asahi-intecc-co-ltd | curated | 5/7 | -- |
+| chikai-nexus-petit | asahi-intecc-co-ltd | curated | 4/7 | -- |
 | hybrid-guidewire | balt | curated | 5/7 | -- |
 | traxcess-007-mini-guidewire | microvention | curated | 4/7 | -- |
 | traxcess-14-guidewire | microvention | curated | 3/7 | -- |
 | traxcess-7-mini-xsoft-guidewire | microvention | curated | 3/7 | -- |
 | synchro-select-guidewire | stryker | curated | 3/7 | -- |
+| transend | stryker | curated | 4/7 | -- |
 | Headliner™ | microvention | scraped | 1/7 | -- |
 | Traxcess™ | microvention | scraped | 1/7 | -- |
 | Traxcess™ Mini | microvention | scraped | 1/7 | -- |
@@ -349,9 +382,9 @@ Total devices: **281** (174 curated, 107 scraped-only)
 | enterprise-vrd | cordis | curated | 5/7 | sspb |
 | lvis | microvention | curated | 5/7 | ifu |
 | neuroform-atlas | stryker | curated | 5/7 | ifu |
+| neuroform-ez | stryker | curated | 4/7 | -- |
 | LVIS™ & LVIS™ Jr | microvention | scraped | 1/7 | -- |
 | LVIS™ EVO™ | microvention | scraped | 1/7 | -- |
-| Neuroform EZ | stryker | scraped | 1/7 | -- |
 | Wingspan Stent System | stryker | scraped | 3/7 | -- |
 
 ### intrasaccular
@@ -386,9 +419,14 @@ Total devices: **281** (174 curated, 107 scraped-only)
 | phenom | medtronic | curated | 5/7 | 510k |
 | phenom-microcatheter | medtronic | curated | 6/7 | -- |
 | headway-duo | microvention | curated | 5/7 | 510k |
+| benchmark-bmx81-access | penumbra | curated | 6/7 | -- |
 | benchmark-bmx96-access | penumbra | curated | 5/7 | -- |
+| benchmark-intracranial-access | penumbra | curated | 5/7 | -- |
 | millipede-088-access-catheter | perfuze-ltd | curated | 5/7 | -- |
+| 87-neuglide-catheter | piraeus-medical | curated | 5/7 | -- |
+| 93-neuflex-catheter | piraeus-medical | curated | 5/7 | -- |
 | plato-17-microcatheter | scientia-vascular-inc | curated | 5/7 | -- |
+| socrates-38-catheter | scientia-vascular-inc | curated | 6/7 | -- |
 | axs-lift-intracranial-base-catheter | stryker | curated | 3/7 | -- |
 | broadway-8-catheter | stryker | curated | 5/7 | -- |
 | echo-intracranial-base-catheter | stryker | curated | 5/7 | -- |
@@ -397,6 +435,9 @@ Total devices: **281** (174 curated, 107 scraped-only)
 | excelsior-sl10 | stryker | curated | 5/7 | 510k |
 | excelsior-xt-17 | stryker | curated | 5/7 | -- |
 | excelsior-xt-27 | stryker | curated | 5/7 | -- |
+| trevo-trak-21-microcatheter | stryker | curated | 6/7 | -- |
+| toro-88-superbore-catheter | toro-neurovascular-inc | curated | 5/7 | -- |
+| versad-delivery-catheter | unity-medical-inc | curated | 4/7 | -- |
 | Gama+ | balt | scraped | 2/7 | -- |
 | Sonic | balt | scraped | 2/7 | -- |
 | VASCO+ | balt | scraped | 2/7 | -- |
@@ -468,17 +509,21 @@ Total devices: **281** (174 curated, 107 scraped-only)
 |--------|--------------|--------|----------|---------|
 | embotrap-iii | cerenovus | curated | 6/7 | -- |
 | embotrap-iii-revascularization-device | cerenovus | curated | 6/7 | -- |
+| solitaire-2-and-solitaire-platinum | medtronic | curated | 5/7 | -- |
 | solitaire-4-revascularization | medtronic | curated | 5/7 | -- |
 | solitaire-platinum-revascularization | medtronic | curated | 5/7 | -- |
+| solitaire-platinum-revascularization-solitaire-x | medtronic | curated | 5/7 | -- |
 | solitaire-x | medtronic | curated | 6/7 | -- |
 | solitaire-x-revascularization-device | medtronic | curated | 6/7 | -- |
 | eric-retrieval | microvention | curated | 5/7 | -- |
 | neuro-thrombectomy-system | penumbra | curated | 4/7 | -- |
 | tigertriever-17-ultra-revascularization | rapid-medical | curated | 5/7 | -- |
+| tigertriever-21-revascularization-tigertriever-17 | rapid-medical | curated | 6/7 | -- |
+| modified-trevo-provue | stryker | curated | 4/7 | -- |
 | trevo-nxt | stryker | curated | 5/7 | 510k |
 | trevo-nxt-provue | stryker | curated | 3/7 | -- |
+| trevo-xp | stryker | curated | 5/7 | -- |
 | trevo-xp-provue | stryker | curated | 3/7 | -- |
-| Trevo XP | stryker | scraped | 2/7 | -- |
 
 ### unknown
 
