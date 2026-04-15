@@ -9,25 +9,23 @@ Adjust glob paths if running from elsewhere.
 - DuckDB's regex engine does not support lookahead (`(?=...)`). Queries below use `replace(..., '.json', '')` instead.
 - On Windows, `filename` values use backslash separators. Queries below account for this with an extra `split_part(..., '\\', -1)` to isolate the bare filename before parsing.
 - The `[^/\\]` character class in regex requires escaping only one backslash in SQL string literals; in Python `duckdb.sql()` use raw strings to avoid SyntaxWarning.
+- JSON files on Windows have CRLF line endings. Use `decode(content)` (not `content::VARCHAR`) when calling `read_blob` -- `decode` handles the byte-to-text conversion correctly so DuckDB's JSON functions can parse the result.
 
 ---
 
 ## 1. Find all enriched devices missing a specific field
 
-Finds enriched JSON records where `device_description` is null or empty.
-Replace `device_description` with any top-level field name.
+Finds enriched JSON records where `what_it_is` is null or empty.
+Replace `what_it_is` with any top-level field name.
 
 ```sql
 SELECT
-  regexp_extract(filename, '[^/]+\.json', 0) AS file,
-  json_extract_string(content, '$.device_name') AS device_name,
-  json_extract_string(content, '$.manufacturer') AS manufacturer
-FROM (
-  SELECT filename, content::VARCHAR AS content
-  FROM read_json_auto('pipeline/data/enriched/*.json', filename=true, ignore_errors=true)
-)
-WHERE json_extract_string(content, '$.device_description') IS NULL
-   OR length(json_extract_string(content, '$.device_description')) < 20
+  split_part(replace(regexp_extract(filename, '[^/]+\.json', 0), '.json', ''), '\', -1) AS file,
+  json_extract_string(decode(content), '$.device_name') AS device_name,
+  json_extract_string(decode(content), '$.manufacturer') AS manufacturer
+FROM read_blob('pipeline/data/enriched/*.json')
+WHERE json_extract_string(decode(content), '$.what_it_is') IS NULL
+   OR length(json_extract_string(decode(content), '$.what_it_is')) < 20
 ORDER BY manufacturer, device_name;
 ```
 
@@ -41,8 +39,8 @@ useful for tracking gap-fill progress.
 ```sql
 SELECT
   count(*) AS files_with_gaps,
-  count(*) FILTER (WHERE content ILIKE '%[NEEDS CONTENT%') AS gap_count
-FROM read_json('pipeline/data/enriched/*.json', format='auto', ignore_errors=true);
+  count(*) FILTER (WHERE decode(content) ILIKE '%[NEEDS CONTENT%') AS gap_count
+FROM read_blob('pipeline/data/enriched/*.json');
 ```
 
 ---
@@ -57,9 +55,9 @@ fixed in ac309a3 for gap_filler; the underlying merger.py issue remains).
 WITH records AS (
   SELECT
     split_part(replace(regexp_extract(filename, '[^/]+\.json'), '.json', ''), '\', -1) AS stem,
-    json_extract_string(content::VARCHAR, '$.device_name') AS device_name,
-    json_extract_string(content::VARCHAR, '$.manufacturer') AS manufacturer
-  FROM read_json_auto('pipeline/data/enriched/*.json', filename=true, ignore_errors=true)
+    json_extract_string(decode(content), '$.device_name') AS device_name,
+    json_extract_string(decode(content), '$.manufacturer') AS manufacturer
+  FROM read_blob('pipeline/data/enriched/*.json')
 )
 SELECT stem, device_name, manufacturer
 FROM records
