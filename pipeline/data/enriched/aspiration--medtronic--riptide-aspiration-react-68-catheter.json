@@ -1,5 +1,5 @@
 {
-  "device_name": "APRO Aspiration Catheter",
+  "device_name": "Riptide Aspiration System React 68 Catheter",
   "manufacturer": "medtronic",
   "catalog_category": "aspiration",
   "filename_stem": "aspiration--medtronic--riptide-aspiration-react-68-catheter",
@@ -9,54 +9,50 @@
   "device_class": 2,
   "device_name_fda": "Riptide Aspiration System React 68 Catheter",
   "product_code": "NRY",
-  "what_it_is": "Flexible aspiration catheter with stainless-steel and coil plus braid reinforcements designed to remove thrombus. Available in APRO 55 and APRO 70 sizes. Includes Alembic aspiration tubing accessory.",
-  "sizing_specs": "Models: APRO 55, APRO 70; Alembic aspiration tubing: proximal length 100 inch, distal length 7 inch, proximal/distal ID 0.110 inch",
-  "indications": "Aspiration thrombectomy for removal of thrombus from cerebral vasculature.",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
   "contraindications": null,
-  "compatible_with": "Phenom microcatheters, Solitaire X revascularization device, Alembic aspiration tubing",
+  "compatible_with": null,
   "use_notes": null,
   "deployment_steps": null,
-  "also_known_as": [
-    "APRO 55",
-    "APRO 70"
-  ],
+  "also_known_as": null,
   "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf18/K180705.pdf",
   "ifu_pdf_url": null,
-  "source_url": "https://www.medtronic.com/en-us/healthcare-professionals/products/neurological/neurovascular/aspiration/apro-70-aspiration-catheter.html",
+  "source_url": null,
   "confidence_score": 0.4,
   "needs_review": true,
   "data_sources": [
-    "fda",
-    "scraper"
+    "fda"
   ],
   "_enrichment": {
     "what_it_is": {
-      "source": "scraper",
-      "confidence": 0.5
+      "source": "none",
+      "confidence": 0.0
     },
     "sizing_specs": {
-      "source": "scraper",
-      "confidence": 0.5
+      "source": "none",
+      "confidence": 0.0
     },
     "indications": {
-      "source": "scraper",
-      "confidence": 0.5
+      "source": "none",
+      "confidence": 0.0
     },
     "contraindications": {
       "source": "none",
       "confidence": 0
     },
     "compatible_with": {
-      "source": "scraper",
-      "confidence": 0.5
+      "source": "none",
+      "confidence": 0.0
     },
     "use_notes": {
       "source": "none",
-      "confidence": 0
+      "confidence": 0.0
     },
     "also_known_as": {
-      "source": "scraper",
-      "confidence": 0.5
+      "source": "none",
+      "confidence": 0.0
     }
   }
 }

@@ -42,6 +42,47 @@ _PLACEHOLDER_RE = re.compile(r"\[NEEDS CONTENT[^\]]*\]")
 # Minimum confidence to replace a placeholder.
 _MIN_CONFIDENCE = 0.5
 
+# Stop words for device-identity matching between filename stem and merged record.
+_IDENTITY_STOP_WORDS: frozenset[str] = frozenset({
+    "aspiration", "catheter", "system", "device", "medical",
+    "the", "and", "for", "with", "inc", "llc",
+})
+
+# Content fields that must not leak across devices via mismatched merged records.
+_CONTENT_FIELDS: tuple[str, ...] = (
+    "what_it_is",
+    "sizing_specs",
+    "indications",
+    "compatible_with",
+    "use_notes",
+    "also_known_as",
+)
+
+
+def _identity_tokens(text: str) -> set[str]:
+    """Return lowercase alphanumeric tokens from text, minus stop words."""
+    tokens = re.findall(r"[a-z0-9]+", text.lower())
+    return {t for t in tokens if t and t not in _IDENTITY_STOP_WORDS}
+
+
+def _merged_matches_stem(stem: str, merged: dict) -> bool:
+    """Check that merged record's device_name overlaps the stem's product slug.
+
+    The stem format is ``{category}--{manufacturer}--{product-slug}``.
+    Returns True when there is at least one meaningful token in common
+    between the product slug and ``merged["device_name"]`` after removing
+    generic stop words. Returns True when the merged record has no
+    device_name to compare against (nothing to contaminate with).
+    """
+    parts = stem.split("--")
+    if len(parts) < 3:
+        return True
+    slug_tokens = _identity_tokens(parts[2])
+    name_tokens = _identity_tokens(merged.get("device_name") or "")
+    if not slug_tokens or not name_tokens:
+        return True
+    return bool(slug_tokens & name_tokens)
+
 
 def _parse_stem(filename: str) -> str:
     """Extract the stem (everything before --knowledge.md) from a filename."""
@@ -115,6 +156,20 @@ def fill_gaps(dry_run: bool = False) -> dict:
             manufacturer = parts[1] if len(parts) > 1 else ""
             device_name = parts[2].replace("-", " ") if len(parts) > 2 else ""
             merged = {"device_name": device_name, "manufacturer": manufacturer}
+
+        # Identity guard: if the merged record's device_name does not overlap
+        # the filename stem, a cross-device pairing happened upstream in
+        # merger.py. Strip scraper-derived content fields so they cannot leak
+        # into this knowledge file via Priority 6 in resolve_field().
+        if not _merged_matches_stem(stem, merged):
+            logger.warning(
+                "  Identity mismatch: %s merged device_name=%r — "
+                "stripping content fields",
+                kf.name,
+                merged.get("device_name"),
+            )
+            for _field in _CONTENT_FIELDS:
+                merged[_field] = None
 
         # Gather all available sources for this device.
         sources = gather_sources(stem, merged)
