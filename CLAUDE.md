@@ -41,9 +41,10 @@ The repo must remain understandable after context loss.
 
 That means:
 1. Read `STATE.md` first at the start of every session.
-2. If `STATE.md` is missing or stale, reconstruct it from the repo before making major changes.
-3. Update `STATE.md` at the end of any meaningful work session.
-4. Do not rely on chat history as the only source of project memory.
+2. If `STATE.md` is missing or stale, run `/read-memories <last-topic> --here` to recover context from session logs before making changes.
+3. If `STATE.md` is missing or stale, reconstruct it from the repo before making major changes.
+4. Update `STATE.md` at the end of any meaningful work session.
+5. Do not rely on chat history as the only source of project memory.
 
 ## Required Session Files
 
@@ -74,6 +75,29 @@ Do not put day-to-day state here.
 If present, treat it as durable project memory and prior decisions.
 Use it to avoid repeating dead ends, but verify any operational claim against the current repo.
 
+## Installed Skills
+
+Three skills are active in this project. Use them instead of writing one-off scripts for these tasks:
+
+### `pdf` skill — in-session PDF extraction
+- Invoke: `/pdf <path-to-pdf>`
+- Use for: extracting content from a single catalog PDF to fill a [NEEDS CONTENT] gap
+- When to use Marker instead: complex sizing tables, multi-column IFU layouts
+- Full decision tree: `docs/pdf-extraction-guide.md`
+
+### `read-file` skill — SQL over pipeline JSON
+- Invoke: `/read-file <path> [question]`
+- Use for: auditing pipeline/data/ files — finding gaps, checking contamination, profiling coverage
+- Pre-written queries: `docs/queries/pipeline-duckdb-queries.md`
+- Example: "How many enriched files are missing what_it_is?" → run Query #1 from the library
+
+### `read-memories` skill — session context recovery
+- Invoke: `/read-memories <keyword>`
+- Use for: recovering prior decisions about a device, pipeline stage, or known bug
+- Run at session start when STATE.md is stale or ambiguous
+- Example: `/read-memories merger contamination` → surfaces the ac309a3 fix discussion
+- Scope to this project: `/read-memories <keyword> --here`
+
 ## Repository Purpose and Non-Goals
 
 The goal is to build a trusted, source-grounded catalog of neurosurgical and neurointerventional devices.
@@ -88,13 +112,14 @@ Non-goals:
 
 ## Current Catalog Snapshot
 
-Last verified snapshot: 2026-04-04.
-- 213 curated knowledge files (22 categories, 40 manufacturers)
-- 104 scraped-only devices
-- 317 total indexed devices
-- 22 curated categories, strongest: microcatheter (30), embolic-coil (29), aspiration (22), distal-access (21), thrombectomy (17), pedicle-screw (14)
-- Two clinical domains: spine (pedicle screws, cages, plates, corpectomy, SI fusion, navigation, disc replacement) and neurovascular/interventional (flow diverters, stent retrievers, aspiration, coils, liquid embolics, microcatheters, intracranial stents, shunts, thrombectomy, guidewires)
-- 38 files still have [NEEDS CONTENT] gaps (48 total instances)
+Last verified snapshot: 2026-04-15.
+- 228 curated knowledge files (28 categories, 40+ manufacturers)
+- 103 scraped-only devices
+- 331 total indexed devices
+- 28 curated categories, strongest: microcatheter (30), embolic-coil (29), aspiration (27), distal-access (21), thrombectomy (18), pedicle-screw (16)
+- Three clinical domains: spine (pedicle screws, interbody cages, cervical cages/plates, corpectomy, SI fusion, navigation, disc replacement), neurovascular/interventional (flow diverters, stent retrievers, aspiration, coils, liquid embolics, microcatheters, intracranial stents, thrombectomy, guidewires, guide catheters), and neurosurgery (CSF shunts, dural substitute, dural sealant)
+- 44 files still have [NEEDS CONTENT] gaps (58 total instances)
+- 222/228 curated files have competitor comparison sections filled (via Gemini Flash 2.5)
 
 Pipeline inputs include openFDA 510(k)/PMA APIs (281 summaries, 245 UDI, 592 recalls), manufacturer scraping (9 scrapers, 163 products), Chrome MCP for gated sites, EVToday device guide (301 neuro devices), NeuroSpine Product Review (103 detail pages, 84 technique guide PDFs extracted), and Marker+DeepSeek document extraction (175 PDFs total: 84 NSPR + 80 catalog + 11 FDA).
 
@@ -109,7 +134,7 @@ All files follow this pattern:
 ```
 
 - Segments are separated by double dashes (`--`), words within segments by single dashes (`-`).
-- **device-category** examples: `flow-diverter`, `pedicle-screw`, `csf-shunt`, `microcatheter`, `cervical-cage`, `intracranial-stent`, `embolic-coil`, `liquid-embolic`, `thrombectomy`, `navigation`, `corpectomy`, `interbody-cage`, `dural-sealant`, `intrasaccular`, `balloon-catheter`, `distal-access`, `cervical-plate`, `aspiration`, `dural-substitute`, `guidewire`, `balloon-guide-catheter`, `stent-retriever`, `guiding-catheter`
+- **device-category** examples: `flow-diverter`, `pedicle-screw`, `csf-shunt`, `microcatheter`, `cervical-cage`, `intracranial-stent`, `embolic-coil`, `liquid-embolic`, `thrombectomy`, `navigation`, `corpectomy`, `interbody-cage`, `dural-sealant`, `intrasaccular`, `balloon-catheter`, `distal-access`, `cervical-plate`, `aspiration`, `dural-substitute`, `guidewire`, `guide-catheter`, `stent-retriever`, `sacroiliac-fusion`, `cervical-disc`
 - **manufacturer** examples: `medtronic`, `stryker`, `microvention`, `depuy`, `globus`, `integra`, `miethke`, `cordis`, `ev3`, `neo-medical`, `osimplant`, `choicespine`, `penumbra`, `balt`, `cerenovus`, `rapid-medical`, `phenox`, `imperative-care-inc`
 - **document-type**: `knowledge` (md), `ifu`, `510k`, `technique`, `brochure`, `catalog`, `ssed`, `sspb`, `pocket-guide`, `safety-warnings`, `patient-leaflet`, `chapter` (pdf)
 - Exception: `reference--viktors-notes--{topic}--chapter.pdf` files are textbook reference chapters, not device entries.
