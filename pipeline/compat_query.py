@@ -18,7 +18,7 @@ DATA_PATH = Path(__file__).parent / "data" / "compatibility" / "thrombectomy_sta
 def load_devices():
     with open(DATA_PATH, encoding="utf-8") as f:
         data = json.load(f)
-    return data["devices"]
+    return [d for d in data["devices"] if "_section" not in d]
 
 
 def fits_through(inner_device, outer_device):
