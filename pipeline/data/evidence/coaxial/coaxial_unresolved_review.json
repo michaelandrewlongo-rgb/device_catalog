@@ -1,0 +1,59 @@
+[
+  {
+    "accepted": true,
+    "confidence": "high",
+    "device_name": "Penumbra RED 68",
+    "fields": {
+      "id_inch": 0.068,
+      "length_cm": [
+        132
+      ],
+      "od_inch": 0.084
+    },
+    "raw_text_snippet": ".068\" (1.73 mm) Lumen | .084\" (2.13 mm) Outer Diameter | 132 cm Length",
+    "retrieved_at": "2026-04-16T03:57:05+00:00",
+    "source_access_method": "official_snapshot_fallback",
+    "source_name": "Penumbra RED 68 specs and compatibility",
+    "source_tier": "manufacturer",
+    "source_tier_rank": 1,
+    "source_url": "https://www.penumbrainc.com/products/red-68/"
+  },
+  {
+    "accepted": true,
+    "confidence": "high",
+    "device_name": "React 68",
+    "fields": {
+      "id_inch": 0.068,
+      "length_cm": [
+        132
+      ],
+      "od_inch": 0.083
+    },
+    "raw_text_snippet": "React-68 132 0.083 0.068",
+    "retrieved_at": "2026-04-16T03:57:05+00:00",
+    "source_access_method": "official_snapshot_fallback",
+    "source_name": "Medtronic React catheter ordering information",
+    "source_tier": "manufacturer",
+    "source_tier_rank": 1,
+    "source_url": "https://www.medtronic.com/en-us/healthcare-professionals/products/neurological/neurovascular/catheters/aspiration-neurovascular-catheters/react-catheter.html"
+  },
+  {
+    "accepted": true,
+    "confidence": "high",
+    "device_name": "React 71",
+    "fields": {
+      "id_inch": 0.071,
+      "length_cm": [
+        132
+      ],
+      "od_inch": 0.0855
+    },
+    "raw_text_snippet": "React-71 132 0.0855 0.071",
+    "retrieved_at": "2026-04-16T03:57:05+00:00",
+    "source_access_method": "official_snapshot_fallback",
+    "source_name": "Medtronic React catheter ordering information",
+    "source_tier": "manufacturer",
+    "source_tier_rank": 1,
+    "source_url": "https://www.medtronic.com/en-us/healthcare-professionals/products/neurological/neurovascular/catheters/aspiration-neurovascular-catheters/react-catheter.html"
+  }
+]

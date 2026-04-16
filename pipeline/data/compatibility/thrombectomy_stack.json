@@ -19,9 +19,9 @@
     "notes": "Cross-manufacturer compatibility is off-label and not validated by manufacturers. Dimensional fit does not guarantee tracking performance. Fill numeric fields only from manufacturer-published specs, FDA summaries, or official labeling; otherwise leave null and mark via source/status."
   },
   "devices": [
-
-    {"_section": "GUIDE CATHETERS / BASE CATHETERS"},
-
+    {
+      "_section": "GUIDE CATHETERS / BASE CATHETERS"
+    },
     {
       "name": "Benchmark 6F",
       "manufacturer": "Penumbra",
@@ -30,7 +30,11 @@
       "id_inch": 0.071,
       "od_inch": null,
       "od_prox_inch": null,
-      "length_cm": [95, 105, 115],
+      "length_cm": [
+        95,
+        105,
+        115
+      ],
       "min_sheath_french": 6,
       "source": "catalog",
       "notes": "6F coil-reinforced guide catheter. Includes 5F Select Catheter (SIM/H1/BER tips). K212838."
@@ -43,7 +47,11 @@
       "id_inch": 0.081,
       "od_inch": null,
       "od_prox_inch": null,
-      "length_cm": [95, 105, 115],
+      "length_cm": [
+        95,
+        105,
+        115
+      ],
       "min_sheath_french": 7,
       "source": "catalog",
       "notes": "7F laser-cut hypotube guide catheter. Larger-bore Benchmark variant. K221822."
@@ -56,7 +64,11 @@
       "id_inch": 0.096,
       "od_inch": null,
       "od_prox_inch": null,
-      "length_cm": [95, 105, 115],
+      "length_cm": [
+        95,
+        105,
+        115
+      ],
       "min_sheath_french": 8,
       "source": "catalog-inferred",
       "notes": "8F laser-cut hypotube guide catheter. ID 0.096\" inferred from naming convention (BMX81=0.081\"). K213390."
@@ -66,10 +78,14 @@
       "manufacturer": "Cerenovus",
       "category": "guide_catheter",
       "role": "guide_catheter",
-      "id_inch": 0.090,
+      "id_inch": 0.09,
       "od_inch": null,
       "od_prox_inch": null,
-      "length_cm": [80, 90, 95],
+      "length_cm": [
+        80,
+        90,
+        95
+      ],
       "min_sheath_french": 8,
       "source": "catalog",
       "notes": "8F guide sheath with geometric anchoring and Dex tip. Claims better trackability than NeuronMAX, Infinity, Shuttle, Fubuki, Ballast in distal cervical position."
@@ -96,7 +112,9 @@
       "id_inch": 0.088,
       "od_inch": null,
       "od_prox_inch": null,
-      "length_cm": [90],
+      "length_cm": [
+        90
+      ],
       "min_sheath_french": 8,
       "source": "NEEDS_VERIFICATION",
       "notes": "Not in catalog. 6F long sheath / 8F short sheath compatible. Common thrombectomy guide. Dimensions need manufacturer verification."
@@ -109,7 +127,9 @@
       "id_inch": 0.084,
       "od_inch": null,
       "od_prox_inch": null,
-      "length_cm": [95],
+      "length_cm": [
+        95
+      ],
       "min_sheath_french": 8,
       "source": "NEEDS_VERIFICATION",
       "source_url": "https://www.stryker.com/us/en/neurovascular/products/flowgate2--balloon-guide-catheter.html",
@@ -128,9 +148,9 @@
       "source": "NEEDS_DATA",
       "notes": "Not in catalog. Balloon guide catheter. Dimensions need acquisition from manufacturer."
     },
-
-    {"_section": "INTERMEDIATE / DISTAL ACCESS CATHETERS"},
-
+    {
+      "_section": "INTERMEDIATE / DISTAL ACCESS CATHETERS"
+    },
     {
       "name": "SOFIA 5F",
       "manufacturer": "MicroVention/Terumo Neuro",
@@ -139,8 +159,11 @@
       "id_inch": 0.055,
       "od_inch": 0.067,
       "od_prox_inch": 0.068,
-      "length_cm": [115, 125],
-      "min_guide_id_inch": 0.070,
+      "length_cm": [
+        115,
+        125
+      ],
+      "min_guide_id_inch": 0.07,
       "source": "chrome-mcp",
       "source_url": "https://www.terumoneuro.com/products/sofia"
     },
@@ -149,10 +172,12 @@
       "manufacturer": "MicroVention/Terumo Neuro",
       "category": "intermediate",
       "role": "intermediate_catheter",
-      "id_inch": 0.070,
+      "id_inch": 0.07,
       "od_inch": 0.082,
       "od_prox_inch": 0.083,
-      "length_cm": [115],
+      "length_cm": [
+        115
+      ],
       "min_guide_id_inch": 0.085,
       "source": "chrome-mcp",
       "source_url": "https://www.terumoneuro.com/products/sofia"
@@ -165,7 +190,11 @@
       "id_inch": 0.071,
       "od_inch": 0.082,
       "od_prox_inch": 0.085,
-      "length_cm": [115, 125, 132],
+      "length_cm": [
+        115,
+        125,
+        132
+      ],
       "min_guide_id_inch": null,
       "source": "catalog"
     },
@@ -191,7 +220,11 @@
       "id_inch": null,
       "od_inch": null,
       "od_prox_inch": null,
-      "length_cm": [115, 132, 137],
+      "length_cm": [
+        115,
+        132,
+        137
+      ],
       "min_guide_id_inch": 0.085,
       "source": "catalog-partial",
       "notes": "ID not explicitly stated. Claims larger ID than SOFIA Plus, Catalyst 6, Catalyst 7. Compatible with base catheters >=0.085\" ID."
@@ -204,14 +237,19 @@
       "id_inch": 0.092,
       "od_inch": null,
       "od_prox_inch": 0.108,
-      "length_cm": [114, 122, 130, 135],
+      "length_cm": [
+        114,
+        122,
+        130,
+        135
+      ],
       "min_guide_id_inch": 0.113,
       "source": "catalog",
       "notes": "Largest ID with lowest distal profile among 8F systems. Co-packaged with INNERGLIDE 9 Delivery Aid."
     },
-
-    {"_section": "ASPIRATION CATHETERS"},
-
+    {
+      "_section": "ASPIRATION CATHETERS"
+    },
     {
       "name": "AXS Catalyst 7 (068)",
       "manufacturer": "Stryker",
@@ -220,7 +258,11 @@
       "id_inch": 0.068,
       "od_inch": 0.081,
       "od_prox_inch": 0.082,
-      "length_cm": [115, 125, 132],
+      "length_cm": [
+        115,
+        125,
+        132
+      ],
       "source": "catalog"
     },
     {
@@ -228,10 +270,13 @@
       "manufacturer": "Penumbra",
       "category": "aspiration",
       "role": "aspiration_catheter",
-      "id_inch": 0.070,
+      "id_inch": 0.07,
       "od_inch": 0.071,
       "od_prox_inch": null,
-      "length_cm": [132, 160],
+      "length_cm": [
+        132,
+        160
+      ],
       "source": "catalog"
     },
     {
@@ -240,7 +285,7 @@
       "category": "aspiration",
       "role": "aspiration_catheter",
       "id_inch": 0.064,
-      "od_inch": 0.080,
+      "od_inch": 0.08,
       "od_prox_inch": 0.084,
       "length_cm": null,
       "source": "catalog"
@@ -262,34 +307,44 @@
       "category": "aspiration",
       "role": "aspiration_catheter",
       "id_inch": 0.068,
-      "od_inch": null,
+      "od_inch": 0.084,
       "od_prox_inch": null,
-      "length_cm": [132, 160],
-      "source": "catalog-partial",
-      "notes": "ID confirmed. OD not in catalog file. Requires 8F short sheath or 6F long sheath."
+      "length_cm": [
+        132
+      ],
+      "source": "manufacturer",
+      "notes": "ID confirmed. OD not in catalog file. Requires 8F short sheath or 6F long sheath. Dimensions verified from Penumbra RED 68 specs and compatibility.",
+      "source_url": "https://www.penumbrainc.com/products/red-68/"
     },
     {
       "name": "React 68",
       "manufacturer": "Medtronic",
       "category": "aspiration",
       "role": "aspiration_catheter",
-      "id_inch": null,
-      "od_inch": null,
+      "id_inch": 0.068,
+      "od_inch": 0.083,
       "od_prox_inch": null,
-      "length_cm": null,
-      "source": "NEEDS_DATA",
-      "notes": "Coil/braid/nitinol construction. Compatible with Solitaire X."
+      "length_cm": [
+        132
+      ],
+      "source": "manufacturer",
+      "notes": "Coil/braid/nitinol construction. Compatible with Solitaire X. Dimensions verified from Medtronic React catheter ordering information.",
+      "source_url": "https://www.medtronic.com/en-us/healthcare-professionals/products/neurological/neurovascular/catheters/aspiration-neurovascular-catheters/react-catheter.html"
     },
     {
       "name": "React 71",
       "manufacturer": "Medtronic",
       "category": "aspiration",
       "role": "aspiration_catheter",
-      "id_inch": null,
-      "od_inch": null,
+      "id_inch": 0.071,
+      "od_inch": 0.0855,
       "od_prox_inch": null,
-      "length_cm": null,
-      "source": "NEEDS_DATA"
+      "length_cm": [
+        132
+      ],
+      "source": "manufacturer",
+      "source_url": "https://www.medtronic.com/en-us/healthcare-professionals/products/neurological/neurovascular/catheters/aspiration-neurovascular-catheters/react-catheter.html",
+      "notes": "Dimensions verified from Medtronic React catheter ordering information."
     },
     {
       "name": "Zoom 7X",
@@ -334,7 +389,9 @@
       "id_inch": 0.071,
       "od_inch": 0.082,
       "od_prox_inch": 0.085,
-      "length_cm": [142],
+      "length_cm": [
+        142
+      ],
       "source": "catalog"
     },
     {
@@ -342,15 +399,17 @@
       "manufacturer": "Route 92 Medical",
       "category": "aspiration",
       "role": "aspiration_catheter",
-      "id_inch": 0.070,
+      "id_inch": 0.07,
       "od_inch": 0.082,
       "od_prox_inch": 0.087,
-      "length_cm": [143],
+      "length_cm": [
+        143
+      ],
       "source": "catalog"
     },
-
-    {"_section": "DELIVERY MICROCATHETERS"},
-
+    {
+      "_section": "DELIVERY MICROCATHETERS"
+    },
     {
       "name": "Trevo Trak 21",
       "manufacturer": "Stryker",
@@ -359,7 +418,9 @@
       "id_inch": 0.021,
       "od_inch": 0.031,
       "od_prox_inch": 0.035,
-      "length_cm": [162],
+      "length_cm": [
+        162
+      ],
       "min_guide_id_inch": 0.046,
       "source": "catalog"
     },
@@ -371,7 +432,9 @@
       "id_inch": 0.027,
       "od_inch": 0.037,
       "od_prox_inch": null,
-      "length_cm": [150],
+      "length_cm": [
+        150
+      ],
       "source": "catalog",
       "notes": "OD ~2.8F (0.037\") from commercial labeling per catalog file. Standard Pipeline delivery catheter."
     },
@@ -411,9 +474,9 @@
       "source": "catalog",
       "notes": "~2.1F. Bridges SL-10 and XT-27."
     },
-
-    {"_section": "STENT RETRIEVERS / THROMBECTOMY DEVICES"},
-
+    {
+      "_section": "STENT RETRIEVERS / THROMBECTOMY DEVICES"
+    },
     {
       "name": "Trevo NXT",
       "manufacturer": "Stryker",
@@ -421,7 +484,9 @@
       "role": "thrombectomy_device",
       "device_sizes_mm": "3x32, 4x28, 4x41, 6x37",
       "min_catheter_id_inch": 0.021,
-      "length_cm": [200],
+      "length_cm": [
+        200
+      ],
       "source": "catalog",
       "notes": "Delivered through 0.021\" microcatheter (Trevo Trak 21)"
     },
@@ -443,7 +508,9 @@
       "role": "thrombectomy_device",
       "device_sizes_mm": "5x22, 5x37, 6x45",
       "min_catheter_id_inch": 0.021,
-      "length_cm": [194],
+      "length_cm": [
+        194
+      ],
       "source": "catalog",
       "notes": "Delivered through 0.021\" microcatheter"
     }

@@ -147,3 +147,22 @@ def test_gaps_output_groups_unresolved_sources(devices, capsys):
     assert "CRITICAL" in output
     assert "UNRESOLVED" in output
     assert "AXS Catalyst 6" in output
+
+
+def test_manufacturer_acquired_dimensions_are_present(devices):
+    by_name = {device["name"]: device for device in devices}
+
+    assert by_name["React 68"]["id_inch"] == 0.068
+    assert by_name["React 68"]["od_inch"] == 0.083
+    assert by_name["React 68"]["length_cm"] == [132]
+    assert by_name["React 68"]["source"] == "manufacturer"
+
+    assert by_name["React 71"]["id_inch"] == 0.071
+    assert by_name["React 71"]["od_inch"] == 0.0855
+    assert by_name["React 71"]["length_cm"] == [132]
+    assert by_name["React 71"]["source"] == "manufacturer"
+
+    assert by_name["Penumbra RED 68"]["id_inch"] == 0.068
+    assert by_name["Penumbra RED 68"]["od_inch"] == 0.084
+    assert by_name["Penumbra RED 68"]["length_cm"] == [132]
+    assert by_name["Penumbra RED 68"]["source"] == "manufacturer"

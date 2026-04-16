@@ -4,7 +4,7 @@ I was trying to:
 Implement the thrombectomy coaxial copilot plan in a conservative, verified-only way.
 
 The last thing I saw:
-The compatibility CLI now supports fuzzy device lookup, source/confidence labels, a `--case` workflow, and grouped gap triage. The data file has been versioned to `0.3.0-experimental` with an explicit source policy.
+The compatibility CLI now supports fuzzy device lookup, source/confidence labels, a `--case` workflow, and grouped gap triage. The source acquisition pass now fills React 68, React 71, and Penumbra RED 68 from manufacturer-backed evidence.
 
 ## What was done this session
 
@@ -24,31 +24,38 @@ The compatibility CLI now supports fuzzy device lookup, source/confidence labels
   - version `0.3.0-experimental`
   - explicit verified/partial/inferred/needs-source policy
   - Stryker manufacturer source URLs for unresolved AXS Infinity LS, FlowGate2, and AXS Catalyst 6 rows
+- Added `pipeline/coaxial_acquisition.py`:
+  - pulls/parses manufacturer pages for source-backed dimensions
+  - writes `pipeline/data/evidence/coaxial/coaxial_unresolved_review.json`
+  - auto-applies only accepted manufacturer-tier records
+  - keeps seller/distributor-style sources as candidates unless corroborated
+- Filled manufacturer-backed dimensions:
+  - React 68: ID 0.068", OD 0.083", length 132 cm
+  - React 71: ID 0.071", OD 0.0855", length 132 cm
+  - Penumbra RED 68: ID 0.068", OD 0.084", length 132 cm
 
 ## Verification
 
 ```
-python -m pytest -q tests/test_compat.py
+python -m pytest -q tests/test_coaxial_acquisition.py tests/test_compat.py -p no:cacheprovider
 ```
 
-Result: 15 passed. Pytest emitted a cache warning because `.pytest_cache` already has a conflicting path, but tests passed.
+Result: 20 passed.
 
 ## Known issues
 
-- Numeric fields were not filled from non-official snippets. This is intentional: official source acquisition is still required before adding values for unresolved rows.
+- Numeric fields are still filled only from official/manufacturer/FDA-style sources. Distributor or seller pages should remain review candidates unless corroborated.
 - Highest-impact unresolved rows:
   - AXS Catalyst 6
-  - React 68 / React 71
   - AXS Infinity LS
   - Walrus BGC
   - CereGlide 71
   - Zoom 7X
-  - Penumbra RED 68
 - `ROADMAP.md` had pre-existing modifications before this session; avoid staging it blindly with future commits.
 
 ## What I want next
 
-1. Acquire official manufacturer/FDA dimensions for the critical unresolved rows.
-2. Fill only fields supported by official sources, leaving unsupported fields null.
+1. Add AccessGUDID/distributor candidate discovery for Walrus BGC, Zoom 7X, AXS Catalyst 6, AXS Infinity LS, and CereGlide 71.
+2. Keep distributor values out of `thrombectomy_stack.json` until matched to manufacturer/FDA evidence.
 3. Add source URLs beside every newly filled field or row.
 4. Broaden CLI tests around ambiguous fuzzy matches and command-line invocation.
