@@ -2,17 +2,22 @@
 Coaxial compatibility query tool for neurointerventional device stacks.
 
 Usage:
-    python -m pipeline.compat_query                      # Show all devices
-    python -m pipeline.compat_query --fits-through "SOFIA 6F"   # What fits inside SOFIA 6F?
-    python -m pipeline.compat_query --accepts "Trevo Trak 21"   # What can Trevo Trak 21 fit inside?
-    python -m pipeline.compat_query --stack "SOFIA 6F"          # Build a full stack from this intermediate
-    python -m pipeline.compat_query --gaps                      # Show devices missing dimensional data
+    python -m pipeline.compat_query
+    python -m pipeline.compat_query --fits-through "SOFIA 6F"
+    python -m pipeline.compat_query --accepts "Trevo Trak 21"
+    python -m pipeline.compat_query --stack "SOFIA 6F"
+    python -m pipeline.compat_query --case "SOFIA 6F"
+    python -m pipeline.compat_query --gaps
 """
-import json
+
 import argparse
+import difflib
+import json
+import re
 from pathlib import Path
 
 DATA_PATH = Path(__file__).parent / "data" / "compatibility" / "thrombectomy_stack.json"
+KNOWN_VERIFICATION_STATUSES = {"verified", "partial", "inferred_existing", "needs_source"}
 
 
 def load_devices():
@@ -21,180 +26,431 @@ def load_devices():
     return [d for d in data["devices"] if "_section" not in d]
 
 
-def fits_through(inner_device, outer_device):
-    """Check if inner_device OD fits through outer_device ID."""
-    inner_od = inner_device.get("od_prox_inch") or inner_device.get("od_inch")
+def normalize_name(value):
+    """Normalize device names for forgiving CLI lookup."""
+    return re.sub(r"[^a-z0-9]+", "", value.lower())
+
+
+def verification_status(device):
+    """Return a coarse source confidence label for display and triage."""
+    explicit = device.get("verification_status")
+    if explicit in KNOWN_VERIFICATION_STATUSES:
+        return explicit
+
+    source = (device.get("source") or "").lower()
+    if source.startswith("needs"):
+        return "needs_source"
+    if "inferred" in source:
+        return "inferred_existing"
+    if "partial" in source:
+        return "partial"
+    return "verified"
+
+
+def format_inches(value):
+    if value is None:
+        return "?"
+    return f'{value:.3f}"'
+
+
+def device_od(device):
+    """Use proximal OD when available because it is the limiting coaxial segment."""
+    return device.get("od_prox_inch") or device.get("od_inch")
+
+
+def source_label(device):
+    status = verification_status(device).replace("_", " ")
+    source = device.get("source", "unknown")
+    url = device.get("source_url")
+    if url:
+        return f"{status}; {source}; {url}"
+    return f"{status}; {source}"
+
+
+def find_device(query, devices):
+    """Find a device by exact, normalized, substring, or fuzzy name match."""
+    normalized_query = normalize_name(query)
+    normalized = {normalize_name(d["name"]): d for d in devices}
+
+    if normalized_query in normalized:
+        return normalized[normalized_query]
+
+    substring_matches = [
+        d for d in devices
+        if normalized_query in normalize_name(d["name"])
+        or normalize_name(d["name"]) in normalized_query
+    ]
+    if len(substring_matches) == 1:
+        return substring_matches[0]
+
+    close_names = difflib.get_close_matches(
+        normalized_query,
+        list(normalized),
+        n=3,
+        cutoff=0.65,
+    )
+    if len(close_names) == 1:
+        return normalized[close_names[0]]
+
+    suggestions = substring_matches[:3] or [normalized[name] for name in close_names]
+    if suggestions:
+        print(f"Device not found unambiguously: {query}")
+        print("Did you mean: " + ", ".join(d["name"] for d in suggestions))
+    else:
+        print(f"Device not found: {query}")
+        print(f"Available: {', '.join(d['name'] for d in devices)}")
+    return None
+
+
+def fit_details(inner_device, outer_device):
+    """Return fit status plus the dimensions used to make the decision."""
+    inner_od = device_od(inner_device)
     outer_id = outer_device.get("id_inch")
     if inner_od is None or outer_id is None:
-        return None  # unknown
-    return inner_od < outer_id
+        return {
+            "status": "unknown",
+            "inner_od": inner_od,
+            "outer_id": outer_id,
+            "clearance": None,
+            "reason": "missing OD" if inner_od is None else "missing ID",
+        }
+
+    clearance = outer_id - inner_od
+    return {
+        "status": "fits" if clearance > 0 else "too_large",
+        "inner_od": inner_od,
+        "outer_id": outer_id,
+        "clearance": clearance,
+        "reason": None,
+    }
+
+
+def fits_through(inner_device, outer_device):
+    """Check if inner_device OD fits through outer_device ID."""
+    result = fit_details(inner_device, outer_device)
+    if result["status"] == "unknown":
+        return None
+    return result["status"] == "fits"
 
 
 def find_fits_through(target_name, devices):
     """Find all devices that fit inside the named device."""
-    target = next((d for d in devices if d["name"].lower() == target_name.lower()), None)
+    target = find_device(target_name, devices)
     if not target:
-        print(f"Device not found: {target_name}")
-        print(f"Available: {', '.join(d['name'] for d in devices)}")
         return
     if target.get("id_inch") is None:
         print(f"{target['name']}: ID unknown, cannot check compatibility")
+        print(f"  Source: {source_label(target)}")
         return
 
-    print(f"\n  What fits through {target['name']}? (ID = {target['id_inch']}\")")
-    print(f"  {'='*60}")
+    print(f"\n  What fits through {target['name']}? (ID = {format_inches(target['id_inch'])})")
+    print(f"  Source: {source_label(target)}")
+    print(f"  {'=' * 60}")
 
     results = {"yes": [], "no": [], "unknown": []}
-    for d in devices:
-        if d["name"] == target["name"]:
+    for device in devices:
+        if device["name"] == target["name"]:
             continue
-        od = d.get("od_prox_inch") or d.get("od_inch")
-        if od is None:
-            results["unknown"].append((d["name"], d["category"], "OD unknown"))
-        elif od < target["id_inch"]:
-            clearance = target["id_inch"] - od
-            results["yes"].append((d["name"], d["category"], od, clearance))
+        result = fit_details(device, target)
+        if result["status"] == "unknown":
+            results["unknown"].append((device, result))
+        elif result["status"] == "fits":
+            results["yes"].append((device, result))
         else:
-            results["no"].append((d["name"], d["category"], od))
+            results["no"].append((device, result))
 
     if results["yes"]:
-        print(f"\n  YES (fits):")
-        for name, cat, od, clearance in sorted(results["yes"], key=lambda x: -x[3]):
-            print(f"    {name:<30} {cat:<20} OD={od:.3f}\"  clearance={clearance:.3f}\"")
+        print("\n  YES (fits):")
+        for device, result in sorted(results["yes"], key=lambda item: -item[1]["clearance"]):
+            print(
+                f"    {device['name']:<30} {device['category']:<20} "
+                f"OD={format_inches(result['inner_od'])}  "
+                f"clearance={format_inches(result['clearance'])}  [{source_label(device)}]"
+            )
 
     if results["no"]:
-        print(f"\n  NO (too large):")
-        for name, cat, od in sorted(results["no"], key=lambda x: x[2]):
-            print(f"    {name:<30} {cat:<20} OD={od:.3f}\"")
+        print("\n  NO (too large):")
+        for device, result in sorted(results["no"], key=lambda item: item[1]["inner_od"]):
+            print(
+                f"    {device['name']:<30} {device['category']:<20} "
+                f"OD={format_inches(result['inner_od'])}  [{source_label(device)}]"
+            )
 
     if results["unknown"]:
-        print(f"\n  UNKNOWN (missing data):")
-        for name, cat, reason in results["unknown"]:
-            print(f"    {name:<30} {cat:<20} {reason}")
+        print("\n  UNKNOWN (missing data):")
+        for device, result in results["unknown"]:
+            print(
+                f"    {device['name']:<30} {device['category']:<20} "
+                f"{result['reason']}  [{source_label(device)}]"
+            )
 
 
 def find_accepts(target_name, devices):
     """Find all devices the named device fits inside of."""
-    target = next((d for d in devices if d["name"].lower() == target_name.lower()), None)
+    target = find_device(target_name, devices)
     if not target:
-        print(f"Device not found: {target_name}")
         return
-    od = target.get("od_prox_inch") or target.get("od_inch")
+    od = device_od(target)
     if od is None:
         print(f"{target['name']}: OD unknown, cannot check compatibility")
+        print(f"  Source: {source_label(target)}")
         return
 
-    print(f"\n  What can accept {target['name']}? (OD = {od}\")")
-    print(f"  {'='*60}")
+    print(f"\n  What can accept {target['name']}? (OD = {format_inches(od)})")
+    print(f"  Source: {source_label(target)}")
+    print(f"  {'=' * 60}")
 
-    for d in devices:
-        if d["name"] == target["name"]:
+    for device in devices:
+        if device["name"] == target["name"]:
             continue
-        d_id = d.get("id_inch")
-        if d_id is None:
-            print(f"    {d['name']:<30} {d['category']:<20} ID unknown")
-        elif d_id > od:
-            clearance = d_id - od
-            print(f"    {d['name']:<30} {d['category']:<20} ID={d_id:.3f}\"  clearance={clearance:.3f}\"  YES")
+        result = fit_details(target, device)
+        if result["status"] == "unknown":
+            print(
+                f"    {device['name']:<30} {device['category']:<20} "
+                f"{result['reason']}  [{source_label(device)}]"
+            )
+        elif result["status"] == "fits":
+            print(
+                f"    {device['name']:<30} {device['category']:<20} "
+                f"ID={format_inches(result['outer_id'])}  "
+                f"clearance={format_inches(result['clearance'])}  YES  [{source_label(device)}]"
+            )
         else:
-            print(f"    {d['name']:<30} {d['category']:<20} ID={d_id:.3f}\"  TOO SMALL")
+            print(
+                f"    {device['name']:<30} {device['category']:<20} "
+                f"ID={format_inches(result['outer_id'])}  TOO SMALL  [{source_label(device)}]"
+            )
 
 
 def build_stack(intermediate_name, devices):
     """Build all valid thrombectomy stacks from a given intermediate catheter."""
-    intermediate = next((d for d in devices if d["name"].lower() == intermediate_name.lower()), None)
+    intermediate = find_device(intermediate_name, devices)
     if not intermediate:
-        print(f"Device not found: {intermediate_name}")
         return
 
     int_id = intermediate.get("id_inch")
     if int_id is None:
         print(f"{intermediate['name']}: ID unknown")
+        print(f"  Source: {source_label(intermediate)}")
         return
 
-    # Find microcatheters that fit through the intermediate
     micros = []
-    for d in devices:
-        if d.get("role") != "delivery_microcatheter":
+    for device in devices:
+        if device.get("role") != "delivery_microcatheter":
             continue
-        od = d.get("od_prox_inch") or d.get("od_inch")
+        od = device_od(device)
         if od is not None and od < int_id:
-            micros.append(d)
+            micros.append(device)
 
-    # Find aspiration catheters that fit through the intermediate
     aspirations = []
-    for d in devices:
-        if d.get("role") != "aspiration_catheter":
+    for device in devices:
+        if device.get("role") != "aspiration_catheter":
             continue
-        od = d.get("od_prox_inch") or d.get("od_inch")
+        od = device_od(device)
         if od is not None and od < int_id:
-            aspirations.append(d)
+            aspirations.append(device)
 
-    # Find stent retrievers compatible with those microcatheters
     retrievers = [d for d in devices if d.get("role") == "thrombectomy_device"]
 
-    print(f"\n  Thrombectomy stacks through {intermediate['name']} (ID={int_id}\")")
-    print(f"  {'='*60}")
+    print(f"\n  Thrombectomy stacks through {intermediate['name']} (ID={format_inches(int_id)})")
+    print(f"  Source: {source_label(intermediate)}")
+    print(f"  {'=' * 60}")
 
-    print(f"\n  STENT RETRIEVER APPROACH (intermediate -> microcatheter -> device):")
+    print("\n  STENT RETRIEVER APPROACH (intermediate -> microcatheter -> device):")
     if micros:
-        for mc in micros:
-            mc_od = mc.get("od_prox_inch") or mc.get("od_inch")
-            mc_id = mc.get("id_inch")
-            print(f"    {intermediate['name']} -> {mc['name']} (OD={mc_od:.3f}\", ID={mc_id:.3f}\")")
-            for sr in retrievers:
-                min_cath = sr.get("min_catheter_id_inch")
+        for micro in micros:
+            mc_od = device_od(micro)
+            mc_id = micro.get("id_inch")
+            print(
+                f"    {intermediate['name']} -> {micro['name']} "
+                f"(OD={format_inches(mc_od)}, ID={format_inches(mc_id)})  "
+                f"[{source_label(micro)}]"
+            )
+            for retriever in retrievers:
+                min_cath = retriever.get("min_catheter_id_inch")
                 if min_cath and mc_id and mc_id >= min_cath:
-                    print(f"      -> {sr['name']} ({sr.get('device_sizes_mm', '?')})")
+                    print(
+                        f"      -> {retriever['name']} "
+                        f"({retriever.get('device_sizes_mm', '?')})  "
+                        f"[{source_label(retriever)}]"
+                    )
     else:
         print("    No compatible microcatheters found (or missing OD data)")
 
-    print(f"\n  DIRECT ASPIRATION (ADAPT) (intermediate -> aspiration catheter):")
+    print("\n  DIRECT ASPIRATION (ADAPT) (intermediate -> aspiration catheter):")
     if aspirations:
-        for asp in aspirations:
-            asp_od = asp.get("od_prox_inch") or asp.get("od_inch")
-            print(f"    {intermediate['name']} -> {asp['name']} (OD={asp_od:.3f}\")")
+        for aspiration in aspirations:
+            asp_od = device_od(aspiration)
+            print(
+                f"    {intermediate['name']} -> {aspiration['name']} "
+                f"(OD={format_inches(asp_od)})  [{source_label(aspiration)}]"
+            )
     else:
         print("    No compatible aspiration catheters found (or missing OD data)")
 
-    print(f"\n  MINIMUM GUIDE CATHETER:")
+    print("\n  MINIMUM GUIDE CATHETER:")
     min_guide = intermediate.get("min_guide_id_inch")
     if min_guide:
-        print(f"    Guide catheter ID >= {min_guide}\" required for {intermediate['name']}")
+        print(f"    Guide catheter ID >= {format_inches(min_guide)} required for {intermediate['name']}")
     else:
-        int_od = intermediate.get("od_prox_inch") or intermediate.get("od_inch")
+        int_od = device_od(intermediate)
         if int_od:
-            print(f"    Guide catheter ID > {int_od}\" required (based on intermediate OD)")
+            print(f"    Guide catheter ID > {format_inches(int_od)} required (based on intermediate OD)")
         else:
-            print(f"    Unknown (intermediate OD not available)")
+            print("    Unknown (intermediate OD not available)")
+
+
+def gap_kind(device, field):
+    """Classify missing data by whether it blocks fit math or adds context."""
+    role = device.get("role")
+    if role == "thrombectomy_device":
+        return "critical" if field == "min_catheter_id_inch" else "context"
+    if field == "id_inch" and role in {
+        "guide_catheter",
+        "balloon_guide_catheter",
+        "intermediate_catheter",
+        "large_bore_intermediate",
+        "aspiration_catheter",
+        "delivery_microcatheter",
+    }:
+        return "critical"
+    if field in {"od_inch", "od_prox_inch"} and role in {
+        "intermediate_catheter",
+        "large_bore_intermediate",
+        "aspiration_catheter",
+        "delivery_microcatheter",
+    }:
+        return "critical"
+    return "context"
+
+
+def missing_fields(device):
+    missing = []
+    if device.get("role") == "thrombectomy_device":
+        if device.get("min_catheter_id_inch") is None:
+            missing.append("min_catheter_id_inch")
+    else:
+        if device.get("id_inch") is None:
+            missing.append("id_inch")
+        if device.get("od_inch") is None and device.get("od_prox_inch") is None:
+            missing.append("od_inch")
+    if not device.get("length_cm"):
+        missing.append("length_cm")
+    return missing
 
 
 def show_gaps(devices):
-    """Show devices missing critical dimensional data."""
-    print(f"\n  Devices with missing dimensional data:")
-    print(f"  {'='*60}")
-    for d in devices:
-        missing = []
-        if d.get("id_inch") is None and d.get("role") != "thrombectomy_device":
-            missing.append("ID")
-        if d.get("od_inch") is None and d.get("role") != "thrombectomy_device":
-            missing.append("OD")
-        if not d.get("length_cm"):
-            missing.append("length")
-        if missing:
-            print(f"    {d['name']:<30} {d['category']:<20} missing: {', '.join(missing)}")
+    """Show devices missing or carrying unresolved dimensional data."""
+    grouped = {"critical": [], "context": [], "unresolved": []}
+    for device in devices:
+        for field in missing_fields(device):
+            grouped[gap_kind(device, field)].append((device, field))
+        if verification_status(device) != "verified":
+            grouped["unresolved"].append((device, verification_status(device)))
+
+    print("\n  Devices with missing or unresolved dimensional data:")
+    print(f"  {'=' * 60}")
+
+    for label in ("critical", "context", "unresolved"):
+        if not grouped[label]:
+            continue
+        print(f"\n  {label.upper()}:")
+        for device, detail in grouped[label]:
+            if label == "unresolved":
+                print(
+                    f"    {device['name']:<30} {device['category']:<20} "
+                    f"status: {detail}  [{source_label(device)}]"
+                )
+            else:
+                print(
+                    f"    {device['name']:<30} {device['category']:<20} "
+                    f"missing: {detail}  [{source_label(device)}]"
+                )
+
+
+def build_case(device_name, devices):
+    """Print a concise case-oriented compatibility summary for a selected device."""
+    target = find_device(device_name, devices)
+    if not target:
+        return
+
+    print(f"\n  Case device: {target['name']}")
+    print(f"  Category: {target['category']} / {target['role']}")
+    print(
+        f"  ID: {format_inches(target.get('id_inch'))}  "
+        f"OD: {format_inches(target.get('od_inch'))}  "
+        f"OD(prox): {format_inches(target.get('od_prox_inch'))}"
+    )
+    print(f"  Source: {source_label(target)}")
+
+    gaps = missing_fields(target)
+    if gaps:
+        print(f"  Missing: {', '.join(gaps)}")
+
+    print("\n  Accepting outer devices:")
+    od = device_od(target)
+    if od is None:
+        print("    Unknown because selected device OD is missing.")
+    else:
+        accepted = []
+        unknown = []
+        for device in devices:
+            if device["name"] == target["name"]:
+                continue
+            result = fit_details(target, device)
+            if result["status"] == "fits":
+                accepted.append((device, result))
+            elif result["status"] == "unknown":
+                unknown.append((device, result))
+        for device, result in sorted(accepted, key=lambda item: -item[1]["clearance"])[:12]:
+            print(
+                f"    {device['name']:<30} "
+                f"clearance={format_inches(result['clearance'])}  [{source_label(device)}]"
+            )
+        if unknown:
+            print(f"    Unknown against {len(unknown)} devices with missing ID data.")
+
+    print("\n  Inner devices that fit through it:")
+    if target.get("id_inch") is None:
+        print("    Unknown because selected device ID is missing.")
+        return
+
+    inner_matches = []
+    unknown = []
+    for device in devices:
+        if device["name"] == target["name"]:
+            continue
+        result = fit_details(device, target)
+        if result["status"] == "fits":
+            inner_matches.append((device, result))
+        elif result["status"] == "unknown":
+            unknown.append((device, result))
+    for device, result in sorted(inner_matches, key=lambda item: -item[1]["clearance"])[:12]:
+        print(
+            f"    {device['name']:<30} "
+            f"clearance={format_inches(result['clearance'])}  [{source_label(device)}]"
+        )
+    if unknown:
+        print(f"    Unknown for {len(unknown)} devices with missing OD data.")
 
 
 def show_all(devices):
     """Show all devices with their dimensional data."""
-    print(f"\n  {'Name':<30} {'Category':<20} {'ID':>8} {'OD':>8} {'OD(prox)':>10} {'Lengths'}")
-    print(f"  {'-'*90}")
-    for d in devices:
-        id_val = f"{d['id_inch']:.3f}\"" if d.get("id_inch") else "?"
-        od_val = f"{d['od_inch']:.3f}\"" if d.get("od_inch") else "?"
-        od_p = f"{d['od_prox_inch']:.3f}\"" if d.get("od_prox_inch") else "-"
-        lengths = str(d.get("length_cm", "?"))
-        print(f"  {d['name']:<30} {d['category']:<20} {id_val:>8} {od_val:>8} {od_p:>10} {lengths}")
+    print(
+        f"\n  {'Name':<30} {'Category':<20} {'ID':>8} {'OD':>8} "
+        f"{'OD(prox)':>10} {'Status':<18} {'Lengths'}"
+    )
+    print(f"  {'-' * 110}")
+    for device in devices:
+        id_val = format_inches(device.get("id_inch"))
+        od_val = format_inches(device.get("od_inch"))
+        od_p = format_inches(device.get("od_prox_inch")) if device.get("od_prox_inch") else "-"
+        lengths = str(device.get("length_cm", "?"))
+        print(
+            f"  {device['name']:<30} {device['category']:<20} "
+            f"{id_val:>8} {od_val:>8} {od_p:>10} "
+            f"{verification_status(device):<18} {lengths}"
+        )
 
 
 def main():
@@ -202,6 +458,7 @@ def main():
     parser.add_argument("--fits-through", metavar="DEVICE", help="What fits inside this device?")
     parser.add_argument("--accepts", metavar="DEVICE", help="What can this device fit inside?")
     parser.add_argument("--stack", metavar="DEVICE", help="Build full thrombectomy stacks from this intermediate")
+    parser.add_argument("--case", metavar="DEVICE", help="Show a case-oriented summary for one device")
     parser.add_argument("--gaps", action="store_true", help="Show devices missing data")
     args = parser.parse_args()
 
@@ -213,6 +470,8 @@ def main():
         find_accepts(args.accepts, devices)
     elif args.stack:
         build_stack(args.stack, devices)
+    elif args.case:
+        build_case(args.case, devices)
     elif args.gaps:
         show_gaps(devices)
     else:

@@ -1,7 +1,7 @@
 {
   "_meta": {
     "description": "Mechanical thrombectomy coaxial stack compatibility data",
-    "version": "0.2.0-experimental",
+    "version": "0.3.0-experimental",
     "created": "2026-04-15",
     "units": {
       "id_inch": "inner diameter in inches",
@@ -10,7 +10,13 @@
       "length_cm": "working/usable length in cm",
       "min_guide_id_inch": "minimum guide catheter ID required"
     },
-    "notes": "Cross-manufacturer compatibility is off-label and not validated by manufacturers. Dimensional fit does not guarantee tracking performance. All data from manufacturer-published specs or FDA summaries."
+    "verification_status": {
+      "verified": "Dimensions are present from a manufacturer, FDA, or curated catalog source.",
+      "partial": "At least one useful dimension is present, but one or more fit-critical or context fields are missing.",
+      "inferred_existing": "Existing catalog value is retained but clearly marked as inferred.",
+      "needs_source": "Do not use as a determinate fit source until an official source fills the missing fields."
+    },
+    "notes": "Cross-manufacturer compatibility is off-label and not validated by manufacturers. Dimensional fit does not guarantee tracking performance. Fill numeric fields only from manufacturer-published specs, FDA summaries, or official labeling; otherwise leave null and mark via source/status."
   },
   "devices": [
 
@@ -79,6 +85,7 @@
       "length_cm": null,
       "min_sheath_french": null,
       "source": "NEEDS_DATA",
+      "source_url": "https://www.stryker.com/us/en/neurovascular/products/axs-infinity-ls.html",
       "notes": "Braided long sheath. Catalog file has no dimensions."
     },
     {
@@ -105,6 +112,7 @@
       "length_cm": [95],
       "min_sheath_french": 8,
       "source": "NEEDS_VERIFICATION",
+      "source_url": "https://www.stryker.com/us/en/neurovascular/products/flowgate2--balloon-guide-catheter.html",
       "notes": "Not in catalog. 8F balloon guide catheter. ID 0.084\" needs manufacturer verification."
     },
     {
@@ -172,6 +180,7 @@
       "length_cm": null,
       "min_guide_id_inch": null,
       "source": "NEEDS_DATA",
+      "source_url": "https://www.stryker.com/us/en/neurovascular/products/axs-catalyst--6.html",
       "notes": "Catalog file has catalog number only. Commonly used intermediate."
     },
     {
