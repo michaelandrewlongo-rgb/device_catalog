@@ -25,7 +25,9 @@ Size offerings are "larger and longer" compared to the predecessor Surpass Evolv
 
 ## Indications
 
-[NEEDS CONTENT - Stryker marketing page does not publish indications; IFU acquisition required. PMA P170024 supplement may contain updated indication language.]
+Adults ≥18 years old. Unruptured large or giant saccular wide-neck (neck width ≥4 mm or dome-to-neck ratio <2) or fusiform intracranial aneurysms in the internal carotid artery from the petrous segment to the terminus. Parent vessel diameter 2.5-5.3 mm.
+
+(Per PMA P170024 original approval; the Surpass Elite is approved under the same PMA as the Surpass Streamline and Surpass Evolve. No supplement was found to change the indication language.)
 
 ## Compatible With
 

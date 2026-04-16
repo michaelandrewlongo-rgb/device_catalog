@@ -11,7 +11,7 @@
   "product_code": "OUT",
   "what_it_is": "Third-generation self-expanding braided flow diverter for intracranial aneurysm treatment. Features 64-wire pure cobalt-chromium-nickel alloy construction for high mesh density and enhanced material strength. Incorporates the BioStealth Surface modification, which reduces thrombin generation by 91% compared to an unmodified device (in bench testing). Successor to Surpass Evolve, with larger and longer size offerings, higher braid angle for easier opening with less manipulation, and higher durometer resheath pad for confident resheathing.",
   "sizing_specs": "Stent Diameter (mm): 3.25, 4.0, 4.5, 5.0. Stent Length (mm): 12-40. Materials: Cobalt-chromium-nickel alloy (15% nickel). 64 braid wires with pure CoCr structural wires. Bodiless petals and anatomy-specific stainless-steel wire delivery system.",
-  "indications": null,
+  "indications": "Adults 18 years of age and older. Unruptured large or giant saccular wide-neck (neck width >=4 mm or dome-to-neck ratio <2) or fusiform intracranial aneurysms in the internal carotid artery from the petrous segment to the terminus. Parent vessel diameter 2.5-5.3 mm. (Per PMA P170024 original approval.)",
   "contraindications": null,
   "compatible_with": "Excelsior XT-27 Microcatheter (delivery catheter)",
   "use_notes": "BioStealth Surface is a phosphorylcholine surface modification designed to reduce thrombogenicity. Bench testing (n=min 9 stent segments, Stryker data on file) demonstrated 91% reduction in thrombin generation compared to unmodified device. Design features optimized for ease-of-opening with less manipulation via higher braid angle. Higher durometer resheath pad allows confident resheathing without compromising proximal opening. Enhanced material strength for fatigue-resistant braid.",
@@ -39,9 +39,9 @@
       "confidence": 0.85
     },
     "indications": {
-      "source": "none",
-      "confidence": 0,
-      "note": "Stryker marketing page does not publish indications; IFU acquisition required"
+      "source": "fda-pma",
+      "confidence": 0.9,
+      "note": "From PMA P170024 original approval order; same indication governs all Surpass devices"
     },
     "contraindications": {
       "source": "none",
