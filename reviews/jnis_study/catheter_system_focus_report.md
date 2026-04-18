@@ -1,6 +1,6 @@
-# Catheter And System Focus List
+# my_endo_catheters Catheter And System Focus List
 
-Scope: diagnostic catheters, guide catheters, intermediate/aspiration catheters, microcatheters, balloon guide catheters, guide sheaths, and catheter-based systems from the two JNIS study CSVs.
+Scope: diagnostic catheters, guide catheters, intermediate/aspiration catheters, microcatheters, balloon guide catheters, guide sheaths, and catheter-based systems from the two `my_endo_catheters` CSVs.
 
 Excluded from the main focus list: wires, coils, liquid embolics, stents, closure devices, and generic access sheaths, except when needed as context for catheter compatibility.
 

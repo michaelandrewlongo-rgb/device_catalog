@@ -1,4 +1,4 @@
-# JNIS Study Device Inventory
+# my_endo_catheters Device Inventory
 
 Input cases: 217 total (129 new, 88 blinded).
 

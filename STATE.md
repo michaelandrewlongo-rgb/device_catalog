@@ -62,9 +62,9 @@ Result: 20 passed.
 
 ## Additional Focus
 
-- JNIS study review artifacts were created for catheter and catheter-system mentions across `study_new_129.csv` and `study_blinded_88.csv`.
+- `my_endo_catheters` review artifacts were created for catheter and catheter-system mentions across `study_new_129.csv` and `study_blinded_88.csv`.
 - Focus outputs live under `reviews/jnis_study/`:
   - `catheter_system_focus_report.md`
   - `catheter_system_focus_summary.csv`
   - `catheter_system_case_mentions.csv`
-- Current priority order for that study is centered on catheter platforms and workflow systems such as Zoom, Benchmark/BMX, Phenom, Echelon 10, RIST, Walrus, Simmons, Glide, Vertebral/VERT, and Cerebase DA.
+- Current priority order for `my_endo_catheters` is centered on catheter platforms and workflow systems such as Zoom, Benchmark/BMX, Phenom, Echelon 10, RIST, Walrus, Simmons, Glide, Vertebral/VERT, and Cerebase DA.

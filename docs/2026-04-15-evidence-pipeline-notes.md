@@ -135,9 +135,9 @@ Both endpoints verified against live APIs:
   retry with backoff, or accept that ClinicalTrials data will be collected via MCP manually.
 - Consider later LLM pass for synonym expansion and name normalization only.
 
-## JNIS Study Inventory
+## my_endo_catheters Inventory
 
-We also created a focused device inventory from the JNIS study CSVs in `.research/jnis_study/`.
+We also created a focused device inventory from `my_endo_catheters` in `.research/jnis_study/`.
 That pass tracks catheter and catheter-system mentions separately from wires, coils, stents, liquid embolics, closure devices, and generic access supplies.
 
 Generated artifacts:
