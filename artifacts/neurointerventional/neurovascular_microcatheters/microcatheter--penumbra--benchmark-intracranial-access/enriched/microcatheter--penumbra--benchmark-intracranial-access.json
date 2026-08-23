@@ -1,60 +1,63 @@
 {
-  "device_name": "Benchmark Intracranial Access System",
-  "manufacturer": "penumbra",
-  "catalog_category": "microcatheter",
-  "filename_stem": "microcatheter--penumbra--benchmark-intracranial-access",
-  "clearance_type": "510k",
-  "clearance_number": "K212838",
-  "clearance_date": "2022-05-27",
-  "device_class": 2,
-  "device_name_fda": "Benchmark Intracranial Access System",
-  "product_code": "QJP",
-  "what_it_is": "Device Description\nThe Benchmark Intracranial Access System is designed to aid the physician in accessing\nthe target vasculature during interventional procedures. The Benchmark Intracranial\nPage 1 of 3\n\nK212838\nAccess System is composed of a Delivery Catheter used for introduction of interventional\ndevices and a corresponding Select Catheter. Use of the Benchmark Intracranial Access\nSystem facilitates navigation to the target vascular location and delivery of interventional\ndevices. The Benchmark Intracranial Access System devices are compatible with off-the-\nshelf accessories. Various lengths and distal shapes of both the Benchmark Delivery\nCatheter and 5F Select Catheter are provided for physician convenience.\nIntended users for the Benchmark Intracranial Access System are physicians who have\nreceived appropriate training in interventional techniques. The devices are provided\nsterile, non-pyrogenic, and are intended for single use only.\nThe Benchmark Intracranial Access System will be available in two packaging\nconfigurations:\n• The Benchmark Delivery Catheter is individually packaged.\n• The Benchmark Delivery Catheter is pre-packaged with a 5F Select Catheter\n(K083125).\nIndications For Use\nThe Benchmark Intracranial Access System is indicated for the introduction of\ninterventional devices into the peripheral, coronary, and neuro vasculature.\nComparison of Technological Characteristics with the Predicate Device\nThe subject and predicate devices have identical technological characteristics.\nThe only difference between the subject and predicate devices are additional instructions\nadded to the instructions for use (IFU) for the subject device related to radial access use.\nPerformance Data\nThe following performance data were provided in support of the substantial equivalence\ndetermination:\n• Bench-top Performance.\nThe subject device met all established requirements.\nPage 2 of 3\n\nK212838\n1.7.1 Bench-top Performance\nThe following bench-top performance tests were performed on the subject device and all\nhave met the acceptance criteria:\n• Particulate Testing and Coating Integrity Testing.\n• Simulated Use Testing.\n1.7.2 Biocompatibility\nThe subject Benchmark Intracranial Access System is categorized as a limited exposure\n(≤ 24 hours), externally communicating device with circulating blood contact in\naccordance with ISO 10993-1. The design and manufacturing of the subject Benchmark\nIntracranial Access System use identical materials, similar processing, and identical\nsterilization methods as products that Penumbra has already successfully conducted\nbiocompatibility testing for per ISO 10993-1. Therefore, no additional biocompatibility\ntesting is required.\n1.7.3 Performance Data – Animal, Clinical\nNo animal or clinical studies were conducted because bench testing was determined\nsufficient for verification and validation purposes.\nConclusions\nThe subject Benchmark Intracranial Access System is substantially equivalent to the\npredicate device Benchmark Intracranial Access System. The subject device has the same\nindications for use as the predicate device. The device testing described in the 510(k)\nSummary demonstrates that the subject device is substantially equivalent to the predicate\ndevice in regard to operating principle, design concept, fundamental technology, and\ndevice performance. The changes to the instructions for use do not raise new questions of\nsafety and effectiveness.\nPage 3 of 3",
-  "sizing_specs": "Size (F): 6\nLength (cm): 95, 105, 115\nInternal Diameter (inch): 0.071",
-  "indications": "Indications for Use See PRA Statement below.\n510(k) Number (if known)\nK212838\nDevice Name\nBenchmark™ Intracranial Access System\nIndications for Use (Describe)\nThe Benchmark Intracranial Access System is indicated for the introduction of interventional devices into the\nperipheral, coronary, and neuro vasculature.\nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)\nCONTINUE ON A SEPARATE PAGE IF NEEDED.\nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the\ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any other aspect\nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of\ninformation unless it displays a currently valid OMB number.”\nFORM FDA 3881 (6/20) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF\n\nK212838\n510(k) Summary\n(as required by 21 CFR 807.92)\nPursuant to Section 12, Part (a)(i)(3A) of the Safe Medical Devices Act of 1990,\nPenumbra Inc. is providing the summary of Substantial Equivalence for the subject\nBenchmark™ Intracranial Access System\nSubmitter\nPenumbra, Inc.\nOne Penumbra Place\nAlameda, CA 94502 USA\nContact person:\nBuu Buu Ly\nRegulatory Specialist III\nTel: (510) 995-2332\nFax: (510) 217-6414\nE-mail: bly@penumbrainc.com\nDate of preparation:\nMay 26, 2022\nSubject Device\nBenchmark Intracranial Access System\nRegulatory Class: II\nClassification Panel: Neurology\nClassification Name: Catheter, Percutaneous, Neurovasculature\nRegulation Number: 21 CFR 870.1250\nProduct Code: QJP, DQY",
-  "contraindications": null,
-  "compatible_with": null,
-  "use_notes": "Type: Coil reinforced",
-  "deployment_steps": null,
-  "also_known_as": [
-    "K142321"
-  ],
-  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K212838.pdf",
-  "ifu_pdf_url": null,
-  "source_url": "",
-  "confidence_score": 0.5,
-  "needs_review": true,
-  "data_sources": [
-    "fda"
-  ],
-  "_enrichment": {
-    "what_it_is": {
-      "source": "fda_summary",
-      "confidence": 0.9
-    },
-    "sizing_specs": {
-      "source": "evtoday",
-      "confidence": 0.8
-    },
-    "indications": {
-      "source": "fda_summary",
-      "confidence": 0.95
-    },
-    "contraindications": {
-      "source": "none",
-      "confidence": 0
-    },
-    "compatible_with": {
-      "source": "none",
-      "confidence": 0
-    },
-    "use_notes": {
-      "source": "evtoday",
-      "confidence": 0.8
-    },
-    "also_known_as": {
-      "source": "fda_summary",
-      "confidence": 0.3
-    }
+ "device_name": "Benchmark Intracranial Access System",
+ "manufacturer": "penumbra",
+ "catalog_category": "microcatheter",
+ "filename_stem": "microcatheter--penumbra--benchmark-intracranial-access",
+ "clearance_type": "510k",
+ "clearance_number": "K212838",
+ "clearance_date": "2022-05-27",
+ "device_class": 2,
+ "device_name_fda": "Benchmark Intracranial Access System",
+ "product_code": "QJP",
+ "what_it_is": "Device Description\nThe Benchmark Intracranial Access System is designed to aid the physician in accessing\nthe target vasculature during interventional procedures. The Benchmark Intracranial\nPage 1 of 3\n\nK212838\nAccess System is composed of a Delivery Catheter used for introduction of interventional\ndevices and a corresponding Select Catheter. Use of the Benchmark Intracranial Access\nSystem facilitates navigation to the target vascular location and delivery of interventional\ndevices. The Benchmark Intracranial Access System devices are compatible with off-the-\nshelf accessories. Various lengths and distal shapes of both the Benchmark Delivery\nCatheter and 5F Select Catheter are provided for physician convenience.\nIntended users for the Benchmark Intracranial Access System are physicians who have\nreceived appropriate training in interventional techniques. The devices are provided\nsterile, non-pyrogenic, and are intended for single use only.\nThe Benchmark Intracranial Access System will be available in two packaging\nconfigurations:\n\u2022 The Benchmark Delivery Catheter is individually packaged.\n\u2022 The Benchmark Delivery Catheter is pre-packaged with a 5F Select Catheter\n(K083125).\nIndications For Use\nThe Benchmark Intracranial Access System is indicated for the introduction of\ninterventional devices into the peripheral, coronary, and neuro vasculature.\nComparison of Technological Characteristics with the Predicate Device\nThe subject and predicate devices have identical technological characteristics.\nThe only difference between the subject and predicate devices are additional instructions\nadded to the instructions for use (IFU) for the subject device related to radial access use.\nPerformance Data\nThe following performance data were provided in support of the substantial equivalence\ndetermination:\n\u2022 Bench-top Performance.\nThe subject device met all established requirements.\nPage 2 of 3\n\nK212838\n1.7.1 Bench-top Performance\nThe following bench-top performance tests were performed on the subject device and all\nhave met the acceptance criteria:\n\u2022 Particulate Testing and Coating Integrity Testing.\n\u2022 Simulated Use Testing.\n1.7.2 Biocompatibility\nThe subject Benchmark Intracranial Access System is categorized as a limited exposure\n(\u2264 24 hours), externally communicating device with circulating blood contact in\naccordance with ISO 10993-1. The design and manufacturing of the subject Benchmark\nIntracranial Access System use identical materials, similar processing, and identical\nsterilization methods as products that Penumbra has already successfully conducted\nbiocompatibility testing for per ISO 10993-1. Therefore, no additional biocompatibility\ntesting is required.\n1.7.3 Performance Data \u2013 Animal, Clinical\nNo animal or clinical studies were conducted because bench testing was determined\nsufficient for verification and validation purposes.\nConclusions\nThe subject Benchmark Intracranial Access System is substantially equivalent to the\npredicate device Benchmark Intracranial Access System. The subject device has the same\nindications for use as the predicate device. The device testing described in the 510(k)\nSummary demonstrates that the subject device is substantially equivalent to the predicate\ndevice in regard to operating principle, design concept, fundamental technology, and\ndevice performance. The changes to the instructions for use do not raise new questions of\nsafety and effectiveness.\nPage 3 of 3",
+ "sizing_specs": {
+  "spec_status": "text-verified",
+  "spec_note": "ID+OD present in record text (regex-verified); structured extraction pending"
+ },
+ "indications": "Indications for Use See PRA Statement below.\n510(k) Number (if known)\nK212838\nDevice Name\nBenchmark\u2122 Intracranial Access System\nIndications for Use (Describe)\nThe Benchmark Intracranial Access System is indicated for the introduction of interventional devices into the\nperipheral, coronary, and neuro vasculature.\nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)\nCONTINUE ON A SEPARATE PAGE IF NEEDED.\nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the\ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any other aspect\nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n\u201cAn agency may not conduct or sponsor, and a person is not required to respond to, a collection of\ninformation unless it displays a currently valid OMB number.\u201d\nFORM FDA 3881 (6/20) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF\n\nK212838\n510(k) Summary\n(as required by 21 CFR 807.92)\nPursuant to Section 12, Part (a)(i)(3A) of the Safe Medical Devices Act of 1990,\nPenumbra Inc. is providing the summary of Substantial Equivalence for the subject\nBenchmark\u2122 Intracranial Access System\nSubmitter\nPenumbra, Inc.\nOne Penumbra Place\nAlameda, CA 94502 USA\nContact person:\nBuu Buu Ly\nRegulatory Specialist III\nTel: (510) 995-2332\nFax: (510) 217-6414\nE-mail: bly@penumbrainc.com\nDate of preparation:\nMay 26, 2022\nSubject Device\nBenchmark Intracranial Access System\nRegulatory Class: II\nClassification Panel: Neurology\nClassification Name: Catheter, Percutaneous, Neurovasculature\nRegulation Number: 21 CFR 870.1250\nProduct Code: QJP, DQY",
+ "contraindications": null,
+ "compatible_with": null,
+ "use_notes": "Type: Coil reinforced",
+ "deployment_steps": null,
+ "also_known_as": [
+  "K142321"
+ ],
+ "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K212838.pdf",
+ "ifu_pdf_url": null,
+ "source_url": "",
+ "confidence_score": 0.5,
+ "needs_review": false,
+ "data_sources": [
+  "fda"
+ ],
+ "_enrichment": {
+  "what_it_is": {
+   "source": "fda_summary",
+   "confidence": 0.9
+  },
+  "sizing_specs": {
+   "source": "evtoday",
+   "confidence": 0.8
+  },
+  "indications": {
+   "source": "fda_summary",
+   "confidence": 0.95
+  },
+  "contraindications": {
+   "source": "none",
+   "confidence": 0
+  },
+  "compatible_with": {
+   "source": "none",
+   "confidence": 0
+  },
+  "use_notes": {
+   "source": "evtoday",
+   "confidence": 0.8
+  },
+  "also_known_as": {
+   "source": "fda_summary",
+   "confidence": 0.3
   }
+ }
 }

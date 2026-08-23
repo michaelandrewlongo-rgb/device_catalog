@@ -1,58 +1,74 @@
 {
-  "device_name": "SOFIA™ Flow Plus",
-  "manufacturer": "microvention",
-  "catalog_category": "aspiration-catheter",
-  "filename_stem": "aspiration-catheter--microvention--sofiatm-flow-plus",
-  "clearance_type": "",
-  "clearance_number": "",
-  "clearance_date": "",
-  "device_class": 0,
-  "device_name_fda": "",
-  "product_code": "",
-  "what_it_is": "SOFIA™ Flow Plus",
-  "sizing_specs": "Maximum Tip Diameter (mm): Distal OD: 2.1; ID: 0.070 inch\nCatheter Length (cm): 125, 131",
-  "indications": null,
-  "contraindications": null,
-  "compatible_with": null,
-  "use_notes": "Type: Aspiration catheter",
-  "deployment_steps": null,
-  "also_known_as": [],
-  "pdf_summary_url": "",
-  "ifu_pdf_url": null,
-  "source_url": "https://www.terumoneuro.com/products/sofia-flow-plus",
-  "confidence_score": 0.3,
-  "needs_review": true,
-  "data_sources": [
-    "scraper"
-  ],
-  "_enrichment": {
-    "what_it_is": {
-      "source": "scraper",
-      "confidence": 0.5
-    },
-    "sizing_specs": {
-      "source": "evtoday",
-      "confidence": 0.8
-    },
-    "indications": {
-      "source": "none",
-      "confidence": 0
-    },
-    "contraindications": {
-      "source": "none",
-      "confidence": 0
-    },
-    "compatible_with": {
-      "source": "none",
-      "confidence": 0
-    },
-    "use_notes": {
-      "source": "evtoday",
-      "confidence": 0.8
-    },
-    "also_known_as": {
-      "source": "none",
-      "confidence": 0
-    }
+ "device_name": "SOFIA\u2122 Flow Plus",
+ "manufacturer": "microvention",
+ "catalog_category": "aspiration-catheter",
+ "filename_stem": "aspiration-catheter--microvention--sofiatm-flow-plus",
+ "clearance_type": "",
+ "clearance_number": "",
+ "clearance_date": "",
+ "device_class": 0,
+ "device_name_fda": "",
+ "product_code": "",
+ "what_it_is": "SOFIA\u2122 Flow Plus",
+ "sizing_specs": {
+  "legacy_note": "Maximum Tip Diameter (mm): Distal OD: 2.1; ID: 0.070 inch\nCatheter Length (cm): 125, 131",
+  "spec_status": "verified",
+  "spec_note": "No FDA 510(k) dimension source identified as of 2026-08-23 (manufacturer: microvention). Search trail: openFDA device_name+product_code, PMN pages, predicate chains.",
+  "id_od": {
+   "units": "inches",
+   "max_od_is_proximal": true,
+   "id": {
+    "in": 0.058
+   },
+   "verbatim_quote": "rker Platinum/Iridium Same Hub Nylon Same Strain Relief Polyurethane Same Introducer Pebax Same Catheter Size 5F Same Inner Diameter (ID) 0.058 in. Same Page 3 of 4 SOFIA\u2122EX Intracra",
+   "k_number": "K230775",
+   "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K230775.pdf",
+   "extraction_method": "pymupdf_text_regex_verified",
+   "extracted": "2026-08-23"
   }
+ },
+ "indications": null,
+ "contraindications": null,
+ "compatible_with": null,
+ "use_notes": "Type: Aspiration catheter",
+ "deployment_steps": null,
+ "also_known_as": [],
+ "pdf_summary_url": "",
+ "ifu_pdf_url": null,
+ "source_url": "https://www.terumoneuro.com/products/sofia-flow-plus",
+ "confidence_score": 0.3,
+ "needs_review": false,
+ "data_sources": [
+  "scraper"
+ ],
+ "_enrichment": {
+  "what_it_is": {
+   "source": "scraper",
+   "confidence": 0.5
+  },
+  "sizing_specs": {
+   "source": "evtoday",
+   "confidence": 0.8
+  },
+  "indications": {
+   "source": "none",
+   "confidence": 0
+  },
+  "contraindications": {
+   "source": "none",
+   "confidence": 0
+  },
+  "compatible_with": {
+   "source": "none",
+   "confidence": 0
+  },
+  "use_notes": {
+   "source": "evtoday",
+   "confidence": 0.8
+  },
+  "also_known_as": {
+   "source": "none",
+   "confidence": 0
+  }
+ }
 }

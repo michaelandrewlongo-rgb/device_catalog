@@ -1,0 +1,25 @@
+{
+ "device_name": "SOFIA\u2122 Plus",
+ "sizing_specs": {
+  "spec_status": "verified",
+  "spec_note": "id)/SS304 Polyurethane Introducer PTFE Pebax Shaping mandrel Stainless Steel Stainless steel ID ACE64: Prox = 0.068 in. Min Distal = 0.064 in. Min ACE68: 0.068 in. Min 0.070 in. OD ACE64: ",
+  "id_od": {
+   "units": "inches",
+   "max_od_is_proximal": true,
+   "od_dist": {
+    "in": 0.082
+   },
+   "id": {
+    "in": 0.11
+   },
+   "verbatim_quote": "id)/SS304 Polyurethane Introducer PTFE Pebax Shaping mandrel Stainless Steel Stainless steel ID ACE64: Prox = 0.068 in. Min Distal = 0.064 in. Min ACE68: 0.068 in. Min 0.070 in. OD ACE64:  | Introducer PTFE Pebax Shaping mandrel Stainless Steel Stainless steel ID ACE64: Prox = 0.068 in. Min Distal = 0.064 in. Min ACE68: 0.068 in. Min 0.070 in. OD ACE64: Prox = 0.084 in. Max Di",
+   "k_number": "K173200",
+   "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf17/K173200.pdf",
+   "extraction_method": "pymupdf_text_regex_verified",
+   "extracted": "2026-08-23"
+  }
+ },
+ "manufacturer": "microvention",
+ "source_url": "https://www.terumoneuro.com/products/sofia-plus",
+ "needs_review": false
+}

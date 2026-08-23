@@ -1,0 +1,23 @@
+{
+ "device_name": "FlowGate 2\u00ae",
+ "sizing_specs": {
+  "spec_status": "verified",
+  "spec_note": "K153729: summary lacks machine-readable dims (scanned/special). OCR/manual pending. balloon dimensions and maximum recommended balloon inflation volume are indicated on product label.",
+  "id_od": {
+   "units": "inches",
+   "max_od_is_proximal": true,
+   "id": {
+    "in": 0.084
+   },
+   "verbatim_quote": "EVT US Device Guide \u2014 FlowGate2 Balloon Guide Catheter: ID 0.084 inch",
+   "source_type": "trade_journal_device_guide",
+   "source_name": "Endovascular Today \u2014 US Device Guide: Guiding Catheters (EVT-US-guiding-catheters.pdf, user-supplied A1 source)",
+   "extraction_method": "manual_table_read",
+   "extracted": "2026-08-23"
+  },
+  "spec_source": "EVT US Device Guide"
+ },
+ "manufacturer": "stryker",
+ "source_url": "https://www.stryker.com/us/en/neurovascular/products/flowgate2--balloon-guide-catheter.html",
+ "needs_review": false
+}

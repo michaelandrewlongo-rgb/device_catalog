@@ -1,0 +1,25 @@
+{
+ "device_name": null,
+ "sizing_specs": {
+  "id_od": {
+   "units": "inches",
+   "max_od_is_proximal": true,
+   "od_prox": {
+    "in": 0.0837
+   },
+   "od_dist": {
+    "in": 0.082
+   },
+   "id": {
+    "in": 0.071
+   },
+   "verbatim_quote": "ed for use as a conduit for retrieval devices. Dimensions: Length 115 - 137cm 125 - 135cm Inner Diameter (ID) 0.071\u201d Same Distal Outer Diameter (OD) 0.082\u201d (0.0825\u201d max) 0.081\u201d Proximal ",
+   "k_number": "K221930",
+   "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K221930.pdf",
+   "extraction_method": "pymupdf_text_regex_verified",
+   "extracted": "2026-08-23"
+  },
+  "spec_status": "verified"
+ },
+ "needs_review": false
+}

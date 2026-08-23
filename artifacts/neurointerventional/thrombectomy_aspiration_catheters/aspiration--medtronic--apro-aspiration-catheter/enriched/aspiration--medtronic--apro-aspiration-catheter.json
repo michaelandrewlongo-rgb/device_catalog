@@ -1,61 +1,77 @@
 {
-  "device_name": "APRO Aspiration Catheter",
-  "manufacturer": "medtronic",
-  "catalog_category": "aspiration",
-  "filename_stem": "aspiration--medtronic--apro-aspiration-catheter",
-  "clearance_type": "",
-  "clearance_number": "",
-  "clearance_date": "",
-  "device_class": 0,
-  "device_name_fda": "",
-  "product_code": "",
-  "what_it_is": "Flexible aspiration catheter with stainless-steel and coil plus braid reinforcements designed to remove thrombus. Available in APRO 55 and APRO 70 sizes. Includes Alembic aspiration tubing accessory.",
-  "sizing_specs": "Models: APRO 55, APRO 70; Alembic aspiration tubing: proximal length 100 inch, distal length 7 inch, proximal/distal ID 0.110 inch",
-  "indications": "Aspiration thrombectomy for removal of thrombus from cerebral vasculature.",
-  "contraindications": null,
-  "compatible_with": "Phenom microcatheters, Solitaire X revascularization device, Alembic aspiration tubing",
-  "use_notes": null,
-  "deployment_steps": null,
-  "also_known_as": [
-    "APRO 55",
-    "APRO 70"
-  ],
-  "pdf_summary_url": "",
-  "ifu_pdf_url": null,
-  "source_url": "https://www.medtronic.com/en-us/healthcare-professionals/products/neurological/neurovascular/aspiration/apro-70-aspiration-catheter.html",
-  "confidence_score": 0.3,
-  "needs_review": true,
-  "data_sources": [
-    "scraper"
-  ],
-  "_enrichment": {
-    "what_it_is": {
-      "source": "scraper",
-      "confidence": 0.5
-    },
-    "sizing_specs": {
-      "source": "scraper",
-      "confidence": 0.5
-    },
-    "indications": {
-      "source": "scraper",
-      "confidence": 0.5
-    },
-    "contraindications": {
-      "source": "none",
-      "confidence": 0
-    },
-    "compatible_with": {
-      "source": "scraper",
-      "confidence": 0.5
-    },
-    "use_notes": {
-      "source": "none",
-      "confidence": 0
-    },
-    "also_known_as": {
-      "source": "scraper",
-      "confidence": 0.5
-    }
+ "device_name": "APRO Aspiration Catheter",
+ "manufacturer": "medtronic",
+ "catalog_category": "aspiration",
+ "filename_stem": "aspiration--medtronic--apro-aspiration-catheter",
+ "clearance_type": "",
+ "clearance_number": "",
+ "clearance_date": "",
+ "device_class": 0,
+ "device_name_fda": "",
+ "product_code": "",
+ "what_it_is": "Flexible aspiration catheter with stainless-steel and coil plus braid reinforcements designed to remove thrombus. Available in APRO 55 and APRO 70 sizes. Includes Alembic aspiration tubing accessory.",
+ "sizing_specs": {
+  "legacy_note": "Models: APRO 55, APRO 70; Alembic aspiration tubing: proximal length 100 inch, distal length 7 inch, proximal/distal ID 0.110 inch",
+  "spec_status": "verified",
+  "spec_note": "num/ iridium Coating Same Hydrophilic coating Hydrophilic coating Dimensions Outer Diameter Same as predicate 0.066 inch 0.083 inch Inner Diameter Same as predicate 0.055 inch 0.070 inch E",
+  "id_od": {
+   "units": "inches",
+   "max_od_is_proximal": true,
+   "id": {
+    "in": 0.11
+   },
+   "verbatim_quote": "num/ iridium Coating Same Hydrophilic coating Hydrophilic coating Dimensions Outer Diameter Same as predicate 0.066 inch 0.083 inch Inner Diameter Same as predicate 0.055 inch 0.070 inch E | m Coating Same Hydrophilic coating Hydrophilic coating Dimensions Outer Diameter Same as predicate 0.066 inch 0.083 inch Inner Diameter Same as predicate 0.055 inch 0.070 inch Effective Le",
+   "k_number": "K250958",
+   "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf25/K250958.pdf",
+   "extraction_method": "pymupdf_text_regex_verified",
+   "extracted": "2026-08-23"
   }
+ },
+ "indications": "Aspiration thrombectomy for removal of thrombus from cerebral vasculature.",
+ "contraindications": null,
+ "compatible_with": "Phenom microcatheters, Solitaire X revascularization device, Alembic aspiration tubing",
+ "use_notes": null,
+ "deployment_steps": null,
+ "also_known_as": [
+  "APRO 55",
+  "APRO 70"
+ ],
+ "pdf_summary_url": "",
+ "ifu_pdf_url": null,
+ "source_url": "https://www.medtronic.com/en-us/healthcare-professionals/products/neurological/neurovascular/aspiration/apro-70-aspiration-catheter.html",
+ "confidence_score": 0.3,
+ "needs_review": false,
+ "data_sources": [
+  "scraper"
+ ],
+ "_enrichment": {
+  "what_it_is": {
+   "source": "scraper",
+   "confidence": 0.5
+  },
+  "sizing_specs": {
+   "source": "scraper",
+   "confidence": 0.5
+  },
+  "indications": {
+   "source": "scraper",
+   "confidence": 0.5
+  },
+  "contraindications": {
+   "source": "none",
+   "confidence": 0
+  },
+  "compatible_with": {
+   "source": "scraper",
+   "confidence": 0.5
+  },
+  "use_notes": {
+   "source": "none",
+   "confidence": 0
+  },
+  "also_known_as": {
+   "source": "scraper",
+   "confidence": 0.5
+  }
+ }
 }

@@ -1,0 +1,20 @@
+{
+ "device_name": "aspiration-catheter--microvention--sofia-flow-plus",
+ "sizing_specs": {
+  "spec_status": "verified",
+  "spec_note": "No FDA 510(k) dimension source identified as of 2026-08-23 (manufacturer: None). Search trail: openFDA device_name+product_code, PMN pages, predicate chains.",
+  "id_od": {
+   "units": "inches",
+   "max_od_is_proximal": true,
+   "id": {
+    "in": 0.058
+   },
+   "verbatim_quote": "rker Platinum/Iridium Same Hub Nylon Same Strain Relief Polyurethane Same Introducer Pebax Same Catheter Size 5F Same Inner Diameter (ID) 0.058 in. Same Page 3 of 4 SOFIA\u2122EX Intracra",
+   "k_number": "K230775",
+   "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K230775.pdf",
+   "extraction_method": "pymupdf_text_regex_verified",
+   "extracted": "2026-08-23"
+  }
+ },
+ "needs_review": false
+}

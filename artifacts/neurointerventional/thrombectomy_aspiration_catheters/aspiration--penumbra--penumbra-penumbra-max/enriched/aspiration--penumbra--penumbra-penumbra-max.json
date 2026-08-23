@@ -1,64 +1,67 @@
 {
-  "device_name": "PENUMBRA SYSTEM / PENUMBRA SYSTEM MAX",
-  "manufacturer": "penumbra",
-  "catalog_category": "aspiration",
-  "filename_stem": "aspiration--penumbra--penumbra-penumbra-max",
-  "clearance_type": "510k",
-  "clearance_number": "K133317",
-  "clearance_date": "2014-05-13",
-  "device_class": 2,
-  "device_name_fda": "PENUMBRA SYSTEM / PENUMBRA SYSTEM MAX",
-  "product_code": "NRY",
-  "what_it_is": null,
-  "sizing_specs": null,
-  "indications": "Indications for Use (Descrilbe)\nThe Penumbra System / Penumbra System MAX are intended for use in the revascularization of patients with acute ischeinic stroke\nsecondary to intracranial large vessel occlusive disease (within the internal carotid, middle cerebral - MlI and M2 segments, basilar,\nand vertebral arteries) within 8 hours of symptom onset.\nType of Use (Select one or both, as applicable)\n[Z1 Prescription Use (Part 21 CFR 801 Subpart D) E] Over-The-Counter Use (21 CFR 801 Subpart C)\nPLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON A SEPARATE PAGE IF NEEDED.\nFOR FDA USE ONLY\nConcurrence of Center for Devices and Radiological Health (CDRH) (Signature)\n-S\nCarlos L. Pena\nFORM FDA 3881 (1114) Page l ot 2 ~E\n\nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*D0 NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the\ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any other aspect\nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff~fda.hhs.gov\n'An agency may not conduct or sponsor, and a person is not required to respond to, a collection of\nInformation unless it displays a currently valid OMB nme.\nFORM FDA 3881 (1/14) Page 2 of 2",
-  "contraindications": null,
-  "compatible_with": null,
-  "use_notes": "[FDA RECALL] 6 active recall(s).\n  - Reperfusion catheter may fail at the mid-shaft joint and may break off.  If the segment cannot be removed, it may result in blocked blood flow, requiring emergency medical treatment.\n  - The catheter may become susceptible to distal tip damage during use.  Distal tip damage in conjunction with pressurization of contrast injection may result in potential vessel damage, and subsequent p",
-  "deployment_steps": null,
-  "also_known_as": [
-    "K133317"
-  ],
-  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf13/K133317.pdf",
-  "ifu_pdf_url": null,
-  "source_url": "",
-  "confidence_score": 0.5,
-  "needs_review": true,
-  "data_sources": [
-    "fda"
-  ],
-  "_enrichment": {
-    "what_it_is": {
-      "source": "none",
-      "confidence": 0
-    },
-    "sizing_specs": {
-      "source": "none",
-      "confidence": 0
-    },
-    "indications": {
-      "source": "fda_summary",
-      "confidence": 0.95
-    },
-    "contraindications": {
-      "source": "none",
-      "confidence": 0
-    },
-    "compatible_with": {
-      "source": "none",
-      "confidence": 0
-    },
-    "use_notes": {
-      "source": "none",
-      "confidence": 0
-    },
-    "also_known_as": {
-      "source": "fda_summary",
-      "confidence": 0.3
-    },
-    "_safety": {
-      "source": "fda_maude+recalls",
-      "confidence": 0.85
-    }
+ "device_name": "PENUMBRA SYSTEM / PENUMBRA SYSTEM MAX",
+ "manufacturer": "penumbra",
+ "catalog_category": "aspiration",
+ "filename_stem": "aspiration--penumbra--penumbra-penumbra-max",
+ "clearance_type": "510k",
+ "clearance_number": "K133317",
+ "clearance_date": "2014-05-13",
+ "device_class": 2,
+ "device_name_fda": "PENUMBRA SYSTEM / PENUMBRA SYSTEM MAX",
+ "product_code": "NRY",
+ "what_it_is": null,
+ "sizing_specs": {
+  "spec_status": "unverified",
+  "spec_note": "ltTetn(HdphicCtng10as Reperfusion Catheter 4MAX PatcltTetn(HdohicCtng 0as Reperfusion Catheter4MAX/ Sheath or 8F Guide compatibility Pass (Friction Force) Reperfusion Catheter 4MAXI "
+ },
+ "indications": "Indications for Use (Descrilbe)\nThe Penumbra System / Penumbra System MAX are intended for use in the revascularization of patients with acute ischeinic stroke\nsecondary to intracranial large vessel occlusive disease (within the internal carotid, middle cerebral - MlI and M2 segments, basilar,\nand vertebral arteries) within 8 hours of symptom onset.\nType of Use (Select one or both, as applicable)\n[Z1 Prescription Use (Part 21 CFR 801 Subpart D) E] Over-The-Counter Use (21 CFR 801 Subpart C)\nPLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON A SEPARATE PAGE IF NEEDED.\nFOR FDA USE ONLY\nConcurrence of Center for Devices and Radiological Health (CDRH) (Signature)\n-S\nCarlos L. Pena\nFORM FDA 3881 (1114) Page l ot 2 ~E\n\nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*D0 NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the\ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any other aspect\nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff~fda.hhs.gov\n'An agency may not conduct or sponsor, and a person is not required to respond to, a collection of\nInformation unless it displays a currently valid OMB nme.\nFORM FDA 3881 (1/14) Page 2 of 2",
+ "contraindications": null,
+ "compatible_with": null,
+ "use_notes": "[FDA RECALL] 6 active recall(s).\n  - Reperfusion catheter may fail at the mid-shaft joint and may break off.  If the segment cannot be removed, it may result in blocked blood flow, requiring emergency medical treatment.\n  - The catheter may become susceptible to distal tip damage during use.  Distal tip damage in conjunction with pressurization of contrast injection may result in potential vessel damage, and subsequent p",
+ "deployment_steps": null,
+ "also_known_as": [
+  "K133317"
+ ],
+ "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf13/K133317.pdf",
+ "ifu_pdf_url": null,
+ "source_url": "",
+ "confidence_score": 0.5,
+ "needs_review": true,
+ "data_sources": [
+  "fda"
+ ],
+ "_enrichment": {
+  "what_it_is": {
+   "source": "none",
+   "confidence": 0
+  },
+  "sizing_specs": {
+   "source": "none",
+   "confidence": 0
+  },
+  "indications": {
+   "source": "fda_summary",
+   "confidence": 0.95
+  },
+  "contraindications": {
+   "source": "none",
+   "confidence": 0
+  },
+  "compatible_with": {
+   "source": "none",
+   "confidence": 0
+  },
+  "use_notes": {
+   "source": "none",
+   "confidence": 0
+  },
+  "also_known_as": {
+   "source": "fda_summary",
+   "confidence": 0.3
+  },
+  "_safety": {
+   "source": "fda_maude+recalls",
+   "confidence": 0.85
   }
+ }
 }

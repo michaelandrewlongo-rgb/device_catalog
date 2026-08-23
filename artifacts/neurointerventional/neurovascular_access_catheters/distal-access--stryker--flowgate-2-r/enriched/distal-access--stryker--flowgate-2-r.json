@@ -1,58 +1,74 @@
 {
-  "device_name": "FlowGate 2®",
-  "manufacturer": "stryker",
-  "catalog_category": "distal-access",
-  "filename_stem": "distal-access--stryker--flowgate-2-r",
-  "clearance_type": "",
-  "clearance_number": "",
-  "clearance_date": "",
-  "device_class": 0,
-  "device_name_fda": "",
-  "product_code": "",
-  "what_it_is": "Stryker's product portfolio",
-  "sizing_specs": "Specifications",
-  "indications": "FlowGate2 Balloon Guide Catheters are indicated for use\nin procedures for facilitating the insertion and guidance\nof an intravascular catheter into a selected blood vessel in\nthe neuro vascular system. The Balloon Guide Catheter is\nalso indicated for use as a conduit for Retrieval devices.\nThe balloon provides temporary vascular occlusion during\nthese and other angiographic procedures.",
-  "contraindications": null,
-  "compatible_with": null,
-  "use_notes": null,
-  "deployment_steps": null,
-  "also_known_as": [],
-  "pdf_summary_url": "",
-  "ifu_pdf_url": null,
-  "source_url": "https://www.stryker.com/us/en/neurovascular/products/flowgate2--balloon-guide-catheter.html",
-  "confidence_score": 0.3,
-  "needs_review": true,
-  "data_sources": [
-    "scraper"
-  ],
-  "_enrichment": {
-    "what_it_is": {
-      "source": "scraper",
-      "confidence": 0.5
-    },
-    "sizing_specs": {
-      "source": "scraper",
-      "confidence": 0.5
-    },
-    "indications": {
-      "source": "scraper",
-      "confidence": 0.5
-    },
-    "contraindications": {
-      "source": "none",
-      "confidence": 0
-    },
-    "compatible_with": {
-      "source": "none",
-      "confidence": 0
-    },
-    "use_notes": {
-      "source": "none",
-      "confidence": 0
-    },
-    "also_known_as": {
-      "source": "none",
-      "confidence": 0
-    }
+ "device_name": "FlowGate 2\u00ae",
+ "manufacturer": "stryker",
+ "catalog_category": "distal-access",
+ "filename_stem": "distal-access--stryker--flowgate-2-r",
+ "clearance_type": "",
+ "clearance_number": "",
+ "clearance_date": "",
+ "device_class": 0,
+ "device_name_fda": "",
+ "product_code": "",
+ "what_it_is": "Stryker's product portfolio",
+ "sizing_specs": {
+  "spec_status": "verified",
+  "spec_note": "K153729: summary lacks machine-readable dims (scanned/special). OCR/manual pending. K131492 summary lacks machine-readable dims (scanned/special 510(k)); OCR pass pending",
+  "id_od": {
+   "units": "inches",
+   "max_od_is_proximal": true,
+   "id": {
+    "in": 0.084
+   },
+   "verbatim_quote": "EVT US Device Guide \u2014 FlowGate2 Balloon Guide Catheter: ID 0.084 inch",
+   "source_type": "trade_journal_device_guide",
+   "source_name": "Endovascular Today \u2014 US Device Guide: Guiding Catheters (EVT-US-guiding-catheters.pdf, user-supplied A1 source)",
+   "extraction_method": "manual_table_read",
+   "extracted": "2026-08-23"
+  },
+  "spec_source": "EVT US Device Guide"
+ },
+ "indications": "FlowGate2 Balloon Guide Catheters are indicated for use\nin procedures for facilitating the insertion and guidance\nof an intravascular catheter into a selected blood vessel in\nthe neuro vascular system. The Balloon Guide Catheter is\nalso indicated for use as a conduit for Retrieval devices.\nThe balloon provides temporary vascular occlusion during\nthese and other angiographic procedures.",
+ "contraindications": null,
+ "compatible_with": null,
+ "use_notes": null,
+ "deployment_steps": null,
+ "also_known_as": [],
+ "pdf_summary_url": "",
+ "ifu_pdf_url": null,
+ "source_url": "https://www.stryker.com/us/en/neurovascular/products/flowgate2--balloon-guide-catheter.html",
+ "confidence_score": 0.3,
+ "needs_review": false,
+ "data_sources": [
+  "scraper"
+ ],
+ "_enrichment": {
+  "what_it_is": {
+   "source": "scraper",
+   "confidence": 0.5
+  },
+  "sizing_specs": {
+   "source": "scraper",
+   "confidence": 0.5
+  },
+  "indications": {
+   "source": "scraper",
+   "confidence": 0.5
+  },
+  "contraindications": {
+   "source": "none",
+   "confidence": 0
+  },
+  "compatible_with": {
+   "source": "none",
+   "confidence": 0
+  },
+  "use_notes": {
+   "source": "none",
+   "confidence": 0
+  },
+  "also_known_as": {
+   "source": "none",
+   "confidence": 0
   }
+ }
 }

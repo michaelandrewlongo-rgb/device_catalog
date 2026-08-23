@@ -1,62 +1,65 @@
 {
-  "device_name": "0.071 ID MantaRay Reperfusion Catheter, 0.055 ID MantaRay Reperfusion Catheter, 0.045 ID MantaRay Reperfusion Catheter, 0.035 ID MantaRay Reperfusion Catheter",
-  "manufacturer": "imperative-care-inc",
-  "catalog_category": "aspiration",
-  "filename_stem": "aspiration--imperative-care-inc--0-071-id-mantaray-reperfusion",
-  "clearance_type": "510k",
-  "clearance_number": "K183043",
-  "clearance_date": "2019-04-17",
-  "device_class": 2,
-  "device_name_fda": "0.071 ID MantaRay Reperfusion Catheter, 0.055 ID MantaRay Reperfusion Catheter, 0.045 ID MantaRay Reperfusion Catheter, 0.035 ID MantaRay Reperfusion Catheter",
-  "product_code": "NRY",
-  "what_it_is": null,
-  "sizing_specs": null,
-  "indications": null,
-  "contraindications": null,
-  "compatible_with": null,
-  "use_notes": "[FDA RECALL] 1 active recall(s).\n  - There is a potential for distal end of catheters to fracture and become detached.",
-  "deployment_steps": null,
-  "also_known_as": [],
-  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf18/K183043.pdf",
-  "ifu_pdf_url": null,
-  "source_url": "",
-  "confidence_score": 0.5,
-  "needs_review": true,
-  "data_sources": [
-    "fda"
-  ],
-  "_enrichment": {
-    "what_it_is": {
-      "source": "none",
-      "confidence": 0
-    },
-    "sizing_specs": {
-      "source": "none",
-      "confidence": 0
-    },
-    "indications": {
-      "source": "none",
-      "confidence": 0
-    },
-    "contraindications": {
-      "source": "none",
-      "confidence": 0
-    },
-    "compatible_with": {
-      "source": "none",
-      "confidence": 0
-    },
-    "use_notes": {
-      "source": "none",
-      "confidence": 0
-    },
-    "also_known_as": {
-      "source": "none",
-      "confidence": 0
-    },
-    "_safety": {
-      "source": "fda_maude+recalls",
-      "confidence": 0.85
-    }
+ "device_name": "0.071\u0094 ID MantaRay Reperfusion Catheter, 0.055\u0094 ID MantaRay Reperfusion Catheter, 0.045\u0094 ID MantaRay Reperfusion Catheter, 0.035\u0094 ID MantaRay Reperfusion Catheter",
+ "manufacturer": "imperative-care-inc",
+ "catalog_category": "aspiration",
+ "filename_stem": "aspiration--imperative-care-inc--0-071-id-mantaray-reperfusion",
+ "clearance_type": "510k",
+ "clearance_number": "K183043",
+ "clearance_date": "2019-04-17",
+ "device_class": 2,
+ "device_name_fda": "0.071\u0094 ID MantaRay Reperfusion Catheter, 0.055\u0094 ID MantaRay Reperfusion Catheter, 0.045\u0094 ID MantaRay Reperfusion Catheter, 0.035\u0094 ID MantaRay Reperfusion Catheter",
+ "product_code": "NRY",
+ "what_it_is": null,
+ "sizing_specs": {
+  "spec_status": "unverified",
+  "spec_note": "K183043 summary lacks machine-readable dims (scanned/special 510(k)); OCR pass pending"
+ },
+ "indications": null,
+ "contraindications": null,
+ "compatible_with": null,
+ "use_notes": "[FDA RECALL] 1 active recall(s).\n  - There is a potential for distal end of catheters to fracture and become detached.",
+ "deployment_steps": null,
+ "also_known_as": [],
+ "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf18/K183043.pdf",
+ "ifu_pdf_url": null,
+ "source_url": "",
+ "confidence_score": 0.5,
+ "needs_review": true,
+ "data_sources": [
+  "fda"
+ ],
+ "_enrichment": {
+  "what_it_is": {
+   "source": "none",
+   "confidence": 0
+  },
+  "sizing_specs": {
+   "source": "none",
+   "confidence": 0
+  },
+  "indications": {
+   "source": "none",
+   "confidence": 0
+  },
+  "contraindications": {
+   "source": "none",
+   "confidence": 0
+  },
+  "compatible_with": {
+   "source": "none",
+   "confidence": 0
+  },
+  "use_notes": {
+   "source": "none",
+   "confidence": 0
+  },
+  "also_known_as": {
+   "source": "none",
+   "confidence": 0
+  },
+  "_safety": {
+   "source": "fda_maude+recalls",
+   "confidence": 0.85
   }
+ }
 }

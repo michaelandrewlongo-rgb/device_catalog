@@ -1,61 +1,78 @@
 {
-  "device_name": "Q Distal Access Catheter",
-  "manufacturer": "mivi-neuroscience-inc",
-  "catalog_category": "distal-access",
-  "filename_stem": "distal-access--mivi-neuroscience-inc--q-distal-access-catheter",
-  "clearance_type": "510k",
-  "clearance_number": "K222948",
-  "clearance_date": "2023-09-19",
-  "device_class": 2,
-  "device_name_fda": "Q Distal Access Catheter",
-  "product_code": "QJP",
-  "what_it_is": "Device Description\nThe Q Distal Access Catheter is a single-lumen, variable stiffness catheter with radiopaque\nmarkers on the distal and proximal end of the catheter portion for angiographic visualization. The\nproximal portion of the device is a stainless-steel control wire. The distal portion of the device is a\ncoiled/braided catheter shaft with hydrophilic coating along the entire length to reduce friction\nduring use. The Q Distal Access Catheter may be introduced via an 8F guide catheter/6F guide\nsheath and over a guidewire/microcatheter into the arterial vasculature until the desired vessel is\nreached. The pin vise may be used to advance the catheter. The syringe and flush tool components\nmay aid in the flushing of the Q Distal Access Catheter.\nIntended Use / Indications for Use\nThe Q Distal Access Catheter is indicated for use with compatible guide catheters in facilitating the\ninsertion and guidance of microcatheters into a selected blood vessel in the peripheral, coronary and\nneuro vascular systems.",
-  "sizing_specs": "Model: Q5-57145",
-  "indications": "Indications for Use See PRA Statement below.\n51 O(k) Number (if known)\nK222948\nDevice Name\nQ Distal Access Catheter\nIndications for Use (Describe)\nThe Q Distal Access Catheter is indicated for use with compatible guide catheters in facilitating the insertion\nand guidance of microcatheters into a selected blood vessel in the peripheral, coronary and neuro vascular\nsystems.\nType of Use (Select one or both, as applicable)\nD\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)\nCONTINUE ON A SEPARATE PAGE IF NEEDED.\nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the\ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any other aspect\nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda. hhs. gov\n\"An agency may not conduct or sponsor, and a person is not required to respond to, a collection of\ninformation unless it displays a currently valid 0MB number.\"\nFORM FDA 3881 (6/20) Page 1 of 1 PSC Publishing Ser. ices (]0 I) �-1-3-67-1-0 EF\n\nMIVI Neuroscience, Inc.\nK222948 510(k) Summary\nQ Distal Access Catheter\n510(k) SUMMARY K222948\nDate Prepared: 09-18-2023\nTable 1. General Information\n510(k) Submitter Contact\nSrija Reddy Bandari\nMIVI Neuroscience, Inc. Regulatory Affairs Specialist\n6545 City West Parkway Email: sbandari@mivineuro.com\nEden Prairie, MN 55344\nPhone: (612) 447-2897\nFax: (952)-944-3488\nTrade Name Q Distal Access Catheter\nCommon\nQ Distal Access Catheter\nName\nPercutaneous catheter; 21 CFR 870.1250 (Class II)\nClassification\nProCode: QJP, DQY\nInformation\nPanel: Cardiovascular\nPredicate\nMIVI Q Distal Access Catheter (K192558)\nDevice",
-  "contraindications": null,
-  "compatible_with": null,
-  "use_notes": "MRI: Labeling does not contain MRI Safety Information. Pre-sterilized. Single-use",
-  "deployment_steps": null,
-  "also_known_as": [
-    "Q Distal Access Catheter",
-    "Vascular guide-catheter, single-use"
-  ],
-  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K222948.pdf",
-  "ifu_pdf_url": null,
-  "source_url": "",
-  "confidence_score": 0.5,
-  "needs_review": true,
-  "data_sources": [
-    "fda"
-  ],
-  "_enrichment": {
-    "what_it_is": {
-      "source": "fda_summary",
-      "confidence": 0.9
-    },
-    "sizing_specs": {
-      "source": "fda_udi",
-      "confidence": 0.85
-    },
-    "indications": {
-      "source": "fda_summary",
-      "confidence": 0.95
-    },
-    "contraindications": {
-      "source": "none",
-      "confidence": 0
-    },
-    "compatible_with": {
-      "source": "none",
-      "confidence": 0
-    },
-    "use_notes": {
-      "source": "fda_udi",
-      "confidence": 0.85
-    },
-    "also_known_as": {
-      "source": "fda_udi",
-      "confidence": 0.85
-    }
+ "device_name": "Q Distal Access Catheter",
+ "manufacturer": "mivi-neuroscience-inc",
+ "catalog_category": "distal-access",
+ "filename_stem": "distal-access--mivi-neuroscience-inc--q-distal-access-catheter",
+ "clearance_type": "510k",
+ "clearance_number": "K222948",
+ "clearance_date": "2023-09-19",
+ "device_class": 2,
+ "device_name_fda": "Q Distal Access Catheter",
+ "product_code": "QJP",
+ "what_it_is": "Device Description\nThe Q Distal Access Catheter is a single-lumen, variable stiffness catheter with radiopaque\nmarkers on the distal and proximal end of the catheter portion for angiographic visualization. The\nproximal portion of the device is a stainless-steel control wire. The distal portion of the device is a\ncoiled/braided catheter shaft with hydrophilic coating along the entire length to reduce friction\nduring use. The Q Distal Access Catheter may be introduced via an 8F guide catheter/6F guide\nsheath and over a guidewire/microcatheter into the arterial vasculature until the desired vessel is\nreached. The pin vise may be used to advance the catheter. The syringe and flush tool components\nmay aid in the flushing of the Q Distal Access Catheter.\nIntended Use / Indications for Use\nThe Q Distal Access Catheter is indicated for use with compatible guide catheters in facilitating the\ninsertion and guidance of microcatheters into a selected blood vessel in the peripheral, coronary and\nneuro vascular systems.",
+ "sizing_specs": {
+  "legacy_note": "Model: Q5-57145",
+  "spec_status": "verified",
+  "spec_note": "K222948: summary lacks machine-readable dims (scanned/special). OCR/manual pending.  along the entire length to reduce friction during use. The Q Distal Access Catheter may be introduced via an 8F guide catheter/6F guide sheath and over a guidewire/microcatheter int",
+  "id_od": {
+   "units": "inches",
+   "max_od_is_proximal": true,
+   "id": {
+    "in": 0.064
+   },
+   "verbatim_quote": "EVT US Device Guide \u2014 Mi-Axus Distal Access Catheter: ID 0.064 inch (Distal: 0.064; proximal: 0.072)",
+   "source_type": "trade_journal_device_guide",
+   "source_name": "Endovascular Today \u2014 US Device Guide: Guiding Catheters (EVT-US-guiding-catheters.pdf, user-supplied A1 source)",
+   "extraction_method": "manual_table_read",
+   "extracted": "2026-08-23"
+  },
+  "spec_source": "EVT US Device Guide"
+ },
+ "indications": "Indications for Use See PRA Statement below.\n51 O(k) Number (if known)\nK222948\nDevice Name\nQ Distal Access Catheter\nIndications for Use (Describe)\nThe Q Distal Access Catheter is indicated for use with compatible guide catheters in facilitating the insertion\nand guidance of microcatheters into a selected blood vessel in the peripheral, coronary and neuro vascular\nsystems.\nType of Use (Select one or both, as applicable)\nD\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)\nCONTINUE ON A SEPARATE PAGE IF NEEDED.\nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the\ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any other aspect\nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda. hhs. gov\n\"An agency may not conduct or sponsor, and a person is not required to respond to, a collection of\ninformation unless it displays a currently valid 0MB number.\"\nFORM FDA 3881 (6/20) Page 1 of 1 PSC Publishing Ser. ices (]0 I) \ufffd-1-3-67-1-0 EF\n\nMIVI Neuroscience, Inc.\nK222948 510(k) Summary\nQ Distal Access Catheter\n510(k) SUMMARY K222948\nDate Prepared: 09-18-2023\nTable 1. General Information\n510(k) Submitter Contact\nSrija Reddy Bandari\nMIVI Neuroscience, Inc. Regulatory Affairs Specialist\n6545 City West Parkway Email: sbandari@mivineuro.com\nEden Prairie, MN 55344\nPhone: (612) 447-2897\nFax: (952)-944-3488\nTrade Name Q Distal Access Catheter\nCommon\nQ Distal Access Catheter\nName\nPercutaneous catheter; 21 CFR 870.1250 (Class II)\nClassification\nProCode: QJP, DQY\nInformation\nPanel: Cardiovascular\nPredicate\nMIVI Q Distal Access Catheter (K192558)\nDevice",
+ "contraindications": null,
+ "compatible_with": null,
+ "use_notes": "MRI: Labeling does not contain MRI Safety Information. Pre-sterilized. Single-use",
+ "deployment_steps": null,
+ "also_known_as": [
+  "Q Distal Access Catheter",
+  "Vascular guide-catheter, single-use"
+ ],
+ "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K222948.pdf",
+ "ifu_pdf_url": null,
+ "source_url": "",
+ "confidence_score": 0.5,
+ "needs_review": false,
+ "data_sources": [
+  "fda"
+ ],
+ "_enrichment": {
+  "what_it_is": {
+   "source": "fda_summary",
+   "confidence": 0.9
+  },
+  "sizing_specs": {
+   "source": "fda_udi",
+   "confidence": 0.85
+  },
+  "indications": {
+   "source": "fda_summary",
+   "confidence": 0.95
+  },
+  "contraindications": {
+   "source": "none",
+   "confidence": 0
+  },
+  "compatible_with": {
+   "source": "none",
+   "confidence": 0
+  },
+  "use_notes": {
+   "source": "fda_udi",
+   "confidence": 0.85
+  },
+  "also_known_as": {
+   "source": "fda_udi",
+   "confidence": 0.85
   }
+ }
 }

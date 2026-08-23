@@ -1,0 +1,26 @@
+{
+ "device_name": "Headway\u2122",
+ "sizing_specs": {
+  "id_od": {
+   "units": "inches",
+   "max_od_is_proximal": true,
+   "id": {
+    "in": 0.027,
+    "note": "increased from 0.021"
+   },
+   "od_max": {
+    "in": 0.037,
+    "note": "outer diameter increased to 0.037\" from 0.030\"; prox/dist not separated in this filing"
+   },
+   "verbatim_quote": "The inner diameter was increased to 0.027\\\" from 0.02 1\\\" and the outer diameter was increased to 0.037\\\" from 0.03 0\\\".",
+   "k_number": "K110813",
+   "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf11/K110813.pdf",
+   "extraction_method": "pymupdf_text_manual_review",
+   "extracted": "2026-08-23"
+  },
+  "spec_status": "verified"
+ },
+ "manufacturer": "microvention",
+ "source_url": "https://www.terumoneuro.com/products/headway",
+ "needs_review": false
+}

@@ -1,0 +1,8 @@
+{
+ "device_name": "microcatheter--medtronic--echelon--safety-warnings",
+ "sizing_specs": {
+  "spec_status": "unverified",
+  "spec_note": "No FDA 510(k) dimension source identified as of 2026-08-23 (manufacturer: None). Search trail: openFDA device_name+product_code, PMN pages, predicate chains."
+ },
+ "needs_review": true
+}

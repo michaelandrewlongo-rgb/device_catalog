@@ -1,61 +1,65 @@
 {
-  "device_name": "Transend",
-  "manufacturer": "stryker",
-  "catalog_category": "microcatheter",
-  "filename_stem": "microcatheter--stryker--transend",
-  "clearance_type": "",
-  "clearance_number": "",
-  "clearance_date": "",
-  "device_class": 0,
-  "device_name_fda": "",
-  "product_code": "",
-  "what_it_is": "Pre-Loaded Torqueable Microcatheter",
-  "sizing_specs": "Model: M001195900",
-  "indications": null,
-  "contraindications": null,
-  "compatible_with": null,
-  "use_notes": "MRI: Labeling does not contain MRI Safety Information. Pre-sterilized. Single-use",
-  "deployment_steps": null,
-  "also_known_as": [
-    "Direxion™ HI-FLO™ Transend™-18 System",
-    "Vascular microcatheter"
-  ],
-  "pdf_summary_url": "",
-  "ifu_pdf_url": null,
-  "source_url": "https://www.stryker.com/us/en/neurovascular/products/transend--guidewires.html",
-  "confidence_score": 0.3,
-  "needs_review": true,
-  "data_sources": [
-    "scraper"
-  ],
-  "_enrichment": {
-    "what_it_is": {
-      "source": "fda_udi",
-      "confidence": 0.85
-    },
-    "sizing_specs": {
-      "source": "fda_udi",
-      "confidence": 0.85
-    },
-    "indications": {
-      "source": "none",
-      "confidence": 0
-    },
-    "contraindications": {
-      "source": "none",
-      "confidence": 0
-    },
-    "compatible_with": {
-      "source": "none",
-      "confidence": 0
-    },
-    "use_notes": {
-      "source": "fda_udi",
-      "confidence": 0.85
-    },
-    "also_known_as": {
-      "source": "fda_udi",
-      "confidence": 0.85
-    }
+ "device_name": "Transend",
+ "manufacturer": "stryker",
+ "catalog_category": "microcatheter",
+ "filename_stem": "microcatheter--stryker--transend",
+ "clearance_type": "",
+ "clearance_number": "",
+ "clearance_date": "",
+ "device_class": 0,
+ "device_name_fda": "",
+ "product_code": "",
+ "what_it_is": "Pre-Loaded Torqueable Microcatheter",
+ "sizing_specs": {
+  "legacy_note": "Model: M001195900",
+  "spec_status": "unverified",
+  "spec_note": "No FDA 510(k) dimension source identified as of 2026-08-23 (manufacturer: stryker). Search trail: openFDA device_name+product_code, PMN pages, predicate chains."
+ },
+ "indications": null,
+ "contraindications": null,
+ "compatible_with": null,
+ "use_notes": "MRI: Labeling does not contain MRI Safety Information. Pre-sterilized. Single-use",
+ "deployment_steps": null,
+ "also_known_as": [
+  "Direxion\u2122 HI-FLO\u2122 Transend\u2122-18 System",
+  "Vascular microcatheter"
+ ],
+ "pdf_summary_url": "",
+ "ifu_pdf_url": null,
+ "source_url": "https://www.stryker.com/us/en/neurovascular/products/transend--guidewires.html",
+ "confidence_score": 0.3,
+ "needs_review": true,
+ "data_sources": [
+  "scraper"
+ ],
+ "_enrichment": {
+  "what_it_is": {
+   "source": "fda_udi",
+   "confidence": 0.85
+  },
+  "sizing_specs": {
+   "source": "fda_udi",
+   "confidence": 0.85
+  },
+  "indications": {
+   "source": "none",
+   "confidence": 0
+  },
+  "contraindications": {
+   "source": "none",
+   "confidence": 0
+  },
+  "compatible_with": {
+   "source": "none",
+   "confidence": 0
+  },
+  "use_notes": {
+   "source": "fda_udi",
+   "confidence": 0.85
+  },
+  "also_known_as": {
+   "source": "fda_udi",
+   "confidence": 0.85
   }
+ }
 }

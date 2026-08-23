@@ -1,61 +1,77 @@
 {
-  "device_name": "Prowler EX Microcatheter",
-  "manufacturer": "cerenovus",
-  "catalog_category": "microcatheter",
-  "filename_stem": "microcatheter--cerenovus--prowler-ex-microcatheter",
-  "clearance_type": "",
-  "clearance_number": "",
-  "clearance_date": "",
-  "device_class": 0,
-  "device_name_fda": "",
-  "product_code": "",
-  "what_it_is": "Variable stiffness, single lumen microcatheter designed to access small, tortuous vasculature. Hydrophilic coating provides lubricity for vessel navigation. PTFE-lined inner lumen facilitates movement of guidewires and other devices. Proprietary braid construction provides balance of stability (braid section) and navigability (coil section).",
-  "sizing_specs": "Distal tip extension past distal marker: as little as 0.5 mm; TRUELUMEN Technology provides consistent inner diameter throughout length; In-line marker bands",
-  "indications": null,
-  "contraindications": null,
-  "compatible_with": "CEREBASE DA Guide Sheath, CEREGLIDE 71 Intermediate Catheter, EMBOTRAP III Revascularization Device, EMBOGUARD Balloon Guide Catheter, guidewires and interventional devices",
-  "use_notes": "TRUELUMEN Technology provides consistent ID throughout catheter length. Shorter distal tip past marker provides more accurate tip position representation under fluoroscopy. Part of the CERENOVUS Stroke Solutions system.",
-  "deployment_steps": null,
-  "also_known_as": [
-    "Prowler EX",
-    "PROWLER EX"
-  ],
-  "pdf_summary_url": "",
-  "ifu_pdf_url": null,
-  "source_url": "https://www.jnjmedtech.com/en-US/products/neurovascular/guide-sheaths/prowler-ex-microcatheter/",
-  "confidence_score": 0.3,
-  "needs_review": true,
-  "data_sources": [
-    "scraper"
-  ],
-  "_enrichment": {
-    "what_it_is": {
-      "source": "scraper",
-      "confidence": 0.5
-    },
-    "sizing_specs": {
-      "source": "scraper",
-      "confidence": 0.5
-    },
-    "indications": {
-      "source": "none",
-      "confidence": 0
-    },
-    "contraindications": {
-      "source": "none",
-      "confidence": 0
-    },
-    "compatible_with": {
-      "source": "scraper",
-      "confidence": 0.5
-    },
-    "use_notes": {
-      "source": "scraper",
-      "confidence": 0.5
-    },
-    "also_known_as": {
-      "source": "scraper",
-      "confidence": 0.5
-    }
+ "device_name": "Prowler EX Microcatheter",
+ "manufacturer": "cerenovus",
+ "catalog_category": "microcatheter",
+ "filename_stem": "microcatheter--cerenovus--prowler-ex-microcatheter",
+ "clearance_type": "",
+ "clearance_number": "",
+ "clearance_date": "",
+ "device_class": 0,
+ "device_name_fda": "",
+ "product_code": "",
+ "what_it_is": "Variable stiffness, single lumen microcatheter designed to access small, tortuous vasculature. Hydrophilic coating provides lubricity for vessel navigation. PTFE-lined inner lumen facilitates movement of guidewires and other devices. Proprietary braid construction provides balance of stability (braid section) and navigability (coil section).",
+ "sizing_specs": {
+  "legacy_note": "Distal tip extension past distal marker: as little as 0.5 mm; TRUELUMEN Technology provides consistent inner diameter throughout length; In-line marker bands",
+  "spec_status": "verified",
+  "spec_note": "gth (cm) 110, 135, 150, 160, 170 110, 135, 150, 170 Tip Shapes Straight, J, 45-, and 90-degree Inner Diameter 0.021\u201d Outer Diameter 2.8/ 2.3F Hub Material Girlamid Shaft Material Nylon a",
+  "id_od": {
+   "units": "inches",
+   "max_od_is_proximal": true,
+   "id": {
+    "in": 0.021
+   },
+   "verbatim_quote": "gth (cm) 110, 135, 150, 160, 170 110, 135, 150, 170 Tip Shapes Straight, J, 45-, and 90-degree Inner Diameter 0.021\u201d Outer Diameter 2.8/ 2.3F Hub Material Girlamid Shaft Material Nylon a | , 170 110, 135, 150, 170 Tip Shapes Straight, J, 45-, and 90-degree Inner Diameter 0.021\u201d Outer Diameter 2.8/ 2.3F Hub Material Girlamid Shaft Material Nylon and Pellethane Inner Linin",
+   "k_number": "K210838",
+   "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K210838.pdf",
+   "extraction_method": "pymupdf_text_regex_verified",
+   "extracted": "2026-08-23"
   }
+ },
+ "indications": null,
+ "contraindications": null,
+ "compatible_with": "CEREBASE DA Guide Sheath, CEREGLIDE 71 Intermediate Catheter, EMBOTRAP III Revascularization Device, EMBOGUARD Balloon Guide Catheter, guidewires and interventional devices",
+ "use_notes": "TRUELUMEN Technology provides consistent ID throughout catheter length. Shorter distal tip past marker provides more accurate tip position representation under fluoroscopy. Part of the CERENOVUS Stroke Solutions system.",
+ "deployment_steps": null,
+ "also_known_as": [
+  "Prowler EX",
+  "PROWLER EX"
+ ],
+ "pdf_summary_url": "",
+ "ifu_pdf_url": null,
+ "source_url": "https://www.jnjmedtech.com/en-US/products/neurovascular/guide-sheaths/prowler-ex-microcatheter/",
+ "confidence_score": 0.3,
+ "needs_review": false,
+ "data_sources": [
+  "scraper"
+ ],
+ "_enrichment": {
+  "what_it_is": {
+   "source": "scraper",
+   "confidence": 0.5
+  },
+  "sizing_specs": {
+   "source": "scraper",
+   "confidence": 0.5
+  },
+  "indications": {
+   "source": "none",
+   "confidence": 0
+  },
+  "contraindications": {
+   "source": "none",
+   "confidence": 0
+  },
+  "compatible_with": {
+   "source": "scraper",
+   "confidence": 0.5
+  },
+  "use_notes": {
+   "source": "scraper",
+   "confidence": 0.5
+  },
+  "also_known_as": {
+   "source": "scraper",
+   "confidence": 0.5
+  }
+ }
 }

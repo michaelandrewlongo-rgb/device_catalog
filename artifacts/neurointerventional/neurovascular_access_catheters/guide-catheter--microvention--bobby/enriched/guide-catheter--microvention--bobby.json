@@ -1,0 +1,22 @@
+{
+ "device_name": "BOBBY\u2122",
+ "sizing_specs": {
+  "id_od": {
+   "units": "inches",
+   "max_od_is_proximal": true,
+   "id": {
+    "in": 0.086
+   },
+   "verbatim_quote": "EVT US Device Guide \u2014 Bobby Balloon guide catheter: ID 0.086 inch",
+   "source_type": "trade_journal_device_guide",
+   "source_name": "Endovascular Today \u2014 US Device Guide: Guiding Catheters (EVT-US-guiding-catheters.pdf, user-supplied A1 source)",
+   "extraction_method": "manual_table_read",
+   "extracted": "2026-08-23"
+  },
+  "spec_status": "verified",
+  "spec_source": "EVT US Device Guide"
+ },
+ "manufacturer": "microvention",
+ "source_url": "https://www.terumoneuro.com/products/bobby",
+ "needs_review": false
+}

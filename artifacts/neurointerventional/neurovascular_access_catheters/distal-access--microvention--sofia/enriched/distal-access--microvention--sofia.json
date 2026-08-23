@@ -1,0 +1,20 @@
+{
+ "device_name": "sofia",
+ "sizing_specs": {
+  "id_od": {
+   "units": "inches",
+   "max_od_is_proximal": true,
+   "id": {
+    "in": 0.055
+   },
+   "verbatim_quote": "atory Affairs Project Manager 1311 Valencia Ave Tustin, California 92780 Re: K150366 Trade/Device Name: Sofia 6F PLUS/Distal Access Catheters Regulation Number: 21 CFR 870.1250 Regul | l, PTFE and polyolefin elastomer Platinum/Iridium Nylon Polyurethane Pebax Stainless steel Same Catheter size 5 F 6F ID 0.055 inch (1.4 mm) 0.070 inch (1.78 mm) OD 0.068 inch (1.7 mm)",
+   "k_number": "K150366",
+   "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf15/K150366.pdf",
+   "extraction_method": "pymupdf_text_regex_verified",
+   "extracted": "2026-08-23"
+  },
+  "spec_status": "verified"
+ },
+ "manufacturer": "microvention",
+ "needs_review": false
+}

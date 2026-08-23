@@ -1,0 +1,28 @@
+{
+ "device_name": "WEDGE\u2122 Delivery Catheter",
+ "sizing_specs": {
+  "spec_status": "verified",
+  "spec_note": "on Class II QJP 21 CFR 870.1250 Class II DQY 21 CFR 870.1250 Class II QJP 21 CFR 870.1250 Inner Diameter (ID) 0.019 in. 0.021 in. Same as predicate (K172014) Outer Diameter (OD) Distal 0.0",
+  "id_od": {
+   "units": "inches",
+   "max_od_is_proximal": true,
+   "od_prox": {
+    "in": 0.062
+   },
+   "od_dist": {
+    "in": 0.08
+   },
+   "id": {
+    "in": 0.019
+   },
+   "verbatim_quote": "on Class II QJP 21 CFR 870.1250 Class II DQY 21 CFR 870.1250 Class II QJP 21 CFR 870.1250 Inner Diameter (ID) 0.019 in. 0.021 in. Same as predicate (K172014) Outer Diameter (OD) Distal 0.0 | I QJP 21 CFR 870.1250 Class II DQY 21 CFR 870.1250 Class II QJP 21 CFR 870.1250 Inner Diameter (ID) 0.019 in. 0.021 in. Same as predicate (K172014) Outer Diameter (OD) Distal 0.080 in. Pro",
+   "k_number": "K232542",
+   "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K232542.pdf",
+   "extraction_method": "pymupdf_text_regex_verified",
+   "extracted": "2026-08-23"
+  }
+ },
+ "manufacturer": "microvention",
+ "source_url": "https://www.terumoneuro.com/products/wedge",
+ "needs_review": false
+}

@@ -1,61 +1,64 @@
 {
-  "device_name": "Excelsior SL-10",
-  "manufacturer": "stryker",
-  "catalog_category": "microcatheter",
-  "filename_stem": "microcatheter--stryker--excelsior-sl-10",
-  "clearance_type": "",
-  "clearance_number": "",
-  "clearance_date": "",
-  "device_class": 0,
-  "device_name_fda": "",
-  "product_code": "",
-  "what_it_is": "2 Tip Pre-Shaped S Microcatheter",
-  "sizing_specs": "Catalog: 168194; Model: M0031681940",
-  "indications": "/ indications for use\nStryker Neurovascular Excelsior SL-10 Microcatheter is\nintended to assist in the delivery of diagnostic agents,\nsuch as contrast media, and therapeutic agents, such\nas occlusion coils, into the peripheral, coronary, and\nneurovasculature.",
-  "contraindications": null,
-  "compatible_with": null,
-  "use_notes": "MRI: Labeling does not contain MRI Safety Information. Pre-sterilized. Single-use",
-  "deployment_steps": null,
-  "also_known_as": [
-    "Excelsior SL-10",
-    "Vascular microcatheter"
-  ],
-  "pdf_summary_url": "",
-  "ifu_pdf_url": null,
-  "source_url": "https://www.stryker.com/us/en/neurovascular/products/excelsior--sl-10--microcatheter.html",
-  "confidence_score": 0.3,
-  "needs_review": true,
-  "data_sources": [
-    "scraper"
-  ],
-  "_enrichment": {
-    "what_it_is": {
-      "source": "fda_udi",
-      "confidence": 0.85
-    },
-    "sizing_specs": {
-      "source": "fda_udi",
-      "confidence": 0.85
-    },
-    "indications": {
-      "source": "scraper",
-      "confidence": 0.5
-    },
-    "contraindications": {
-      "source": "none",
-      "confidence": 0
-    },
-    "compatible_with": {
-      "source": "none",
-      "confidence": 0
-    },
-    "use_notes": {
-      "source": "fda_udi",
-      "confidence": 0.85
-    },
-    "also_known_as": {
-      "source": "fda_udi",
-      "confidence": 0.85
-    }
+ "device_name": "Excelsior SL-10",
+ "manufacturer": "stryker",
+ "catalog_category": "microcatheter",
+ "filename_stem": "microcatheter--stryker--excelsior-sl-10",
+ "clearance_type": "",
+ "clearance_number": "",
+ "clearance_date": "",
+ "device_class": 0,
+ "device_name_fda": "",
+ "product_code": "",
+ "what_it_is": "2 Tip Pre-Shaped S Microcatheter",
+ "sizing_specs": {
+  "spec_status": "text-verified",
+  "spec_note": "ID+OD present in record text (regex-verified); structured extraction pending"
+ },
+ "indications": "/ indications for use\nStryker Neurovascular Excelsior SL-10 Microcatheter is\nintended to assist in the delivery of diagnostic agents,\nsuch as contrast media, and therapeutic agents, such\nas occlusion coils, into the peripheral, coronary, and\nneurovasculature.",
+ "contraindications": null,
+ "compatible_with": null,
+ "use_notes": "MRI: Labeling does not contain MRI Safety Information. Pre-sterilized. Single-use",
+ "deployment_steps": null,
+ "also_known_as": [
+  "Excelsior SL-10",
+  "Vascular microcatheter"
+ ],
+ "pdf_summary_url": "",
+ "ifu_pdf_url": null,
+ "source_url": "https://www.stryker.com/us/en/neurovascular/products/excelsior--sl-10--microcatheter.html",
+ "confidence_score": 0.3,
+ "needs_review": false,
+ "data_sources": [
+  "scraper"
+ ],
+ "_enrichment": {
+  "what_it_is": {
+   "source": "fda_udi",
+   "confidence": 0.85
+  },
+  "sizing_specs": {
+   "source": "fda_udi",
+   "confidence": 0.85
+  },
+  "indications": {
+   "source": "scraper",
+   "confidence": 0.5
+  },
+  "contraindications": {
+   "source": "none",
+   "confidence": 0
+  },
+  "compatible_with": {
+   "source": "none",
+   "confidence": 0
+  },
+  "use_notes": {
+   "source": "fda_udi",
+   "confidence": 0.85
+  },
+  "also_known_as": {
+   "source": "fda_udi",
+   "confidence": 0.85
   }
+ }
 }

@@ -1,0 +1,26 @@
+{
+ "device_name": null,
+ "sizing_specs": {
+  "spec_status": "verified",
+  "spec_note": "rventional devices (such as stents) that are indicated for use in the neurovasculature and with a catheter of 0.027 inches in inner diameter. The Excelsior XT-27 Pre-Shaped Microcatheter a",
+  "id_od": {
+   "units": "inches",
+   "max_od_is_proximal": true,
+   "id": {
+    "in": 0.046
+   },
+   "od_dist": {
+    "fr": 2.7
+   },
+   "verbatim_quote": "rventional devices (such as stents) that are indicated for use in the neurovasculature and with a catheter of 0.027 inches in inner diameter. The Excelsior XT-27 Pre-Shaped Microcatheter a | rventional devices (such as stents) that are indicated for use in the neurovasculature and with a catheter of 0.027 inches in inner diameter. Type of Use (Select one or both, as applicable",
+   "k_number": "K242289",
+   "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K242289.pdf",
+   "extraction_method": "pymupdf_text_regex_verified",
+   "extracted": "2026-08-23"
+  }
+ },
+ "catalog_category": "microcatheter",
+ "clearance_number": "K242289",
+ "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K242289.pdf",
+ "needs_review": false
+}

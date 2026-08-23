@@ -1,0 +1,22 @@
+{
+ "device_name": "AXS Infinity LS \u00ae Long Sheath",
+ "sizing_specs": {
+  "id_od": {
+   "units": "inches",
+   "max_od_is_proximal": true,
+   "id": {
+    "in": 0.088
+   },
+   "verbatim_quote": "EVT US Device Guide \u2014 AXS Infinity LS Long Sheath: ID 0.088 inch",
+   "source_type": "trade_journal_device_guide",
+   "source_name": "Endovascular Today \u2014 US Device Guide: Guiding Catheters (EVT-US-guiding-catheters.pdf, user-supplied A1 source)",
+   "extraction_method": "manual_table_read",
+   "extracted": "2026-08-23"
+  },
+  "spec_status": "verified",
+  "spec_source": "EVT US Device Guide"
+ },
+ "manufacturer": "stryker",
+ "source_url": "https://www.stryker.com/us/en/neurovascular/products/axs-infinity-ls.html",
+ "needs_review": false
+}

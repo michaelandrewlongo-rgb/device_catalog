@@ -1,0 +1,22 @@
+{
+ "device_name": null,
+ "sizing_specs": {
+  "id_od": {
+   "units": "inches",
+   "max_od_is_proximal": true,
+   "id": {
+    "in": 0.058
+   },
+   "verbatim_quote": "rker Platinum/Iridium Same Hub Nylon Same Strain Relief Polyurethane Same Introducer Pebax Same Catheter Size 5F Same Inner Diameter (ID) 0.058 in. Same Page 3 of 4 SOFIA\u2122EX Intracra",
+   "k_number": "K230775",
+   "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K230775.pdf",
+   "extraction_method": "pymupdf_text_regex_verified",
+   "extracted": "2026-08-23"
+  },
+  "spec_status": "verified"
+ },
+ "catalog_category": "distal-access",
+ "clearance_number": "K230775",
+ "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K230775.pdf",
+ "needs_review": false
+}

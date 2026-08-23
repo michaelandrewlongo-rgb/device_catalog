@@ -1,61 +1,64 @@
 {
-  "device_name": "Echelon Microcatheter",
-  "manufacturer": "medtronic",
-  "catalog_category": "microcatheter",
-  "filename_stem": "microcatheter--medtronic--echelon-microcatheter",
-  "clearance_type": "",
-  "clearance_number": "",
-  "clearance_date": "",
-  "device_class": 0,
-  "device_name_fda": "",
-  "product_code": "",
-  "what_it_is": "Single-lumen microcatheter designed for introduction over a steerable guidewire into vasculature during neurovascular procedures. Nitinol braid technology with progressive picks-per-inch. Graduated zones and transition points for balance between pushability and softness. DMSO compatible for liquid embolic delivery.",
-  "sizing_specs": "Models: Echelon 10 (low profile 1.7F distal OD), Echelon 14 (0.017 inch ID); Large 0.017 inch ID; Proximal fluoro-safe marker band; Steam-shapeable flexible tip with dual marker bands; Working length 150 cm",
-  "indications": "Introduction of interventional devices and infusion of diagnostic or therapeutic agents during neurovascular procedures. DMSO-compatible for Onyx liquid embolic delivery.",
-  "contraindications": null,
-  "compatible_with": "Onyx Liquid Embolic System (DMSO compatible), Pipeline Flex, Solitaire X, X-Pedion hydrophilic guidewire",
-  "use_notes": "Nitinol braid provides kink resistance and minimal ovalization for reliable device delivery. Echelon 10 has low profile 1.7F distal OD for accessing small vessels.",
-  "deployment_steps": null,
-  "also_known_as": [
-    "Echelon 10",
-    "Echelon 14"
-  ],
-  "pdf_summary_url": "",
-  "ifu_pdf_url": null,
-  "source_url": "https://www.medtronic.com/en-us/healthcare-professionals/products/neurological/neurovascular/catheters/micro-catheters/echelon-micro-catheter.html",
-  "confidence_score": 0.3,
-  "needs_review": true,
-  "data_sources": [
-    "scraper"
-  ],
-  "_enrichment": {
-    "what_it_is": {
-      "source": "scraper",
-      "confidence": 0.5
-    },
-    "sizing_specs": {
-      "source": "scraper",
-      "confidence": 0.5
-    },
-    "indications": {
-      "source": "scraper",
-      "confidence": 0.5
-    },
-    "contraindications": {
-      "source": "none",
-      "confidence": 0
-    },
-    "compatible_with": {
-      "source": "scraper",
-      "confidence": 0.5
-    },
-    "use_notes": {
-      "source": "scraper",
-      "confidence": 0.5
-    },
-    "also_known_as": {
-      "source": "scraper",
-      "confidence": 0.5
-    }
+ "device_name": "Echelon Microcatheter",
+ "manufacturer": "medtronic",
+ "catalog_category": "microcatheter",
+ "filename_stem": "microcatheter--medtronic--echelon-microcatheter",
+ "clearance_type": "",
+ "clearance_number": "",
+ "clearance_date": "",
+ "device_class": 0,
+ "device_name_fda": "",
+ "product_code": "",
+ "what_it_is": "Single-lumen microcatheter designed for introduction over a steerable guidewire into vasculature during neurovascular procedures. Nitinol braid technology with progressive picks-per-inch. Graduated zones and transition points for balance between pushability and softness. DMSO compatible for liquid embolic delivery.",
+ "sizing_specs": {
+  "spec_status": "unverified",
+  "spec_note": "No FDA source identified 2026-08-23"
+ },
+ "indications": "Introduction of interventional devices and infusion of diagnostic or therapeutic agents during neurovascular procedures. DMSO-compatible for Onyx liquid embolic delivery.",
+ "contraindications": null,
+ "compatible_with": "Onyx Liquid Embolic System (DMSO compatible), Pipeline Flex, Solitaire X, X-Pedion hydrophilic guidewire",
+ "use_notes": "Nitinol braid provides kink resistance and minimal ovalization for reliable device delivery. Echelon 10 has low profile 1.7F distal OD for accessing small vessels.",
+ "deployment_steps": null,
+ "also_known_as": [
+  "Echelon 10",
+  "Echelon 14"
+ ],
+ "pdf_summary_url": "",
+ "ifu_pdf_url": null,
+ "source_url": "https://www.medtronic.com/en-us/healthcare-professionals/products/neurological/neurovascular/catheters/micro-catheters/echelon-micro-catheter.html",
+ "confidence_score": 0.3,
+ "needs_review": true,
+ "data_sources": [
+  "scraper"
+ ],
+ "_enrichment": {
+  "what_it_is": {
+   "source": "scraper",
+   "confidence": 0.5
+  },
+  "sizing_specs": {
+   "source": "scraper",
+   "confidence": 0.5
+  },
+  "indications": {
+   "source": "scraper",
+   "confidence": 0.5
+  },
+  "contraindications": {
+   "source": "none",
+   "confidence": 0
+  },
+  "compatible_with": {
+   "source": "scraper",
+   "confidence": 0.5
+  },
+  "use_notes": {
+   "source": "scraper",
+   "confidence": 0.5
+  },
+  "also_known_as": {
+   "source": "scraper",
+   "confidence": 0.5
   }
+ }
 }

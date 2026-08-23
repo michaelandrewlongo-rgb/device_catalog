@@ -1,61 +1,83 @@
 {
-  "device_name": "AXS Catalyst 7",
-  "manufacturer": "stryker",
-  "catalog_category": "distal-access",
-  "filename_stem": "distal-access--stryker--axs-catalyst-7",
-  "clearance_type": "",
-  "clearance_number": "",
-  "clearance_date": "",
-  "device_class": 0,
-  "device_name_fda": "",
-  "product_code": "",
-  "what_it_is": "Distal Access Catheter",
-  "sizing_specs": "Catalog: IC068125; Model: IC068125",
-  "indications": "only\n• Excessive aspiration may cause patient complications.",
-  "contraindications": null,
-  "compatible_with": null,
-  "use_notes": "MRI: Labeling does not contain MRI Safety Information. Pre-sterilized. Single-use",
-  "deployment_steps": null,
-  "also_known_as": [
-    "AXS Catalyst 7",
-    "Vascular guide-catheter, single-use"
-  ],
-  "pdf_summary_url": "",
-  "ifu_pdf_url": null,
-  "source_url": "https://www.stryker.com/us/en/neurovascular/products/axs-catalyst-7.html",
-  "confidence_score": 0.3,
-  "needs_review": true,
-  "data_sources": [
-    "scraper"
-  ],
-  "_enrichment": {
-    "what_it_is": {
-      "source": "fda_udi",
-      "confidence": 0.85
-    },
-    "sizing_specs": {
-      "source": "fda_udi",
-      "confidence": 0.85
-    },
-    "indications": {
-      "source": "scraper",
-      "confidence": 0.5
-    },
-    "contraindications": {
-      "source": "none",
-      "confidence": 0
-    },
-    "compatible_with": {
-      "source": "none",
-      "confidence": 0
-    },
-    "use_notes": {
-      "source": "fda_udi",
-      "confidence": 0.85
-    },
-    "also_known_as": {
-      "source": "fda_udi",
-      "confidence": 0.85
-    }
+ "device_name": "AXS Catalyst 7",
+ "manufacturer": "stryker",
+ "catalog_category": "distal-access",
+ "filename_stem": "distal-access--stryker--axs-catalyst-7",
+ "clearance_type": "",
+ "clearance_number": "",
+ "clearance_date": "",
+ "device_class": 0,
+ "device_name_fda": "",
+ "product_code": "",
+ "what_it_is": "Distal Access Catheter",
+ "sizing_specs": {
+  "legacy_note": "Catalog: IC068125; Model: IC068125",
+  "id_od": {
+   "units": "inches",
+   "max_od_is_proximal": true,
+   "id": {
+    "in": 0.068
+   },
+   "verbatim_quote": "EVT US Device Guide \u2014 AXS Catalyst 7: ID 0.068 inch",
+   "source_type": "trade_journal_device_guide",
+   "source_name": "Endovascular Today \u2014 US Device Guide: Guiding Catheters (EVT-US-guiding-catheters.pdf, user-supplied A1 source)",
+   "extraction_method": "manual_table_read",
+   "extracted": "2026-08-23",
+   "od_prox": {
+    "fr": 6.3
+   },
+   "od_dist": {
+    "fr": 6.2
+   }
+  },
+  "spec_status": "verified",
+  "spec_source": "EVT US Device Guide"
+ },
+ "indications": "only\n\u2022 Excessive aspiration may cause patient complications.",
+ "contraindications": null,
+ "compatible_with": null,
+ "use_notes": "MRI: Labeling does not contain MRI Safety Information. Pre-sterilized. Single-use",
+ "deployment_steps": null,
+ "also_known_as": [
+  "AXS Catalyst 7",
+  "Vascular guide-catheter, single-use"
+ ],
+ "pdf_summary_url": "",
+ "ifu_pdf_url": null,
+ "source_url": "https://www.stryker.com/us/en/neurovascular/products/axs-catalyst-7.html",
+ "confidence_score": 0.3,
+ "needs_review": false,
+ "data_sources": [
+  "scraper"
+ ],
+ "_enrichment": {
+  "what_it_is": {
+   "source": "fda_udi",
+   "confidence": 0.85
+  },
+  "sizing_specs": {
+   "source": "fda_udi",
+   "confidence": 0.85
+  },
+  "indications": {
+   "source": "scraper",
+   "confidence": 0.5
+  },
+  "contraindications": {
+   "source": "none",
+   "confidence": 0
+  },
+  "compatible_with": {
+   "source": "none",
+   "confidence": 0
+  },
+  "use_notes": {
+   "source": "fda_udi",
+   "confidence": 0.85
+  },
+  "also_known_as": {
+   "source": "fda_udi",
+   "confidence": 0.85
   }
+ }
 }

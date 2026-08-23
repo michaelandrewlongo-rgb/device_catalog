@@ -1,61 +1,82 @@
 {
-  "device_name": "React Aspiration Catheter",
-  "manufacturer": "medtronic",
-  "catalog_category": "aspiration",
-  "filename_stem": "aspiration--medtronic--react-aspiration-catheter",
-  "clearance_type": "",
-  "clearance_number": "",
-  "clearance_date": "",
-  "device_class": 0,
-  "device_name_fda": "",
-  "product_code": "",
-  "what_it_is": "Aspiration catheter featuring coil, braid, and end-to-end nitinol construction for navigating vasculature during acute ischemic stroke procedures. Available in React 68 and React 71 sizes.",
-  "sizing_specs": "Models: React 68, React 71",
-  "indications": "Aspiration thrombectomy during acute ischemic stroke (AIS) procedures.",
-  "contraindications": null,
-  "compatible_with": "Solitaire X Revascularization Device (combined approach)",
-  "use_notes": "Coil, braid, and nitinol construction provides navigability and support.",
-  "deployment_steps": null,
-  "also_known_as": [
-    "React 68",
-    "React 71"
-  ],
-  "pdf_summary_url": "",
-  "ifu_pdf_url": null,
-  "source_url": "https://www.medtronic.com/en-us/healthcare-professionals/products/neurological/neurovascular/catheters/aspiration-neurovascular-catheters/react-catheter.html",
-  "confidence_score": 0.3,
-  "needs_review": true,
-  "data_sources": [
-    "scraper"
-  ],
-  "_enrichment": {
-    "what_it_is": {
-      "source": "scraper",
-      "confidence": 0.5
-    },
-    "sizing_specs": {
-      "source": "scraper",
-      "confidence": 0.5
-    },
-    "indications": {
-      "source": "scraper",
-      "confidence": 0.5
-    },
-    "contraindications": {
-      "source": "none",
-      "confidence": 0
-    },
-    "compatible_with": {
-      "source": "scraper",
-      "confidence": 0.5
-    },
-    "use_notes": {
-      "source": "scraper",
-      "confidence": 0.5
-    },
-    "also_known_as": {
-      "source": "scraper",
-      "confidence": 0.5
-    }
+ "device_name": "React Aspiration Catheter",
+ "manufacturer": "medtronic",
+ "catalog_category": "aspiration",
+ "filename_stem": "aspiration--medtronic--react-aspiration-catheter",
+ "clearance_type": "",
+ "clearance_number": "",
+ "clearance_date": "",
+ "device_class": 0,
+ "device_name_fda": "",
+ "product_code": "",
+ "what_it_is": "Aspiration catheter featuring coil, braid, and end-to-end nitinol construction for navigating vasculature during acute ischemic stroke procedures. Available in React 68 and React 71 sizes.",
+ "sizing_specs": {
+  "legacy_note": "Models: React 68, React 71",
+  "id_od": {
+   "units": "inches",
+   "max_od_is_proximal": true,
+   "od_prox": {
+    "in": 0.084
+   },
+   "od_dist": {
+    "in": 0.084
+   },
+   "id": {
+    "in": 0.068
+   },
+   "verbatim_quote": "ium (10%) Same Coating SRDX Harmony Surmodics Serene\u00ae Working Length 132 cm Same Proximal Inner Diameter (ID) 0.068\u201d (Min.) 0.068\u201d (Min.) Proximal Outer Diameter (OD) 0.084\u201d (Max.) 0.083",
+   "k_number": "K180705",
+   "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf18/K180705.pdf",
+   "extraction_method": "pymupdf_text_regex_verified",
+   "extracted": "2026-08-23"
+  },
+  "spec_status": "verified"
+ },
+ "indications": "Aspiration thrombectomy during acute ischemic stroke (AIS) procedures.",
+ "contraindications": null,
+ "compatible_with": "Solitaire X Revascularization Device (combined approach)",
+ "use_notes": "Coil, braid, and nitinol construction provides navigability and support.",
+ "deployment_steps": null,
+ "also_known_as": [
+  "React 68",
+  "React 71"
+ ],
+ "pdf_summary_url": "",
+ "ifu_pdf_url": null,
+ "source_url": "https://www.medtronic.com/en-us/healthcare-professionals/products/neurological/neurovascular/catheters/aspiration-neurovascular-catheters/react-catheter.html",
+ "confidence_score": 0.3,
+ "needs_review": false,
+ "data_sources": [
+  "scraper"
+ ],
+ "_enrichment": {
+  "what_it_is": {
+   "source": "scraper",
+   "confidence": 0.5
+  },
+  "sizing_specs": {
+   "source": "scraper",
+   "confidence": 0.5
+  },
+  "indications": {
+   "source": "scraper",
+   "confidence": 0.5
+  },
+  "contraindications": {
+   "source": "none",
+   "confidence": 0
+  },
+  "compatible_with": {
+   "source": "scraper",
+   "confidence": 0.5
+  },
+  "use_notes": {
+   "source": "scraper",
+   "confidence": 0.5
+  },
+  "also_known_as": {
+   "source": "scraper",
+   "confidence": 0.5
   }
+ }
 }

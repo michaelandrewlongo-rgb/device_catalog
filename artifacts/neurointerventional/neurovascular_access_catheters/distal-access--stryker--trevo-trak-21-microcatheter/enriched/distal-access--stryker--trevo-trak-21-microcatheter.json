@@ -1,0 +1,24 @@
+{
+ "device_name": "Trevo Trak \u00ae 21 Microcatheter",
+ "sizing_specs": {
+  "id_od": {
+   "units": "inches",
+   "max_od_is_proximal": true,
+   "od_prox": {
+    "fr": 2.4
+   },
+   "id": {
+    "in": 0.021
+   },
+   "verbatim_quote": "crocatheter K211594 Page 4 of 6 Detail Subject Device Predicate Device (K192122) Labeled Shaft Outer Diameter 2.4F/2.0F Same Labeled Shaft Inner Diameter .021\u201d Same Effective Length 16",
+   "k_number": "K211594",
+   "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K211594.pdf",
+   "extraction_method": "pymupdf_text_regex_verified",
+   "extracted": "2026-08-23"
+  },
+  "spec_status": "verified"
+ },
+ "manufacturer": "stryker",
+ "source_url": "https://www.stryker.com/us/en/neurovascular/products/trak-21.html",
+ "needs_review": false
+}

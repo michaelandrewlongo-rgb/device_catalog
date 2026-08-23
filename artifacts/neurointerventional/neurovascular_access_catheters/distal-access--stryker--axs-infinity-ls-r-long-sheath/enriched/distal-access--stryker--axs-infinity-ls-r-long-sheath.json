@@ -1,58 +1,74 @@
 {
-  "device_name": "AXS Infinity LS ® Long Sheath",
-  "manufacturer": "stryker",
-  "catalog_category": "distal-access",
-  "filename_stem": "distal-access--stryker--axs-infinity-ls-r-long-sheath",
-  "clearance_type": "",
-  "clearance_number": "",
-  "clearance_date": "",
-  "device_class": 0,
-  "device_name_fda": "",
-  "product_code": "",
-  "what_it_is": "AXS Infinity LS ® Long Sheath",
-  "sizing_specs": "Size (F): 8\nLength (cm): 70, 80, 90\nInternal Diameter (inch): 0.088",
-  "indications": "The AXS Infinity LS Long Sheath is indicated for the\nintroduction of interventional devices into the peripheral,\ncoronary, and neuro vasculature.",
-  "contraindications": null,
-  "compatible_with": null,
-  "use_notes": "Type: Braided",
-  "deployment_steps": null,
-  "also_known_as": [],
-  "pdf_summary_url": "",
-  "ifu_pdf_url": null,
-  "source_url": "https://www.stryker.com/us/en/neurovascular/products/axs-infinity-ls.html",
-  "confidence_score": 0.3,
-  "needs_review": true,
-  "data_sources": [
-    "scraper"
-  ],
-  "_enrichment": {
-    "what_it_is": {
-      "source": "scraper",
-      "confidence": 0.5
-    },
-    "sizing_specs": {
-      "source": "evtoday",
-      "confidence": 0.8
-    },
-    "indications": {
-      "source": "scraper",
-      "confidence": 0.5
-    },
-    "contraindications": {
-      "source": "none",
-      "confidence": 0
-    },
-    "compatible_with": {
-      "source": "none",
-      "confidence": 0
-    },
-    "use_notes": {
-      "source": "evtoday",
-      "confidence": 0.8
-    },
-    "also_known_as": {
-      "source": "none",
-      "confidence": 0
-    }
+ "device_name": "AXS Infinity LS \u00ae Long Sheath",
+ "manufacturer": "stryker",
+ "catalog_category": "distal-access",
+ "filename_stem": "distal-access--stryker--axs-infinity-ls-r-long-sheath",
+ "clearance_type": "",
+ "clearance_number": "",
+ "clearance_date": "",
+ "device_class": 0,
+ "device_name_fda": "",
+ "product_code": "",
+ "what_it_is": "AXS Infinity LS \u00ae Long Sheath",
+ "sizing_specs": {
+  "legacy_note": "Size (F): 8\nLength (cm): 70, 80, 90\nInternal Diameter (inch): 0.088",
+  "id_od": {
+   "units": "inches",
+   "max_od_is_proximal": true,
+   "id": {
+    "in": 0.088
+   },
+   "verbatim_quote": "EVT US Device Guide \u2014 AXS Infinity LS Long Sheath: ID 0.088 inch",
+   "source_type": "trade_journal_device_guide",
+   "source_name": "Endovascular Today \u2014 US Device Guide: Guiding Catheters (EVT-US-guiding-catheters.pdf, user-supplied A1 source)",
+   "extraction_method": "manual_table_read",
+   "extracted": "2026-08-23"
+  },
+  "spec_status": "verified",
+  "spec_source": "EVT US Device Guide"
+ },
+ "indications": "The AXS Infinity LS Long Sheath is indicated for the\nintroduction of interventional devices into the peripheral,\ncoronary, and neuro vasculature.",
+ "contraindications": null,
+ "compatible_with": null,
+ "use_notes": "Type: Braided",
+ "deployment_steps": null,
+ "also_known_as": [],
+ "pdf_summary_url": "",
+ "ifu_pdf_url": null,
+ "source_url": "https://www.stryker.com/us/en/neurovascular/products/axs-infinity-ls.html",
+ "confidence_score": 0.3,
+ "needs_review": false,
+ "data_sources": [
+  "scraper"
+ ],
+ "_enrichment": {
+  "what_it_is": {
+   "source": "scraper",
+   "confidence": 0.5
+  },
+  "sizing_specs": {
+   "source": "evtoday",
+   "confidence": 0.8
+  },
+  "indications": {
+   "source": "scraper",
+   "confidence": 0.5
+  },
+  "contraindications": {
+   "source": "none",
+   "confidence": 0
+  },
+  "compatible_with": {
+   "source": "none",
+   "confidence": 0
+  },
+  "use_notes": {
+   "source": "evtoday",
+   "confidence": 0.8
+  },
+  "also_known_as": {
+   "source": "none",
+   "confidence": 0
   }
+ }
 }

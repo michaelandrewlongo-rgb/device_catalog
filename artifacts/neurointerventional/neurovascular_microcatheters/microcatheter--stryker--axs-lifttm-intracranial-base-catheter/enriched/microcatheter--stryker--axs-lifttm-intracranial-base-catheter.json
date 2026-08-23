@@ -1,58 +1,62 @@
 {
-  "device_name": "AXS Lift™ Intracranial Base Catheter",
-  "manufacturer": "stryker",
-  "catalog_category": "microcatheter",
-  "filename_stem": "microcatheter--stryker--axs-lifttm-intracranial-base-catheter",
-  "clearance_type": "",
-  "clearance_number": "",
-  "clearance_date": "",
-  "device_class": 0,
-  "device_name_fda": "",
-  "product_code": "",
-  "what_it_is": "AXS Lift™ Intracranial Base Catheter",
-  "sizing_specs": "Specifications",
-  "indications": "The AXS Lift Intracranial Base Catheter is indicated\nfor the introduction of interventional devices into the\nperipheral and neurovasculature.",
-  "contraindications": null,
-  "compatible_with": null,
-  "use_notes": null,
-  "deployment_steps": null,
-  "also_known_as": [],
-  "pdf_summary_url": "",
-  "ifu_pdf_url": null,
-  "source_url": "https://www.stryker.com/us/en/neurovascular/products/axs-lift.html",
-  "confidence_score": 0.3,
-  "needs_review": true,
-  "data_sources": [
-    "scraper"
-  ],
-  "_enrichment": {
-    "what_it_is": {
-      "source": "scraper",
-      "confidence": 0.5
-    },
-    "sizing_specs": {
-      "source": "scraper",
-      "confidence": 0.5
-    },
-    "indications": {
-      "source": "scraper",
-      "confidence": 0.5
-    },
-    "contraindications": {
-      "source": "none",
-      "confidence": 0
-    },
-    "compatible_with": {
-      "source": "none",
-      "confidence": 0
-    },
-    "use_notes": {
-      "source": "none",
-      "confidence": 0
-    },
-    "also_known_as": {
-      "source": "none",
-      "confidence": 0
-    }
+ "device_name": "AXS Lift\u2122 Intracranial Base Catheter",
+ "manufacturer": "stryker",
+ "catalog_category": "microcatheter",
+ "filename_stem": "microcatheter--stryker--axs-lifttm-intracranial-base-catheter",
+ "clearance_type": "",
+ "clearance_number": "",
+ "clearance_date": "",
+ "device_class": 0,
+ "device_name_fda": "",
+ "product_code": "",
+ "what_it_is": "AXS Lift\u2122 Intracranial Base Catheter",
+ "sizing_specs": {
+  "legacy_note": "Specifications",
+  "spec_status": "unverified",
+  "spec_note": "K243593: summary lacks machine-readable dims (scanned/special). OCR/manual pending. The AXS Lift Intracranial Base Catheter is compatible with short introducer sheaths with an inner diameter of 7Fr or greater. AXS Lift is supplied sterile, non-pyrogenic, and is inten"
+ },
+ "indications": "The AXS Lift Intracranial Base Catheter is indicated\nfor the introduction of interventional devices into the\nperipheral and neurovasculature.",
+ "contraindications": null,
+ "compatible_with": null,
+ "use_notes": null,
+ "deployment_steps": null,
+ "also_known_as": [],
+ "pdf_summary_url": "",
+ "ifu_pdf_url": null,
+ "source_url": "https://www.stryker.com/us/en/neurovascular/products/axs-lift.html",
+ "confidence_score": 0.3,
+ "needs_review": true,
+ "data_sources": [
+  "scraper"
+ ],
+ "_enrichment": {
+  "what_it_is": {
+   "source": "scraper",
+   "confidence": 0.5
+  },
+  "sizing_specs": {
+   "source": "scraper",
+   "confidence": 0.5
+  },
+  "indications": {
+   "source": "scraper",
+   "confidence": 0.5
+  },
+  "contraindications": {
+   "source": "none",
+   "confidence": 0
+  },
+  "compatible_with": {
+   "source": "none",
+   "confidence": 0
+  },
+  "use_notes": {
+   "source": "none",
+   "confidence": 0
+  },
+  "also_known_as": {
+   "source": "none",
+   "confidence": 0
   }
+ }
 }

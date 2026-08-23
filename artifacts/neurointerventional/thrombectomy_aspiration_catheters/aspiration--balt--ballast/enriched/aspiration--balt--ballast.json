@@ -1,61 +1,65 @@
 {
-  "device_name": "Ballast",
-  "manufacturer": "balt",
-  "catalog_category": "aspiration",
-  "filename_stem": "aspiration--balt--ballast",
-  "clearance_type": "",
-  "clearance_number": "",
-  "clearance_date": "",
-  "device_class": 0,
-  "device_name_fda": "",
-  "product_code": "",
-  "what_it_is": "The Ballast 088 Long Sheath is a sterile, single use, single lumen, variable stiffness guide catheter/long sheath that is designed for facilitating the introduction of appropriately sized interventional devices into target blood vessels in the peripheral, coronary, and neuro vasculature.",
-  "sizing_specs": "Catalog: N/A; Model: BALLAST105",
-  "indications": "The Ballast 088 Long Sheath is indicated for the introduction of interventional devices into the peripheral, coronary, and neurovasculature.",
-  "contraindications": null,
-  "compatible_with": null,
-  "use_notes": "MRI: Labeling does not contain MRI Safety Information. Pre-sterilized. Single-use",
-  "deployment_steps": null,
-  "also_known_as": [
-    "Ballast 088 Long Sheath",
-    "Vascular guide-catheter, single-use"
-  ],
-  "pdf_summary_url": "",
-  "ifu_pdf_url": null,
-  "source_url": "https://baltgroup.com/products/ballast",
-  "confidence_score": 0.3,
-  "needs_review": true,
-  "data_sources": [
-    "scraper"
-  ],
-  "_enrichment": {
-    "what_it_is": {
-      "source": "fda_udi",
-      "confidence": 0.85
-    },
-    "sizing_specs": {
-      "source": "fda_udi",
-      "confidence": 0.85
-    },
-    "indications": {
-      "source": "scraper",
-      "confidence": 0.5
-    },
-    "contraindications": {
-      "source": "none",
-      "confidence": 0
-    },
-    "compatible_with": {
-      "source": "none",
-      "confidence": 0
-    },
-    "use_notes": {
-      "source": "fda_udi",
-      "confidence": 0.85
-    },
-    "also_known_as": {
-      "source": "fda_udi",
-      "confidence": 0.85
-    }
+ "device_name": "Ballast",
+ "manufacturer": "balt",
+ "catalog_category": "aspiration",
+ "filename_stem": "aspiration--balt--ballast",
+ "clearance_type": "",
+ "clearance_number": "",
+ "clearance_date": "",
+ "device_class": 0,
+ "device_name_fda": "",
+ "product_code": "",
+ "what_it_is": "The Ballast 088 Long Sheath is a sterile, single use, single lumen, variable stiffness guide catheter/long sheath that is designed for facilitating the introduction of appropriately sized interventional devices into target blood vessels in the peripheral, coronary, and neuro vasculature.",
+ "sizing_specs": {
+  "legacy_note": "Catalog: N/A; Model: BALLAST105",
+  "spec_status": "unverified",
+  "spec_note": "No FDA 510(k) dimension source identified as of 2026-08-23 (manufacturer: balt). Search trail: openFDA device_name+product_code, PMN pages, predicate chains."
+ },
+ "indications": "The Ballast 088 Long Sheath is indicated for the introduction of interventional devices into the peripheral, coronary, and neurovasculature.",
+ "contraindications": null,
+ "compatible_with": null,
+ "use_notes": "MRI: Labeling does not contain MRI Safety Information. Pre-sterilized. Single-use",
+ "deployment_steps": null,
+ "also_known_as": [
+  "Ballast 088 Long Sheath",
+  "Vascular guide-catheter, single-use"
+ ],
+ "pdf_summary_url": "",
+ "ifu_pdf_url": null,
+ "source_url": "https://baltgroup.com/products/ballast",
+ "confidence_score": 0.3,
+ "needs_review": true,
+ "data_sources": [
+  "scraper"
+ ],
+ "_enrichment": {
+  "what_it_is": {
+   "source": "fda_udi",
+   "confidence": 0.85
+  },
+  "sizing_specs": {
+   "source": "fda_udi",
+   "confidence": 0.85
+  },
+  "indications": {
+   "source": "scraper",
+   "confidence": 0.5
+  },
+  "contraindications": {
+   "source": "none",
+   "confidence": 0
+  },
+  "compatible_with": {
+   "source": "none",
+   "confidence": 0
+  },
+  "use_notes": {
+   "source": "fda_udi",
+   "confidence": 0.85
+  },
+  "also_known_as": {
+   "source": "fda_udi",
+   "confidence": 0.85
   }
+ }
 }

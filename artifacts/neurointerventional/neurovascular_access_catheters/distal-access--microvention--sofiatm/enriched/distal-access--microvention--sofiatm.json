@@ -1,58 +1,72 @@
 {
-  "device_name": "SOFIA™",
-  "manufacturer": "microvention",
-  "catalog_category": "distal-access",
-  "filename_stem": "distal-access--microvention--sofiatm",
-  "clearance_type": "",
-  "clearance_number": "",
-  "clearance_date": "",
-  "device_class": 0,
-  "device_name_fda": "",
-  "product_code": "",
-  "what_it_is": "SOFIA™",
-  "sizing_specs": null,
-  "indications": null,
-  "contraindications": null,
-  "compatible_with": null,
-  "use_notes": null,
-  "deployment_steps": null,
-  "also_known_as": [],
-  "pdf_summary_url": "",
-  "ifu_pdf_url": null,
-  "source_url": "https://www.terumoneuro.com/products/sofia",
-  "confidence_score": 0.3,
-  "needs_review": true,
-  "data_sources": [
-    "scraper"
-  ],
-  "_enrichment": {
-    "what_it_is": {
-      "source": "scraper",
-      "confidence": 0.5
-    },
-    "sizing_specs": {
-      "source": "none",
-      "confidence": 0
-    },
-    "indications": {
-      "source": "none",
-      "confidence": 0
-    },
-    "contraindications": {
-      "source": "none",
-      "confidence": 0
-    },
-    "compatible_with": {
-      "source": "none",
-      "confidence": 0
-    },
-    "use_notes": {
-      "source": "none",
-      "confidence": 0
-    },
-    "also_known_as": {
-      "source": "none",
-      "confidence": 0
-    }
+ "device_name": "SOFIA\u2122",
+ "manufacturer": "microvention",
+ "catalog_category": "distal-access",
+ "filename_stem": "distal-access--microvention--sofiatm",
+ "clearance_type": "",
+ "clearance_number": "",
+ "clearance_date": "",
+ "device_class": 0,
+ "device_name_fda": "",
+ "product_code": "",
+ "what_it_is": "SOFIA\u2122",
+ "sizing_specs": {
+  "id_od": {
+   "units": "inches",
+   "max_od_is_proximal": true,
+   "id": {
+    "in": 0.055
+   },
+   "verbatim_quote": "atory Affairs Project Manager 1311 Valencia Ave Tustin, California 92780 Re: K150366 Trade/Device Name: Sofia 6F PLUS/Distal Access Catheters Regulation Number: 21 CFR 870.1250 Regul | l, PTFE and polyolefin elastomer Platinum/Iridium Nylon Polyurethane Pebax Stainless steel Same Catheter size 5 F 6F ID 0.055 inch (1.4 mm) 0.070 inch (1.78 mm) OD 0.068 inch (1.7 mm)",
+   "k_number": "K150366",
+   "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf15/K150366.pdf",
+   "extraction_method": "pymupdf_text_regex_verified",
+   "extracted": "2026-08-23"
+  },
+  "spec_status": "verified"
+ },
+ "indications": null,
+ "contraindications": null,
+ "compatible_with": null,
+ "use_notes": null,
+ "deployment_steps": null,
+ "also_known_as": [],
+ "pdf_summary_url": "",
+ "ifu_pdf_url": null,
+ "source_url": "https://www.terumoneuro.com/products/sofia",
+ "confidence_score": 0.3,
+ "needs_review": false,
+ "data_sources": [
+  "scraper"
+ ],
+ "_enrichment": {
+  "what_it_is": {
+   "source": "scraper",
+   "confidence": 0.5
+  },
+  "sizing_specs": {
+   "source": "none",
+   "confidence": 0
+  },
+  "indications": {
+   "source": "none",
+   "confidence": 0
+  },
+  "contraindications": {
+   "source": "none",
+   "confidence": 0
+  },
+  "compatible_with": {
+   "source": "none",
+   "confidence": 0
+  },
+  "use_notes": {
+   "source": "none",
+   "confidence": 0
+  },
+  "also_known_as": {
+   "source": "none",
+   "confidence": 0
   }
+ }
 }

@@ -1,0 +1,7 @@
+{
+ "sizing_specs": {
+  "spec_status": "text-verified",
+  "spec_note": "ID+OD present in record text (regex-verified); structured extraction pending"
+ },
+ "needs_review": false
+}

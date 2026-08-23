@@ -1,58 +1,77 @@
 {
-  "device_name": "Headway™",
-  "manufacturer": "microvention",
-  "catalog_category": "microcatheter",
-  "filename_stem": "microcatheter--microvention--headwaytm",
-  "clearance_type": "",
-  "clearance_number": "",
-  "clearance_date": "",
-  "device_class": 0,
-  "device_name_fda": "",
-  "product_code": "",
-  "what_it_is": "Headway™",
-  "sizing_specs": null,
-  "indications": null,
-  "contraindications": null,
-  "compatible_with": null,
-  "use_notes": null,
-  "deployment_steps": null,
-  "also_known_as": [],
-  "pdf_summary_url": "",
-  "ifu_pdf_url": null,
-  "source_url": "https://www.terumoneuro.com/products/headway",
-  "confidence_score": 0.3,
-  "needs_review": true,
-  "data_sources": [
-    "scraper"
-  ],
-  "_enrichment": {
-    "what_it_is": {
-      "source": "scraper",
-      "confidence": 0.5
-    },
-    "sizing_specs": {
-      "source": "none",
-      "confidence": 0
-    },
-    "indications": {
-      "source": "none",
-      "confidence": 0
-    },
-    "contraindications": {
-      "source": "none",
-      "confidence": 0
-    },
-    "compatible_with": {
-      "source": "none",
-      "confidence": 0
-    },
-    "use_notes": {
-      "source": "none",
-      "confidence": 0
-    },
-    "also_known_as": {
-      "source": "none",
-      "confidence": 0
-    }
+ "device_name": "Headway\u2122",
+ "manufacturer": "microvention",
+ "catalog_category": "microcatheter",
+ "filename_stem": "microcatheter--microvention--headwaytm",
+ "clearance_type": "",
+ "clearance_number": "",
+ "clearance_date": "",
+ "device_class": 0,
+ "device_name_fda": "",
+ "product_code": "",
+ "what_it_is": "Headway\u2122",
+ "sizing_specs": {
+  "id_od": {
+   "units": "inches",
+   "max_od_is_proximal": true,
+   "id": {
+    "in": 0.027,
+    "note": "increased from 0.021"
+   },
+   "od_max": {
+    "in": 0.037,
+    "note": "outer diameter increased to 0.037\" from 0.030\"; prox/dist not separated in this filing"
+   },
+   "verbatim_quote": "The inner diameter was increased to 0.027\\\" from 0.02 1\\\" and the outer diameter was increased to 0.037\\\" from 0.03 0\\\".",
+   "k_number": "K110813",
+   "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf11/K110813.pdf",
+   "extraction_method": "pymupdf_text_manual_review",
+   "extracted": "2026-08-23"
+  },
+  "spec_status": "verified"
+ },
+ "indications": null,
+ "contraindications": null,
+ "compatible_with": null,
+ "use_notes": null,
+ "deployment_steps": null,
+ "also_known_as": [],
+ "pdf_summary_url": "",
+ "ifu_pdf_url": null,
+ "source_url": "https://www.terumoneuro.com/products/headway",
+ "confidence_score": 0.3,
+ "needs_review": false,
+ "data_sources": [
+  "scraper"
+ ],
+ "_enrichment": {
+  "what_it_is": {
+   "source": "scraper",
+   "confidence": 0.5
+  },
+  "sizing_specs": {
+   "source": "none",
+   "confidence": 0
+  },
+  "indications": {
+   "source": "none",
+   "confidence": 0
+  },
+  "contraindications": {
+   "source": "none",
+   "confidence": 0
+  },
+  "compatible_with": {
+   "source": "none",
+   "confidence": 0
+  },
+  "use_notes": {
+   "source": "none",
+   "confidence": 0
+  },
+  "also_known_as": {
+   "source": "none",
+   "confidence": 0
   }
+ }
 }
