@@ -117,10 +117,10 @@ def cell_unit(text: str, header_unit: str) -> tuple[str, bool]:
     if len(found) == 1:
         # One explicit unit that is not the header's: the cell is authoritative.
         return found.pop(), True
-    # Several units in one cell (e.g. "30 mm; 48 mm; 200 cm"): no single unit is
-    # right for the whole cell, so keep the header but flag it. Such cells are
-    # prose and carry no numeric value anyway.
-    return header_unit, True
+    # Several co-equal units in one cell (e.g. "30 mm; 48 mm; 200 cm"): no single
+    # unit describes the cell, and reporting the header unit would be misleading.
+    # Such cells are prose and carry no numeric value; the quote is the record.
+    return "mixed:" + "/".join(sorted(found)), True
 
 
 def normalize(value: str) -> str:
