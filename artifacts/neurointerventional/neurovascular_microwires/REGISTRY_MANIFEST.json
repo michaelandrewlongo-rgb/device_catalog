@@ -1,0 +1,403 @@
+{
+  "domain": "neurointerventional",
+  "registry": "neurovascular_microwires",
+  "label": "Microwires",
+  "path": "artifacts/neurointerventional/neurovascular_microwires",
+  "devices": [
+    {
+      "slug": "guidewire--asahi-intecc-co-ltd--asahi-chikai-10-guide-wire",
+      "artifact_folder": "guidewire--asahi-intecc-co-ltd--asahi-chikai-10-guide-wire",
+      "path": "artifacts/neurointerventional/neurovascular_microwires/guidewire--asahi-intecc-co-ltd--asahi-chikai-10-guide-wire",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "guidewire--asahi-intecc-co-ltd--asahi-chikai-guide-wire",
+      "artifact_folder": "guidewire--asahi-intecc-co-ltd--asahi-chikai-guide-wire",
+      "path": "artifacts/neurointerventional/neurovascular_microwires/guidewire--asahi-intecc-co-ltd--asahi-chikai-guide-wire",
+      "file_count": 7,
+      "source_counts": {
+        "510k": 3,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "guidewire--asahi-intecc-co-ltd--asahi-chikai-guide-wire-round",
+      "artifact_folder": "guidewire--asahi-intecc-co-ltd--asahi-chikai-guide-wire-round",
+      "path": "artifacts/neurointerventional/neurovascular_microwires/guidewire--asahi-intecc-co-ltd--asahi-chikai-guide-wire-round",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "guidewire--asahi-intecc-co-ltd--asahi-guide-wire-asahi-chikai",
+      "artifact_folder": "guidewire--asahi-intecc-co-ltd--asahi-guide-wire-asahi-chikai",
+      "path": "artifacts/neurointerventional/neurovascular_microwires/guidewire--asahi-intecc-co-ltd--asahi-guide-wire-asahi-chikai",
+      "file_count": 7,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 3,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "guidewire--asahi-intecc-co-ltd--asahi-guide-wire-chikai-x",
+      "artifact_folder": "guidewire--asahi-intecc-co-ltd--asahi-guide-wire-chikai-x",
+      "path": "artifacts/neurointerventional/neurovascular_microwires/guidewire--asahi-intecc-co-ltd--asahi-guide-wire-chikai-x",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "guidewire--asahi-intecc-co-ltd--asahi-neurovasulature-guide-wire-asahi",
+      "artifact_folder": "guidewire--asahi-intecc-co-ltd--asahi-neurovasulature-guide-wire-asahi",
+      "path": "artifacts/neurointerventional/neurovascular_microwires/guidewire--asahi-intecc-co-ltd--asahi-neurovasulature-guide-wire-asahi",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "guidewire--asahi-intecc-co-ltd--chikai-nexus-014",
+      "artifact_folder": "guidewire--asahi-intecc-co-ltd--chikai-nexus-014",
+      "path": "artifacts/neurointerventional/neurovascular_microwires/guidewire--asahi-intecc-co-ltd--chikai-nexus-014",
+      "file_count": 8,
+      "source_counts": {
+        "510k": 3,
+        "data_by_device": 1,
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "guidewire--asahi-intecc-co-ltd--chikai-nexus-petit",
+      "artifact_folder": "guidewire--asahi-intecc-co-ltd--chikai-nexus-petit",
+      "path": "artifacts/neurointerventional/neurovascular_microwires/guidewire--asahi-intecc-co-ltd--chikai-nexus-petit",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "guidewire--balt--hybrid-guidewire",
+      "artifact_folder": "guidewire--balt--hybrid-guidewire",
+      "path": "artifacts/neurointerventional/neurovascular_microwires/guidewire--balt--hybrid-guidewire",
+      "file_count": 8,
+      "source_counts": {
+        "510k": 3,
+        "data_by_device": 1,
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "guidewire--cerenovus--agility-10-standard-soft-0",
+      "artifact_folder": "guidewire--cerenovus--agility-10-standard-soft-0",
+      "path": "artifacts/neurointerventional/neurovascular_microwires/guidewire--cerenovus--agility-10-standard-soft-0",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "guidewire--microvention--headliner",
+      "artifact_folder": "guidewire--microvention--headliner",
+      "path": "artifacts/neurointerventional/neurovascular_microwires/guidewire--microvention--headliner",
+      "file_count": 1,
+      "source_counts": {
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "guidewire--microvention--headlinertm",
+      "artifact_folder": "guidewire--microvention--headlinertm",
+      "path": "artifacts/neurointerventional/neurovascular_microwires/guidewire--microvention--headlinertm",
+      "file_count": 2,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "guidewire--microvention--traxcess",
+      "artifact_folder": "guidewire--microvention--traxcess",
+      "path": "artifacts/neurointerventional/neurovascular_microwires/guidewire--microvention--traxcess",
+      "file_count": 1,
+      "source_counts": {
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "guidewire--microvention--traxcess-007-mini-guidewire",
+      "artifact_folder": "guidewire--microvention--traxcess-007-mini-guidewire",
+      "path": "artifacts/neurointerventional/neurovascular_microwires/guidewire--microvention--traxcess-007-mini-guidewire",
+      "file_count": 7,
+      "source_counts": {
+        "510k": 3,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "guidewire--microvention--traxcess-007-mini-guidewire-recalls",
+      "artifact_folder": "guidewire--microvention--traxcess-007-mini-guidewire-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_microwires/guidewire--microvention--traxcess-007-mini-guidewire-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "guidewire--microvention--traxcess-14-guidewire",
+      "artifact_folder": "guidewire--microvention--traxcess-14-guidewire",
+      "path": "artifacts/neurointerventional/neurovascular_microwires/guidewire--microvention--traxcess-14-guidewire",
+      "file_count": 7,
+      "source_counts": {
+        "510k": 3,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "guidewire--microvention--traxcess-14-guidewire-recalls",
+      "artifact_folder": "guidewire--microvention--traxcess-14-guidewire-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_microwires/guidewire--microvention--traxcess-14-guidewire-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "guidewire--microvention--traxcess-14-select-guidewire",
+      "artifact_folder": "guidewire--microvention--traxcess-14-select-guidewire",
+      "path": "artifacts/neurointerventional/neurovascular_microwires/guidewire--microvention--traxcess-14-select-guidewire",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "guidewire--microvention--traxcess-14-select-guidewire-recalls",
+      "artifact_folder": "guidewire--microvention--traxcess-14-select-guidewire-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_microwires/guidewire--microvention--traxcess-14-select-guidewire-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "guidewire--microvention--traxcess-7-mini-guidewire",
+      "artifact_folder": "guidewire--microvention--traxcess-7-mini-guidewire",
+      "path": "artifacts/neurointerventional/neurovascular_microwires/guidewire--microvention--traxcess-7-mini-guidewire",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "guidewire--microvention--traxcess-7-mini-guidewire-recalls",
+      "artifact_folder": "guidewire--microvention--traxcess-7-mini-guidewire-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_microwires/guidewire--microvention--traxcess-7-mini-guidewire-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "guidewire--microvention--traxcess-7-mini-xsoft-guidewire",
+      "artifact_folder": "guidewire--microvention--traxcess-7-mini-xsoft-guidewire",
+      "path": "artifacts/neurointerventional/neurovascular_microwires/guidewire--microvention--traxcess-7-mini-xsoft-guidewire",
+      "file_count": 7,
+      "source_counts": {
+        "510k": 3,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "guidewire--microvention--traxcess-7-mini-xsoft-guidewire-recalls",
+      "artifact_folder": "guidewire--microvention--traxcess-7-mini-xsoft-guidewire-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_microwires/guidewire--microvention--traxcess-7-mini-xsoft-guidewire-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "guidewire--microvention--traxcess-mini",
+      "artifact_folder": "guidewire--microvention--traxcess-mini",
+      "path": "artifacts/neurointerventional/neurovascular_microwires/guidewire--microvention--traxcess-mini",
+      "file_count": 1,
+      "source_counts": {
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "guidewire--microvention--traxcess-pro-14-guidewire",
+      "artifact_folder": "guidewire--microvention--traxcess-pro-14-guidewire",
+      "path": "artifacts/neurointerventional/neurovascular_microwires/guidewire--microvention--traxcess-pro-14-guidewire",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "guidewire--microvention--traxcess-pro-14-guidewire-recalls",
+      "artifact_folder": "guidewire--microvention--traxcess-pro-14-guidewire-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_microwires/guidewire--microvention--traxcess-pro-14-guidewire-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "guidewire--microvention--traxcesstm",
+      "artifact_folder": "guidewire--microvention--traxcesstm",
+      "path": "artifacts/neurointerventional/neurovascular_microwires/guidewire--microvention--traxcesstm",
+      "file_count": 2,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "guidewire--microvention--traxcesstm-mini",
+      "artifact_folder": "guidewire--microvention--traxcesstm-mini",
+      "path": "artifacts/neurointerventional/neurovascular_microwires/guidewire--microvention--traxcesstm-mini",
+      "file_count": 2,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "guidewire--stryker--broadway-r-system",
+      "artifact_folder": "guidewire--stryker--broadway-r-system",
+      "path": "artifacts/neurointerventional/neurovascular_microwires/guidewire--stryker--broadway-r-system",
+      "file_count": 2,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "guidewire--stryker--broadway-system",
+      "artifact_folder": "guidewire--stryker--broadway-system",
+      "path": "artifacts/neurointerventional/neurovascular_microwires/guidewire--stryker--broadway-system",
+      "file_count": 1,
+      "source_counts": {
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "guidewire--stryker--synchro-2-guidewire",
+      "artifact_folder": "guidewire--stryker--synchro-2-guidewire",
+      "path": "artifacts/neurointerventional/neurovascular_microwires/guidewire--stryker--synchro-2-guidewire",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "guidewire--stryker--synchro-select-guidewire",
+      "artifact_folder": "guidewire--stryker--synchro-select-guidewire",
+      "path": "artifacts/neurointerventional/neurovascular_microwires/guidewire--stryker--synchro-select-guidewire",
+      "file_count": 7,
+      "source_counts": {
+        "510k": 3,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "guidewire--stryker--synchro-select-guidewire-recalls",
+      "artifact_folder": "guidewire--stryker--synchro-select-guidewire-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_microwires/guidewire--stryker--synchro-select-guidewire-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "guidewire--stryker--synchro-select-guidewires-excellence-comes-down-to-the-wire",
+      "artifact_folder": "guidewire--stryker--synchro-select-guidewires-excellence-comes-down-to-the-wire",
+      "path": "artifacts/neurointerventional/neurovascular_microwires/guidewire--stryker--synchro-select-guidewires-excellence-comes-down-to-the-wire",
+      "file_count": 1,
+      "source_counts": {
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "guidewire--stryker--synchro-select-tm-guidewires-excellence-comes",
+      "artifact_folder": "guidewire--stryker--synchro-select-tm-guidewires-excellence-comes",
+      "path": "artifacts/neurointerventional/neurovascular_microwires/guidewire--stryker--synchro-select-tm-guidewires-excellence-comes",
+      "file_count": 2,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "guidewire--stryker--transend",
+      "artifact_folder": "guidewire--stryker--transend",
+      "path": "artifacts/neurointerventional/neurovascular_microwires/guidewire--stryker--transend",
+      "file_count": 1,
+      "source_counts": {
+        "data_by_device": 1
+      }
+    }
+  ],
+  "device_count": 36
+}

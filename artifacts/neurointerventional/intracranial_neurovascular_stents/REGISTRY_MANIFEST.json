@@ -1,0 +1,29 @@
+{
+  "domain": "neurointerventional",
+  "registry": "intracranial_neurovascular_stents",
+  "label": "Intracranial Neurovascular Stents",
+  "path": "artifacts/neurointerventional/intracranial_neurovascular_stents",
+  "devices": [
+    {
+      "slug": "intracranial-stent--stryker--wingspan",
+      "artifact_folder": "intracranial-stent--stryker--wingspan",
+      "path": "artifacts/neurointerventional/intracranial_neurovascular_stents/intracranial-stent--stryker--wingspan",
+      "file_count": 1,
+      "source_counts": {
+        "data_by_device": 1
+      }
+    },
+    {
+      "slug": "intracranial-stent--stryker--wingspan-stent-system",
+      "artifact_folder": "intracranial-stent--stryker--wingspan-stent-system",
+      "path": "artifacts/neurointerventional/intracranial_neurovascular_stents/intracranial-stent--stryker--wingspan-stent-system",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    }
+  ],
+  "device_count": 2
+}

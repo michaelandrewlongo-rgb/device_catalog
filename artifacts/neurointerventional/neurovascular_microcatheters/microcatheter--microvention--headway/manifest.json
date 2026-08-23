@@ -1,0 +1,21 @@
+{
+  "device_slug": "microcatheter--microvention--headway",
+  "artifact_folder": "microcatheter--microvention--headway",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 462,
+  "sources": {
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/microvention/headwaytm.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--microvention--headway/scraper_raw/microvention/headwaytm.json",
+        "bytes": 462
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

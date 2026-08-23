@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K173200",
+  "clearance_date": "2018-06-11",
+  "device_class": 2,
+  "manufacturer_canonical": "microvention",
+  "manufacturer_raw": "MicroVention, Inc.",
+  "catalog_category": "distal-access",
+  "device_name_fda": "SOFIA Plus Aspiration Catheter",
+  "product_code": "NRY",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": true,
+  "suggested_filename_stem": "distal-access--microvention--sofia-plus-aspiration-catheter",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf17/K173200.pdf"
+}

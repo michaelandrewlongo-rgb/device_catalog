@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K231539",
+  "clearance_date": "2023-10-21",
+  "device_class": 2,
+  "manufacturer_canonical": "phenox",
+  "manufacturer_raw": "Phenox Limited",
+  "catalog_category": "thrombectomy",
+  "device_name_fda": "pRESET LITE Thrombectomy Device",
+  "product_code": "POL",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "thrombectomy--phenox--preset-lite-thrombectomy",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K231539.pdf"
+}

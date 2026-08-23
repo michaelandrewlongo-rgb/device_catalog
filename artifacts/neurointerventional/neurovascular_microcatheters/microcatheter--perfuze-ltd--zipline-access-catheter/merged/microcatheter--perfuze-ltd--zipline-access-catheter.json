@@ -1,0 +1,28 @@
+{
+  "device_name": "Zipline Access Catheter",
+  "manufacturer": "perfuze-ltd",
+  "catalog_category": "microcatheter",
+  "filename_stem": "microcatheter--perfuze-ltd--zipline-access-catheter",
+  "clearance_type": "510k",
+  "clearance_number": "K240711",
+  "clearance_date": "2024-10-17",
+  "device_class": 2,
+  "device_name_fda": "Zipline Access Catheter",
+  "product_code": "QJP",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K240711.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

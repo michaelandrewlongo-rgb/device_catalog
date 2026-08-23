@@ -1,0 +1,61 @@
+{
+  "device_slug": "aspiration--wallaby-medical--esperance-3-aspiration-catheter",
+  "artifact_folder": "aspiration--wallaby-medical--esperance-3-aspiration-catheter",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 7,
+  "bytes": 2834916,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/aspiration/parsed/fda_summaries/aspiration--wallaby-medical--esperance-3-aspiration-catheter--510k.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--wallaby-medical--esperance-3-aspiration-catheter/510k/aspiration/parsed/fda_summaries/aspiration--wallaby-medical--esperance-3-aspiration-catheter--510k.json",
+        "bytes": 86231
+      },
+      {
+        "source": "pipeline/data/510k/aspiration/pdfs/aspiration--wallaby-medical--esperance-3-aspiration-catheter--510k.pdf",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--wallaby-medical--esperance-3-aspiration-catheter/510k/aspiration/pdfs/aspiration--wallaby-medical--esperance-3-aspiration-catheter--510k.pdf",
+        "bytes": 2714687
+      }
+    ],
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/aspiration--wallaby-medical--esperance-3-aspiration-catheter--knowledge.md",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--wallaby-medical--esperance-3-aspiration-catheter/data_by_device/aspiration--wallaby-medical--esperance-3-aspiration-catheter--knowledge.md",
+        "bytes": 4230
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/aspiration--wallaby-medical--esperance-3-aspiration-catheter.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--wallaby-medical--esperance-3-aspiration-catheter/enriched/aspiration--wallaby-medical--esperance-3-aspiration-catheter.json",
+        "bytes": 27602
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/aspiration--wallaby-medical--esperance-3-aspiration-catheter.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--wallaby-medical--esperance-3-aspiration-catheter/extracted/fda_structured/aspiration--wallaby-medical--esperance-3-aspiration-catheter.json",
+        "bytes": 707
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NRY/K240917.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--wallaby-medical--esperance-3-aspiration-catheter/fda_raw/NRY/K240917.json",
+        "bytes": 600
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/aspiration--wallaby-medical--esperance-3-aspiration-catheter.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--wallaby-medical--esperance-3-aspiration-catheter/merged/aspiration--wallaby-medical--esperance-3-aspiration-catheter.json",
+        "bytes": 859
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "thrombectomy_aspiration_catheters",
+    "label": "Aspiration Catheters"
+  }
+}

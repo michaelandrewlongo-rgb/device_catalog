@@ -1,0 +1,54 @@
+{
+  "device_slug": "aspiration--vesalio-inc--nevasc-aspiration",
+  "artifact_folder": "aspiration--vesalio-inc--nevasc-aspiration",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 2763061,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/aspiration/parsed/fda_summaries/aspiration--vesalio-inc--nevasc-aspiration--510k.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--vesalio-inc--nevasc-aspiration/510k/aspiration/parsed/fda_summaries/aspiration--vesalio-inc--nevasc-aspiration--510k.json",
+        "bytes": 55647
+      },
+      {
+        "source": "pipeline/data/510k/aspiration/pdfs/aspiration--vesalio-inc--nevasc-aspiration--510k.pdf",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--vesalio-inc--nevasc-aspiration/510k/aspiration/pdfs/aspiration--vesalio-inc--nevasc-aspiration--510k.pdf",
+        "bytes": 2669052
+      }
+    ],
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/aspiration--vesalio-inc--nevasc-aspiration--knowledge.md",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--vesalio-inc--nevasc-aspiration/data_by_device/aspiration--vesalio-inc--nevasc-aspiration--knowledge.md",
+        "bytes": 4223
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/aspiration--vesalio-inc--nevasc-aspiration.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--vesalio-inc--nevasc-aspiration/enriched/aspiration--vesalio-inc--nevasc-aspiration.json",
+        "bytes": 32771
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NRY/K251006.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--vesalio-inc--nevasc-aspiration/fda_raw/NRY/K251006.json",
+        "bytes": 561
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/aspiration--vesalio-inc--nevasc-aspiration.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--vesalio-inc--nevasc-aspiration/merged/aspiration--vesalio-inc--nevasc-aspiration.json",
+        "bytes": 807
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "thrombectomy_aspiration_catheters",
+    "label": "Aspiration Catheters"
+  }
+}

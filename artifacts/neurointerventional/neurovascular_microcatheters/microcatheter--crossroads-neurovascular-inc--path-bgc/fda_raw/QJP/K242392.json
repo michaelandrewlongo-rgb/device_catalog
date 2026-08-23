@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K242392",
+  "clearance_date": "2025-05-09",
+  "device_class": 2,
+  "manufacturer_canonical": "crossroads-neurovascular-inc",
+  "manufacturer_raw": "Crossroads Neurovascular, Inc.",
+  "catalog_category": "microcatheter",
+  "device_name_fda": "PATH BGC",
+  "product_code": "QJP",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "microcatheter--crossroads-neurovascular-inc--path-bgc",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K242392.pdf"
+}

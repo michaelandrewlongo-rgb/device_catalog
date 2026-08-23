@@ -1,0 +1,35 @@
+{
+  "device_slug": "balloon-catheter--stryker--detachable-slicone-balloon-dsb",
+  "artifact_folder": "balloon-catheter--stryker--detachable-slicone-balloon-dsb",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2848,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/balloon-catheter--stryker--detachable-slicone-balloon-dsb.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/balloon-catheter--stryker--detachable-slicone-balloon-dsb/enriched/balloon-catheter--stryker--detachable-slicone-balloon-dsb.json",
+        "bytes": 1421
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MZQ/K965071.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/balloon-catheter--stryker--detachable-slicone-balloon-dsb/fda_raw/MZQ/K965071.json",
+        "bytes": 587
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/balloon-catheter--stryker--detachable-slicone-balloon-dsb.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/balloon-catheter--stryker--detachable-slicone-balloon-dsb/merged/balloon-catheter--stryker--detachable-slicone-balloon-dsb.json",
+        "bytes": 840
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_access_catheters",
+    "label": "Access, Guide, Delivery Catheters"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "device_slug": "intracranial-stent--microvention--low-profile-visualized-intraluminal-support-lvis-lvis-jr-lvis-evo-recalls",
+  "artifact_folder": "intracranial-stent--microvention--low-profile-visualized-intraluminal-support-lvis-lvis-jr-lvis-evo-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 550,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/intracranial-stent--microvention--low-profile-visualized-intraluminal-support-lvis-lvis-jr-lvis-evo-recalls.json",
+        "artifact": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--microvention--low-profile-visualized-intraluminal-support-lvis-lvis-jr-lvis-evo-recalls/extracted/fda_safety/intracranial-stent--microvention--low-profile-visualized-intraluminal-support-lvis-lvis-jr-lvis-evo-recalls.json",
+        "bytes": 550
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "intracranial_coil_assist_stents",
+    "label": "Intracranial Coil-Assist Stents"
+  }
+}

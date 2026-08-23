@@ -1,0 +1,20 @@
+{
+  "source_pdf": "microcatheter--medtronic--phenom--510k.pdf",
+  "device_name": "phenom",
+  "manufacturer": "medtronic",
+  "doc_type": "510k",
+  "extraction_method": "pdf_deepseek",
+  "fields": {
+    "what_it_is": "The Phenom™ Catheters are variable stiffness, single lumen catheters designed to access small, tortuous vasculature. They are available in a variety of lengths, stiffness and inner and outer diameters. The outer surface of the catheter is coated to enhance navigation in the vessel. The catheter also incorporates a liner to facilitate movement of introduction devices passing through its lumen. The distal tip has radiopaque marker(s) to aid visualization and positioning under fluoroscopy.",
+    "sizing_specs": null,
+    "indications": "The Phenom™ Catheters are intended for the introduction of interventional devices and infusion of diagnostic or therapeutic agents into the neuro, peripheral, and coronary vasculatures.",
+    "contraindications": null,
+    "compatible_with": null,
+    "use_notes": null,
+    "also_known_as": null
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "indications": 0.7
+  }
+}

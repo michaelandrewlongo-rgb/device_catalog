@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K252700",
+  "clearance_date": "2025-09-26",
+  "device_class": 2,
+  "manufacturer_canonical": "balt",
+  "manufacturer_raw": "Balt USA, LLC",
+  "catalog_category": "embolic-coil",
+  "device_name_fda": "Optima Coil System (Optima Packing Coil System)",
+  "product_code": "HCG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "embolic-coil--balt--optima-coil-optima-packing-coil",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf25/K252700.pdf"
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "thrombectomy--stryker--modification-to-merci-models-x5",
+  "artifact_folder": "thrombectomy--stryker--modification-to-merci-models-x5",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2922,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/thrombectomy--stryker--modification-to-merci-models-x5.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--modification-to-merci-models-x5/enriched/thrombectomy--stryker--modification-to-merci-models-x5.json",
+        "bytes": 1448
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NRY/K063774.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--modification-to-merci-models-x5/fda_raw/NRY/K063774.json",
+        "bytes": 607
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/thrombectomy--stryker--modification-to-merci-models-x5.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--modification-to-merci-models-x5/merged/thrombectomy--stryker--modification-to-merci-models-x5.json",
+        "bytes": 867
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "stent_retrievers",
+    "label": "Stent Retrievers"
+  }
+}

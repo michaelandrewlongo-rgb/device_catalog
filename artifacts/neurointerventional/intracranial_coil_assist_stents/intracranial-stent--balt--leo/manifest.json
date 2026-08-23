@@ -1,0 +1,49 @@
+{
+  "device_slug": "intracranial-stent--balt--leo",
+  "artifact_folder": "intracranial-stent--balt--leo",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 7367,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/intracranial-stent--balt--leo--knowledge.md",
+        "artifact": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--balt--leo/data_by_device/intracranial-stent--balt--leo--knowledge.md",
+        "bytes": 2312
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/intracranial-stent--balt--leo.json",
+        "artifact": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--balt--leo/enriched/intracranial-stent--balt--leo.json",
+        "bytes": 2048
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/intracranial-stent--balt--leo.json",
+        "artifact": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--balt--leo/extracted/fda_structured/intracranial-stent--balt--leo.json",
+        "bytes": 484
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/intracranial-stent--balt--leo.json",
+        "artifact": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--balt--leo/merged/intracranial-stent--balt--leo.json",
+        "bytes": 1402
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/balt/leo.json",
+        "artifact": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--balt--leo/scraper_raw/balt/leo.json",
+        "bytes": 1121
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "intracranial_coil_assist_stents",
+    "label": "Intracranial Coil-Assist Stents"
+  }
+}

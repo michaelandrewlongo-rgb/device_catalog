@@ -1,0 +1,28 @@
+{
+  "device_name": "Target Helical Detachable Coil",
+  "manufacturer": "stryker",
+  "catalog_category": "embolic-coil",
+  "filename_stem": "embolic-coil--stryker--target-helical-detachable-coil",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "Read Now",
+  "sizing_specs": "Specifications",
+  "indications": "/ indications for use\nTarget Detachable Coils are intended to endovascularly obstruct or occlude\nblood flow in vascular abnormalities of the neurovascular and peripheral\nvessels.\nTarget Detachable Coils are indicated for endovascular embolization of:\n\u2022 Intracranial aneurysms\n\u2022 Other neurovascular abnormalities such as arteriovenous malformations and\narteriovenous fistulae\n\u2022 Arterial and venous embolizations in the peripheral vasculature",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.stryker.com/us/en/neurovascular/products/target-helical-detachable-coils.html",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ]
+}

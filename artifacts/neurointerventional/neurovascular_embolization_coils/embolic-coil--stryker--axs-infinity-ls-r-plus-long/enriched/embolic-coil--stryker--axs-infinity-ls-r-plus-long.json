@@ -1,0 +1,58 @@
+{
+  "device_name": "AXS Infinity LS ® Plus Long Sheath Climb higher",
+  "manufacturer": "stryker",
+  "catalog_category": "embolic-coil",
+  "filename_stem": "embolic-coil--stryker--axs-infinity-ls-r-plus-long",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "Stryker’s product portfolio",
+  "sizing_specs": "Size (F): 8\nLength (cm): 70, 80, 90\nInternal Diameter (inch): 0.091",
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "Type: Cross-coil reinforcement",
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.stryker.com/us/en/neurovascular/products/axs-infinity-plus.html",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "sizing_specs": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "indications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "also_known_as": {
+      "source": "none",
+      "confidence": 0
+    }
+  }
+}

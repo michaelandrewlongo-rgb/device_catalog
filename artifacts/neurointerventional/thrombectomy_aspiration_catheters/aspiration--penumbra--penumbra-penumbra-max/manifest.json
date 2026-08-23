@@ -1,0 +1,47 @@
+{
+  "device_slug": "aspiration--penumbra--penumbra-penumbra-max",
+  "artifact_folder": "aspiration--penumbra--penumbra-penumbra-max",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 171062,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/aspiration/parsed/fda_summaries/aspiration--penumbra--penumbra-penumbra-max--510k.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-penumbra-max/510k/aspiration/parsed/fda_summaries/aspiration--penumbra--penumbra-penumbra-max--510k.json",
+        "bytes": 8081
+      },
+      {
+        "source": "pipeline/data/510k/aspiration/pdfs/aspiration--penumbra--penumbra-penumbra-max--510k.pdf",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-penumbra-max/510k/aspiration/pdfs/aspiration--penumbra--penumbra-penumbra-max--510k.pdf",
+        "bytes": 157951
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/aspiration--penumbra--penumbra-penumbra-max.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-penumbra-max/enriched/aspiration--penumbra--penumbra-penumbra-max.json",
+        "bytes": 3626
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NRY/K133317.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-penumbra-max/fda_raw/NRY/K133317.json",
+        "bytes": 573
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/aspiration--penumbra--penumbra-penumbra-max.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-penumbra-max/merged/aspiration--penumbra--penumbra-penumbra-max.json",
+        "bytes": 831
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "thrombectomy_aspiration_catheters",
+    "label": "Aspiration Catheters"
+  }
+}

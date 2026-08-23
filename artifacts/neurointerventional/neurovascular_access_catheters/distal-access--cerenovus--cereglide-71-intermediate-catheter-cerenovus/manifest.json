@@ -1,0 +1,47 @@
+{
+  "device_slug": "distal-access--cerenovus--cereglide-71-intermediate-catheter-cerenovus",
+  "artifact_folder": "distal-access--cerenovus--cereglide-71-intermediate-catheter-cerenovus",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 954711,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/distal-access/parsed/fda_summaries/distal-access--cerenovus--cereglide-71-intermediate-catheter-cerenovus--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--cerenovus--cereglide-71-intermediate-catheter-cerenovus/510k/distal-access/parsed/fda_summaries/distal-access--cerenovus--cereglide-71-intermediate-catheter-cerenovus--510k.json",
+        "bytes": 43420
+      },
+      {
+        "source": "pipeline/data/510k/distal-access/pdfs/distal-access--cerenovus--cereglide-71-intermediate-catheter-cerenovus--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--cerenovus--cereglide-71-intermediate-catheter-cerenovus/510k/distal-access/pdfs/distal-access--cerenovus--cereglide-71-intermediate-catheter-cerenovus--510k.pdf",
+        "bytes": 900085
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/distal-access--cerenovus--cereglide-71-intermediate-catheter-cerenovus.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--cerenovus--cereglide-71-intermediate-catheter-cerenovus/enriched/distal-access--cerenovus--cereglide-71-intermediate-catheter-cerenovus.json",
+        "bytes": 9649
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NRY/K221934.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--cerenovus--cereglide-71-intermediate-catheter-cerenovus/fda_raw/NRY/K221934.json",
+        "bytes": 635
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/distal-access--cerenovus--cereglide-71-intermediate-catheter-cerenovus.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--cerenovus--cereglide-71-intermediate-catheter-cerenovus/merged/distal-access--cerenovus--cereglide-71-intermediate-catheter-cerenovus.json",
+        "bytes": 922
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_access_catheters",
+    "label": "Access, Guide, Delivery Catheters"
+  }
+}

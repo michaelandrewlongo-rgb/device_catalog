@@ -1,0 +1,35 @@
+{
+  "device_slug": "embolic-coil--boston-scientific-target--gdc-ultrasoft-coil",
+  "artifact_folder": "embolic-coil--boston-scientific-target--gdc-ultrasoft-coil",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3031,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--boston-scientific-target--gdc-ultrasoft-coil.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific-target--gdc-ultrasoft-coil/enriched/embolic-coil--boston-scientific-target--gdc-ultrasoft-coil.json",
+        "bytes": 1612
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K002181.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific-target--gdc-ultrasoft-coil/fda_raw/HCG/K002181.json",
+        "bytes": 593
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--boston-scientific-target--gdc-ultrasoft-coil.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific-target--gdc-ultrasoft-coil/merged/embolic-coil--boston-scientific-target--gdc-ultrasoft-coil.json",
+        "bytes": 826
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

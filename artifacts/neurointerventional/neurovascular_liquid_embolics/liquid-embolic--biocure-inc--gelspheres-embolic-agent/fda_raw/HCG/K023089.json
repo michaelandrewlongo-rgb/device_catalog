@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K023089",
+  "clearance_date": "2002-12-16",
+  "device_class": 2,
+  "manufacturer_canonical": "biocure-inc",
+  "manufacturer_raw": "Biocure, Inc.",
+  "catalog_category": "liquid-embolic",
+  "device_name_fda": "GELSPHERES EMBOLIC AGENT",
+  "product_code": "HCG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "liquid-embolic--biocure-inc--gelspheres-embolic-agent",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf02/K023089.pdf"
+}

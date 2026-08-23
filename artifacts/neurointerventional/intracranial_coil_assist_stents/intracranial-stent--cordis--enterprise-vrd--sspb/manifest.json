@@ -1,0 +1,28 @@
+{
+  "device_slug": "intracranial-stent--cordis--enterprise-vrd--sspb",
+  "artifact_folder": "intracranial-stent--cordis--enterprise-vrd--sspb",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 2,
+  "bytes": 1036987,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/intracranial-stent--cordis--enterprise-vrd--sspb.pdf",
+        "artifact": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--cordis--enterprise-vrd--sspb/data_by_device/intracranial-stent--cordis--enterprise-vrd--sspb.pdf",
+        "bytes": 1032517
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/documents/intracranial-stent--cordis--enterprise-vrd--sspb.json",
+        "artifact": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--cordis--enterprise-vrd--sspb/extracted/documents/intracranial-stent--cordis--enterprise-vrd--sspb.json",
+        "bytes": 4470
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "intracranial_coil_assist_stents",
+    "label": "Intracranial Coil-Assist Stents"
+  }
+}

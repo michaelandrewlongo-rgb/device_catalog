@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K231179",
+  "clearance_date": "2023-12-01",
+  "device_class": 2,
+  "manufacturer_canonical": "anoxia-medical-inc",
+  "manufacturer_raw": "Anoxia Medical, Inc.",
+  "catalog_category": "microcatheter",
+  "device_name_fda": "Slinky Catheter",
+  "product_code": "QJP",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "microcatheter--anoxia-medical-inc--slinky-catheter",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K231179.pdf"
+}

@@ -1,0 +1,54 @@
+{
+  "device_slug": "microcatheter--scientia-vascular-inc--socrates-38-catheter",
+  "artifact_folder": "microcatheter--scientia-vascular-inc--socrates-38-catheter",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 2822088,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/microcatheter/parsed/fda_summaries/microcatheter--scientia-vascular-inc--socrates-38-catheter--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--scientia-vascular-inc--socrates-38-catheter/510k/microcatheter/parsed/fda_summaries/microcatheter--scientia-vascular-inc--socrates-38-catheter--510k.json",
+        "bytes": 52956
+      },
+      {
+        "source": "pipeline/data/510k/microcatheter/pdfs/microcatheter--scientia-vascular-inc--socrates-38-catheter--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--scientia-vascular-inc--socrates-38-catheter/510k/microcatheter/pdfs/microcatheter--scientia-vascular-inc--socrates-38-catheter--510k.pdf",
+        "bytes": 2727510
+      }
+    ],
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/microcatheter--scientia-vascular-inc--socrates-38-catheter--knowledge.md",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--scientia-vascular-inc--socrates-38-catheter/data_by_device/microcatheter--scientia-vascular-inc--socrates-38-catheter--knowledge.md",
+        "bytes": 4519
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/microcatheter--scientia-vascular-inc--socrates-38-catheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--scientia-vascular-inc--socrates-38-catheter/enriched/microcatheter--scientia-vascular-inc--socrates-38-catheter.json",
+        "bytes": 35679
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/QJP/K242301.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--scientia-vascular-inc--socrates-38-catheter/fda_raw/QJP/K242301.json",
+        "bytes": 596
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/microcatheter--scientia-vascular-inc--socrates-38-catheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--scientia-vascular-inc--socrates-38-catheter/merged/microcatheter--scientia-vascular-inc--socrates-38-catheter.json",
+        "bytes": 828
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

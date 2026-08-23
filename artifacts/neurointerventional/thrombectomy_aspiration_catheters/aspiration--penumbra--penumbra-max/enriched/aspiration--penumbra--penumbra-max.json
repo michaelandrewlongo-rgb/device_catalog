@@ -1,0 +1,62 @@
+{
+  "device_name": "PENUMBRA SYSTEM MAX",
+  "manufacturer": "penumbra",
+  "catalog_category": "aspiration",
+  "filename_stem": "aspiration--penumbra--penumbra-max",
+  "clearance_type": "510k",
+  "clearance_number": "K113163",
+  "clearance_date": "2011-11-23",
+  "device_class": 2,
+  "device_name_fda": "PENUMBRA SYSTEM MAX",
+  "product_code": "NRY",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": "Indications for Use\n5 10(k) Number (if known): K 1 6-\nDevice Name: Penumbra System®0 MAX\nIndications for Use:\nThe Penumbra System is intended for use in the revascularization of patients with acute\nisohemic stroke secondary to intracranial large vessel occlusive disease (in the internal\ncarotid, middle cerebral - MlI and M2 segments, basilar, and vertebral arteries) within 8\nhours of symptom onset.\nPrescription Use X AND/OR Over The Counter Use\n____\n(Part 21 CFR 801 Subpart D) (21 CFR 801 Subpart C)\n(PLEASE DO NOT WRITE BELOW THIS L[NE-CONT[NUE ON ANOTHER PAGE\nOF NEEDED)\nConcurrence of CDRH, Office of Device Evaluation (ODE)\nJ2FIFR\" -To\\(\n(Division Sign-Off)\nDivision of Ophthalmic, Neurological and Ear,\nNose and Throat Devices\n5\n10(k) Number-______________",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "[FDA RECALL] 6 active recall(s).\n  - Reperfusion catheter may fail at the mid-shaft joint and may break off.  If the segment cannot be removed, it may result in blocked blood flow, requiring emergency medical treatment.\n  - The catheter may become susceptible to distal tip damage during use.  Distal tip damage in conjunction with pressurization of contrast injection may result in potential vessel damage, and subsequent p",
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf11/K113163.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "none",
+      "confidence": 0
+    },
+    "sizing_specs": {
+      "source": "none",
+      "confidence": 0
+    },
+    "indications": {
+      "source": "fda_summary",
+      "confidence": 0.95
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "none",
+      "confidence": 0
+    },
+    "also_known_as": {
+      "source": "none",
+      "confidence": 0
+    },
+    "_safety": {
+      "source": "fda_maude+recalls",
+      "confidence": 0.85
+    }
+  }
+}

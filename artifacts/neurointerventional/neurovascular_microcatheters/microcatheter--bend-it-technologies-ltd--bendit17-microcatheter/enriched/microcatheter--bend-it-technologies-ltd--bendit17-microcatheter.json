@@ -1,0 +1,107 @@
+{
+ "device_name": "Bendit17 Microcatheter",
+ "manufacturer": "bend-it-technologies-ltd",
+ "catalog_category": "microcatheter",
+ "filename_stem": "microcatheter--bend-it-technologies-ltd--bendit17-microcatheter",
+ "clearance_type": "510k",
+ "clearance_number": "K252213",
+ "clearance_date": "2025-12-03",
+ "device_class": 2,
+ "device_name_fda": "Bendit17 Microcatheter",
+ "product_code": "QJP",
+ "what_it_is": null,
+ "sizing_specs": {
+  "id_od": {
+   "units": "inches",
+   "max_od_is_proximal": true,
+   "id": {
+    "in": 0.017,
+    "mm": 0.43
+   },
+   "verbatim_quote": "6 \u2013 0.79mm 0.022 - 0.031\u2019\u2019 Between predicate and reference devices. Catheter ID 0.017'' 0.43mm 0.021'' 0.53mm 0.0175\u201d 0.44mm 0.017\u201d 0.43mm Smaller than predicate. Same as reference device",
+   "k_number": "K252213",
+   "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf25/K252213.pdf",
+   "extraction_method": "pymupdf_text_regex_verified",
+   "extracted": "2026-08-23"
+  },
+  "spec_status": "verified"
+ },
+ "indications": "Indications for Use See PRA Statement below.\n510(k) Number (if known)\nK252213\nDevice Name\nBendit17 Microcatheter\nIndications for Use (Describe)\nThe Bendit17 Microcatheter is intended for use in accessing target locations in the peripheral, coronary, and neuro\nvasculature and can be used to deliver both diagnostic agents, such as contrast media, and therapeutic devices.\nUse only contrast media and therapeutic devices that have been cleared or approved for use in the intended target area.\nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)\nCONTINUE ON A SEPARATE PAGE IF NEEDED.\nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the\ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any other aspect\nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n\u201cAn agency may not conduct or sponsor, and a person is not required to respond to, a collection of\ninformation unless it displays a currently valid OMB number.\u201d\nFORM FDA 3881 (8/23) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF\n\n510(k) Summary\n510(k) Summary K252213\nThis summary of 510(k) safety and effectiveness information is being submitted per the\nrequirements of 21 CFR 807.92.\nA. Submitter: Bend It Technologies Ltd.\n25 Basel Street\nPetach Tikva 4951038, Israel\nContact: Simona Beilin-Nissan\nTitle: Vice President Clinical and Regulatory Affairs\nTel #: +972 3 6747377\nEmail: simonabn@bendittech.com\nB. Date Prepared: December 2, 2025\nC. Device Name and Classification Information:\nTrade Name: Bendit\u00ae17 Microcatheter\nCommon/Usual Name: Steerable microcatheter\nClassification Name: Catheter, percutaneous, neurovasculature\nRegulation: 21 CFR 870.1250\nProduct Code: QJP\nSecondary Product Code: DQY\nReview Panel: Neurology\nRegulatory Class: Class II\nD. Predicate Device: Bendit\u00ae21 Microcatheter, K203842\nReference Devices: VIA 17 Microcatheter, K192135\nHeadway 17 Advanced Microcatheter, K101542\nE. Device Description:\nThe Bendit\u00ae17 Microcatheter is a steerable microcatheter with a steerable distal tip. The tip\u2019s\ndeflection is controlled using the Steering Slider on the proximal Steering Handle. The tip can be\nrotated bi-directionally while deflected by turning the Torque Knob on the Steering Handle.\nThe total working length of the Bendit\u00ae17 Microcatheter is 151 cm. It is comprised of two Nitinol\nhypo tubes that are connected at their distal ends, with proprietary laser-cut patterns along the 38\ncm distal section. The laser cuts give the Bendit\u00ae17 Microcatheter its flexibility while maintaining\nthe Nitinol torsional rigidity for a high torque response. The distal 10 mm section is steerable and\nincludes two radiopaque markers, one at the tip and a radiopaque band located 30 mm proximally\nfrom the tip. The distal portion of the catheter shaft (100 cm) is covered with a hydrophilic coating.\nSliding the Steering Slider forward moves the hypo tubes so that the distal tip deflects. When the\nSteering Slider is released, the tip shape is locked. The Bendit\u00ae17 lumen can accommodate\nB endit\u00ae17 Microcatheter Special 510(k) Page 1 of 12\n\n510(k) Summary\ncompatible guidewires (\u2264 0.014 ''). A standard Luer lock port for attachment of accessories is\nlocated at the proximal end of the Steering Handle.\nThe Bendit\u00ae17 is compatible with the following types of therapeutic devices:\n\u2022 Embolization particles with maximum particle size of 400 \u00b5m\n\u2022 Coils with maximum coil wire size of 0.014\u2019\u2019\n\u2022 Stents/stent retrievers/intrasaccular flow disruption devices compatible with\nmicrocatheters with inner diameter of 0.017\u2019\u2019\nF. Indications for Use Statement:\nThe Bendit\u00ae17 Microcatheter is intended for use in accessing target locations in the peripheral,\ncoronary, and neuro vasculature and can be used to deliver both diagnostic agents, such as\ncontrast media, and therapeutic devices.\nUse only contrast media and therapeutic devices that have been cleared or approved for use in\nthe intended target area.\nG. Technical Comparison Table\nThe table below provides a technological comparison between the Bendit\u00ae17 Microcatheter, the",
+ "contraindications": null,
+ "compatible_with": null,
+ "use_notes": null,
+ "deployment_steps": null,
+ "also_known_as": [
+  "K192135",
+  "K252213",
+  "K203842",
+  "K101542",
+  "K192135",
+  "K252213",
+  "K203842",
+  "K101542",
+  "K192135",
+  "K252213",
+  "K203842",
+  "K101542",
+  "K192135",
+  "K252213",
+  "K203842",
+  "K101542",
+  "K192135",
+  "K252213",
+  "K203842",
+  "K101542",
+  "K192135",
+  "K252213",
+  "K203842",
+  "K101542",
+  "K192135",
+  "K252213",
+  "K203842",
+  "K101542",
+  "K192135",
+  "K252213",
+  "K203842",
+  "K101542",
+  "K203842"
+ ],
+ "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf25/K252213.pdf",
+ "ifu_pdf_url": null,
+ "source_url": "",
+ "confidence_score": 0.5,
+ "needs_review": false,
+ "data_sources": [
+  "fda"
+ ],
+ "_enrichment": {
+  "what_it_is": {
+   "source": "none",
+   "confidence": 0
+  },
+  "sizing_specs": {
+   "source": "none",
+   "confidence": 0
+  },
+  "indications": {
+   "source": "fda_summary",
+   "confidence": 0.95
+  },
+  "contraindications": {
+   "source": "none",
+   "confidence": 0
+  },
+  "compatible_with": {
+   "source": "none",
+   "confidence": 0
+  },
+  "use_notes": {
+   "source": "none",
+   "confidence": 0
+  },
+  "also_known_as": {
+   "source": "fda_summary",
+   "confidence": 0.3
+  }
+ }
+}

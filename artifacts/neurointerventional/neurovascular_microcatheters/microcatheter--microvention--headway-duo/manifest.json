@@ -1,0 +1,33 @@
+{
+  "device_slug": "microcatheter--microvention--headway-duo",
+  "artifact_folder": "microcatheter--microvention--headway-duo",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 155841,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/microcatheter/parsed/documents/microcatheter--microvention--headway-duo--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--microvention--headway-duo/510k/microcatheter/parsed/documents/microcatheter--microvention--headway-duo--510k.json",
+        "bytes": 1920
+      },
+      {
+        "source": "pipeline/data/510k/microcatheter/pdfs/microcatheter--microvention--headway-duo--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--microvention--headway-duo/510k/microcatheter/pdfs/microcatheter--microvention--headway-duo--510k.pdf",
+        "bytes": 151523
+      }
+    ],
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/microcatheter--microvention--headway-duo--knowledge.md",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--microvention--headway-duo/data_by_device/microcatheter--microvention--headway-duo--knowledge.md",
+        "bytes": 2398
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

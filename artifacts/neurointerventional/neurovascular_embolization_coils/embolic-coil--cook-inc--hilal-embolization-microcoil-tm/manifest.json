@@ -1,0 +1,35 @@
+{
+  "device_slug": "embolic-coil--cook-inc--hilal-embolization-microcoil-tm",
+  "artifact_folder": "embolic-coil--cook-inc--hilal-embolization-microcoil-tm",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3138,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--cook-inc--hilal-embolization-microcoil-tm.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cook-inc--hilal-embolization-microcoil-tm/enriched/embolic-coil--cook-inc--hilal-embolization-microcoil-tm.json",
+        "bytes": 1730
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K901337.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cook-inc--hilal-embolization-microcoil-tm/fda_raw/HCG/K901337.json",
+        "bytes": 573
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--cook-inc--hilal-embolization-microcoil-tm.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cook-inc--hilal-embolization-microcoil-tm/merged/embolic-coil--cook-inc--hilal-embolization-microcoil-tm.json",
+        "bytes": 835
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

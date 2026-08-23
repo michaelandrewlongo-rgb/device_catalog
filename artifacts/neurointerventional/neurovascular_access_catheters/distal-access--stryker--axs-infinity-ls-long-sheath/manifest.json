@@ -1,0 +1,21 @@
+{
+  "device_slug": "distal-access--stryker--axs-infinity-ls-long-sheath",
+  "artifact_folder": "distal-access--stryker--axs-infinity-ls-long-sheath",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 868,
+  "sources": {
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/stryker/axs-infinity-ls-r-long-sheath.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--stryker--axs-infinity-ls-long-sheath/scraper_raw/stryker/axs-infinity-ls-r-long-sheath.json",
+        "bytes": 868
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_access_catheters",
+    "label": "Access, Guide, Delivery Catheters"
+  }
+}

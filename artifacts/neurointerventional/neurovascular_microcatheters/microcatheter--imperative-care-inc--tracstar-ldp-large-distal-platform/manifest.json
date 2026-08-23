@@ -1,0 +1,57 @@
+{
+  "device_slug": "microcatheter--imperative-care-inc--tracstar-ldp-large-distal-platform",
+  "artifact_folder": "microcatheter--imperative-care-inc--tracstar-ldp-large-distal-platform",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 7,
+  "bytes": 2694436,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/microcatheter/parsed/fda_summaries/microcatheter--imperative-care-inc--tracstar-ldp-large-distal-platform--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--imperative-care-inc--tracstar-ldp-large-distal-platform/510k/microcatheter/parsed/fda_summaries/microcatheter--imperative-care-inc--tracstar-ldp-large-distal-platform--510k.json",
+        "bytes": 40854
+      },
+      {
+        "source": "pipeline/data/510k/microcatheter/pdfs/microcatheter--imperative-care-inc--tracstar-ldp-large-distal-platform--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--imperative-care-inc--tracstar-ldp-large-distal-platform/510k/microcatheter/pdfs/microcatheter--imperative-care-inc--tracstar-ldp-large-distal-platform--510k.pdf",
+        "bytes": 2628756
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/microcatheter--imperative-care-inc--tracstar-ldp-large-distal-platform.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--imperative-care-inc--tracstar-ldp-large-distal-platform/enriched/microcatheter--imperative-care-inc--tracstar-ldp-large-distal-platform.json",
+        "bytes": 21795
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/QJP/K212224.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--imperative-care-inc--tracstar-ldp-large-distal-platform/fda_raw/QJP/K212224.json",
+        "bytes": 649
+      },
+      {
+        "source": "pipeline/data/fda_raw/QJP/K231168.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--imperative-care-inc--tracstar-ldp-large-distal-platform/fda_raw/QJP/K231168.json",
+        "bytes": 688
+      },
+      {
+        "source": "pipeline/data/fda_raw/QJP/K240948.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--imperative-care-inc--tracstar-ldp-large-distal-platform/fda_raw/QJP/K240948.json",
+        "bytes": 688
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/microcatheter--imperative-care-inc--tracstar-ldp-large-distal-platform.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--imperative-care-inc--tracstar-ldp-large-distal-platform/merged/microcatheter--imperative-care-inc--tracstar-ldp-large-distal-platform.json",
+        "bytes": 1006
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

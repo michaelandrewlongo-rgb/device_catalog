@@ -1,0 +1,47 @@
+{
+  "device_slug": "aspiration--alembic-llc--apro-55-catheter-and-alembic",
+  "artifact_folder": "aspiration--alembic-llc--apro-55-catheter-and-alembic",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 754274,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/aspiration/parsed/fda_summaries/aspiration--alembic-llc--apro-55-catheter-and-alembic--510k.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--alembic-llc--apro-55-catheter-and-alembic/510k/aspiration/parsed/fda_summaries/aspiration--alembic-llc--apro-55-catheter-and-alembic--510k.json",
+        "bytes": 27533
+      },
+      {
+        "source": "pipeline/data/510k/aspiration/pdfs/aspiration--alembic-llc--apro-55-catheter-and-alembic--510k.pdf",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--alembic-llc--apro-55-catheter-and-alembic/510k/aspiration/pdfs/aspiration--alembic-llc--apro-55-catheter-and-alembic--510k.pdf",
+        "bytes": 723655
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/aspiration--alembic-llc--apro-55-catheter-and-alembic.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--alembic-llc--apro-55-catheter-and-alembic/enriched/aspiration--alembic-llc--apro-55-catheter-and-alembic.json",
+        "bytes": 1631
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NRY/K232971.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--alembic-llc--apro-55-catheter-and-alembic/fda_raw/NRY/K232971.json",
+        "bytes": 593
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/aspiration--alembic-llc--apro-55-catheter-and-alembic.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--alembic-llc--apro-55-catheter-and-alembic/merged/aspiration--alembic-llc--apro-55-catheter-and-alembic.json",
+        "bytes": 862
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "thrombectomy_aspiration_catheters",
+    "label": "Aspiration Catheters"
+  }
+}

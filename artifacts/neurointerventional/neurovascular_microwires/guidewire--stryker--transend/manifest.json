@@ -1,0 +1,21 @@
+{
+  "device_slug": "guidewire--stryker--transend",
+  "artifact_folder": "guidewire--stryker--transend",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 4952,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/guidewire--stryker--transend--knowledge.md",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--stryker--transend/data_by_device/guidewire--stryker--transend--knowledge.md",
+        "bytes": 4952
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microwires",
+    "label": "Microwires"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K091641",
+  "clearance_date": "2009-06-30",
+  "device_class": 2,
+  "manufacturer_canonical": "microvention",
+  "manufacturer_raw": "MicroVention, Inc.",
+  "catalog_category": "embolic-coil",
+  "device_name_fda": "HYDROCOIL EMBOLIC SYSTEM (HYDROSOFT) AND MICROPLEX COIL SYSTEM (HYPERSOFT)",
+  "product_code": "HCG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": true,
+  "suggested_filename_stem": "embolic-coil--microvention--hydrocoil-embolic-hydrosoft-and-microplex",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf09/K091641.pdf"
+}

@@ -1,0 +1,54 @@
+{
+  "device_slug": "distal-access--wallaby-medical--esperance-distal-access-catheter",
+  "artifact_folder": "distal-access--wallaby-medical--esperance-distal-access-catheter",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 2652246,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/distal-access/parsed/fda_summaries/distal-access--wallaby-medical--esperance-distal-access-catheter--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--wallaby-medical--esperance-distal-access-catheter/510k/distal-access/parsed/fda_summaries/distal-access--wallaby-medical--esperance-distal-access-catheter--510k.json",
+        "bytes": 25449
+      },
+      {
+        "source": "pipeline/data/510k/distal-access/pdfs/distal-access--wallaby-medical--esperance-distal-access-catheter--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--wallaby-medical--esperance-distal-access-catheter/510k/distal-access/pdfs/distal-access--wallaby-medical--esperance-distal-access-catheter--510k.pdf",
+        "bytes": 2615301
+      }
+    ],
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/distal-access--wallaby-medical--esperance-distal-access-catheter--knowledge.md",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--wallaby-medical--esperance-distal-access-catheter/data_by_device/distal-access--wallaby-medical--esperance-distal-access-catheter--knowledge.md",
+        "bytes": 3305
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/distal-access--wallaby-medical--esperance-distal-access-catheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--wallaby-medical--esperance-distal-access-catheter/enriched/distal-access--wallaby-medical--esperance-distal-access-catheter.json",
+        "bytes": 6739
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/QJP/K231056.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--wallaby-medical--esperance-distal-access-catheter/fda_raw/QJP/K231056.json",
+        "bytes": 600
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/distal-access--wallaby-medical--esperance-distal-access-catheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--wallaby-medical--esperance-distal-access-catheter/merged/distal-access--wallaby-medical--esperance-distal-access-catheter.json",
+        "bytes": 852
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_access_catheters",
+    "label": "Access, Guide, Delivery Catheters"
+  }
+}

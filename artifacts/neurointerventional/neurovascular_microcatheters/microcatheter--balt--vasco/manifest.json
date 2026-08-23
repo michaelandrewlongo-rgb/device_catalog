@@ -1,0 +1,35 @@
+{
+  "device_slug": "microcatheter--balt--vasco",
+  "artifact_folder": "microcatheter--balt--vasco",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 4498,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/microcatheter--balt--vasco.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--balt--vasco/enriched/microcatheter--balt--vasco.json",
+        "bytes": 1980
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/microcatheter--balt--vasco.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--balt--vasco/merged/microcatheter--balt--vasco.json",
+        "bytes": 1398
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/balt/vasco.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--balt--vasco/scraper_raw/balt/vasco.json",
+        "bytes": 1120
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

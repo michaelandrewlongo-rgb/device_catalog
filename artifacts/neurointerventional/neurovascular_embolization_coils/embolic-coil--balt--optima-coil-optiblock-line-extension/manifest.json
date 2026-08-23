@@ -1,0 +1,54 @@
+{
+  "device_slug": "embolic-coil--balt--optima-coil-optiblock-line-extension",
+  "artifact_folder": "embolic-coil--balt--optima-coil-optiblock-line-extension",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 3364336,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/embolic-coil/parsed/fda_summaries/embolic-coil--balt--optima-coil-optiblock-line-extension--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--balt--optima-coil-optiblock-line-extension/510k/embolic-coil/parsed/fda_summaries/embolic-coil--balt--optima-coil-optiblock-line-extension--510k.json",
+        "bytes": 42262
+      },
+      {
+        "source": "pipeline/data/510k/embolic-coil/pdfs/embolic-coil--balt--optima-coil-optiblock-line-extension--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--balt--optima-coil-optiblock-line-extension/510k/embolic-coil/pdfs/embolic-coil--balt--optima-coil-optiblock-line-extension--510k.pdf",
+        "bytes": 3287772
+      }
+    ],
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/embolic-coil--balt--optima-coil-optiblock-line-extension--knowledge.md",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--balt--optima-coil-optiblock-line-extension/data_by_device/embolic-coil--balt--optima-coil-optiblock-line-extension--knowledge.md",
+        "bytes": 4087
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--balt--optima-coil-optiblock-line-extension.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--balt--optima-coil-optiblock-line-extension/enriched/embolic-coil--balt--optima-coil-optiblock-line-extension.json",
+        "bytes": 28771
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K242582.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--balt--optima-coil-optiblock-line-extension/fda_raw/HCG/K242582.json",
+        "bytes": 586
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--balt--optima-coil-optiblock-line-extension.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--balt--optima-coil-optiblock-line-extension/merged/embolic-coil--balt--optima-coil-optiblock-line-extension.json",
+        "bytes": 858
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

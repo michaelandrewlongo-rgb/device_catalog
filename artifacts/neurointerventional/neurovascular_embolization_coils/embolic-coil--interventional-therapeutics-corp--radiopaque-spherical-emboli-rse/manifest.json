@@ -1,0 +1,35 @@
+{
+  "device_slug": "embolic-coil--interventional-therapeutics-corp--radiopaque-spherical-emboli-rse",
+  "artifact_folder": "embolic-coil--interventional-therapeutics-corp--radiopaque-spherical-emboli-rse",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2996,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--interventional-therapeutics-corp--radiopaque-spherical-emboli-rse.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--interventional-therapeutics-corp--radiopaque-spherical-emboli-rse/enriched/embolic-coil--interventional-therapeutics-corp--radiopaque-spherical-emboli-rse.json",
+        "bytes": 1466
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K871047.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--interventional-therapeutics-corp--radiopaque-spherical-emboli-rse/fda_raw/HCG/K871047.json",
+        "bytes": 645
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--interventional-therapeutics-corp--radiopaque-spherical-emboli-rse.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--interventional-therapeutics-corp--radiopaque-spherical-emboli-rse/merged/embolic-coil--interventional-therapeutics-corp--radiopaque-spherical-emboli-rse.json",
+        "bytes": 885
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

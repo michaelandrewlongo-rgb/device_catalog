@@ -1,0 +1,29 @@
+{
+  "device_name": "Trevo Trak \u00ae 21 Microcatheter",
+  "manufacturer": "stryker",
+  "catalog_category": "microcatheter",
+  "filename_stem": "microcatheter--stryker--trevo-trak-21-microcatheter",
+  "clearance_type": "510k",
+  "clearance_number": "K211594",
+  "clearance_date": "2021-11-26",
+  "device_class": 2,
+  "device_name_fda": "Trevo Trak 21 Microcatheter",
+  "product_code": "QJP",
+  "what_it_is": "Trevo Trak \u00ae 21 Microcatheter",
+  "sizing_specs": "Techniques and portfolio",
+  "indications": "The Microcatheter is indicated for use in the selective\nplacement of devices and/or fluids, such as contrast\nmedia, into the peripheral, coronary, and neuro\nvasculature during diagnostic and/or therapeutic\nprocedures.",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K211594.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.stryker.com/us/en/neurovascular/products/trak-21.html",
+  "confidence_score": 0.8,
+  "needs_review": false,
+  "data_sources": [
+    "fda",
+    "scraper"
+  ]
+}

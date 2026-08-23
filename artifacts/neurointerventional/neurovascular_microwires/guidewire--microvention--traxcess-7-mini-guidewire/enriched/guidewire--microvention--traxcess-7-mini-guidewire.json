@@ -1,0 +1,104 @@
+{
+  "device_name": "Traxcess 7 Mini Guidewire",
+  "manufacturer": "microvention",
+  "catalog_category": "guidewire",
+  "filename_stem": "guidewire--microvention--traxcess-7-mini-guidewire",
+  "clearance_type": "510k",
+  "clearance_number": "K201487",
+  "clearance_date": "2020-07-02",
+  "device_class": 2,
+  "device_name_fda": "Traxcess 7 Mini Guidewire",
+  "product_code": "MOF",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": "Indications for Use See PRA Statement below.\n510(k) Number (if known)\nK201487\nDevice Name\nTraxcess™ 7 Mini Guidewire\nIndications for Use (Describe)\nTraxcess™ 7 Mini Guidewire is indicated for general intravascular use, including the neuro and peripheral vasculature.\nThe guidewire can be steered to facilitate the selective placement of diagnostic or therapeutic catheters. This device is not\nindicated for use in coronary arteries.\nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)\nCONTINUE ON A SEPARATE PAGE IF NEEDED.\nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the\ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any other aspect\nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of\ninformation unless it displays a currently valid OMB number.”\nFORM FDA 3881 (7/17) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF\n\n510(k) SUMMARY\nThis 510(k) summary of safety and effectiveness for the Traxcess™ 7 Mini Guidewire is\nsubmitted in accordance with the requirements of 21 CFR 807.87(h) and 807.92 and following\nthe recommendations outlined in FDA Guidance, The 510(k) Program: Evaluating Substantial\nEquivalence in Premarket Notifications [510(k)], dated 28 July 2014.\nI SUBMITTER [807.92(a)(1)]\nMicroVention Inc.\nTustin, California U.S.A\nTelephone: (714)247-8201\nContact Name: Ganesh Balachandar\nE-mail address: ganesh.balachander@microvention.com\nDate Prepared: 01-June-2020\nII DEVICE [807.92(a)(2)]\nName of Device: Traxcess™7 Mini Guidewire\nCommon or Usual Name: Guidewire\nClassification Name: Catheter Guidewire\nProduct Code: MOF, DQX\nRegulatory Class: Class II\nSubmission Type: Special 510(k)\nRegulation Number: 21 CFR 870.1330\nDivision of Neurosurgical, Neurointerventional, and\nReviewing Product Branch:\nNeurodiagnostic Devices (Office of Product Evaluation\nand Quality)\nIII PREDICATE DEVICE [807.92(a)(3)]",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "[FDA RECALL] 1 active recall(s).\n  - There is a potential for the hydrophilic coating on the guidewire to delaminate from the guidewire.",
+  "deployment_steps": null,
+  "also_known_as": [
+    "K161803",
+    "K200547",
+    "K161803",
+    "K161803",
+    "K200547",
+    "K161803",
+    "K200547",
+    "K161803",
+    "K161803",
+    "K161803",
+    "K161803",
+    "K161803",
+    "K161803",
+    "K161803",
+    "K093647",
+    "K161803",
+    "K161803",
+    "K161803",
+    "K161803",
+    "K161803",
+    "K161803",
+    "K161803",
+    "K161803",
+    "K093647",
+    "K161803",
+    "K161803",
+    "K161803",
+    "K161803",
+    "K161803",
+    "K161803",
+    "K161803",
+    "K161803",
+    "K161803",
+    "K161803",
+    "K161803",
+    "K161803",
+    "K161803",
+    "K161803",
+    "K200547",
+    "K200547",
+    "K161803"
+  ],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K201487.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "none",
+      "confidence": 0
+    },
+    "sizing_specs": {
+      "source": "none",
+      "confidence": 0
+    },
+    "indications": {
+      "source": "fda_summary",
+      "confidence": 0.95
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "none",
+      "confidence": 0
+    },
+    "also_known_as": {
+      "source": "fda_summary",
+      "confidence": 0.3
+    },
+    "_safety": {
+      "source": "fda_maude+recalls",
+      "confidence": 0.85
+    }
+  }
+}

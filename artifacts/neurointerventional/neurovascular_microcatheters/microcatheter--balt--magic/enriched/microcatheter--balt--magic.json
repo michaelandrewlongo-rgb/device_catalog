@@ -1,0 +1,61 @@
+{
+  "device_name": "Magic",
+  "manufacturer": "balt",
+  "catalog_category": "microcatheter",
+  "filename_stem": "microcatheter--balt--magic",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "Magic Infusion Catheter is intended to operate for regional infusion of contrast materials into selected vessels in the neurovasculature. Magic Infusion Catheters are intended to facilitate access through distant, tortuous vasculature. Progressive suppleness ranging from a highly flexible tip to a semi-rigid proximal section allows the catheter to be advanced by the physician. It is not intended for use in the coronary vasculature.",
+  "sizing_specs": "Model: MA1.5FMP",
+  "indications": "MAGIC Infusion Catheter (K202366)\nThe MAGIC Infusion Catheter is intended for regional infusion of contrast materials into selected vessels in the neurovasculature. The MAGIC Infusion Catheter may be used for controlled, regional infusion into selected vessels and is not intended for use in the coronary vasculature.",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "MRI: Labeling does not contain MRI Safety Information. Pre-sterilized. Single-use",
+  "deployment_steps": null,
+  "also_known_as": [
+    "Magic Infusion Catheter",
+    "Vascular microcatheter"
+  ],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://baltgroup.com/products/magic",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "sizing_specs": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "indications": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "also_known_as": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    }
+  }
+}

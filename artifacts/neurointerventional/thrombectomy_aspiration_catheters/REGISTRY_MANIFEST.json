@@ -1,0 +1,1059 @@
+{
+  "domain": "neurointerventional",
+  "registry": "thrombectomy_aspiration_catheters",
+  "label": "Aspiration Catheters",
+  "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters",
+  "devices": [
+    {
+      "slug": "aspiration--alembic-llc--apro-45-catheter-and-alembic",
+      "artifact_folder": "aspiration--alembic-llc--apro-45-catheter-and-alembic",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--alembic-llc--apro-45-catheter-and-alembic",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--alembic-llc--apro-55-catheter-and-alembic",
+      "artifact_folder": "aspiration--alembic-llc--apro-55-catheter-and-alembic",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--alembic-llc--apro-55-catheter-and-alembic",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--alembic-llc--apro-55-swift-catheter-and",
+      "artifact_folder": "aspiration--alembic-llc--apro-55-swift-catheter-and",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--alembic-llc--apro-55-swift-catheter-and",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--alembic-llc--apro-70-catheter-and-alembic",
+      "artifact_folder": "aspiration--alembic-llc--apro-70-catheter-and-alembic",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--alembic-llc--apro-70-catheter-and-alembic",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--alembic-llc--apro-70-swift-catheter-and",
+      "artifact_folder": "aspiration--alembic-llc--apro-70-swift-catheter-and",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--alembic-llc--apro-70-swift-catheter-and",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--balt--ballast",
+      "artifact_folder": "aspiration--balt--ballast",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--balt--ballast",
+      "file_count": 5,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "extracted": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "aspiration--balt--carrier",
+      "artifact_folder": "aspiration--balt--carrier",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--balt--carrier",
+      "file_count": 5,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "extracted": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "aspiration--balt--hybrid",
+      "artifact_folder": "aspiration--balt--hybrid",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--balt--hybrid",
+      "file_count": 5,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "extracted": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "aspiration--balt--next-generation-aspiration-catheter-balt",
+      "artifact_folder": "aspiration--balt--next-generation-aspiration-catheter-balt",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--balt--next-generation-aspiration-catheter-balt",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--balt--raptor",
+      "artifact_folder": "aspiration--balt--raptor",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--balt--raptor",
+      "file_count": 5,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "extracted": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "aspiration--balt--raptor-aspiration-catheter-balt-aspiration",
+      "artifact_folder": "aspiration--balt--raptor-aspiration-catheter-balt-aspiration",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--balt--raptor-aspiration-catheter-balt-aspiration",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--cerenovus--cerenovus-large-bore-catheter-cerenovus",
+      "artifact_folder": "aspiration--cerenovus--cerenovus-large-bore-catheter-cerenovus",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--cerenovus--cerenovus-large-bore-catheter-cerenovus",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--imperative-care-inc--0-071-id-mantaray-reperfusion",
+      "artifact_folder": "aspiration--imperative-care-inc--0-071-id-mantaray-reperfusion",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--imperative-care-inc--0-071-id-mantaray-reperfusion",
+      "file_count": 4,
+      "source_counts": {
+        "510k": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--imperative-care-inc--0-071-id-mantaray-reperfusion-recalls",
+      "artifact_folder": "aspiration--imperative-care-inc--0-071-id-mantaray-reperfusion-recalls",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--imperative-care-inc--0-071-id-mantaray-reperfusion-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "aspiration--imperative-care-inc--zoom",
+      "artifact_folder": "aspiration--imperative-care-inc--zoom",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--imperative-care-inc--zoom",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--imperative-care-inc--zoom-71-55-45-35",
+      "artifact_folder": "aspiration--imperative-care-inc--zoom-71-55-45-35",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--imperative-care-inc--zoom-71-55-45-35",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--imperative-care-inc--zoom-71-55-45-35-recalls",
+      "artifact_folder": "aspiration--imperative-care-inc--zoom-71-55-45-35-recalls",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--imperative-care-inc--zoom-71-55-45-35-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "aspiration--imperative-care-inc--zoom-71-reperfusion-catheter-zoom",
+      "artifact_folder": "aspiration--imperative-care-inc--zoom-71-reperfusion-catheter-zoom",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--imperative-care-inc--zoom-71-reperfusion-catheter-zoom",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--imperative-care-inc--zoom-71-reperfusion-catheter-zoom-recalls",
+      "artifact_folder": "aspiration--imperative-care-inc--zoom-71-reperfusion-catheter-zoom-recalls",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--imperative-care-inc--zoom-71-reperfusion-catheter-zoom-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "aspiration--imperative-care-inc--zoom-7x-catheter-zoom-aspiration",
+      "artifact_folder": "aspiration--imperative-care-inc--zoom-7x-catheter-zoom-aspiration",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--imperative-care-inc--zoom-7x-catheter-zoom-aspiration",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--imperative-care-inc--zoom-7x-catheter-zoom-aspiration-recalls",
+      "artifact_folder": "aspiration--imperative-care-inc--zoom-7x-catheter-zoom-aspiration-recalls",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--imperative-care-inc--zoom-7x-catheter-zoom-aspiration-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "aspiration--imperative-care-inc--zoom-recalls",
+      "artifact_folder": "aspiration--imperative-care-inc--zoom-recalls",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--imperative-care-inc--zoom-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "aspiration--imperative-care-inc--zoom-zoom-4s-catheter",
+      "artifact_folder": "aspiration--imperative-care-inc--zoom-zoom-4s-catheter",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--imperative-care-inc--zoom-zoom-4s-catheter",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--imperative-care-inc--zoom-zoom-4s-catheter-recalls",
+      "artifact_folder": "aspiration--imperative-care-inc--zoom-zoom-4s-catheter-recalls",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--imperative-care-inc--zoom-zoom-4s-catheter-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "aspiration--inneuroco-inc--046-zenith-flex",
+      "artifact_folder": "aspiration--inneuroco-inc--046-zenith-flex",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--inneuroco-inc--046-zenith-flex",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--inneuroco-inc--074-zenith-flex",
+      "artifact_folder": "aspiration--inneuroco-inc--074-zenith-flex",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--inneuroco-inc--074-zenith-flex",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--inneuroco-inc--zenith-flex",
+      "artifact_folder": "aspiration--inneuroco-inc--zenith-flex",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--inneuroco-inc--zenith-flex",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--medtronic--apro-aspiration-catheter",
+      "artifact_folder": "aspiration--medtronic--apro-aspiration-catheter",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--medtronic--apro-aspiration-catheter",
+      "file_count": 4,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "aspiration--medtronic--react-aspiration-catheter",
+      "artifact_folder": "aspiration--medtronic--react-aspiration-catheter",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--medtronic--react-aspiration-catheter",
+      "file_count": 4,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "aspiration--medtronic--riptide-aspiration",
+      "artifact_folder": "aspiration--medtronic--riptide-aspiration",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--medtronic--riptide-aspiration",
+      "file_count": 7,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 3,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--medtronic--riptide-aspiration-react-68-catheter",
+      "artifact_folder": "aspiration--medtronic--riptide-aspiration-react-68-catheter",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--medtronic--riptide-aspiration-react-68-catheter",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--medtronic--riptide-aspiration-react-71-catheter",
+      "artifact_folder": "aspiration--medtronic--riptide-aspiration-react-71-catheter",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--medtronic--riptide-aspiration-react-71-catheter",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--medtronic--riptide-aspiration-riptide-large-bore",
+      "artifact_folder": "aspiration--medtronic--riptide-aspiration-riptide-large-bore",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--medtronic--riptide-aspiration-riptide-large-bore",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--medtronic--riptide-aspiration-system",
+      "artifact_folder": "aspiration--medtronic--riptide-aspiration-system",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--medtronic--riptide-aspiration-system",
+      "file_count": 4,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "aspiration--penumbra--artemis-neuro-evacuation-device",
+      "artifact_folder": "aspiration--penumbra--artemis-neuro-evacuation-device",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--artemis-neuro-evacuation-device",
+      "file_count": 4,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "aspiration--penumbra--cavt",
+      "artifact_folder": "aspiration--penumbra--cavt",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--cavt",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "aspiration--penumbra--indigo-system-cat-rx",
+      "artifact_folder": "aspiration--penumbra--indigo-system-cat-rx",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--indigo-system-cat-rx",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "aspiration--penumbra--penumbra",
+      "artifact_folder": "aspiration--penumbra--penumbra",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra",
+      "file_count": 7,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--penumbra--penumbra-110-aspiration-tubing",
+      "artifact_folder": "aspiration--penumbra--penumbra-110-aspiration-tubing",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-110-aspiration-tubing",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--penumbra--penumbra-110-aspiration-tubing-recalls",
+      "artifact_folder": "aspiration--penumbra--penumbra-110-aspiration-tubing-recalls",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-110-aspiration-tubing-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "aspiration--penumbra--penumbra-ace",
+      "artifact_folder": "aspiration--penumbra--penumbra-ace",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-ace",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--penumbra--penumbra-ace-64-and-ace",
+      "artifact_folder": "aspiration--penumbra--penumbra-ace-64-and-ace",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-ace-64-and-ace",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--penumbra--penumbra-ace-64-and-ace-recalls",
+      "artifact_folder": "aspiration--penumbra--penumbra-ace-64-and-ace-recalls",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-ace-64-and-ace-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "aspiration--penumbra--penumbra-ace-68-reperfusion-catheter",
+      "artifact_folder": "aspiration--penumbra--penumbra-ace-68-reperfusion-catheter",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-ace-68-reperfusion-catheter",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--penumbra--penumbra-ace-68-reperfusion-catheter-recalls",
+      "artifact_folder": "aspiration--penumbra--penumbra-ace-68-reperfusion-catheter-recalls",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-ace-68-reperfusion-catheter-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "aspiration--penumbra--penumbra-ace-recalls",
+      "artifact_folder": "aspiration--penumbra--penumbra-ace-recalls",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-ace-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "aspiration--penumbra--penumbra-max",
+      "artifact_folder": "aspiration--penumbra--penumbra-max",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-max",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--penumbra--penumbra-max-recalls",
+      "artifact_folder": "aspiration--penumbra--penumbra-max-recalls",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-max-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "aspiration--penumbra--penumbra-modified-110-aspiration-tubing",
+      "artifact_folder": "aspiration--penumbra--penumbra-modified-110-aspiration-tubing",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-modified-110-aspiration-tubing",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--penumbra--penumbra-modified-110-aspiration-tubing-recalls",
+      "artifact_folder": "aspiration--penumbra--penumbra-modified-110-aspiration-tubing-recalls",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-modified-110-aspiration-tubing-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "aspiration--penumbra--penumbra-pennumbra-reperfusion-catheter-054",
+      "artifact_folder": "aspiration--penumbra--penumbra-pennumbra-reperfusion-catheter-054",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-pennumbra-reperfusion-catheter-054",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--penumbra--penumbra-pennumbra-reperfusion-catheter-054-recalls",
+      "artifact_folder": "aspiration--penumbra--penumbra-pennumbra-reperfusion-catheter-054-recalls",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-pennumbra-reperfusion-catheter-054-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "aspiration--penumbra--penumbra-penumbra-jet-7-reperfusion",
+      "artifact_folder": "aspiration--penumbra--penumbra-penumbra-jet-7-reperfusion",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-penumbra-jet-7-reperfusion",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--penumbra--penumbra-penumbra-jet-7-reperfusion-recalls",
+      "artifact_folder": "aspiration--penumbra--penumbra-penumbra-jet-7-reperfusion-recalls",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-penumbra-jet-7-reperfusion-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "aspiration--penumbra--penumbra-penumbra-jet-7x",
+      "artifact_folder": "aspiration--penumbra--penumbra-penumbra-jet-7x",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-penumbra-jet-7x",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--penumbra--penumbra-penumbra-jet-7x-recalls",
+      "artifact_folder": "aspiration--penumbra--penumbra-penumbra-jet-7x-recalls",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-penumbra-jet-7x-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "aspiration--penumbra--penumbra-penumbra-max",
+      "artifact_folder": "aspiration--penumbra--penumbra-penumbra-max",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-penumbra-max",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--penumbra--penumbra-penumbra-max-recalls",
+      "artifact_folder": "aspiration--penumbra--penumbra-penumbra-max-recalls",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-penumbra-max-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "aspiration--penumbra--penumbra-penumbra-pump-max",
+      "artifact_folder": "aspiration--penumbra--penumbra-penumbra-pump-max",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-penumbra-pump-max",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--penumbra--penumbra-penumbra-pump-max-recalls",
+      "artifact_folder": "aspiration--penumbra--penumbra-penumbra-pump-max-recalls",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-penumbra-pump-max-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "aspiration--penumbra--penumbra-recalls",
+      "artifact_folder": "aspiration--penumbra--penumbra-recalls",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "aspiration--penumbra--penumbra-red-68-reperfusion-catheter",
+      "artifact_folder": "aspiration--penumbra--penumbra-red-68-reperfusion-catheter",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-red-68-reperfusion-catheter",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--penumbra--penumbra-red-68-reperfusion-catheter-recalls",
+      "artifact_folder": "aspiration--penumbra--penumbra-red-68-reperfusion-catheter-recalls",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-red-68-reperfusion-catheter-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "aspiration--penumbra--penumbra-reperfusion-catheter-jet-7",
+      "artifact_folder": "aspiration--penumbra--penumbra-reperfusion-catheter-jet-7",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-reperfusion-catheter-jet-7",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--penumbra--penumbra-reperfusion-catheter-jet-7-recalls",
+      "artifact_folder": "aspiration--penumbra--penumbra-reperfusion-catheter-jet-7-recalls",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-reperfusion-catheter-jet-7-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "aspiration--penumbra--penumbra-reperfusion-catheter-red-43",
+      "artifact_folder": "aspiration--penumbra--penumbra-reperfusion-catheter-red-43",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-reperfusion-catheter-red-43",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--penumbra--penumbra-reperfusion-catheter-red-43-recalls",
+      "artifact_folder": "aspiration--penumbra--penumbra-reperfusion-catheter-red-43-recalls",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-reperfusion-catheter-red-43-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "aspiration--penumbra--penumbra-reperfusion-catheter-red-62",
+      "artifact_folder": "aspiration--penumbra--penumbra-reperfusion-catheter-red-62",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-reperfusion-catheter-red-62",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--penumbra--penumbra-reperfusion-catheter-red-62-recalls",
+      "artifact_folder": "aspiration--penumbra--penumbra-reperfusion-catheter-red-62-recalls",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-reperfusion-catheter-red-62-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "aspiration--penumbra--penumbra-reperfusion-catheter-red-72",
+      "artifact_folder": "aspiration--penumbra--penumbra-reperfusion-catheter-red-72",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-reperfusion-catheter-red-72",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--penumbra--penumbra-reperfusion-catheter-red-72-recalls",
+      "artifact_folder": "aspiration--penumbra--penumbra-reperfusion-catheter-red-72-recalls",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-reperfusion-catheter-red-72-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "aspiration--penumbra--penumbra-separator-flex-026032041054-models",
+      "artifact_folder": "aspiration--penumbra--penumbra-separator-flex-026032041054-models",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-separator-flex-026032041054-models",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--penumbra--penumbra-separator-flex-026032041054-models-recalls",
+      "artifact_folder": "aspiration--penumbra--penumbra-separator-flex-026032041054-models-recalls",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-separator-flex-026032041054-models-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "aspiration--perfuze-ltd--millipede-070-aspiration-catheter-perfuze",
+      "artifact_folder": "aspiration--perfuze-ltd--millipede-070-aspiration-catheter-perfuze",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--perfuze-ltd--millipede-070-aspiration-catheter-perfuze",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--perfuze-ltd--millipede-088-access-catheter-millipede",
+      "artifact_folder": "aspiration--perfuze-ltd--millipede-088-access-catheter-millipede",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--perfuze-ltd--millipede-088-access-catheter-millipede",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--perfuze-ltd--millipede70-aspiration-catheter-perfuze-aspiration",
+      "artifact_folder": "aspiration--perfuze-ltd--millipede70-aspiration-catheter-perfuze-aspiration",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--perfuze-ltd--millipede70-aspiration-catheter-perfuze-aspiration",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--phenox--esperance-phlo-aspiration",
+      "artifact_folder": "aspiration--phenox--esperance-phlo-aspiration",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--phenox--esperance-phlo-aspiration",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--q-apel-medical-inc--072-aspiration",
+      "artifact_folder": "aspiration--q-apel-medical-inc--072-aspiration",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--q-apel-medical-inc--072-aspiration",
+      "file_count": 7,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--route-92-medical-inc--route-92-medical-full-length",
+      "artifact_folder": "aspiration--route-92-medical-inc--route-92-medical-full-length",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--route-92-medical-inc--route-92-medical-full-length",
+      "file_count": 7,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--route-92-medical-inc--route-92-medical-hipoint-reperfusion",
+      "artifact_folder": "aspiration--route-92-medical-inc--route-92-medical-hipoint-reperfusion",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--route-92-medical-inc--route-92-medical-hipoint-reperfusion",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--scientia-vascular-inc--socrates-aspiration",
+      "artifact_folder": "aspiration--scientia-vascular-inc--socrates-aspiration",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--scientia-vascular-inc--socrates-aspiration",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--scientia-vascular-inc--socrates-aspiration-recalls",
+      "artifact_folder": "aspiration--scientia-vascular-inc--socrates-aspiration-recalls",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--scientia-vascular-inc--socrates-aspiration-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "aspiration--stryker--axs-catalyst-7-distal-access",
+      "artifact_folder": "aspiration--stryker--axs-catalyst-7-distal-access",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--stryker--axs-catalyst-7-distal-access",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--stryker--axs-catalyst-7-distal-access-recalls",
+      "artifact_folder": "aspiration--stryker--axs-catalyst-7-distal-access-recalls",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--stryker--axs-catalyst-7-distal-access-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "aspiration--stryker--axs-catalyst-distal-access-catheter",
+      "artifact_folder": "aspiration--stryker--axs-catalyst-distal-access-catheter",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--stryker--axs-catalyst-distal-access-catheter",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--stryker--axs-catalyst-distal-access-catheter-recalls",
+      "artifact_folder": "aspiration--stryker--axs-catalyst-distal-access-catheter-recalls",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--stryker--axs-catalyst-distal-access-catheter-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "aspiration--stryker--axs-vecta-aspiration",
+      "artifact_folder": "aspiration--stryker--axs-vecta-aspiration",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--stryker--axs-vecta-aspiration",
+      "file_count": 8,
+      "source_counts": {
+        "510k": 3,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--stryker--axs-vecta-aspiration-recalls",
+      "artifact_folder": "aspiration--stryker--axs-vecta-aspiration-recalls",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--stryker--axs-vecta-aspiration-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "aspiration--vesalio-inc--nevasc-aspiration",
+      "artifact_folder": "aspiration--vesalio-inc--nevasc-aspiration",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--vesalio-inc--nevasc-aspiration",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--wallaby-medical--esperance-3-aspiration-catheter",
+      "artifact_folder": "aspiration--wallaby-medical--esperance-3-aspiration-catheter",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--wallaby-medical--esperance-3-aspiration-catheter",
+      "file_count": 7,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration--wallaby-medical--esperance-aspiration-catheter",
+      "artifact_folder": "aspiration--wallaby-medical--esperance-aspiration-catheter",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--wallaby-medical--esperance-aspiration-catheter",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "aspiration-catheter--microvention--sofia-flow-plus",
+      "artifact_folder": "aspiration-catheter--microvention--sofia-flow-plus",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration-catheter--microvention--sofia-flow-plus",
+      "file_count": 1,
+      "source_counts": {
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "aspiration-catheter--microvention--sofiatm-flow-plus",
+      "artifact_folder": "aspiration-catheter--microvention--sofiatm-flow-plus",
+      "path": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration-catheter--microvention--sofiatm-flow-plus",
+      "file_count": 2,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1
+      }
+    }
+  ],
+  "device_count": 93
+}

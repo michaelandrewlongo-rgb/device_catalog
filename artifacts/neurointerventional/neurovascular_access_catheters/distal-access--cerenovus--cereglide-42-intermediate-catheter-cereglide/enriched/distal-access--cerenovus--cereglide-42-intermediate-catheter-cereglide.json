@@ -1,0 +1,88 @@
+{
+ "device_name": "CEREGLIDE 42 Intermediate Catheter; CEREGLIDE 57 Intermediate Catheter",
+ "manufacturer": "cerenovus",
+ "catalog_category": "distal-access",
+ "filename_stem": "distal-access--cerenovus--cereglide-42-intermediate-catheter-cereglide",
+ "clearance_type": "510k",
+ "clearance_number": "K241244",
+ "clearance_date": "2024-10-16",
+ "device_class": 2,
+ "device_name_fda": "CEREGLIDE 42 Intermediate Catheter; CEREGLIDE 57 Intermediate Catheter",
+ "product_code": "QJP",
+ "what_it_is": null,
+ "sizing_specs": {
+  "id_od": {
+   "units": "inches",
+   "max_od_is_proximal": true,
+   "od_prox": {
+    "in": 0.058
+   },
+   "od_dist": {
+    "in": 0.056
+   },
+   "id": {
+    "in": 0.046
+   },
+   "verbatim_quote": "46 cm 153 cm 160 cm 115 cm 125 cm 132 cm 144 cm 152 cm 160 cm 115 cm 125 cm 132 cm 137 cm Inner Diameter (ID) 0.046\u201d 0.042\u201d 0.057\u201d Distal Outer Diameter (OD) 0.056\u201d 0.053\u201d (1.35 mm) 0.06",
+   "k_number": "K241244",
+   "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K241244.pdf",
+   "extraction_method": "pymupdf_text_regex_verified",
+   "extracted": "2026-08-23"
+  },
+  "spec_status": "verified"
+ },
+ "indications": "Indications for Use See PRA Statement below.\n51 0(k) Number (if known)\nK241221\nDevice Name\nCEREGLIDE 42 Intermediate Catheter\nCEREGLIDE 57 Intermediate Catheter\nCerenovus Aspiration Tubing Set\nIndications for Use (Describe)\nThe CEREGLIDE 42 Intermediate Catheter and the CEREGLIDE 57 Intermediate Catheter, with the Cerenovus\nAspiration Tubing Set and a compatible aspiration pump, are indicated for use in the revascularization of patients with\nacute ischemic stroke secondary to intracranial large vessel occlusive disease (within the internal carotid, middle cerebral\n- Ml and M2 segments, basilar, and vertebral arteries) within 8 hours of symptom onset. Patients who are ineligible for\nthrombolytic drug therapy or who failed thrombolytic drug therapy are candidates for treatment.\n\u2122\nThe Cerenovus Aspiration Tubing Set is intended to connect the Cerenovus Large Bore Catheter or the CEREGLIDE\n71, 57 or 42 Intermediate Catheter to the canister of a compatible aspiration pump and to allow the user to control the\nfluid flow.\nType of Use (Select one or both, as applicable)\nIZI D\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)\nCONTINUE ON A SEPARATE PAGE IF NEEDED.\nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the\ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any other aspect\nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n\"An agency may not conduct or sponsor, and a person is not required to respond to, a collection of\ninformation unless it displays a currently valid 0MB number.\"\nFORM FDA 3881 (8/23) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF\n\nCerenovus, Inc. Traditional 510(k) Premarket Notification\nCEREGLIDE\u2122 42 Intermediate Catheter; CEREGLIDE\u2122 57 Intermediate Catheter;\nCerenovus Aspiration Tubing Set\n510(k) Summary \u2013 K241221\nI.Submitter\nCerenovus, Inc.\n6303 Waterford District Drive,\nSuites 215 & 315\nMiami, FL 33126\nUnited States\nContact Person: Cara Feely (Regulatory Affairs Manager)\nTel: 00353863335253\nEmail: Cfeely@its.jnj.com\nII.Date\nOctober 14, 2024\nPrepared\nIII.Device Table 1. Device Information\nInformation CEREGLIDE\u2122 42 Intermediate Catheter\nDevice Proprietary Name CEREGLIDE\u2122 57 Intermediate Catheter\nCerenovus Aspiration Tubing Set\nCommon or Usual name Catheter, Thrombus Retriever\nClassification Name 21 CFR 870.1250 \u2013 Catheter, Percutaneous\nRegulatory Classification II\nFDA Product Code NRY\nIV.Predicate The primary predicate device is listed below in Table 2.\nDevice\nInformation Table 2. Primary Predicate Device\n510(k) Number Date Cleared Name Manufacturer\nZenith Flex Aspiration System\nK190338 August 2, 2019 InNeuroCo, Inc.\n(046 Zenith Flex Catheter)\nContinued on the next page\nPage 1 of 6\n\n| Table 1. Device Information |  |  |  |\n| --- | --- | --- | --- |\n| Device Proprietary Name |  |  | CEREGLIDE\u2122 42 Intermediate Catheter\nCEREGLIDE\u2122 57 Intermediate Catheter\nCerenovus Aspiration Tubing Set |\n|  | Common or Usual name |  | Catheter, Thrombus Retriever |\n|  | Classification Name |  | 21 CFR 870.1250 \u2013 Catheter, Percutaneous |\n|  | Regulatory Classification |  | II |\n|  | FDA Product Code |  | NRY |\n\n| Table 2. Primary Predicate Device |  |  |  |\n| --- | --- | --- | --- |\n| 510(k) Number | Date Cleared | Name | Manufacturer |\n| K190338 | August 2, 2019 | Zenith Flex Aspiration System\n(046 Zenith Flex Catheter) | InNeuroCo, Inc. |\n\nCerenovus, Inc. Traditional 510(k) Premarket Notification\nCEREGLIDE\u2122 42 Intermediate Catheter; CEREGLIDE\u2122 57 Intermediate Catheter;\nCerenovus Aspiration Tubing Set\n510(k) Summary continued\n,\nV.Device Both the CEREGLIDE\u2122 42 Intermediate Catheter and CEREGLIDE\u2122 57 Intermediate Catheter\nDescription are variable stiffness, single lumen catheters designed to be introduced over a steerable guide\nwire or microcatheter into the neuro vasculature. The catheter shaft is composed of a stainless-\nsteel variable pitch braid with a PTFE inner liner to facilitate movement of guide wires and other\ndevices. The exterior of the catheter shaft is covered with polymer materials, which encapsulate\nthe stainless-steel braid construction. The catheter has a stiff proximal shaft which transitions into\nthe flexible distal shaft to facilitate the advancement of the catheter in the anatomy. The distal\nend of the catheter has a radiopaque marker band to facilitate fluoroscopic visualization and has\na hydrophilic coating to provide lubricity to reduce friction during navigation in the vasculature.\nThe proximal end of the catheter has a luer fitting located on the end of the catheter hub which\ncan be used to attach accessories for flushing and aspiration. An ID band is placed at the distal\nend of the hub over a strain relief. The catheter is packaged with a Tuohy Borst Rotating\nHemostasis Valve (RHV) with a side port and two slit introducers as accessories.\nThe RHV with side port is used for flushing, insertion of catheters, and connection to an external\naspiration system. The slit introducers are designed to introduce the catheter into the base catheter\nand protect the distal tip of the catheter during insertion into the RHV of the base catheter.\nThe CEREGLIDE\u2122 42 Intermediate Catheter and the CEREGLIDE\u2122 57 Intermediate Catheter\nare designed for use in the removal of thrombus from the neurovasculature using continuous\naspiration from an external vacuum source. The CEREGLIDE\u2122 42 Intermediate Catheter and\nCEREGLIDE\u2122 57 Intermediate Catheter are intended to be used with a compatible aspiration\npump as a vacuum source that provides a minimum vacuum pressure of -68 kPa [-20 inHg] and\na maximum vacuum pressure of -95 kPa [-28 inHg], and minimum 17 L/min flow rate, with a\ncollection canister of at least 1000 mL volume.\nThe CEREGLIDE\u2122 42 Intermediate Catheter and the CEREGLIDE\u2122 57 Intermediate Catheter\nare intended to be connected to the vacuum source using the Cerenovus Aspiration Tubing Set\nwhich is an externally manufactured tubing set with an internal diameter (ID) of 0.110\u201d and\noverall length of 112\u201d, containing an integrated flow control switch.\nVI.Indications The CEREGLIDE 42 Intermediate Catheter and the CEREGLIDE 57 Intermediate Catheter, with\nfor Use the Cerenovus Aspiration Tubing Set and a compatible aspiration pump, are indicated for use in\nthe revascularization of patients with acute ischemic stroke secondary to intracranial large vessel\nocclusive disease (within the internal carotid, middle cerebral - M1 and M2 segments, basilar,\nand vertebral arteries) within 8 hours of symptom onset. Patients who are ineligible for\nthrombolytic drug therapy or who failed thrombolytic drug therapy are candidates for treatment.\nThe Cerenovus Aspiration Tubing Set is intended to connect the Cerenovus Large Bore Catheter\nor the CEREGLIDE\u2122 71, 57 or 42 Intermediate Catheter to the canister of a compatible\naspiration pump and to allow the user to control the fluid flow.\nVII.Predicate A comparison of the similarities and differences of product features between the CEREGLIDE\u2122\nComparison 42 Intermediate Catheter, the CEREGLIDE\u2122 57 Intermediate Catheter, and the predicate device\nare presented in Table 3.\nContinued on the next page\nPage 2 of 6\n\nCerenovus, Inc. Traditional 510(k) Premarket Notification\nCEREGLIDE\u2122 42 Intermediate Catheter; CEREGLIDE\u2122 57 Intermediate Catheter;\nCerenovus Aspiration Tubing Set\n510(k) Summary, continued\nTable 3. Predicate and Subject Device Comparison\nSubject Device: Subject Device:",
+ "contraindications": null,
+ "compatible_with": null,
+ "use_notes": null,
+ "deployment_steps": null,
+ "also_known_as": [
+  "K190338",
+  "K190338",
+  "K190338",
+  "K190338",
+  "K190338",
+  "K221934",
+  "K221934",
+  "K221934",
+  "K190338"
+ ],
+ "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K241244.pdf",
+ "ifu_pdf_url": null,
+ "source_url": "",
+ "confidence_score": 0.5,
+ "needs_review": false,
+ "data_sources": [
+  "fda"
+ ],
+ "_enrichment": {
+  "what_it_is": {
+   "source": "none",
+   "confidence": 0
+  },
+  "sizing_specs": {
+   "source": "none",
+   "confidence": 0
+  },
+  "indications": {
+   "source": "fda_summary",
+   "confidence": 0.95
+  },
+  "contraindications": {
+   "source": "none",
+   "confidence": 0
+  },
+  "compatible_with": {
+   "source": "none",
+   "confidence": 0
+  },
+  "use_notes": {
+   "source": "none",
+   "confidence": 0
+  },
+  "also_known_as": {
+   "source": "fda_summary",
+   "confidence": 0.3
+  }
+ }
+}

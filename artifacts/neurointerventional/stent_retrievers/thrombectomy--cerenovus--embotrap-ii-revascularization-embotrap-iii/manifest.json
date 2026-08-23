@@ -1,0 +1,47 @@
+{
+  "device_slug": "thrombectomy--cerenovus--embotrap-ii-revascularization-embotrap-iii",
+  "artifact_folder": "thrombectomy--cerenovus--embotrap-ii-revascularization-embotrap-iii",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 1131929,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/thrombectomy/parsed/fda_summaries/thrombectomy--cerenovus--embotrap-ii-revascularization-embotrap-iii--510k.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--cerenovus--embotrap-ii-revascularization-embotrap-iii/510k/thrombectomy/parsed/fda_summaries/thrombectomy--cerenovus--embotrap-ii-revascularization-embotrap-iii--510k.json",
+        "bytes": 29469
+      },
+      {
+        "source": "pipeline/data/510k/thrombectomy/pdfs/thrombectomy--cerenovus--embotrap-ii-revascularization-embotrap-iii--510k.pdf",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--cerenovus--embotrap-ii-revascularization-embotrap-iii/510k/thrombectomy/pdfs/thrombectomy--cerenovus--embotrap-ii-revascularization-embotrap-iii--510k.pdf",
+        "bytes": 1094479
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/thrombectomy--cerenovus--embotrap-ii-revascularization-embotrap-iii.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--cerenovus--embotrap-ii-revascularization-embotrap-iii/enriched/thrombectomy--cerenovus--embotrap-ii-revascularization-embotrap-iii.json",
+        "bytes": 6410
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NRY/K212908.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--cerenovus--embotrap-ii-revascularization-embotrap-iii/fda_raw/NRY/K212908.json",
+        "bytes": 637
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/thrombectomy--cerenovus--embotrap-ii-revascularization-embotrap-iii.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--cerenovus--embotrap-ii-revascularization-embotrap-iii/merged/thrombectomy--cerenovus--embotrap-ii-revascularization-embotrap-iii.json",
+        "bytes": 934
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "stent_retrievers",
+    "label": "Stent Retrievers"
+  }
+}

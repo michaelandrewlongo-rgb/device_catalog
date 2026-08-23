@@ -1,0 +1,47 @@
+{
+  "device_slug": "thrombectomy--medtronic--solitaire-fr-revascularization",
+  "artifact_folder": "thrombectomy--medtronic--solitaire-fr-revascularization",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 543647,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/thrombectomy/parsed/fda_summaries/thrombectomy--medtronic--solitaire-fr-revascularization--510k.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--solitaire-fr-revascularization/510k/thrombectomy/parsed/fda_summaries/thrombectomy--medtronic--solitaire-fr-revascularization--510k.json",
+        "bytes": 58678
+      },
+      {
+        "source": "pipeline/data/510k/thrombectomy/pdfs/thrombectomy--medtronic--solitaire-fr-revascularization--510k.pdf",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--solitaire-fr-revascularization/510k/thrombectomy/pdfs/thrombectomy--medtronic--solitaire-fr-revascularization--510k.pdf",
+        "bytes": 453019
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/thrombectomy--medtronic--solitaire-fr-revascularization.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--solitaire-fr-revascularization/enriched/thrombectomy--medtronic--solitaire-fr-revascularization.json",
+        "bytes": 30490
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NRY/K113455.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--solitaire-fr-revascularization/fda_raw/NRY/K113455.json",
+        "bytes": 614
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/thrombectomy--medtronic--solitaire-fr-revascularization.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--solitaire-fr-revascularization/merged/thrombectomy--medtronic--solitaire-fr-revascularization.json",
+        "bytes": 846
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "stent_retrievers",
+    "label": "Stent Retrievers"
+  }
+}

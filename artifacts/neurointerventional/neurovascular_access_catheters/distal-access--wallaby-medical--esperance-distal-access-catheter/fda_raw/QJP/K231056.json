@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K231056",
+  "clearance_date": "2024-03-08",
+  "device_class": 2,
+  "manufacturer_canonical": "wallaby-medical",
+  "manufacturer_raw": "Wallaby Medical",
+  "catalog_category": "distal-access",
+  "device_name_fda": "Esperance Distal Access Catheter",
+  "product_code": "QJP",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "distal-access--wallaby-medical--esperance-distal-access-catheter",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K231056.pdf"
+}

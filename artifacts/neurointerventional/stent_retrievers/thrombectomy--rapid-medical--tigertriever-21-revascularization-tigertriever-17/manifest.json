@@ -1,0 +1,54 @@
+{
+  "device_slug": "thrombectomy--rapid-medical--tigertriever-21-revascularization-tigertriever-17",
+  "artifact_folder": "thrombectomy--rapid-medical--tigertriever-21-revascularization-tigertriever-17",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 553503,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/thrombectomy/parsed/fda_summaries/thrombectomy--rapid-medical--tigertriever-21-revascularization-tigertriever-17--510k.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--rapid-medical--tigertriever-21-revascularization-tigertriever-17/510k/thrombectomy/parsed/fda_summaries/thrombectomy--rapid-medical--tigertriever-21-revascularization-tigertriever-17--510k.json",
+        "bytes": 51106
+      },
+      {
+        "source": "pipeline/data/510k/thrombectomy/pdfs/thrombectomy--rapid-medical--tigertriever-21-revascularization-tigertriever-17--510k.pdf",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--rapid-medical--tigertriever-21-revascularization-tigertriever-17/510k/thrombectomy/pdfs/thrombectomy--rapid-medical--tigertriever-21-revascularization-tigertriever-17--510k.pdf",
+        "bytes": 477222
+      }
+    ],
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/thrombectomy--rapid-medical--tigertriever-21-revascularization-tigertriever-17--knowledge.md",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--rapid-medical--tigertriever-21-revascularization-tigertriever-17/data_by_device/thrombectomy--rapid-medical--tigertriever-21-revascularization-tigertriever-17--knowledge.md",
+        "bytes": 4390
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/thrombectomy--rapid-medical--tigertriever-21-revascularization-tigertriever-17.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--rapid-medical--tigertriever-21-revascularization-tigertriever-17/enriched/thrombectomy--rapid-medical--tigertriever-21-revascularization-tigertriever-17.json",
+        "bytes": 19030
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NRY/K230429.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--rapid-medical--tigertriever-21-revascularization-tigertriever-17/fda_raw/NRY/K230429.json",
+        "bytes": 708
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/thrombectomy--rapid-medical--tigertriever-21-revascularization-tigertriever-17.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--rapid-medical--tigertriever-21-revascularization-tigertriever-17/merged/thrombectomy--rapid-medical--tigertriever-21-revascularization-tigertriever-17.json",
+        "bytes": 1047
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "stent_retrievers",
+    "label": "Stent Retrievers"
+  }
+}

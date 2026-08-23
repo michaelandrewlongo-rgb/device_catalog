@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K153658",
+  "clearance_date": "2016-05-19",
+  "device_class": 2,
+  "manufacturer_canonical": "stryker",
+  "manufacturer_raw": "Stryker Neurovascular",
+  "catalog_category": "embolic-coil",
+  "device_name_fda": "Target Detachable Coils",
+  "product_code": "HCG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": true,
+  "suggested_filename_stem": "embolic-coil--stryker--target-detachable-coils",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf15/K153658.pdf"
+}

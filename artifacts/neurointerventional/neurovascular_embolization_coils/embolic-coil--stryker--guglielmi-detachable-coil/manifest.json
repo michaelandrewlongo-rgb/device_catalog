@@ -1,0 +1,40 @@
+{
+  "device_slug": "embolic-coil--stryker--guglielmi-detachable-coil",
+  "artifact_folder": "embolic-coil--stryker--guglielmi-detachable-coil",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3724,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--stryker--guglielmi-detachable-coil.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--guglielmi-detachable-coil/enriched/embolic-coil--stryker--guglielmi-detachable-coil.json",
+        "bytes": 1777
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K960705.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--guglielmi-detachable-coil/fda_raw/HCG/K960705.json",
+        "bytes": 567
+      },
+      {
+        "source": "pipeline/data/fda_raw/HCG/K962503.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--guglielmi-detachable-coil/fda_raw/HCG/K962503.json",
+        "bytes": 567
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--stryker--guglielmi-detachable-coil.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--guglielmi-detachable-coil/merged/embolic-coil--stryker--guglielmi-detachable-coil.json",
+        "bytes": 813
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

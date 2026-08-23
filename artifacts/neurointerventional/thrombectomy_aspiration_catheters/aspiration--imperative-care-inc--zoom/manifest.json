@@ -1,0 +1,47 @@
+{
+  "device_slug": "aspiration--imperative-care-inc--zoom",
+  "artifact_folder": "aspiration--imperative-care-inc--zoom",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 3104714,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/aspiration/parsed/fda_summaries/aspiration--imperative-care-inc--zoom--510k.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--imperative-care-inc--zoom/510k/aspiration/parsed/fda_summaries/aspiration--imperative-care-inc--zoom--510k.json",
+        "bytes": 63574
+      },
+      {
+        "source": "pipeline/data/510k/aspiration/pdfs/aspiration--imperative-care-inc--zoom--510k.pdf",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--imperative-care-inc--zoom/510k/aspiration/pdfs/aspiration--imperative-care-inc--zoom--510k.pdf",
+        "bytes": 3029025
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/aspiration--imperative-care-inc--zoom.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--imperative-care-inc--zoom/enriched/aspiration--imperative-care-inc--zoom.json",
+        "bytes": 10772
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NRY/K242672.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--imperative-care-inc--zoom/fda_raw/NRY/K242672.json",
+        "bytes": 559
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/aspiration--imperative-care-inc--zoom.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--imperative-care-inc--zoom/merged/aspiration--imperative-care-inc--zoom.json",
+        "bytes": 784
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "thrombectomy_aspiration_catheters",
+    "label": "Aspiration Catheters"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "device_slug": "microcatheter--penumbra--midway-delivery-catheter-midway-43",
+  "artifact_folder": "microcatheter--penumbra--midway-delivery-catheter-midway-43",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 2734730,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/microcatheter/parsed/fda_summaries/microcatheter--penumbra--midway-delivery-catheter-midway-43--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--penumbra--midway-delivery-catheter-midway-43/510k/microcatheter/parsed/fda_summaries/microcatheter--penumbra--midway-delivery-catheter-midway-43--510k.json",
+        "bytes": 32236
+      },
+      {
+        "source": "pipeline/data/510k/microcatheter/pdfs/microcatheter--penumbra--midway-delivery-catheter-midway-43--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--penumbra--midway-delivery-catheter-midway-43/510k/microcatheter/pdfs/microcatheter--penumbra--midway-delivery-catheter-midway-43--510k.pdf",
+        "bytes": 2691985
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/microcatheter--penumbra--midway-delivery-catheter-midway-43.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--penumbra--midway-delivery-catheter-midway-43/enriched/microcatheter--penumbra--midway-delivery-catheter-midway-43.json",
+        "bytes": 8929
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/QJP/K233201.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--penumbra--midway-delivery-catheter-midway-43/fda_raw/QJP/K233201.json",
+        "bytes": 638
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/microcatheter--penumbra--midway-delivery-catheter-midway-43.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--penumbra--midway-delivery-catheter-midway-43/merged/microcatheter--penumbra--midway-delivery-catheter-midway-43.json",
+        "bytes": 942
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

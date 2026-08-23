@@ -1,0 +1,21 @@
+{
+  "device_slug": "microcatheter--microvention--via",
+  "artifact_folder": "microcatheter--microvention--via",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 450,
+  "sources": {
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/microvention/viatm.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--microvention--via/scraper_raw/microvention/viatm.json",
+        "bytes": 450
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "device_slug": "balloon-catheter--microvention--scepter-mini",
+  "artifact_folder": "balloon-catheter--microvention--scepter-mini",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 485010,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/balloon-catheter--microvention--scepter-mini--ifu.pdf",
+        "artifact": "artifacts/neurointerventional/temporary_coil_assist_devices/balloon-catheter--microvention--scepter-mini/data_by_device/balloon-catheter--microvention--scepter-mini--ifu.pdf",
+        "bytes": 466647
+      },
+      {
+        "source": "pipeline/data/data_by_device/balloon-catheter--microvention--scepter-mini--knowledge.md",
+        "artifact": "artifacts/neurointerventional/temporary_coil_assist_devices/balloon-catheter--microvention--scepter-mini/data_by_device/balloon-catheter--microvention--scepter-mini--knowledge.md",
+        "bytes": 8797
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/documents/balloon-catheter--microvention--scepter-mini--ifu.json",
+        "artifact": "artifacts/neurointerventional/temporary_coil_assist_devices/balloon-catheter--microvention--scepter-mini/extracted/documents/balloon-catheter--microvention--scepter-mini--ifu.json",
+        "bytes": 9086
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/microvention/sceptertm-mini.json",
+        "artifact": "artifacts/neurointerventional/temporary_coil_assist_devices/balloon-catheter--microvention--scepter-mini/scraper_raw/microvention/sceptertm-mini.json",
+        "bytes": 480
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "temporary_coil_assist_devices",
+    "label": "Temporary Coil-Assist Devices"
+  }
+}

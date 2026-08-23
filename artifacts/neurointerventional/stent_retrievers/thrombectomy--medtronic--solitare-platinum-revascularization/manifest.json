@@ -1,0 +1,47 @@
+{
+  "device_slug": "thrombectomy--medtronic--solitare-platinum-revascularization",
+  "artifact_folder": "thrombectomy--medtronic--solitare-platinum-revascularization",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 170130,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/thrombectomy/parsed/fda_summaries/thrombectomy--medtronic--solitare-platinum-revascularization--510k.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--solitare-platinum-revascularization/510k/thrombectomy/parsed/fda_summaries/thrombectomy--medtronic--solitare-platinum-revascularization--510k.json",
+        "bytes": 27657
+      },
+      {
+        "source": "pipeline/data/510k/thrombectomy/pdfs/thrombectomy--medtronic--solitare-platinum-revascularization--510k.pdf",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--solitare-platinum-revascularization/510k/thrombectomy/pdfs/thrombectomy--medtronic--solitare-platinum-revascularization--510k.pdf",
+        "bytes": 128672
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/thrombectomy--medtronic--solitare-platinum-revascularization.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--solitare-platinum-revascularization/enriched/thrombectomy--medtronic--solitare-platinum-revascularization.json",
+        "bytes": 12313
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/POL/K181186.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--solitare-platinum-revascularization/fda_raw/POL/K181186.json",
+        "bytes": 627
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/thrombectomy--medtronic--solitare-platinum-revascularization.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--solitare-platinum-revascularization/merged/thrombectomy--medtronic--solitare-platinum-revascularization.json",
+        "bytes": 861
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "stent_retrievers",
+    "label": "Stent Retrievers"
+  }
+}

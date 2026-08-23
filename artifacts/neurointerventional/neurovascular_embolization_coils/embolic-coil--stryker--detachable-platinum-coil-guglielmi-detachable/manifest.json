@@ -1,0 +1,21 @@
+{
+  "device_slug": "embolic-coil--stryker--detachable-platinum-coil-guglielmi-detachable",
+  "artifact_folder": "embolic-coil--stryker--detachable-platinum-coil-guglielmi-detachable",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 618,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K951256.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--detachable-platinum-coil-guglielmi-detachable/fda_raw/HCG/K951256.json",
+        "bytes": 618
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "device_name": "Synchro 2 Guidewire",
+  "manufacturer": "stryker",
+  "catalog_category": "guidewire",
+  "filename_stem": "guidewire--stryker--synchro-select-guidewire",
+  "clearance_type": "510k",
+  "clearance_number": "K202522",
+  "clearance_date": "2020-09-25",
+  "device_class": 2,
+  "device_name_fda": "Synchro SELECT Guidewire",
+  "product_code": "MOF",
+  "what_it_is": "OD",
+  "sizing_specs": "CONTACT US\nX",
+  "indications": "The Synchro2 Guidewire series is intended for\ngeneral intravascular use, including neurovascular\nand peripheral vasculatures. It can be used to\nselectively introduce and position catheters and other\ninterventional devices within the peripheral and\nneurovasculature. This device should be used only\nby physicians trained in percutaneous, intravascular\ntechniques and procedures.",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K202522.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.stryker.com/us/en/neurovascular/products/synchro2.html",
+  "confidence_score": 0.6666666666666666,
+  "needs_review": true,
+  "data_sources": [
+    "fda",
+    "scraper"
+  ]
+}

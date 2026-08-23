@@ -1,0 +1,21 @@
+{
+  "device_slug": "aspiration--penumbra--penumbra-pennumbra-reperfusion-catheter-054-recalls",
+  "artifact_folder": "aspiration--penumbra--penumbra-pennumbra-reperfusion-catheter-054-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 4378,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/aspiration--penumbra--penumbra-pennumbra-reperfusion-catheter-054-recalls.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-pennumbra-reperfusion-catheter-054-recalls/extracted/fda_safety/aspiration--penumbra--penumbra-pennumbra-reperfusion-catheter-054-recalls.json",
+        "bytes": 4378
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "thrombectomy_aspiration_catheters",
+    "label": "Aspiration Catheters"
+  }
+}

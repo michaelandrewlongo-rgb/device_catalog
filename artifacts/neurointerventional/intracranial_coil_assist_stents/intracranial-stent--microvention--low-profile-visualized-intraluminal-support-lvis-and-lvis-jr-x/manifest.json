@@ -1,0 +1,35 @@
+{
+  "device_slug": "intracranial-stent--microvention--low-profile-visualized-intraluminal-support-lvis-and-lvis-jr-x",
+  "artifact_folder": "intracranial-stent--microvention--low-profile-visualized-intraluminal-support-lvis-and-lvis-jr-x",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3370,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/intracranial-stent--microvention--low-profile-visualized-intraluminal-support-lvis-and-lvis-jr-x.json",
+        "artifact": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--microvention--low-profile-visualized-intraluminal-support-lvis-and-lvis-jr-x/enriched/intracranial-stent--microvention--low-profile-visualized-intraluminal-support-lvis-and-lvis-jr-x.json",
+        "bytes": 1850
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/pma/P170013--low-profile-visualized-intraluminal-support-lvis-and-lvis-jr-x.json",
+        "artifact": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--microvention--low-profile-visualized-intraluminal-support-lvis-and-lvis-jr-x/fda_raw/pma/P170013--low-profile-visualized-intraluminal-support-lvis-and-lvis-jr-x.json",
+        "bytes": 627
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/intracranial-stent--microvention--low-profile-visualized-intraluminal-support-lvis-and-lvis-jr-x.json",
+        "artifact": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--microvention--low-profile-visualized-intraluminal-support-lvis-and-lvis-jr-x/merged/intracranial-stent--microvention--low-profile-visualized-intraluminal-support-lvis-and-lvis-jr-x.json",
+        "bytes": 893
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "intracranial_coil_assist_stents",
+    "label": "Intracranial Coil-Assist Stents"
+  }
+}

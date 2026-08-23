@@ -1,0 +1,180 @@
+{
+  "domain": "neurointerventional",
+  "registry": "neurovascular_liquid_embolics",
+  "label": "Onyx, Squid, PHIL",
+  "path": "artifacts/neurointerventional/neurovascular_liquid_embolics",
+  "devices": [
+    {
+      "slug": "liquid-embolic--biocure-inc--gelspheres-embolic-agent",
+      "artifact_folder": "liquid-embolic--biocure-inc--gelspheres-embolic-agent",
+      "path": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--biocure-inc--gelspheres-embolic-agent",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "liquid-embolic--cerenovus--trufill-dcs-orbit-detachable-coil",
+      "artifact_folder": "liquid-embolic--cerenovus--trufill-dcs-orbit-detachable-coil",
+      "path": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--cerenovus--trufill-dcs-orbit-detachable-coil",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "liquid-embolic--cerenovus--trufill-dcs-orbit-detachable-coil-recalls",
+      "artifact_folder": "liquid-embolic--cerenovus--trufill-dcs-orbit-detachable-coil-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--cerenovus--trufill-dcs-orbit-detachable-coil-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "liquid-embolic--cerenovus--trufill-n-bca-liquid-embolic-system",
+      "artifact_folder": "liquid-embolic--cerenovus--trufill-n-bca-liquid-embolic-system",
+      "path": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--cerenovus--trufill-n-bca-liquid-embolic-system",
+      "file_count": 4,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "liquid-embolic--cerenovus--trufill-nbca",
+      "artifact_folder": "liquid-embolic--cerenovus--trufill-nbca",
+      "path": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--cerenovus--trufill-nbca",
+      "file_count": 1,
+      "source_counts": {
+        "data_by_device": 1
+      }
+    },
+    {
+      "slug": "liquid-embolic--cerenovus--vascular-occlusion-trufill-pushable-coils",
+      "artifact_folder": "liquid-embolic--cerenovus--vascular-occlusion-trufill-pushable-coils",
+      "path": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--cerenovus--vascular-occlusion-trufill-pushable-coils",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "liquid-embolic--cerenovus--vascular-occlusion-trufill-pushable-coils-recalls",
+      "artifact_folder": "liquid-embolic--cerenovus--vascular-occlusion-trufill-pushable-coils-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--cerenovus--vascular-occlusion-trufill-pushable-coils-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "liquid-embolic--cordis--the-trufill-dcs-detachable-coil",
+      "artifact_folder": "liquid-embolic--cordis--the-trufill-dcs-detachable-coil",
+      "path": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--cordis--the-trufill-dcs-detachable-coil",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "liquid-embolic--cordis--trufill-dcs-detachable-coil-and",
+      "artifact_folder": "liquid-embolic--cordis--trufill-dcs-detachable-coil-and",
+      "path": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--cordis--trufill-dcs-detachable-coil-and",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "liquid-embolic--cordis--trufill-dcs-orbit-detachable-coil",
+      "artifact_folder": "liquid-embolic--cordis--trufill-dcs-orbit-detachable-coil",
+      "path": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--cordis--trufill-dcs-orbit-detachable-coil",
+      "file_count": 6,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 4,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "liquid-embolic--cordis--trufill-dcs-syringe",
+      "artifact_folder": "liquid-embolic--cordis--trufill-dcs-syringe",
+      "path": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--cordis--trufill-dcs-syringe",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "liquid-embolic--cordis--trufill-pva-particles",
+      "artifact_folder": "liquid-embolic--cordis--trufill-pva-particles",
+      "path": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--cordis--trufill-pva-particles",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "liquid-embolic--cordis--vascular-occlusion-trufill-pushable-coils",
+      "artifact_folder": "liquid-embolic--cordis--vascular-occlusion-trufill-pushable-coils",
+      "path": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--cordis--vascular-occlusion-trufill-pushable-coils",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "liquid-embolic--medtronic--onyx-hd500",
+      "artifact_folder": "liquid-embolic--medtronic--onyx-hd500",
+      "path": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--medtronic--onyx-hd500",
+      "file_count": 3,
+      "source_counts": {
+        "data_by_device": 2,
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "liquid-embolic--medtronic--onyx-les",
+      "artifact_folder": "liquid-embolic--medtronic--onyx-les",
+      "path": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--medtronic--onyx-les",
+      "file_count": 3,
+      "source_counts": {
+        "data_by_device": 2,
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "liquid-embolic--medtronic--onyx-liquid-embolic-system",
+      "artifact_folder": "liquid-embolic--medtronic--onyx-liquid-embolic-system",
+      "path": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--medtronic--onyx-liquid-embolic-system",
+      "file_count": 4,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    }
+  ],
+  "device_count": 16
+}

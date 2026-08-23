@@ -1,0 +1,35 @@
+{
+  "device_slug": "embolic-coil--boston-scientific-target--fibered-gdc-18-vortx-shape",
+  "artifact_folder": "embolic-coil--boston-scientific-target--fibered-gdc-18-vortx-shape",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3225,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--boston-scientific-target--fibered-gdc-18-vortx-shape.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific-target--fibered-gdc-18-vortx-shape/enriched/embolic-coil--boston-scientific-target--fibered-gdc-18-vortx-shape.json",
+        "bytes": 1688
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K993418.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific-target--fibered-gdc-18-vortx-shape/fda_raw/HCG/K993418.json",
+        "bytes": 635
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--boston-scientific-target--fibered-gdc-18-vortx-shape.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific-target--fibered-gdc-18-vortx-shape/merged/embolic-coil--boston-scientific-target--fibered-gdc-18-vortx-shape.json",
+        "bytes": 902
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

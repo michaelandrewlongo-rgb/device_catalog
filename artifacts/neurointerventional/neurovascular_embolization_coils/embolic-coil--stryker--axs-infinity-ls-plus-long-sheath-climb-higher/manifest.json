@@ -1,0 +1,21 @@
+{
+  "device_slug": "embolic-coil--stryker--axs-infinity-ls-plus-long-sheath-climb-higher",
+  "artifact_folder": "embolic-coil--stryker--axs-infinity-ls-plus-long-sheath-climb-higher",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 556,
+  "sources": {
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/stryker/axs-infinity-ls-r-plus-long-sheath-climb-higher.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--axs-infinity-ls-plus-long-sheath-climb-higher/scraper_raw/stryker/axs-infinity-ls-r-plus-long-sheath-climb-higher.json",
+        "bytes": 556
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

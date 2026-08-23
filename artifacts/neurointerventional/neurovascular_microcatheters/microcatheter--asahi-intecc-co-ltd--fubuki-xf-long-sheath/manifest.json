@@ -1,0 +1,47 @@
+{
+  "device_slug": "microcatheter--asahi-intecc-co-ltd--fubuki-xf-long-sheath",
+  "artifact_folder": "microcatheter--asahi-intecc-co-ltd--fubuki-xf-long-sheath",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 608928,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/microcatheter/parsed/fda_summaries/microcatheter--asahi-intecc-co-ltd--fubuki-xf-long-sheath--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--asahi-intecc-co-ltd--fubuki-xf-long-sheath/510k/microcatheter/parsed/fda_summaries/microcatheter--asahi-intecc-co-ltd--fubuki-xf-long-sheath--510k.json",
+        "bytes": 40710
+      },
+      {
+        "source": "pipeline/data/510k/microcatheter/pdfs/microcatheter--asahi-intecc-co-ltd--fubuki-xf-long-sheath--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--asahi-intecc-co-ltd--fubuki-xf-long-sheath/510k/microcatheter/pdfs/microcatheter--asahi-intecc-co-ltd--fubuki-xf-long-sheath--510k.pdf",
+        "bytes": 544814
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/microcatheter--asahi-intecc-co-ltd--fubuki-xf-long-sheath.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--asahi-intecc-co-ltd--fubuki-xf-long-sheath/enriched/microcatheter--asahi-intecc-co-ltd--fubuki-xf-long-sheath.json",
+        "bytes": 21942
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/QJP/K213589.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--asahi-intecc-co-ltd--fubuki-xf-long-sheath/fda_raw/QJP/K213589.json",
+        "bytes": 607
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/microcatheter--asahi-intecc-co-ltd--fubuki-xf-long-sheath.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--asahi-intecc-co-ltd--fubuki-xf-long-sheath/merged/microcatheter--asahi-intecc-co-ltd--fubuki-xf-long-sheath.json",
+        "bytes": 855
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

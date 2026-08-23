@@ -1,0 +1,57 @@
+{
+  "device_slug": "embolic-coil--microport-neurotech-shanghai-co-ltd--numen-coil-embolization-numenfr-detachment",
+  "artifact_folder": "embolic-coil--microport-neurotech-shanghai-co-ltd--numen-coil-embolization-numenfr-detachment",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 7,
+  "bytes": 1683198,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/embolic-coil/parsed/fda_summaries/embolic-coil--microport-neurotech-shanghai-co-ltd--numen-coil-embolization-numenfr-detachment--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microport-neurotech-shanghai-co-ltd--numen-coil-embolization-numenfr-detachment/510k/embolic-coil/parsed/fda_summaries/embolic-coil--microport-neurotech-shanghai-co-ltd--numen-coil-embolization-numenfr-detachment--510k.json",
+        "bytes": 20421
+      },
+      {
+        "source": "pipeline/data/510k/embolic-coil/pdfs/embolic-coil--microport-neurotech-shanghai-co-ltd--numen-coil-embolization-numenfr-detachment--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microport-neurotech-shanghai-co-ltd--numen-coil-embolization-numenfr-detachment/510k/embolic-coil/pdfs/embolic-coil--microport-neurotech-shanghai-co-ltd--numen-coil-embolization-numenfr-detachment--510k.pdf",
+        "bytes": 1655062
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--microport-neurotech-shanghai-co-ltd--numen-coil-embolization-numenfr-detachment.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microport-neurotech-shanghai-co-ltd--numen-coil-embolization-numenfr-detachment/enriched/embolic-coil--microport-neurotech-shanghai-co-ltd--numen-coil-embolization-numenfr-detachment.json",
+        "bytes": 4682
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K203625.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microport-neurotech-shanghai-co-ltd--numen-coil-embolization-numenfr-detachment/fda_raw/HCG/K203625.json",
+        "bytes": 693
+      },
+      {
+        "source": "pipeline/data/fda_raw/HCG/K232955.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microport-neurotech-shanghai-co-ltd--numen-coil-embolization-numenfr-detachment/fda_raw/HCG/K232955.json",
+        "bytes": 693
+      },
+      {
+        "source": "pipeline/data/fda_raw/HCG/K242154.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microport-neurotech-shanghai-co-ltd--numen-coil-embolization-numenfr-detachment/fda_raw/HCG/K242154.json",
+        "bytes": 697
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--microport-neurotech-shanghai-co-ltd--numen-coil-embolization-numenfr-detachment.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microport-neurotech-shanghai-co-ltd--numen-coil-embolization-numenfr-detachment/merged/embolic-coil--microport-neurotech-shanghai-co-ltd--numen-coil-embolization-numenfr-detachment.json",
+        "bytes": 950
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K222848",
+  "clearance_date": "2023-01-20",
+  "device_class": 2,
+  "manufacturer_canonical": "phenox",
+  "manufacturer_raw": "Phenox Limited",
+  "catalog_category": "thrombectomy",
+  "device_name_fda": "pRESET Thrombectomy Device",
+  "product_code": "POL",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "thrombectomy--phenox--preset-thrombectomy",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K222848.pdf"
+}

@@ -1,0 +1,54 @@
+{
+  "device_slug": "thrombectomy--medtronic--solitaire-2-and-solitaire-platinum",
+  "artifact_folder": "thrombectomy--medtronic--solitaire-2-and-solitaire-platinum",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 1049440,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/thrombectomy/parsed/fda_summaries/thrombectomy--medtronic--solitaire-2-and-solitaire-platinum--510k.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--solitaire-2-and-solitaire-platinum/510k/thrombectomy/parsed/fda_summaries/thrombectomy--medtronic--solitaire-2-and-solitaire-platinum--510k.json",
+        "bytes": 31902
+      },
+      {
+        "source": "pipeline/data/510k/thrombectomy/pdfs/thrombectomy--medtronic--solitaire-2-and-solitaire-platinum--510k.pdf",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--solitaire-2-and-solitaire-platinum/510k/thrombectomy/pdfs/thrombectomy--medtronic--solitaire-2-and-solitaire-platinum--510k.pdf",
+        "bytes": 997196
+      }
+    ],
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/thrombectomy--medtronic--solitaire-2-and-solitaire-platinum--knowledge.md",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--solitaire-2-and-solitaire-platinum/data_by_device/thrombectomy--medtronic--solitaire-2-and-solitaire-platinum--knowledge.md",
+        "bytes": 4047
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/thrombectomy--medtronic--solitaire-2-and-solitaire-platinum.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--solitaire-2-and-solitaire-platinum/enriched/thrombectomy--medtronic--solitaire-2-and-solitaire-platinum.json",
+        "bytes": 14783
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/POL/K181060.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--solitaire-2-and-solitaire-platinum/fda_raw/POL/K181060.json",
+        "bytes": 618
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/thrombectomy--medtronic--solitaire-2-and-solitaire-platinum.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--solitaire-2-and-solitaire-platinum/merged/thrombectomy--medtronic--solitaire-2-and-solitaire-platinum.json",
+        "bytes": 894
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "stent_retrievers",
+    "label": "Stent Retrievers"
+  }
+}

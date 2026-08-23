@@ -1,0 +1,59 @@
+{
+  "device_name": "Trevo XP",
+  "manufacturer": "stryker",
+  "catalog_category": "thrombectomy",
+  "filename_stem": "thrombectomy--stryker--trevo-xp-provue",
+  "clearance_type": "510k",
+  "clearance_number": "K190779",
+  "clearance_date": "2019-06-25",
+  "device_class": 2,
+  "device_name_fda": "Trevo XP ProVue Retriever",
+  "product_code": "POL",
+  "what_it_is": "Read Now",
+  "sizing_specs": "Sheath Compatibility (F): 8, 9 (balloon guide catheter)\nWorking Length (cm): 190 for 3 X 20 mm, 180 for 4 X 20 mm, 4 X 30 mm, and 6 X 25 mm",
+  "indications": "Indicated for use to restore blood flow in the neurovasculature by removing thrombus for the treatment of acute ischemic stroke to reduce disability in patients with a persistent, proximal anterior circulation, large vessel occlusion, and smaller core infarcts who have first received intravenous tissue plasminogen activator (IV t-PA); endovascular therapy with the device should start within 6 hours of symptom onset; intended to restore blood flow in the neurovasculature by removing thrombus in patients experiencing ischemic stroke within 8 hours of symptom onset; patients who are ineligible for intravenous tissue plasminogen activator (IV t-PA) or who fail IV t-PA therapy are candidates for treatment; indicated for use to restore blood flow in the neurovasculature by removing thrombus for the treatment of acute ischemic stroke to reduce disability in patients with a persistent, proximal anterior circulation, large-vessel occlusion of the internal carotid artery (ICA) or middle cerebral artery (MCA)-M1 segments with smaller-core infarcts (0–50 mL for age < 80 years, 0–20 mL for age ≥ 80 years); endovascular therapy with the device should start within 6–24 hours of time last seen well in patients who are ineligible for intravenous tissue plasminogen activator (IV t-PA) or who fail IV t-PA therapy",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "Mode of Operation: Mechanical thrombectomy; 360° of consistently large cells, a soft distal tip and full-length radiopacity",
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf19/K190779.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.stryker.com/us/en/neurovascular/products/trevo--xp-provue-retriever-.html",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda",
+    "scraper"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "sizing_specs": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "indications": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "also_known_as": {
+      "source": "none",
+      "confidence": 0
+    }
+  }
+}

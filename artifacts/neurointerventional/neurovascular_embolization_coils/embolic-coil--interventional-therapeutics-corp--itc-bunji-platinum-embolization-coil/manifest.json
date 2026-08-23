@@ -1,0 +1,40 @@
+{
+  "device_slug": "embolic-coil--interventional-therapeutics-corp--itc-bunji-platinum-embolization-coil",
+  "artifact_folder": "embolic-coil--interventional-therapeutics-corp--itc-bunji-platinum-embolization-coil",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3679,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--interventional-therapeutics-corp--itc-bunji-platinum-embolization-coil.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--interventional-therapeutics-corp--itc-bunji-platinum-embolization-coil/enriched/embolic-coil--interventional-therapeutics-corp--itc-bunji-platinum-embolization-coil.json",
+        "bytes": 1477
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K925523.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--interventional-therapeutics-corp--itc-bunji-platinum-embolization-coil/fda_raw/HCG/K925523.json",
+        "bytes": 653
+      },
+      {
+        "source": "pipeline/data/fda_raw/HCG/K925876.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--interventional-therapeutics-corp--itc-bunji-platinum-embolization-coil/fda_raw/HCG/K925876.json",
+        "bytes": 653
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--interventional-therapeutics-corp--itc-bunji-platinum-embolization-coil.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--interventional-therapeutics-corp--itc-bunji-platinum-embolization-coil/merged/embolic-coil--interventional-therapeutics-corp--itc-bunji-platinum-embolization-coil.json",
+        "bytes": 896
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

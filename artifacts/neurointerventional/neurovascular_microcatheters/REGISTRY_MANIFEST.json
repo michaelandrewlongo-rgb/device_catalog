@@ -1,0 +1,1041 @@
+{
+  "domain": "neurointerventional",
+  "registry": "neurovascular_microcatheters",
+  "label": "Microcatheters",
+  "path": "artifacts/neurointerventional/neurovascular_microcatheters",
+  "devices": [
+    {
+      "slug": "microcatheter--alembic-llc--apro-70-swift-catheter",
+      "artifact_folder": "microcatheter--alembic-llc--apro-70-swift-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--alembic-llc--apro-70-swift-catheter",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--anoxia-medical-inc--slinky-catheter",
+      "artifact_folder": "microcatheter--anoxia-medical-inc--slinky-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--anoxia-medical-inc--slinky-catheter",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--aqure-medical-inc--anchor-dual-lumen-guidewire-catheter",
+      "artifact_folder": "microcatheter--aqure-medical-inc--anchor-dual-lumen-guidewire-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--aqure-medical-inc--anchor-dual-lumen-guidewire-catheter",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--asahi-intecc-co-ltd--fubuki-xf-long-sheath",
+      "artifact_folder": "microcatheter--asahi-intecc-co-ltd--fubuki-xf-long-sheath",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--asahi-intecc-co-ltd--fubuki-xf-long-sheath",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--asahi-intecc-co-ltd--fubuki-xf-r-long-sheath",
+      "artifact_folder": "microcatheter--asahi-intecc-co-ltd--fubuki-xf-r-long-sheath",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--asahi-intecc-co-ltd--fubuki-xf-r-long-sheath",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--balt--carrier-xl-delivery-catheter",
+      "artifact_folder": "microcatheter--balt--carrier-xl-delivery-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--balt--carrier-xl-delivery-catheter",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--balt--gama",
+      "artifact_folder": "microcatheter--balt--gama",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--balt--gama",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "microcatheter--balt--magic",
+      "artifact_folder": "microcatheter--balt--magic",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--balt--magic",
+      "file_count": 5,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "extracted": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "microcatheter--balt--next-generation-access-catheter",
+      "artifact_folder": "microcatheter--balt--next-generation-access-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--balt--next-generation-access-catheter",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--balt--next-generation-access-platform",
+      "artifact_folder": "microcatheter--balt--next-generation-access-platform",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--balt--next-generation-access-platform",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--balt--ng-delivery-catheter",
+      "artifact_folder": "microcatheter--balt--ng-delivery-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--balt--ng-delivery-catheter",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--balt--sonic",
+      "artifact_folder": "microcatheter--balt--sonic",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--balt--sonic",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "extracted": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "microcatheter--balt--vasco",
+      "artifact_folder": "microcatheter--balt--vasco",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--balt--vasco",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "microcatheter--bend-it-technologies-ltd--bendit17-microcatheter",
+      "artifact_folder": "microcatheter--bend-it-technologies-ltd--bendit17-microcatheter",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--bend-it-technologies-ltd--bendit17-microcatheter",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--bend-it-technologies-ltd--bendit21-microcatheter",
+      "artifact_folder": "microcatheter--bend-it-technologies-ltd--bendit21-microcatheter",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--bend-it-technologies-ltd--bendit21-microcatheter",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--cerenovus--cereglide-92-catheter",
+      "artifact_folder": "microcatheter--cerenovus--cereglide-92-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--cerenovus--cereglide-92-catheter",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--cerenovus--prowler-ex-microcatheter",
+      "artifact_folder": "microcatheter--cerenovus--prowler-ex-microcatheter",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--cerenovus--prowler-ex-microcatheter",
+      "file_count": 4,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "microcatheter--cerus-endovascular-inc--cerusendo-microcatheter-027",
+      "artifact_folder": "microcatheter--cerus-endovascular-inc--cerusendo-microcatheter-027",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--cerus-endovascular-inc--cerusendo-microcatheter-027",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--crossroads-neurovascular-inc--path-bgc",
+      "artifact_folder": "microcatheter--crossroads-neurovascular-inc--path-bgc",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--crossroads-neurovascular-inc--path-bgc",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--ev3--marathon",
+      "artifact_folder": "microcatheter--ev3--marathon",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--ev3--marathon",
+      "file_count": 3,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1
+      }
+    },
+    {
+      "slug": "microcatheter--ev3--marksman",
+      "artifact_folder": "microcatheter--ev3--marksman",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--ev3--marksman",
+      "file_count": 3,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1
+      }
+    },
+    {
+      "slug": "microcatheter--ev3--rebar",
+      "artifact_folder": "microcatheter--ev3--rebar",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--ev3--rebar",
+      "file_count": 1,
+      "source_counts": {
+        "data_by_device": 1
+      }
+    },
+    {
+      "slug": "microcatheter--ev3--rebar-marathon-echelon",
+      "artifact_folder": "microcatheter--ev3--rebar-marathon-echelon",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--ev3--rebar-marathon-echelon",
+      "file_count": 2,
+      "source_counts": {
+        "510k": 2
+      }
+    },
+    {
+      "slug": "microcatheter--imperative-care-inc--imperative-care-radial-088-access",
+      "artifact_folder": "microcatheter--imperative-care-inc--imperative-care-radial-088-access",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--imperative-care-inc--imperative-care-radial-088-access",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--imperative-care-inc--tracstar-large-distal-platform-zoom",
+      "artifact_folder": "microcatheter--imperative-care-inc--tracstar-large-distal-platform-zoom",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--imperative-care-inc--tracstar-large-distal-platform-zoom",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--imperative-care-inc--tracstar-ldp-large-distal-platform",
+      "artifact_folder": "microcatheter--imperative-care-inc--tracstar-ldp-large-distal-platform",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--imperative-care-inc--tracstar-ldp-large-distal-platform",
+      "file_count": 7,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 3,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--kai-medtech-llc--minjie-catheter",
+      "artifact_folder": "microcatheter--kai-medtech-llc--minjie-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--kai-medtech-llc--minjie-catheter",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--kaneka-americas-holding-inc--surfrider-13-microcatheter",
+      "artifact_folder": "microcatheter--kaneka-americas-holding-inc--surfrider-13-microcatheter",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--kaneka-americas-holding-inc--surfrider-13-microcatheter",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--maduro-medical-inc--radical-the-dude-7f-guide",
+      "artifact_folder": "microcatheter--maduro-medical-inc--radical-the-dude-7f-guide",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--maduro-medical-inc--radical-the-dude-7f-guide",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--maduro-medical-inc--radical-the-dude-8f-guide",
+      "artifact_folder": "microcatheter--maduro-medical-inc--radical-the-dude-8f-guide",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--maduro-medical-inc--radical-the-dude-8f-guide",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--medos-international-sarl--cerebase-da-guide-sheath-95cm",
+      "artifact_folder": "microcatheter--medos-international-sarl--cerebase-da-guide-sheath-95cm",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--medos-international-sarl--cerebase-da-guide-sheath-95cm",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--medos-international-sarl--cerebase-da-guide-sheath-95cm-recalls",
+      "artifact_folder": "microcatheter--medos-international-sarl--cerebase-da-guide-sheath-95cm-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--medos-international-sarl--cerebase-da-guide-sheath-95cm-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "microcatheter--medtronic--echelon",
+      "artifact_folder": "microcatheter--medtronic--echelon",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--medtronic--echelon",
+      "file_count": 3,
+      "source_counts": {
+        "data_by_device": 2,
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "microcatheter--medtronic--echelon--safety-warnings",
+      "artifact_folder": "microcatheter--medtronic--echelon--safety-warnings",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--medtronic--echelon--safety-warnings",
+      "file_count": 2,
+      "source_counts": {
+        "data_by_device": 1,
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "microcatheter--medtronic--echelon-microcatheter",
+      "artifact_folder": "microcatheter--medtronic--echelon-microcatheter",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--medtronic--echelon-microcatheter",
+      "file_count": 4,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "microcatheter--medtronic--marksman-microcatheter",
+      "artifact_folder": "microcatheter--medtronic--marksman-microcatheter",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--medtronic--marksman-microcatheter",
+      "file_count": 4,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "microcatheter--medtronic--phenom",
+      "artifact_folder": "microcatheter--medtronic--phenom",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--medtronic--phenom",
+      "file_count": 3,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1
+      }
+    },
+    {
+      "slug": "microcatheter--medtronic--phenom-microcatheter",
+      "artifact_folder": "microcatheter--medtronic--phenom-microcatheter",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--medtronic--phenom-microcatheter",
+      "file_count": 4,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "microcatheter--medtronic--rist-079-radial-access-guide",
+      "artifact_folder": "microcatheter--medtronic--rist-079-radial-access-guide",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--medtronic--rist-079-radial-access-guide",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--microvention--headway",
+      "artifact_folder": "microcatheter--microvention--headway",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--microvention--headway",
+      "file_count": 1,
+      "source_counts": {
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "microcatheter--microvention--headway-duo",
+      "artifact_folder": "microcatheter--microvention--headway-duo",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--microvention--headway-duo",
+      "file_count": 3,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1
+      }
+    },
+    {
+      "slug": "microcatheter--microvention--headwaytm",
+      "artifact_folder": "microcatheter--microvention--headwaytm",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--microvention--headwaytm",
+      "file_count": 2,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--microvention--via",
+      "artifact_folder": "microcatheter--microvention--via",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--microvention--via",
+      "file_count": 1,
+      "source_counts": {
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "microcatheter--microvention--viatm",
+      "artifact_folder": "microcatheter--microvention--viatm",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--microvention--viatm",
+      "file_count": 2,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--microvention--wedge-xl-delivery-catheter",
+      "artifact_folder": "microcatheter--microvention--wedge-xl-delivery-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--microvention--wedge-xl-delivery-catheter",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--penumbra--access25-delivery-microcatheter",
+      "artifact_folder": "microcatheter--penumbra--access25-delivery-microcatheter",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--penumbra--access25-delivery-microcatheter",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--penumbra--benchmark-bmx81-access",
+      "artifact_folder": "microcatheter--penumbra--benchmark-bmx81-access",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--penumbra--benchmark-bmx81-access",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--penumbra--benchmark-bmx96-access",
+      "artifact_folder": "microcatheter--penumbra--benchmark-bmx96-access",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--penumbra--benchmark-bmx96-access",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--penumbra--benchmark-intracranial-access",
+      "artifact_folder": "microcatheter--penumbra--benchmark-intracranial-access",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--penumbra--benchmark-intracranial-access",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--penumbra--midway-delivery-catheter-midway-43",
+      "artifact_folder": "microcatheter--penumbra--midway-delivery-catheter-midway-43",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--penumbra--midway-delivery-catheter-midway-43",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--perfuze-ltd--millipede-088-access-catheter",
+      "artifact_folder": "microcatheter--perfuze-ltd--millipede-088-access-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--perfuze-ltd--millipede-088-access-catheter",
+      "file_count": 9,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 3,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--perfuze-ltd--zipline-access-catheter",
+      "artifact_folder": "microcatheter--perfuze-ltd--zipline-access-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--perfuze-ltd--zipline-access-catheter",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--piraeus-medical--87-neuglide-catheter",
+      "artifact_folder": "microcatheter--piraeus-medical--87-neuglide-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--piraeus-medical--87-neuglide-catheter",
+      "file_count": 7,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--piraeus-medical--93-neuflex-catheter",
+      "artifact_folder": "microcatheter--piraeus-medical--93-neuflex-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--piraeus-medical--93-neuflex-catheter",
+      "file_count": 7,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--q-apel-medical-inc--access-family",
+      "artifact_folder": "microcatheter--q-apel-medical-inc--access-family",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--q-apel-medical-inc--access-family",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--q-apel-medical-inc--selectflex-access-family",
+      "artifact_folder": "microcatheter--q-apel-medical-inc--selectflex-access-family",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--q-apel-medical-inc--selectflex-access-family",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--rev-neuro-llc--duo-microcatheter",
+      "artifact_folder": "microcatheter--rev-neuro-llc--duo-microcatheter",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--rev-neuro-llc--duo-microcatheter",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--rist-neurovascular-inc--rist-radial-access-catheter",
+      "artifact_folder": "microcatheter--rist-neurovascular-inc--rist-radial-access-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--rist-neurovascular-inc--rist-radial-access-catheter",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--route-92-medical--route-92-medical-088-access",
+      "artifact_folder": "microcatheter--route-92-medical--route-92-medical-088-access",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--route-92-medical--route-92-medical-088-access",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--route-92-medical-inc--8f-modified-sheath",
+      "artifact_folder": "microcatheter--route-92-medical-inc--8f-modified-sheath",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--route-92-medical-inc--8f-modified-sheath",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--route-92-medical-inc--route-92-medical-070-access",
+      "artifact_folder": "microcatheter--route-92-medical-inc--route-92-medical-070-access",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--route-92-medical-inc--route-92-medical-070-access",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--route-92-medical-inc--route-92-medical-088-access",
+      "artifact_folder": "microcatheter--route-92-medical-inc--route-92-medical-088-access",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--route-92-medical-inc--route-92-medical-088-access",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--route-92-medical-inc--route-92-medical-full-length",
+      "artifact_folder": "microcatheter--route-92-medical-inc--route-92-medical-full-length",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--route-92-medical-inc--route-92-medical-full-length",
+      "file_count": 7,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 3,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--scientia-vascular-inc--plato-17-microcatheter",
+      "artifact_folder": "microcatheter--scientia-vascular-inc--plato-17-microcatheter",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--scientia-vascular-inc--plato-17-microcatheter",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--scientia-vascular-inc--plato-17-microcatheter-recalls",
+      "artifact_folder": "microcatheter--scientia-vascular-inc--plato-17-microcatheter-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--scientia-vascular-inc--plato-17-microcatheter-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "microcatheter--scientia-vascular-inc--socrates-38-catheter",
+      "artifact_folder": "microcatheter--scientia-vascular-inc--socrates-38-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--scientia-vascular-inc--socrates-38-catheter",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--scientia-vascular-inc--socrates-38-catheter-recalls",
+      "artifact_folder": "microcatheter--scientia-vascular-inc--socrates-38-catheter-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--scientia-vascular-inc--socrates-38-catheter-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "microcatheter--shanghai-heartcare-medical-technology-co-ltd--micro-catheter",
+      "artifact_folder": "microcatheter--shanghai-heartcare-medical-technology-co-ltd--micro-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--shanghai-heartcare-medical-technology-co-ltd--micro-catheter",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--spartan-micro--spartan-mc-0165",
+      "artifact_folder": "microcatheter--spartan-micro--spartan-mc-0165",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--spartan-micro--spartan-mc-0165",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--stryker--axs-lift-intracranial-base-catheter",
+      "artifact_folder": "microcatheter--stryker--axs-lift-intracranial-base-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--axs-lift-intracranial-base-catheter",
+      "file_count": 8,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "microcatheter--stryker--axs-lift-intracranial-base-catheter-recalls",
+      "artifact_folder": "microcatheter--stryker--axs-lift-intracranial-base-catheter-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--axs-lift-intracranial-base-catheter-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "microcatheter--stryker--axs-lifttm-intracranial-base-catheter",
+      "artifact_folder": "microcatheter--stryker--axs-lifttm-intracranial-base-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--axs-lifttm-intracranial-base-catheter",
+      "file_count": 2,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--stryker--broadway-8-catheter",
+      "artifact_folder": "microcatheter--stryker--broadway-8-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--broadway-8-catheter",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--stryker--broadway-8-catheter-recalls",
+      "artifact_folder": "microcatheter--stryker--broadway-8-catheter-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--broadway-8-catheter-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "microcatheter--stryker--echo-intracranial-base-catheter",
+      "artifact_folder": "microcatheter--stryker--echo-intracranial-base-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--echo-intracranial-base-catheter",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--stryker--echo-intracranial-base-catheter-recalls",
+      "artifact_folder": "microcatheter--stryker--echo-intracranial-base-catheter-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--echo-intracranial-base-catheter-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "microcatheter--stryker--excelsior-1018",
+      "artifact_folder": "microcatheter--stryker--excelsior-1018",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--excelsior-1018",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "extracted": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "microcatheter--stryker--excelsior-family",
+      "artifact_folder": "microcatheter--stryker--excelsior-family",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--excelsior-family",
+      "file_count": 1,
+      "source_counts": {
+        "data_by_device": 1
+      }
+    },
+    {
+      "slug": "microcatheter--stryker--excelsior-sl-10",
+      "artifact_folder": "microcatheter--stryker--excelsior-sl-10",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--excelsior-sl-10",
+      "file_count": 5,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "extracted": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "microcatheter--stryker--excelsior-sl10",
+      "artifact_folder": "microcatheter--stryker--excelsior-sl10",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--excelsior-sl10",
+      "file_count": 3,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1
+      }
+    },
+    {
+      "slug": "microcatheter--stryker--excelsior-xt-17",
+      "artifact_folder": "microcatheter--stryker--excelsior-xt-17",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--excelsior-xt-17",
+      "file_count": 5,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "extracted": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "microcatheter--stryker--excelsior-xt-27",
+      "artifact_folder": "microcatheter--stryker--excelsior-xt-27",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--excelsior-xt-27",
+      "file_count": 5,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "extracted": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "microcatheter--stryker--excelsior-xt-27-microcatheter-excelsior",
+      "artifact_folder": "microcatheter--stryker--excelsior-xt-27-microcatheter-excelsior",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--excelsior-xt-27-microcatheter-excelsior",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "microcatheter--stryker--transend",
+      "artifact_folder": "microcatheter--stryker--transend",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--transend",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "extracted": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "microcatheter--stryker--trevo-trak-21-microcatheter",
+      "artifact_folder": "microcatheter--stryker--trevo-trak-21-microcatheter",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--trevo-trak-21-microcatheter",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--stryker--trevo-trak-21-microcatheter-recalls",
+      "artifact_folder": "microcatheter--stryker--trevo-trak-21-microcatheter-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--trevo-trak-21-microcatheter-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "microcatheter--toro-neurovascular-inc--toro-88-superbore-catheter",
+      "artifact_folder": "microcatheter--toro-neurovascular-inc--toro-88-superbore-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--toro-neurovascular-inc--toro-88-superbore-catheter",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--unity-medical-inc--versad-delivery-catheter",
+      "artifact_folder": "microcatheter--unity-medical-inc--versad-delivery-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--unity-medical-inc--versad-delivery-catheter",
+      "file_count": 7,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "microcatheter--vesalio-inc--v-dac-catheter",
+      "artifact_folder": "microcatheter--vesalio-inc--v-dac-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--vesalio-inc--v-dac-catheter",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    }
+  ],
+  "device_count": 89
+}

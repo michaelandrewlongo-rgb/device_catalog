@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K143077",
+  "clearance_date": "2015-04-06",
+  "device_class": 2,
+  "manufacturer_canonical": "stryker",
+  "manufacturer_raw": "Concentric Medical, Inc.",
+  "catalog_category": "thrombectomy",
+  "device_name_fda": "Trevo XP ProVue Retriever (6X25mm)",
+  "product_code": "NRY",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": true,
+  "suggested_filename_stem": "thrombectomy--stryker--trevo-xp-provue-6x25mm",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf14/K143077.pdf"
+}

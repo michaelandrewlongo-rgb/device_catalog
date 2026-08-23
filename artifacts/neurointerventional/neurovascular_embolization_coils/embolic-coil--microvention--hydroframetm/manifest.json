@@ -1,0 +1,28 @@
+{
+  "device_slug": "embolic-coil--microvention--hydroframetm",
+  "artifact_folder": "embolic-coil--microvention--hydroframetm",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 2,
+  "bytes": 2098,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--microvention--hydroframetm.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--hydroframetm/enriched/embolic-coil--microvention--hydroframetm.json",
+        "bytes": 1339
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--microvention--hydroframetm.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--hydroframetm/merged/embolic-coil--microvention--hydroframetm.json",
+        "bytes": 759
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

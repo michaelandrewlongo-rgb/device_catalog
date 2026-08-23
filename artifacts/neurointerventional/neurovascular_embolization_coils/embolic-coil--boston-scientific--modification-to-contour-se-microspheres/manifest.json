@@ -1,0 +1,40 @@
+{
+  "device_slug": "embolic-coil--boston-scientific--modification-to-contour-se-microspheres",
+  "artifact_folder": "embolic-coil--boston-scientific--modification-to-contour-se-microspheres",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3772,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--boston-scientific--modification-to-contour-se-microspheres.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific--modification-to-contour-se-microspheres/enriched/embolic-coil--boston-scientific--modification-to-contour-se-microspheres.json",
+        "bytes": 1661
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K032542.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific--modification-to-contour-se-microspheres/fda_raw/HCG/K032542.json",
+        "bytes": 618
+      },
+      {
+        "source": "pipeline/data/fda_raw/HCG/K071634.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific--modification-to-contour-se-microspheres/fda_raw/HCG/K071634.json",
+        "bytes": 618
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--boston-scientific--modification-to-contour-se-microspheres.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific--modification-to-contour-se-microspheres/merged/embolic-coil--boston-scientific--modification-to-contour-se-microspheres.json",
+        "bytes": 875
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

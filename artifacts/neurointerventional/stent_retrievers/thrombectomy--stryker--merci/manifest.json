@@ -1,0 +1,35 @@
+{
+  "device_slug": "thrombectomy--stryker--merci",
+  "artifact_folder": "thrombectomy--stryker--merci",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2674,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/thrombectomy--stryker--merci.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--merci/enriched/thrombectomy--stryker--merci.json",
+        "bytes": 1354
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NRY/K081305.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--merci/fda_raw/NRY/K081305.json",
+        "bytes": 547
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/thrombectomy--stryker--merci.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--merci/merged/thrombectomy--stryker--merci.json",
+        "bytes": 773
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "stent_retrievers",
+    "label": "Stent Retrievers"
+  }
+}

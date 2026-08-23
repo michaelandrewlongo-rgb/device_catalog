@@ -1,0 +1,29 @@
+{
+  "device_name": "AXS Vecta 71/74",
+  "manufacturer": "stryker",
+  "catalog_category": "aspiration",
+  "filename_stem": "aspiration--stryker--axs-vecta-aspiration",
+  "clearance_type": "510k",
+  "clearance_number": "K190212",
+  "clearance_date": "2019-04-24",
+  "device_class": 2,
+  "device_name_fda": "AXS Vecta Aspiration System",
+  "product_code": "NRY",
+  "what_it_is": "Intermediate Catheter",
+  "sizing_specs": "Specifications",
+  "indications": "only\n\u2022 Excessive aspiration may cause patient complications.",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf19/K190212.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.stryker.com/us/en/neurovascular/products/axs-vecta-intermediate-catheter.html",
+  "confidence_score": 0.6666666666666666,
+  "needs_review": true,
+  "data_sources": [
+    "fda",
+    "scraper"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "device_slug": "thrombectomy--cerenovus--embotrap-iii-revascularization-device",
+  "artifact_folder": "thrombectomy--cerenovus--embotrap-iii-revascularization-device",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 8688,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/thrombectomy--cerenovus--embotrap-iii-revascularization-device--knowledge.md",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--cerenovus--embotrap-iii-revascularization-device/data_by_device/thrombectomy--cerenovus--embotrap-iii-revascularization-device--knowledge.md",
+        "bytes": 2917
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/thrombectomy--cerenovus--embotrap-iii-revascularization-device.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--cerenovus--embotrap-iii-revascularization-device/enriched/thrombectomy--cerenovus--embotrap-iii-revascularization-device.json",
+        "bytes": 2339
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/thrombectomy--cerenovus--embotrap-iii-revascularization-device.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--cerenovus--embotrap-iii-revascularization-device/merged/thrombectomy--cerenovus--embotrap-iii-revascularization-device.json",
+        "bytes": 1897
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/cerenovus/embotrap-iii-revascularization-device.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--cerenovus--embotrap-iii-revascularization-device/scraper_raw/cerenovus/embotrap-iii-revascularization-device.json",
+        "bytes": 1535
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "stent_retrievers",
+    "label": "Stent Retrievers"
+  }
+}

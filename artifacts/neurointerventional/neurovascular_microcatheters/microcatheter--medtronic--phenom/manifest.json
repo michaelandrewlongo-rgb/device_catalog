@@ -1,0 +1,33 @@
+{
+  "device_slug": "microcatheter--medtronic--phenom",
+  "artifact_folder": "microcatheter--medtronic--phenom",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 94236,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/microcatheter/parsed/documents/microcatheter--medtronic--phenom--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--medtronic--phenom/510k/microcatheter/parsed/documents/microcatheter--medtronic--phenom--510k.json",
+        "bytes": 1150
+      },
+      {
+        "source": "pipeline/data/510k/microcatheter/pdfs/microcatheter--medtronic--phenom--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--medtronic--phenom/510k/microcatheter/pdfs/microcatheter--medtronic--phenom--510k.pdf",
+        "bytes": 89267
+      }
+    ],
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/microcatheter--medtronic--phenom--knowledge.md",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--medtronic--phenom/data_by_device/microcatheter--medtronic--phenom--knowledge.md",
+        "bytes": 3819
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

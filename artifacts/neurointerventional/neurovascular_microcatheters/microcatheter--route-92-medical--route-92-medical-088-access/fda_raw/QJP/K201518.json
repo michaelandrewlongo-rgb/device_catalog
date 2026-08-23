@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K201518",
+  "clearance_date": "2020-08-14",
+  "device_class": 2,
+  "manufacturer_canonical": "route-92-medical",
+  "manufacturer_raw": "Route 92 Medical",
+  "catalog_category": "microcatheter",
+  "device_name_fda": "Route 92 Medical 088 Access System",
+  "product_code": "QJP",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "microcatheter--route-92-medical--route-92-medical-088-access",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K201518.pdf"
+}

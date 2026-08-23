@@ -1,0 +1,35 @@
+{
+  "device_slug": "embolic-coil--stryker--target-360-detachable-coil",
+  "artifact_folder": "embolic-coil--stryker--target-360-detachable-coil",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3419,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--stryker--target-360-detachable-coil.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--target-360-detachable-coil/enriched/embolic-coil--stryker--target-360-detachable-coil.json",
+        "bytes": 1427
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--stryker--target-360-detachable-coil.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--target-360-detachable-coil/merged/embolic-coil--stryker--target-360-detachable-coil.json",
+        "bytes": 831
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/stryker/target-360-detachable-coil.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--target-360-detachable-coil/scraper_raw/stryker/target-360-detachable-coil.json",
+        "bytes": 1161
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

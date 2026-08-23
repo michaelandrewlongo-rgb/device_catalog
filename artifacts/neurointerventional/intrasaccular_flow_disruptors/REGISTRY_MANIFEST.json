@@ -1,0 +1,108 @@
+{
+  "domain": "neurointerventional",
+  "registry": "intrasaccular_flow_disruptors",
+  "label": "Intrasaccular Flow Disruption Devices",
+  "path": "artifacts/neurointerventional/intrasaccular_flow_disruptors",
+  "devices": [
+    {
+      "slug": "intrasaccular--microvention--web-embolization",
+      "artifact_folder": "intrasaccular--microvention--web-embolization",
+      "path": "artifacts/neurointerventional/intrasaccular_flow_disruptors/intrasaccular--microvention--web-embolization",
+      "file_count": 3,
+      "source_counts": {
+        "data_by_device": 2,
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "intrasaccular--microvention--web-embolization--patient-leaflet",
+      "artifact_folder": "intrasaccular--microvention--web-embolization--patient-leaflet",
+      "path": "artifacts/neurointerventional/intrasaccular_flow_disruptors/intrasaccular--microvention--web-embolization--patient-leaflet",
+      "file_count": 2,
+      "source_counts": {
+        "data_by_device": 1,
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "intrasaccular--microvention--web-embolization-system",
+      "artifact_folder": "intrasaccular--microvention--web-embolization-system",
+      "path": "artifacts/neurointerventional/intrasaccular_flow_disruptors/intrasaccular--microvention--web-embolization-system",
+      "file_count": 1,
+      "source_counts": {
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "intrasaccular--microvention--webtm-embolization-system",
+      "artifact_folder": "intrasaccular--microvention--webtm-embolization-system",
+      "path": "artifacts/neurointerventional/intrasaccular_flow_disruptors/intrasaccular--microvention--webtm-embolization-system",
+      "file_count": 2,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "intrasaccular--microvention--woven-endobridge-aneurysm-embolization-web-system",
+      "artifact_folder": "intrasaccular--microvention--woven-endobridge-aneurysm-embolization-web-system",
+      "path": "artifacts/neurointerventional/intrasaccular_flow_disruptors/intrasaccular--microvention--woven-endobridge-aneurysm-embolization-web-system",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "intrasaccular--microvention--woven-endobridge-aneurysm-embolization-web-system-recalls",
+      "artifact_folder": "intrasaccular--microvention--woven-endobridge-aneurysm-embolization-web-system-recalls",
+      "path": "artifacts/neurointerventional/intrasaccular_flow_disruptors/intrasaccular--microvention--woven-endobridge-aneurysm-embolization-web-system-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "intrasaccular--microvention--woven-endobridge-web-aneurysm-embolization-system",
+      "artifact_folder": "intrasaccular--microvention--woven-endobridge-web-aneurysm-embolization-system",
+      "path": "artifacts/neurointerventional/intrasaccular_flow_disruptors/intrasaccular--microvention--woven-endobridge-web-aneurysm-embolization-system",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "intrasaccular--microvention--woven-endobridge-web-aneurysm-embolization-system-recalls",
+      "artifact_folder": "intrasaccular--microvention--woven-endobridge-web-aneurysm-embolization-system-recalls",
+      "path": "artifacts/neurointerventional/intrasaccular_flow_disruptors/intrasaccular--microvention--woven-endobridge-web-aneurysm-embolization-system-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "intrasaccular--microvention--woven-endobridge-web-aneurysm-embolization-system-web-017",
+      "artifact_folder": "intrasaccular--microvention--woven-endobridge-web-aneurysm-embolization-system-web-017",
+      "path": "artifacts/neurointerventional/intrasaccular_flow_disruptors/intrasaccular--microvention--woven-endobridge-web-aneurysm-embolization-system-web-017",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "intrasaccular--microvention--woven-endobridge-web-aneurysm-embolization-system-web-017-recalls",
+      "artifact_folder": "intrasaccular--microvention--woven-endobridge-web-aneurysm-embolization-system-web-017-recalls",
+      "path": "artifacts/neurointerventional/intrasaccular_flow_disruptors/intrasaccular--microvention--woven-endobridge-web-aneurysm-embolization-system-web-017-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    }
+  ],
+  "device_count": 10
+}

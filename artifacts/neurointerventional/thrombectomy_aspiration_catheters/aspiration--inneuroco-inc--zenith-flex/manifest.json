@@ -1,0 +1,47 @@
+{
+  "device_slug": "aspiration--inneuroco-inc--zenith-flex",
+  "artifact_folder": "aspiration--inneuroco-inc--zenith-flex",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 298640,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/aspiration/parsed/fda_summaries/aspiration--inneuroco-inc--zenith-flex--510k.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--inneuroco-inc--zenith-flex/510k/aspiration/parsed/fda_summaries/aspiration--inneuroco-inc--zenith-flex--510k.json",
+        "bytes": 67852
+      },
+      {
+        "source": "pipeline/data/510k/aspiration/pdfs/aspiration--inneuroco-inc--zenith-flex--510k.pdf",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--inneuroco-inc--zenith-flex/510k/aspiration/pdfs/aspiration--inneuroco-inc--zenith-flex--510k.pdf",
+        "bytes": 220446
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/aspiration--inneuroco-inc--zenith-flex.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--inneuroco-inc--zenith-flex/enriched/aspiration--inneuroco-inc--zenith-flex.json",
+        "bytes": 8994
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NRY/K172167.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--inneuroco-inc--zenith-flex/fda_raw/NRY/K172167.json",
+        "bytes": 555
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/aspiration--inneuroco-inc--zenith-flex.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--inneuroco-inc--zenith-flex/merged/aspiration--inneuroco-inc--zenith-flex.json",
+        "bytes": 793
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "thrombectomy_aspiration_catheters",
+    "label": "Aspiration Catheters"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "device_name": "Neuro Access Catheters",
+  "manufacturer": "penumbra",
+  "catalog_category": "distal-access",
+  "filename_stem": "distal-access--penumbra--neuro-access-catheters",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "Penumbra offers access devices specifically designed to facilitate the therapy of a wide range of conditions, including disorders in the most challenging neurovasculature. Penumbra introduced its first neuro access device in 2007 and has since expanded its intracranial access products to include MIDWAY\n\u2122",
+  "sizing_specs": "1.09 mm; 1.52 mm; 1.57 mm; 1.93 mm; 2.06 mm; 2.46 mm; 1.73 mm; 2.44 mm; 2.77 mm; 2.21 mm; 1.80 mm; 2.11 mm",
+  "indications": "Penumbra Reperfusion Catheters and Separators\nAs part of the PENUMBRA SYSTEM, the Reperfusion Catheters and Separators are indicated for use in the revascularization of patients with acute ischemic stroke secondary to intracranial large vessel occlusive disease (within the internal carotid, middle cerebral \u2013 M1 and M2 segments, basilar, and vertebral arteries) within 8 hours of symptom onset. Patients who are ineligible for intravenous tissue plasminogen activator (IV t-PA) or who fail IV t-PA therapy are candidates for treatment.\nPenumbra Aspiration Tubing\nAs part of the PENUMBRA SYSTEM, the Penumbra Sterile Aspiration Tubing is indicated to connect the Penumbra Reperfusion Catheters to the Penumbra Aspiration Pump.\nPenumbra Aspiration Pump\nThe Penumbra Aspiration Pump is indicated as a vacuum source for Penumbra Aspiration Systems\nContraindications\nThere are no known contraindications\nWarnings\n\u2022 The device is intended for single use only. Do not resterilize or reuse. Resterilization and/or Reuse may result in ineffective catheter coating lubrication, which may result in high friction and the inability to access the target neuro vasculature location.\n\u2022 Do not use kinked or damaged devices. Do not use open or damaged packages. Return all damaged devices and packaging to the manufacturer/distributor.\n\u2022 Do not use automated high-pressure contrast injection equipment with the Penumbra Reperfusion Catheter because it may damage the device.\n\u2022 Confirm vessel diameter, and select an appropriate size Penumbra Reperfusion Catheter. Do not use in arteries with diameters smaller or equal to the distal outer diameter of the Penumbra Reperfusion Catheters. Refer to the Reperfusion Catheter labeling for dimensional information.\n\u2022 Do not advance, retract or use any component of the Penumbra System against resistance without careful assessment of the cause using fluoroscopy. If the cause cannot be determined, withdraw the device or system as a unit. Unrestrained torquing or forced insertion of the catheter or SEPARATOR\u2122 against resistance may result in damage to the device or vessel.",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.penumbrainc.com/products/neuro-access-catheters",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ]
+}

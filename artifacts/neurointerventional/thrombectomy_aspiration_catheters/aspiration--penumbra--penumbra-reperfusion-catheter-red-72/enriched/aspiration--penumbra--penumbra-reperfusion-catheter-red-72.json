@@ -1,0 +1,98 @@
+{
+ "device_name": "Penumbra System (Reperfusion Catheter RED 72)",
+ "manufacturer": "penumbra",
+ "catalog_category": "aspiration",
+ "filename_stem": "aspiration--penumbra--penumbra-reperfusion-catheter-red-72",
+ "clearance_type": "510k",
+ "clearance_number": "K211654",
+ "clearance_date": "2021-08-16",
+ "device_class": 2,
+ "device_name_fda": "Penumbra System (Reperfusion Catheter RED 72)",
+ "product_code": "NRY",
+ "what_it_is": null,
+ "sizing_specs": {
+  "legacy_note": "Sheath Compatibility (F): 6 (RED 72, RED 72 with SENDit Technology, RED 68, RED 62, RED 43, and Penumbra JET D require 8-F short sheath or 6-F long sheath)\nWorking Length (cm): 132\u2013160",
+  "id_od": {
+   "units": "inches",
+   "max_od_is_proximal": true,
+   "od_prox": {
+    "in": 0.085
+   },
+   "id": {
+    "in": 0.072
+   },
+   "verbatim_quote": "coating (proprietary) Equivalent K211654 Page 5 of 7 Device Attribute Predicate Device Subject Device Min. ID 0.072 in. (1.83 mm) SAME Max. OD 0.085 in. (2.16 mm) SAME Distal Flex Length 3",
+   "k_number": "K211654",
+   "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K211654.pdf",
+   "extraction_method": "pymupdf_text_regex_verified",
+   "extracted": "2026-08-23"
+  },
+  "spec_status": "verified"
+ },
+ "indications": "As part of the Penumbra system, the Reperfusion catheters and separators are indicated for use in the revascularization of patients with acute ischemic stroke secondary to intracranial large vessel occlusive disease (within the internal carotid, middle cerebral\u2014M1 and M2 segments, basilar, and vertebral arteries) within 8 hours of symptom onset. Patients who are ineligible for intravenous tissue plasminogen activator (IV t-PA) or who fail IV t-PA therapy are candidates for treatment\n\nAs part of the Penumbra system, the Reperfusion catheters and separators are indicated for use in the revascularization of patients with acute ischemic stroke secondary to intracranial large vessel occlusive disease (within the internal carotid, middle cerebral\u2014M1 and M2 segments, basilar, and vertebral arteries) within 8 hours of symptom onset. Patients who are ineligible for thrombolytic drug therapy or who failed thrombolytic drug therapy are candidates for treatment",
+ "contraindications": null,
+ "compatible_with": null,
+ "use_notes": "Mode of Operation: Direct aspiration clot removal with Penumbra Engine aspiration source\n\n[FDA RECALL] 6 active recall(s).\n  - Reperfusion catheter may fail at the mid-shaft joint and may break off.  If the segment cannot be removed, it may result in blocked blood flow, requiring emergency medical treatment.\n  - The catheter may become susceptible to distal tip damage during use.  Distal tip damage in conjunction with pressurization of contrast injection may result in potential vessel damage, and subsequent p",
+ "deployment_steps": null,
+ "also_known_as": [
+  "K211654",
+  "K173761",
+  "K211654",
+  "K173761",
+  "K242104",
+  "K191946",
+  "K242104",
+  "K211654",
+  "K242104",
+  "K211654",
+  "K242104",
+  "K242104",
+  "K242104",
+  "K191946",
+  "K191946",
+  "K242104",
+  "K242104"
+ ],
+ "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K211654.pdf",
+ "ifu_pdf_url": null,
+ "source_url": "",
+ "confidence_score": 0.5,
+ "needs_review": false,
+ "data_sources": [
+  "fda"
+ ],
+ "_enrichment": {
+  "what_it_is": {
+   "source": "none",
+   "confidence": 0
+  },
+  "sizing_specs": {
+   "source": "evtoday",
+   "confidence": 0.8
+  },
+  "indications": {
+   "source": "evtoday",
+   "confidence": 0.8
+  },
+  "contraindications": {
+   "source": "none",
+   "confidence": 0
+  },
+  "compatible_with": {
+   "source": "none",
+   "confidence": 0
+  },
+  "use_notes": {
+   "source": "evtoday",
+   "confidence": 0.8
+  },
+  "also_known_as": {
+   "source": "fda_summary",
+   "confidence": 0.3
+  },
+  "_safety": {
+   "source": "fda_maude+recalls",
+   "confidence": 0.85
+  }
+ }
+}

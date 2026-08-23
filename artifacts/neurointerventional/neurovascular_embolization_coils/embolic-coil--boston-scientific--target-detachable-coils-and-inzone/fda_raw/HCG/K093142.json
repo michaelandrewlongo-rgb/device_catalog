@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K093142",
+  "clearance_date": "2010-02-04",
+  "device_class": 2,
+  "manufacturer_canonical": "boston-scientific",
+  "manufacturer_raw": "Boston Scientific Corp",
+  "catalog_category": "embolic-coil",
+  "device_name_fda": "TARGET DETACHABLE COILS AND INZONE DETACHMENT SYSTEM",
+  "product_code": "HCG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "embolic-coil--boston-scientific--target-detachable-coils-and-inzone",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf09/K093142.pdf"
+}

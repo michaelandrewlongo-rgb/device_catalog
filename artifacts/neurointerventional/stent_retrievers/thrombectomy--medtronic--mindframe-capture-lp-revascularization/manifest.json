@@ -1,0 +1,47 @@
+{
+  "device_slug": "thrombectomy--medtronic--mindframe-capture-lp-revascularization",
+  "artifact_folder": "thrombectomy--medtronic--mindframe-capture-lp-revascularization",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 496516,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/thrombectomy/parsed/fda_summaries/thrombectomy--medtronic--mindframe-capture-lp-revascularization--510k.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--mindframe-capture-lp-revascularization/510k/thrombectomy/parsed/fda_summaries/thrombectomy--medtronic--mindframe-capture-lp-revascularization--510k.json",
+        "bytes": 75162
+      },
+      {
+        "source": "pipeline/data/510k/thrombectomy/pdfs/thrombectomy--medtronic--mindframe-capture-lp-revascularization--510k.pdf",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--mindframe-capture-lp-revascularization/510k/thrombectomy/pdfs/thrombectomy--medtronic--mindframe-capture-lp-revascularization--510k.pdf",
+        "bytes": 370106
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/thrombectomy--medtronic--mindframe-capture-lp-revascularization.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--mindframe-capture-lp-revascularization/enriched/thrombectomy--medtronic--mindframe-capture-lp-revascularization.json",
+        "bytes": 49740
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NRY/K141516.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--mindframe-capture-lp-revascularization/fda_raw/NRY/K141516.json",
+        "bytes": 638
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/thrombectomy--medtronic--mindframe-capture-lp-revascularization.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--mindframe-capture-lp-revascularization/merged/thrombectomy--medtronic--mindframe-capture-lp-revascularization.json",
+        "bytes": 870
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "stent_retrievers",
+    "label": "Stent Retrievers"
+  }
+}

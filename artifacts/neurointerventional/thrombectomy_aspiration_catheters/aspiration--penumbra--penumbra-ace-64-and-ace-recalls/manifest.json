@@ -1,0 +1,21 @@
+{
+  "device_slug": "aspiration--penumbra--penumbra-ace-64-and-ace-recalls",
+  "artifact_folder": "aspiration--penumbra--penumbra-ace-64-and-ace-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 4378,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/aspiration--penumbra--penumbra-ace-64-and-ace-recalls.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-ace-64-and-ace-recalls/extracted/fda_safety/aspiration--penumbra--penumbra-ace-64-and-ace-recalls.json",
+        "bytes": 4378
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "thrombectomy_aspiration_catheters",
+    "label": "Aspiration Catheters"
+  }
+}

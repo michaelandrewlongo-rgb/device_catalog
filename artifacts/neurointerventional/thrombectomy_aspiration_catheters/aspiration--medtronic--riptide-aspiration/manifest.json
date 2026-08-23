@@ -1,0 +1,57 @@
+{
+  "device_slug": "aspiration--medtronic--riptide-aspiration",
+  "artifact_folder": "aspiration--medtronic--riptide-aspiration",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 7,
+  "bytes": 2787149,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/aspiration/parsed/fda_summaries/aspiration--medtronic--riptide-aspiration--510k.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--medtronic--riptide-aspiration/510k/aspiration/parsed/fda_summaries/aspiration--medtronic--riptide-aspiration--510k.json",
+        "bytes": 55042
+      },
+      {
+        "source": "pipeline/data/510k/aspiration/pdfs/aspiration--medtronic--riptide-aspiration--510k.pdf",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--medtronic--riptide-aspiration/510k/aspiration/pdfs/aspiration--medtronic--riptide-aspiration--510k.pdf",
+        "bytes": 2692590
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/aspiration--medtronic--riptide-aspiration.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--medtronic--riptide-aspiration/enriched/aspiration--medtronic--riptide-aspiration.json",
+        "bytes": 36929
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NRY/K172448.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--medtronic--riptide-aspiration/fda_raw/NRY/K172448.json",
+        "bytes": 594
+      },
+      {
+        "source": "pipeline/data/fda_raw/NRY/K201689.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--medtronic--riptide-aspiration/fda_raw/NRY/K201689.json",
+        "bytes": 594
+      },
+      {
+        "source": "pipeline/data/fda_raw/NRY/K243080.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--medtronic--riptide-aspiration/fda_raw/NRY/K243080.json",
+        "bytes": 594
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/aspiration--medtronic--riptide-aspiration.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--medtronic--riptide-aspiration/merged/aspiration--medtronic--riptide-aspiration.json",
+        "bytes": 806
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "thrombectomy_aspiration_catheters",
+    "label": "Aspiration Catheters"
+  }
+}

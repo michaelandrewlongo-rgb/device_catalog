@@ -1,0 +1,66 @@
+{
+  "device_slug": "embolic-coil--penumbra--pod",
+  "artifact_folder": "embolic-coil--penumbra--pod",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 8,
+  "bytes": 255926,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/embolic-coil/parsed/documents/embolic-coil--penumbra--pod--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--penumbra--pod/510k/embolic-coil/parsed/documents/embolic-coil--penumbra--pod--510k.json",
+        "bytes": 5461
+      },
+      {
+        "source": "pipeline/data/510k/embolic-coil/parsed/fda_summaries/embolic-coil--penumbra--pod--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--penumbra--pod/510k/embolic-coil/parsed/fda_summaries/embolic-coil--penumbra--pod--510k.json",
+        "bytes": 14097
+      },
+      {
+        "source": "pipeline/data/510k/embolic-coil/pdfs/embolic-coil--penumbra--pod--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--penumbra--pod/510k/embolic-coil/pdfs/embolic-coil--penumbra--pod--510k.pdf",
+        "bytes": 228148
+      }
+    ],
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/embolic-coil--penumbra--pod--knowledge.md",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--penumbra--pod/data_by_device/embolic-coil--penumbra--pod--knowledge.md",
+        "bytes": 1893
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--penumbra--pod.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--penumbra--pod/enriched/embolic-coil--penumbra--pod.json",
+        "bytes": 4532
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/embolic-coil--penumbra--pod.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--penumbra--pod/extracted/fda_structured/embolic-coil--penumbra--pod.json",
+        "bytes": 505
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K141134.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--penumbra--pod/fda_raw/HCG/K141134.json",
+        "bytes": 527
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--penumbra--pod.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--penumbra--pod/merged/embolic-coil--penumbra--pod.json",
+        "bytes": 763
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

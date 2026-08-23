@@ -1,0 +1,40 @@
+{
+  "device_slug": "distal-access--microvention--sofia",
+  "artifact_folder": "distal-access--microvention--sofia",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 2026053,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/distal-access--microvention--sofia--ifu.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--microvention--sofia/data_by_device/distal-access--microvention--sofia--ifu.pdf",
+        "bytes": 2009318
+      },
+      {
+        "source": "pipeline/data/data_by_device/distal-access--microvention--sofia--knowledge.md",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--microvention--sofia/data_by_device/distal-access--microvention--sofia--knowledge.md",
+        "bytes": 9560
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/documents/distal-access--microvention--sofia--ifu.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--microvention--sofia/extracted/documents/distal-access--microvention--sofia--ifu.json",
+        "bytes": 6719
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/microvention/sofiatm.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--microvention--sofia/scraper_raw/microvention/sofiatm.json",
+        "bytes": 456
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_access_catheters",
+    "label": "Access, Guide, Delivery Catheters"
+  }
+}

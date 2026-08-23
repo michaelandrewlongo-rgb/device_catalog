@@ -1,0 +1,23 @@
+{
+  "source_pdf": "microcatheter--ev3--marathon--510k.pdf",
+  "device_name": "marathon",
+  "manufacturer": "ev3",
+  "doc_type": "510k",
+  "extraction_method": "pdf_deepseek",
+  "fields": {
+    "what_it_is": "The Marathon™ Flow Directed Micro Catheters are single‐lumen, endhole catheters designed for the sub selective infusion of physician‐specified therapeutic agents such as embolization materials and diagnostic materials such as contrast media in tortuous, distal vessels. The catheter has a semi‐rigid proximal shaft and a highly flexible distal shaft to facilitate the advancement of the catheter in the anatomy. The proximal end of the catheter incorporates a standard luer adapter to facilitate the attachment of accessories. The catheter has a radiopaque marker at the distal end to facilitate fluoroscopic visualization. The outer surfaces of the catheter are coated to increase lubricity. Microcatheter may be used with stylet, guidewire or introducer sheath to increase the rigidity of the distal section during introduction into the guiding catheter.",
+    "sizing_specs": "| Attribute | Predicate: Marathon™ Flow Directed Micro<br>Catheter (K093750) | Subject: Marathon™ Flow<br>Directed Micro Catheter |\n|-----------|----------------------------------------------------------------|----------------------------------------------------|\n| Usable Length | 165±2.5cm | Same |\n| Proximal Section OD (hub) | 2.7 F | Same |\n| Distal Section OD (at tip) | 1.3 F | Same |\n| Distal Section ID (at tip) | .13\" | Same |",
+    "indications": "The Marathon™ Flow Directed Micro Catheter is intended to access the peripheral and neuro vasculature for the controlled selective infusion of physician‐specified therapeutic agents such as embolization materials and of diagnostic materials such as contrast media.",
+    "contraindications": null,
+    "compatible_with": "Microcatheter may be used with stylet, guidewire or introducer sheath to increase the rigidity of the distal section during introduction into the guiding catheter.",
+    "use_notes": null,
+    "also_known_as": "Vascular Microcatheter"
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "sizing_specs": 0.7,
+    "indications": 0.7,
+    "compatible_with": 0.7,
+    "also_known_as": 0.7
+  }
+}

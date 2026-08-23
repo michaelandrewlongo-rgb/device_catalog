@@ -1,0 +1,49 @@
+{
+  "device_slug": "aspiration--balt--raptor",
+  "artifact_folder": "aspiration--balt--raptor",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 9647,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/aspiration--balt--raptor--knowledge.md",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--balt--raptor/data_by_device/aspiration--balt--raptor--knowledge.md",
+        "bytes": 2618
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/aspiration--balt--raptor.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--balt--raptor/enriched/aspiration--balt--raptor.json",
+        "bytes": 3014
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/aspiration--balt--raptor.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--balt--raptor/extracted/fda_structured/aspiration--balt--raptor.json",
+        "bytes": 1582
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/aspiration--balt--raptor.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--balt--raptor/merged/aspiration--balt--raptor.json",
+        "bytes": 1356
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/balt/raptor.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--balt--raptor/scraper_raw/balt/raptor.json",
+        "bytes": 1077
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "thrombectomy_aspiration_catheters",
+    "label": "Aspiration Catheters"
+  }
+}

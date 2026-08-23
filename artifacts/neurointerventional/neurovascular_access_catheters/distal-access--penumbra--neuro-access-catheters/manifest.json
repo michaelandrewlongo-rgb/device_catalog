@@ -1,0 +1,42 @@
+{
+  "device_slug": "distal-access--penumbra--neuro-access-catheters",
+  "artifact_folder": "distal-access--penumbra--neuro-access-catheters",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 14755,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/distal-access--penumbra--neuro-access-catheters--knowledge.md",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--penumbra--neuro-access-catheters/data_by_device/distal-access--penumbra--neuro-access-catheters--knowledge.md",
+        "bytes": 4507
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/distal-access--penumbra--neuro-access-catheters.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--penumbra--neuro-access-catheters/enriched/distal-access--penumbra--neuro-access-catheters.json",
+        "bytes": 3902
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/distal-access--penumbra--neuro-access-catheters.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--penumbra--neuro-access-catheters/merged/distal-access--penumbra--neuro-access-catheters.json",
+        "bytes": 3330
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/penumbra/neuro-access-catheters.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--penumbra--neuro-access-catheters/scraper_raw/penumbra/neuro-access-catheters.json",
+        "bytes": 3016
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_access_catheters",
+    "label": "Access, Guide, Delivery Catheters"
+  }
+}

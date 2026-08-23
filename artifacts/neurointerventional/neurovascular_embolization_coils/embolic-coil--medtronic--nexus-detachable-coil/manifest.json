@@ -1,0 +1,35 @@
+{
+  "device_slug": "embolic-coil--medtronic--nexus-detachable-coil",
+  "artifact_folder": "embolic-coil--medtronic--nexus-detachable-coil",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2794,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--medtronic--nexus-detachable-coil.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--medtronic--nexus-detachable-coil/enriched/embolic-coil--medtronic--nexus-detachable-coil.json",
+        "bytes": 1400
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K050543.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--medtronic--nexus-detachable-coil/fda_raw/HCG/K050543.json",
+        "bytes": 575
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--medtronic--nexus-detachable-coil.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--medtronic--nexus-detachable-coil/merged/embolic-coil--medtronic--nexus-detachable-coil.json",
+        "bytes": 819
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

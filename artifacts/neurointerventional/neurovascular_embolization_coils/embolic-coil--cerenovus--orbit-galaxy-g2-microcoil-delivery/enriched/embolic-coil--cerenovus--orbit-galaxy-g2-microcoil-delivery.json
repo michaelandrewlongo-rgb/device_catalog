@@ -1,0 +1,66 @@
+{
+  "device_name": "ORBIT GALAXY G2 MICROCOIL DELIVERY SYSTEM",
+  "manufacturer": "cerenovus",
+  "catalog_category": "embolic-coil",
+  "filename_stem": "embolic-coil--cerenovus--orbit-galaxy-g2-microcoil-delivery",
+  "clearance_type": "510k",
+  "clearance_number": "K120686",
+  "clearance_date": "2012-04-04",
+  "device_class": 2,
+  "device_name_fda": "ORBIT GALAXY G2 MICROCOIL DELIVERY SYSTEM",
+  "product_code": "HCG",
+  "what_it_is": "Coil has a unique ability to seek out and fill the open spaces in an aneurysm, enabling greater packing density",
+  "sizing_specs": "Materials: Bare platinum, polypropylene stretch-resistant suture",
+  "indications": "Indications for Use\n5 10(k) Number (if known): K120686\nDevice Name: Orbit Galaxy® G2 Microcoil Delivery System\nIndications for Use:\nThe Fill Orbit Galaxy® G2 Microdelivery System is intended for endovascular embolization of\nintracranial aneurysms, other neurovascular abnormalities such as arteriovenous malformations\nand arteriovenous fistulae, and is intended for arterial and venous embolizations in the peripheral\nvasculature.\nThe Xtrasoft Orbit Galaxy® 02 Microcoil Delivery System is intended for endovascular\nembolization of intracranial aneurysms.\nPrescription Use ___X__ AND/OR Over-The-Counter Use\n___\n(Part 21 CFR 801 Subpart D) (21 CFR 807 Subpart C)\n(PLEASE DO NOT WRITE BELOW LINE-CONTINUE ON ANOTHER PAGE IF NEEDED)\nConcurrence of CDRJI, Office of Device Evaluation (ODE)\njcC fW Pagel of__\n7\n(Division Sign-Off)\nDivision of Ophthalmic, Neurological and Ear,\nNose and Throat Devices\n51 0(k) Number",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "Method of Detachment: Hydraulic detachment\nCoil Type: Complex framing, filling, and finishing coils\n\n[FDA RECALL] 1 active recall(s).\n  - Detachable coils system may fail to detach, which could result in hemorrhagic and ischemic stroke, procedural delays, or the need for additional surgical intervention.",
+  "deployment_steps": null,
+  "also_known_as": [
+    "K093973",
+    "K072173",
+    "K120686"
+  ],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf12/K120686.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "sizing_specs": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "indications": {
+      "source": "fda_summary",
+      "confidence": 0.95
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "also_known_as": {
+      "source": "fda_summary",
+      "confidence": 0.3
+    },
+    "_safety": {
+      "source": "fda_maude+recalls",
+      "confidence": 0.85
+    }
+  }
+}

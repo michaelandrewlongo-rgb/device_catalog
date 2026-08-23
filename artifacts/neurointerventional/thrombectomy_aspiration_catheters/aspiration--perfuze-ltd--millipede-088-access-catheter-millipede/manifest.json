@@ -1,0 +1,47 @@
+{
+  "device_slug": "aspiration--perfuze-ltd--millipede-088-access-catheter-millipede",
+  "artifact_folder": "aspiration--perfuze-ltd--millipede-088-access-catheter-millipede",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 2739022,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/aspiration/parsed/fda_summaries/aspiration--perfuze-ltd--millipede-088-access-catheter-millipede--510k.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--perfuze-ltd--millipede-088-access-catheter-millipede/510k/aspiration/parsed/fda_summaries/aspiration--perfuze-ltd--millipede-088-access-catheter-millipede--510k.json",
+        "bytes": 72709
+      },
+      {
+        "source": "pipeline/data/510k/aspiration/pdfs/aspiration--perfuze-ltd--millipede-088-access-catheter-millipede--510k.pdf",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--perfuze-ltd--millipede-088-access-catheter-millipede/510k/aspiration/pdfs/aspiration--perfuze-ltd--millipede-088-access-catheter-millipede--510k.pdf",
+        "bytes": 2616527
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/aspiration--perfuze-ltd--millipede-088-access-catheter-millipede.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--perfuze-ltd--millipede-088-access-catheter-millipede/enriched/aspiration--perfuze-ltd--millipede-088-access-catheter-millipede.json",
+        "bytes": 48167
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NRY/K242504.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--perfuze-ltd--millipede-088-access-catheter-millipede/fda_raw/NRY/K242504.json",
+        "bytes": 652
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/aspiration--perfuze-ltd--millipede-088-access-catheter-millipede.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--perfuze-ltd--millipede-088-access-catheter-millipede/merged/aspiration--perfuze-ltd--millipede-088-access-catheter-millipede.json",
+        "bytes": 967
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "thrombectomy_aspiration_catheters",
+    "label": "Aspiration Catheters"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "device_slug": "aspiration--medtronic--riptide-aspiration-react-68-catheter",
+  "artifact_folder": "aspiration--medtronic--riptide-aspiration-react-68-catheter",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 290836,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/aspiration/parsed/fda_summaries/aspiration--medtronic--riptide-aspiration-react-68-catheter--510k.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--medtronic--riptide-aspiration-react-68-catheter/510k/aspiration/parsed/fda_summaries/aspiration--medtronic--riptide-aspiration-react-68-catheter--510k.json",
+        "bytes": 83741
+      },
+      {
+        "source": "pipeline/data/510k/aspiration/pdfs/aspiration--medtronic--riptide-aspiration-react-68-catheter--510k.pdf",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--medtronic--riptide-aspiration-react-68-catheter/510k/aspiration/pdfs/aspiration--medtronic--riptide-aspiration-react-68-catheter--510k.pdf",
+        "bytes": 199743
+      }
+    ],
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/aspiration--medtronic--riptide-aspiration-react-68-catheter--knowledge.md",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--medtronic--riptide-aspiration-react-68-catheter/data_by_device/aspiration--medtronic--riptide-aspiration-react-68-catheter--knowledge.md",
+        "bytes": 4427
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/aspiration--medtronic--riptide-aspiration-react-68-catheter.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--medtronic--riptide-aspiration-react-68-catheter/enriched/aspiration--medtronic--riptide-aspiration-react-68-catheter.json",
+        "bytes": 1457
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NRY/K180705.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--medtronic--riptide-aspiration-react-68-catheter/fda_raw/NRY/K180705.json",
+        "bytes": 630
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/aspiration--medtronic--riptide-aspiration-react-68-catheter.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--medtronic--riptide-aspiration-react-68-catheter/merged/aspiration--medtronic--riptide-aspiration-react-68-catheter.json",
+        "bytes": 838
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "thrombectomy_aspiration_catheters",
+    "label": "Aspiration Catheters"
+  }
+}

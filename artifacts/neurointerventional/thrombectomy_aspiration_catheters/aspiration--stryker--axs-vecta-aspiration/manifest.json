@@ -1,0 +1,64 @@
+{
+  "device_slug": "aspiration--stryker--axs-vecta-aspiration",
+  "artifact_folder": "aspiration--stryker--axs-vecta-aspiration",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 8,
+  "bytes": 385657,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/aspiration/parsed/documents/aspiration--stryker--axs-vecta-aspiration--510k.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--stryker--axs-vecta-aspiration/510k/aspiration/parsed/documents/aspiration--stryker--axs-vecta-aspiration--510k.json",
+        "bytes": 5572
+      },
+      {
+        "source": "pipeline/data/510k/aspiration/parsed/fda_summaries/aspiration--stryker--axs-vecta-aspiration--510k.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--stryker--axs-vecta-aspiration/510k/aspiration/parsed/fda_summaries/aspiration--stryker--axs-vecta-aspiration--510k.json",
+        "bytes": 44102
+      },
+      {
+        "source": "pipeline/data/510k/aspiration/pdfs/aspiration--stryker--axs-vecta-aspiration--510k.pdf",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--stryker--axs-vecta-aspiration/510k/aspiration/pdfs/aspiration--stryker--axs-vecta-aspiration--510k.pdf",
+        "bytes": 329387
+      }
+    ],
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/aspiration--stryker--axs-vecta-aspiration--knowledge.md",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--stryker--axs-vecta-aspiration/data_by_device/aspiration--stryker--axs-vecta-aspiration--knowledge.md",
+        "bytes": 2164
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/aspiration--stryker--axs-vecta-aspiration.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--stryker--axs-vecta-aspiration/enriched/aspiration--stryker--axs-vecta-aspiration.json",
+        "bytes": 2287
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NRY/K190212.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--stryker--axs-vecta-aspiration/fda_raw/NRY/K190212.json",
+        "bytes": 567
+      },
+      {
+        "source": "pipeline/data/fda_raw/NRY/K191768.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--stryker--axs-vecta-aspiration/fda_raw/NRY/K191768.json",
+        "bytes": 567
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/aspiration--stryker--axs-vecta-aspiration.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--stryker--axs-vecta-aspiration/merged/aspiration--stryker--axs-vecta-aspiration.json",
+        "bytes": 1011
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "thrombectomy_aspiration_catheters",
+    "label": "Aspiration Catheters"
+  }
+}

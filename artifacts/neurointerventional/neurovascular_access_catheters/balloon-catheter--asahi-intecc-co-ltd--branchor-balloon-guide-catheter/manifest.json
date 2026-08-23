@@ -1,0 +1,59 @@
+{
+  "device_slug": "balloon-catheter--asahi-intecc-co-ltd--branchor-balloon-guide-catheter",
+  "artifact_folder": "balloon-catheter--asahi-intecc-co-ltd--branchor-balloon-guide-catheter",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 7,
+  "bytes": 716662,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/balloon-catheter/parsed/fda_summaries/balloon-catheter--asahi-intecc-co-ltd--branchor-balloon-guide-catheter--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/balloon-catheter--asahi-intecc-co-ltd--branchor-balloon-guide-catheter/510k/balloon-catheter/parsed/fda_summaries/balloon-catheter--asahi-intecc-co-ltd--branchor-balloon-guide-catheter--510k.json",
+        "bytes": 41202
+      },
+      {
+        "source": "pipeline/data/510k/balloon-catheter/pdfs/balloon-catheter--asahi-intecc-co-ltd--branchor-balloon-guide-catheter--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/balloon-catheter--asahi-intecc-co-ltd--branchor-balloon-guide-catheter/510k/balloon-catheter/pdfs/balloon-catheter--asahi-intecc-co-ltd--branchor-balloon-guide-catheter--510k.pdf",
+        "bytes": 641871
+      }
+    ],
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/balloon-catheter--asahi-intecc-co-ltd--branchor-balloon-guide-catheter--knowledge.md",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/balloon-catheter--asahi-intecc-co-ltd--branchor-balloon-guide-catheter/data_by_device/balloon-catheter--asahi-intecc-co-ltd--branchor-balloon-guide-catheter--knowledge.md",
+        "bytes": 3726
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/balloon-catheter--asahi-intecc-co-ltd--branchor-balloon-guide-catheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/balloon-catheter--asahi-intecc-co-ltd--branchor-balloon-guide-catheter/enriched/balloon-catheter--asahi-intecc-co-ltd--branchor-balloon-guide-catheter.json",
+        "bytes": 27762
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/QJP/K203723.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/balloon-catheter--asahi-intecc-co-ltd--branchor-balloon-guide-catheter/fda_raw/QJP/K203723.json",
+        "bytes": 619
+      },
+      {
+        "source": "pipeline/data/fda_raw/QJP/K221951.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/balloon-catheter--asahi-intecc-co-ltd--branchor-balloon-guide-catheter/fda_raw/QJP/K221951.json",
+        "bytes": 619
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/balloon-catheter--asahi-intecc-co-ltd--branchor-balloon-guide-catheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/balloon-catheter--asahi-intecc-co-ltd--branchor-balloon-guide-catheter/merged/balloon-catheter--asahi-intecc-co-ltd--branchor-balloon-guide-catheter.json",
+        "bytes": 863
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_access_catheters",
+    "label": "Access, Guide, Delivery Catheters"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "device_slug": "embolic-coil--microvention--cosmostm",
+  "artifact_folder": "embolic-coil--microvention--cosmostm",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 2,
+  "bytes": 2066,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--microvention--cosmostm.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--cosmostm/enriched/embolic-coil--microvention--cosmostm.json",
+        "bytes": 1323
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--microvention--cosmostm.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--cosmostm/merged/embolic-coil--microvention--cosmostm.json",
+        "bytes": 743
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

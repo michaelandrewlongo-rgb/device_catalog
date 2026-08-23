@@ -1,0 +1,54 @@
+{
+  "device_slug": "aspiration--route-92-medical-inc--route-92-medical-hipoint-reperfusion",
+  "artifact_folder": "aspiration--route-92-medical-inc--route-92-medical-hipoint-reperfusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 3059308,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/aspiration/parsed/fda_summaries/aspiration--route-92-medical-inc--route-92-medical-hipoint-reperfusion--510k.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--route-92-medical-inc--route-92-medical-hipoint-reperfusion/510k/aspiration/parsed/fda_summaries/aspiration--route-92-medical-inc--route-92-medical-hipoint-reperfusion--510k.json",
+        "bytes": 189909
+      },
+      {
+        "source": "pipeline/data/510k/aspiration/pdfs/aspiration--route-92-medical-inc--route-92-medical-hipoint-reperfusion--510k.pdf",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--route-92-medical-inc--route-92-medical-hipoint-reperfusion/510k/aspiration/pdfs/aspiration--route-92-medical-inc--route-92-medical-hipoint-reperfusion--510k.pdf",
+        "bytes": 2735016
+      }
+    ],
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/aspiration--route-92-medical-inc--route-92-medical-hipoint-reperfusion--knowledge.md",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--route-92-medical-inc--route-92-medical-hipoint-reperfusion/data_by_device/aspiration--route-92-medical-inc--route-92-medical-hipoint-reperfusion--knowledge.md",
+        "bytes": 6012
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/aspiration--route-92-medical-inc--route-92-medical-hipoint-reperfusion.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--route-92-medical-inc--route-92-medical-hipoint-reperfusion/enriched/aspiration--route-92-medical-inc--route-92-medical-hipoint-reperfusion.json",
+        "bytes": 126785
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NRY/K243601.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--route-92-medical-inc--route-92-medical-hipoint-reperfusion/fda_raw/NRY/K243601.json",
+        "bytes": 652
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/aspiration--route-92-medical-inc--route-92-medical-hipoint-reperfusion.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--route-92-medical-inc--route-92-medical-hipoint-reperfusion/merged/aspiration--route-92-medical-inc--route-92-medical-hipoint-reperfusion.json",
+        "bytes": 934
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "thrombectomy_aspiration_catheters",
+    "label": "Aspiration Catheters"
+  }
+}

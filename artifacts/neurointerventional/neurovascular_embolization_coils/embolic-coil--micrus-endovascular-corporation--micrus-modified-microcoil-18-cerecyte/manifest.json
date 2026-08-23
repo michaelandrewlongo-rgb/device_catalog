@@ -1,0 +1,35 @@
+{
+  "device_slug": "embolic-coil--micrus-endovascular-corporation--micrus-modified-microcoil-18-cerecyte",
+  "artifact_folder": "embolic-coil--micrus-endovascular-corporation--micrus-modified-microcoil-18-cerecyte",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3151,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--micrus-endovascular-corporation--micrus-modified-microcoil-18-cerecyte.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--micrus-endovascular-corporation--micrus-modified-microcoil-18-cerecyte/enriched/embolic-coil--micrus-endovascular-corporation--micrus-modified-microcoil-18-cerecyte.json",
+        "bytes": 1528
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K053160.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--micrus-endovascular-corporation--micrus-modified-microcoil-18-cerecyte/fda_raw/HCG/K053160.json",
+        "bytes": 676
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--micrus-endovascular-corporation--micrus-modified-microcoil-18-cerecyte.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--micrus-endovascular-corporation--micrus-modified-microcoil-18-cerecyte/merged/embolic-coil--micrus-endovascular-corporation--micrus-modified-microcoil-18-cerecyte.json",
+        "bytes": 947
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

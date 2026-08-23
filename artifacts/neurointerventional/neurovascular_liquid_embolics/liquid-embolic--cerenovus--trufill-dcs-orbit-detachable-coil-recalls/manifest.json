@@ -1,0 +1,21 @@
+{
+  "device_slug": "liquid-embolic--cerenovus--trufill-dcs-orbit-detachable-coil-recalls",
+  "artifact_folder": "liquid-embolic--cerenovus--trufill-dcs-orbit-detachable-coil-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 4398,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/liquid-embolic--cerenovus--trufill-dcs-orbit-detachable-coil-recalls.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--cerenovus--trufill-dcs-orbit-detachable-coil-recalls/extracted/fda_safety/liquid-embolic--cerenovus--trufill-dcs-orbit-detachable-coil-recalls.json",
+        "bytes": 4398
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_liquid_embolics",
+    "label": "Onyx, Squid, PHIL"
+  }
+}

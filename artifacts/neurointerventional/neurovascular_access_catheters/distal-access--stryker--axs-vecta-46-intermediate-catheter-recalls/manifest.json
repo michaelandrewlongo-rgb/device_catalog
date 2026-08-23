@@ -1,0 +1,21 @@
+{
+  "device_slug": "distal-access--stryker--axs-vecta-46-intermediate-catheter-recalls",
+  "artifact_folder": "distal-access--stryker--axs-vecta-46-intermediate-catheter-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 1542,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/distal-access--stryker--axs-vecta-46-intermediate-catheter-recalls.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--stryker--axs-vecta-46-intermediate-catheter-recalls/extracted/fda_safety/distal-access--stryker--axs-vecta-46-intermediate-catheter-recalls.json",
+        "bytes": 1542
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_access_catheters",
+    "label": "Access, Guide, Delivery Catheters"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "device_name": "Surpass Evolve \u00ae Flow Diverter",
+  "manufacturer": "stryker",
+  "catalog_category": "distal-access",
+  "filename_stem": "distal-access--stryker--surpass-evolve-r-flow-diverter",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "Surpass Evolve \u00ae Flow Diverter",
+  "sizing_specs": "4.25mm",
+  "indications": "The AXS Infinity LS Plus Long Sheath is indicated for the\nintroduction of interventional devices into the peripheral,\ncoronary, and neuro vasculature.",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.stryker.com/us/en/neurovascular/products/surpass-evolve.html",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ]
+}

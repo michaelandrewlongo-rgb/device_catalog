@@ -1,0 +1,35 @@
+{
+  "device_slug": "embolic-coil--stryker--inzone-detachment-system",
+  "artifact_folder": "embolic-coil--stryker--inzone-detachment-system",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3930,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--stryker--inzone-detachment-system.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--inzone-detachment-system/enriched/embolic-coil--stryker--inzone-detachment-system.json",
+        "bytes": 1630
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--stryker--inzone-detachment-system.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--inzone-detachment-system/merged/embolic-coil--stryker--inzone-detachment-system.json",
+        "bytes": 1034
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/stryker/inzone-detachment-system.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--inzone-detachment-system/scraper_raw/stryker/inzone-detachment-system.json",
+        "bytes": 1266
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

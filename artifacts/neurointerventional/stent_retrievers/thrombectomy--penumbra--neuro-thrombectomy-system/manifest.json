@@ -1,0 +1,35 @@
+{
+  "device_slug": "thrombectomy--penumbra--neuro-thrombectomy-system",
+  "artifact_folder": "thrombectomy--penumbra--neuro-thrombectomy-system",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 10119,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/thrombectomy--penumbra--neuro-thrombectomy-system--knowledge.md",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--penumbra--neuro-thrombectomy-system/data_by_device/thrombectomy--penumbra--neuro-thrombectomy-system--knowledge.md",
+        "bytes": 3912
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/thrombectomy--penumbra--neuro-thrombectomy-system.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--penumbra--neuro-thrombectomy-system/merged/thrombectomy--penumbra--neuro-thrombectomy-system.json",
+        "bytes": 3264
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/penumbra/neuro-thrombectomy-system.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--penumbra--neuro-thrombectomy-system/scraper_raw/penumbra/neuro-thrombectomy-system.json",
+        "bytes": 2943
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "stent_retrievers",
+    "label": "Stent Retrievers"
+  }
+}

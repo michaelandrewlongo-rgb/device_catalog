@@ -1,0 +1,54 @@
+{
+  "device_slug": "microcatheter--spartan-micro--spartan-mc-0165",
+  "artifact_folder": "microcatheter--spartan-micro--spartan-mc-0165",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 1039759,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/microcatheter/parsed/fda_summaries/microcatheter--spartan-micro--spartan-mc-0165--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--spartan-micro--spartan-mc-0165/510k/microcatheter/parsed/fda_summaries/microcatheter--spartan-micro--spartan-mc-0165--510k.json",
+        "bytes": 30626
+      },
+      {
+        "source": "pipeline/data/510k/microcatheter/pdfs/microcatheter--spartan-micro--spartan-mc-0165--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--spartan-micro--spartan-mc-0165/510k/microcatheter/pdfs/microcatheter--spartan-micro--spartan-mc-0165--510k.pdf",
+        "bytes": 1005656
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/microcatheter--spartan-micro--spartan-mc-0165.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--spartan-micro--spartan-mc-0165/enriched/microcatheter--spartan-micro--spartan-mc-0165.json",
+        "bytes": 1582
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/microcatheter--spartan-micro--spartan-mc-0165.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--spartan-micro--spartan-mc-0165/extracted/fda_structured/microcatheter--spartan-micro--spartan-mc-0165.json",
+        "bytes": 538
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/QJP/K213451.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--spartan-micro--spartan-mc-0165/fda_raw/QJP/K213451.json",
+        "bytes": 560
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/microcatheter--spartan-micro--spartan-mc-0165.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--spartan-micro--spartan-mc-0165/merged/microcatheter--spartan-micro--spartan-mc-0165.json",
+        "bytes": 797
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

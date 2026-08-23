@@ -1,0 +1,35 @@
+{
+  "device_slug": "aspiration--penumbra--penumbra-pennumbra-reperfusion-catheter-054",
+  "artifact_folder": "aspiration--penumbra--penumbra-pennumbra-reperfusion-catheter-054",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 5000,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/aspiration--penumbra--penumbra-pennumbra-reperfusion-catheter-054.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-pennumbra-reperfusion-catheter-054/enriched/aspiration--penumbra--penumbra-pennumbra-reperfusion-catheter-054.json",
+        "bytes": 3345
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NRY/K090752.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-pennumbra-reperfusion-catheter-054/fda_raw/NRY/K090752.json",
+        "bytes": 664
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/aspiration--penumbra--penumbra-pennumbra-reperfusion-catheter-054.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-pennumbra-reperfusion-catheter-054/merged/aspiration--penumbra--penumbra-pennumbra-reperfusion-catheter-054.json",
+        "bytes": 991
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "thrombectomy_aspiration_catheters",
+    "label": "Aspiration Catheters"
+  }
+}

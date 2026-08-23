@@ -1,0 +1,47 @@
+{
+  "device_slug": "microcatheter--rev-neuro-llc--duo-microcatheter",
+  "artifact_folder": "microcatheter--rev-neuro-llc--duo-microcatheter",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 2699306,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/microcatheter/parsed/fda_summaries/microcatheter--rev-neuro-llc--duo-microcatheter--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--rev-neuro-llc--duo-microcatheter/510k/microcatheter/parsed/fda_summaries/microcatheter--rev-neuro-llc--duo-microcatheter--510k.json",
+        "bytes": 53151
+      },
+      {
+        "source": "pipeline/data/510k/microcatheter/pdfs/microcatheter--rev-neuro-llc--duo-microcatheter--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--rev-neuro-llc--duo-microcatheter/510k/microcatheter/pdfs/microcatheter--rev-neuro-llc--duo-microcatheter--510k.pdf",
+        "bytes": 2609316
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/microcatheter--rev-neuro-llc--duo-microcatheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--rev-neuro-llc--duo-microcatheter/enriched/microcatheter--rev-neuro-llc--duo-microcatheter.json",
+        "bytes": 35471
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/QJP/K250960.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--rev-neuro-llc--duo-microcatheter/fda_raw/QJP/K250960.json",
+        "bytes": 565
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/microcatheter--rev-neuro-llc--duo-microcatheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--rev-neuro-llc--duo-microcatheter/merged/microcatheter--rev-neuro-llc--duo-microcatheter.json",
+        "bytes": 803
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

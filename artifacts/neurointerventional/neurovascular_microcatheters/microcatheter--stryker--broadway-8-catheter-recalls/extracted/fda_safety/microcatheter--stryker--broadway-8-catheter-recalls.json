@@ -1,0 +1,20 @@
+[
+  {
+    "reason": "Stryker Neurovascular has observed that devices with Out of United States (OUS) approved Instructions for Use (IFU) and Packaging Labels (pouch and carton), different configurations, have been erroneously distributed to customers in the US.",
+    "status": "",
+    "date": "2024-08-30",
+    "product_description": "The Trevo Trak 21 Microcatheter is a single-lumen, braided shaft, variable stiffness catheter with radiopaque marker(s) on the distal end and a luer hub on the proximal end. The catheter shaft has a hydrophilic coating on the distal 100cm to reduce friction during use. The radiopaque shaft and distal marker(s) facilitate fluoroscopic visualization.  A rotating hemostatic valve with side-arm adapter is provided with each microcatheter."
+  },
+  {
+    "reason": "The microcatheter IFU contains an intended use that has not been evaluated by the FDA.",
+    "status": "",
+    "date": "2023-12-06",
+    "product_description": "Stryker Neurovascular, Trevo Trak 21 Microcatheter, REF 90338, 0.021in X162cm"
+  },
+  {
+    "reason": "Neurovascular devices did not meet the minimum sample size required for endotoxin testing during manufacturing processes and are out of compliance with the AAMI ST72 standard, so these devices may exceed the acceptable limits of endotoxin levels; high levels of endotoxins may increase the risk of fever, shock and aseptic meningitis.",
+    "status": "",
+    "date": "2024-04-23",
+    "product_description": "Trevo Trak 21 Microcatheter, Catalog: 90338"
+  }
+]

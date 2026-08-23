@@ -1,0 +1,35 @@
+{
+  "device_slug": "embolic-coil--microvention--hydrosoft-and-hydrosoft-plus-embolization",
+  "artifact_folder": "embolic-coil--microvention--hydrosoft-and-hydrosoft-plus-embolization",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3217,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--microvention--hydrosoft-and-hydrosoft-plus-embolization.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--hydrosoft-and-hydrosoft-plus-embolization/enriched/embolic-coil--microvention--hydrosoft-and-hydrosoft-plus-embolization.json",
+        "bytes": 1699
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K080666.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--hydrosoft-and-hydrosoft-plus-embolization/fda_raw/HCG/K080666.json",
+        "bytes": 621
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--microvention--hydrosoft-and-hydrosoft-plus-embolization.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--hydrosoft-and-hydrosoft-plus-embolization/merged/embolic-coil--microvention--hydrosoft-and-hydrosoft-plus-embolization.json",
+        "bytes": 897
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

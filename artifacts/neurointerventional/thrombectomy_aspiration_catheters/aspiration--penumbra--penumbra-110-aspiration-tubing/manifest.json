@@ -1,0 +1,47 @@
+{
+  "device_slug": "aspiration--penumbra--penumbra-110-aspiration-tubing",
+  "artifact_folder": "aspiration--penumbra--penumbra-110-aspiration-tubing",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 307174,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/aspiration/parsed/fda_summaries/aspiration--penumbra--penumbra-110-aspiration-tubing--510k.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-110-aspiration-tubing/510k/aspiration/parsed/fda_summaries/aspiration--penumbra--penumbra-110-aspiration-tubing--510k.json",
+        "bytes": 28076
+      },
+      {
+        "source": "pipeline/data/510k/aspiration/pdfs/aspiration--penumbra--penumbra-110-aspiration-tubing--510k.pdf",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-110-aspiration-tubing/510k/aspiration/pdfs/aspiration--penumbra--penumbra-110-aspiration-tubing--510k.pdf",
+        "bytes": 270204
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/aspiration--penumbra--penumbra-110-aspiration-tubing.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-110-aspiration-tubing/enriched/aspiration--penumbra--penumbra-110-aspiration-tubing.json",
+        "bytes": 7472
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NRY/K151623.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-110-aspiration-tubing/fda_raw/NRY/K151623.json",
+        "bytes": 582
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/aspiration--penumbra--penumbra-110-aspiration-tubing.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-110-aspiration-tubing/merged/aspiration--penumbra--penumbra-110-aspiration-tubing.json",
+        "bytes": 840
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "thrombectomy_aspiration_catheters",
+    "label": "Aspiration Catheters"
+  }
+}

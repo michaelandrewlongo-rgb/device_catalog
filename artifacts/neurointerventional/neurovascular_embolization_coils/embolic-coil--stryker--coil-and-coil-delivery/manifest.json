@@ -1,0 +1,21 @@
+{
+  "device_slug": "embolic-coil--stryker--coil-and-coil-delivery",
+  "artifact_folder": "embolic-coil--stryker--coil-and-coil-delivery",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 567,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K891688.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--coil-and-coil-delivery/fda_raw/HCG/K891688.json",
+        "bytes": 567
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

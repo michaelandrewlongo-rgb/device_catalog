@@ -1,0 +1,35 @@
+{
+  "device_slug": "liquid-embolic--cordis--vascular-occlusion-trufill-pushable-coils",
+  "artifact_folder": "liquid-embolic--cordis--vascular-occlusion-trufill-pushable-coils",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3080,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/liquid-embolic--cordis--vascular-occlusion-trufill-pushable-coils.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--cordis--vascular-occlusion-trufill-pushable-coils/enriched/liquid-embolic--cordis--vascular-occlusion-trufill-pushable-coils.json",
+        "bytes": 1510
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K071962.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--cordis--vascular-occlusion-trufill-pushable-coils/fda_raw/HCG/K071962.json",
+        "bytes": 641
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/liquid-embolic--cordis--vascular-occlusion-trufill-pushable-coils.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--cordis--vascular-occlusion-trufill-pushable-coils/merged/liquid-embolic--cordis--vascular-occlusion-trufill-pushable-coils.json",
+        "bytes": 929
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_liquid_embolics",
+    "label": "Onyx, Squid, PHIL"
+  }
+}

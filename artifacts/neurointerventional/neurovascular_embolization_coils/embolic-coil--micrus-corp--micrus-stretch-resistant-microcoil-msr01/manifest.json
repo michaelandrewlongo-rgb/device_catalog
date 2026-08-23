@@ -1,0 +1,35 @@
+{
+  "device_slug": "embolic-coil--micrus-corp--micrus-stretch-resistant-microcoil-msr01",
+  "artifact_folder": "embolic-coil--micrus-corp--micrus-stretch-resistant-microcoil-msr01",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2951,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--micrus-corp--micrus-stretch-resistant-microcoil-msr01.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--micrus-corp--micrus-stretch-resistant-microcoil-msr01/enriched/embolic-coil--micrus-corp--micrus-stretch-resistant-microcoil-msr01.json",
+        "bytes": 1463
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K022420.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--micrus-corp--micrus-stretch-resistant-microcoil-msr01/fda_raw/HCG/K022420.json",
+        "bytes": 606
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--micrus-corp--micrus-stretch-resistant-microcoil-msr01.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--micrus-corp--micrus-stretch-resistant-microcoil-msr01/merged/embolic-coil--micrus-corp--micrus-stretch-resistant-microcoil-msr01.json",
+        "bytes": 882
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

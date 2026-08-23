@@ -1,0 +1,35 @@
+{
+  "device_slug": "embolic-coil--biosphere-medical-inc--embogold-microsphere",
+  "artifact_folder": "embolic-coil--biosphere-medical-inc--embogold-microsphere",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2822,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--biosphere-medical-inc--embogold-microsphere.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--biosphere-medical-inc--embogold-microsphere/enriched/embolic-coil--biosphere-medical-inc--embogold-microsphere.json",
+        "bytes": 1407
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K010026.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--biosphere-medical-inc--embogold-microsphere/fda_raw/HCG/K010026.json",
+        "bytes": 589
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--biosphere-medical-inc--embogold-microsphere.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--biosphere-medical-inc--embogold-microsphere/merged/embolic-coil--biosphere-medical-inc--embogold-microsphere.json",
+        "bytes": 826
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "device_slug": "microcatheter--microvention--wedge-xl-delivery-catheter",
+  "artifact_folder": "microcatheter--microvention--wedge-xl-delivery-catheter",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 2690020,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/microcatheter/parsed/fda_summaries/microcatheter--microvention--wedge-xl-delivery-catheter--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--microvention--wedge-xl-delivery-catheter/510k/microcatheter/parsed/fda_summaries/microcatheter--microvention--wedge-xl-delivery-catheter--510k.json",
+        "bytes": 45701
+      },
+      {
+        "source": "pipeline/data/510k/microcatheter/pdfs/microcatheter--microvention--wedge-xl-delivery-catheter--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--microvention--wedge-xl-delivery-catheter/510k/microcatheter/pdfs/microcatheter--microvention--wedge-xl-delivery-catheter--510k.pdf",
+        "bytes": 2611938
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/microcatheter--microvention--wedge-xl-delivery-catheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--microvention--wedge-xl-delivery-catheter/enriched/microcatheter--microvention--wedge-xl-delivery-catheter.json",
+        "bytes": 30880
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/QJP/K232542.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--microvention--wedge-xl-delivery-catheter/fda_raw/QJP/K232542.json",
+        "bytes": 585
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/microcatheter--microvention--wedge-xl-delivery-catheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--microvention--wedge-xl-delivery-catheter/merged/microcatheter--microvention--wedge-xl-delivery-catheter.json",
+        "bytes": 916
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

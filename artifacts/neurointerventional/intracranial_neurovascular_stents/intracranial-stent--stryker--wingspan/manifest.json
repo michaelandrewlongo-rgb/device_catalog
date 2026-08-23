@@ -1,0 +1,21 @@
+{
+  "device_slug": "intracranial-stent--stryker--wingspan",
+  "artifact_folder": "intracranial-stent--stryker--wingspan",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 2059,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/intracranial-stent--stryker--wingspan--knowledge.md",
+        "artifact": "artifacts/neurointerventional/intracranial_neurovascular_stents/intracranial-stent--stryker--wingspan/data_by_device/intracranial-stent--stryker--wingspan--knowledge.md",
+        "bytes": 2059
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "intracranial_neurovascular_stents",
+    "label": "Intracranial Neurovascular Stents"
+  }
+}

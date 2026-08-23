@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K042539",
+  "clearance_date": "2004-10-19",
+  "device_class": 2,
+  "manufacturer_canonical": "boston-scientific",
+  "manufacturer_raw": "Boston Scientific Corp",
+  "catalog_category": "embolic-coil",
+  "device_name_fda": "GDC-10 360 DEGREE COIL SR; GDC-10 360 DEGREE SOFT COIL SR; GDC-18 360 DEGREE COIL",
+  "product_code": "HCG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "embolic-coil--boston-scientific--gdc-10-360-degree-coil",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf04/K042539.pdf"
+}

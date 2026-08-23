@@ -1,0 +1,54 @@
+{
+  "device_slug": "aspiration--scientia-vascular-inc--socrates-aspiration",
+  "artifact_folder": "aspiration--scientia-vascular-inc--socrates-aspiration",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 655633,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/aspiration/parsed/fda_summaries/aspiration--scientia-vascular-inc--socrates-aspiration--510k.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--scientia-vascular-inc--socrates-aspiration/510k/aspiration/parsed/fda_summaries/aspiration--scientia-vascular-inc--socrates-aspiration--510k.json",
+        "bytes": 85653
+      },
+      {
+        "source": "pipeline/data/510k/aspiration/pdfs/aspiration--scientia-vascular-inc--socrates-aspiration--510k.pdf",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--scientia-vascular-inc--socrates-aspiration/510k/aspiration/pdfs/aspiration--scientia-vascular-inc--socrates-aspiration--510k.pdf",
+        "bytes": 453490
+      }
+    ],
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/aspiration--scientia-vascular-inc--socrates-aspiration--knowledge.md",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--scientia-vascular-inc--socrates-aspiration/data_by_device/aspiration--scientia-vascular-inc--socrates-aspiration--knowledge.md",
+        "bytes": 57660
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/aspiration--scientia-vascular-inc--socrates-aspiration.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--scientia-vascular-inc--socrates-aspiration/enriched/aspiration--scientia-vascular-inc--socrates-aspiration.json",
+        "bytes": 57402
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NRY/K223913.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--scientia-vascular-inc--socrates-aspiration/fda_raw/NRY/K223913.json",
+        "bytes": 595
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/aspiration--scientia-vascular-inc--socrates-aspiration.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--scientia-vascular-inc--socrates-aspiration/merged/aspiration--scientia-vascular-inc--socrates-aspiration.json",
+        "bytes": 833
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "thrombectomy_aspiration_catheters",
+    "label": "Aspiration Catheters"
+  }
+}

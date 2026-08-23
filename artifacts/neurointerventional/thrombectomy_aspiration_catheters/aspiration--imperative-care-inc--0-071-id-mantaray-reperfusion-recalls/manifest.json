@@ -1,0 +1,21 @@
+{
+  "device_slug": "aspiration--imperative-care-inc--0-071-id-mantaray-reperfusion-recalls",
+  "artifact_folder": "aspiration--imperative-care-inc--0-071-id-mantaray-reperfusion-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 389,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/aspiration--imperative-care-inc--0-071-id-mantaray-reperfusion-recalls.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--imperative-care-inc--0-071-id-mantaray-reperfusion-recalls/extracted/fda_safety/aspiration--imperative-care-inc--0-071-id-mantaray-reperfusion-recalls.json",
+        "bytes": 389
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "thrombectomy_aspiration_catheters",
+    "label": "Aspiration Catheters"
+  }
+}

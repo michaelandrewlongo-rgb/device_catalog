@@ -1,0 +1,54 @@
+{
+  "device_slug": "microcatheter--scientia-vascular-inc--plato-17-microcatheter",
+  "artifact_folder": "microcatheter--scientia-vascular-inc--plato-17-microcatheter",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 2755194,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/microcatheter/parsed/fda_summaries/microcatheter--scientia-vascular-inc--plato-17-microcatheter--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--scientia-vascular-inc--plato-17-microcatheter/510k/microcatheter/parsed/fda_summaries/microcatheter--scientia-vascular-inc--plato-17-microcatheter--510k.json",
+        "bytes": 50551
+      },
+      {
+        "source": "pipeline/data/510k/microcatheter/pdfs/microcatheter--scientia-vascular-inc--plato-17-microcatheter--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--scientia-vascular-inc--plato-17-microcatheter/510k/microcatheter/pdfs/microcatheter--scientia-vascular-inc--plato-17-microcatheter--510k.pdf",
+        "bytes": 2634116
+      }
+    ],
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/microcatheter--scientia-vascular-inc--plato-17-microcatheter--knowledge.md",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--scientia-vascular-inc--plato-17-microcatheter/data_by_device/microcatheter--scientia-vascular-inc--plato-17-microcatheter--knowledge.md",
+        "bytes": 34884
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/microcatheter--scientia-vascular-inc--plato-17-microcatheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--scientia-vascular-inc--plato-17-microcatheter/enriched/microcatheter--scientia-vascular-inc--plato-17-microcatheter.json",
+        "bytes": 34209
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/QJP/K223560.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--scientia-vascular-inc--plato-17-microcatheter/fda_raw/QJP/K223560.json",
+        "bytes": 600
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/microcatheter--scientia-vascular-inc--plato-17-microcatheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--scientia-vascular-inc--plato-17-microcatheter/merged/microcatheter--scientia-vascular-inc--plato-17-microcatheter.json",
+        "bytes": 834
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

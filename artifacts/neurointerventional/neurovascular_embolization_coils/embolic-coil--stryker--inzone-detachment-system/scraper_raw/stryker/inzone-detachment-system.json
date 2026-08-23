@@ -1,0 +1,21 @@
+{
+  "device_name": "InZone Detachment System",
+  "manufacturer": "stryker",
+  "category_hint": "embolic-coil",
+  "what_it_is": "Read Now",
+  "sizing_specs": "How to use",
+  "indications": "The InZone Detachment System is intended for use\nwith all versions of Stryker Neurovascular detachable\ncoils in the embolization of intracranial aneurysms\nand other vascular malformations of the neuro and\nperipheral vasculature.",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "source_url": "https://www.stryker.com/us/en/neurovascular/products/inzone-detachment-system.html",
+  "ifu_pdf_url": null,
+  "other_pdf_urls": {
+    "brochure": "https://www.stryker.com/content/dam/stryker/neurovascular/products/inzone-detachment-system/resources/InZone-Brochure-M16a.pdf",
+    "brochure_2": "https://www.stryker.com/content/dam/stryker/neurovascular/products/target-360-detachable-coils/resources/AP003690%20v1.0_Target%20family%20brochure_interactive.pdf",
+    "target_coils_family_dfu_us_mar19": "https://www.stryker.com/content/dam/stryker/neurovascular/products/target-360-detachable-coils/resources/Target-Coils-Family_DFU_US_Mar19.pdf"
+  },
+  "clearance_numbers": []
+}

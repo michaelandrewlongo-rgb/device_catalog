@@ -1,0 +1,47 @@
+{
+  "device_slug": "embolic-coil--penumbra--penumbra-coil-400-ruby-coil",
+  "artifact_folder": "embolic-coil--penumbra--penumbra-coil-400-ruby-coil",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 211984,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/embolic-coil/parsed/fda_summaries/embolic-coil--penumbra--penumbra-coil-400-ruby-coil--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--penumbra--penumbra-coil-400-ruby-coil/510k/embolic-coil/parsed/fda_summaries/embolic-coil--penumbra--penumbra-coil-400-ruby-coil--510k.json",
+        "bytes": 20899
+      },
+      {
+        "source": "pipeline/data/510k/embolic-coil/pdfs/embolic-coil--penumbra--penumbra-coil-400-ruby-coil--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--penumbra--penumbra-coil-400-ruby-coil/510k/embolic-coil/pdfs/embolic-coil--penumbra--penumbra-coil-400-ruby-coil--510k.pdf",
+        "bytes": 184200
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--penumbra--penumbra-coil-400-ruby-coil.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--penumbra--penumbra-coil-400-ruby-coil/enriched/embolic-coil--penumbra--penumbra-coil-400-ruby-coil.json",
+        "bytes": 5436
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K173614.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--penumbra--penumbra-coil-400-ruby-coil/fda_raw/HCG/K173614.json",
+        "bytes": 588
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--penumbra--penumbra-coil-400-ruby-coil.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--penumbra--penumbra-coil-400-ruby-coil/merged/embolic-coil--penumbra--penumbra-coil-400-ruby-coil.json",
+        "bytes": 861
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "device_name": "Tigertriever and Tigertriever 17 Revascularization Devce",
+  "manufacturer": "rapid-medical",
+  "catalog_category": "thrombectomy",
+  "filename_stem": "thrombectomy--rapid-medical--tigertriever-and-tigertriever-17-revascularization",
+  "clearance_type": "510k",
+  "clearance_number": "K203592",
+  "clearance_date": "2021-03-23",
+  "device_class": 2,
+  "device_name_fda": "Tigertriever and Tigertriever 17 Revascularization Devce",
+  "product_code": "NRY",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K203592.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

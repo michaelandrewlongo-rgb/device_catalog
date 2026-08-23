@@ -1,0 +1,35 @@
+{
+  "device_slug": "embolic-coil--microvention--azur-detactable-18-models-45",
+  "artifact_folder": "embolic-coil--microvention--azur-detactable-18-models-45",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3253,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--microvention--azur-detactable-18-models-45.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--azur-detactable-18-models-45/enriched/embolic-coil--microvention--azur-detactable-18-models-45.json",
+        "bytes": 1716
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K090168.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--azur-detactable-18-models-45/fda_raw/HCG/K090168.json",
+        "bytes": 623
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--microvention--azur-detactable-18-models-45.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--azur-detactable-18-models-45/merged/embolic-coil--microvention--azur-detactable-18-models-45.json",
+        "bytes": 914
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

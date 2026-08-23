@@ -1,0 +1,21 @@
+{
+  "device_slug": "guide-catheter--microvention--bobby",
+  "artifact_folder": "guide-catheter--microvention--bobby",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 441,
+  "sources": {
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/microvention/bobbytm.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/guide-catheter--microvention--bobby/scraper_raw/microvention/bobbytm.json",
+        "bytes": 441
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_access_catheters",
+    "label": "Access, Guide, Delivery Catheters"
+  }
+}

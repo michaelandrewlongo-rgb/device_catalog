@@ -1,0 +1,35 @@
+{
+  "device_slug": "embolic-coil--boston-scientific-target--guglielmi-detachable-gdc",
+  "artifact_folder": "embolic-coil--boston-scientific-target--guglielmi-detachable-gdc",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3089,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--boston-scientific-target--guglielmi-detachable-gdc.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific-target--guglielmi-detachable-gdc/enriched/embolic-coil--boston-scientific-target--guglielmi-detachable-gdc.json",
+        "bytes": 1634
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K991139.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific-target--guglielmi-detachable-gdc/fda_raw/HCG/K991139.json",
+        "bytes": 607
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--boston-scientific-target--guglielmi-detachable-gdc.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific-target--guglielmi-detachable-gdc/merged/embolic-coil--boston-scientific-target--guglielmi-detachable-gdc.json",
+        "bytes": 848
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "device_slug": "embolic-coil--cerenovus--orbit-galaxy-g2-microcoil-delivery",
+  "artifact_folder": "embolic-coil--cerenovus--orbit-galaxy-g2-microcoil-delivery",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 7,
+  "bytes": 373542,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/embolic-coil/parsed/documents/embolic-coil--cerenovus--orbit-galaxy-g2-microcoil-delivery--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cerenovus--orbit-galaxy-g2-microcoil-delivery/510k/embolic-coil/parsed/documents/embolic-coil--cerenovus--orbit-galaxy-g2-microcoil-delivery--510k.json",
+        "bytes": 5763
+      },
+      {
+        "source": "pipeline/data/510k/embolic-coil/parsed/fda_summaries/embolic-coil--cerenovus--orbit-galaxy-g2-microcoil-delivery--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cerenovus--orbit-galaxy-g2-microcoil-delivery/510k/embolic-coil/parsed/fda_summaries/embolic-coil--cerenovus--orbit-galaxy-g2-microcoil-delivery--510k.json",
+        "bytes": 10379
+      },
+      {
+        "source": "pipeline/data/510k/embolic-coil/pdfs/embolic-coil--cerenovus--orbit-galaxy-g2-microcoil-delivery--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cerenovus--orbit-galaxy-g2-microcoil-delivery/510k/embolic-coil/pdfs/embolic-coil--cerenovus--orbit-galaxy-g2-microcoil-delivery--510k.pdf",
+        "bytes": 351280
+      }
+    ],
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/embolic-coil--cerenovus--orbit-galaxy-g2-microcoil-delivery--knowledge.md",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cerenovus--orbit-galaxy-g2-microcoil-delivery/data_by_device/embolic-coil--cerenovus--orbit-galaxy-g2-microcoil-delivery--knowledge.md",
+        "bytes": 1637
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--cerenovus--orbit-galaxy-g2-microcoil-delivery.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cerenovus--orbit-galaxy-g2-microcoil-delivery/enriched/embolic-coil--cerenovus--orbit-galaxy-g2-microcoil-delivery.json",
+        "bytes": 3024
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K120686.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cerenovus--orbit-galaxy-g2-microcoil-delivery/fda_raw/HCG/K120686.json",
+        "bytes": 601
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--cerenovus--orbit-galaxy-g2-microcoil-delivery.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cerenovus--orbit-galaxy-g2-microcoil-delivery/merged/embolic-coil--cerenovus--orbit-galaxy-g2-microcoil-delivery.json",
+        "bytes": 858
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

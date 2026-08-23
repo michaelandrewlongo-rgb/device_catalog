@@ -1,0 +1,47 @@
+{
+  "device_slug": "aspiration--inneuroco-inc--046-zenith-flex",
+  "artifact_folder": "aspiration--inneuroco-inc--046-zenith-flex",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 624966,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/aspiration/parsed/fda_summaries/aspiration--inneuroco-inc--046-zenith-flex--510k.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--inneuroco-inc--046-zenith-flex/510k/aspiration/parsed/fda_summaries/aspiration--inneuroco-inc--046-zenith-flex--510k.json",
+        "bytes": 80597
+      },
+      {
+        "source": "pipeline/data/510k/aspiration/pdfs/aspiration--inneuroco-inc--046-zenith-flex--510k.pdf",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--inneuroco-inc--046-zenith-flex/510k/aspiration/pdfs/aspiration--inneuroco-inc--046-zenith-flex--510k.pdf",
+        "bytes": 532169
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/aspiration--inneuroco-inc--046-zenith-flex.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--inneuroco-inc--046-zenith-flex/enriched/aspiration--inneuroco-inc--046-zenith-flex.json",
+        "bytes": 10853
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NRY/K190338.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--inneuroco-inc--046-zenith-flex/fda_raw/NRY/K190338.json",
+        "bytes": 556
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/aspiration--inneuroco-inc--046-zenith-flex.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--inneuroco-inc--046-zenith-flex/merged/aspiration--inneuroco-inc--046-zenith-flex.json",
+        "bytes": 791
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "thrombectomy_aspiration_catheters",
+    "label": "Aspiration Catheters"
+  }
+}

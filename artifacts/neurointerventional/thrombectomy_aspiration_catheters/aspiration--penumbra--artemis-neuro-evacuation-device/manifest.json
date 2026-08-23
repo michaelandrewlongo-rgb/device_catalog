@@ -1,0 +1,42 @@
+{
+  "device_slug": "aspiration--penumbra--artemis-neuro-evacuation-device",
+  "artifact_folder": "aspiration--penumbra--artemis-neuro-evacuation-device",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 14656,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/aspiration--penumbra--artemis-neuro-evacuation-device--knowledge.md",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--artemis-neuro-evacuation-device/data_by_device/aspiration--penumbra--artemis-neuro-evacuation-device--knowledge.md",
+        "bytes": 4545
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/aspiration--penumbra--artemis-neuro-evacuation-device.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--artemis-neuro-evacuation-device/enriched/aspiration--penumbra--artemis-neuro-evacuation-device.json",
+        "bytes": 3857
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/aspiration--penumbra--artemis-neuro-evacuation-device.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--artemis-neuro-evacuation-device/merged/aspiration--penumbra--artemis-neuro-evacuation-device.json",
+        "bytes": 3289
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/penumbra/artemis-neuro-evacuation-device.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--artemis-neuro-evacuation-device/scraper_raw/penumbra/artemis-neuro-evacuation-device.json",
+        "bytes": 2965
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "thrombectomy_aspiration_catheters",
+    "label": "Aspiration Catheters"
+  }
+}

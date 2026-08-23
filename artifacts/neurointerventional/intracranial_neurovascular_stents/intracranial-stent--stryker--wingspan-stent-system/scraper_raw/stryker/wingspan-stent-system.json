@@ -1,0 +1,19 @@
+{
+  "device_name": "Wingspan Stent System",
+  "manufacturer": "stryker",
+  "category_hint": "intracranial-stent",
+  "what_it_is": "Read Now",
+  "sizing_specs": "4.50 mm; 14 mm; 2 mm; 3 mm; 2.5 mm; 4.5 mm",
+  "indications": "/ indications for use\nThe Wingspan Stent System with Gateway PTA Balloon\nCatheter is Authorized by Federal law for use in\nimproving cerebral artery lumen diameter in patients\n22 to 80 years old with recurrent (2 or more) strokes\nrefractory to a comprehensive regimen of medical therapy\nand due to atherosclerotic disease of intracranial vessels\nwith 70-99% stenosis that are accessible to the system.\nThe most recent stroke must have occurred more than 7\ndays prior to treatment with the Wingspan Stent System.\nPatients are eligible for treatment with the Wingspan\nStent System if their Modified Rankin Score (mRS) is 3 or\nless at the time of treatment.",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "source_url": "https://www.stryker.com/us/en/neurovascular/products/wingspan-stent-system.html",
+  "ifu_pdf_url": null,
+  "other_pdf_urls": {
+    "wingspan_gateway_dfu_us_mar19": "https://www.stryker.com/content/dam/stryker/neurovascular/products/wingspan-stent-system/resources/Wingspan-Gateway_DFU_US_Mar19.pdf"
+  },
+  "clearance_numbers": []
+}

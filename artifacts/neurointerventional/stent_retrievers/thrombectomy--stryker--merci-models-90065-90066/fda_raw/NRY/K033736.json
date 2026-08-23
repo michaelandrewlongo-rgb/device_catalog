@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K033736",
+  "clearance_date": "2004-08-11",
+  "device_class": 2,
+  "manufacturer_canonical": "stryker",
+  "manufacturer_raw": "Concentric Medical, Inc.",
+  "catalog_category": "thrombectomy",
+  "device_name_fda": "MERCI RETRIEVER, MODELS 90065, 90066",
+  "product_code": "NRY",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "thrombectomy--stryker--merci-models-90065-90066",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf03/K033736.pdf"
+}

@@ -1,0 +1,21 @@
+{
+  "device_slug": "embolic-coil--stryker--target-tetra-detachable-coil",
+  "artifact_folder": "embolic-coil--stryker--target-tetra-detachable-coil",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 908,
+  "sources": {
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/stryker/target-tetra-r-detachable-coil.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--target-tetra-detachable-coil/scraper_raw/stryker/target-tetra-r-detachable-coil.json",
+        "bytes": 908
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

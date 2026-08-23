@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K983483",
+  "clearance_date": "1999-03-24",
+  "device_class": 2,
+  "manufacturer_canonical": "cordis",
+  "manufacturer_raw": "Cordis Neurovascular, Inc.",
+  "catalog_category": "embolic-coil",
+  "device_name_fda": "VASCULAR OCCLUSION SYSTEM",
+  "product_code": "HCG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "embolic-coil--cordis--vascular-occlusion",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf98/K983483.pdf"
+}

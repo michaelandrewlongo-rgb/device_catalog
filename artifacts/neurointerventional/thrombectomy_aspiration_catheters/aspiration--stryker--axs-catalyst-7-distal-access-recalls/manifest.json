@@ -1,0 +1,21 @@
+{
+  "device_slug": "aspiration--stryker--axs-catalyst-7-distal-access-recalls",
+  "artifact_folder": "aspiration--stryker--axs-catalyst-7-distal-access-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 7639,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/aspiration--stryker--axs-catalyst-7-distal-access-recalls.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--stryker--axs-catalyst-7-distal-access-recalls/extracted/fda_safety/aspiration--stryker--axs-catalyst-7-distal-access-recalls.json",
+        "bytes": 7639
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "thrombectomy_aspiration_catheters",
+    "label": "Aspiration Catheters"
+  }
+}

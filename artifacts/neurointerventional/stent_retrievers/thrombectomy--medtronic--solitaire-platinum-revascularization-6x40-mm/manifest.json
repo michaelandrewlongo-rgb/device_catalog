@@ -1,0 +1,47 @@
+{
+  "device_slug": "thrombectomy--medtronic--solitaire-platinum-revascularization-6x40-mm",
+  "artifact_folder": "thrombectomy--medtronic--solitaire-platinum-revascularization-6x40-mm",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 298621,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/thrombectomy/parsed/fda_summaries/thrombectomy--medtronic--solitaire-platinum-revascularization-6x40-mm--510k.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--solitaire-platinum-revascularization-6x40-mm/510k/thrombectomy/parsed/fda_summaries/thrombectomy--medtronic--solitaire-platinum-revascularization-6x40-mm--510k.json",
+        "bytes": 85416
+      },
+      {
+        "source": "pipeline/data/510k/thrombectomy/pdfs/thrombectomy--medtronic--solitaire-platinum-revascularization-6x40-mm--510k.pdf",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--solitaire-platinum-revascularization-6x40-mm/510k/thrombectomy/pdfs/thrombectomy--medtronic--solitaire-platinum-revascularization-6x40-mm--510k.pdf",
+        "bytes": 180300
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/thrombectomy--medtronic--solitaire-platinum-revascularization-6x40-mm.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--solitaire-platinum-revascularization-6x40-mm/enriched/thrombectomy--medtronic--solitaire-platinum-revascularization-6x40-mm.json",
+        "bytes": 31364
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NRY/K160641.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--solitaire-platinum-revascularization-6x40-mm/fda_raw/NRY/K160641.json",
+        "bytes": 651
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/thrombectomy--medtronic--solitaire-platinum-revascularization-6x40-mm.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--solitaire-platinum-revascularization-6x40-mm/merged/thrombectomy--medtronic--solitaire-platinum-revascularization-6x40-mm.json",
+        "bytes": 890
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "stent_retrievers",
+    "label": "Stent Retrievers"
+  }
+}

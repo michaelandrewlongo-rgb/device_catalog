@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K161452",
+  "clearance_date": "2016-08-31",
+  "device_class": 2,
+  "manufacturer_canonical": "microvention",
+  "manufacturer_raw": "MicroVention, Inc.",
+  "catalog_category": "embolic-coil",
+  "device_name_fda": "MicroPlex Coil System (MCS) - HyperSoft 3D",
+  "product_code": "HCG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "embolic-coil--microvention--microplex-coil-mcs-hypersoft-3d",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf16/K161452.pdf"
+}

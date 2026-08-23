@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K153053",
+  "clearance_date": "2015-12-29",
+  "device_class": 2,
+  "manufacturer_canonical": "microvention",
+  "manufacturer_raw": "MicroVention, Inc.",
+  "catalog_category": "guidewire",
+  "device_name_fda": "Traxcess Pro 14 Guidewire",
+  "product_code": "MOF",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "guidewire--microvention--traxcess-pro-14-guidewire",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf15/K153053.pdf"
+}

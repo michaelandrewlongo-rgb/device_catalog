@@ -1,0 +1,49 @@
+{
+  "device_slug": "aspiration--balt--hybrid",
+  "artifact_folder": "aspiration--balt--hybrid",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 6803,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/aspiration--balt--hybrid--knowledge.md",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--balt--hybrid/data_by_device/aspiration--balt--hybrid--knowledge.md",
+        "bytes": 1844
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/aspiration--balt--hybrid.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--balt--hybrid/enriched/aspiration--balt--hybrid.json",
+        "bytes": 2051
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/aspiration--balt--hybrid.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--balt--hybrid/extracted/fda_structured/aspiration--balt--hybrid.json",
+        "bytes": 813
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/aspiration--balt--hybrid.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--balt--hybrid/merged/aspiration--balt--hybrid.json",
+        "bytes": 1149
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/balt/hybrid.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--balt--hybrid/scraper_raw/balt/hybrid.json",
+        "bytes": 946
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "thrombectomy_aspiration_catheters",
+    "label": "Aspiration Catheters"
+  }
+}

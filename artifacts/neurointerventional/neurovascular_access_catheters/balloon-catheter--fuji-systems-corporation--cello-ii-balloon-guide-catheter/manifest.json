@@ -1,0 +1,47 @@
+{
+  "device_slug": "balloon-catheter--fuji-systems-corporation--cello-ii-balloon-guide-catheter",
+  "artifact_folder": "balloon-catheter--fuji-systems-corporation--cello-ii-balloon-guide-catheter",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 631362,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/balloon-catheter/parsed/fda_summaries/balloon-catheter--fuji-systems-corporation--cello-ii-balloon-guide-catheter--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/balloon-catheter--fuji-systems-corporation--cello-ii-balloon-guide-catheter/510k/balloon-catheter/parsed/fda_summaries/balloon-catheter--fuji-systems-corporation--cello-ii-balloon-guide-catheter--510k.json",
+        "bytes": 64374
+      },
+      {
+        "source": "pipeline/data/510k/balloon-catheter/pdfs/balloon-catheter--fuji-systems-corporation--cello-ii-balloon-guide-catheter--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/balloon-catheter--fuji-systems-corporation--cello-ii-balloon-guide-catheter/510k/balloon-catheter/pdfs/balloon-catheter--fuji-systems-corporation--cello-ii-balloon-guide-catheter--510k.pdf",
+        "bytes": 522221
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/balloon-catheter--fuji-systems-corporation--cello-ii-balloon-guide-catheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/balloon-catheter--fuji-systems-corporation--cello-ii-balloon-guide-catheter/enriched/balloon-catheter--fuji-systems-corporation--cello-ii-balloon-guide-catheter.json",
+        "bytes": 43263
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/QJP/K223275.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/balloon-catheter--fuji-systems-corporation--cello-ii-balloon-guide-catheter/fda_raw/QJP/K223275.json",
+        "bytes": 631
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/balloon-catheter--fuji-systems-corporation--cello-ii-balloon-guide-catheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/balloon-catheter--fuji-systems-corporation--cello-ii-balloon-guide-catheter/merged/balloon-catheter--fuji-systems-corporation--cello-ii-balloon-guide-catheter.json",
+        "bytes": 873
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_access_catheters",
+    "label": "Access, Guide, Delivery Catheters"
+  }
+}

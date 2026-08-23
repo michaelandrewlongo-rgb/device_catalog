@@ -1,0 +1,35 @@
+{
+  "device_slug": "embolic-coil--micrus-endovascular-corporation--micrus-microcoil-deltapaq-10-stretch",
+  "artifact_folder": "embolic-coil--micrus-endovascular-corporation--micrus-microcoil-deltapaq-10-stretch",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3108,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--micrus-endovascular-corporation--micrus-microcoil-deltapaq-10-stretch.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--micrus-endovascular-corporation--micrus-microcoil-deltapaq-10-stretch/enriched/embolic-coil--micrus-endovascular-corporation--micrus-microcoil-deltapaq-10-stretch.json",
+        "bytes": 1511
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K080379.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--micrus-endovascular-corporation--micrus-microcoil-deltapaq-10-stretch/fda_raw/HCG/K080379.json",
+        "bytes": 667
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--micrus-endovascular-corporation--micrus-microcoil-deltapaq-10-stretch.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--micrus-endovascular-corporation--micrus-microcoil-deltapaq-10-stretch/merged/embolic-coil--micrus-endovascular-corporation--micrus-microcoil-deltapaq-10-stretch.json",
+        "bytes": 930
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

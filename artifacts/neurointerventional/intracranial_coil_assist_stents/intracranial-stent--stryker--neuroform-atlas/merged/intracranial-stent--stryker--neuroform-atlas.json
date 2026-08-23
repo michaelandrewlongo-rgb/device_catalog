@@ -1,0 +1,28 @@
+{
+  "device_name": "Neuroform Atlas",
+  "manufacturer": "stryker",
+  "catalog_category": "intracranial-stent",
+  "filename_stem": "intracranial-stent--stryker--neuroform-atlas",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "Read Now",
+  "sizing_specs": "Specifications",
+  "indications": "Target Detachable Coils family",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": "https://www.stryker.com/content/dam/stryker/neurovascular/products/neuroform-atlas-stent-system/resources/Neuroform_Atlas_IFU_US_03-13-2025.pdf",
+  "source_url": "https://www.stryker.com/us/en/neurovascular/products/neuroform-atlas-stent-system.html",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ]
+}

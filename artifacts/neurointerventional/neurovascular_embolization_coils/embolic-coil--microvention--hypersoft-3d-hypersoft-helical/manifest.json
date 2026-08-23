@@ -1,0 +1,21 @@
+{
+  "device_slug": "embolic-coil--microvention--hypersoft-3d-hypersoft-helical",
+  "artifact_folder": "embolic-coil--microvention--hypersoft-3d-hypersoft-helical",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 526,
+  "sources": {
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/microvention/hypersofttm-3d-hypersofttm-helical.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--hypersoft-3d-hypersoft-helical/scraper_raw/microvention/hypersofttm-3d-hypersofttm-helical.json",
+        "bytes": 526
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

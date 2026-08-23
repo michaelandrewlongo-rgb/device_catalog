@@ -1,0 +1,42 @@
+{
+  "device_slug": "microcatheter--stryker--excelsior-1018",
+  "artifact_folder": "microcatheter--stryker--excelsior-1018",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3713,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/microcatheter--stryker--excelsior-1018.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--excelsior-1018/enriched/microcatheter--stryker--excelsior-1018.json",
+        "bytes": 1581
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/microcatheter--stryker--excelsior-1018.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--excelsior-1018/extracted/fda_structured/microcatheter--stryker--excelsior-1018.json",
+        "bytes": 555
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/microcatheter--stryker--excelsior-1018.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--excelsior-1018/merged/microcatheter--stryker--excelsior-1018.json",
+        "bytes": 839
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/stryker/excelsior-1018.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--excelsior-1018/scraper_raw/stryker/excelsior-1018.json",
+        "bytes": 738
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

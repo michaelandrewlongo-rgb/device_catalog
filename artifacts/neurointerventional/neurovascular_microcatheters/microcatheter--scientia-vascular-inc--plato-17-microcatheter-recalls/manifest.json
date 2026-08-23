@@ -1,0 +1,21 @@
+{
+  "device_slug": "microcatheter--scientia-vascular-inc--plato-17-microcatheter-recalls",
+  "artifact_folder": "microcatheter--scientia-vascular-inc--plato-17-microcatheter-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 518,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/microcatheter--scientia-vascular-inc--plato-17-microcatheter-recalls.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--scientia-vascular-inc--plato-17-microcatheter-recalls/extracted/fda_safety/microcatheter--scientia-vascular-inc--plato-17-microcatheter-recalls.json",
+        "bytes": 518
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "source": "fda_udi",
+  "brand_name": "Esperance 3+ Aspiration Catheter System",
+  "extraction_method": "fda_udi_api",
+  "fields": {
+    "what_it_is": "The Esperance® 3+ Aspiration Catheter is a single-use, vascular catheter consisting of a single lumen, variable stiffness, composite catheter.",
+    "sizing_specs": "Model: ASP3F160KIT",
+    "use_notes": "MRI: Labeling does not contain MRI Safety Information. Pre-sterilized. Single-use",
+    "also_known_as": [
+      "Esperance 3+ Aspiration Catheter System",
+      "Thrombectomy suction catheter"
+    ]
+  },
+  "confidence": {
+    "what_it_is": 0.85,
+    "sizing_specs": 0.85,
+    "use_notes": 0.85,
+    "also_known_as": 0.85
+  }
+}

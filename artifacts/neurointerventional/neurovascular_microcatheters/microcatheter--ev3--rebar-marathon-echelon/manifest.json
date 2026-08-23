@@ -1,0 +1,26 @@
+{
+  "device_slug": "microcatheter--ev3--rebar-marathon-echelon",
+  "artifact_folder": "microcatheter--ev3--rebar-marathon-echelon",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 2,
+  "bytes": 209867,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/microcatheter/parsed/documents/microcatheter--ev3--rebar-marathon-echelon--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--ev3--rebar-marathon-echelon/510k/microcatheter/parsed/documents/microcatheter--ev3--rebar-marathon-echelon--510k.json",
+        "bytes": 2638
+      },
+      {
+        "source": "pipeline/data/510k/microcatheter/pdfs/microcatheter--ev3--rebar-marathon-echelon--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--ev3--rebar-marathon-echelon/510k/microcatheter/pdfs/microcatheter--ev3--rebar-marathon-echelon--510k.pdf",
+        "bytes": 207229
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

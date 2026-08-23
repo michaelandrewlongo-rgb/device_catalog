@@ -1,0 +1,35 @@
+{
+  "device_slug": "embolic-coil--micrus-endovascular-corporation--micrus-microcoil-deltapaq-10-cerecyte",
+  "artifact_folder": "embolic-coil--micrus-endovascular-corporation--micrus-microcoil-deltapaq-10-cerecyte",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3121,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--micrus-endovascular-corporation--micrus-microcoil-deltapaq-10-cerecyte.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--micrus-endovascular-corporation--micrus-microcoil-deltapaq-10-cerecyte/enriched/embolic-coil--micrus-endovascular-corporation--micrus-microcoil-deltapaq-10-cerecyte.json",
+        "bytes": 1516
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K080437.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--micrus-endovascular-corporation--micrus-microcoil-deltapaq-10-cerecyte/fda_raw/HCG/K080437.json",
+        "bytes": 670
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--micrus-endovascular-corporation--micrus-microcoil-deltapaq-10-cerecyte.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--micrus-endovascular-corporation--micrus-microcoil-deltapaq-10-cerecyte/merged/embolic-coil--micrus-endovascular-corporation--micrus-microcoil-deltapaq-10-cerecyte.json",
+        "bytes": 935
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

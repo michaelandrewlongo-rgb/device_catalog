@@ -1,0 +1,62 @@
+{
+  "device_name": "PENUMBRA COIL SYSTEM/PENUMBRA COIL 400",
+  "manufacturer": "penumbra",
+  "catalog_category": "embolic-coil",
+  "filename_stem": "embolic-coil--penumbra--penumbra-coil-penumbra-coil-400",
+  "clearance_type": "510k",
+  "clearance_number": "K120330",
+  "clearance_date": "2012-04-02",
+  "device_class": 2,
+  "device_name_fda": "PENUMBRA COIL SYSTEM/PENUMBRA COIL 400",
+  "product_code": "HCG",
+  "what_it_is": "PC400 is a .020-inch coil designed for aneurysms and fistulas; comes in complex and helical shapes",
+  "sizing_specs": "Materials: Stretch-resistant bare platinum",
+  "indications": "Indications for Use\n5 10(k) Number (if known): K120330\nDevice Name: Penumbra Coil System\nIndications For Use:\nThe Penumbra Coil System is indicated for the embolization of:\n- Intracramial aneurysms\n- Other neurovascular abnormalities such as arteriovenous malformations and\narteriovenous fistulae\n- Arterial and venous embolizations in the peripheral vasculature\nPrescription Use ___X__ AND/OR Over-The-Counter Use\n___\n(Part 21 CFR 801 Subpart D) (21 CFR 807 Subpart C)\n(PLEASE DO NOT WRITE BELOW LINE-CONTINUE ON ANOTHER PAGE IF NEEDED)\nConcurrence of CDRH, Office of Device Evaluation (ODE)\nPage Iloft\n(Division Sign-Off)\nDivision of Ophthalmic, Neurological and Ear,\nNose and Throat Devices>\n5 10 (k) Number.__2_____0__",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "Method of Detachment: Instant mechanical detachment\nCoil Type: Complex standard, complex soft, curve extra soft, complex extra soft\n\n[FDA RECALL] 1 active recall(s).\n  - The diameter of a component of the device is out of tolerance specification; the Delivery Pusher pull wire which secures the coil in place can prolapse and allow premature detachment of the coil.",
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf12/K120330.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "sizing_specs": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "indications": {
+      "source": "fda_summary",
+      "confidence": 0.95
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "also_known_as": {
+      "source": "none",
+      "confidence": 0
+    },
+    "_safety": {
+      "source": "fda_maude+recalls",
+      "confidence": 0.85
+    }
+  }
+}

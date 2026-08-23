@@ -1,0 +1,35 @@
+{
+  "device_slug": "embolic-coil--interventional-therapeutics-corp--itc-contour-emboli-modification",
+  "artifact_folder": "embolic-coil--interventional-therapeutics-corp--itc-contour-emboli-modification",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2991,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--interventional-therapeutics-corp--itc-contour-emboli-modification.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--interventional-therapeutics-corp--itc-contour-emboli-modification/enriched/embolic-coil--interventional-therapeutics-corp--itc-contour-emboli-modification.json",
+        "bytes": 1464
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K914866.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--interventional-therapeutics-corp--itc-contour-emboli-modification/fda_raw/HCG/K914866.json",
+        "bytes": 644
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--interventional-therapeutics-corp--itc-contour-emboli-modification.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--interventional-therapeutics-corp--itc-contour-emboli-modification/merged/embolic-coil--interventional-therapeutics-corp--itc-contour-emboli-modification.json",
+        "bytes": 883
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "device_slug": "liquid-embolic--cordis--trufill-dcs-orbit-detachable-coil",
+  "artifact_folder": "liquid-embolic--cordis--trufill-dcs-orbit-detachable-coil",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 5236,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/liquid-embolic--cordis--trufill-dcs-orbit-detachable-coil.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--cordis--trufill-dcs-orbit-detachable-coil/enriched/liquid-embolic--cordis--trufill-dcs-orbit-detachable-coil.json",
+        "bytes": 1588
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K030963.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--cordis--trufill-dcs-orbit-detachable-coil/fda_raw/HCG/K030963.json",
+        "bytes": 676
+      },
+      {
+        "source": "pipeline/data/fda_raw/HCG/K032553.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--cordis--trufill-dcs-orbit-detachable-coil/fda_raw/HCG/K032553.json",
+        "bytes": 672
+      },
+      {
+        "source": "pipeline/data/fda_raw/HCG/K053197.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--cordis--trufill-dcs-orbit-detachable-coil/fda_raw/HCG/K053197.json",
+        "bytes": 614
+      },
+      {
+        "source": "pipeline/data/fda_raw/HCG/K080967.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--cordis--trufill-dcs-orbit-detachable-coil/fda_raw/HCG/K080967.json",
+        "bytes": 679
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/liquid-embolic--cordis--trufill-dcs-orbit-detachable-coil.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--cordis--trufill-dcs-orbit-detachable-coil/merged/liquid-embolic--cordis--trufill-dcs-orbit-detachable-coil.json",
+        "bytes": 1007
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_liquid_embolics",
+    "label": "Onyx, Squid, PHIL"
+  }
+}

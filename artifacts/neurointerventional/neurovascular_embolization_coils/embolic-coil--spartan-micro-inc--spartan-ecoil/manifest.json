@@ -1,0 +1,59 @@
+{
+  "device_slug": "embolic-coil--spartan-micro-inc--spartan-ecoil",
+  "artifact_folder": "embolic-coil--spartan-micro-inc--spartan-ecoil",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 7,
+  "bytes": 2236327,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/embolic-coil/parsed/documents/embolic-coil--spartan-micro-inc--spartan-ecoil--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--spartan-micro-inc--spartan-ecoil/510k/embolic-coil/parsed/documents/embolic-coil--spartan-micro-inc--spartan-ecoil--510k.json",
+        "bytes": 4310
+      },
+      {
+        "source": "pipeline/data/510k/embolic-coil/parsed/fda_summaries/embolic-coil--spartan-micro-inc--spartan-ecoil--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--spartan-micro-inc--spartan-ecoil/510k/embolic-coil/parsed/fda_summaries/embolic-coil--spartan-micro-inc--spartan-ecoil--510k.json",
+        "bytes": 94773
+      },
+      {
+        "source": "pipeline/data/510k/embolic-coil/pdfs/embolic-coil--spartan-micro-inc--spartan-ecoil--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--spartan-micro-inc--spartan-ecoil/510k/embolic-coil/pdfs/embolic-coil--spartan-micro-inc--spartan-ecoil--510k.pdf",
+        "bytes": 2070028
+      }
+    ],
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/embolic-coil--spartan-micro-inc--spartan-ecoil--knowledge.md",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--spartan-micro-inc--spartan-ecoil/data_by_device/embolic-coil--spartan-micro-inc--spartan-ecoil--knowledge.md",
+        "bytes": 3677
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--spartan-micro-inc--spartan-ecoil.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--spartan-micro-inc--spartan-ecoil/enriched/embolic-coil--spartan-micro-inc--spartan-ecoil.json",
+        "bytes": 62158
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K180653.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--spartan-micro-inc--spartan-ecoil/fda_raw/HCG/K180653.json",
+        "bytes": 570
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--spartan-micro-inc--spartan-ecoil.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--spartan-micro-inc--spartan-ecoil/merged/embolic-coil--spartan-micro-inc--spartan-ecoil.json",
+        "bytes": 811
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

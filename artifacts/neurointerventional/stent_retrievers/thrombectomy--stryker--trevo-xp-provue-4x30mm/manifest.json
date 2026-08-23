@@ -1,0 +1,21 @@
+{
+  "device_slug": "thrombectomy--stryker--trevo-xp-provue-4x30mm",
+  "artifact_folder": "thrombectomy--stryker--trevo-xp-provue-4x30mm",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 582,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NRY/K150616.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--trevo-xp-provue-4x30mm/fda_raw/NRY/K150616.json",
+        "bytes": 582
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "stent_retrievers",
+    "label": "Stent Retrievers"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "device_slug": "aspiration--imperative-care-inc--zoom-7x-catheter-zoom-aspiration",
+  "artifact_folder": "aspiration--imperative-care-inc--zoom-7x-catheter-zoom-aspiration",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 2770598,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/aspiration/parsed/fda_summaries/aspiration--imperative-care-inc--zoom-7x-catheter-zoom-aspiration--510k.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--imperative-care-inc--zoom-7x-catheter-zoom-aspiration/510k/aspiration/parsed/fda_summaries/aspiration--imperative-care-inc--zoom-7x-catheter-zoom-aspiration--510k.json",
+        "bytes": 40337
+      },
+      {
+        "source": "pipeline/data/510k/aspiration/pdfs/aspiration--imperative-care-inc--zoom-7x-catheter-zoom-aspiration--510k.pdf",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--imperative-care-inc--zoom-7x-catheter-zoom-aspiration/510k/aspiration/pdfs/aspiration--imperative-care-inc--zoom-7x-catheter-zoom-aspiration--510k.pdf",
+        "bytes": 2716333
+      }
+    ],
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/aspiration--imperative-care-inc--zoom-7x-catheter-zoom-aspiration--knowledge.md",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--imperative-care-inc--zoom-7x-catheter-zoom-aspiration/data_by_device/aspiration--imperative-care-inc--zoom-7x-catheter-zoom-aspiration--knowledge.md",
+        "bytes": 3635
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/aspiration--imperative-care-inc--zoom-7x-catheter-zoom-aspiration.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--imperative-care-inc--zoom-7x-catheter-zoom-aspiration/enriched/aspiration--imperative-care-inc--zoom-7x-catheter-zoom-aspiration.json",
+        "bytes": 8723
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NRY/K243047.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--imperative-care-inc--zoom-7x-catheter-zoom-aspiration/fda_raw/NRY/K243047.json",
+        "bytes": 644
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/aspiration--imperative-care-inc--zoom-7x-catheter-zoom-aspiration.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--imperative-care-inc--zoom-7x-catheter-zoom-aspiration/merged/aspiration--imperative-care-inc--zoom-7x-catheter-zoom-aspiration.json",
+        "bytes": 926
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "thrombectomy_aspiration_catheters",
+    "label": "Aspiration Catheters"
+  }
+}

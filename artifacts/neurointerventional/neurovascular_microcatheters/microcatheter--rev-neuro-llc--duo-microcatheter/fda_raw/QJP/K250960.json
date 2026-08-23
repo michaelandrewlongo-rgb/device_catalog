@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K250960",
+  "clearance_date": "2025-09-08",
+  "device_class": 2,
+  "manufacturer_canonical": "rev-neuro-llc",
+  "manufacturer_raw": "Rev Neuro, LLC",
+  "catalog_category": "microcatheter",
+  "device_name_fda": "DUO Microcatheter",
+  "product_code": "QJP",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "microcatheter--rev-neuro-llc--duo-microcatheter",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf25/K250960.pdf"
+}

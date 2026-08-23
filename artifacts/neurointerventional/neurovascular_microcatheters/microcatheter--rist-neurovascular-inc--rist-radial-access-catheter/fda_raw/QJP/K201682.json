@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K201682",
+  "clearance_date": "2020-09-28",
+  "device_class": 2,
+  "manufacturer_canonical": "rist-neurovascular-inc",
+  "manufacturer_raw": "Rist Neurovascular, Inc.",
+  "catalog_category": "microcatheter",
+  "device_name_fda": "RIST Radial Access Catheter",
+  "product_code": "QJP",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "microcatheter--rist-neurovascular-inc--rist-radial-access-catheter",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K201682.pdf"
+}

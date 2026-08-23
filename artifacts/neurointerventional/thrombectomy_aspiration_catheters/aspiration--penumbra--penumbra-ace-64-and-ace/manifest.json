@@ -1,0 +1,54 @@
+{
+  "device_slug": "aspiration--penumbra--penumbra-ace-64-and-ace",
+  "artifact_folder": "aspiration--penumbra--penumbra-ace-64-and-ace",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 208268,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/aspiration/parsed/fda_summaries/aspiration--penumbra--penumbra-ace-64-and-ace--510k.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-ace-64-and-ace/510k/aspiration/parsed/fda_summaries/aspiration--penumbra--penumbra-ace-64-and-ace--510k.json",
+        "bytes": 26337
+      },
+      {
+        "source": "pipeline/data/510k/aspiration/pdfs/aspiration--penumbra--penumbra-ace-64-and-ace--510k.pdf",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-ace-64-and-ace/510k/aspiration/pdfs/aspiration--penumbra--penumbra-ace-64-and-ace--510k.pdf",
+        "bytes": 162675
+      }
+    ],
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/aspiration--penumbra--penumbra-ace-64-and-ace--knowledge.md",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-ace-64-and-ace/data_by_device/aspiration--penumbra--penumbra-ace-64-and-ace--knowledge.md",
+        "bytes": 2802
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/aspiration--penumbra--penumbra-ace-64-and-ace.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-ace-64-and-ace/enriched/aspiration--penumbra--penumbra-ace-64-and-ace.json",
+        "bytes": 14992
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NRY/K152541.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-ace-64-and-ace/fda_raw/NRY/K152541.json",
+        "bytes": 593
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/aspiration--penumbra--penumbra-ace-64-and-ace.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-ace-64-and-ace/merged/aspiration--penumbra--penumbra-ace-64-and-ace.json",
+        "bytes": 869
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "thrombectomy_aspiration_catheters",
+    "label": "Aspiration Catheters"
+  }
+}

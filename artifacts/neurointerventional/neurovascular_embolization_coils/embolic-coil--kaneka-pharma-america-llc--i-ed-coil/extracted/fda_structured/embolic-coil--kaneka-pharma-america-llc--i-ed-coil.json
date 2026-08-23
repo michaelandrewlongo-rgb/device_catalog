@@ -1,0 +1,21 @@
+{
+  "source": "fda_udi",
+  "brand_name": "i-ED COIL",
+  "extraction_method": "fda_udi_api",
+  "fields": {
+    "what_it_is": "The i-ED COIL is used for vascular embolization with a platinum coil at the target lesion in the patient’s blood vessel.",
+    "sizing_specs": "Catalog: 374-142450; Model: 374-142450",
+    "use_notes": "MRI: MR Conditional. Pre-sterilized. Single-use",
+    "also_known_as": [
+      "i-ED COIL",
+      "Non-neurovascular embolization coil",
+      "Neurovascular embolization coil"
+    ]
+  },
+  "confidence": {
+    "what_it_is": 0.85,
+    "sizing_specs": 0.85,
+    "use_notes": 0.85,
+    "also_known_as": 0.85
+  }
+}

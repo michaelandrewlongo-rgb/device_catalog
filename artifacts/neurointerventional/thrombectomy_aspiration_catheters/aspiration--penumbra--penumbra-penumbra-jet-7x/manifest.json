@@ -1,0 +1,54 @@
+{
+  "device_slug": "aspiration--penumbra--penumbra-penumbra-jet-7x",
+  "artifact_folder": "aspiration--penumbra--penumbra-penumbra-jet-7x",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 677456,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/aspiration/parsed/fda_summaries/aspiration--penumbra--penumbra-penumbra-jet-7x--510k.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-penumbra-jet-7x/510k/aspiration/parsed/fda_summaries/aspiration--penumbra--penumbra-penumbra-jet-7x--510k.json",
+        "bytes": 49280
+      },
+      {
+        "source": "pipeline/data/510k/aspiration/pdfs/aspiration--penumbra--penumbra-penumbra-jet-7x--510k.pdf",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-penumbra-jet-7x/510k/aspiration/pdfs/aspiration--penumbra--penumbra-penumbra-jet-7x--510k.pdf",
+        "bytes": 602344
+      }
+    ],
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/aspiration--penumbra--penumbra-penumbra-jet-7x--knowledge.md",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-penumbra-jet-7x/data_by_device/aspiration--penumbra--penumbra-penumbra-jet-7x--knowledge.md",
+        "bytes": 2364
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/aspiration--penumbra--penumbra-penumbra-jet-7x.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-penumbra-jet-7x/enriched/aspiration--penumbra--penumbra-penumbra-jet-7x.json",
+        "bytes": 22076
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NRY/K191946.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-penumbra-jet-7x/fda_raw/NRY/K191946.json",
+        "bytes": 570
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/aspiration--penumbra--penumbra-penumbra-jet-7x.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-penumbra-jet-7x/merged/aspiration--penumbra--penumbra-penumbra-jet-7x.json",
+        "bytes": 822
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "thrombectomy_aspiration_catheters",
+    "label": "Aspiration Catheters"
+  }
+}

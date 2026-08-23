@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K223275",
+  "clearance_date": "2022-12-09",
+  "device_class": 2,
+  "manufacturer_canonical": "fuji-systems-corporation",
+  "manufacturer_raw": "Fuji Systems Corporation",
+  "catalog_category": "balloon-catheter",
+  "device_name_fda": "CELLO II Balloon Guide Catheter",
+  "product_code": "QJP",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "balloon-catheter--fuji-systems-corporation--cello-ii-balloon-guide-catheter",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K223275.pdf"
+}

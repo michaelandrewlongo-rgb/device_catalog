@@ -1,0 +1,21 @@
+{
+  "device_slug": "delivery-catheter--microvention--wedge-delivery-catheter",
+  "artifact_folder": "delivery-catheter--microvention--wedge-delivery-catheter",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 496,
+  "sources": {
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/microvention/wedgetm-delivery-catheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/delivery-catheter--microvention--wedge-delivery-catheter/scraper_raw/microvention/wedgetm-delivery-catheter.json",
+        "bytes": 496
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_access_catheters",
+    "label": "Access, Guide, Delivery Catheters"
+  }
+}

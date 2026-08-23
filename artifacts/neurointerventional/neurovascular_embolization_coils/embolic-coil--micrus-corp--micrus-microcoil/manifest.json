@@ -1,0 +1,35 @@
+{
+  "device_slug": "embolic-coil--micrus-corp--micrus-microcoil",
+  "artifact_folder": "embolic-coil--micrus-corp--micrus-microcoil",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2754,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--micrus-corp--micrus-microcoil.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--micrus-corp--micrus-microcoil/enriched/embolic-coil--micrus-corp--micrus-microcoil.json",
+        "bytes": 1389
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K032872.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--micrus-corp--micrus-microcoil/fda_raw/HCG/K032872.json",
+        "bytes": 557
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--micrus-corp--micrus-microcoil.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--micrus-corp--micrus-microcoil/merged/embolic-coil--micrus-corp--micrus-microcoil.json",
+        "bytes": 808
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

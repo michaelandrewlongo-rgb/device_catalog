@@ -1,0 +1,21 @@
+{
+  "device_slug": "intrasaccular--microvention--web-embolization-system",
+  "artifact_folder": "intrasaccular--microvention--web-embolization-system",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 497,
+  "sources": {
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/microvention/webtm-embolization-system.json",
+        "artifact": "artifacts/neurointerventional/intrasaccular_flow_disruptors/intrasaccular--microvention--web-embolization-system/scraper_raw/microvention/webtm-embolization-system.json",
+        "bytes": 497
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "intrasaccular_flow_disruptors",
+    "label": "Intrasaccular Flow Disruption Devices"
+  }
+}

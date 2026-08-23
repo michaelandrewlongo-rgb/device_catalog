@@ -1,0 +1,47 @@
+{
+  "device_slug": "distal-access--cerenovus--cereglide-71-catheter-cerenovus-aspiration",
+  "artifact_folder": "distal-access--cerenovus--cereglide-71-catheter-cerenovus-aspiration",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 2884502,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/distal-access/parsed/fda_summaries/distal-access--cerenovus--cereglide-71-catheter-cerenovus-aspiration--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--cerenovus--cereglide-71-catheter-cerenovus-aspiration/510k/distal-access/parsed/fda_summaries/distal-access--cerenovus--cereglide-71-catheter-cerenovus-aspiration--510k.json",
+        "bytes": 68238
+      },
+      {
+        "source": "pipeline/data/510k/distal-access/pdfs/distal-access--cerenovus--cereglide-71-catheter-cerenovus-aspiration--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--cerenovus--cereglide-71-catheter-cerenovus-aspiration/510k/distal-access/pdfs/distal-access--cerenovus--cereglide-71-catheter-cerenovus-aspiration--510k.pdf",
+        "bytes": 2781655
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/distal-access--cerenovus--cereglide-71-catheter-cerenovus-aspiration.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--cerenovus--cereglide-71-catheter-cerenovus-aspiration/enriched/distal-access--cerenovus--cereglide-71-catheter-cerenovus-aspiration.json",
+        "bytes": 33074
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NRY/K251828.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--cerenovus--cereglide-71-catheter-cerenovus-aspiration/fda_raw/NRY/K251828.json",
+        "bytes": 627
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/distal-access--cerenovus--cereglide-71-catheter-cerenovus-aspiration.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--cerenovus--cereglide-71-catheter-cerenovus-aspiration/merged/distal-access--cerenovus--cereglide-71-catheter-cerenovus-aspiration.json",
+        "bytes": 908
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_access_catheters",
+    "label": "Access, Guide, Delivery Catheters"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "device_slug": "embolic-coil--stryker--axs-infinity-ls-r-plus-long",
+  "artifact_folder": "embolic-coil--stryker--axs-infinity-ls-r-plus-long",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 2,
+  "bytes": 2384,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--stryker--axs-infinity-ls-r-plus-long.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--axs-infinity-ls-r-plus-long/enriched/embolic-coil--stryker--axs-infinity-ls-r-plus-long.json",
+        "bytes": 1528
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--stryker--axs-infinity-ls-r-plus-long.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--axs-infinity-ls-r-plus-long/merged/embolic-coil--stryker--axs-infinity-ls-r-plus-long.json",
+        "bytes": 856
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

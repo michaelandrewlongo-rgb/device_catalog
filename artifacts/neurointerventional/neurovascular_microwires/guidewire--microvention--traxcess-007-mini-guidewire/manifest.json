@@ -1,0 +1,59 @@
+{
+  "device_slug": "guidewire--microvention--traxcess-007-mini-guidewire",
+  "artifact_folder": "guidewire--microvention--traxcess-007-mini-guidewire",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 7,
+  "bytes": 317292,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/guidewire/parsed/documents/guidewire--microvention--traxcess-007-mini-guidewire--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--microvention--traxcess-007-mini-guidewire/510k/guidewire/parsed/documents/guidewire--microvention--traxcess-007-mini-guidewire--510k.json",
+        "bytes": 5136
+      },
+      {
+        "source": "pipeline/data/510k/guidewire/parsed/fda_summaries/guidewire--microvention--traxcess-007-mini-guidewire--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--microvention--traxcess-007-mini-guidewire/510k/guidewire/parsed/fda_summaries/guidewire--microvention--traxcess-007-mini-guidewire--510k.json",
+        "bytes": 71686
+      },
+      {
+        "source": "pipeline/data/510k/guidewire/pdfs/guidewire--microvention--traxcess-007-mini-guidewire--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--microvention--traxcess-007-mini-guidewire/510k/guidewire/pdfs/guidewire--microvention--traxcess-007-mini-guidewire--510k.pdf",
+        "bytes": 199762
+      }
+    ],
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/guidewire--microvention--traxcess-007-mini-guidewire--knowledge.md",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--microvention--traxcess-007-mini-guidewire/data_by_device/guidewire--microvention--traxcess-007-mini-guidewire--knowledge.md",
+        "bytes": 1533
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/guidewire--microvention--traxcess-007-mini-guidewire.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--microvention--traxcess-007-mini-guidewire/enriched/guidewire--microvention--traxcess-007-mini-guidewire.json",
+        "bytes": 37770
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MOF/K161803.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--microvention--traxcess-007-mini-guidewire/fda_raw/MOF/K161803.json",
+        "bytes": 580
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/guidewire--microvention--traxcess-007-mini-guidewire.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--microvention--traxcess-007-mini-guidewire/merged/guidewire--microvention--traxcess-007-mini-guidewire.json",
+        "bytes": 825
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microwires",
+    "label": "Microwires"
+  }
+}

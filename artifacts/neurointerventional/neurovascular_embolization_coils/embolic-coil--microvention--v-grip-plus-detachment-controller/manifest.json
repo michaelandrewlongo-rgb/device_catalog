@@ -1,0 +1,21 @@
+{
+  "device_slug": "embolic-coil--microvention--v-grip-plus-detachment-controller",
+  "artifact_folder": "embolic-coil--microvention--v-grip-plus-detachment-controller",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 604,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K090001.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--v-grip-plus-detachment-controller/fda_raw/HCG/K090001.json",
+        "bytes": 604
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

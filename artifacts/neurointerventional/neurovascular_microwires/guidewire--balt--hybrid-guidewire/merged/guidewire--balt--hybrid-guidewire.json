@@ -1,0 +1,29 @@
+{
+  "device_name": "Hybrid",
+  "manufacturer": "balt",
+  "catalog_category": "guidewire",
+  "filename_stem": "guidewire--balt--hybrid-guidewire",
+  "clearance_type": "510k",
+  "clearance_number": "K182337",
+  "clearance_date": "2018-10-04",
+  "device_class": 2,
+  "device_name_fda": "HYBRID Guidewire",
+  "product_code": "MOF",
+  "what_it_is": "Hybrid | Guidewire\nREACH OUT",
+  "sizing_specs": "\u2014 To provide analysis;\n\u2014 To save your preferences;\n\u2014 To select the right content framework to serve you based on your geolocation.",
+  "indications": "The HYBRID Guidewire is intended for general intravascular use, including the neuro and peripheral vasculature. The guidewire can be steered to facilitate the selective placement of diagnostic or therapeutic catheters. This device is not intended for use in the coronary arteries.",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf18/K182337.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "https://baltgroup.com/products/hybrid",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda",
+    "scraper"
+  ]
+}

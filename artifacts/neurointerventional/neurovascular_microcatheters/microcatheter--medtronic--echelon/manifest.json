@@ -1,0 +1,33 @@
+{
+  "device_slug": "microcatheter--medtronic--echelon",
+  "artifact_folder": "microcatheter--medtronic--echelon",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 487013,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/microcatheter--medtronic--echelon--brochure.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--medtronic--echelon/data_by_device/microcatheter--medtronic--echelon--brochure.pdf",
+        "bytes": 479350
+      },
+      {
+        "source": "pipeline/data/data_by_device/microcatheter--medtronic--echelon--knowledge.md",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--medtronic--echelon/data_by_device/microcatheter--medtronic--echelon--knowledge.md",
+        "bytes": 4664
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/documents/microcatheter--medtronic--echelon--brochure.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--medtronic--echelon/extracted/documents/microcatheter--medtronic--echelon--brochure.json",
+        "bytes": 2999
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

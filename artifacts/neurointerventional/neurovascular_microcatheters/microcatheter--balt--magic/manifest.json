@@ -1,0 +1,49 @@
+{
+  "device_slug": "microcatheter--balt--magic",
+  "artifact_folder": "microcatheter--balt--magic",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 7671,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/microcatheter--balt--magic--knowledge.md",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--balt--magic/data_by_device/microcatheter--balt--magic--knowledge.md",
+        "bytes": 2328
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/microcatheter--balt--magic.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--balt--magic/enriched/microcatheter--balt--magic.json",
+        "bytes": 2219
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/microcatheter--balt--magic.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--balt--magic/extracted/fda_structured/microcatheter--balt--magic.json",
+        "bytes": 939
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/microcatheter--balt--magic.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--balt--magic/merged/microcatheter--balt--magic.json",
+        "bytes": 1188
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/balt/magic.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--balt--magic/scraper_raw/balt/magic.json",
+        "bytes": 997
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "embolic-coil--protein-polymer-technologies-inc--modified-pva-plus-foam-embolization",
+  "artifact_folder": "embolic-coil--protein-polymer-technologies-inc--modified-pva-plus-foam-embolization",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3364,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--protein-polymer-technologies-inc--modified-pva-plus-foam-embolization.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--protein-polymer-technologies-inc--modified-pva-plus-foam-embolization/enriched/embolic-coil--protein-polymer-technologies-inc--modified-pva-plus-foam-embolization.json",
+        "bytes": 1612
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K053548.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--protein-polymer-technologies-inc--modified-pva-plus-foam-embolization/fda_raw/HCG/K053548.json",
+        "bytes": 721
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--protein-polymer-technologies-inc--modified-pva-plus-foam-embolization.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--protein-polymer-technologies-inc--modified-pva-plus-foam-embolization/merged/embolic-coil--protein-polymer-technologies-inc--modified-pva-plus-foam-embolization.json",
+        "bytes": 1031
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

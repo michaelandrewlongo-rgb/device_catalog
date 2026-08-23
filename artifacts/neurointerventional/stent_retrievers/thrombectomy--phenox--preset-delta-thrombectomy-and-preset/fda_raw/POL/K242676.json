@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K242676",
+  "clearance_date": "2025-02-28",
+  "device_class": 2,
+  "manufacturer_canonical": "phenox",
+  "manufacturer_raw": "Phenox Limited",
+  "catalog_category": "thrombectomy",
+  "device_name_fda": "pRESET Delta Thrombectomy Device and pRESET Delta LITE Thrombectomy Device",
+  "product_code": "POL",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "thrombectomy--phenox--preset-delta-thrombectomy-and-preset",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K242676.pdf"
+}

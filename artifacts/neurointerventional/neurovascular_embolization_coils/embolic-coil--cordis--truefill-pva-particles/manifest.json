@@ -1,0 +1,35 @@
+{
+  "device_slug": "embolic-coil--cordis--truefill-pva-particles",
+  "artifact_folder": "embolic-coil--cordis--truefill-pva-particles",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2751,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--cordis--truefill-pva-particles.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cordis--truefill-pva-particles/enriched/embolic-coil--cordis--truefill-pva-particles.json",
+        "bytes": 1383
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K951314.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cordis--truefill-pva-particles/fda_raw/HCG/K951314.json",
+        "bytes": 566
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--cordis--truefill-pva-particles.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cordis--truefill-pva-particles/merged/embolic-coil--cordis--truefill-pva-particles.json",
+        "bytes": 802
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "device_slug": "microcatheter--stryker--excelsior-family",
+  "artifact_folder": "microcatheter--stryker--excelsior-family",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 8012,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/microcatheter--stryker--excelsior-family--knowledge.md",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--excelsior-family/data_by_device/microcatheter--stryker--excelsior-family--knowledge.md",
+        "bytes": 8012
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

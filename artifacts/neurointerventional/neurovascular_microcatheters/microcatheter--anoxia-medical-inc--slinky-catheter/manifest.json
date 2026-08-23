@@ -1,0 +1,47 @@
+{
+  "device_slug": "microcatheter--anoxia-medical-inc--slinky-catheter",
+  "artifact_folder": "microcatheter--anoxia-medical-inc--slinky-catheter",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 2869229,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/microcatheter/parsed/fda_summaries/microcatheter--anoxia-medical-inc--slinky-catheter--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--anoxia-medical-inc--slinky-catheter/510k/microcatheter/parsed/fda_summaries/microcatheter--anoxia-medical-inc--slinky-catheter--510k.json",
+        "bytes": 67352
+      },
+      {
+        "source": "pipeline/data/510k/microcatheter/pdfs/microcatheter--anoxia-medical-inc--slinky-catheter--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--anoxia-medical-inc--slinky-catheter/510k/microcatheter/pdfs/microcatheter--anoxia-medical-inc--slinky-catheter--510k.pdf",
+        "bytes": 2755283
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/microcatheter--anoxia-medical-inc--slinky-catheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--anoxia-medical-inc--slinky-catheter/enriched/microcatheter--anoxia-medical-inc--slinky-catheter.json",
+        "bytes": 45210
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/QJP/K231179.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--anoxia-medical-inc--slinky-catheter/fda_raw/QJP/K231179.json",
+        "bytes": 577
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/microcatheter--anoxia-medical-inc--slinky-catheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--anoxia-medical-inc--slinky-catheter/merged/microcatheter--anoxia-medical-inc--slinky-catheter.json",
+        "bytes": 807
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

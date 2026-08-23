@@ -1,0 +1,20 @@
+{
+  "source": "fda_udi",
+  "brand_name": "Raptor",
+  "extraction_method": "fda_udi_api",
+  "fields": {
+    "what_it_is": "The Raptor Aspiration Catheter is a single-lumen, variable stiffness composite catheter offered in various sizes that facilitates removal of thrombus from the neurovasculature when connected to a compatible aspiration pump and the Balt Aspiration Tubing Set. The distal tip of the catheter shaft includes a markerband and the proximal end of the catheter has a luer fitting to allow for the attachment of ancillary devices for navigation, infusion of fluids, and aspiration through the catheter. The Raptor Aspiration Catheter distal shaft has an external hydrophilic coating which provides a  lubricious surface during use. The Raptor Aspiration Catheters are compatible with 0.014” – 0.018” guidewires and other interventional devices. A peelable split Introducer Sheath is provided in the package to provide support and facilitate the introduction of the distal tip of the Raptor Aspiration Catheter into an appropriate vascular sheath. The catheter and Introducer Sheath are provided sterile, non-pyrogenic, and intended for single use only.",
+    "sizing_specs": "Catalog: N/A; Model: RPTR038155",
+    "use_notes": "MRI: Labeling does not contain MRI Safety Information. Pre-sterilized. Single-use",
+    "also_known_as": [
+      "Raptor Aspiration Catheter",
+      "Thrombectomy suction catheter"
+    ]
+  },
+  "confidence": {
+    "what_it_is": 0.85,
+    "sizing_specs": 0.85,
+    "use_notes": 0.85,
+    "also_known_as": 0.85
+  }
+}

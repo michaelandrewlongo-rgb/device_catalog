@@ -1,0 +1,684 @@
+{
+  "domain": "neurointerventional",
+  "registry": "neurovascular_access_catheters",
+  "label": "Access, Guide, Delivery Catheters",
+  "path": "artifacts/neurointerventional/neurovascular_access_catheters",
+  "devices": [
+    {
+      "slug": "balloon-catheter--asahi-intecc-co-ltd--branchor-balloon-guide-catheter",
+      "artifact_folder": "balloon-catheter--asahi-intecc-co-ltd--branchor-balloon-guide-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/balloon-catheter--asahi-intecc-co-ltd--branchor-balloon-guide-catheter",
+      "file_count": 7,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "balloon-catheter--asahi-intecc-co-ltd--branchor-x-balloon-guide-catheter",
+      "artifact_folder": "balloon-catheter--asahi-intecc-co-ltd--branchor-x-balloon-guide-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/balloon-catheter--asahi-intecc-co-ltd--branchor-x-balloon-guide-catheter",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "balloon-catheter--cerenovus--emboguard-balloon-guide-catheter",
+      "artifact_folder": "balloon-catheter--cerenovus--emboguard-balloon-guide-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/balloon-catheter--cerenovus--emboguard-balloon-guide-catheter",
+      "file_count": 9,
+      "source_counts": {
+        "510k": 3,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "balloon-catheter--fuji-systems-corporation--cello-ii-balloon-guide-catheter",
+      "artifact_folder": "balloon-catheter--fuji-systems-corporation--cello-ii-balloon-guide-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/balloon-catheter--fuji-systems-corporation--cello-ii-balloon-guide-catheter",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "balloon-catheter--marblehead-medical--boss-balloon-guide-catheter",
+      "artifact_folder": "balloon-catheter--marblehead-medical--boss-balloon-guide-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/balloon-catheter--marblehead-medical--boss-balloon-guide-catheter",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "balloon-catheter--marblehead-medical-llc--boss-8f-balloon-guide-catheter",
+      "artifact_folder": "balloon-catheter--marblehead-medical-llc--boss-8f-balloon-guide-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/balloon-catheter--marblehead-medical-llc--boss-8f-balloon-guide-catheter",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "balloon-catheter--shanghai-heartcare-medical-technology-co-ltd--balloon-guiding-catheter",
+      "artifact_folder": "balloon-catheter--shanghai-heartcare-medical-technology-co-ltd--balloon-guiding-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/balloon-catheter--shanghai-heartcare-medical-technology-co-ltd--balloon-guiding-catheter",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "balloon-catheter--stryker--detachable-silicone-balloon-dsb",
+      "artifact_folder": "balloon-catheter--stryker--detachable-silicone-balloon-dsb",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/balloon-catheter--stryker--detachable-silicone-balloon-dsb",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "balloon-catheter--stryker--detachable-slicone-balloon-dsb",
+      "artifact_folder": "balloon-catheter--stryker--detachable-slicone-balloon-dsb",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/balloon-catheter--stryker--detachable-slicone-balloon-dsb",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "delivery-catheter--microvention--wedge-delivery-catheter",
+      "artifact_folder": "delivery-catheter--microvention--wedge-delivery-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/delivery-catheter--microvention--wedge-delivery-catheter",
+      "file_count": 1,
+      "source_counts": {
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "delivery-catheter--microvention--wedgetm-delivery-catheter",
+      "artifact_folder": "delivery-catheter--microvention--wedgetm-delivery-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/delivery-catheter--microvention--wedgetm-delivery-catheter",
+      "file_count": 2,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "distal-access--accumedical-beijing-ltd--distal-access-catheter",
+      "artifact_folder": "distal-access--accumedical-beijing-ltd--distal-access-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--accumedical-beijing-ltd--distal-access-catheter",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "distal-access--cerenovus--cerebase-da-guide-sheath",
+      "artifact_folder": "distal-access--cerenovus--cerebase-da-guide-sheath",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--cerenovus--cerebase-da-guide-sheath",
+      "file_count": 4,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "distal-access--cerenovus--cereglide-42-intermediate-catheter-cereglide",
+      "artifact_folder": "distal-access--cerenovus--cereglide-42-intermediate-catheter-cereglide",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--cerenovus--cereglide-42-intermediate-catheter-cereglide",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "distal-access--cerenovus--cereglide-71",
+      "artifact_folder": "distal-access--cerenovus--cereglide-71",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--cerenovus--cereglide-71",
+      "file_count": 1,
+      "source_counts": {
+        "data_by_device": 1
+      }
+    },
+    {
+      "slug": "distal-access--cerenovus--cereglide-71-catheter-cerenovus-aspiration",
+      "artifact_folder": "distal-access--cerenovus--cereglide-71-catheter-cerenovus-aspiration",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--cerenovus--cereglide-71-catheter-cerenovus-aspiration",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "distal-access--cerenovus--cereglide-71-intermediate-catheter",
+      "artifact_folder": "distal-access--cerenovus--cereglide-71-intermediate-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--cerenovus--cereglide-71-intermediate-catheter",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "distal-access--cerenovus--cereglide-71-intermediate-catheter-cerenovus",
+      "artifact_folder": "distal-access--cerenovus--cereglide-71-intermediate-catheter-cerenovus",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--cerenovus--cereglide-71-intermediate-catheter-cerenovus",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "distal-access--cerenovus--cereglide-71-intermediate-catheter-with-trucourse",
+      "artifact_folder": "distal-access--cerenovus--cereglide-71-intermediate-catheter-with-trucourse",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--cerenovus--cereglide-71-intermediate-catheter-with-trucourse",
+      "file_count": 4,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "distal-access--cerenovus--cereglide-92",
+      "artifact_folder": "distal-access--cerenovus--cereglide-92",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--cerenovus--cereglide-92",
+      "file_count": 1,
+      "source_counts": {
+        "data_by_device": 1
+      }
+    },
+    {
+      "slug": "distal-access--cerenovus--cereglide-92-catheter-system-with-trucourse",
+      "artifact_folder": "distal-access--cerenovus--cereglide-92-catheter-system-with-trucourse",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--cerenovus--cereglide-92-catheter-system-with-trucourse",
+      "file_count": 4,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "distal-access--cerenovus--cereglide-92-intermediate-catheter",
+      "artifact_folder": "distal-access--cerenovus--cereglide-92-intermediate-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--cerenovus--cereglide-92-intermediate-catheter",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "distal-access--guangzhou-easycess-medical-co-ltd--distal-access-catheter",
+      "artifact_folder": "distal-access--guangzhou-easycess-medical-co-ltd--distal-access-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--guangzhou-easycess-medical-co-ltd--distal-access-catheter",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "distal-access--microvention--sofia",
+      "artifact_folder": "distal-access--microvention--sofia",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--microvention--sofia",
+      "file_count": 4,
+      "source_counts": {
+        "data_by_device": 2,
+        "extracted": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "distal-access--microvention--sofia-88",
+      "artifact_folder": "distal-access--microvention--sofia-88",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--microvention--sofia-88",
+      "file_count": 1,
+      "source_counts": {
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "distal-access--microvention--sofia-ex",
+      "artifact_folder": "distal-access--microvention--sofia-ex",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--microvention--sofia-ex",
+      "file_count": 1,
+      "source_counts": {
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "distal-access--microvention--sofia-ex-intracranial-support-catheter",
+      "artifact_folder": "distal-access--microvention--sofia-ex-intracranial-support-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--microvention--sofia-ex-intracranial-support-catheter",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "distal-access--microvention--sofia-plus",
+      "artifact_folder": "distal-access--microvention--sofia-plus",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--microvention--sofia-plus",
+      "file_count": 1,
+      "source_counts": {
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "distal-access--microvention--sofia-plus-aspiration-catheter",
+      "artifact_folder": "distal-access--microvention--sofia-plus-aspiration-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--microvention--sofia-plus-aspiration-catheter",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "distal-access--microvention--sofiatm",
+      "artifact_folder": "distal-access--microvention--sofiatm",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--microvention--sofiatm",
+      "file_count": 2,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "distal-access--microvention--sofiatm-88",
+      "artifact_folder": "distal-access--microvention--sofiatm-88",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--microvention--sofiatm-88",
+      "file_count": 2,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "distal-access--microvention--sofiatm-ex",
+      "artifact_folder": "distal-access--microvention--sofiatm-ex",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--microvention--sofiatm-ex",
+      "file_count": 2,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "distal-access--microvention--sofiatm-plus",
+      "artifact_folder": "distal-access--microvention--sofiatm-plus",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--microvention--sofiatm-plus",
+      "file_count": 2,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "distal-access--mivi-neuroscience-inc--mivi-q-distal-access-catheter",
+      "artifact_folder": "distal-access--mivi-neuroscience-inc--mivi-q-distal-access-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--mivi-neuroscience-inc--mivi-q-distal-access-catheter",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "distal-access--mivi-neuroscience-inc--q-distal-access-catheter",
+      "artifact_folder": "distal-access--mivi-neuroscience-inc--q-distal-access-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--mivi-neuroscience-inc--q-distal-access-catheter",
+      "file_count": 7,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "distal-access--penumbra--neuro-access-catheters",
+      "artifact_folder": "distal-access--penumbra--neuro-access-catheters",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--penumbra--neuro-access-catheters",
+      "file_count": 4,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "distal-access--shanghai-heartcare-medical-technology-co-ltd--distal-access-catheter",
+      "artifact_folder": "distal-access--shanghai-heartcare-medical-technology-co-ltd--distal-access-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--shanghai-heartcare-medical-technology-co-ltd--distal-access-catheter",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "distal-access--stryker--axs-catalyst",
+      "artifact_folder": "distal-access--stryker--axs-catalyst",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--stryker--axs-catalyst",
+      "file_count": 1,
+      "source_counts": {
+        "data_by_device": 1
+      }
+    },
+    {
+      "slug": "distal-access--stryker--axs-catalyst-5",
+      "artifact_folder": "distal-access--stryker--axs-catalyst-5",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--stryker--axs-catalyst-5",
+      "file_count": 5,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "extracted": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "distal-access--stryker--axs-catalyst-6",
+      "artifact_folder": "distal-access--stryker--axs-catalyst-6",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--stryker--axs-catalyst-6",
+      "file_count": 5,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "extracted": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "distal-access--stryker--axs-catalyst-7",
+      "artifact_folder": "distal-access--stryker--axs-catalyst-7",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--stryker--axs-catalyst-7",
+      "file_count": 5,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "extracted": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "distal-access--stryker--axs-infinity-ls-long-sheath",
+      "artifact_folder": "distal-access--stryker--axs-infinity-ls-long-sheath",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--stryker--axs-infinity-ls-long-sheath",
+      "file_count": 1,
+      "source_counts": {
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "distal-access--stryker--axs-infinity-ls-r-long-sheath",
+      "artifact_folder": "distal-access--stryker--axs-infinity-ls-r-long-sheath",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--stryker--axs-infinity-ls-r-long-sheath",
+      "file_count": 3,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "distal-access--stryker--axs-offset",
+      "artifact_folder": "distal-access--stryker--axs-offset",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--stryker--axs-offset",
+      "file_count": 5,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "extracted": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "distal-access--stryker--axs-universal-aspiration-set",
+      "artifact_folder": "distal-access--stryker--axs-universal-aspiration-set",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--stryker--axs-universal-aspiration-set",
+      "file_count": 4,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "distal-access--stryker--axs-vecta-46-intermediate-catheter",
+      "artifact_folder": "distal-access--stryker--axs-vecta-46-intermediate-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--stryker--axs-vecta-46-intermediate-catheter",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "distal-access--stryker--axs-vecta-46-intermediate-catheter-recalls",
+      "artifact_folder": "distal-access--stryker--axs-vecta-46-intermediate-catheter-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--stryker--axs-vecta-46-intermediate-catheter-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "distal-access--stryker--axs-vecta-71-74",
+      "artifact_folder": "distal-access--stryker--axs-vecta-71-74",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--stryker--axs-vecta-71-74",
+      "file_count": 4,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "distal-access--stryker--axs-vecta-71-intermediate-catheter",
+      "artifact_folder": "distal-access--stryker--axs-vecta-71-intermediate-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--stryker--axs-vecta-71-intermediate-catheter",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "distal-access--stryker--axs-vecta-71-intermediate-catheter-recalls",
+      "artifact_folder": "distal-access--stryker--axs-vecta-71-intermediate-catheter-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--stryker--axs-vecta-71-intermediate-catheter-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "distal-access--stryker--flowgate-2",
+      "artifact_folder": "distal-access--stryker--flowgate-2",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--stryker--flowgate-2",
+      "file_count": 1,
+      "source_counts": {
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "distal-access--stryker--flowgate-2-r",
+      "artifact_folder": "distal-access--stryker--flowgate-2-r",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--stryker--flowgate-2-r",
+      "file_count": 2,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "distal-access--stryker--surpass-evolve-flow-diverter",
+      "artifact_folder": "distal-access--stryker--surpass-evolve-flow-diverter",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--stryker--surpass-evolve-flow-diverter",
+      "file_count": 1,
+      "source_counts": {
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "distal-access--stryker--surpass-evolve-r-flow-diverter",
+      "artifact_folder": "distal-access--stryker--surpass-evolve-r-flow-diverter",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--stryker--surpass-evolve-r-flow-diverter",
+      "file_count": 2,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "distal-access--stryker--trevo-trak-21-microcatheter",
+      "artifact_folder": "distal-access--stryker--trevo-trak-21-microcatheter",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--stryker--trevo-trak-21-microcatheter",
+      "file_count": 1,
+      "source_counts": {
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "distal-access--stryker--trevo-trak-r-21-microcatheter",
+      "artifact_folder": "distal-access--stryker--trevo-trak-r-21-microcatheter",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--stryker--trevo-trak-r-21-microcatheter",
+      "file_count": 2,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "distal-access--wallaby-medical--esperance-distal-access-catheter",
+      "artifact_folder": "distal-access--wallaby-medical--esperance-distal-access-catheter",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--wallaby-medical--esperance-distal-access-catheter",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "guide-catheter--microvention--bobby",
+      "artifact_folder": "guide-catheter--microvention--bobby",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/guide-catheter--microvention--bobby",
+      "file_count": 1,
+      "source_counts": {
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "guide-catheter--microvention--bobbytm",
+      "artifact_folder": "guide-catheter--microvention--bobbytm",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/guide-catheter--microvention--bobbytm",
+      "file_count": 2,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "guide-catheter--microvention--chaperon",
+      "artifact_folder": "guide-catheter--microvention--chaperon",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/guide-catheter--microvention--chaperon",
+      "file_count": 1,
+      "source_counts": {
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "guide-catheter--microvention--chaperontm",
+      "artifact_folder": "guide-catheter--microvention--chaperontm",
+      "path": "artifacts/neurointerventional/neurovascular_access_catheters/guide-catheter--microvention--chaperontm",
+      "file_count": 2,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1
+      }
+    }
+  ],
+  "device_count": 61
+}

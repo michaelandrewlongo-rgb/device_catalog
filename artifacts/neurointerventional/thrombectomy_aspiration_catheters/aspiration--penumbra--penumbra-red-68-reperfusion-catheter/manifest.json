@@ -1,0 +1,54 @@
+{
+  "device_slug": "aspiration--penumbra--penumbra-red-68-reperfusion-catheter",
+  "artifact_folder": "aspiration--penumbra--penumbra-red-68-reperfusion-catheter",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 1022145,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/aspiration/parsed/fda_summaries/aspiration--penumbra--penumbra-red-68-reperfusion-catheter--510k.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-red-68-reperfusion-catheter/510k/aspiration/parsed/fda_summaries/aspiration--penumbra--penumbra-red-68-reperfusion-catheter--510k.json",
+        "bytes": 43973
+      },
+      {
+        "source": "pipeline/data/510k/aspiration/pdfs/aspiration--penumbra--penumbra-red-68-reperfusion-catheter--510k.pdf",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-red-68-reperfusion-catheter/510k/aspiration/pdfs/aspiration--penumbra--penumbra-red-68-reperfusion-catheter--510k.pdf",
+        "bytes": 929310
+      }
+    ],
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/aspiration--penumbra--penumbra-red-68-reperfusion-catheter--knowledge.md",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-red-68-reperfusion-catheter/data_by_device/aspiration--penumbra--penumbra-red-68-reperfusion-catheter--knowledge.md",
+        "bytes": 23718
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/aspiration--penumbra--penumbra-red-68-reperfusion-catheter.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-red-68-reperfusion-catheter/enriched/aspiration--penumbra--penumbra-red-68-reperfusion-catheter.json",
+        "bytes": 23686
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NRY/K211411.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-red-68-reperfusion-catheter/fda_raw/NRY/K211411.json",
+        "bytes": 596
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/aspiration--penumbra--penumbra-red-68-reperfusion-catheter.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-red-68-reperfusion-catheter/merged/aspiration--penumbra--penumbra-red-68-reperfusion-catheter.json",
+        "bytes": 862
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "thrombectomy_aspiration_catheters",
+    "label": "Aspiration Catheters"
+  }
+}

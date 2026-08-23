@@ -1,0 +1,22 @@
+{
+  "source_pdf": "embolic-coil--spartan-micro-inc--spartan-ecoil--510k.pdf",
+  "device_name": "spartan-ecoil",
+  "manufacturer": "spartan-micro-inc",
+  "doc_type": "510k",
+  "extraction_method": "pdf_deepseek",
+  "fields": {
+    "what_it_is": "The Spartan eCoil™ System is a mechanically detachable embolic coil system that consists of an embolic coil (the Spartan eCoil™) attached to a delivery wire with a fluoroscopic marker band and the system is housed in an introducer sheath. The system is provided sterile and requires no additional equipment to be employed by the user. The system is constructed of implant grade materials. The system comes in 57 different configurations, two (2) shape configurations and a range of primary and secondary diameters and coil lengths. The Delivery Wire includes a radiopaque marker used as a positioning reference.",
+    "sizing_specs": "| Characteristics | Subject Device Spartan eCoil System K180653 | Predicate Device Axium Prime K162704 | Rationale for Differences / Comments |\n|-----------------|---------------------------------------------|--------------------------------------|--------------------------------------|\n| Number of Models | 57 | 140 | Subject device falls within the range of model offerings as the currently cleared predicate device models. |\n| Implant Shape | Helix and 360 | Helix and 3D | Subject device shape is similar to the predicate |\n| Device Size / Range Primary Diameter | 0.0110\" – 0.0145\" | 0.0108\" – 0.0145\" | Subject device size range falls within the currently cleared predicate device size range |\n| Device Size / Range Secondary Diameter | 3mm – 25mm | 1mm – 25mm | Subject device size range falls within the currently cleared predicate device size range |\n| Size Range Length (in sheath) | 5.5cm – 50cm | 1cm – 50cm | Subject device size range falls within the currently cleared predicate device size range |\n| Materials (Implant Coil) | | | |\n| Primary Coil | 92% Platinum 8% Tungsten Alloy | 92% Platinum 8% Tungsten Alloy | Same |\n| Stretch Resistant Monofilament | Polypropylene | Polypropylene | Same |\n| Coil Shell | 92% Platinum 8% Tungsten Alloy | 92% Platinum 8% Tungsten Alloy | Same |\n| Detach Subassembly | Cobalt Chromium – MP35N Alloy Cobalt Chromium – 35N LT Alloy Pt (92%) / W (8%) | SS 316LVM | Subject device utilizes Cobalt Chromium, which performed adequately in terms of corrosion resistance, MRI compatibility, and material strength when compared to the predicate device. |\n| Materials (Delivery System) | | | |\n| Unibody | SS 304 | SS 304 | Same |\n| Outer Jacket | PET | PTFE | Subject device utilizes PET to laminate the delivery wire. |\n| Marker Coil | 92% Platinum 8% Tungsten Alloy | 92% Platinum 8% Tungsten Alloy | Same |\n| Lumen Stop | N/A | SS 304 | Subject device does not use this component in the implant. |\n| Inner Liner | PTFE | PTFE | Same |\n| Coupler Tube | N/A | SS 304 | Subject device does not use this component in the implant. |\n| Actuator Interface | N/A | SS 304 | Subject device does not use this component in the implant. |\n| Release Wire | SS 304 | SS 304 | Same |\n| Retainer Ring | N/A | SS 304 | Subject device does not use this component in the implant. |\n| Break Indicator | PET Shrink Tubing | PET Shrink Tubing | Same |\n| Positive Load Indicator | N/A | PET Shrink Tubing | Subject device does not use this component in the implant. |\n| Introducer Sheath | Nylon 12 | Polypropylene / HDPE | Subject devices utilizes Nylon 12 for retention of the Spartan eCoil System when packaged. |",
+    "indications": "The Spartan eCoil™ System is indicated for the endovascular embolization of intracranial aneurysms and other neurovascular abnormalities, such as arteriovenous malformations and arteriovenous fistulae. The Spartan eCoil™ System is also indicated for arterial and venous embolizations in the peripheral vasculature.",
+    "contraindications": null,
+    "compatible_with": "The Spartan eCoilTM System is designed to work with market available microcatheters with minimum working inner diameters of at least 0.017\".",
+    "use_notes": null,
+    "also_known_as": null
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "sizing_specs": 0.7,
+    "indications": 0.7,
+    "compatible_with": 0.7
+  }
+}

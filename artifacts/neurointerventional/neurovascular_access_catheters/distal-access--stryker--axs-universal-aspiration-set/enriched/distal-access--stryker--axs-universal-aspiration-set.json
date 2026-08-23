@@ -1,0 +1,58 @@
+{
+  "device_name": "AXS Universal Aspiration Set",
+  "manufacturer": "stryker",
+  "catalog_category": "distal-access",
+  "filename_stem": "distal-access--stryker--axs-universal-aspiration-set",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "Stryker's product portfolio",
+  "sizing_specs": "Maximum Tip Diameter (mm): –\nCatheter Length (cm): –",
+  "indications": "The intended use of the Dominant Flex suction pump is\nthe creation of a constant vacuum for use in hospitals\nand clinics. This vacuum can be used for general suction,\nto aspirate and remove: surgical fluids, tissue (including\nbone), gases, bodily fluids or infectious materials and\nduring specific procedures which may include, vacuum\nextraction, aesthetic body contouring, aspiration during\nflexible endoscopy, use with cardiac tissue stabilizers\nduring off-pump coronary artery bypass, and epicardial\nablation probes.",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "Type: Vacuum pump + aspiration tubing + disposable canister liner",
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.stryker.com/us/en/neurovascular/products/axs-universal.html",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "sizing_specs": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "indications": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "also_known_as": {
+      "source": "none",
+      "confidence": 0
+    }
+  }
+}

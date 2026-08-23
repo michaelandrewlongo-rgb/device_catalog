@@ -1,0 +1,21 @@
+{
+  "device_slug": "embolic-coil--microvention--hydrocoil-embolic-hydroframe-model-100931hfm",
+  "artifact_folder": "embolic-coil--microvention--hydrocoil-embolic-hydroframe-model-100931hfm",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 687,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K100454.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--hydrocoil-embolic-hydroframe-model-100931hfm/fda_raw/HCG/K100454.json",
+        "bytes": 687
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

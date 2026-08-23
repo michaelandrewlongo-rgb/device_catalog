@@ -1,0 +1,21 @@
+{
+  "device_slug": "distal-access--microvention--sofia-ex-intracranial-support-catheter",
+  "artifact_folder": "distal-access--microvention--sofia-ex-intracranial-support-catheter",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 608,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/QJP/K230775.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--microvention--sofia-ex-intracranial-support-catheter/fda_raw/QJP/K230775.json",
+        "bytes": 608
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_access_catheters",
+    "label": "Access, Guide, Delivery Catheters"
+  }
+}

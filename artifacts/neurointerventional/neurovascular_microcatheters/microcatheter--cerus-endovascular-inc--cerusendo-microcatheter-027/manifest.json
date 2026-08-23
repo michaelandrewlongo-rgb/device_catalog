@@ -1,0 +1,47 @@
+{
+  "device_slug": "microcatheter--cerus-endovascular-inc--cerusendo-microcatheter-027",
+  "artifact_folder": "microcatheter--cerus-endovascular-inc--cerusendo-microcatheter-027",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 553372,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/microcatheter/parsed/fda_summaries/microcatheter--cerus-endovascular-inc--cerusendo-microcatheter-027--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--cerus-endovascular-inc--cerusendo-microcatheter-027/510k/microcatheter/parsed/fda_summaries/microcatheter--cerus-endovascular-inc--cerusendo-microcatheter-027--510k.json",
+        "bytes": 31690
+      },
+      {
+        "source": "pipeline/data/510k/microcatheter/pdfs/microcatheter--cerus-endovascular-inc--cerusendo-microcatheter-027--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--cerus-endovascular-inc--cerusendo-microcatheter-027/510k/microcatheter/pdfs/microcatheter--cerus-endovascular-inc--cerusendo-microcatheter-027--510k.pdf",
+        "bytes": 503838
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/microcatheter--cerus-endovascular-inc--cerusendo-microcatheter-027.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--cerus-endovascular-inc--cerusendo-microcatheter-027/enriched/microcatheter--cerus-endovascular-inc--cerusendo-microcatheter-027.json",
+        "bytes": 16374
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/QJP/K213314.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--cerus-endovascular-inc--cerusendo-microcatheter-027/fda_raw/QJP/K213314.json",
+        "bytes": 615
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/microcatheter--cerus-endovascular-inc--cerusendo-microcatheter-027.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--cerus-endovascular-inc--cerusendo-microcatheter-027/merged/microcatheter--cerus-endovascular-inc--cerusendo-microcatheter-027.json",
+        "bytes": 855
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

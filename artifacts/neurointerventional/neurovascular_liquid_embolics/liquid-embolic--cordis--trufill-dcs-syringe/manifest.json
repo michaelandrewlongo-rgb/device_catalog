@@ -1,0 +1,35 @@
+{
+  "device_slug": "liquid-embolic--cordis--trufill-dcs-syringe",
+  "artifact_folder": "liquid-embolic--cordis--trufill-dcs-syringe",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2739,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/liquid-embolic--cordis--trufill-dcs-syringe.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--cordis--trufill-dcs-syringe/enriched/liquid-embolic--cordis--trufill-dcs-syringe.json",
+        "bytes": 1378
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K082324.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--cordis--trufill-dcs-syringe/fda_raw/HCG/K082324.json",
+        "bytes": 564
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/liquid-embolic--cordis--trufill-dcs-syringe.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--cordis--trufill-dcs-syringe/merged/liquid-embolic--cordis--trufill-dcs-syringe.json",
+        "bytes": 797
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_liquid_embolics",
+    "label": "Onyx, Squid, PHIL"
+  }
+}

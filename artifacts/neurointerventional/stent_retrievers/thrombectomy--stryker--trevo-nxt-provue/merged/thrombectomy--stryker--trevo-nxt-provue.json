@@ -1,0 +1,29 @@
+{
+  "device_name": "Trevo NXT",
+  "manufacturer": "stryker",
+  "catalog_category": "thrombectomy",
+  "filename_stem": "thrombectomy--stryker--trevo-nxt-provue",
+  "clearance_type": "510k",
+  "clearance_number": "K223305",
+  "clearance_date": "2023-03-29",
+  "device_class": 2,
+  "device_name_fda": "Trevo NXT ProVue Retriever",
+  "product_code": "POL",
+  "what_it_is": "ProVue Retriever",
+  "sizing_specs": "Techniques and portfolio",
+  "indications": "Economic value",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K223305.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.stryker.com/us/en/neurovascular/products/trevo-nxt.html",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda",
+    "scraper"
+  ]
+}

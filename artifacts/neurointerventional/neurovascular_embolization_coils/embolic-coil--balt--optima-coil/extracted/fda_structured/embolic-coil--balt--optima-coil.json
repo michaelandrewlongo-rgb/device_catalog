@@ -1,0 +1,20 @@
+{
+  "source": "fda_udi",
+  "brand_name": "Optima Coil System",
+  "extraction_method": "fda_udi_api",
+  "fields": {
+    "what_it_is": "The Prestige Coil System is indicated for arterial and venous embolizations in the peripheral vasculature. It is designed for use with the Ultra Detachment Controller.",
+    "sizing_specs": "Model: PRES0153HXP10",
+    "use_notes": "MRI: MR Conditional. Pre-sterilized. Single-use",
+    "also_known_as": [
+      "Optima Coil System",
+      "Non-neurovascular embolization coil"
+    ]
+  },
+  "confidence": {
+    "what_it_is": 0.85,
+    "sizing_specs": 0.85,
+    "use_notes": 0.85,
+    "also_known_as": 0.85
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "device_slug": "guidewire--stryker--broadway-system",
+  "artifact_folder": "guidewire--stryker--broadway-system",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 1188,
+  "sources": {
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/stryker/broadway-r-system.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--stryker--broadway-system/scraper_raw/stryker/broadway-r-system.json",
+        "bytes": 1188
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microwires",
+    "label": "Microwires"
+  }
+}

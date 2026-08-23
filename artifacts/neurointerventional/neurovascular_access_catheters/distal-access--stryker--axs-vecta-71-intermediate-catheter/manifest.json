@@ -1,0 +1,54 @@
+{
+  "device_slug": "distal-access--stryker--axs-vecta-71-intermediate-catheter",
+  "artifact_folder": "distal-access--stryker--axs-vecta-71-intermediate-catheter",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 427882,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/distal-access/parsed/fda_summaries/distal-access--stryker--axs-vecta-71-intermediate-catheter--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--stryker--axs-vecta-71-intermediate-catheter/510k/distal-access/parsed/fda_summaries/distal-access--stryker--axs-vecta-71-intermediate-catheter--510k.json",
+        "bytes": 76350
+      },
+      {
+        "source": "pipeline/data/510k/distal-access/pdfs/distal-access--stryker--axs-vecta-71-intermediate-catheter--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--stryker--axs-vecta-71-intermediate-catheter/510k/distal-access/pdfs/distal-access--stryker--axs-vecta-71-intermediate-catheter--510k.pdf",
+        "bytes": 297360
+      }
+    ],
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/distal-access--stryker--axs-vecta-71-intermediate-catheter--knowledge.md",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--stryker--axs-vecta-71-intermediate-catheter/data_by_device/distal-access--stryker--axs-vecta-71-intermediate-catheter--knowledge.md",
+        "bytes": 26263
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/distal-access--stryker--axs-vecta-71-intermediate-catheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--stryker--axs-vecta-71-intermediate-catheter/enriched/distal-access--stryker--axs-vecta-71-intermediate-catheter.json",
+        "bytes": 26365
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/QJP/K200206.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--stryker--axs-vecta-71-intermediate-catheter/fda_raw/QJP/K200206.json",
+        "bytes": 630
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/distal-access--stryker--axs-vecta-71-intermediate-catheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--stryker--axs-vecta-71-intermediate-catheter/merged/distal-access--stryker--axs-vecta-71-intermediate-catheter.json",
+        "bytes": 914
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_access_catheters",
+    "label": "Access, Guide, Delivery Catheters"
+  }
+}

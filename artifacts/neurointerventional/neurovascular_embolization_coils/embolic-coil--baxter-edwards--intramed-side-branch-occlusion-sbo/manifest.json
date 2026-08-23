@@ -1,0 +1,35 @@
+{
+  "device_slug": "embolic-coil--baxter-edwards--intramed-side-branch-occlusion-sbo",
+  "artifact_folder": "embolic-coil--baxter-edwards--intramed-side-branch-occlusion-sbo",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3033,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--baxter-edwards--intramed-side-branch-occlusion-sbo.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--baxter-edwards--intramed-side-branch-occlusion-sbo/enriched/embolic-coil--baxter-edwards--intramed-side-branch-occlusion-sbo.json",
+        "bytes": 1495
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K964021.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--baxter-edwards--intramed-side-branch-occlusion-sbo/fda_raw/HCG/K964021.json",
+        "bytes": 624
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--baxter-edwards--intramed-side-branch-occlusion-sbo.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--baxter-edwards--intramed-side-branch-occlusion-sbo/merged/embolic-coil--baxter-edwards--intramed-side-branch-occlusion-sbo.json",
+        "bytes": 914
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

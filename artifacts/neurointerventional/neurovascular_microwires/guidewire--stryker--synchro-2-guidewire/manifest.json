@@ -1,0 +1,35 @@
+{
+  "device_slug": "guidewire--stryker--synchro-2-guidewire",
+  "artifact_folder": "guidewire--stryker--synchro-2-guidewire",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3941,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/guidewire--stryker--synchro-2-guidewire.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--stryker--synchro-2-guidewire/enriched/guidewire--stryker--synchro-2-guidewire.json",
+        "bytes": 1747
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/guidewire--stryker--synchro-2-guidewire.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--stryker--synchro-2-guidewire/merged/guidewire--stryker--synchro-2-guidewire.json",
+        "bytes": 1151
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/stryker/synchro-2-guidewire.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--stryker--synchro-2-guidewire/scraper_raw/stryker/synchro-2-guidewire.json",
+        "bytes": 1043
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microwires",
+    "label": "Microwires"
+  }
+}

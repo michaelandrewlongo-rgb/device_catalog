@@ -1,0 +1,31 @@
+{
+  "device_slug": "embolic-coil--stryker--target-detachable-coils",
+  "artifact_folder": "embolic-coil--stryker--target-detachable-coils",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 1691,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K153658.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--target-detachable-coils/fda_raw/HCG/K153658.json",
+        "bytes": 564
+      },
+      {
+        "source": "pipeline/data/fda_raw/HCG/K161429.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--target-detachable-coils/fda_raw/HCG/K161429.json",
+        "bytes": 564
+      },
+      {
+        "source": "pipeline/data/fda_raw/HCG/K242243.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--target-detachable-coils/fda_raw/HCG/K242243.json",
+        "bytes": 563
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

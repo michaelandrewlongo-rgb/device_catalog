@@ -1,0 +1,52 @@
+{
+  "device_slug": "thrombectomy--penumbra--penumbra-3d-revascularization",
+  "artifact_folder": "thrombectomy--penumbra--penumbra-3d-revascularization",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 491921,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/thrombectomy/parsed/fda_summaries/thrombectomy--penumbra--penumbra-3d-revascularization--510k.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--penumbra--penumbra-3d-revascularization/510k/thrombectomy/parsed/fda_summaries/thrombectomy--penumbra--penumbra-3d-revascularization--510k.json",
+        "bytes": 68316
+      },
+      {
+        "source": "pipeline/data/510k/thrombectomy/pdfs/thrombectomy--penumbra--penumbra-3d-revascularization--510k.pdf",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--penumbra--penumbra-3d-revascularization/510k/thrombectomy/pdfs/thrombectomy--penumbra--penumbra-3d-revascularization--510k.pdf",
+        "bytes": 406238
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/thrombectomy--penumbra--penumbra-3d-revascularization.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--penumbra--penumbra-3d-revascularization/enriched/thrombectomy--penumbra--penumbra-3d-revascularization.json",
+        "bytes": 15337
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NRY/K162901.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--penumbra--penumbra-3d-revascularization/fda_raw/NRY/K162901.json",
+        "bytes": 584
+      },
+      {
+        "source": "pipeline/data/fda_raw/NRY/K190464.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--penumbra--penumbra-3d-revascularization/fda_raw/NRY/K190464.json",
+        "bytes": 591
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/thrombectomy--penumbra--penumbra-3d-revascularization.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--penumbra--penumbra-3d-revascularization/merged/thrombectomy--penumbra--penumbra-3d-revascularization.json",
+        "bytes": 855
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "stent_retrievers",
+    "label": "Stent Retrievers"
+  }
+}

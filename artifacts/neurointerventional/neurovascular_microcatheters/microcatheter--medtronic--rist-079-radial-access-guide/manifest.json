@@ -1,0 +1,47 @@
+{
+  "device_slug": "microcatheter--medtronic--rist-079-radial-access-guide",
+  "artifact_folder": "microcatheter--medtronic--rist-079-radial-access-guide",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 2675357,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/microcatheter/parsed/fda_summaries/microcatheter--medtronic--rist-079-radial-access-guide--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--medtronic--rist-079-radial-access-guide/510k/microcatheter/parsed/fda_summaries/microcatheter--medtronic--rist-079-radial-access-guide--510k.json",
+        "bytes": 48551
+      },
+      {
+        "source": "pipeline/data/510k/microcatheter/pdfs/microcatheter--medtronic--rist-079-radial-access-guide--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--medtronic--rist-079-radial-access-guide/510k/microcatheter/pdfs/microcatheter--medtronic--rist-079-radial-access-guide--510k.pdf",
+        "bytes": 2593484
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/microcatheter--medtronic--rist-079-radial-access-guide.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--medtronic--rist-079-radial-access-guide/enriched/microcatheter--medtronic--rist-079-radial-access-guide.json",
+        "bytes": 31620
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/QJP/K241388.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--medtronic--rist-079-radial-access-guide/fda_raw/QJP/K241388.json",
+        "bytes": 700
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/microcatheter--medtronic--rist-079-radial-access-guide.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--medtronic--rist-079-radial-access-guide/merged/microcatheter--medtronic--rist-079-radial-access-guide.json",
+        "bytes": 1002
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

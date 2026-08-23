@@ -1,0 +1,66 @@
+{
+  "device_slug": "guidewire--balt--hybrid-guidewire",
+  "artifact_folder": "guidewire--balt--hybrid-guidewire",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 8,
+  "bytes": 358970,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/guidewire/parsed/documents/guidewire--balt--hybrid-guidewire--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--balt--hybrid-guidewire/510k/guidewire/parsed/documents/guidewire--balt--hybrid-guidewire--510k.json",
+        "bytes": 22139
+      },
+      {
+        "source": "pipeline/data/510k/guidewire/parsed/fda_summaries/guidewire--balt--hybrid-guidewire--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--balt--hybrid-guidewire/510k/guidewire/parsed/fda_summaries/guidewire--balt--hybrid-guidewire--510k.json",
+        "bytes": 109529
+      },
+      {
+        "source": "pipeline/data/510k/guidewire/pdfs/guidewire--balt--hybrid-guidewire--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--balt--hybrid-guidewire/510k/guidewire/pdfs/guidewire--balt--hybrid-guidewire--510k.pdf",
+        "bytes": 183713
+      }
+    ],
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/guidewire--balt--hybrid-guidewire--knowledge.md",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--balt--hybrid-guidewire/data_by_device/guidewire--balt--hybrid-guidewire--knowledge.md",
+        "bytes": 2266
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/guidewire--balt--hybrid-guidewire.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--balt--hybrid-guidewire/enriched/guidewire--balt--hybrid-guidewire.json",
+        "bytes": 38707
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/guidewire--balt--hybrid-guidewire.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--balt--hybrid-guidewire/extracted/fda_structured/guidewire--balt--hybrid-guidewire.json",
+        "bytes": 813
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MOF/K182337.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--balt--hybrid-guidewire/fda_raw/MOF/K182337.json",
+        "bytes": 536
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/guidewire--balt--hybrid-guidewire.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--balt--hybrid-guidewire/merged/guidewire--balt--hybrid-guidewire.json",
+        "bytes": 1267
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microwires",
+    "label": "Microwires"
+  }
+}

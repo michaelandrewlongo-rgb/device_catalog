@@ -1,0 +1,28 @@
+{
+  "device_slug": "guidewire--stryker--synchro-select-tm-guidewires-excellence-comes",
+  "artifact_folder": "guidewire--stryker--synchro-select-tm-guidewires-excellence-comes",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 2,
+  "bytes": 3073,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/guidewire--stryker--synchro-select-tm-guidewires-excellence-comes.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--stryker--synchro-select-tm-guidewires-excellence-comes/enriched/guidewire--stryker--synchro-select-tm-guidewires-excellence-comes.json",
+        "bytes": 1833
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/guidewire--stryker--synchro-select-tm-guidewires-excellence-comes.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--stryker--synchro-select-tm-guidewires-excellence-comes/merged/guidewire--stryker--synchro-select-tm-guidewires-excellence-comes.json",
+        "bytes": 1240
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microwires",
+    "label": "Microwires"
+  }
+}

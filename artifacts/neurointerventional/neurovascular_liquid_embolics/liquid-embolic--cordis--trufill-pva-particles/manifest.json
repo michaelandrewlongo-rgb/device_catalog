@@ -1,0 +1,35 @@
+{
+  "device_slug": "liquid-embolic--cordis--trufill-pva-particles",
+  "artifact_folder": "liquid-embolic--cordis--trufill-pva-particles",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2755,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/liquid-embolic--cordis--trufill-pva-particles.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--cordis--trufill-pva-particles/enriched/liquid-embolic--cordis--trufill-pva-particles.json",
+        "bytes": 1384
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K965174.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--cordis--trufill-pva-particles/fda_raw/HCG/K965174.json",
+        "bytes": 568
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/liquid-embolic--cordis--trufill-pva-particles.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--cordis--trufill-pva-particles/merged/liquid-embolic--cordis--trufill-pva-particles.json",
+        "bytes": 803
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_liquid_embolics",
+    "label": "Onyx, Squid, PHIL"
+  }
+}

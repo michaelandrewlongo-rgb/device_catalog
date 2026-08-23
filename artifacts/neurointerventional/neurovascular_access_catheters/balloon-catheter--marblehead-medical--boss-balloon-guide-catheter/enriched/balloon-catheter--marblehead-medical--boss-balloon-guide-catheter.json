@@ -1,0 +1,93 @@
+{
+ "device_name": "BOSS Balloon Guide Catheter",
+ "manufacturer": "marblehead-medical",
+ "catalog_category": "balloon-catheter",
+ "filename_stem": "balloon-catheter--marblehead-medical--boss-balloon-guide-catheter",
+ "clearance_type": "510k",
+ "clearance_number": "K200910",
+ "clearance_date": "2020-05-02",
+ "device_class": 2,
+ "device_name_fda": "BOSS Balloon Guide Catheter",
+ "product_code": "QJP",
+ "what_it_is": "DEVICE DESCRIPTION [807.92(a)(4)]\nThe BOSS Balloon Guide Catheter system is a sterile, single-use intravascular catheter. The\nBOSS Balloon Guide Catheter is a 90 cm long, variable stiffness catheter utilizing a bifurcated\ndual port luer hub on the proximal end and a radiopaque marker band at the tip distal to the\nballoon. The catheter shaft has an annular inflation lumen and a coaxial central lumen with\nstainless steel coil and is braid reinforced. The hub central port leads to the central lumen to\nfacilitate introduction of interventional devices through the central lumen. The inflation port is\npositioned at an angle to the central port, connecting to the annular inflation lumen, and is\nused to facilitate inflating and deflating the balloon with a syringe. The BOSS Balloon Guide\nCatheter uses a distal hydrophilic coating to provide lubricity and reduce friction between the\ncatheter shaft and the vessel wall. The BOSS Balloon Guide Catheter is packaged with the 6F\ndilator to facilitate the option of direct access into the blood vessel without the use of an\nintroducer sheath.\nINDICATION FOR USE [807.92(a)(5)]\nThe BOSS Balloon Guide Catheter is indicated for use in facilitating the insertion and guidance\nof an intravascular catheter into a selected blood vessel in the peripheral and neurovascular\nPage 1\n\nsystems. The balloon provides temporary vascular occlusion during these procedures. The\nBalloon Guide Catheter is also indicated for use as a conduit for retrieval devices.",
+ "sizing_specs": {
+  "legacy_note": "DEVICE DESCRIPTION [807.92(a)(4)]\nThe BOSS Balloon Guide Catheter system is a sterile, single-use intravascular catheter. The\nBOSS Balloon Guide Catheter is a 90 cm long, variable stiffness catheter utilizing a bifurcated\ndual port luer hub on the proximal end and a radiopaque marker band at the tip distal to the\nballoon. The catheter shaft has an annular inflation lumen and a coaxial central lumen with\nstainless steel coil and is braid reinforced. The hub central port leads to the central lumen to\nfacilitate introduction of interventional devices through the central lumen. The inflation port is\npositioned at an angle to the central port, connecting to the annular inflation lumen, and is\nused to facilitate inflating and deflating the balloon with a syringe. The BOSS Balloon Guide\nCatheter uses a distal hydrophilic coating to provide lubricity and reduce friction between the\ncatheter shaft and the vessel wall. The BOSS Balloon Guide Catheter is packaged with the 6F\ndilator to facilitate the option of direct access into the blood vessel without the use of an\nintroducer sheath.\nINDICATION FOR USE [807.92(a)(5)]\nThe BOSS Balloon Guide Catheter is indicated for use in facilitating the insertion and guidance\nof an intravascular catheter into a selected blood vessel in the peripheral and neurovascular\nPage 1\n\nsystems. The balloon provides temporary vascular occlusion during these procedures. The\nBalloon Guide Catheter is also indicated for use as a conduit for retrieval devices.",
+  "id_od": {
+   "units": "inches",
+   "max_od_is_proximal": true,
+   "od_prox": {
+    "in": 0.108,
+    "mm": 2.7,
+    "fr": 8.0,
+    "note": "Labeled Shaft Outer Diameter 0.108-in (max) (2.7mm) 8Fr"
+   },
+   "verbatim_quote": " efficacy, both materials are used for intravascular use. Labeled Shaft Outer Diameter 0.108-in (max) (2.7mm) 8Fr 0.110-in (max) (2.8mm) 8F 0.123-in (max) (3.1mm) 9.4Fr Similar, diffe",
+   "k_number": "K200910",
+   "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K200910.pdf",
+   "extraction_method": "pymupdf_text_regex_verified",
+   "extracted": "2026-08-23"
+  },
+  "spec_status": "verified"
+ },
+ "indications": "Indications for Use See PRA Statement below.\n510(k) Number (if known)\nK200910\nDevice Name\nBOSS Balloon Guide Catheter\nIndications for Use (Describe)\nThe BOSS Balloon Guide Catheter is indicated for use in facilitating the insertion and guidance of an intravascular\ncatheter into a selected blood vessel in the peripheral and neurovascular systems. The balloon provides temporary vascular\nocclusion during these procedures. The Balloon Guide Catheter is also indicated for use as a conduit for retrieval devices.\nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)\nCONTINUE ON A SEPARATE PAGE IF NEEDED.\nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the\ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any other aspect\nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n\u201cAn agency may not conduct or sponsor, and a person is not required to respond to, a collection of\ninformation unless it displays a currently valid OMB number.\u201d\nFORM FDA 3881 (7/17) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF\n\nBOSS\u2122 Balloon Guide Catheter\n510(k) Summary\nSUBMITTER [807.92(a)(1)]\nSubmitter\u2019s Name: Marblehead Medical, LLC\nAddress: 11600 96th Ave N Maple Grove, MN 55369\nContact Person: Kristin Mortenson\nTelephone: (612)202-1142\nemail Mortenson.Kristin@MarbleheadMedical.com\nDate Prepared: April 24, 2020\nDEVICE [807.92(a)(2)]\nDevice Trade Name: BOSS\u2122 Balloon Guide Catheter\nCommon Name: Balloon Guide Catheter\nClassification Name: Percutaneous Catheter\nProduct Code: QJP, DQY\nRegulatory Class: Class II\nRegulation Number: 21 CFR 870.1250\nPREDICATE [807.92(a)(3)]\nPrimary Predicate Device: 8F FlowGate2TM Balloon Guide Catheter, K153729\nSecondary Predicate Device: NeuronTM MAX System, K111380",
+ "contraindications": null,
+ "compatible_with": null,
+ "use_notes": null,
+ "deployment_steps": null,
+ "also_known_as": [
+  "K111380",
+  "K153720",
+  "K111380",
+  "K153720",
+  "K111380",
+  "K153720",
+  "K111380",
+  "K153720",
+  "K111380",
+  "K153720",
+  "K111380",
+  "K153720",
+  "K111380",
+  "K153720",
+  "K111380",
+  "K153720"
+ ],
+ "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K200910.pdf",
+ "ifu_pdf_url": null,
+ "source_url": "",
+ "confidence_score": 0.5,
+ "needs_review": false,
+ "data_sources": [
+  "fda"
+ ],
+ "_enrichment": {
+  "what_it_is": {
+   "source": "fda_summary",
+   "confidence": 0.9
+  },
+  "sizing_specs": {
+   "source": "fda_summary",
+   "confidence": 0.3
+  },
+  "indications": {
+   "source": "fda_summary",
+   "confidence": 0.95
+  },
+  "contraindications": {
+   "source": "none",
+   "confidence": 0
+  },
+  "compatible_with": {
+   "source": "none",
+   "confidence": 0
+  },
+  "use_notes": {
+   "source": "none",
+   "confidence": 0
+  },
+  "also_known_as": {
+   "source": "fda_summary",
+   "confidence": 0.3
+  }
+ }
+}

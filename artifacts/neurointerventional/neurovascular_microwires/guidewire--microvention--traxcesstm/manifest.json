@@ -1,0 +1,28 @@
+{
+  "device_slug": "guidewire--microvention--traxcesstm",
+  "artifact_folder": "guidewire--microvention--traxcesstm",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 2,
+  "bytes": 2070,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/guidewire--microvention--traxcesstm.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--microvention--traxcesstm/enriched/guidewire--microvention--traxcesstm.json",
+        "bytes": 1325
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/guidewire--microvention--traxcesstm.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--microvention--traxcesstm/merged/guidewire--microvention--traxcesstm.json",
+        "bytes": 745
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microwires",
+    "label": "Microwires"
+  }
+}

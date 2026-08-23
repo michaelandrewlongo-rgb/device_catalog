@@ -1,0 +1,35 @@
+{
+  "device_slug": "embolic-coil--interventional-therapeutics-corp--itc-bunji-coil-modification",
+  "artifact_folder": "embolic-coil--interventional-therapeutics-corp--itc-bunji-coil-modification",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2964,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--interventional-therapeutics-corp--itc-bunji-coil-modification.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--interventional-therapeutics-corp--itc-bunji-coil-modification/enriched/embolic-coil--interventional-therapeutics-corp--itc-bunji-coil-modification.json",
+        "bytes": 1454
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K920324.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--interventional-therapeutics-corp--itc-bunji-coil-modification/fda_raw/HCG/K920324.json",
+        "bytes": 637
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--interventional-therapeutics-corp--itc-bunji-coil-modification.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--interventional-therapeutics-corp--itc-bunji-coil-modification/merged/embolic-coil--interventional-therapeutics-corp--itc-bunji-coil-modification.json",
+        "bytes": 873
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

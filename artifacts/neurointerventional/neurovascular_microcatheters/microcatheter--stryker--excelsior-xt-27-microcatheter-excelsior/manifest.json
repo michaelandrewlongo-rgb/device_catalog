@@ -1,0 +1,21 @@
+{
+  "device_slug": "microcatheter--stryker--excelsior-xt-27-microcatheter-excelsior",
+  "artifact_folder": "microcatheter--stryker--excelsior-xt-27-microcatheter-excelsior",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 718,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/QJP/K242289.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--excelsior-xt-27-microcatheter-excelsior/fda_raw/QJP/K242289.json",
+        "bytes": 718
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

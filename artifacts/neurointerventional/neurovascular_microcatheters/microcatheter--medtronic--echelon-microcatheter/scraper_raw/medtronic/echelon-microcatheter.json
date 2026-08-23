@@ -1,0 +1,17 @@
+{
+  "device_name": "Echelon Microcatheter",
+  "manufacturer": "medtronic",
+  "category_hint": "microcatheter",
+  "what_it_is": "Single-lumen microcatheter designed for introduction over a steerable guidewire into vasculature during neurovascular procedures. Nitinol braid technology with progressive picks-per-inch. Graduated zones and transition points for balance between pushability and softness. DMSO compatible for liquid embolic delivery.",
+  "sizing_specs": "Models: Echelon 10 (low profile 1.7F distal OD), Echelon 14 (0.017 inch ID); Large 0.017 inch ID; Proximal fluoro-safe marker band; Steam-shapeable flexible tip with dual marker bands; Working length 150 cm",
+  "indications": "Introduction of interventional devices and infusion of diagnostic or therapeutic agents during neurovascular procedures. DMSO-compatible for Onyx liquid embolic delivery.",
+  "compatible_with": "Onyx Liquid Embolic System (DMSO compatible), Pipeline Flex, Solitaire X, X-Pedion hydrophilic guidewire",
+  "use_notes": "Nitinol braid provides kink resistance and minimal ovalization for reliable device delivery. Echelon 10 has low profile 1.7F distal OD for accessing small vessels.",
+  "also_known_as": [
+    "Echelon 10",
+    "Echelon 14"
+  ],
+  "source_url": "https://www.medtronic.com/en-us/healthcare-professionals/products/neurological/neurovascular/catheters/micro-catheters/echelon-micro-catheter.html",
+  "ifu_pdf_url": null,
+  "other_pdf_urls": {}
+}

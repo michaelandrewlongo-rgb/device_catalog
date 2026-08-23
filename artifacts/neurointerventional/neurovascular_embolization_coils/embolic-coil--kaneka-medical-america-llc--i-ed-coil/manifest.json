@@ -1,0 +1,47 @@
+{
+  "device_slug": "embolic-coil--kaneka-medical-america-llc--i-ed-coil",
+  "artifact_folder": "embolic-coil--kaneka-medical-america-llc--i-ed-coil",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 408139,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/embolic-coil/parsed/fda_summaries/embolic-coil--kaneka-medical-america-llc--i-ed-coil--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--kaneka-medical-america-llc--i-ed-coil/510k/embolic-coil/parsed/fda_summaries/embolic-coil--kaneka-medical-america-llc--i-ed-coil--510k.json",
+        "bytes": 43158
+      },
+      {
+        "source": "pipeline/data/510k/embolic-coil/pdfs/embolic-coil--kaneka-medical-america-llc--i-ed-coil--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--kaneka-medical-america-llc--i-ed-coil/510k/embolic-coil/pdfs/embolic-coil--kaneka-medical-america-llc--i-ed-coil--510k.pdf",
+        "bytes": 340973
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--kaneka-medical-america-llc--i-ed-coil.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--kaneka-medical-america-llc--i-ed-coil/enriched/embolic-coil--kaneka-medical-america-llc--i-ed-coil.json",
+        "bytes": 22603
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K210638.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--kaneka-medical-america-llc--i-ed-coil/fda_raw/HCG/K210638.json",
+        "bytes": 588
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--kaneka-medical-america-llc--i-ed-coil.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--kaneka-medical-america-llc--i-ed-coil/merged/embolic-coil--kaneka-medical-america-llc--i-ed-coil.json",
+        "bytes": 817
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

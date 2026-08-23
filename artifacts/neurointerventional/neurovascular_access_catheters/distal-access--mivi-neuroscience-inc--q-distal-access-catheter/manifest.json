@@ -1,0 +1,61 @@
+{
+  "device_slug": "distal-access--mivi-neuroscience-inc--q-distal-access-catheter",
+  "artifact_folder": "distal-access--mivi-neuroscience-inc--q-distal-access-catheter",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 7,
+  "bytes": 648505,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/distal-access/parsed/fda_summaries/distal-access--mivi-neuroscience-inc--q-distal-access-catheter--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--mivi-neuroscience-inc--q-distal-access-catheter/510k/distal-access/parsed/fda_summaries/distal-access--mivi-neuroscience-inc--q-distal-access-catheter--510k.json",
+        "bytes": 22846
+      },
+      {
+        "source": "pipeline/data/510k/distal-access/pdfs/distal-access--mivi-neuroscience-inc--q-distal-access-catheter--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--mivi-neuroscience-inc--q-distal-access-catheter/510k/distal-access/pdfs/distal-access--mivi-neuroscience-inc--q-distal-access-catheter--510k.pdf",
+        "bytes": 613816
+      }
+    ],
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/distal-access--mivi-neuroscience-inc--q-distal-access-catheter--knowledge.md",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--mivi-neuroscience-inc--q-distal-access-catheter/data_by_device/distal-access--mivi-neuroscience-inc--q-distal-access-catheter--knowledge.md",
+        "bytes": 4714
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/distal-access--mivi-neuroscience-inc--q-distal-access-catheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--mivi-neuroscience-inc--q-distal-access-catheter/enriched/distal-access--mivi-neuroscience-inc--q-distal-access-catheter.json",
+        "bytes": 4853
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/distal-access--mivi-neuroscience-inc--q-distal-access-catheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--mivi-neuroscience-inc--q-distal-access-catheter/extracted/fda_structured/distal-access--mivi-neuroscience-inc--q-distal-access-catheter.json",
+        "bytes": 832
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/QJP/K222948.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--mivi-neuroscience-inc--q-distal-access-catheter/fda_raw/QJP/K222948.json",
+        "bytes": 604
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/distal-access--mivi-neuroscience-inc--q-distal-access-catheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--mivi-neuroscience-inc--q-distal-access-catheter/merged/distal-access--mivi-neuroscience-inc--q-distal-access-catheter.json",
+        "bytes": 840
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_access_catheters",
+    "label": "Access, Guide, Delivery Catheters"
+  }
+}

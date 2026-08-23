@@ -1,0 +1,35 @@
+{
+  "device_slug": "embolic-coil--micrus-endovascular-corporation--micrus-microcoil-cashmere-cerecyte-model",
+  "artifact_folder": "embolic-coil--micrus-endovascular-corporation--micrus-microcoil-cashmere-cerecyte-model",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3230,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--micrus-endovascular-corporation--micrus-microcoil-cashmere-cerecyte-model.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--micrus-endovascular-corporation--micrus-microcoil-cashmere-cerecyte-model/enriched/embolic-coil--micrus-endovascular-corporation--micrus-microcoil-cashmere-cerecyte-model.json",
+        "bytes": 1559
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K072173.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--micrus-endovascular-corporation--micrus-microcoil-cashmere-cerecyte-model/fda_raw/HCG/K072173.json",
+        "bytes": 693
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--micrus-endovascular-corporation--micrus-microcoil-cashmere-cerecyte-model.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--micrus-endovascular-corporation--micrus-microcoil-cashmere-cerecyte-model/merged/embolic-coil--micrus-endovascular-corporation--micrus-microcoil-cashmere-cerecyte-model.json",
+        "bytes": 978
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

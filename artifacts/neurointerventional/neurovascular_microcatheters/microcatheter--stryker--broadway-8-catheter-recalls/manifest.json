@@ -1,0 +1,21 @@
+{
+  "device_slug": "microcatheter--stryker--broadway-8-catheter-recalls",
+  "artifact_folder": "microcatheter--stryker--broadway-8-catheter-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 1542,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/microcatheter--stryker--broadway-8-catheter-recalls.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--broadway-8-catheter-recalls/extracted/fda_safety/microcatheter--stryker--broadway-8-catheter-recalls.json",
+        "bytes": 1542
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

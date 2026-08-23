@@ -1,0 +1,47 @@
+{
+  "device_slug": "embolic-coil--codman-and-shurtleff-inc--deltamaxx-18-microcoil",
+  "artifact_folder": "embolic-coil--codman-and-shurtleff-inc--deltamaxx-18-microcoil",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 294459,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/embolic-coil/parsed/fda_summaries/embolic-coil--codman-and-shurtleff-inc--deltamaxx-18-microcoil--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--codman-and-shurtleff-inc--deltamaxx-18-microcoil/510k/embolic-coil/parsed/fda_summaries/embolic-coil--codman-and-shurtleff-inc--deltamaxx-18-microcoil--510k.json",
+        "bytes": 10231
+      },
+      {
+        "source": "pipeline/data/510k/embolic-coil/pdfs/embolic-coil--codman-and-shurtleff-inc--deltamaxx-18-microcoil--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--codman-and-shurtleff-inc--deltamaxx-18-microcoil/510k/embolic-coil/pdfs/embolic-coil--codman-and-shurtleff-inc--deltamaxx-18-microcoil--510k.pdf",
+        "bytes": 280512
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--codman-and-shurtleff-inc--deltamaxx-18-microcoil.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--codman-and-shurtleff-inc--deltamaxx-18-microcoil/enriched/embolic-coil--codman-and-shurtleff-inc--deltamaxx-18-microcoil.json",
+        "bytes": 2255
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K120274.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--codman-and-shurtleff-inc--deltamaxx-18-microcoil/fda_raw/HCG/K120274.json",
+        "bytes": 609
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--codman-and-shurtleff-inc--deltamaxx-18-microcoil.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--codman-and-shurtleff-inc--deltamaxx-18-microcoil/merged/embolic-coil--codman-and-shurtleff-inc--deltamaxx-18-microcoil.json",
+        "bytes": 852
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

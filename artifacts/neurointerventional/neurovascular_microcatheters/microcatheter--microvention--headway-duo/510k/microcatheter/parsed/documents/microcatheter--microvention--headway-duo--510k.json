@@ -1,0 +1,23 @@
+{
+  "source_pdf": "microcatheter--microvention--headway-duo--510k.pdf",
+  "device_name": "headway-duo",
+  "manufacturer": "microvention",
+  "doc_type": "510k",
+  "extraction_method": "pdf_deepseek",
+  "fields": {
+    "what_it_is": "The Headway Duo Microcatheter is a single lumen catheter designed to be introduced over a steerable guidewire to access small, tortuous vasculature. The semi-rigid proximal section transitions to a flexible distal tip to facilitate advancement through vessels. Dual radiopaque markers at the distal end facilitate fluoroscopic visualization. The outer surface of the microcatheter is coated with a hydrophilic polymer to increase lubricity. A luer fitting on the microcatheter hub is used for the attachment of accessories.",
+    "sizing_specs": "The microcatheter length has been extended up to 157 and 168 cm.",
+    "indications": "The Headway Duo Microcatheter is intended for general intravascular use, including the peripheral and coronary vasculature for the infusion of diagnostic agents, such as contrast media, and therapeutic agents, such as embolization materials. The Headway Duo Microcatheter is intended for neurovascular use, for the infusion of diagnostic agents, such as contrast media, and therapeutic agents that have been cleared or approved for use the in neurovasculature and are compatible with the inner diameter of the Headway Duo Microcatheter.",
+    "contraindications": null,
+    "compatible_with": "The Headway Duo has been verified to be compatible for use with embolization materials, such as occlusion coils, liquid embolic devices (such as Onyx®0 and Trufil®o liquid embolic systems), and PVA particles.",
+    "use_notes": null,
+    "also_known_as": "Headway Duo Microcatheter"
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "sizing_specs": 0.7,
+    "indications": 0.7,
+    "compatible_with": 0.7,
+    "also_known_as": 0.7
+  }
+}

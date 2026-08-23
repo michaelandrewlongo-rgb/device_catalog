@@ -1,0 +1,47 @@
+{
+  "device_slug": "microcatheter--imperative-care-inc--imperative-care-radial-088-access",
+  "artifact_folder": "microcatheter--imperative-care-inc--imperative-care-radial-088-access",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 589624,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/microcatheter/parsed/fda_summaries/microcatheter--imperative-care-inc--imperative-care-radial-088-access--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--imperative-care-inc--imperative-care-radial-088-access/510k/microcatheter/parsed/fda_summaries/microcatheter--imperative-care-inc--imperative-care-radial-088-access--510k.json",
+        "bytes": 36179
+      },
+      {
+        "source": "pipeline/data/510k/microcatheter/pdfs/microcatheter--imperative-care-inc--imperative-care-radial-088-access--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--imperative-care-inc--imperative-care-radial-088-access/510k/microcatheter/pdfs/microcatheter--imperative-care-inc--imperative-care-radial-088-access--510k.pdf",
+        "bytes": 532616
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/microcatheter--imperative-care-inc--imperative-care-radial-088-access.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--imperative-care-inc--imperative-care-radial-088-access/enriched/microcatheter--imperative-care-inc--imperative-care-radial-088-access.json",
+        "bytes": 19329
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/QJP/K220807.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--imperative-care-inc--imperative-care-radial-088-access/fda_raw/QJP/K220807.json",
+        "bytes": 623
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/microcatheter--imperative-care-inc--imperative-care-radial-088-access.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--imperative-care-inc--imperative-care-radial-088-access/merged/microcatheter--imperative-care-inc--imperative-care-radial-088-access.json",
+        "bytes": 877
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

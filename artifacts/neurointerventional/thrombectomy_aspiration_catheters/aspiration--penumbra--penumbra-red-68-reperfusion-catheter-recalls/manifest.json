@@ -1,0 +1,21 @@
+{
+  "device_slug": "aspiration--penumbra--penumbra-red-68-reperfusion-catheter-recalls",
+  "artifact_folder": "aspiration--penumbra--penumbra-red-68-reperfusion-catheter-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 4378,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/aspiration--penumbra--penumbra-red-68-reperfusion-catheter-recalls.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-red-68-reperfusion-catheter-recalls/extracted/fda_safety/aspiration--penumbra--penumbra-red-68-reperfusion-catheter-recalls.json",
+        "bytes": 4378
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "thrombectomy_aspiration_catheters",
+    "label": "Aspiration Catheters"
+  }
+}
