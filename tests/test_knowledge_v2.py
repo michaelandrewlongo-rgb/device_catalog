@@ -363,4 +363,5 @@ def test_classify_cell_lifts_numbers_only_from_pure_number_cells():
     assert cell_unit("0.0165/0.013 inch (ID)", "F") == ("inch", True)
     assert cell_unit("2.9", "F") == ("F", False)
     assert cell_unit("30 mm; 48 mm; 200 cm", "cm") == ("cm", True)  # mixed -> keep header, flag conflict
+    assert cell_unit("ID as small as 0.021 inch (1.6 F); also compatible with 0.035 inch (2.67 F)", "F") == ("inch", True)
 

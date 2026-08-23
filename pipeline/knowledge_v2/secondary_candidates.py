@@ -104,7 +104,14 @@ def classify_cell(text: str) -> tuple[str, Any]:
 
 def cell_unit(text: str, header_unit: str) -> tuple[str, bool]:
     """Unit to report for a cell: an explicit in-cell unit wins over the header."""
-    found = {unit for pattern, unit in UNIT_TOKENS if pattern.search(text or "")}
+    text = text or ""
+    found = {unit for pattern, unit in UNIT_TOKENS if pattern.search(text)}
+    # Parenthetical units are conversions of the value beside them ("0.021 inch
+    # (1.6 F)"); the unit outside the parentheses is the cell's own.
+    outside = re.sub(r"\([^)]*\)", " ", text)
+    primary = {unit for pattern, unit in UNIT_TOKENS if pattern.search(outside)}
+    if len(found) > 1 and len(primary) == 1:
+        found = primary
     if not found or found == {header_unit}:
         return header_unit, False
     if len(found) == 1:
