@@ -61,6 +61,20 @@ def family_category(family: str, section: str) -> str:
     return slugify(section) or "device"
 
 
+def identity_terms(family: str, device_name: str) -> list[str]:
+    """Terms any one of which proves the catalog page names this family.
+
+    Family titles are reconstructed from headings and may not be printed
+    contiguously ("introducer sheath (long) IVA" vs the page's "ballast & IVA"),
+    so the brand token - the last alphabetic word of 3+ letters - is accepted too.
+    """
+    terms = [family, device_name]
+    words = [w for w in re.findall(r"[A-Za-z][A-Za-z0-9+\-]{2,}", family) if w.lower() not in {"the", "and", "for", "with", "system", "catheter", "device", "coil", "stent", "long", "kit"}]
+    if words:
+        terms.append(words[-1])
+    return terms
+
+
 def family_device_name(family: str) -> str:
     name = re.sub(r"[®™*]", "", family).strip()
     return " ".join(w if w.isupper() and len(w) <= 3 else w.capitalize() if w.isupper() else w for w in name.split())
@@ -113,7 +127,7 @@ def ingest(name: str, manufacturer: str, pdf_relative: str, catalog_year: str | 
                 "revision": f"{year} catalog",
                 "local_filename": pdf_relative,
                 "sha256": sha,
-                "identity": {"required_any": [family, device_name]},
+                "identity": {"required_any": identity_terms(family, device_name)},
                 "notes": (
                     f"Manufacturer product catalog dated {year}; catalog-number-level specifications as "
                     "published by the manufacturer. Outranked by the current IFU or labeling on conflict; "

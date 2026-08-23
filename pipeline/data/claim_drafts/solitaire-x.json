@@ -1,0 +1,158 @@
+[
+ {
+  "claim_id": "claim:stent-retriever--medtronic--solitaire-x:indication-1-post-tpa-6h:solitaire-x-ifu-2025",
+  "device_id": "stent-retriever--medtronic--solitaire-x",
+  "claim_type": "indication",
+  "text": "US labeling states Indication 1: the Solitaire X device is indicated to restore blood flow by removing thrombus to reduce disability in patients with acute ischemic stroke due to a persistent, proximal anterior circulation large vessel occlusion and smaller core infarcts who have first received IV t-PA; endovascular therapy with the device should be started within 6 hours of symptom onset.",
+  "locators": [
+   "PDF page 3, INDICATIONS (item 1)"
+  ],
+  "source_quote": "Endovascular therapy with the device should be started within 6 hours of symptom onset."
+ },
+ {
+  "claim_id": "claim:stent-retriever--medtronic--solitaire-x:indication-2-8h-tpa-ineligible:solitaire-x-ifu-2025",
+  "device_id": "stent-retriever--medtronic--solitaire-x",
+  "claim_type": "indication",
+  "text": "US labeling states Indication 2: the Solitaire X device is indicated to restore blood flow by removing thrombus from a large intracranial vessel in patients experiencing ischemic stroke within 8 hours of symptom onset; patients who are ineligible for IV t-PA or who fail IV t-PA therapy are candidates for treatment.",
+  "locators": [
+   "PDF page 3, INDICATIONS (item 2)"
+  ],
+  "source_quote": "ischemic stroke within 8 hours of symptom onset"
+ },
+ {
+  "claim_id": "claim:stent-retriever--medtronic--solitaire-x:indication-3-6-16h-core-infarct:solitaire-x-ifu-2025",
+  "device_id": "stent-retriever--medtronic--solitaire-x",
+  "claim_type": "indication",
+  "text": "US labeling states Indication 3: the Solitaire X device is indicated to restore blood flow by removing thrombus to reduce disability in patients with a persistent, proximal anterior circulation large vessel occlusion of the ICA or MCA-M1 segment with smaller core infarcts (<70 cc by CTA or MRA, <25 cc by MR-DWI); endovascular therapy with the device should be started within 6-16 hours of time last known well in patients who are ineligible for IV t-PA or who fail IV t-PA therapy.",
+  "locators": [
+   "PDF page 3, INDICATIONS (item 3)"
+  ],
+  "source_quote": "smaller core infarcts (<70 cc by CTA or MRA, <25 cc by MR-DWI)"
+ },
+ {
+  "claim_id": "claim:stent-retriever--medtronic--solitaire-x:intended-vessel-segments:solitaire-x-ifu-2025",
+  "device_id": "stent-retriever--medtronic--solitaire-x",
+  "claim_type": "indication",
+  "text": "The IFU's DESCRIPTION section states the Solitaire X device is designed for use in the neurovasculature such as the internal carotid artery, the M1 and M2 segments of the middle cerebral artery, the basilar artery, and the vertebral arteries.",
+  "locators": [
+   "PDF page 3, DESCRIPTION"
+  ],
+  "source_quote": "internal carotid artery, M1 and M2 segments of the middle cerebral artery, basilar and the vertebral arteries"
+ },
+ {
+  "claim_id": "claim:stent-retriever--medtronic--solitaire-x:contraindications:solitaire-x-ifu-2025",
+  "device_id": "stent-retriever--medtronic--solitaire-x",
+  "claim_type": "contraindication",
+  "text": "US labeling lists three contraindications for the Solitaire X device: known hypersensitivity to nickel-titanium; stenosis and/or pre-existing stent proximal to the thrombus site that may preclude safe recovery of the device; and angiographic evidence of carotid dissection.",
+  "locators": [
+   "PDF page 3, CONTRAINDICATIONS"
+  ],
+  "source_quote": "Patients with known hypersensitivity to nickel-titanium."
+ },
+ {
+  "claim_id": "claim:stent-retriever--medtronic--solitaire-x:sizing-table-1:solitaire-x-ifu-2025",
+  "device_id": "stent-retriever--medtronic--solitaire-x",
+  "claim_type": "sizing",
+  "text": "Table 1 (Product Specifications and Recommended Sizing Guidelines) lists seven Solitaire X models, each with a 200 cm push wire length and recommended microcatheter inner diameter of 0.017 in (0.43 mm) to 0.027 in (0.69 mm): SFR4-3-20-10 (recommended vessel diameter 1.5-3.0 mm, stent diameter 3.0 mm, usable length 20.0 mm, stent length 30.6 mm); SFR4-3-40-10 (1.5-3.0 mm, 3.0 mm, 40.0 mm, 51.6 mm); SFR4-4-20-05 (1.5-4.0 mm, 4.0 mm, 20.0 mm, 31.0 mm); SFR4-4-20-10 (1.5-4.0 mm, 4.0 mm, 20.0 mm, 31.0 mm); SFR4-4-40-10 (1.5-4.0 mm, 4.0 mm, 40.0 mm, 50.0 mm); SFR4-6-20-10 (2.0-5.5 mm, 6.0 mm, 20.0 mm, 24.0 mm); SFR4-6-24-06 (2.0-5.5 mm, 6.0 mm, 24.0 mm, 37.0 mm); SFR4-6-40-10 (2.0-5.5 mm, 6.0 mm, 40.0 mm, 47.0 mm). Device selection should be based on the smallest vessel diameter at the thrombus site, choosing a usable length at least as long as the length of the thrombus.",
+  "locators": [
+   "PDF page 4, Table 1. Solitaire X Revascularization Device: Product Specifications and Recommended Sizing Guidelines"
+  ],
+  "source_quote": "Recommended Microcatheter Inner Diameter 0.017\" (0.43 mm)-0.027\" (0.69 mm)"
+ },
+ {
+  "claim_id": "claim:stent-retriever--medtronic--solitaire-x:microcatheter-compatibility:solitaire-x-ifu-2025",
+  "device_id": "stent-retriever--medtronic--solitaire-x",
+  "claim_type": "compatibility",
+  "text": "US labeling requires the Solitaire X device to be introduced through a microcatheter with an inside diameter of 0.017 in (0.43 mm) to 0.027 in (0.69 mm) per Table 1. Compatibility testing was performed to support use with Phenom 21/27, Rebar 18, and Marksman microcatheters; additionally, compatibility testing for the 3 mm Solitaire X devices has been performed with the Trevo Pro-14 microcatheter, and the instructions supplied with the microcatheter should be referred to for its intended uses, contraindications, and complications.",
+  "locators": [
+   "PDF page 4, Materials Required",
+   "PDF page 4, Compatibility"
+  ],
+  "compatibility_status": "manufacturer_labeled",
+  "source_quote": "compatibility testing for the 3 mm Solitaire™ X devices has been performed with the Trevo™ Pro-14 microcatheter"
+ },
+ {
+  "claim_id": "claim:stent-retriever--medtronic--solitaire-x:guide-catheter-sizing:solitaire-x-ifu-2025",
+  "device_id": "stent-retriever--medtronic--solitaire-x",
+  "claim_type": "compatibility",
+  "text": "The IFU recommends (as a not-supplied accessory) a minimum 5F (1.67 mm) guide catheter with an appropriate minimum inside diameter of 0.061 in (1.55 mm); for a balloon guide catheter, an 8F (2.67 mm)-9F (3.00 mm) catheter with a minimum inside diameter of 0.075 in (1.91 mm) should be used.",
+  "locators": [
+   "PDF page 4, Materials Required / Other accessories"
+  ],
+  "compatibility_status": "manufacturer_labeled",
+  "source_quote": "Minimum 5F (1.67 mm) guide catheter"
+ },
+ {
+  "claim_id": "claim:stent-retriever--medtronic--solitaire-x:aspiration-device-compatibility:solitaire-x-ifu-2025",
+  "device_id": "stent-retriever--medtronic--solitaire-x",
+  "claim_type": "compatibility",
+  "text": "The IFU lists an aspiration device (60 cc syringe or aspiration pump/system, such as the Riptide Aspiration System) as an accessory not supplied; the Riptide Aspiration System has been bench tested with the Solitaire X device as an aspiration device during retrieval to the guide catheter, and no other aspiration pump systems have been specifically tested or reported in clinical literature for use with the Solitaire X device.",
+  "locators": [
+   "PDF page 4, Other accessories for performing a procedure and NOT supplied"
+  ],
+  "compatibility_status": "manufacturer_labeled",
+  "source_quote": "60 cc syringe or aspiration pump/system, such as the Riptide™ Aspiration System"
+ },
+ {
+  "claim_id": "claim:stent-retriever--medtronic--solitaire-x:retrieval-attempt-limits:solitaire-x-ifu-2025",
+  "device_id": "stent-retriever--medtronic--solitaire-x",
+  "claim_type": "deployment",
+  "text": "US labeling warns that, for vessel safety, no more than three recovery attempts should be performed in the same vessel using Solitaire X Revascularization Devices, and for device safety, each individual Solitaire X device should not be used for more than three flow restoration recoveries; a new Solitaire X device should be used for each new attempt after a device is removed.",
+  "locators": [
+   "PDF page 3, WARNINGS - ALL INDICATIONS",
+   "PDF page 5, WARNINGS - ALL INDICATIONS"
+  ],
+  "source_quote": "do not perform more than three recovery attempts in the same vessel using Solitaire™ X Revascularization Devices"
+ },
+ {
+  "claim_id": "claim:stent-retriever--medtronic--solitaire-x:resheathing-reposition-limit:solitaire-x-ifu-2025",
+  "device_id": "stent-retriever--medtronic--solitaire-x",
+  "claim_type": "deployment",
+  "text": "The IFU warns not to reposition the Solitaire X device more than two times during re-sheathing, and instructs that if significant resistance is encountered during the re-sheathing process, the operator should stop immediately and proceed to the Revascularization Device Recovery procedure instead of continuing to re-sheath.",
+  "locators": [
+   "PDF page 5, Solitaire X Revascularization Device Re-Sheathing / WARNINGS - ALL INDICATIONS"
+  ],
+  "source_quote": "Do not reposition more than two times."
+ },
+ {
+  "claim_id": "claim:stent-retriever--medtronic--solitaire-x:device-separation-prevention:solitaire-x-ifu-2025",
+  "device_id": "stent-retriever--medtronic--solitaire-x",
+  "claim_type": "warning",
+  "text": "US labeling warns not to torque the Solitaire X device and states the device does not allow for electrolytic detachment. To prevent device separation, the IFU instructs: do not oversize the device; do not recover (pull back) the device when encountering excessive resistance, and instead resheath the device with the microcatheter and then remove the entire system under aspiration; and do not treat patients with known stenosis proximal to the thrombus site.",
+  "locators": [
+   "PDF page 3, WARNINGS - ALL INDICATIONS"
+  ],
+  "source_quote": "Solitaire™ X Revascularization Device does not allow for electrolytic detachment."
+ },
+ {
+  "claim_id": "claim:stent-retriever--medtronic--solitaire-x:indication-1-3-not-established-populations:solitaire-x-ifu-2025",
+  "device_id": "stent-retriever--medtronic--solitaire-x",
+  "claim_type": "warning",
+  "text": "US labeling states that for Indications 1 and 3 only, safety and effectiveness of the Solitaire X device to reduce disability has not been established in patients with posterior circulation occlusions, more distal occlusions in the anterior circulation, or a large core infarct defined as ASPECTS less than or equal to 7.",
+  "locators": [
+   "PDF page 3, WARNINGS - INDICATION 1 & 3 ONLY"
+  ],
+  "source_quote": "Large core infarct (ASPECTS ≤7)"
+ },
+ {
+  "claim_id": "claim:stent-retriever--medtronic--solitaire-x:antithrombotic-and-tpa-timing:solitaire-x-ifu-2025",
+  "device_id": "stent-retriever--medtronic--solitaire-x",
+  "claim_type": "periprocedural",
+  "text": "US labeling states appropriate anti-platelet and anti-coagulation therapy should be administered in accordance with standard medical practice, and IV t-PA should be administered as soon as possible without delay for all patients indicated to receive it; per IV t-PA manufacturer labeling, IV t-PA should be administered within 3 hours of stroke symptom onset, and IV t-PA use beyond 3 hours is not approved in the United States.",
+  "locators": [
+   "PDF page 3, WARNINGS - ALL INDICATIONS"
+  ],
+  "source_quote": "IV t-PA should be administered within 3 hours of stroke symptom onset (IV t-PA use beyond 3 hours not approved in the United States)"
+ },
+ {
+  "claim_id": "claim:stent-retriever--medtronic--solitaire-x:how-supplied-sterility:solitaire-x-ifu-2025",
+  "device_id": "stent-retriever--medtronic--solitaire-x",
+  "claim_type": "regulatory_status",
+  "text": "US labeling states the Solitaire X Revascularization Device is provided sterile, for single patient use only, sterilized with Ethylene Oxide, and is non-pyrogenic; the IFU elsewhere warns that this device is supplied sterile for single use only and should not be reprocessed or re-sterilized, as reprocessing and re-sterilization increase the risks of patient infection and compromised device performance.",
+  "locators": [
+   "PDF page 5, HOW SUPPLIED",
+   "PDF page 3, WARNINGS - ALL INDICATIONS"
+  ],
+  "source_quote": "This device is sterilized with Ethylene Oxide. Non-pyrogenic."
+ }
+]

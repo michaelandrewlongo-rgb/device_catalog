@@ -1,0 +1,148 @@
+[
+  {
+    "claim_id": "claim:lvis:indications-for-use:ifu100003-rev-c",
+    "device_id": "intracranial-stent--microvention--lvis",
+    "claim_type": "indication",
+    "text": "US labeling states the LVIS and LVIS Jr devices are indicated for use with neurovascular embolization coils in patients >= 18 years of age for the treatment of wide-neck (neck width >= 4 mm or dome to neck ratio < 2) saccular intracranial aneurysms arising from a parent vessel with a diameter >= 2.0 mm and <= 4.5 mm.",
+    "locators": ["PDF page 5, INDICATIONS FOR USE"],
+    "source_quote": "wide-neck (neck width ≥ 4 mm or dome to neck ratio < 2) saccular intracranial aneurysms"
+  },
+  {
+    "claim_id": "claim:lvis:contraindications:ifu100003-rev-c",
+    "device_id": "intracranial-stent--microvention--lvis",
+    "claim_type": "contraindication",
+    "text": "The IFU states use of the LVIS device is contraindicated in patients in whom anticoagulant, anti-platelet therapy or thrombolytic drugs are contraindicated; patients with known hypersensitivity to metal such as nickel-titanium or metal jewelry; patients with anatomy that does not permit passage or deployment of the LVIS device; patients with an active bacterial infection; and patients with a pre-existing stent in place at the target aneurysm.",
+    "locators": ["PDF page 5, CONTRAINDICATIONS"],
+    "source_quote": "Patients with known hypersensitivity to metal, such as nickel-titanium and metal jewelry"
+  },
+  {
+    "claim_id": "claim:lvis:sizing-table-lvis:ifu100003-rev-c",
+    "device_id": "intracranial-stent--microvention--lvis",
+    "claim_type": "sizing",
+    "text": "The IFU's Table 1a lists LVIS Device product codes spanning nominal outer diameters of 2.5 mm to 5.5 mm, with undeployed lengths from 18 mm to 76 mm and total/working lengths ranging from 12/8 mm to 58/54 mm depending on code and deployed OD; the same table reports a free area (open cell area) of 71% to 82% across these configurations, and total length (including 4 mm of flared ends) equals working length plus 4 mm.",
+    "locators": ["PDF page 3, Table 1a: LVIS Device Product Information", "PDF page 4, Table 1a Free Area (%)"],
+    "source_quote": "Total Length (which includes flared ends) = Working Length + 4 mm (2 mm each side)"
+  },
+  {
+    "claim_id": "claim:lvis:sizing-table-lvis-jr:ifu100003-rev-c",
+    "device_id": "intracranial-stent--microvention--lvis",
+    "claim_type": "sizing",
+    "text": "The IFU's Table 1b lists LVIS Jr Device product codes spanning nominal outer diameters of 2.0 mm to 3.5 mm, with undeployed lengths from 15 mm to 46 mm and total/working lengths ranging from 13/9 mm to 40/36 mm depending on code and deployed OD; the same table reports a free area of 76% to 85% across these configurations.",
+    "locators": ["PDF page 4, Table 1b: LVIS Jr. Device Product Information", "PDF page 5, LVIS Jr. Free Area (%)"],
+    "source_quote": "Compatible with Headway 17 Microcatheter (inner diameter = 0.017\" or 0.43 mm)"
+  },
+  {
+    "claim_id": "claim:lvis:microcatheter-compatibility-lvis:ifu100003-rev-c",
+    "device_id": "intracranial-stent--microvention--lvis",
+    "claim_type": "compatibility",
+    "text": "The IFU states the LVIS device should be introduced only by the Headway 21 Microcatheter, which has an inner diameter of 0.021 inch (0.53 mm).",
+    "locators": ["PDF page 19, CLINICIAN USE INFORMATION, Materials"],
+    "compatibility_status": "manufacturer_labeled",
+    "source_quote": "LVIS device should be introduced only by Headway 21 Microcatheter (0.021 inch inner diameter)"
+  },
+  {
+    "claim_id": "claim:lvis:microcatheter-compatibility-lvis-jr:ifu100003-rev-c",
+    "device_id": "intracranial-stent--microvention--lvis",
+    "claim_type": "compatibility",
+    "text": "The IFU states the LVIS Jr device should be introduced only by the Headway 17 Microcatheter (inner diameter 0.017 inch) or a Scepter C / Scepter XC Occlusion Balloon (inner diameter 0.0165 inch).",
+    "locators": ["PDF page 19, CLINICIAN USE INFORMATION, Materials"],
+    "compatibility_status": "manufacturer_labeled",
+    "source_quote": "Headway 17 Microcatheter (0.017 inch inner diameter) or a Scepter C / Scepter XC Occlusion Balloon (0.0165 inch inner diameter)"
+  },
+  {
+    "claim_id": "claim:lvis:mri-conditions:ifu100003-rev-c",
+    "device_id": "intracranial-stent--microvention--lvis",
+    "claim_type": "mri",
+    "text": "The IFU states the LVIS device is MR conditional and can be safely scanned in an MR system with a static magnetic field of 1.5 Tesla or 3 Tesla only, maximum spatial gradient magnetic field of 2,500 Gauss/cm, and maximum whole body averaged SAR of 2 W/kg (Normal Operating Mode); under these conditions the device is expected to produce a maximum temperature rise of 2.8 degrees C at 1.5T or 3.6 degrees C at 3T after 15 minutes of continuous scanning, and the image artifact extends approximately 4 mm from the device.",
+    "locators": ["PDF page 18, MR Information"],
+    "source_quote": "Static magnetic field of 1.5 Tesla and 3 Tesla only"
+  },
+  {
+    "claim_id": "claim:lvis:deployment-navigation-and-selection:ifu100003-rev-c",
+    "device_id": "intracranial-stent--microvention--lvis",
+    "claim_type": "deployment",
+    "text": "The IFU's Directions for Use instruct navigating the corresponding microcatheter over a guidewire at least 15 mm distal to the aneurysm neck or target location before removing the guidewire and selecting an appropriately sized LVIS device per Table 1a/1b.",
+    "locators": ["PDF page 20, DIRECTIONS FOR USE steps 3-6"],
+    "source_quote": "over a guidewire at least 15 mm distal to the aneurysm neck or target location"
+  },
+  {
+    "claim_id": "claim:lvis:deployment-partial-deployment-limit:ifu100003-rev-c",
+    "device_id": "intracranial-stent--microvention--lvis",
+    "claim_type": "deployment",
+    "text": "The IFU instructs partially deploying the LVIS implant up to 5 mm or 50% (whichever occurs first) from the distal introducer tip to check for uniformity and entanglement, and warns not to fully deploy the device at this step; if the device becomes fully deployed, it must not be reloaded and a new device must be used.",
+    "locators": ["PDF page 20, DIRECTIONS FOR USE step 10"],
+    "source_quote": "partially deploy the LVIS implant up to 5 mm or 50% (whichever occurs first)"
+  },
+  {
+    "claim_id": "claim:lvis:deployment-recapture-limit:ifu100003-rev-c",
+    "device_id": "intracranial-stent--microvention--lvis",
+    "claim_type": "deployment",
+    "text": "The IFU states the LVIS device may be recaptured and repositioned if not fully deployed, until the point where the proximal end of the device markers are aligned 3 mm proximally with the microcatheter distal marker band (approximately 75% deployed); the LVIS device must not be re-deployed more than three times.",
+    "locators": ["PDF page 21, DIRECTIONS FOR USE step 19"],
+    "source_quote": "aligned 3 mm proximally with the microcatheter distal marker band (approximately 75% deployed)"
+  },
+  {
+    "claim_id": "claim:lvis:deployment-foreshortening-and-no-reposition:ifu100003-rev-c",
+    "device_id": "intracranial-stent--microvention--lvis",
+    "claim_type": "deployment",
+    "text": "The IFU states the LVIS device will expand and total length may foreshorten up to 60% from its undeployed length as it exits the microcatheter, and warns not to reposition the LVIS device in the parent vessel without fully retrieving it into the microcatheter, and not to detach the device if it is not properly positioned or to attempt repositioning after detachment.",
+    "locators": ["PDF page 21, DIRECTIONS FOR USE step 20", "PDF page 5, WARNINGS"],
+    "source_quote": "total length may foreshorten up to 60% from its undeployed length"
+  },
+  {
+    "claim_id": "claim:lvis:deployment-no-torque:ifu100003-rev-c",
+    "device_id": "intracranial-stent--microvention--lvis",
+    "claim_type": "deployment",
+    "text": "The IFU warns not to shape the tip of the delivery wire, not to torque the delivery wire while advancing or retracting the LVIS device, and states a torque device should not be used; the delivery wire should not be utilized as a guidewire after stent deployment.",
+    "locators": ["PDF page 5, WARNINGS", "PDF page 21, DIRECTIONS FOR USE step 15/19"],
+    "source_quote": "Do not torque the delivery wire while advancing or retracting the LVIS device"
+  },
+  {
+    "claim_id": "claim:lvis:ruptured-aneurysm-timing-warning:ifu100003-rev-c",
+    "device_id": "intracranial-stent--microvention--lvis",
+    "claim_type": "warning",
+    "text": "The IFU warns not to use the device for acutely ruptured intracranial aneurysms within a minimum of 30 days from intracranial aneurysm rupture.",
+    "locators": ["PDF page 5, WARNINGS"],
+    "source_quote": "Do not use device for acutely ruptured intracranial aneurysms within a minimum of 30 days"
+  },
+  {
+    "claim_id": "claim:lvis:safety-effectiveness-not-established:ifu100003-rev-c",
+    "device_id": "intracranial-stent--microvention--lvis",
+    "claim_type": "warning",
+    "text": "The IFU's Precautions state the safety and effectiveness of the device has not been established in the treatment of large and giant wide-neck intracranial aneurysms, has not been well established in the posterior circulation, and that benefits may not outweigh risks in patients with wide-neck intracranial aneurysms <= 5 mm in size or reduced life expectancy absent additional rupture risk factors.",
+    "locators": ["PDF page 6, PRECAUTIONS"],
+    "source_quote": "wide-neck intracranial aneurysms ≤ 5 mm in size, or reduced life expectancy"
+  },
+  {
+    "claim_id": "claim:lvis:single-use-device:ifu100003-rev-c",
+    "device_id": "intracranial-stent--microvention--lvis",
+    "claim_type": "warning",
+    "text": "The IFU states the LVIS device is provided sterile for single use only and must not be reused, reprocessed, or resterilized, as this may compromise structural integrity, lead to device failure, or create a risk of contamination.",
+    "locators": ["PDF page 6, PRECAUTIONS"],
+    "source_quote": "provided sterile for single use only. Do not reuse, reprocess or resterilize."
+  },
+  {
+    "claim_id": "claim:lvis:potential-adverse-events:ifu100003-rev-c",
+    "device_id": "intracranial-stent--microvention--lvis",
+    "claim_type": "warning",
+    "text": "The IFU lists potential risks and complications associated with general anesthesia, cerebral angiography, intracranial catheterization, intracranial stent placement, or intra-saccular coil deployment, including but not limited to allergic reaction, aneurysm rupture, device fracture/migration/misplacement, dissection or perforation of the parent artery, hemorrhage (ICH, SAH, or retroperitoneal), ischemia, stent thrombosis, stroke or TIA, thromboembolic event, vasospasm, and death.",
+    "locators": ["PDF page 6-7, Potential Adverse Events"],
+    "source_quote": "Device fracture, migration or misplacement; Dissection or perforation of the parent artery"
+  },
+  {
+    "claim_id": "claim:lvis:primary-safety-endpoint:ifu100003-rev-c",
+    "device_id": "intracranial-stent--microvention--lvis",
+    "claim_type": "warning",
+    "text": "The IFU's pivotal clinical study reports a modified primary safety composite rate (disabling stroke with mRS score >= 3 or neurological death within 12 months) of 5.9% (9/153 subjects), with a posterior mean of 6.2% (95% CI 3.0%-10.5%), meeting the pre-established safety performance goal.",
+    "locators": ["PDF page 13, Primary Safety Results"],
+    "source_quote": "Primary Safety Composite Rate ... 5.9 % (9/153) ... 6.2% 3.0% - 10.5%"
+  },
+  {
+    "claim_id": "claim:lvis:mra-artifact-precaution:ifu100003-rev-c",
+    "device_id": "intracranial-stent--microvention--lvis",
+    "claim_type": "warning",
+    "text": "The IFU's Precautions state that the LVIS and LVIS Jr devices with neurovascular embolization coils may create local field inhomogeneity and susceptibility artifacts during magnetic resonance angiography (MRA), which may degrade the diagnostic quality to assess effective intracranial aneurysm treatment.",
+    "locators": ["PDF page 6, PRECAUTIONS"],
+    "source_quote": "may create local field inhomogeneity and susceptibility artifacts during magnetic resonance angiography (MRA)"
+  }
+]

@@ -1,0 +1,266 @@
+{
+ "pdf_sha256": "a23200965da4dd337ab474e83c7353837cf4727c267928d29fb9e9060305a66f",
+ "title": "Balt international product catalogue",
+ "catalog_year": "2020",
+ "jurisdiction": "international",
+ "creation_date": "D:20200507122843+01'00'",
+ "pages_with_tables": [
+  4,
+  5,
+  7,
+  8,
+  9,
+  10,
+  12,
+  13,
+  14,
+  16,
+  18,
+  19,
+  20
+ ],
+ "row_count": 532,
+ "families": [
+  {
+   "product_family": "guiding catheter",
+   "section": "access treatment",
+   "pdf_page": 3,
+   "row_count": 20
+  },
+  {
+   "product_family": "introducer sheath (long) IVA",
+   "section": "access treatment",
+   "pdf_page": 3,
+   "row_count": 6
+  },
+  {
+   "product_family": "introducer sheath (long) ballast",
+   "section": "access treatment",
+   "pdf_page": 3,
+   "row_count": 3
+  },
+  {
+   "product_family": "guidewire hybrid",
+   "section": "access treatment",
+   "pdf_page": 4,
+   "row_count": 10
+  },
+  {
+   "product_family": "microcatheter gama",
+   "section": "access treatment",
+   "pdf_page": 4,
+   "row_count": 2
+  },
+  {
+   "product_family": "microcatheter vasco+",
+   "section": "access treatment",
+   "pdf_page": 4,
+   "row_count": 8
+  },
+  {
+   "product_family": "embolization coil system barricade",
+   "section": "aneurysm treatment",
+   "pdf_page": 6,
+   "row_count": 107
+  },
+  {
+   "product_family": "embolization coil system optima",
+   "section": "aneurysm treatment",
+   "pdf_page": 7,
+   "row_count": 120
+  },
+  {
+   "product_family": "occlusion catheters with balloon",
+   "section": "aneurysm treatment",
+   "pdf_page": 7,
+   "row_count": 12
+  },
+  {
+   "product_family": "intracranial self-expandable stent",
+   "section": "aneurysm treatment",
+   "pdf_page": 8,
+   "row_count": 31
+  },
+  {
+   "product_family": "temporary occlusion catheters",
+   "section": "aneurysm treatment",
+   "pdf_page": 8,
+   "row_count": 6
+  },
+  {
+   "product_family": "intracranial self-expandable flow diverter silk vista baby",
+   "section": "aneurysm treatment",
+   "pdf_page": 9,
+   "row_count": 11
+  },
+  {
+   "product_family": "intracranial self-expandable flow diverter silk+",
+   "section": "aneurysm treatment",
+   "pdf_page": 9,
+   "row_count": 38
+  },
+  {
+   "product_family": "intracranial self-expandable flow diverter tapered silk+",
+   "section": "aneurysm treatment",
+   "pdf_page": 9,
+   "row_count": 3
+  },
+  {
+   "product_family": "detachable tip microcatheter sonic",
+   "section": "avm treatment",
+   "pdf_page": 11,
+   "row_count": 8
+  },
+  {
+   "product_family": "progressive suppleness microcatheter baltacci",
+   "section": "avm treatment",
+   "pdf_page": 11,
+   "row_count": 5
+  },
+  {
+   "product_family": "progressive suppleness microcatheter magic",
+   "section": "avm treatment",
+   "pdf_page": 11,
+   "row_count": 8
+  },
+  {
+   "product_family": "catheters for detachable balloons baltacci",
+   "section": "avm treatment",
+   "pdf_page": 12,
+   "row_count": 2
+  },
+  {
+   "product_family": "catheters for detachable balloons magic",
+   "section": "avm treatment",
+   "pdf_page": 12,
+   "row_count": 1
+  },
+  {
+   "product_family": "detachable balloon goldballoon",
+   "section": "avm treatment",
+   "pdf_page": 12,
+   "row_count": 6
+  },
+  {
+   "product_family": "venous remodelling balloon copernic RC",
+   "section": "avm treatment",
+   "pdf_page": 12,
+   "row_count": 2
+  },
+  {
+   "product_family": "free spirale flow coils",
+   "section": "avm treatment",
+   "pdf_page": 13,
+   "row_count": 3
+  },
+  {
+   "product_family": "liquid embolic agent magic glue",
+   "section": "avm treatment",
+   "pdf_page": 13,
+   "row_count": 1
+  },
+  {
+   "product_family": "liquid embolic agent squid",
+   "section": "avm treatment",
+   "pdf_page": 13,
+   "row_count": 12
+  },
+  {
+   "product_family": "opacifying powder tantalum",
+   "section": "avm treatment",
+   "pdf_page": 13,
+   "row_count": 1
+  },
+  {
+   "product_family": "catheter system titan 036",
+   "section": "stroke treatment",
+   "pdf_page": 15,
+   "row_count": 1
+  },
+  {
+   "product_family": "catheter system titan 070",
+   "section": "stroke treatment",
+   "pdf_page": 15,
+   "row_count": 1
+  },
+  {
+   "product_family": "catheter system titan kit",
+   "section": "stroke treatment",
+   "pdf_page": 15,
+   "row_count": 1
+  },
+  {
+   "product_family": "stent retriever system catch+",
+   "section": "stroke treatment",
+   "pdf_page": 15,
+   "row_count": 3
+  },
+  {
+   "product_family": "stent retriever system catchview",
+   "section": "stroke treatment",
+   "pdf_page": 15,
+   "row_count": 8
+  },
+  {
+   "product_family": "angiographic catheter",
+   "section": "cardiovascular and peripheral vascular treatment",
+   "pdf_page": 17,
+   "row_count": 11
+  },
+  {
+   "product_family": "embolic liquid squid peri",
+   "section": "cardiovascular and peripheral vascular treatment",
+   "pdf_page": 17,
+   "row_count": 12
+  },
+  {
+   "product_family": "angioplasty catheter cristal balloon",
+   "section": "cardiovascular and peripheral vascular treatment",
+   "pdf_page": 18,
+   "row_count": 3
+  },
+  {
+   "product_family": "free coil",
+   "section": "cardiovascular and peripheral vascular treatment",
+   "pdf_page": 18,
+   "row_count": 40
+  },
+  {
+   "product_family": "opacifying powder tungsten",
+   "section": "cardiovascular and peripheral vascular treatment",
+   "pdf_page": 18,
+   "row_count": 2
+  },
+  {
+   "product_family": "valvuloplasty catheter cristal balloon",
+   "section": "cardiovascular and peripheral vascular treatment",
+   "pdf_page": 18,
+   "row_count": 21
+  },
+  {
+   "product_family": "accessory stopcocks",
+   "section": "others",
+   "pdf_page": 19,
+   "row_count": 3
+  }
+ ],
+ "verification": {
+  "pages_checked": [
+   3,
+   4,
+   6,
+   7,
+   8,
+   9,
+   11,
+   12,
+   13,
+   15,
+   17,
+   18,
+   19
+  ],
+  "discrepancies": []
+ },
+ "note": "pdf_page normalized to 1-based after extraction"
+}

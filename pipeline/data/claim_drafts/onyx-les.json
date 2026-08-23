@@ -1,0 +1,163 @@
+[
+  {
+    "claim_id": "claim:liquid-embolic--medtronic--onyx-les:indication-presurgical-bavm-embolization:70862-001-rev-10-13",
+    "device_id": "liquid-embolic--medtronic--onyx-les",
+    "claim_type": "indication",
+    "text": "US labeling states the indication for use of the Onyx LES is presurgical embolization of brain arteriovenous malformations (bAVMs).",
+    "locators": ["PDF page 3, INDICATIONS FOR USE"],
+    "source_quote": "Presurgical embolization of brain arteriovenous malformations (bAVMs)."
+  },
+  {
+    "claim_id": "claim:liquid-embolic--medtronic--onyx-les:contraindications:70862-001-rev-10-13",
+    "device_id": "liquid-embolic--medtronic--onyx-les",
+    "claim_type": "contraindication",
+    "text": "The IFU states use of the Onyx LES is contraindicated when optimal catheter placement is not possible, when prevascular testing indicates intolerance to the occlusion procedure, or when vasospasm stops blood flow.",
+    "locators": ["PDF page 3, CONTRAINDICATIONS"],
+    "source_quote": "When vasospasm stops blood flow."
+  },
+  {
+    "claim_id": "claim:liquid-embolic--medtronic--onyx-les:microcatheter-dmso-compatibility:70862-001-rev-10-13",
+    "device_id": "liquid-embolic--medtronic--onyx-les",
+    "claim_type": "compatibility",
+    "text": "The IFU requires use of only ev3-approved, Onyx LES/DMSO compatible microcatheters indicated for the neurovasculature, together with ev3 syringes; other microcatheters or syringes may not be compatible with DMSO and their use can result in thromboembolic events due to catheter degradation. No specific competitor or third-party microcatheter is named as compatible.",
+    "locators": ["PDF page 4, WARNINGS", "PDF page 8, DIRECTIONS FOR USE step 3"],
+    "compatibility_status": "manufacturer_labeled",
+    "source_quote": "Use only ev3 approved, Onyx™ LES/DMSO compatible micro catheters indicated for use in the neurovasculature"
+  },
+  {
+    "claim_id": "claim:liquid-embolic--medtronic--onyx-les:onyx-18-vs-34-composition-viscosity:70862-001-rev-10-13",
+    "device_id": "liquid-embolic--medtronic--onyx-les",
+    "claim_type": "sizing",
+    "text": "US labeling describes two Onyx LES formulations: Onyx LES 18 (6% EVOH copolymer, nominal viscosity 18 cSt at 40 degrees C), recommended when feeding-pedicle embolization will be conducted close to the nidus, and Onyx LES 34 (8% EVOH copolymer, nominal viscosity 33 cSt at 40 degrees C), recommended for embolizing higher-flow and larger fistulous components; Onyx LES 18 travels more distally and penetrates deeper into the nidus than Onyx LES 34 due to its lower viscosity.",
+    "locators": ["PDF page 3, DESCRIPTION", "PDF page 8, HOW SUPPLIED"],
+    "source_quote": "Onyx™ LES 18 (6% EVOH) and Onyx™ LES 34 (8% EVOH)"
+  },
+  {
+    "claim_id": "claim:liquid-embolic--medtronic--onyx-les:mixing-shake-time:70862-001-rev-10-13",
+    "device_id": "liquid-embolic--medtronic--onyx-les",
+    "claim_type": "deployment",
+    "text": "The IFU instructs shaking the Onyx LES for at least 20 minutes on an Onyx LES mixer at a setting of 5, continuing mixing until ready to inject; failure to continuously mix for the required time may result in inadequate suspension of the tantalum and inadequate fluoroscopic visualization during delivery.",
+    "locators": ["PDF page 8, DIRECTIONS FOR USE step 1"],
+    "source_quote": "Shake the Onyx™ LES at least 20 minutes on an Onyx™ LES mixer at a setting of 5"
+  },
+  {
+    "claim_id": "claim:liquid-embolic--medtronic--onyx-les:dmso-deadspace-priming:70862-001-rev-10-13",
+    "device_id": "liquid-embolic--medtronic--onyx-les",
+    "claim_type": "deployment",
+    "text": "The IFU directs flushing contrast from the microcatheter with 10 ml of saline, then aspirating approximately 0.8 ml of ev3 DMSO into the yellow ev3 1 ml DMSO syringe and injecting DMSO into the delivery microcatheter in sufficient volume to fill the catheter deadspace, referring to the delivery catheter labeling for exact deadspace volume; only the ev3 1 ml syringe is to be used to inject DMSO and the Onyx LES.",
+    "locators": ["PDF page 8, DIRECTIONS FOR USE steps 4-5"],
+    "source_quote": "aspirate approximately 0.8 ml of ev3 DMSO into the yellow ev3 1 ml DMSO syringe"
+  },
+  {
+    "claim_id": "claim:liquid-embolic--medtronic--onyx-les:injection-rate-limits:70862-001-rev-10-13",
+    "device_id": "liquid-embolic--medtronic--onyx-les",
+    "claim_type": "deployment",
+    "text": "The IFU recommends injecting the Onyx LES at a slow, steady rate of 0.16 mL/min (0.25 ml/90 sec) using only thumb pressure, and states the injection rate must not exceed 0.3 ml/min.",
+    "locators": ["PDF page 3, WARNINGS", "PDF page 8, DIRECTIONS FOR USE step 7"],
+    "source_quote": "recommended that the Onyx™ LES be injected at a slow, steady rate of 0.16 ml/min"
+  },
+  {
+    "claim_id": "claim:liquid-embolic--medtronic--onyx-les:reflux-limit:70862-001-rev-10-13",
+    "device_id": "liquid-embolic--medtronic--onyx-les",
+    "claim_type": "warning",
+    "text": "The IFU warns not to allow more than 1 cm of the Onyx LES to reflux back over the catheter tip, and that angioarchitecture, vasospasm, excessive Onyx LES reflux, or prolonged injection time may result in difficult catheter removal and potential entrapment.",
+    "locators": ["PDF page 3, WARNINGS", "PDF page 8, DIRECTIONS FOR USE step 8", "PDF page 9, WARNINGS"],
+    "source_quote": "Do not allow more than 1 cm of the Onyx™ LES to reflux back over catheter tip"
+  },
+  {
+    "claim_id": "claim:liquid-embolic--medtronic--onyx-les:max-injection-pause:70862-001-rev-10-13",
+    "device_id": "liquid-embolic--medtronic--onyx-les",
+    "claim_type": "deployment",
+    "text": "The IFU states that the Onyx LES injection must not be interrupted for longer than two minutes prior to re-injection, because solidification of the Onyx LES may occur at the catheter tip resulting in catheter occlusion, and use of excessive pressure to clear the catheter may result in catheter rupture.",
+    "locators": ["PDF page 3, WARNINGS", "PDF page 9, WARNINGS"],
+    "source_quote": "DO NOT interrupt the Onyx™ LES injection for longer than two minutes prior to re-injection"
+  },
+  {
+    "claim_id": "claim:liquid-embolic--medtronic--onyx-les:dmso-rapid-injection-vasospasm-warning:70862-001-rev-10-13",
+    "device_id": "liquid-embolic--medtronic--onyx-les",
+    "claim_type": "warning",
+    "text": "The IFU warns that animal studies have shown rapid injection of DMSO into the vasculature may lead to vasospasm and/or angionecrosis, and that using the palm of the hand rather than thumb pressure to advance the plunger may result in overpressurization in the event of catheter occlusion.",
+    "locators": ["PDF page 3, WARNINGS", "PDF page 8, DIRECTIONS FOR USE step 7"],
+    "source_quote": "rapid injection of DMSO into the vasculature may lead to vasospasm and/or angionecrosis"
+  },
+  {
+    "claim_id": "claim:liquid-embolic--medtronic--onyx-les:dmso-taste-odor-precaution:70862-001-rev-10-13",
+    "device_id": "liquid-embolic--medtronic--onyx-les",
+    "claim_type": "warning",
+    "text": "The IFU notes as a precaution that a garlic-like taste may be noted by the patient with use of the Onyx LES due to the DMSO component, may last several hours, and an odor on the breath and skin may be present.",
+    "locators": ["PDF page 3, PRECAUTIONS"],
+    "source_quote": "A garlic-like taste may be noted by the patient with use of the Onyx™ LES"
+  },
+  {
+    "claim_id": "claim:liquid-embolic--medtronic--onyx-les:electrocautery-warning:70862-001-rev-10-13",
+    "device_id": "liquid-embolic--medtronic--onyx-les",
+    "claim_type": "warning",
+    "text": "The IFU warns that due to the possibility of electrical arcing with the tantalum metal in the Onyx LES material, use of monopolar electrocautery devices for surgical resection of bAVMs or arteriovenous fistulas embolized with the Onyx LES should be avoided, and bipolar devices should be used with caution.",
+    "locators": ["PDF page 3, WARNINGS"],
+    "source_quote": "use of monopolar electrocautery devices for surgical resection of bAVMs ... should be avoided"
+  },
+  {
+    "claim_id": "claim:liquid-embolic--medtronic--onyx-les:no-clear-inject-through-used-catheter:70862-001-rev-10-13",
+    "device_id": "liquid-embolic--medtronic--onyx-les",
+    "claim_type": "warning",
+    "text": "The IFU warns that after using a microcatheter with the Onyx LES, one should not attempt to clear or inject any material through it, as such attempts may lead to embolus or embolization of an unintended area.",
+    "locators": ["PDF page 3, WARNINGS", "PDF page 8, DIRECTIONS FOR USE step 8 WARNINGS"],
+    "source_quote": "do not attempt to clear or inject any material through it"
+  },
+  {
+    "claim_id": "claim:liquid-embolic--medtronic--onyx-les:catheter-entrapment-removal-risk:70862-001-rev-10-13",
+    "device_id": "liquid-embolic--medtronic--onyx-les",
+    "claim_type": "warning",
+    "text": "The IFU warns that excessive force to remove an entrapped catheter may cause serious intracranial hemorrhage, and that the long-term effects of an entrapped catheter left in a patient are unknown but potentially could include clot formation, infection, or catheter migration; difficult removal/entrapment may be caused by angioarchitecture, vasospasm, reflux, or injection time.",
+    "locators": ["PDF page 4, WARNINGS/Difficult catheter removal", "PDF page 8, WARNINGS", "PDF page 9, Difficult catheter removal or catheter entrapment"],
+    "source_quote": "Excessive force to remove an entrapped catheter may cause serious intracranial hemorrhage"
+  },
+  {
+    "claim_id": "claim:liquid-embolic--medtronic--onyx-les:overpressurization-rupture-threshold:70862-001-rev-10-13",
+    "device_id": "liquid-embolic--medtronic--onyx-les",
+    "claim_type": "warning",
+    "text": "The IFU warns to stop injection if the Onyx LES is not visualized exiting the catheter tip, because testing has shown that over-pressurization and catheter rupture can occur if only a volume of 0.05 ml of the Onyx LES is injected without being visualized exiting the catheter tip.",
+    "locators": ["PDF page 3, WARNINGS", "PDF page 9, WARNINGS"],
+    "source_quote": "over-pressurization and rupture can occur if only a volume of 0.05 ml of the Onyx™ LES is injected"
+  },
+  {
+    "claim_id": "claim:liquid-embolic--medtronic--onyx-les:final-solidification-time:70862-001-rev-10-13",
+    "device_id": "liquid-embolic--medtronic--onyx-les",
+    "claim_type": "deployment",
+    "text": "The IFU states that final solidification of the Onyx LES occurs within five minutes for both the Onyx LES 18 and Onyx LES 34 product formulations.",
+    "locators": ["PDF page 8, HOW SUPPLIED"],
+    "source_quote": "Final solidification occurs within five minutes for both product formulations"
+  },
+  {
+    "claim_id": "claim:liquid-embolic--medtronic--onyx-les:storage-temperature:70862-001-rev-10-13",
+    "device_id": "liquid-embolic--medtronic--onyx-les",
+    "claim_type": "periprocedural",
+    "text": "The IFU instructs storing the Onyx LES and DMSO between -20 degrees C and 55 degrees C, and maintaining product temperature between 19 degrees C and 24 degrees C prior to use; if the product freezes due to exposure to colder temperatures, it should be thawed at room temperature before use.",
+    "locators": ["PDF page 8, STORAGE"],
+    "source_quote": "Store the Onyx™ LES and DMSO between -20° and 55°C"
+  },
+  {
+    "claim_id": "claim:liquid-embolic--medtronic--onyx-les:unstudied-populations-precaution:70862-001-rev-10-13",
+    "device_id": "liquid-embolic--medtronic--onyx-les",
+    "claim_type": "warning",
+    "text": "The IFU states that safety and effectiveness have not been studied in pregnant and nursing women, individuals less than 18 years old, or individuals with aneurysms not associated with a bAVM nidus, or distal feeders to a bAVM or dural AV fistulas.",
+    "locators": ["PDF page 3, PRECAUTIONS"],
+    "source_quote": "safety and effectiveness has not been studied in the following patient populations: Pregnant and nursing women"
+  },
+  {
+    "claim_id": "claim:liquid-embolic--medtronic--onyx-les:clinical-trial-mortality:70862-001-rev-10-13",
+    "device_id": "liquid-embolic--medtronic--onyx-les",
+    "claim_type": "warning",
+    "text": "In the pivotal randomized trial comparing Onyx LES to TRUFILL NBCA for presurgical bAVM embolization, 3 deaths (5.6%) were reported among 54 patients treated with the Onyx LES versus 0 deaths (0.0%) among 63 patients treated with TRUFILL NBCA; two of the Onyx LES deaths occurred during the clinical study period following surgical resection, and a third occurred after study follow-up was completed.",
+    "locators": ["PDF page 4, Table 1: Incidence of Complications", "PDF page 5, DEATHS"],
+    "source_quote": "There were 3 deaths reported in patients treated with the Onyx™ LES"
+  },
+  {
+    "claim_id": "claim:liquid-embolic--medtronic--onyx-les:rx-only-regulatory-status:70862-001-rev-10-13",
+    "device_id": "liquid-embolic--medtronic--onyx-les",
+    "claim_type": "regulatory_status",
+    "text": "US labeling states that U.S. federal law restricts the sale, distribution and use of the Onyx LES to physicians or as prescribed by a physician.",
+    "locators": ["PDF page 3, CAUTION"],
+    "source_quote": "U.S. federal law restricts the sale, distribution and use of this product to physicians"
+  }
+]

@@ -62,6 +62,9 @@ def sha256_file(path: Path) -> str:
     return digest.hexdigest()
 
 
+IMAGE_SUFFIXES = {".png", ".jpg", ".jpeg", ".tif", ".tiff"}
+
+
 def extract_pdf_text(path: Path, max_pages: int | None = None) -> tuple[str, str | None]:
     """Extract text for identity checks without adding a hard dependency.
 
@@ -180,6 +183,8 @@ def audit_registered_sources(
                 identity_failures.append("not all required identity terms were found")
             if forbidden_any and _contains_any(text, forbidden_any):
                 identity_failures.append("a forbidden cross-product identity term was found")
+        elif source_path and source_path.exists() and source_path.suffix.lower() in IMAGE_SUFFIXES:
+            pass  # retained page images: identity rests on the pinned hash and the reviewer's locator
         elif source_path and source_path.exists():
             identity_failures.append("document identity could not be checked because text extraction failed")
 

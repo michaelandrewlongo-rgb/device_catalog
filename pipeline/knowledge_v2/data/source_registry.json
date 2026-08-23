@@ -16,7 +16,8 @@
       "notes": "Local full text retained for historical lookup; current revision not established.",
       "source_id": "ifu:microvention:scepter-c-xc:local",
       "source_type": "manufacturer_ifu",
-      "status": "historical",
+      "status": "superseded",
+      "superseded_by": "ifu:microvention:scepter-c-xc:ifu100266",
       "title": "Scepter C/XC local IFU"
     },
     {
@@ -31,7 +32,8 @@
       "notes": "Local full text retained for historical lookup; current revision not established.",
       "source_id": "ifu:microvention:scepter-mini:local",
       "source_type": "manufacturer_ifu",
-      "status": "historical",
+      "status": "superseded",
+      "superseded_by": "ifu:microvention:scepter-mini:pd111516-rev-h-2023",
       "title": "Scepter Mini local IFU"
     },
     {
@@ -46,7 +48,8 @@
       "notes": "Local full text retained for historical lookup; current revision not established.",
       "source_id": "ifu:microvention:sofia:local",
       "source_type": "manufacturer_ifu",
-      "status": "historical",
+      "status": "superseded",
+      "superseded_by": "ifu:microvention:sofia:ifu100279-rev-c",
       "title": "SOFIA local IFU"
     },
     {
@@ -97,7 +100,8 @@
       "revision": "2019",
       "source_id": "ifu:microvention:fred:2019",
       "source_type": "fda_labeling",
-      "status": "historical",
+      "status": "superseded",
+      "superseded_by": "ifu:microvention:fred:ifu100016-rev-a-2020",
       "title": "FRED original US labeling"
     },
     {
@@ -112,7 +116,8 @@
       "notes": "Current revision not established; device-specific claims must not be transferred to Neuroform Atlas.",
       "source_id": "ifu:microvention:lvis:local",
       "source_type": "manufacturer_ifu",
-      "status": "historical",
+      "status": "superseded",
+      "superseded_by": "ifu:microvention:lvis-lvis-jr:ifu100003-rev-c-2021",
       "title": "LVIS local IFU"
     },
     {
@@ -186,7 +191,8 @@
       "revision": "03/2003",
       "source_id": "ifu:medtronic:onyx-les:rev-2003-03",
       "source_type": "manufacturer_ifu",
-      "status": "historical",
+      "status": "superseded",
+      "superseded_by": "ifu:medtronic:onyx-les:70862-001-rev-10-13",
       "title": "Onyx Liquid Embolic System IFU"
     },
     {
@@ -318,7 +324,7 @@
       "source_id": "fda510k:K251240",
       "source_type": "fda_510k_summary",
       "status": "current",
-      "title": "K251240 510(k) Summary \u2014 Branchor X Balloon Guide Catheter"
+      "title": "K251240 510(k) Summary — Branchor X Balloon Guide Catheter"
     },
     {
       "device_id": "delivery-catheter--microvention--wedge-xl",
@@ -337,7 +343,7 @@
       "source_id": "fda510k:K232542",
       "source_type": "fda_510k_summary",
       "status": "current",
-      "title": "K232542 510(k) Summary \u2014 Wedge XL Delivery Catheter"
+      "title": "K232542 510(k) Summary — Wedge XL Delivery Catheter"
     },
     {
       "device_id": "distal-access--cerenovus--cereglide-42-57",
@@ -356,7 +362,7 @@
       "source_id": "fda510k:K241244",
       "source_type": "fda_510k_summary",
       "status": "current",
-      "title": "K241244 510(k) Summary \u2014 CEREGLIDE 42 and 57 Intermediate Catheters"
+      "title": "K241244 510(k) Summary — CEREGLIDE 42 and 57 Intermediate Catheters"
     },
     {
       "device_id": "distal-access--cerenovus--cereglide-71",
@@ -375,7 +381,7 @@
       "source_id": "fda510k:K221930",
       "source_type": "fda_510k_summary",
       "status": "current",
-      "title": "K221930 510(k) Summary \u2014 CEREGLIDE 71 Intermediate Catheter"
+      "title": "K221930 510(k) Summary — CEREGLIDE 71 Intermediate Catheter"
     },
     {
       "device_id": "distal-access--wallaby--esperance",
@@ -394,7 +400,7 @@
       "source_id": "fda510k:K231056",
       "source_type": "fda_510k_summary",
       "status": "current",
-      "title": "K231056 510(k) Summary \u2014 Esperance Distal Access Catheter"
+      "title": "K231056 510(k) Summary — Esperance Distal Access Catheter"
     },
     {
       "device_id": "microcatheter--stryker--trevo-trak-21",
@@ -413,7 +419,7 @@
       "source_id": "fda510k:K211594",
       "source_type": "fda_510k_summary",
       "status": "current",
-      "title": "K211594 510(k) Summary \u2014 Trevo Trak 21 Microcatheter"
+      "title": "K211594 510(k) Summary — Trevo Trak 21 Microcatheter"
     },
     {
       "device_id": "distal-access--alembic--apro-70-swift",
@@ -432,7 +438,7 @@
       "source_id": "fda510k:K243297",
       "source_type": "fda_510k_summary",
       "status": "current",
-      "title": "K243297 510(k) Summary \u2014 APRO 70 Swift Catheter"
+      "title": "K243297 510(k) Summary — APRO 70 Swift Catheter"
     },
     {
       "device_id": "delivery-catheter--balt--carrier-xl",
@@ -451,7 +457,7 @@
       "source_id": "fda510k:K252569",
       "source_type": "fda_510k_summary",
       "status": "current",
-      "title": "K252569 510(k) Summary \u2014 Carrier XL Delivery Catheter"
+      "title": "K252569 510(k) Summary — Carrier XL Delivery Catheter"
     },
     {
       "device_id": "delivery-catheter--balt--ng",
@@ -470,7 +476,7 @@
       "source_id": "fda510k:K230609",
       "source_type": "fda_510k_summary",
       "status": "current",
-      "title": "K230609 510(k) Summary \u2014 NG Delivery Catheter"
+      "title": "K230609 510(k) Summary — NG Delivery Catheter"
     },
     {
       "device_id": "distal-access--cerenovus--cereglide-92",
@@ -489,7 +495,7 @@
       "source_id": "fda510k:K233982",
       "source_type": "fda_510k_summary",
       "status": "current",
-      "title": "K233982 510(k) Summary \u2014 CEREGLIDE 92 Catheter System"
+      "title": "K233982 510(k) Summary — CEREGLIDE 92 Catheter System"
     },
     {
       "device_id": "microcatheter--microvention--headway-27",
@@ -508,7 +514,7 @@
       "source_id": "fda510k:K110813",
       "source_type": "fda_510k_summary",
       "status": "current",
-      "title": "K110813 510(k) Summary \u2014 Headway 27 Microcatheter"
+      "title": "K110813 510(k) Summary — Headway 27 Microcatheter"
     },
     {
       "device_id": "microcatheter--spartan-micro--spartan-mc-0165",
@@ -527,7 +533,7 @@
       "source_id": "fda510k:K213451",
       "source_type": "fda_510k_summary",
       "status": "current",
-      "title": "K213451 510(k) Summary \u2014 Spartan MC 0165"
+      "title": "K213451 510(k) Summary — Spartan MC 0165"
     },
     {
       "device_id": "aspiration--alembic--apro-45",
@@ -546,7 +552,7 @@
       "source_id": "fda510k:K251015",
       "source_type": "fda_510k_summary",
       "status": "current",
-      "title": "K251015 510(k) Summary \u2014 APRO 45 Catheter"
+      "title": "K251015 510(k) Summary — APRO 45 Catheter"
     },
     {
       "device_id": "aspiration--alembic--apro-55",
@@ -565,7 +571,7 @@
       "source_id": "fda510k:K232971",
       "source_type": "fda_510k_summary",
       "status": "current",
-      "title": "K232971 510(k) Summary \u2014 APRO 55 Catheter"
+      "title": "K232971 510(k) Summary — APRO 55 Catheter"
     },
     {
       "device_id": "aspiration--alembic--apro-70",
@@ -584,7 +590,7 @@
       "source_id": "fda510k:K223545",
       "source_type": "fda_510k_summary",
       "status": "current",
-      "title": "K223545 510(k) Summary \u2014 APRO 70 Catheter"
+      "title": "K223545 510(k) Summary — APRO 70 Catheter"
     },
     {
       "device_id": "aspiration--balt--raptor",
@@ -603,7 +609,7 @@
       "source_id": "fda510k:K243948",
       "source_type": "fda_510k_summary",
       "status": "current",
-      "title": "K243948 510(k) Summary \u2014 Raptor Aspiration Catheter"
+      "title": "K243948 510(k) Summary — Raptor Aspiration Catheter"
     },
     {
       "device_id": "aspiration--cerenovus--large-bore",
@@ -622,7 +628,7 @@
       "source_id": "fda510k:K233988",
       "source_type": "fda_510k_summary",
       "status": "current",
-      "title": "K233988 510(k) Summary \u2014 Cerenovus Large Bore Catheter"
+      "title": "K233988 510(k) Summary — Cerenovus Large Bore Catheter"
     },
     {
       "device_id": "aspiration--imperative-care--zoom-7x",
@@ -641,7 +647,7 @@
       "source_id": "fda510k:K243047",
       "source_type": "fda_510k_summary",
       "status": "current",
-      "title": "K243047 510(k) Summary \u2014 Zoom 7X Catheter"
+      "title": "K243047 510(k) Summary — Zoom 7X Catheter"
     },
     {
       "device_id": "aspiration--medtronic--react-68",
@@ -660,7 +666,7 @@
       "source_id": "fda510k:K180705",
       "source_type": "fda_510k_summary",
       "status": "current",
-      "title": "K180705 510(k) Summary \u2014 React 68 Catheter"
+      "title": "K180705 510(k) Summary — React 68 Catheter"
     },
     {
       "device_id": "aspiration--penumbra--red-43",
@@ -679,7 +685,7 @@
       "source_id": "fda510k:K222808",
       "source_type": "fda_510k_summary",
       "status": "current",
-      "title": "K222808 510(k) Summary \u2014 Penumbra RED 43 Reperfusion Catheter"
+      "title": "K222808 510(k) Summary — Penumbra RED 43 Reperfusion Catheter"
     },
     {
       "device_id": "aspiration--penumbra--red-72",
@@ -698,7 +704,7 @@
       "source_id": "fda510k:K211654",
       "source_type": "fda_510k_summary",
       "status": "current",
-      "title": "K211654 510(k) Summary \u2014 Penumbra RED 72 Reperfusion Catheter"
+      "title": "K211654 510(k) Summary — Penumbra RED 72 Reperfusion Catheter"
     },
     {
       "device_id": "venous-stent--serenity-medical--river-stent-system",
@@ -750,8 +756,8 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "AV\u00cdGO\u2122 .014\" HYDROPHILIC GUIDEWIRE",
-          "Av\u00edgo .014\" Hydrophilic Guidewire"
+          "AVÍGO™ .014\" HYDROPHILIC GUIDEWIRE",
+          "Avígo .014\" Hydrophilic Guidewire"
         ]
       },
       "jurisdiction": "US",
@@ -762,7 +768,7 @@
       "source_id": "catalog:medtronic:medtronic_catalog_2019:guidewire--medtronic--av-go-014-hydrophilic-guidewire",
       "source_type": "manufacturer_product_catalog",
       "status": "current",
-      "title": "Neurovascular Product Catalog (2019), Av\u00edgo .014\" Hydrophilic Guidewire table"
+      "title": "Neurovascular Product Catalog (2019), Avígo .014\" Hydrophilic Guidewire table"
     },
     {
       "device_id": "guidewire--medtronic--mirage-008-hydrophilic-guidewire",
@@ -770,7 +776,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "MIRAGE\u2122 .008\" HYDROPHILIC GUIDEWIRE",
+          "MIRAGE™ .008\" HYDROPHILIC GUIDEWIRE",
           "Mirage .008\" Hydrophilic Guidewire"
         ]
       },
@@ -790,7 +796,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "SILVERSPEED\u2122 HYDROPHILIC GUIDEWIRE",
+          "SILVERSPEED™ HYDROPHILIC GUIDEWIRE",
           "Silverspeed Hydrophilic Guidewire"
         ]
       },
@@ -810,7 +816,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "X-PEDION\u2122 HYDROPHILIC GUIDEWIRE",
+          "X-PEDION™ HYDROPHILIC GUIDEWIRE",
           "X-pedion Hydrophilic Guidewire"
         ]
       },
@@ -830,7 +836,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "CELLO\u2122 BALLOON GUIDE CATHETER",
+          "CELLO™ BALLOON GUIDE CATHETER",
           "Cello Balloon Guide Catheter"
         ]
       },
@@ -850,7 +856,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "PHENOM\u2122* PLUS CATHETER",
+          "PHENOM™* PLUS CATHETER",
           "Phenom Plus Catheter"
         ]
       },
@@ -870,7 +876,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "REACT\u2122 68 CATHETER",
+          "REACT™ 68 CATHETER",
           "React 68 Catheter"
         ]
       },
@@ -890,7 +896,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "NAVIEN\u2122 INTRACRANIAL SUPPORT CATHETER",
+          "NAVIEN™ INTRACRANIAL SUPPORT CATHETER",
           "Navien Intracranial Support Catheter"
         ]
       },
@@ -910,7 +916,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "APOLLO\u2122 ONYX\u2122 DELIVERY MICRO CATHETER",
+          "APOLLO™ ONYX™ DELIVERY MICRO CATHETER",
           "Apollo Onyx Delivery Micro Catheter"
         ]
       },
@@ -930,7 +936,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "MARATHON\u2122 FLOW DIRECTED MICRO CATHETER",
+          "MARATHON™ FLOW DIRECTED MICRO CATHETER",
           "Marathon Flow Directed Micro Catheter"
         ]
       },
@@ -950,7 +956,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "REBAR\u2122 10 REINFORCED MICRO CATHETER",
+          "REBAR™ 10 REINFORCED MICRO CATHETER",
           "Rebar 10 Reinforced Micro Catheter"
         ]
       },
@@ -970,7 +976,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "REBAR\u2122 14 REINFORCED MICRO CATHETER",
+          "REBAR™ 14 REINFORCED MICRO CATHETER",
           "Rebar 14 Reinforced Micro Catheter"
         ]
       },
@@ -990,7 +996,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "REBAR\u2122 18 REINFORCED MICRO CATHETER",
+          "REBAR™ 18 REINFORCED MICRO CATHETER",
           "Rebar 18 Reinforced Micro Catheter"
         ]
       },
@@ -1010,7 +1016,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "REBAR\u2122 27 REINFORCED MICRO CATHETER",
+          "REBAR™ 27 REINFORCED MICRO CATHETER",
           "Rebar 27 Reinforced Micro Catheter"
         ]
       },
@@ -1030,7 +1036,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "MARKSMAN\u2122 MICRO CATHETER",
+          "MARKSMAN™ MICRO CATHETER",
           "Marksman Micro Catheter"
         ]
       },
@@ -1050,7 +1056,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "ORION\u2122 -21 MICRO CATHETER",
+          "ORION™ -21 MICRO CATHETER",
           "Orion -21 Micro Catheter"
         ]
       },
@@ -1070,7 +1076,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "ECHELON\u2122 10 MICRO CATHETER",
+          "ECHELON™ 10 MICRO CATHETER",
           "Echelon 10 Micro Catheter"
         ]
       },
@@ -1090,7 +1096,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "ECHELON\u2122 14 MICRO CATHETER",
+          "ECHELON™ 14 MICRO CATHETER",
           "Echelon 14 Micro Catheter"
         ]
       },
@@ -1110,7 +1116,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "ECHELON\u2122 SYRINGE ADAPTER",
+          "ECHELON™ SYRINGE ADAPTER",
           "Echelon Syringe Adapter"
         ]
       },
@@ -1130,7 +1136,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "PHENOM\u2122* 017 CATHETER",
+          "PHENOM™* 017 CATHETER",
           "Phenom 017 Catheter"
         ]
       },
@@ -1150,7 +1156,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "PHENOM\u2122* 021 CATHETER",
+          "PHENOM™* 021 CATHETER",
           "Phenom 021 Catheter"
         ]
       },
@@ -1170,7 +1176,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "PHENOM\u2122* 027 CATHETER",
+          "PHENOM™* 027 CATHETER",
           "Phenom 027 Catheter"
         ]
       },
@@ -1190,7 +1196,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "HYPERFORM\u2122 OCCLUSION BALLOON SYSTEMS",
+          "HYPERFORM™ OCCLUSION BALLOON SYSTEMS",
           "Hyperform Occlusion Balloon Systems"
         ]
       },
@@ -1210,7 +1216,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "HYPERGLIDE\u2122 OCCLUSION BALLOON SYSTEMS",
+          "HYPERGLIDE™ OCCLUSION BALLOON SYSTEMS",
           "Hyperglide Occlusion Balloon Systems"
         ]
       },
@@ -1230,7 +1236,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "ONYX\u2122 LIQUID EMBOLIC SYSTEM",
+          "ONYX™ LIQUID EMBOLIC SYSTEM",
           "Onyx Liquid Embolic System"
         ]
       },
@@ -1250,7 +1256,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "ONYX\u2122 LES ACCESSORIES",
+          "ONYX™ LES ACCESSORIES",
           "Onyx LES Accessories"
         ]
       },
@@ -1270,7 +1276,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "AXIUM\u2122 PRIME DETACHABLE COILS (FRAME)",
+          "AXIUM™ PRIME DETACHABLE COILS (FRAME)",
           "Axium Prime Detachable Coils (frame)"
         ]
       },
@@ -1310,7 +1316,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "AXIUM\u2122 PRIME 3D DETACHABLE COILS (EXTRA SOFT)",
+          "AXIUM™ PRIME 3D DETACHABLE COILS (EXTRA SOFT)",
           "Axium Prime 3D Detachable Coils (extra Soft)"
         ]
       },
@@ -1330,7 +1336,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "AXIUM\u2122 PRIME HELICAL DETACHABLE COILS (EXTRA SOFT)",
+          "AXIUM™ PRIME HELICAL DETACHABLE COILS (EXTRA SOFT)",
           "Axium Prime Helical Detachable Coils (extra Soft)"
         ]
       },
@@ -1350,7 +1356,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "AXIUM\u2122 PRIME 3D DETACHABLE COILS (SUPER SOFT)",
+          "AXIUM™ PRIME 3D DETACHABLE COILS (SUPER SOFT)",
           "Axium Prime 3D Detachable Coils (super Soft)"
         ]
       },
@@ -1370,7 +1376,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "AXIUM\u2122 PRIME HELICAL DETACHABLE COILS (SUPER SOFT)",
+          "AXIUM™ PRIME HELICAL DETACHABLE COILS (SUPER SOFT)",
           "Axium Prime Helical Detachable Coils (super Soft)"
         ]
       },
@@ -1390,7 +1396,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "AXIUM\u2122 3D DETACHABLE COILS",
+          "AXIUM™ 3D DETACHABLE COILS",
           "Axium 3D Detachable Coils"
         ]
       },
@@ -1410,7 +1416,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "AXIUM\u2122 HELICAL DETACHABLE COILS",
+          "AXIUM™ HELICAL DETACHABLE COILS",
           "Axium Helical Detachable Coils"
         ]
       },
@@ -1430,7 +1436,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "AXIUM\u2122 MICROFX\u2122 PGLA 3D COILS",
+          "AXIUM™ MICROFX™ PGLA 3D COILS",
           "Axium Microfx Pgla 3D Coils"
         ]
       },
@@ -1450,7 +1456,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "AXIUM\u2122 MICROFX\u2122 PGLA HELIX COILS",
+          "AXIUM™ MICROFX™ PGLA HELIX COILS",
           "Axium Microfx Pgla Helix Coils"
         ]
       },
@@ -1470,7 +1476,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "AXIUM\u2122 MICROFX\u2122 NYLON COILS",
+          "AXIUM™ MICROFX™ NYLON COILS",
           "Axium Microfx Nylon Coils"
         ]
       },
@@ -1490,7 +1496,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "PIPELINE\u2122 FLEX EMBOLIZATION DEVICE",
+          "PIPELINE™ FLEX EMBOLIZATION DEVICE",
           "Pipeline Flex Embolization Device"
         ]
       },
@@ -1510,7 +1516,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "SOLITAIRE\u2122 PLATINUM REVASCULARIZATION DEVICE",
+          "SOLITAIRE™ PLATINUM REVASCULARIZATION DEVICE",
           "Solitaire Platinum Revascularization Device"
         ]
       },
@@ -1530,7 +1536,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "RIPTIDE\u2122 ASPIRATION SYSTEM",
+          "RIPTIDE™ ASPIRATION SYSTEM",
           "Riptide Aspiration System"
         ]
       },
@@ -1550,7 +1556,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "CADENCE\u2122 PRECISION INJECTOR ACCESSORY",
+          "CADENCE™ PRECISION INJECTOR ACCESSORY",
           "Cadence Precision Injector Accessory"
         ]
       },
@@ -2790,7 +2796,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "Microcatheter OTW - 0.014 Angled Tips: 45\u00b0, 90\u00b0, 120\u00b0, and 90\u00b0 Extended Tip"
+          "Microcatheter OTW - 0.014 Angled Tips: 45°, 90°, 120°, and 90° Extended Tip"
         ]
       },
       "jurisdiction": "EU",
@@ -2802,7 +2808,7 @@
       "source_id": "evt:european-microcatheters-1:2026-08:microcatheter--teleflex--microcatheter-otw-0-014-angled-tips-45-90-120-and-90-extended-tip",
       "source_type": "trade_journal_device_guide",
       "status": "current",
-      "title": "Endovascular Today - EUROPEAN Device Guide - Microcatheters (2026-08 export), row for Teleflex / Microcatheter OTW - 0.014 Angled Tips: 45\u00b0, 90\u00b0, 120\u00b0, and 90\u00b0 Extended Tip"
+      "title": "Endovascular Today - EUROPEAN Device Guide - Microcatheters (2026-08 export), row for Teleflex / Microcatheter OTW - 0.014 Angled Tips: 45°, 90°, 120°, and 90° Extended Tip"
     },
     {
       "device_id": "microcatheter--teleflex--supercross-microcatheter-otw-0-014-straight-and-flexible-tip",
@@ -3230,7 +3236,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "Xact\u2122 Transcarotid Stent System"
+          "Xact™ Transcarotid Stent System"
         ]
       },
       "jurisdiction": "US",
@@ -3242,7 +3248,7 @@
       "source_id": "evt:us-carotid-artery-stenting-systems:2026-08:carotid-stent--abbott--xact-transcarotid-stent-system",
       "source_type": "trade_journal_device_guide",
       "status": "current",
-      "title": "Endovascular Today - US Device Guide - Carotid Artery Stenting Systems (2026-08 export), row for Abbott / Xact\u2122 Transcarotid Stent System"
+      "title": "Endovascular Today - US Device Guide - Carotid Artery Stenting Systems (2026-08 export), row for Abbott / Xact™ Transcarotid Stent System"
     },
     {
       "device_id": "carotid-stent--boston-scientific--carotid-wallstent-endoprosthesis",
@@ -3370,7 +3376,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "Prot\u00e9g\u00e9 RX Carotid Stent System"
+          "Protégé RX Carotid Stent System"
         ]
       },
       "jurisdiction": "US",
@@ -3382,7 +3388,7 @@
       "source_id": "evt:us-carotid-artery-stenting-systems:2026-08:carotid-stent--medtronic--prot-g-rx-carotid-stent-system",
       "source_type": "trade_journal_device_guide",
       "status": "current",
-      "title": "Endovascular Today - US Device Guide - Carotid Artery Stenting Systems (2026-08 export), row for Medtronic / Prot\u00e9g\u00e9 RX Carotid Stent System"
+      "title": "Endovascular Today - US Device Guide - Carotid Artery Stenting Systems (2026-08 export), row for Medtronic / Protégé RX Carotid Stent System"
     },
     {
       "device_id": "carotid-stent--terumo-interventional-systems--roadsaver-carotid-artery-stent-system",
@@ -6110,7 +6116,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "Avigo .014\u201d Hydrophilic Guidewire"
+          "Avigo .014” Hydrophilic Guidewire"
         ]
       },
       "jurisdiction": "US",
@@ -6122,7 +6128,7 @@
       "source_id": "evt:us-hydrophilic-guidewires:2026-08:guidewire--medtronic--avigo-014-hydrophilic-guidewire",
       "source_type": "trade_journal_device_guide",
       "status": "current",
-      "title": "Endovascular Today - US Device Guide - Hydrophilic Guidewires (2026-08 export), row for Medtronic / Avigo .014\u201d Hydrophilic Guidewire"
+      "title": "Endovascular Today - US Device Guide - Hydrophilic Guidewires (2026-08 export), row for Medtronic / Avigo .014” Hydrophilic Guidewire"
     },
     {
       "device_id": "guidewire--medtronic--mirage-008-hydrophilic-guidewire",
@@ -6130,7 +6136,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "Mirage .008\u201d Hydrophilic Guidewire"
+          "Mirage .008” Hydrophilic Guidewire"
         ]
       },
       "jurisdiction": "US",
@@ -6142,7 +6148,7 @@
       "source_id": "evt:us-hydrophilic-guidewires:2026-08:guidewire--medtronic--mirage-008-hydrophilic-guidewire",
       "source_type": "trade_journal_device_guide",
       "status": "current",
-      "title": "Endovascular Today - US Device Guide - Hydrophilic Guidewires (2026-08 export), row for Medtronic / Mirage .008\u201d Hydrophilic Guidewire"
+      "title": "Endovascular Today - US Device Guide - Hydrophilic Guidewires (2026-08 export), row for Medtronic / Mirage .008” Hydrophilic Guidewire"
     },
     {
       "device_id": "guidewire--medtronic--silverspeed-010-hydrophilic-guidewire",
@@ -6730,7 +6736,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "WEB Aneurysm Embolization System\u2014Single Layer"
+          "WEB Aneurysm Embolization System—Single Layer"
         ]
       },
       "jurisdiction": "US",
@@ -6742,7 +6748,7 @@
       "source_id": "evt:us-intrasaccular-flow-disruptor-1:2026-08:intrasaccular--terumo-neuro--web-aneurysm-embolization-system-single-layer",
       "source_type": "trade_journal_device_guide",
       "status": "current",
-      "title": "Endovascular Today - US Device Guide - Intrasaccular Flow Disruptor (2026-08 export), row for Terumo Neuro / WEB Aneurysm Embolization System\u2014Single Layer"
+      "title": "Endovascular Today - US Device Guide - Intrasaccular Flow Disruptor (2026-08 export), row for Terumo Neuro / WEB Aneurysm Embolization System—Single Layer"
     },
     {
       "device_id": "intrasaccular--terumo-neuro--web-aneurysm-embolization-system-single-layer-sphere",
@@ -6750,7 +6756,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "WEB Aneurysm Embolization System\u2014Single Layer Sphere"
+          "WEB Aneurysm Embolization System—Single Layer Sphere"
         ]
       },
       "jurisdiction": "US",
@@ -6762,7 +6768,7 @@
       "source_id": "evt:us-intrasaccular-flow-disruptor-1:2026-08:intrasaccular--terumo-neuro--web-aneurysm-embolization-system-single-layer-sphere",
       "source_type": "trade_journal_device_guide",
       "status": "current",
-      "title": "Endovascular Today - US Device Guide - Intrasaccular Flow Disruptor (2026-08 export), row for Terumo Neuro / WEB Aneurysm Embolization System\u2014Single Layer Sphere"
+      "title": "Endovascular Today - US Device Guide - Intrasaccular Flow Disruptor (2026-08 export), row for Terumo Neuro / WEB Aneurysm Embolization System—Single Layer Sphere"
     },
     {
       "device_id": "thrombectomy--cerenovus--embotrap-iii-revascularization-device",
@@ -8750,7 +8756,7 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "SuperCross Microcatheter OTW - 0.014 Angled Tips - 45\u00b0, 90\u00b0, 120\u00b0, and 90\u00b0 Extended Tip"
+          "SuperCross Microcatheter OTW - 0.014 Angled Tips - 45°, 90°, 120°, and 90° Extended Tip"
         ]
       },
       "jurisdiction": "US",
@@ -8762,7 +8768,7 @@
       "source_id": "evt:us-microcatheters-4:2026-08:microcatheter--teleflex--supercross-microcatheter-otw-0-014-angled-tips-45-90-120-and-90-extended-tip",
       "source_type": "trade_journal_device_guide",
       "status": "current",
-      "title": "Endovascular Today - US Device Guide - Microcatheters (2026-08 export), row for Teleflex / SuperCross Microcatheter OTW - 0.014 Angled Tips - 45\u00b0, 90\u00b0, 120\u00b0, and 90\u00b0 Extended Tip"
+      "title": "Endovascular Today - US Device Guide - Microcatheters (2026-08 export), row for Teleflex / SuperCross Microcatheter OTW - 0.014 Angled Tips - 45°, 90°, 120°, and 90° Extended Tip"
     },
     {
       "device_id": "microcatheter--terumo-interventional-systems--progreat-alpha-microcatheter",
@@ -9710,8 +9716,8 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "Synchro\u201310 Guidewires",
-          "Synchro\u201310 Guidewires"
+          "Synchro–10 Guidewires",
+          "Synchro–10 Guidewires"
         ]
       },
       "jurisdiction": "US",
@@ -9722,7 +9728,7 @@
       "source_id": "catalog:stryker:stryker_catalog_2024:guidewire--stryker--synchro-10-guidewires",
       "source_type": "manufacturer_product_catalog",
       "status": "current",
-      "title": "Stryker Neurovascular interventions product catalogue (2024), Synchro\u201310 Guidewires table"
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Synchro–10 Guidewires table"
     },
     {
       "device_id": "guidewire--stryker--synchro-14-guidewires",
@@ -9730,8 +9736,8 @@
       "evidence_depth": "local_full_text",
       "identity": {
         "required_any": [
-          "Synchro\u201314 Guidewires",
-          "Synchro\u201314 Guidewires"
+          "Synchro–14 Guidewires",
+          "Synchro–14 Guidewires"
         ]
       },
       "jurisdiction": "US",
@@ -9742,7 +9748,7 @@
       "source_id": "catalog:stryker:stryker_catalog_2024:guidewire--stryker--synchro-14-guidewires",
       "source_type": "manufacturer_product_catalog",
       "status": "current",
-      "title": "Stryker Neurovascular interventions product catalogue (2024), Synchro\u201314 Guidewires table"
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Synchro–14 Guidewires table"
     },
     {
       "device_id": "guidewire--stryker--transend-ex-guidewires",
@@ -10803,6 +10809,1035 @@
       "source_type": "manufacturer_product_catalog",
       "status": "current",
       "title": "Stryker Neurovascular interventions product catalogue (2024), Gateway PTA Balloon Catheters table"
+    },
+    {
+      "device_id": "balloon-catheter--microvention--scepter-mini",
+      "document_id": "PD111516",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_all": [
+          "PD111516"
+        ],
+        "required_any": [
+          "Scepter Mini"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/balloon-catheter--microvention--scepter-mini--ifu.pdf",
+      "notes": "User-supplied current IFU retained 2026-08-23.",
+      "revision": "Rev. H (2023-01)",
+      "source_id": "ifu:microvention:scepter-mini:pd111516-rev-h-2023",
+      "source_type": "manufacturer_ifu",
+      "status": "current",
+      "title": "Scepter Mini Occlusion Balloon Catheter IFU, PD111516 Rev. H (2023-01)"
+    },
+    {
+      "device_id": "balloon-catheter--microvention--scepter-c-xc",
+      "document_id": "IFU100266",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_all": [
+          "IFU100266"
+        ],
+        "required_any": [
+          "Scepter C",
+          "Scepter XC"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/balloon-catheter--microvention--scepter-c-xc--ifu.pdf",
+      "notes": "User-supplied current IFU retained 2026-08-23.",
+      "revision": "IFU100266",
+      "source_id": "ifu:microvention:scepter-c-xc:ifu100266",
+      "source_type": "manufacturer_ifu",
+      "status": "current",
+      "title": "Scepter C / Scepter XC Occlusion Balloon Catheter IFU, IFU100266"
+    },
+    {
+      "device_id": "distal-access--microvention--sofia",
+      "document_id": "IFU100279",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_all": [
+          "IFU100279"
+        ],
+        "required_any": [
+          "SOFIA"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/distal-access--microvention--sofia--ifu.pdf",
+      "notes": "User-supplied current IFU retained 2026-08-23.",
+      "revision": "Rev. C",
+      "source_id": "ifu:microvention:sofia:ifu100279-rev-c",
+      "source_type": "manufacturer_ifu",
+      "status": "current",
+      "title": "SOFIA Catheter IFU, IFU100279 Rev. C"
+    },
+    {
+      "device_id": "intracranial-stent--microvention--lvis",
+      "document_id": "IFU100003",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_all": [
+          "IFU100003"
+        ],
+        "required_any": [
+          "LVIS"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/intracranial-stent--microvention--lvis--ifu.pdf",
+      "notes": "User-supplied current IFU retained 2026-08-23.",
+      "revision": "Rev C (2021-11)",
+      "source_id": "ifu:microvention:lvis-lvis-jr:ifu100003-rev-c-2021",
+      "source_type": "manufacturer_ifu",
+      "status": "current",
+      "title": "LVIS and LVIS Jr Intraluminal Support Device IFU (US), IFU100003 Rev C (2021-11)"
+    },
+    {
+      "device_id": "stent-retriever--medtronic--solitaire-x",
+      "document_id": "solitaire-x-ifu",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_all": [
+          "Revascularization Device"
+        ],
+        "required_any": [
+          "Solitaire"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stent-retriever--medtronic--solitaire-x--ifu.pdf",
+      "notes": "User-supplied current IFU retained 2026-08-23.",
+      "revision": "as served by medtronic.com 2025",
+      "source_id": "ifu:medtronic:solitaire-x:current-2025",
+      "source_type": "manufacturer_ifu",
+      "status": "current",
+      "title": "Solitaire X Revascularization Device IFU"
+    },
+    {
+      "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+      "document_id": "pipeline-flex-shield-ifu",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_all": [
+          "Shield Technology"
+        ],
+        "required_any": [
+          "Pipeline"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/flow-diverter--medtronic--pipeline-flex-shield--ifu.pdf",
+      "notes": "User-supplied current IFU retained 2026-08-23.",
+      "revision": "as served by medtronic.com 2025",
+      "source_id": "ifu:medtronic:pipeline-flex-shield:current-2025",
+      "source_type": "manufacturer_ifu",
+      "status": "current",
+      "title": "Pipeline Flex Embolization Device with Shield Technology IFU"
+    },
+    {
+      "device_id": "flow-diverter--medtronic--pipeline-vantage-shield",
+      "document_id": "pipeline-vantage-shield-ifu",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_all": [
+          "Vantage"
+        ],
+        "required_any": [
+          "Pipeline"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/flow-diverter--medtronic--pipeline-vantage-shield--ifu.pdf",
+      "notes": "User-supplied current IFU retained 2026-08-23.",
+      "revision": "as served by medtronic.com 2025",
+      "source_id": "ifu:medtronic:pipeline-vantage-shield:current-2025",
+      "source_type": "manufacturer_ifu",
+      "status": "current",
+      "title": "Pipeline Vantage Embolization Device with Shield Technology IFU"
+    },
+    {
+      "device_id": "liquid-embolic--medtronic--onyx-les",
+      "document_id": "70862-001",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_all": [
+          "Liquid Embolic System"
+        ],
+        "required_any": [
+          "Onyx"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/liquid-embolic--medtronic--onyx-les--ifu.pdf",
+      "notes": "User-supplied current IFU retained 2026-08-23. This is the 10/13 revision as served on the manufacturer site in 2025; the product page references later document numbers (M074966CDOC2 Rev A, M051125CDOC2 Rev C) - check for a newer revision before relying on dosing/compatibility.",
+      "revision": "Rev. 10/13 (as served by medtronic.com 2025)",
+      "source_id": "ifu:medtronic:onyx-les:70862-001-rev-10-13",
+      "source_type": "manufacturer_ifu",
+      "status": "current",
+      "title": "Onyx Liquid Embolic System IFU, 70862-001 Rev. 10/13"
+    },
+    {
+      "device_id": "intrasaccular--microvention--web-embolization",
+      "document_id": "IFU100044",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_all": [
+          "IFU100044"
+        ],
+        "required_any": [
+          "WEB"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/intrasaccular--microvention--web-embolization--ifu.pdf",
+      "notes": "User-supplied current IFU retained 2026-08-23.",
+      "revision": "Rev. E (2024-02)",
+      "source_id": "ifu:microvention:web:ifu100044-rev-e-2024",
+      "source_type": "manufacturer_ifu",
+      "status": "current",
+      "title": "WEB Aneurysm Embolization System IFU (US), IFU100044 Rev. E (2024-02)"
+    },
+    {
+      "device_id": "flow-diverter--microvention--fred",
+      "document_id": "IFU100016",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_all": [
+          "IFU100016"
+        ],
+        "required_any": [
+          "FRED",
+          "Flow Re-Direction"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/flow-diverter--microvention--fred--ifu.pdf",
+      "notes": "User-supplied current IFU retained 2026-08-23.",
+      "revision": "Rev. A (2020-01)",
+      "source_id": "ifu:microvention:fred:ifu100016-rev-a-2020",
+      "source_type": "manufacturer_ifu",
+      "status": "current",
+      "title": "FRED Flow Re-Direction Endoluminal Device IFU (US), IFU100016 Rev. A (2020-01)"
+    },
+    {
+      "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+      "document_id": "US-NEU-2400007",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_all": [
+          "Shield Technology"
+        ],
+        "required_any": [
+          "Pipeline Flex"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/flow-diverter--medtronic--pipeline-flex-shield--in-service.pdf",
+      "notes": "Manufacturer training deck marked internal use; retained as a discovery/compatibility lead only, not labeling.",
+      "revision": "FY25 v2.0 (September 2023)",
+      "source_id": "inservice:medtronic:pipeline-flex-shield:us-neu-2400007-fy25",
+      "source_type": "manufacturer_in_service_material",
+      "status": "current",
+      "title": "Pipeline Flex with Shield Technology In-Service deck, US-NEU-2400007 (Sept 2023)"
+    },
+    {
+      "device_id": "microcatheter--microvention--wedge-21",
+      "document_id": "IFU100342",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Wedge"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/microcatheter--microvention--wedge-21--ifu-screens/wedge-1.png",
+      "notes": "Retained as three user-supplied screenshots (wedge-1..3.png) of the English IFU pages; sha256 covers all three images. Full PDF not on file; claims limited to content visible in the screenshots. Identity check by hash only (images).",
+      "revision": "Rev. B (2023-04)",
+      "sha256": "a3f501679b591e9c6376e66958de4000c15a6c2907fa02ccc3ec4739fa36cecd",
+      "source_id": "ifu:microvention:wedge-21:ifu100342-rev-b-2023-screens",
+      "source_type": "manufacturer_ifu",
+      "status": "current",
+      "title": "Wedge Microcatheter IFU, IFU100342 Rev. B (2023-04) - three page screenshots (English section)"
+    },
+    {
+      "device_id": "access-treatment--balt--introducer-sheath-long-ballast",
+      "document_id": "balt_catalog_2020_intl",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "introducer sheath (long) ballast",
+          "introducer sheath (long) ballast",
+          "ballast"
+        ]
+      },
+      "jurisdiction": "international",
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "notes": "Manufacturer product catalog dated 2020; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2020 catalog",
+      "sha256": "a23200965da4dd337ab474e83c7353837cf4727c267928d29fb9e9060305a66f",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:access-treatment--balt--introducer-sheath-long-ballast",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Balt international product catalogue (2020), introducer sheath (long) ballast table"
+    },
+    {
+      "device_id": "access-treatment--balt--introducer-sheath-long-iva",
+      "document_id": "balt_catalog_2020_intl",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "introducer sheath (long) IVA",
+          "introducer sheath (long) IVA",
+          "IVA"
+        ]
+      },
+      "jurisdiction": "international",
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "notes": "Manufacturer product catalog dated 2020; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2020 catalog",
+      "sha256": "a23200965da4dd337ab474e83c7353837cf4727c267928d29fb9e9060305a66f",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:access-treatment--balt--introducer-sheath-long-iva",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Balt international product catalogue (2020), introducer sheath (long) IVA table"
+    },
+    {
+      "device_id": "access-treatment--balt--guiding-catheter",
+      "document_id": "balt_catalog_2020_intl",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "guiding catheter",
+          "guiding catheter",
+          "guiding"
+        ]
+      },
+      "jurisdiction": "international",
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "notes": "Manufacturer product catalog dated 2020; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2020 catalog",
+      "sha256": "a23200965da4dd337ab474e83c7353837cf4727c267928d29fb9e9060305a66f",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:access-treatment--balt--guiding-catheter",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Balt international product catalogue (2020), guiding catheter table"
+    },
+    {
+      "device_id": "microcatheter--balt--microcatheter-vasco",
+      "document_id": "balt_catalog_2020_intl",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "microcatheter vasco+",
+          "microcatheter vasco+",
+          "vasco+"
+        ]
+      },
+      "jurisdiction": "international",
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "notes": "Manufacturer product catalog dated 2020; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2020 catalog",
+      "sha256": "a23200965da4dd337ab474e83c7353837cf4727c267928d29fb9e9060305a66f",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:microcatheter--balt--microcatheter-vasco",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Balt international product catalogue (2020), microcatheter vasco+ table"
+    },
+    {
+      "device_id": "microcatheter--balt--microcatheter-gama",
+      "document_id": "balt_catalog_2020_intl",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "microcatheter gama",
+          "microcatheter gama",
+          "gama"
+        ]
+      },
+      "jurisdiction": "international",
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "notes": "Manufacturer product catalog dated 2020; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2020 catalog",
+      "sha256": "a23200965da4dd337ab474e83c7353837cf4727c267928d29fb9e9060305a66f",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:microcatheter--balt--microcatheter-gama",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Balt international product catalogue (2020), microcatheter gama table"
+    },
+    {
+      "device_id": "guidewire--balt--guidewire-hybrid",
+      "document_id": "balt_catalog_2020_intl",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "guidewire hybrid",
+          "guidewire hybrid",
+          "hybrid"
+        ]
+      },
+      "jurisdiction": "international",
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "notes": "Manufacturer product catalog dated 2020; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2020 catalog",
+      "sha256": "a23200965da4dd337ab474e83c7353837cf4727c267928d29fb9e9060305a66f",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:guidewire--balt--guidewire-hybrid",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Balt international product catalogue (2020), guidewire hybrid table"
+    },
+    {
+      "device_id": "embolic-coil--balt--embolization-coil-system-barricade",
+      "document_id": "balt_catalog_2020_intl",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "embolization coil system barricade",
+          "embolization coil system barricade",
+          "barricade"
+        ]
+      },
+      "jurisdiction": "international",
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "notes": "Manufacturer product catalog dated 2020; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2020 catalog",
+      "sha256": "a23200965da4dd337ab474e83c7353837cf4727c267928d29fb9e9060305a66f",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:embolic-coil--balt--embolization-coil-system-barricade",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Balt international product catalogue (2020), embolization coil system barricade table"
+    },
+    {
+      "device_id": "embolic-coil--balt--embolization-coil-system-optima",
+      "document_id": "balt_catalog_2020_intl",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "embolization coil system optima",
+          "embolization coil system optima",
+          "optima"
+        ]
+      },
+      "jurisdiction": "international",
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "notes": "Manufacturer product catalog dated 2020; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2020 catalog",
+      "sha256": "a23200965da4dd337ab474e83c7353837cf4727c267928d29fb9e9060305a66f",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:embolic-coil--balt--embolization-coil-system-optima",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Balt international product catalogue (2020), embolization coil system optima table"
+    },
+    {
+      "device_id": "balloon-catheter--balt--occlusion-catheters-with-balloon",
+      "document_id": "balt_catalog_2020_intl",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "occlusion catheters with balloon",
+          "occlusion catheters with balloon",
+          "balloon"
+        ]
+      },
+      "jurisdiction": "international",
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "notes": "Manufacturer product catalog dated 2020; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2020 catalog",
+      "sha256": "a23200965da4dd337ab474e83c7353837cf4727c267928d29fb9e9060305a66f",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:balloon-catheter--balt--occlusion-catheters-with-balloon",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Balt international product catalogue (2020), occlusion catheters with balloon table"
+    },
+    {
+      "device_id": "aneurysm-treatment--balt--temporary-occlusion-catheters",
+      "document_id": "balt_catalog_2020_intl",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "temporary occlusion catheters",
+          "temporary occlusion catheters",
+          "catheters"
+        ]
+      },
+      "jurisdiction": "international",
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "notes": "Manufacturer product catalog dated 2020; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2020 catalog",
+      "sha256": "a23200965da4dd337ab474e83c7353837cf4727c267928d29fb9e9060305a66f",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:aneurysm-treatment--balt--temporary-occlusion-catheters",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Balt international product catalogue (2020), temporary occlusion catheters table"
+    },
+    {
+      "device_id": "intracranial-stent--balt--intracranial-self-expandable-stent",
+      "document_id": "balt_catalog_2020_intl",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "intracranial self-expandable stent",
+          "intracranial self-expandable stent",
+          "self-expandable"
+        ]
+      },
+      "jurisdiction": "international",
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "notes": "Manufacturer product catalog dated 2020; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2020 catalog",
+      "sha256": "a23200965da4dd337ab474e83c7353837cf4727c267928d29fb9e9060305a66f",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:intracranial-stent--balt--intracranial-self-expandable-stent",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Balt international product catalogue (2020), intracranial self-expandable stent table"
+    },
+    {
+      "device_id": "flow-diverter--balt--intracranial-self-expandable-flow-diverter-silk-vista-baby",
+      "document_id": "balt_catalog_2020_intl",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "intracranial self-expandable flow diverter silk vista baby",
+          "intracranial self-expandable flow diverter silk vista baby",
+          "baby"
+        ]
+      },
+      "jurisdiction": "international",
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "notes": "Manufacturer product catalog dated 2020; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2020 catalog",
+      "sha256": "a23200965da4dd337ab474e83c7353837cf4727c267928d29fb9e9060305a66f",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:flow-diverter--balt--intracranial-self-expandable-flow-diverter-silk-vista-baby",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Balt international product catalogue (2020), intracranial self-expandable flow diverter silk vista baby table"
+    },
+    {
+      "device_id": "flow-diverter--balt--intracranial-self-expandable-flow-diverter-silk",
+      "document_id": "balt_catalog_2020_intl",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "intracranial self-expandable flow diverter silk+",
+          "intracranial self-expandable flow diverter silk+",
+          "silk+"
+        ]
+      },
+      "jurisdiction": "international",
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "notes": "Manufacturer product catalog dated 2020; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2020 catalog",
+      "sha256": "a23200965da4dd337ab474e83c7353837cf4727c267928d29fb9e9060305a66f",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:flow-diverter--balt--intracranial-self-expandable-flow-diverter-silk",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Balt international product catalogue (2020), intracranial self-expandable flow diverter silk+ table"
+    },
+    {
+      "device_id": "flow-diverter--balt--intracranial-self-expandable-flow-diverter-tapered-silk",
+      "document_id": "balt_catalog_2020_intl",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "intracranial self-expandable flow diverter tapered silk+",
+          "intracranial self-expandable flow diverter tapered silk+",
+          "silk+"
+        ]
+      },
+      "jurisdiction": "international",
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "notes": "Manufacturer product catalog dated 2020; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2020 catalog",
+      "sha256": "a23200965da4dd337ab474e83c7353837cf4727c267928d29fb9e9060305a66f",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:flow-diverter--balt--intracranial-self-expandable-flow-diverter-tapered-silk",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Balt international product catalogue (2020), intracranial self-expandable flow diverter tapered silk+ table"
+    },
+    {
+      "device_id": "microcatheter--balt--progressive-suppleness-microcatheter-magic",
+      "document_id": "balt_catalog_2020_intl",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "progressive suppleness microcatheter magic",
+          "progressive suppleness microcatheter magic",
+          "magic"
+        ]
+      },
+      "jurisdiction": "international",
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "notes": "Manufacturer product catalog dated 2020; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2020 catalog",
+      "sha256": "a23200965da4dd337ab474e83c7353837cf4727c267928d29fb9e9060305a66f",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:microcatheter--balt--progressive-suppleness-microcatheter-magic",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Balt international product catalogue (2020), progressive suppleness microcatheter magic table"
+    },
+    {
+      "device_id": "microcatheter--balt--progressive-suppleness-microcatheter-baltacci",
+      "document_id": "balt_catalog_2020_intl",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "progressive suppleness microcatheter baltacci",
+          "progressive suppleness microcatheter baltacci",
+          "baltacci"
+        ]
+      },
+      "jurisdiction": "international",
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "notes": "Manufacturer product catalog dated 2020; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2020 catalog",
+      "sha256": "a23200965da4dd337ab474e83c7353837cf4727c267928d29fb9e9060305a66f",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:microcatheter--balt--progressive-suppleness-microcatheter-baltacci",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Balt international product catalogue (2020), progressive suppleness microcatheter baltacci table"
+    },
+    {
+      "device_id": "microcatheter--balt--detachable-tip-microcatheter-sonic",
+      "document_id": "balt_catalog_2020_intl",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "detachable tip microcatheter sonic",
+          "detachable tip microcatheter sonic",
+          "sonic"
+        ]
+      },
+      "jurisdiction": "international",
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "notes": "Manufacturer product catalog dated 2020; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2020 catalog",
+      "sha256": "a23200965da4dd337ab474e83c7353837cf4727c267928d29fb9e9060305a66f",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:microcatheter--balt--detachable-tip-microcatheter-sonic",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Balt international product catalogue (2020), detachable tip microcatheter sonic table"
+    },
+    {
+      "device_id": "balloon-catheter--balt--venous-remodelling-balloon-copernic-rc",
+      "document_id": "balt_catalog_2020_intl",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "venous remodelling balloon copernic RC",
+          "venous remodelling balloon copernic RC",
+          "copernic"
+        ]
+      },
+      "jurisdiction": "international",
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "notes": "Manufacturer product catalog dated 2020; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2020 catalog",
+      "sha256": "a23200965da4dd337ab474e83c7353837cf4727c267928d29fb9e9060305a66f",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:balloon-catheter--balt--venous-remodelling-balloon-copernic-rc",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Balt international product catalogue (2020), venous remodelling balloon copernic RC table"
+    },
+    {
+      "device_id": "balloon-catheter--balt--detachable-balloon-goldballoon",
+      "document_id": "balt_catalog_2020_intl",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "detachable balloon goldballoon",
+          "detachable balloon goldballoon",
+          "goldballoon"
+        ]
+      },
+      "jurisdiction": "international",
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "notes": "Manufacturer product catalog dated 2020; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2020 catalog",
+      "sha256": "a23200965da4dd337ab474e83c7353837cf4727c267928d29fb9e9060305a66f",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:balloon-catheter--balt--detachable-balloon-goldballoon",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Balt international product catalogue (2020), detachable balloon goldballoon table"
+    },
+    {
+      "device_id": "avm-treatment--balt--catheters-for-detachable-balloons-magic",
+      "document_id": "balt_catalog_2020_intl",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "catheters for detachable balloons magic",
+          "catheters for detachable balloons magic",
+          "magic"
+        ]
+      },
+      "jurisdiction": "international",
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "notes": "Manufacturer product catalog dated 2020; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2020 catalog",
+      "sha256": "a23200965da4dd337ab474e83c7353837cf4727c267928d29fb9e9060305a66f",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:avm-treatment--balt--catheters-for-detachable-balloons-magic",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Balt international product catalogue (2020), catheters for detachable balloons magic table"
+    },
+    {
+      "device_id": "avm-treatment--balt--catheters-for-detachable-balloons-baltacci",
+      "document_id": "balt_catalog_2020_intl",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "catheters for detachable balloons baltacci",
+          "catheters for detachable balloons baltacci",
+          "baltacci"
+        ]
+      },
+      "jurisdiction": "international",
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "notes": "Manufacturer product catalog dated 2020; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2020 catalog",
+      "sha256": "a23200965da4dd337ab474e83c7353837cf4727c267928d29fb9e9060305a66f",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:avm-treatment--balt--catheters-for-detachable-balloons-baltacci",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Balt international product catalogue (2020), catheters for detachable balloons baltacci table"
+    },
+    {
+      "device_id": "liquid-embolic--balt--liquid-embolic-agent-magic-glue",
+      "document_id": "balt_catalog_2020_intl",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "liquid embolic agent magic glue",
+          "liquid embolic agent magic glue",
+          "glue"
+        ]
+      },
+      "jurisdiction": "international",
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "notes": "Manufacturer product catalog dated 2020; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2020 catalog",
+      "sha256": "a23200965da4dd337ab474e83c7353837cf4727c267928d29fb9e9060305a66f",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:liquid-embolic--balt--liquid-embolic-agent-magic-glue",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Balt international product catalogue (2020), liquid embolic agent magic glue table"
+    },
+    {
+      "device_id": "liquid-embolic--balt--liquid-embolic-agent-squid",
+      "document_id": "balt_catalog_2020_intl",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "liquid embolic agent squid",
+          "liquid embolic agent squid",
+          "squid"
+        ]
+      },
+      "jurisdiction": "international",
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "notes": "Manufacturer product catalog dated 2020; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2020 catalog",
+      "sha256": "a23200965da4dd337ab474e83c7353837cf4727c267928d29fb9e9060305a66f",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:liquid-embolic--balt--liquid-embolic-agent-squid",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Balt international product catalogue (2020), liquid embolic agent squid table"
+    },
+    {
+      "device_id": "embolic-coil--balt--free-spirale-flow-coils",
+      "document_id": "balt_catalog_2020_intl",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "free spirale flow coils",
+          "free spirale flow coils",
+          "coils"
+        ]
+      },
+      "jurisdiction": "international",
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "notes": "Manufacturer product catalog dated 2020; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2020 catalog",
+      "sha256": "a23200965da4dd337ab474e83c7353837cf4727c267928d29fb9e9060305a66f",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:embolic-coil--balt--free-spirale-flow-coils",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Balt international product catalogue (2020), free spirale flow coils table"
+    },
+    {
+      "device_id": "avm-treatment--balt--opacifying-powder-tantalum",
+      "document_id": "balt_catalog_2020_intl",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "opacifying powder tantalum",
+          "opacifying powder tantalum",
+          "tantalum"
+        ]
+      },
+      "jurisdiction": "international",
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "notes": "Manufacturer product catalog dated 2020; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2020 catalog",
+      "sha256": "a23200965da4dd337ab474e83c7353837cf4727c267928d29fb9e9060305a66f",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:avm-treatment--balt--opacifying-powder-tantalum",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Balt international product catalogue (2020), opacifying powder tantalum table"
+    },
+    {
+      "device_id": "stroke-treatment--balt--catheter-system-titan-070",
+      "document_id": "balt_catalog_2020_intl",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "catheter system titan 070",
+          "catheter system titan 070",
+          "titan"
+        ]
+      },
+      "jurisdiction": "international",
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "notes": "Manufacturer product catalog dated 2020; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2020 catalog",
+      "sha256": "a23200965da4dd337ab474e83c7353837cf4727c267928d29fb9e9060305a66f",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:stroke-treatment--balt--catheter-system-titan-070",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Balt international product catalogue (2020), catheter system titan 070 table"
+    },
+    {
+      "device_id": "stroke-treatment--balt--catheter-system-titan-kit",
+      "document_id": "balt_catalog_2020_intl",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "catheter system titan kit",
+          "catheter system titan kit",
+          "titan"
+        ]
+      },
+      "jurisdiction": "international",
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "notes": "Manufacturer product catalog dated 2020; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2020 catalog",
+      "sha256": "a23200965da4dd337ab474e83c7353837cf4727c267928d29fb9e9060305a66f",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:stroke-treatment--balt--catheter-system-titan-kit",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Balt international product catalogue (2020), catheter system titan kit table"
+    },
+    {
+      "device_id": "stroke-treatment--balt--catheter-system-titan-036",
+      "document_id": "balt_catalog_2020_intl",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "catheter system titan 036",
+          "catheter system titan 036",
+          "titan"
+        ]
+      },
+      "jurisdiction": "international",
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "notes": "Manufacturer product catalog dated 2020; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2020 catalog",
+      "sha256": "a23200965da4dd337ab474e83c7353837cf4727c267928d29fb9e9060305a66f",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:stroke-treatment--balt--catheter-system-titan-036",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Balt international product catalogue (2020), catheter system titan 036 table"
+    },
+    {
+      "device_id": "stent-retriever--balt--stent-retriever-system-catchview",
+      "document_id": "balt_catalog_2020_intl",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "stent retriever system catchview",
+          "stent retriever system catchview",
+          "catchview"
+        ]
+      },
+      "jurisdiction": "international",
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "notes": "Manufacturer product catalog dated 2020; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2020 catalog",
+      "sha256": "a23200965da4dd337ab474e83c7353837cf4727c267928d29fb9e9060305a66f",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:stent-retriever--balt--stent-retriever-system-catchview",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Balt international product catalogue (2020), stent retriever system catchview table"
+    },
+    {
+      "device_id": "stent-retriever--balt--stent-retriever-system-catch",
+      "document_id": "balt_catalog_2020_intl",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "stent retriever system catch+",
+          "stent retriever system catch+",
+          "catch+"
+        ]
+      },
+      "jurisdiction": "international",
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "notes": "Manufacturer product catalog dated 2020; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2020 catalog",
+      "sha256": "a23200965da4dd337ab474e83c7353837cf4727c267928d29fb9e9060305a66f",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:stent-retriever--balt--stent-retriever-system-catch",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Balt international product catalogue (2020), stent retriever system catch+ table"
+    },
+    {
+      "device_id": "cardiovascular-and-peripheral-vascular-treatment--balt--angiographic-catheter",
+      "document_id": "balt_catalog_2020_intl",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "angiographic catheter",
+          "angiographic catheter",
+          "angiographic"
+        ]
+      },
+      "jurisdiction": "international",
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "notes": "Manufacturer product catalog dated 2020; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2020 catalog",
+      "sha256": "a23200965da4dd337ab474e83c7353837cf4727c267928d29fb9e9060305a66f",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:cardiovascular-and-peripheral-vascular-treatment--balt--angiographic-catheter",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Balt international product catalogue (2020), angiographic catheter table"
+    },
+    {
+      "device_id": "cardiovascular-and-peripheral-vascular-treatment--balt--embolic-liquid-squid-peri",
+      "document_id": "balt_catalog_2020_intl",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "embolic liquid squid peri",
+          "embolic liquid squid peri",
+          "peri"
+        ]
+      },
+      "jurisdiction": "international",
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "notes": "Manufacturer product catalog dated 2020; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2020 catalog",
+      "sha256": "a23200965da4dd337ab474e83c7353837cf4727c267928d29fb9e9060305a66f",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:cardiovascular-and-peripheral-vascular-treatment--balt--embolic-liquid-squid-peri",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Balt international product catalogue (2020), embolic liquid squid peri table"
+    },
+    {
+      "device_id": "embolic-coil--balt--free-coil",
+      "document_id": "balt_catalog_2020_intl",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "free coil",
+          "free coil",
+          "free"
+        ]
+      },
+      "jurisdiction": "international",
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "notes": "Manufacturer product catalog dated 2020; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2020 catalog",
+      "sha256": "a23200965da4dd337ab474e83c7353837cf4727c267928d29fb9e9060305a66f",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:embolic-coil--balt--free-coil",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Balt international product catalogue (2020), free coil table"
+    },
+    {
+      "device_id": "balloon-catheter--balt--valvuloplasty-catheter-cristal-balloon",
+      "document_id": "balt_catalog_2020_intl",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "valvuloplasty catheter cristal balloon",
+          "valvuloplasty catheter cristal balloon",
+          "balloon"
+        ]
+      },
+      "jurisdiction": "international",
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "notes": "Manufacturer product catalog dated 2020; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2020 catalog",
+      "sha256": "a23200965da4dd337ab474e83c7353837cf4727c267928d29fb9e9060305a66f",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:balloon-catheter--balt--valvuloplasty-catheter-cristal-balloon",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Balt international product catalogue (2020), valvuloplasty catheter cristal balloon table"
+    },
+    {
+      "device_id": "balloon-catheter--balt--angioplasty-catheter-cristal-balloon",
+      "document_id": "balt_catalog_2020_intl",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "angioplasty catheter cristal balloon",
+          "angioplasty catheter cristal balloon",
+          "balloon"
+        ]
+      },
+      "jurisdiction": "international",
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "notes": "Manufacturer product catalog dated 2020; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2020 catalog",
+      "sha256": "a23200965da4dd337ab474e83c7353837cf4727c267928d29fb9e9060305a66f",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:balloon-catheter--balt--angioplasty-catheter-cristal-balloon",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Balt international product catalogue (2020), angioplasty catheter cristal balloon table"
+    },
+    {
+      "device_id": "cardiovascular-and-peripheral-vascular-treatment--balt--opacifying-powder-tungsten",
+      "document_id": "balt_catalog_2020_intl",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "opacifying powder tungsten",
+          "opacifying powder tungsten",
+          "tungsten"
+        ]
+      },
+      "jurisdiction": "international",
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "notes": "Manufacturer product catalog dated 2020; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2020 catalog",
+      "sha256": "a23200965da4dd337ab474e83c7353837cf4727c267928d29fb9e9060305a66f",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:cardiovascular-and-peripheral-vascular-treatment--balt--opacifying-powder-tungsten",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Balt international product catalogue (2020), opacifying powder tungsten table"
+    },
+    {
+      "device_id": "others--balt--accessory-stopcocks",
+      "document_id": "balt_catalog_2020_intl",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "accessory stopcocks",
+          "accessory stopcocks",
+          "stopcocks"
+        ]
+      },
+      "jurisdiction": "international",
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "notes": "Manufacturer product catalog dated 2020; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2020 catalog",
+      "sha256": "a23200965da4dd337ab474e83c7353837cf4727c267928d29fb9e9060305a66f",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:others--balt--accessory-stopcocks",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Balt international product catalogue (2020), accessory stopcocks table"
     }
   ]
 }

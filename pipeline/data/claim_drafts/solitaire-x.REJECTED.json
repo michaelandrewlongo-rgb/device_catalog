@@ -1,0 +1,12 @@
+[
+ {
+  "claim_id": "claim:stent-retriever--medtronic--solitaire-x:precaution-indication-1-extended-16h:solitaire-x-ifu-2025",
+  "device_id": "stent-retriever--medtronic--solitaire-x",
+  "claim_type": "indication",
+  "text": "The IFU's PRECAUTIONS section states that for indication 1, endovascular therapy with the device should be started within 16 hours of symptom onset, a broader window than the 6-hour window stated in the Indication 1 statement itself.",
+  "locators": [
+   "PDF page 3, PRECAUTIONS"
+  ],
+  "source_quote": "endovascular therapy with the device should be started within 16 hours of symptom onset"
+ }
+]

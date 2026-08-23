@@ -1,0 +1,107 @@
+[
+  {
+    "claim_id": "claim:flow-diverter--medtronic--pipeline-flex-shield:indication-large-giant:shield-ifu-2025",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "claim_type": "indication",
+    "text": "US labeling: the Pipeline Flex Embolization Device with Shield Technology is indicated for the endovascular treatment of adults (22 years of age or older) with large and giant wide-necked intracranial aneurysms (IAs) in the internal carotid artery from the petrous to the superior hypophyseal segments.",
+    "locators": ["PDF page 3, INDICATIONS FOR USE"],
+    "source_quote": "large and giant wide-necked intracranial aneurysms (IAs) in the internal carotid artery from the petrous to the superior hypophyseal segments"
+  },
+  {
+    "claim_id": "claim:flow-diverter--medtronic--pipeline-flex-shield:indication-small-medium:shield-ifu-2025",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "claim_type": "indication",
+    "text": "US labeling: the device is also indicated for use in the internal carotid artery up to the terminus for endovascular treatment of adults (22 years of age or older) with small and medium wide-necked (neck width >= 4 mm or dome-to-neck ratio < 2) saccular or fusiform intracranial aneurysms (IAs) arising from a parent vessel with a diameter >= 2.0 mm and <= 5.0 mm.",
+    "locators": ["PDF page 3, INDICATIONS FOR USE"],
+    "source_quote": "small and medium wide-necked (neck width ≥ 4 mm or dome-to-neck ratio < 2) saccular or fusiform intracranial aneurysms"
+  },
+  {
+    "claim_id": "claim:flow-diverter--medtronic--pipeline-flex-shield:contraindications:shield-ifu-2025",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "claim_type": "contraindication",
+    "text": "The IFU lists five contraindications: patients with active bacterial infection; patients in whom dual antiplatelet and/or anticoagulation therapy (aspirin and clopidogrel) is contraindicated; patients who have not received dual antiplatelet agents prior to the procedure; patients in whom a pre-existing stent is in place in the parent artery at the target aneurysm location; and patients in whom the parent vessel size does not fall within the indicated range.",
+    "locators": ["PDF page 3, CONTRAINDICATIONS"],
+    "source_quote": "Patients with active bacterial infection."
+  },
+  {
+    "claim_id": "claim:flow-diverter--medtronic--pipeline-flex-shield:sizing-table:shield-ifu-2025",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "claim_type": "sizing",
+    "text": "US labeling Table 1 (Size Ranges) lists labeled diameters of 2.50, 2.75, 3.00, 3.25, 3.50, 3.75, 4.00, 4.25, 4.50, 4.75, and 5.00 mm, each with a self-expanded diameter 0.25 mm larger (2.75 through 5.25 mm); labeled lengths of 10, 12, 14, 16, 18, and 20 mm are offered for the 2.50 and 2.75 mm labeled diameters, and 10, 12, 14, 16, 18, 20, 25, 30, and 35 mm are offered for labeled diameters 3.00 through 5.00 mm.",
+    "locators": ["PDF page 3, Table 1. Size Ranges: Pipeline Flex Embolization Device with Shield Technology"],
+    "source_quote": "Labeled Diameter (mm) | Self Expanded Diameter (mm) | Labeled Lengths (mm)"
+  },
+  {
+    "claim_id": "claim:flow-diverter--medtronic--pipeline-flex-shield:sizing-vessel-diameter:shield-ifu-2025",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "claim_type": "sizing",
+    "text": "The IFU instructs selecting a device whose fully expanded diameter equals that of the largest target vessel diameter, warning an incorrectly sized device may result in inadequate placement, incomplete opening, or migration; the device foreshortens substantially (50-60%) during deployment, which must be taken into account.",
+    "locators": ["PDF page 3, DIRECTIONS FOR USE"],
+    "source_quote": "foreshortens substantially (50-60%) during deployment"
+  },
+  {
+    "claim_id": "claim:flow-diverter--medtronic--pipeline-flex-shield:sizing-length:shield-ifu-2025",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "claim_type": "sizing",
+    "text": "US labeling instructs choosing a device with labeled length at least 6 mm longer than the aneurysm neck.",
+    "locators": ["PDF page 3, DIRECTIONS FOR USE"],
+    "source_quote": "labeled length that is at least 6 mm longer than the aneurysm neck"
+  },
+  {
+    "claim_id": "claim:flow-diverter--medtronic--pipeline-flex-shield:microcatheter-compatibility:shield-ifu-2025",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "claim_type": "compatibility",
+    "compatibility_status": "manufacturer_labeled",
+    "text": "The device is designed to be delivered only through a compatible microcatheter with a minimum inner diameter of 0.027 inch (0.69 mm) and a minimum length of 135 cm; the delivery wire's fluorosafe marker is only compatible with microcatheters of at least 135 cm length.",
+    "locators": ["PDF page 3, DESCRIPTION", "PDF page 3, CAUTION"],
+    "source_quote": "compatible micro catheter of 0.027 inch (0.69 mm) inner diameter at least 135 cm in length"
+  },
+  {
+    "claim_id": "claim:flow-diverter--medtronic--pipeline-flex-shield:resheathing-limit:shield-ifu-2025",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "claim_type": "deployment",
+    "text": "The device can be resheathed until the resheathing marker on the delivery wire reaches the distal marker of the microcatheter and is designed to allow a full 2 cycles of resheathing; resheathing more than 2 full cycles may cause damage to the distal or proximal ends of the braid.",
+    "locators": ["PDF page 4, Resheathing Instructions", "PDF page 4, WARNINGS"],
+    "source_quote": "designed to allow for a full 2 cycles of resheathing"
+  },
+  {
+    "claim_id": "claim:flow-diverter--medtronic--pipeline-flex-shield:mri-conditions:shield-ifu-2025",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "claim_type": "mri",
+    "text": "The device is MR Conditional for single and overlapping stents up to 70 mm in length, scanned at 1.5T or 3T static magnetic field strength with a maximum spatial field gradient of 30 T/m (3000 gauss/cm), whole body averaged SAR <=2 W/kg, head SAR <=3.2 W/kg, for up to 60 minutes of continuous RF (or back-to-back sequences separated by waits of at least 5 minutes).",
+    "locators": ["PDF page 5, MAGNETIC RESONANCE IMAGING (MRI) SAFETY INFORMATION", "PDF page 6, MRI table"],
+    "source_quote": "MR Conditional for single and overlapping stents up to 70 mm in length"
+  },
+  {
+    "claim_id": "claim:flow-diverter--medtronic--pipeline-flex-shield:mri-artifact:shield-ifu-2025",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "claim_type": "mri",
+    "text": "In non-clinical testing, the MR image artifact caused by the device extends approximately 11.0 mm from the implant when imaged using a T1-weighted spin echo pulse sequence and a 3-Tesla MR system.",
+    "locators": ["PDF page 6, MR Image Artifact"],
+    "source_quote": "extends approximately 11.0 mm from this implant"
+  },
+  {
+    "claim_id": "claim:flow-diverter--medtronic--pipeline-flex-shield:periprocedural-dapt:shield-ifu-2025",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "claim_type": "periprocedural",
+    "text": "In the PUFS study described in the IFU, all patients received periprocedural aspirin 325 mg daily for 2 days prior to the procedure and 325 mg daily for 6 months after, plus clopidogrel 75 mg daily for 7 days before the procedure (or a 650 mg oral bolus the day prior) and 75 mg daily for 3 months after.",
+    "locators": ["PDF page 13, CLINICAL TRIAL RESULTS – PUFS, PUFS-CA, AND PUFS-PAS, Design"],
+    "source_quote": "aspirin 325 mg daily for 2 days prior to PED and 325 mg daily for 6 months after PED"
+  },
+  {
+    "claim_id": "claim:flow-diverter--medtronic--pipeline-flex-shield:warning-age:shield-ifu-2025",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "claim_type": "warning",
+    "text": "US labeling warns there may be a decrease in effectiveness and increase in safety events when the device is used in patients 60 years of age or older.",
+    "locators": ["PDF page 5, WARNINGS"],
+    "source_quote": "decrease in effectiveness and increase in safety events when the device is used in patients ≥ 60 years old"
+  },
+  {
+    "claim_id": "claim:flow-diverter--medtronic--pipeline-flex-shield:regulatory-status:shield-ifu-2025",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "claim_type": "regulatory_status",
+    "text": "The device is supplied sterile using ethylene oxide, is non-pyrogenic, and is intended for single use only; reprocessing or resterilization is prohibited because it increases the risk of patient infection and compromised device performance.",
+    "locators": ["PDF page 5, HOW SUPPLIED", "PDF page 5, WARNINGS", "PDF page 5, PRECAUTIONS"],
+    "source_quote": "supplied STERILE using ethylene oxide. This device is Non-pyrogenic"
+  }
+]

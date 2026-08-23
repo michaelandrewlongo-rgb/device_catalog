@@ -1,16 +1,16 @@
 {
-  "accepted_claim_count": 629,
-  "generated_at": "2026-08-23T19:08:51.330952+00:00",
+  "accepted_claim_count": 799,
+  "generated_at": "2026-08-23T19:19:52.534960+00:00",
   "policy": "fail_closed_current_full_text_direct_support",
   "rejected_claim_count": 0,
   "schema_version": "2.1.0",
   "secondary_dimension_candidate_count": 269,
-  "source_count": 546,
+  "source_count": 595,
   "source_status_counts": {
-    "current": 533,
-    "historical": 7,
+    "current": 582,
+    "historical": 1,
     "quarantined": 2,
-    "superseded": 2,
+    "superseded": 8,
     "unavailable": 2
   }
 }

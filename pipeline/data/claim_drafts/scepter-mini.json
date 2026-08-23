@@ -1,0 +1,134 @@
+[
+  {
+    "claim_id": "claim:balloon-catheter--microvention--scepter-mini:indications-for-use:pd111516-rev-h",
+    "device_id": "balloon-catheter--microvention--scepter-mini",
+    "claim_type": "indication",
+    "text": "US labeling: the Scepter Mini Occlusion Balloon Catheter is indicated for use in the peripheral and neuro vasculature for temporary vascular occlusion, including balloon-assisted embolization of intracranial aneurysms, and for delivery of diagnostic agents (such as contrast media) approved/cleared for the peripheral vasculature, and for delivery of diagnostic agents and liquid embolic agents approved/cleared for the neurovasculature, when compatible with the catheter's inner lumen.",
+    "locators": ["PDF page 2, INDICATIONS FOR USE"],
+    "source_quote": "temporary vascular occlusion which is useful in selectively stopping or controlling blood flow"
+  },
+  {
+    "claim_id": "claim:balloon-catheter--microvention--scepter-mini:contraindications:pd111516-rev-h",
+    "device_id": "balloon-catheter--microvention--scepter-mini",
+    "claim_type": "contraindication",
+    "text": "The IFU states the Scepter Mini Occlusion Balloon Catheter is not intended for embolectomy or angioplasty procedures, not intended for use in coronary vessels, and not intended for pediatric or neonatal use.",
+    "locators": ["PDF page 2, CONTRAINDICATIONS"],
+    "source_quote": "Not intended for pediatric or neonatal use"
+  },
+  {
+    "claim_id": "claim:balloon-catheter--microvention--scepter-mini:balloon-inflation-compliance:pd111516-rev-h",
+    "device_id": "balloon-catheter--microvention--scepter-mini",
+    "claim_type": "sizing",
+    "text": "US labeling Table 3 (Balloon Inflation Compliance) reports Scepter Mini balloon diameter versus inflation volume (after priming the catheter): 0.01cc = 1.7mm, 0.02cc = 2.2mm, 0.03cc = 2.5mm, and 0.04cc (the maximum injection volume) = 2.7mm.",
+    "locators": ["PDF page 6, Table 3: Balloon Inflation Compliance"],
+    "source_quote": "0.04** 2.7 ... *After Priming Catheter **Maximum Injection Volume"
+  },
+  {
+    "claim_id": "claim:balloon-catheter--microvention--scepter-mini:guidewire-compatibility:pd111516-rev-h",
+    "device_id": "balloon-catheter--microvention--scepter-mini",
+    "claim_type": "compatibility",
+    "text": "The IFU states the Scepter Mini guidewire lumen is compatible with a 0.008 inch (0.20mm) or smaller guidewire, and the balloon can be inflated and deflated independently with or without the presence of a guidewire.",
+    "locators": ["PDF page 2, DEVICE DESCRIPTION", "PDF page 3, COMPATIBILITY"],
+    "compatibility_status": "manufacturer_labeled",
+    "source_quote": "compatible with .008” (0.20mm) or smaller guidewire"
+  },
+  {
+    "claim_id": "claim:balloon-catheter--microvention--scepter-mini:guiding-catheter-compatibility:pd111516-rev-h",
+    "device_id": "balloon-catheter--microvention--scepter-mini",
+    "claim_type": "compatibility",
+    "text": "US labeling instructs choosing a guiding catheter with minimum inner diameter greater than or equal to 0.053 inch (1.35mm); the maximum outer diameter of the Scepter Mini balloon catheter is 0.037 inch (0.94mm).",
+    "locators": ["PDF page 4, COMPATIBILITY"],
+    "compatibility_status": "manufacturer_labeled",
+    "source_quote": "minimum inner diameter larger than or equal to 0.053” (1.35mm)"
+  },
+  {
+    "claim_id": "claim:balloon-catheter--microvention--scepter-mini:dmso-onyx-compatibility:pd111516-rev-h",
+    "device_id": "balloon-catheter--microvention--scepter-mini",
+    "claim_type": "compatibility",
+    "text": "The IFU states the Scepter Mini balloon catheter is compatible for use with dimethyl sulfoxide (DMSO) and has been verified compatible for use with diagnostic agents (such as contrast media) and DMSO-based liquid embolic agents (Onyx Liquid Embolic System); for all other liquid embolics, the IFU directs users to refer to their own Instructions For Use.",
+    "locators": ["PDF page 4, COMPATIBILITY"],
+    "compatibility_status": "manufacturer_labeled",
+    "source_quote": "verified to be compatible for use with diagnostic agents ... and DMSO based liquid embolic agents (Onyx"
+  },
+  {
+    "claim_id": "claim:balloon-catheter--microvention--scepter-mini:incompatible-embolic-agents:pd111516-rev-h",
+    "device_id": "balloon-catheter--microvention--scepter-mini",
+    "claim_type": "compatibility",
+    "text": "The IFU warns that n-BCA (n-butyl cyanoacrylate) and solutions containing ethyl esters of iodized fatty acids of poppy seed oil are not compatible with the balloon.",
+    "locators": ["PDF page 3, WARNINGS"],
+    "compatibility_status": "manufacturer_labeled",
+    "source_quote": "n-BCA (n-butyl cyanoacrylate) ... are not compatible with the balloon"
+  },
+  {
+    "claim_id": "claim:balloon-catheter--microvention--scepter-mini:max-inflation-pressure:pd111516-rev-h",
+    "device_id": "balloon-catheter--microvention--scepter-mini",
+    "claim_type": "warning",
+    "text": "US labeling warns that excessive pressure higher than 700 PSI (4826 kPa, 47.6 atm) may cause leakage or rupture of the balloon catheter guidewire lumen.",
+    "locators": ["PDF page 3, WARNINGS", "PDF page 6, BALLOON PREPARATION step 3"],
+    "source_quote": "Excessive pressure higher than 700 PSI (4826kPa, 47.6atm) may cause leakage or rupture"
+  },
+  {
+    "claim_id": "claim:balloon-catheter--microvention--scepter-mini:flow-switch-and-high-pressure-warning:pd111516-rev-h",
+    "device_id": "balloon-catheter--microvention--scepter-mini",
+    "claim_type": "warning",
+    "text": "The IFU warns not to use a click-activated flow control switch, such as FloSwitch, with the balloon catheter, and not to attach any high-pressure devices to the balloon inflation port, as either may rupture the balloon.",
+    "locators": ["PDF page 3, WARNINGS"],
+    "source_quote": "Do not use click activated flow control switch, such as FloSwitch™ with the balloon catheter"
+  },
+  {
+    "claim_id": "claim:balloon-catheter--microvention--scepter-mini:stylet-use-restriction:pd111516-rev-h",
+    "device_id": "balloon-catheter--microvention--scepter-mini",
+    "claim_type": "deployment",
+    "text": "The IFU instructs that the catheter stylet is used only for additional support during removal from the dispenser hoop, and must not be used in the balloon catheter while advancing it in a guide catheter.",
+    "locators": ["PDF page 6, BALLOON PREPARATION step 2"],
+    "source_quote": "Do not use the stylet in a balloon catheter and advance in a guide catheter"
+  },
+  {
+    "claim_id": "claim:balloon-catheter--microvention--scepter-mini:hydration-flush:pd111516-rev-h",
+    "device_id": "balloon-catheter--microvention--scepter-mini",
+    "claim_type": "periprocedural",
+    "text": "US labeling instructs fully hydrating the hydrophilic segment by flushing heparinized saline through the dispenser tube and allowing 30 seconds of hydration time before removing the balloon catheter; the catheter's lubricious surface should be hydrated for at least 30 seconds prior to use and, once hydrated, not allowed to dry.",
+    "locators": ["PDF page 4, HYDRATION FLUSH", "PDF page 3, PRECAUTIONS"],
+    "source_quote": "Allow 30 seconds of hydration time"
+  },
+  {
+    "claim_id": "claim:balloon-catheter--microvention--scepter-mini:balloon-deflation-time:pd111516-rev-h",
+    "device_id": "balloon-catheter--microvention--scepter-mini",
+    "claim_type": "periprocedural",
+    "text": "Table 1 reports that for Omnipaque 300 contrast (viscosity 6.3 cps at 37C, 100:0 contrast:saline), the approximate balloon deflation time for the Scepter Mini 2.2x9mm is <= 15 seconds.",
+    "locators": ["PDF page 4, Table 1: Approximate Balloon Deflation Time"],
+    "source_quote": "Omnipaque 300 6.3 100:0 ≤ 15"
+  },
+  {
+    "claim_id": "claim:balloon-catheter--microvention--scepter-mini:nominal-flow-rates:pd111516-rev-h",
+    "device_id": "balloon-catheter--microvention--scepter-mini",
+    "claim_type": "periprocedural",
+    "text": "Table 4 lists approximate nominal flow rates through the Scepter Mini at 100 and 300 psi infusion pressure: saline 0.7 cc/sec (100 psi) and 1.1 cc/sec (300 psi); 50/50% contrast (300mgI/ml) 0.3 and 0.5 cc/sec; 100% contrast (300mgI/ml) 0.1 and 0.4 cc/sec; and 100% contrast (350mgI/ml) 0.1 and 0.2 cc/sec.",
+    "locators": ["PDF page 7, Table 4: Approximate Nominal Flow Rates"],
+    "source_quote": "0.7 cc/sec 1.1 cc/sec 0.3 cc/sec 0.5 cc/sec"
+  },
+  {
+    "claim_id": "claim:balloon-catheter--microvention--scepter-mini:syringe-torque-warning:pd111516-rev-h",
+    "device_id": "balloon-catheter--microvention--scepter-mini",
+    "claim_type": "warning",
+    "text": "The IFU cautions that excessive torque applied to the syringe might result in damage to the Scepter Mini hub assembly.",
+    "locators": ["PDF page 3, PRECAUTIONS"],
+    "source_quote": "Excessive torque applied to the syringe might result in damage to the Scepter Mini hub assembly"
+  },
+  {
+    "claim_id": "claim:balloon-catheter--microvention--scepter-mini:rx-only:pd111516-rev-h",
+    "device_id": "balloon-catheter--microvention--scepter-mini",
+    "claim_type": "regulatory_status",
+    "text": "US labeling states: Rx Only — Federal (USA) law restricts this device to sale by or on the order of a physician.",
+    "locators": ["PDF page 3, CAUTIONS"],
+    "source_quote": "Federal (USA) law restricts this device to sale by or on the order of a physician"
+  },
+  {
+    "claim_id": "claim:balloon-catheter--microvention--scepter-mini:prime-volumes:pd111516-rev-h",
+    "device_id": "balloon-catheter--microvention--scepter-mini",
+    "claim_type": "periprocedural",
+    "text": "Table 2 reports the approximate prime volume of the entire inflation lumen (inflation lumen plus inflation hub) as 0.53cc and the approximate prime volume of the entire guidewire lumen (guidewire lumen plus guidewire hub) as 0.44cc.",
+    "locators": ["PDF page 5, Table 2"],
+    "source_quote": "0.53cc 0.44cc"
+  }
+]

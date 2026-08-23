@@ -1,0 +1,117 @@
+[
+  {
+    "claim_id": "claim:sofia:indications-for-use:ifu100279-rev-c",
+    "device_id": "distal-access--microvention--sofia",
+    "claim_type": "indication",
+    "text": "US labeling states the SOFIA Catheter is indicated for general intravascular use, including the neuro and peripheral vasculature, and can be used to facilitate introduction of diagnostic or therapeutic devices. The IFU states the SOFIA Catheter is not intended for use in coronary arteries.",
+    "locators": ["PDF page 3, INDICATIONS FOR USE"],
+    "source_quote": "indicated for general intravascular use, including the neuro and peripheral vasculature"
+  },
+  {
+    "claim_id": "claim:sofia:contraindications:ifu100279-rev-c",
+    "device_id": "distal-access--microvention--sofia",
+    "claim_type": "contraindication",
+    "text": "The IFU states there are no known contraindications for the SOFIA Catheter.",
+    "locators": ["PDF page 3, CONTRAINDICATIONS"],
+    "source_quote": "There are no known contraindications."
+  },
+  {
+    "claim_id": "claim:sofia:rx-only-status:ifu100279-rev-c",
+    "device_id": "distal-access--microvention--sofia",
+    "claim_type": "regulatory_status",
+    "text": "US labeling states federal (USA) law restricts the SOFIA Catheter to sale by or on the order of a physician.",
+    "locators": ["PDF page 3, CAUTION"],
+    "source_quote": "Federal (USA) law restricts this device to sale by or on the order of a physician."
+  },
+  {
+    "claim_id": "claim:sofia:catalog-sizes-and-flow-rates:ifu100279-rev-c",
+    "device_id": "distal-access--microvention--sofia",
+    "claim_type": "sizing",
+    "text": "The IFU's nominal flow rate table lists SOFIA Catheter configurations of 5F at 115cm and 125cm, and 6F at 115cm, 125cm, 131cm, and 135cm. At 300 psi infusion pressure with saline, approximate nominal flow rates range from 20.6-20.7 mL/sec for the 5F sizes to 36.0-37.0 mL/sec for the 6F sizes.",
+    "locators": ["PDF page 4, Approximate Nominal Flow Rates at 100 and 300 psi Infusion Pressure"],
+    "source_quote": "Sofia 5F 115cm ... Sofia 6F 135cm"
+  },
+  {
+    "claim_id": "claim:sofia:max-infusion-pressure:ifu100279-rev-c",
+    "device_id": "distal-access--microvention--sofia",
+    "claim_type": "warning",
+    "text": "The IFU warns not to exceed 2070 kPa (300 psi) maximum recommended infusion pressure, as excess pressure may damage the device or injure the patient.",
+    "locators": ["PDF page 3, WARNINGS"],
+    "source_quote": "Do not exceed 2070 kPa (300 psi) maximum recommended infusion pressure."
+  },
+  {
+    "claim_id": "claim:sofia:contrast-media-restriction:ifu100279-rev-c",
+    "device_id": "distal-access--microvention--sofia",
+    "claim_type": "warning",
+    "text": "The IFU warns not to use the SOFIA Catheter with Ethiodol or Lipiodol contrast media, or other contrast media containing components of those agents.",
+    "locators": ["PDF page 3, WARNINGS"],
+    "source_quote": "Do not use the SOFIA Catheter with Ethiodol or Lipiodol contrast media"
+  },
+  {
+    "claim_id": "claim:sofia:steam-shaping-limits:ifu100279-rev-c",
+    "device_id": "distal-access--microvention--sofia",
+    "claim_type": "deployment",
+    "text": "The IFU instructs not to make more than a 90 degree angle on the Shaping Mandrel and to steam the distal segment for 30 seconds; the same device must not be steamed more than once, as this may damage the device.",
+    "locators": ["PDF page 3, WARNINGS and PREPARATION FOR USE step 3"],
+    "source_quote": "Do not make more than 90 degree angle on the Shaping Mandrel"
+  },
+  {
+    "claim_id": "claim:sofia:kink-and-torque-warning:ifu100279-rev-c",
+    "device_id": "distal-access--microvention--sofia",
+    "claim_type": "warning",
+    "text": "The IFU warns that torquing the SOFIA Catheter excessively while kinked may damage the device resulting in separation, and instructs to withdraw the entire device (device, microcatheter, and guidewire) if the device is severely kinked.",
+    "locators": ["PDF page 3, WARNINGS"],
+    "source_quote": "Torquing the SOFIA Catheter excessively while kinked may damage the device resulting in separation"
+  },
+  {
+    "claim_id": "claim:sofia:guidewire-compatibility-peripheral:ifu100279-rev-c",
+    "device_id": "distal-access--microvention--sofia",
+    "claim_type": "compatibility",
+    "text": "For navigation through the vasculature other than the intracranial vasculature, the IFU instructs preparing a 0.035\" or 0.038\" guidewire for navigation of the SOFIA Catheter.",
+    "locators": ["PDF page 3, DELIVERY OF THE SOFIA CATHETER, step 7a"],
+    "compatibility_status": "manufacturer_labeled",
+    "source_quote": "Prepare 0.035\" or 0.038\" Guidewire for navigation of the SOFIA Catheter"
+  },
+  {
+    "claim_id": "claim:sofia:microcatheter-compatibility-intracranial:ifu100279-rev-c",
+    "device_id": "distal-access--microvention--sofia",
+    "claim_type": "compatibility",
+    "text": "For navigation through the intracranial vasculature, the IFU instructs preparing a microcatheter and compatible guidewire, inserting the microcatheter with the guidewire into the SOFIA Catheter, and advancing the SOFIA Catheter over the microcatheter and guidewire.",
+    "locators": ["PDF page 4, Navigation through the intracranial vasculature, step 8a-c"],
+    "compatibility_status": "manufacturer_labeled",
+    "source_quote": "Prepare Microcatheter and compatible Guidewire for navigation of the SOFIA Catheter"
+  },
+  {
+    "claim_id": "claim:sofia:introducer-sheath-and-femoral-sheath:ifu100279-rev-c",
+    "device_id": "distal-access--microvention--sofia",
+    "claim_type": "compatibility",
+    "text": "The IFU states the Introducer Sheath is not intended for use inside the patient body and must be removed from the SOFIA Catheter once the distal shaft is placed inside the patient body; when using the SOFIA Catheter as a single guiding catheter, the appropriate femoral sheath size should be chosen by referring to the product label.",
+    "locators": ["PDF page 3, WARNINGS and COMPATIBILITY"],
+    "compatibility_status": "manufacturer_labeled",
+    "source_quote": "The Introducer Sheath is not intended for use inside the patient body"
+  },
+  {
+    "claim_id": "claim:sofia:periprocedural-anticoagulation:ifu100279-rev-c",
+    "device_id": "distal-access--microvention--sofia",
+    "claim_type": "periprocedural",
+    "text": "The IFU states that appropriate anti-coagulation and anti-platelet therapy should be administered per standard medical practice.",
+    "locators": ["PDF page 3, WARNINGS"],
+    "source_quote": "Appropriate anti-coagulation and anti-platelet therapy should be administered per standard medical practice."
+  },
+  {
+    "claim_id": "claim:sofia:potential-complications:ifu100279-rev-c",
+    "device_id": "distal-access--microvention--sofia",
+    "claim_type": "warning",
+    "text": "The IFU lists potential complications including, but not limited to, vessel or aneurysm perforation, vasospasm, hematoma at the site of entry, embolism, ischemia, intracerebral/intracranial hemorrhage, pseudo aneurysm, seizure, stroke, infection, vessel dissection, thrombus formation, and death.",
+    "locators": ["PDF page 3, POTENTIAL COMPLICATIONS"],
+    "source_quote": "vessel or aneurysm perforation, vasospasm, hematoma at the site of entry, embolism, ischemia"
+  },
+  {
+    "claim_id": "claim:sofia:single-use-device:ifu100279-rev-c",
+    "device_id": "distal-access--microvention--sofia",
+    "claim_type": "warning",
+    "text": "The IFU states the SOFIA Catheter is intended for single use only and must not be reused, reprocessed, or resterilized, as this may compromise structural integrity, lead to device failure, or create a risk of contamination.",
+    "locators": ["PDF page 3, CAUTION"],
+    "source_quote": "This device is intended for single use only. Do not reuse, reprocess or resterilize."
+  }
+]

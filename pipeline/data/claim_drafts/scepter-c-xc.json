@@ -1,0 +1,134 @@
+[
+  {
+    "claim_id": "claim:balloon-catheter--microvention--scepter-c-xc:indications-for-use:ifu100266",
+    "device_id": "balloon-catheter--microvention--scepter-c-xc",
+    "claim_type": "indication",
+    "text": "US labeling: the Scepter C and Scepter XC Occlusion Balloon Catheters are indicated for use in the peripheral and neuro vasculature for temporary vascular occlusion, including balloon-assisted embolization of intracranial aneurysms; for infusion of diagnostic agents (e.g., contrast media) and therapeutic agents (e.g., embolization materials) in the peripheral vasculature; and for neurovascular infusion of diagnostic and therapeutic (embolization) agents approved or cleared for the neurovasculature and compatible with the catheter's inner diameter.",
+    "locators": ["PDF page 4, INDICATIONS FOR USE"],
+    "source_quote": "balloon catheters also offer balloon assisted embolization of intracranial aneurysms"
+  },
+  {
+    "claim_id": "claim:balloon-catheter--microvention--scepter-c-xc:contraindications:ifu100266",
+    "device_id": "balloon-catheter--microvention--scepter-c-xc",
+    "claim_type": "contraindication",
+    "text": "The IFU states the device is not intended for embolectomy or angioplasty procedures, not intended for use in coronary vessels, and not intended for pediatric or neonatal use.",
+    "locators": ["PDF page 4, CONTRAINDICATIONS"],
+    "source_quote": "Not intended for pediatric or neonatal use"
+  },
+  {
+    "claim_id": "claim:balloon-catheter--microvention--scepter-c-xc:balloon-inflation-compliance:ifu100266",
+    "device_id": "balloon-catheter--microvention--scepter-c-xc",
+    "claim_type": "sizing",
+    "text": "US labeling Table 3 (Balloon Inflation Compliance) reports balloon diameter versus fill volume for the Scepter C (catalog sizes 4x10, 4x15, 4x20mm) and Scepter XC (4x11mm): at 0.02cc all sizes measure about 1.8-1.9mm diameter, and each size's maximum injection volume (marked **) is 0.32cc = 4.9mm for the 4x10, 0.38cc = 5.0mm for the 4x15, 0.46cc = 4.9mm for the 4x20, and 0.32cc = 5.9mm for the 4x11 (Scepter XC).",
+    "locators": ["PDF page 7, Table 3: Balloon Inflation Compliance"],
+    "source_quote": "After Priming Catheter **Maximum injection Volume"
+  },
+  {
+    "claim_id": "claim:balloon-catheter--microvention--scepter-c-xc:guidewire-compatibility:ifu100266",
+    "device_id": "balloon-catheter--microvention--scepter-c-xc",
+    "claim_type": "compatibility",
+    "text": "The IFU states the Scepter C and Scepter XC guidewire lumens are compatible with a 0.014 inch (0.36mm) or smaller guidewire, and that a guidewire is not required for inflation of the balloon.",
+    "locators": ["PDF page 4, DEVICE DESCRIPTION", "PDF page 4, COMPATIBILITY"],
+    "compatibility_status": "manufacturer_labeled",
+    "source_quote": "compatible with 0.014” (0.36mm) or smaller guidewires"
+  },
+  {
+    "claim_id": "claim:balloon-catheter--microvention--scepter-c-xc:guiding-catheter-compatibility:ifu100266",
+    "device_id": "balloon-catheter--microvention--scepter-c-xc",
+    "claim_type": "compatibility",
+    "text": "US labeling instructs choosing a guiding catheter with minimum inner diameter greater than or equal to 0.053 inch (1.35mm); the maximum outer diameter of the Scepter C/XC balloon catheter is 0.038 inch (0.97mm).",
+    "locators": ["PDF page 4, COMPATIBILITY"],
+    "compatibility_status": "manufacturer_labeled",
+    "source_quote": "maximum outer diameter of the balloon catheter is 0.038” (0.97mm)"
+  },
+  {
+    "claim_id": "claim:balloon-catheter--microvention--scepter-c-xc:dmso-onyx-compatibility:ifu100266",
+    "device_id": "balloon-catheter--microvention--scepter-c-xc",
+    "claim_type": "compatibility",
+    "text": "The IFU states the Scepter C and Scepter XC balloon catheters are compatible for use with dimethyl sulfoxide (DMSO), and that the balloon catheter has been tested for compatibility/use with the Onyx Liquid Embolic System and DMSO; for all other liquid embolics, the IFU directs users to refer to their own Instructions For Use.",
+    "locators": ["PDF page 4, COMPATIBILITY", "PDF page 4, WARNINGS"],
+    "compatibility_status": "manufacturer_labeled",
+    "source_quote": "tested for compatibility or use with Onyx Liquid Embolic System and DMSO"
+  },
+  {
+    "claim_id": "claim:balloon-catheter--microvention--scepter-c-xc:incompatible-embolic-agents:ifu100266",
+    "device_id": "balloon-catheter--microvention--scepter-c-xc",
+    "claim_type": "compatibility",
+    "text": "The IFU warns that NBCA (n-butyl cyanoacrylate) and solutions containing ethyl esters of iodized fatty acids of poppy seed oil are not compatible with the balloon.",
+    "locators": ["PDF page 4, WARNINGS"],
+    "compatibility_status": "manufacturer_labeled",
+    "source_quote": "solutions containing ethyl esters of iodized fatty acids of poppy seed oil are not compatible with the balloon"
+  },
+  {
+    "claim_id": "claim:balloon-catheter--microvention--scepter-c-xc:max-inflation-pressure:ifu100266",
+    "device_id": "balloon-catheter--microvention--scepter-c-xc",
+    "claim_type": "warning",
+    "text": "US labeling warns that excessive pressure higher than 700 PSI (4826 kPa, 47.6 atm) may cause leakage or rupture of the balloon catheter guidewire lumen.",
+    "locators": ["PDF page 4, WARNINGS", "PDF page 5, BALLOON PREPARATION step 1"],
+    "source_quote": "Excessive pressure higher than 700 PSI (4826kPa, 47.6atm) may cause leakage or rupture"
+  },
+  {
+    "claim_id": "claim:balloon-catheter--microvention--scepter-c-xc:shaping-mandrel-warning:ifu100266",
+    "device_id": "balloon-catheter--microvention--scepter-c-xc",
+    "claim_type": "deployment",
+    "text": "The IFU warns that the shaping mandrel is not intended for use inside the body and must be removed from the balloon catheter prior to introduction into the RHV or other accessories; the tip-shaping technique instructs holding the distal tip marker band in laminar steam flow for approximately 20 seconds, and states that exposing more than 3mm of the distal tip to steam will result in balloon damage.",
+    "locators": ["PDF page 4, WARNINGS", "PDF page 6, B. TIP SHAPING TECHNIQUE"],
+    "source_quote": "Exposing more than 3mm of the distal tip to steam will result in balloon damage"
+  },
+  {
+    "claim_id": "claim:balloon-catheter--microvention--scepter-c-xc:air-fill-marker-band-warning:ifu100266",
+    "device_id": "balloon-catheter--microvention--scepter-c-xc",
+    "claim_type": "deployment",
+    "text": "The IFU warns that if the balloon is initially inflated with air during preparation, the operator must not fully inflate the balloon with air and must maintain balloon inflation below the distal balloon marker band.",
+    "locators": ["PDF page 5, BALLOON PREPARATION step 7"],
+    "source_quote": "Do not fully inflate balloon with air. Maintain balloon inflation below distal balloon marker band"
+  },
+  {
+    "claim_id": "claim:balloon-catheter--microvention--scepter-c-xc:hydration-flush:ifu100266",
+    "device_id": "balloon-catheter--microvention--scepter-c-xc",
+    "claim_type": "periprocedural",
+    "text": "US labeling instructs gently pulling the hub out from the dispenser tube to loosen the strain relief, then fully hydrating the hydrophilic segment by flushing heparinized saline through the dispenser tube using a syringe attached to the flush port, allowing 30 seconds of hydration time before removing the balloon catheter.",
+    "locators": ["PDF page 4, HYDRATION FLUSH"],
+    "source_quote": "Allow 30 seconds of hydration time"
+  },
+  {
+    "claim_id": "claim:balloon-catheter--microvention--scepter-c-xc:balloon-deflation-time:ifu100266",
+    "device_id": "balloon-catheter--microvention--scepter-c-xc",
+    "claim_type": "periprocedural",
+    "text": "Table 1 reports that for Omnipaque 300 contrast (viscosity 6.3 cP at 37C, 50:50 contrast:saline), the approximate balloon deflation time is <= 15 seconds for the Scepter C 4x10mm, <= 18 seconds for the 4x15mm, <= 20 seconds for the 4x20mm, and <= 14 seconds for the Scepter XC 4x11mm.",
+    "locators": ["PDF page 5, Table 1: Approximate Balloon Deflation Time"],
+    "source_quote": "Omnipaque 300 6.3 50:50"
+  },
+  {
+    "claim_id": "claim:balloon-catheter--microvention--scepter-c-xc:nominal-flow-rates:ifu100266",
+    "device_id": "balloon-catheter--microvention--scepter-c-xc",
+    "claim_type": "periprocedural",
+    "text": "Table 4 lists approximate nominal flow rates for the Scepter C & XC at 100 and 300 psi infusion pressure: saline 0.57 cc/sec (100 psi) and 1.50 cc/sec (300 psi); 50/50% contrast (300mgI/ml) 0.49 and 0.71 cc/sec; 100% contrast (300mgI/ml) 0.33 and 0.62 cc/sec; and 100% contrast (350mgI/ml) 0.40 and 0.40 cc/sec.",
+    "locators": ["PDF page 7, Table 4: Approximate Nominal Flow Rates"],
+    "source_quote": "0.57 cc/sec 1.50 cc/sec 0.49 cc/sec 0.71 cc/sec"
+  },
+  {
+    "claim_id": "claim:balloon-catheter--microvention--scepter-c-xc:syringe-torque-and-aspiration-warning:ifu100266",
+    "device_id": "balloon-catheter--microvention--scepter-c-xc",
+    "claim_type": "warning",
+    "text": "The IFU cautions that excessive torque applied to the syringe might result in damage to the Scepter Assembly, and that continuing negative aspiration after the balloon is fully deflated will result in blood entering the balloon and will reduce fluoroscopic visibility.",
+    "locators": ["PDF page 4, PRECAUTIONS"],
+    "source_quote": "Continuing negative aspiration after the balloon is fully deflated will result in blood entering the balloon"
+  },
+  {
+    "claim_id": "claim:balloon-catheter--microvention--scepter-c-xc:rx-only:ifu100266",
+    "device_id": "balloon-catheter--microvention--scepter-c-xc",
+    "claim_type": "regulatory_status",
+    "text": "US labeling states: Rx Only — Federal (USA) law restricts this device to sale by or on the order of a physician.",
+    "locators": ["PDF page 4, CAUTION"],
+    "source_quote": "Federal (USA) law restricts this device to sale by or on the order of a physician"
+  },
+  {
+    "claim_id": "claim:balloon-catheter--microvention--scepter-c-xc:prime-volumes:ifu100266",
+    "device_id": "balloon-catheter--microvention--scepter-c-xc",
+    "claim_type": "periprocedural",
+    "text": "Table 2 reports the approximate prime volume of the entire inflation lumen (inflation lumen plus inflation hub) as 0.45cc and the approximate prime volume of the entire guidewire lumen (guidewire lumen plus guidewire hub) as 0.44cc.",
+    "locators": ["PDF page 5, Table 2"],
+    "source_quote": "0.45cc 0.44cc"
+  }
+]

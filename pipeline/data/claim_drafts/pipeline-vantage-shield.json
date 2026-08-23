@@ -1,0 +1,123 @@
+[
+  {
+    "claim_id": "claim:flow-diverter--medtronic--pipeline-vantage-shield:indication-large-giant:vantage-ifu-2025",
+    "device_id": "flow-diverter--medtronic--pipeline-vantage-shield",
+    "claim_type": "indication",
+    "text": "US labeling: the Pipeline Vantage Embolization Device with Shield Technology is indicated for the endovascular treatment of adults (22 years of age or older) with large or giant wide-necked intracranial aneurysms (IAs) in the internal carotid artery from the petrous to the superior hypophyseal segments.",
+    "locators": ["PDF page 3, INTENDED USE / INDICATIONS FOR USE"],
+    "source_quote": "large or giant wide-necked intracranial aneurysms (IAs) in the internal carotid artery from the petrous to the superior hypophyseal segments"
+  },
+  {
+    "claim_id": "claim:flow-diverter--medtronic--pipeline-vantage-shield:indication-small-medium:vantage-ifu-2025",
+    "device_id": "flow-diverter--medtronic--pipeline-vantage-shield",
+    "claim_type": "indication",
+    "text": "US labeling: the device is also indicated for use in the internal carotid artery up to the terminus for endovascular treatment of adults (22 years of age or older) with small and medium wide-necked (neck width >= 4 mm or dome-to-neck ratio < 2) saccular or fusiform intracranial aneurysms (IAs) arising from a parent vessel with a diameter >= 2.0 mm and <= 5.0 mm.",
+    "locators": ["PDF page 3, INTENDED USE / INDICATIONS FOR USE"],
+    "source_quote": "small and medium wide-necked (neck width ≥ 4 mm or dome-to-neck ratio < 2) saccular or fusiform intracranial aneurysms"
+  },
+  {
+    "claim_id": "claim:flow-diverter--medtronic--pipeline-vantage-shield:contraindications:vantage-ifu-2025",
+    "device_id": "flow-diverter--medtronic--pipeline-vantage-shield",
+    "claim_type": "contraindication",
+    "text": "The IFU lists five contraindications: patients with active bacterial infection; patients in whom dual antiplatelet and/or anticoagulation therapy (aspirin and clopidogrel) is contraindicated; patients who have not received dual antiplatelet agents prior to the procedure; patients in whom a pre-existing stent is in place in the parent artery at the target aneurysm location; and patients in whom the parent vessel size does not fall within the indicated range.",
+    "locators": ["PDF page 3, CONTRAINDICATIONS"],
+    "source_quote": "Patients with active bacterial infection."
+  },
+  {
+    "claim_id": "claim:flow-diverter--medtronic--pipeline-vantage-shield:sizing-table:vantage-ifu-2025",
+    "device_id": "flow-diverter--medtronic--pipeline-vantage-shield",
+    "claim_type": "sizing",
+    "text": "US labeling Table 1 lists five labeled diameters (2.50, 2.75, 3.00, 3.25, and 3.50 mm), each with a self-expanded diameter 0.25 mm larger (2.75-3.75 mm) and a largest target vessel landing zone diameter min-max of 2.00-2.50 mm (2.50 mm device), 2.25-2.75 mm (2.75 mm), 2.50-3.00 mm (3.00 mm), 2.75-3.25 mm (3.25 mm), and 3.00-3.50 mm (3.50 mm); labeled lengths of 10, 12, 14, 16, 18, and 20 mm are offered for the 2.50 and 2.75 mm diameters, and 10, 12, 14, 16, 18, 20, and 25 mm for the 3.00, 3.25, and 3.50 mm diameters.",
+    "locators": ["PDF page 3, Table 1. Size Ranges: Pipeline Vantage Embolization Device with Shield Technology"],
+    "source_quote": "Largest Target Vessel Landing Zone Diameter | Min (mm) | Max (mm)"
+  },
+  {
+    "claim_id": "claim:flow-diverter--medtronic--pipeline-vantage-shield:sizing-vessel-diameter:vantage-ifu-2025",
+    "device_id": "flow-diverter--medtronic--pipeline-vantage-shield",
+    "claim_type": "sizing",
+    "text": "US labeling instructs choosing a Pipeline Vantage device with a labeled diameter that is the recommended size of the largest target vessel landing zone diameter per Table 1, ensuring the device ends are not deployed in a vessel larger than the labeled diameter of the selected size; an incorrectly sized device may result in inadequate device placement, incomplete opening, migration, or stent bead deformation.",
+    "locators": ["PDF page 3, PREPARATIONS FOR USE"],
+    "source_quote": "recommended size of the largest target vessel landing zone diameter per Table 1"
+  },
+  {
+    "claim_id": "claim:flow-diverter--medtronic--pipeline-vantage-shield:sizing-length-landing-zone:vantage-ifu-2025",
+    "device_id": "flow-diverter--medtronic--pipeline-vantage-shield",
+    "claim_type": "sizing",
+    "text": "US labeling instructs choosing a device with labeled length at least 6 mm longer than the aneurysm neck and providing a landing zone of at least 3 mm on both sides of the aneurysm neck; the Pipeline Vantage device foreshortens 47-58% during deployment, which must be taken into account.",
+    "locators": ["PDF page 3, PREPARATIONS FOR USE"],
+    "source_quote": "labeled length that is at least 6 mm longer than the aneurysm neck and ≥ 3 mm landing zone"
+  },
+  {
+    "claim_id": "claim:flow-diverter--medtronic--pipeline-vantage-shield:microcatheter-compatibility:vantage-ifu-2025",
+    "device_id": "flow-diverter--medtronic--pipeline-vantage-shield",
+    "claim_type": "compatibility",
+    "compatibility_status": "manufacturer_labeled",
+    "text": "The Pipeline Vantage 021 system is designed to be delivered through a compatible microcatheter with 0.021 inch (0.53 mm) inner diameter and at least 135 cm in length; compatibility testing has been performed with the Phenom 21 Catheter.",
+    "locators": ["PDF page 3, DEVICE COMPATIBILITY"],
+    "source_quote": "Compatibility testing has been performed with the Phenom 21 Catheter"
+  },
+  {
+    "claim_id": "claim:flow-diverter--medtronic--pipeline-vantage-shield:resheathing-limit:vantage-ifu-2025",
+    "device_id": "flow-diverter--medtronic--pipeline-vantage-shield",
+    "claim_type": "deployment",
+    "text": "The resheathing limit is reached when the resheathing marker aligns with the distal marker of the microcatheter, and the system is designed to allow a full 2 cycles of resheathing of the device; resheathing more than 2 full cycles, or past the distal marker of the delivery system, may cause damage to the distal or proximal ends of the braid.",
+    "locators": ["PDF page 5, Resheathing Instructions", "PDF page 5, WARNINGS"],
+    "source_quote": "designed to allow for a 2 full cycles of resheathing of the Pipeline™ Vantage device"
+  },
+  {
+    "claim_id": "claim:flow-diverter--medtronic--pipeline-vantage-shield:deployment-placement:vantage-ifu-2025",
+    "device_id": "flow-diverter--medtronic--pipeline-vantage-shield",
+    "claim_type": "deployment",
+    "text": "US labeling states that once the delivery wire and microcatheter tip are aligned, the distal end of the Pipeline Vantage implant should be placed at least 3 mm past the distal edge of the aneurysm neck.",
+    "locators": ["PDF page 4, DIRECTIONS FOR USE"],
+    "source_quote": "distal end of Pipeline™ Vantage implant should be placed at least 3 mm past the distal edge of the aneurysm neck"
+  },
+  {
+    "claim_id": "claim:flow-diverter--medtronic--pipeline-vantage-shield:mri-conditions:vantage-ifu-2025",
+    "device_id": "flow-diverter--medtronic--pipeline-vantage-shield",
+    "claim_type": "mri",
+    "text": "The device is MR Conditional for single and overlapping stents up to 70 mm in length, scanned at 1.5T or 3T static magnetic field strength with a maximum spatial field gradient of 30 T/m (3000 gauss/cm), whole body averaged SAR <=2 W/kg, head SAR <=3.2 W/kg, for up to 60 minutes of continuous RF (or back-to-back sequences separated by waits of at least 5 minutes); the multilayer implant configuration does not affect MRI compatibility, including temperature rise, torque, displacement, and artifact.",
+    "locators": ["PDF page 7, MAGNETIC RESONANCE IMAGING (MRI) SAFETY INFORMATION"],
+    "source_quote": "MR Conditional for single and overlapping stents up to 70 mm in length"
+  },
+  {
+    "claim_id": "claim:flow-diverter--medtronic--pipeline-vantage-shield:mri-artifact:vantage-ifu-2025",
+    "device_id": "flow-diverter--medtronic--pipeline-vantage-shield",
+    "claim_type": "mri",
+    "text": "In non-clinical testing, the MR image artifact caused by the Pipeline Vantage device extends approximately 20.2 mm from the implant when imaged using a T1-weighted spin echo pulse sequence and a 3-Tesla MR system.",
+    "locators": ["PDF page 7, MR Image Artifact"],
+    "source_quote": "extends approximately 20.2 mm from this implant"
+  },
+  {
+    "claim_id": "claim:flow-diverter--medtronic--pipeline-vantage-shield:periprocedural-dapt:vantage-ifu-2025",
+    "device_id": "flow-diverter--medtronic--pipeline-vantage-shield",
+    "claim_type": "periprocedural",
+    "text": "The IFU's referenced PUFS study protocol required all patients to receive periprocedural aspirin 325 mg daily for 2 days prior to the procedure and 325 mg daily for 6 months after, plus clopidogrel 75 mg daily for 7 days before the procedure (or a 650 mg oral bolus the day prior) and 75 mg daily for 3 months after.",
+    "locators": ["PDF page 14, CLINICAL TRIAL RESULTS – PUFS, PUFS-CA, AND PUFS-PAS, Design"],
+    "source_quote": "aspirin (325 mg daily for 2 days prior to PED and 325 mg daily for 6 months after PED)"
+  },
+  {
+    "claim_id": "claim:flow-diverter--medtronic--pipeline-vantage-shield:warning-age:vantage-ifu-2025",
+    "device_id": "flow-diverter--medtronic--pipeline-vantage-shield",
+    "claim_type": "warning",
+    "text": "US labeling warns there may be a decrease in effectiveness and increase in safety events when the device is used in patients 60 years of age or older.",
+    "locators": ["PDF page 7, WARNINGS (continued)"],
+    "source_quote": "decrease in effectiveness and increase in safety events when the device is used in patients ≥ 60 years old"
+  },
+  {
+    "claim_id": "claim:flow-diverter--medtronic--pipeline-vantage-shield:warning-braid-deformity:vantage-ifu-2025",
+    "device_id": "flow-diverter--medtronic--pipeline-vantage-shield",
+    "claim_type": "warning",
+    "text": "US labeling notes that in the INSPIRE-A registry, there was an observation of increased braid deformity in female patients, especially in female patients less than 45 years of age.",
+    "locators": ["PDF page 6, WARNINGS"],
+    "source_quote": "increased braid deformity in female patients, especially in female patients less than 45 years of age"
+  },
+  {
+    "claim_id": "claim:flow-diverter--medtronic--pipeline-vantage-shield:regulatory-status:vantage-ifu-2025",
+    "device_id": "flow-diverter--medtronic--pipeline-vantage-shield",
+    "claim_type": "regulatory_status",
+    "text": "The device is supplied sterile using ethylene oxide, is non-pyrogenic, and is intended for single use only; reprocessing or resterilization is prohibited because it increases the risk of patient infection and compromised device performance.",
+    "locators": ["PDF page 7, HOW SUPPLIED", "PDF page 6, WARNINGS", "PDF page 6, PRECAUTIONS"],
+    "source_quote": "supplied STERILE using ethylene oxide. This device is Non-pyrogenic"
+  }
+]
