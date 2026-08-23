@@ -352,6 +352,8 @@ def test_classify_cell_lifts_numbers_only_from_pure_number_cells():
     assert classify_cell("Up to 0.021") == ("list", [0.021])
     assert classify_cell("0.0165/0.013 inch (ID)") == ("prose", None)
     assert classify_cell("13–33") == ("range", [13.0, 33.0])
+    assert classify_cell("8/6, 10/7") == ("pairs", [[8.0, 6.0], [10.0, 7.0]])
+    assert classify_cell("0.0165/0.013") == ("pairs", [[0.0165, 0.013]])
     # The six cells the spot audit flagged must not yield a number list.
     for cell in (
         "89 (dilator length, 96)",
@@ -362,6 +364,10 @@ def test_classify_cell_lifts_numbers_only_from_pure_number_cells():
         assert classify_cell(cell)[0] == "prose", cell
     assert cell_unit("0.0165/0.013 inch (ID)", "F") == ("inch", True)
     assert cell_unit("2.9", "F") == ("F", False)
+    assert cell_unit("2.8 (0.93 mm)", "F") == ("F", False)            # parenthetical-only unit is a conversion
+    assert cell_unit("0.087 (6 F)", "inch") == ("inch", False)
+    assert classify_cell("2.8 (0.93 mm)") == ("list", [2.8])
+    assert classify_cell("0.018 (0.46 mm) (maximum)") == ("list", [0.018])
     assert cell_unit("30 mm; 48 mm; 200 cm", "cm") == ("mixed:cm/mm", True)  # co-equal units -> say so
     assert cell_unit("ID as small as 0.021 inch (1.6 F); also compatible with 0.035 inch (2.67 F)", "F") == ("inch", True)
 

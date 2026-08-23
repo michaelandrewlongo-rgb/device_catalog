@@ -1,0 +1,357 @@
+{
+  "pdf_sha256": "1c57233f7a18afb60a679abe2dd3bd84b7968ef4a79b83bd71f2c73a6df71271",
+  "title": "Neurovascular Product Catalog",
+  "catalog_year": "2019",
+  "creation_date": "D:20181109092019-06'00'",
+  "pages_with_tables": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "row_count": 434,
+  "families": [
+    {
+      "product_family": "AVÍGO™ .014\" HYDROPHILIC GUIDEWIRE",
+      "section": "GUIDEWIRES",
+      "pdf_page": 3,
+      "row_count": 1
+    },
+    {
+      "product_family": "MIRAGE™ .008\" HYDROPHILIC GUIDEWIRE",
+      "section": "GUIDEWIRES",
+      "pdf_page": 3,
+      "row_count": 1
+    },
+    {
+      "product_family": "SILVERSPEED™ HYDROPHILIC GUIDEWIRE",
+      "section": "GUIDEWIRES",
+      "pdf_page": 3,
+      "row_count": 3
+    },
+    {
+      "product_family": "X-PEDION™ HYDROPHILIC GUIDEWIRE",
+      "section": "GUIDEWIRES",
+      "pdf_page": 3,
+      "row_count": 2
+    },
+    {
+      "product_family": "CELLO™ BALLOON GUIDE CATHETER",
+      "section": "BALLOON GUIDE CATHETERS",
+      "pdf_page": 4,
+      "row_count": 4
+    },
+    {
+      "product_family": "PHENOM™* PLUS CATHETER",
+      "section": "DISTAL ACCESS CATHETERS",
+      "pdf_page": 5,
+      "row_count": 2
+    },
+    {
+      "product_family": "REACT™ 68 CATHETER",
+      "section": "DISTAL ACCESS CATHETERS",
+      "pdf_page": 5,
+      "row_count": 1
+    },
+    {
+      "product_family": "NAVIEN™ INTRACRANIAL SUPPORT CATHETER",
+      "section": "INTRACRANIAL SUPPORT CATHETERS",
+      "pdf_page": 6,
+      "row_count": 14
+    },
+    {
+      "product_family": "APOLLO™ ONYX™ DELIVERY MICRO CATHETER",
+      "section": "MICRO CATHETERS",
+      "pdf_page": 7,
+      "row_count": 2
+    },
+    {
+      "product_family": "MARATHON™ FLOW DIRECTED MICRO CATHETER",
+      "section": "MICRO CATHETERS",
+      "pdf_page": 7,
+      "row_count": 1
+    },
+    {
+      "product_family": "REBAR™ 10 REINFORCED MICRO CATHETER",
+      "section": "MICRO CATHETERS",
+      "pdf_page": 7,
+      "row_count": 1
+    },
+    {
+      "product_family": "REBAR™ 14 REINFORCED MICRO CATHETER",
+      "section": "MICRO CATHETERS",
+      "pdf_page": 7,
+      "row_count": 1
+    },
+    {
+      "product_family": "REBAR™ 18 REINFORCED MICRO CATHETER",
+      "section": "MICRO CATHETERS",
+      "pdf_page": 7,
+      "row_count": 1
+    },
+    {
+      "product_family": "REBAR™ 27 REINFORCED MICRO CATHETER",
+      "section": "MICRO CATHETERS",
+      "pdf_page": 7,
+      "row_count": 1
+    },
+    {
+      "product_family": "MARKSMAN™ MICRO CATHETER",
+      "section": "MICRO CATHETERS",
+      "pdf_page": 8,
+      "row_count": 4
+    },
+    {
+      "product_family": "ORION™ -21 MICRO CATHETER",
+      "section": "MICRO CATHETERS",
+      "pdf_page": 8,
+      "row_count": 1
+    },
+    {
+      "product_family": "ECHELON™ 10 MICRO CATHETER",
+      "section": "MICRO CATHETERS",
+      "pdf_page": 9,
+      "row_count": 3
+    },
+    {
+      "product_family": "ECHELON™ 14 MICRO CATHETER",
+      "section": "MICRO CATHETERS",
+      "pdf_page": 9,
+      "row_count": 3
+    },
+    {
+      "product_family": "ECHELON™ SYRINGE ADAPTER",
+      "section": "MICRO CATHETERS",
+      "pdf_page": 9,
+      "row_count": 1
+    },
+    {
+      "product_family": "PHENOM™* 017 CATHETER",
+      "section": "MICRO CATHETERS",
+      "pdf_page": 10,
+      "row_count": 4
+    },
+    {
+      "product_family": "PHENOM™* 021 CATHETER",
+      "section": "MICRO CATHETERS",
+      "pdf_page": 10,
+      "row_count": 2
+    },
+    {
+      "product_family": "PHENOM™* 027 CATHETER",
+      "section": "MICRO CATHETERS",
+      "pdf_page": 10,
+      "row_count": 2
+    },
+    {
+      "product_family": "HYPERFORM™ OCCLUSION BALLOON SYSTEMS",
+      "section": "BALLOONS",
+      "pdf_page": 11,
+      "row_count": 7
+    },
+    {
+      "product_family": "HYPERGLIDE™ OCCLUSION BALLOON SYSTEMS",
+      "section": "BALLOONS",
+      "pdf_page": 11,
+      "row_count": 9
+    },
+    {
+      "product_family": "ONYX™ LES ACCESSORIES",
+      "section": "LIQUID EMBOLICS",
+      "pdf_page": 12,
+      "row_count": 1
+    },
+    {
+      "product_family": "ONYX™ LIQUID EMBOLIC SYSTEM",
+      "section": "LIQUID EMBOLICS",
+      "pdf_page": 12,
+      "row_count": 2
+    },
+    {
+      "product_family": "AXIUM™ PRIME DETACHABLE COILS (FRAME)",
+      "section": "3D FRAMING DETACHABLE COILS",
+      "pdf_page": 13,
+      "row_count": 28
+    },
+    {
+      "product_family": "AXIUM™ PRIME DETACHABLE COILS (FRAME)",
+      "section": "3D FRAMING DETACHABLE COILS",
+      "pdf_page": 14,
+      "row_count": 16
+    },
+    {
+      "product_family": "ID INSTANT DETACHER (5 PACK)",
+      "section": "3D FRAMING DETACHABLE COILS",
+      "pdf_page": 14,
+      "row_count": 1
+    },
+    {
+      "product_family": "AXIUM™ PRIME 3D DETACHABLE COILS (EXTRA SOFT)",
+      "section": "3D EXTRA SOFT DETACHABLE COILS",
+      "pdf_page": 15,
+      "row_count": 17
+    },
+    {
+      "product_family": "AXIUM™ PRIME HELICAL DETACHABLE COILS (EXTRA SOFT)",
+      "section": "HELICAL EXTRA SOFT DETACHABLE COILS",
+      "pdf_page": 16,
+      "row_count": 21
+    },
+    {
+      "product_family": "ID INSTANT DETACHER (5 PACK)",
+      "section": "HELICAL EXTRA SOFT DETACHABLE COILS",
+      "pdf_page": 16,
+      "row_count": 1
+    },
+    {
+      "product_family": "AXIUM™ PRIME 3D DETACHABLE COILS (SUPER SOFT)",
+      "section": "3D SUPER SOFT DETACHABLE COILS",
+      "pdf_page": 17,
+      "row_count": 10
+    },
+    {
+      "product_family": "AXIUM™ PRIME HELICAL DETACHABLE COILS (SUPER SOFT)",
+      "section": "HELICAL SUPER SOFT DETACHABLE COILS",
+      "pdf_page": 18,
+      "row_count": 9
+    },
+    {
+      "product_family": "ID INSTANT DETACHER (5 PACK)",
+      "section": "HELICAL SUPER SOFT DETACHABLE COILS",
+      "pdf_page": 18,
+      "row_count": 1
+    },
+    {
+      "product_family": "AXIUM™ 3D DETACHABLE COILS",
+      "section": "3D DETACHABLE COILS",
+      "pdf_page": 19,
+      "row_count": 24
+    },
+    {
+      "product_family": "AXIUM™ 3D DETACHABLE COILS",
+      "section": "3D DETACHABLE COILS",
+      "pdf_page": 20,
+      "row_count": 19
+    },
+    {
+      "product_family": "AXIUM™ HELICAL DETACHABLE COILS",
+      "section": "HELICAL DETACHABLE COILS",
+      "pdf_page": 21,
+      "row_count": 23
+    },
+    {
+      "product_family": "AXIUM™ HELICAL DETACHABLE COILS",
+      "section": "HELICAL DETACHABLE COILS",
+      "pdf_page": 22,
+      "row_count": 17
+    },
+    {
+      "product_family": "ID INSTANT DETACHER (5 PACK)",
+      "section": "HELICAL DETACHABLE COILS",
+      "pdf_page": 22,
+      "row_count": 1
+    },
+    {
+      "product_family": "AXIUM™ MICROFX™ PGLA 3D COILS",
+      "section": "PGLA 3D COILS",
+      "pdf_page": 23,
+      "row_count": 21
+    },
+    {
+      "product_family": "AXIUM™ MICROFX™ PGLA 3D COILS",
+      "section": "PGLA 3D COILS",
+      "pdf_page": 24,
+      "row_count": 11
+    },
+    {
+      "product_family": "AXIUM™ MICROFX™ PGLA HELIX COILS",
+      "section": "PGLA HELICAL COILS",
+      "pdf_page": 25,
+      "row_count": 23
+    },
+    {
+      "product_family": "AXIUM™ MICROFX™ NYLON COILS",
+      "section": "NYLON HELICAL COILS",
+      "pdf_page": 26,
+      "row_count": 11
+    },
+    {
+      "product_family": "ID INSTANT DETACHER (5 PACK)",
+      "section": "NYLON HELICAL COILS",
+      "pdf_page": 26,
+      "row_count": 1
+    },
+    {
+      "product_family": "PIPELINE™ FLEX EMBOLIZATION DEVICE",
+      "section": "FLOW DIVERTERS",
+      "pdf_page": 27,
+      "row_count": 29
+    },
+    {
+      "product_family": "PIPELINE™ FLEX EMBOLIZATION DEVICE",
+      "section": "FLOW DIVERTERS",
+      "pdf_page": 28,
+      "row_count": 32
+    },
+    {
+      "product_family": "PIPELINE™ FLEX EMBOLIZATION DEVICE",
+      "section": "FLOW DIVERTERS",
+      "pdf_page": 29,
+      "row_count": 32
+    },
+    {
+      "product_family": "SOLITAIRE™ PLATINUM REVASCULARIZATION DEVICE",
+      "section": "REVASCULARIZATION DEVICES",
+      "pdf_page": 30,
+      "row_count": 6
+    },
+    {
+      "product_family": "RIPTIDE™ ASPIRATION SYSTEM",
+      "section": "ASPIRATION",
+      "pdf_page": 31,
+      "row_count": 4
+    },
+    {
+      "product_family": "1 ML INJECTION SYRINGE",
+      "section": "ACCESSORIES",
+      "pdf_page": 32,
+      "row_count": 1
+    },
+    {
+      "product_family": "CADENCE™ PRECISION INJECTOR ACCESSORY",
+      "section": "ACCESSORIES",
+      "pdf_page": 32,
+      "row_count": 1
+    }
+  ],
+  "verification": {
+    "pages_checked": 30,
+    "discrepancies": []
+  }
+}

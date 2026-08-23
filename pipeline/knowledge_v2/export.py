@@ -14,7 +14,13 @@ ACTIONABLE_SOURCE_STATUSES = {"current"}
 ACTIONABLE_SOURCE_DEPTHS = {"local_full_text", "official_remote_full_text"}
 ACTIONABLE_REVIEW_STATES = {"source_checked", "clinician_reviewed"}
 ACTIONABLE_SUPPORT_STATES = {"direct"}
-ACTIONABLE_EVIDENCE_LAYERS = {"official_labeling", "official_specification", "clinical_context"}
+ACTIONABLE_EVIDENCE_LAYERS = {
+    "official_labeling",
+    "official_specification",
+    "manufacturer_catalog",
+    "trade_journal_device_guide",
+    "clinical_context",
+}
 SCHEMA_VERSION = "2.1.0"
 # Secondary candidates (Endovascular Today guide rows, French-to-inch derivations) are
 # exported alongside claims but can never carry authoritative evidence or a reviewed

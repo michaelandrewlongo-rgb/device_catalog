@@ -57,6 +57,13 @@ class EvidenceLayer(StrEnum):
     # FDA 510(k)/PMA technological-characteristics tables: official regulatory
     # evidence, actionable for dimensions, but not manufacturer IFU or current labeling.
     OFFICIAL_SPECIFICATION = "official_specification"
+    # Endovascular Today device-guide tables: manufacturer-submitted, published,
+    # retained as hashed PDFs and audited row by row. Actionable for listed
+    # dimensions and stated indicated use; outranked by IFU/FDA labeling on conflict.
+    TRADE_JOURNAL_DEVICE_GUIDE = "trade_journal_device_guide"
+    # Manufacturer product catalogue: the manufacturer's own published specification
+    # tables. Above a trade-journal guide, below current IFU/labeling; dated.
+    MANUFACTURER_CATALOG = "manufacturer_catalog"
     CLINICAL_CONTEXT = "clinical_context"
     LEGACY_DERIVED_SUMMARY = "legacy_derived_summary"
 

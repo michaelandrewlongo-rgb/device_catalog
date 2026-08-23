@@ -73,7 +73,11 @@ NUMBER_RE = re.compile(r"(?<![A-Za-z])(\d+(?:\.\d+)?)")
 NUM = r"\d+(?:\.\d+)?"
 # Qualifiers the guides attach to an otherwise plain number list.
 QUALIFIER_RE = re.compile(r"^(?:up to|max(?:imum)?|min(?:imum)?)\s+|\s*\((?:maximum|minimum|max|min|nominal)\)\s*$", re.I)
-LIST_RE = re.compile(rf"^{NUM}(?:\s*[,/]\s*{NUM})*$")
+LIST_RE = re.compile(rf"^{NUM}(?:\s*,\s*{NUM})*$")
+# "8/6, 10/7": proximal/distal pairs (tapered stents). Kept as pairs, never flattened.
+PAIRS_RE = re.compile(rf"^{NUM}\s*/\s*{NUM}(?:\s*,\s*{NUM}\s*/\s*{NUM})*$")
+# "(0.93 mm)" / "(6 F)" beside a value is a unit conversion of that value, not data.
+CONVERSION_RE = re.compile(rf"\s*\(\s*{NUM}\s*(?:mm|cm|inch|inches|in\.|F|Fr)\s*\)", re.I)
 RANGE_RE = re.compile(rf"^({NUM})\s*[–—-]\s*({NUM})$")
 # Explicit unit tokens a cell may carry that override the column header.
 UNIT_TOKENS = [
@@ -93,34 +97,55 @@ def classify_cell(text: str) -> tuple[str, Any]:
     the cell is nothing *but* numbers; everything else keeps its verbatim quote and
     no numeric value, so a reader is never shown a number the table did not list.
     """
-    stripped = QUALIFIER_RE.sub("", (text or "").strip()).strip()
+    stripped = CONVERSION_RE.sub("", (text or "").strip())
+    stripped = QUALIFIER_RE.sub("", stripped.strip()).strip()
     if LIST_RE.match(stripped):
         return "list", [float(m) for m in NUMBER_RE.findall(stripped)]
     match = RANGE_RE.match(stripped)
     if match:
         return "range", [float(match.group(1)), float(match.group(2))]
+    if PAIRS_RE.match(stripped):
+        return "pairs", [[float(a), float(b)] for a, b in (pair.split("/") for pair in stripped.split(","))]
     return "prose", None
 
 
+VALUE_UNIT_RE = re.compile(
+    rf"({NUM}(?:\s*/\s*{NUM})*)\s*(inch(?:es)?|in\.|\"|mm|cm|F|Fr)?", re.I
+)
+UNIT_CANON = {"inch": "inch", "inches": "inch", "in.": "inch", '"': "inch", "mm": "mm", "cm": "cm", "f": "F", "fr": "F"}
+
+
 def cell_unit(text: str, header_unit: str) -> tuple[str, bool]:
-    """Unit to report for a cell: an explicit in-cell unit wins over the header."""
+    """Unit to report for a cell.
+
+    Looks at the unit token that follows each number group *outside parentheses*
+    ("0.0165/0.013 inch", "30 mm; 48 mm; 200 cm"). Parenthetical units are
+    conversions and are ignored; a unit that follows a number inside a product
+    size ("3 X 20 mm") is not the unit of the listed value either, so only groups
+    that are not preceded by "x"/"X" count. Rules:
+    - no unit after any number              -> header unit, no conflict
+    - every number carries the same unit U  -> U, conflict if U != header
+    - numbers carry different units         -> "mixed:<a>/<b>", conflict
+    - some numbers carry a unit, others not -> header unit, conflict flagged
+    """
     text = text or ""
-    found = {unit for pattern, unit in UNIT_TOKENS if pattern.search(text)}
-    # Parenthetical units are conversions of the value beside them ("0.021 inch
-    # (1.6 F)"); the unit outside the parentheses is the cell's own.
     outside = re.sub(r"\([^)]*\)", " ", text)
-    primary = {unit for pattern, unit in UNIT_TOKENS if pattern.search(outside)}
-    if len(found) > 1 and len(primary) == 1:
-        found = primary
-    if not found or found == {header_unit}:
+    units: list[str | None] = []
+    for match in VALUE_UNIT_RE.finditer(outside):
+        before = outside[: match.start()].rstrip()
+        if before[-1:].lower() == "x":
+            continue  # "3 X 20 mm" is a device size, not a measured value
+        unit = match.group(2)
+        units.append(UNIT_CANON.get(unit.lower(), unit) if unit else None)
+    stated = {u for u in units if u}
+    if not stated:
         return header_unit, False
-    if len(found) == 1:
-        # One explicit unit that is not the header's: the cell is authoritative.
-        return found.pop(), True
-    # Several co-equal units in one cell (e.g. "30 mm; 48 mm; 200 cm"): no single
-    # unit describes the cell, and reporting the header unit would be misleading.
-    # Such cells are prose and carry no numeric value; the quote is the record.
-    return "mixed:" + "/".join(sorted(found)), True
+    if len(stated) == 1 and all(units):
+        unit = stated.pop()
+        return unit, unit != header_unit
+    if len(stated) > 1:
+        return "mixed:" + "/".join(sorted(stated)), True
+    return header_unit, True
 
 
 def normalize(value: str) -> str:
@@ -170,20 +195,76 @@ def load_enriched_index() -> dict[str, list[dict[str, Any]]]:
     return index
 
 
+GENERIC_NAMES = {
+    "microcatheter", "microcatheters", "catheter", "catheters", "micro", "guidewire", "guidewires",
+    "wire", "stent", "stents", "coil", "coils", "system", "device", "balloon", "access",
+    "distal", "delivery", "detachable", "aspiration", "guide", "guiding", "neuro", "vascular",
+}
+
+
+def _specific(name: str) -> str:
+    """Name with generic device-type words removed; empty if nothing specific remains."""
+    words = [w for w in re.findall(r"[a-z0-9]+", (name or "").casefold()) if w not in GENERIC_NAMES]
+    return "".join(words)
+
+
+# Corporate aliases: the guide prints the current marketer, the catalog often keeps
+# the 510(k) holder or a former brand. Both directions are accepted.
+MANUFACTURER_ALIASES = {
+    "terumo": {"microvention", "terumo"},
+    "microvention": {"microvention", "terumo"},
+    "cerenovus": {"cerenovus", "codman", "depuy", "micrus"},
+    "codman": {"cerenovus", "codman", "depuy"},
+    "medtronic": {"medtronic", "ev3", "covidien"},
+    "ev3": {"medtronic", "ev3", "covidien"},
+    "stryker": {"stryker", "boston-scientific-target", "concentric", "target"},
+    "penumbra": {"penumbra"},
+    "balt": {"balt"},
+    "phenox": {"phenox", "wallaby"},
+    "imperative": {"imperative"},
+    "rapid": {"rapid"},
+    "asahi": {"asahi"},
+}
+
+
+def _same_manufacturer(wanted: str, recorded: str) -> bool:
+    head = wanted.split("-")[0] if wanted else ""
+    rec = recorded or ""
+    if not head:
+        return True
+    if head in rec:
+        return True
+    return any(alias in rec for alias in MANUFACTURER_ALIASES.get(head, ()))
+
+
 def match_enriched(index: dict[str, list[dict[str, Any]]], company: str, product: str) -> list[dict[str, Any]]:
-    key = normalize(product)
-    candidates = list(index.get(key, []))
-    if not candidates:
-        # Allow the guide's product name to be a prefix/suffix of the catalog name
-        # (e.g. "Excelsior SL-10" vs "Excelsior SL-10 Microcatheter"), but require a
-        # manufacturer agreement so "Q" cannot match every product containing "q".
-        if len(key) >= 5:
-            for index_key, records in index.items():
-                if key in index_key or index_key in key:
-                    candidates.extend(records)
+    """Join a guide row to enriched records by specific product words + manufacturer.
+
+    An enriched record named "Micro Catheter" must never join every microcatheter,
+    and a manufacturer mismatch is a hard no: the alias/clearance metadata that the
+    join supplies would otherwise attach a competitor's 510(k) to the row.
+    """
+    key = _specific(product)
+    if len(key) < 4:
+        return []
     wanted = manufacturer_slug(company)
-    filtered = [r for r in candidates if wanted and wanted.split("-")[0] in (r.get("manufacturer") or "")]
-    return filtered or ([] if len(candidates) > 3 else candidates)
+    candidates: list[dict[str, Any]] = []
+    for index_key, records in index.items():
+        spec = _specific(index_key)
+        if len(spec) < 4:
+            continue
+        if spec == key or (len(key) >= 6 and (key in spec or spec in key)):
+            candidates.extend(records)
+    out = []
+    seen = set()
+    for record in candidates:
+        if not _same_manufacturer(wanted, record.get("manufacturer") or ""):
+            continue
+        if record["_device_id"] in seen:
+            continue
+        seen.add(record["_device_id"])
+        out.append(record)
+    return out
 
 
 def observation(row: dict[str, Any], value: float | None, *, unit: str, meaning: str, quote: str,
@@ -228,6 +309,9 @@ def build_candidate(row: dict[str, Any], index: dict[str, list[dict[str, Any]]])
         elif kind == "range":
             entry["range"] = numbers
             entry["meaning"] = f"{meaning} (range as printed)"
+        elif kind == "pairs":
+            entry["pairs"] = numbers
+            entry["meaning"] = f"{meaning} (slash-separated pairs as printed)"
         if conflict:
             entry["unit_conflict"] = True
             entry["header_unit"] = unit

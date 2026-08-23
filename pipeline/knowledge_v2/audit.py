@@ -62,16 +62,25 @@ def sha256_file(path: Path) -> str:
     return digest.hexdigest()
 
 
-def extract_pdf_text(path: Path, max_pages: int = 6) -> tuple[str, str | None]:
-    """Extract enough text for identity checks without adding a hard dependency."""
+def extract_pdf_text(path: Path, max_pages: int | None = None) -> tuple[str, str | None]:
+    """Extract text for identity checks without adding a hard dependency.
+
+    The whole document is read by default: a per-row source inside a multi-page
+    comparison table names a product that may only appear on page 9, and an IFU's
+    identity terms can sit in a late appendix. Pass ``max_pages`` to bound very large
+    documents explicitly.
+    """
     try:
         import fitz  # type: ignore[import-not-found]
 
         document = fitz.open(path)
-        text = "\n".join(page.get_text() for page in document[:max_pages])
+        pages = document if max_pages is None else document[:max_pages]
+        text = "\n".join(page.get_text() for page in pages)
         return text, None
     except (ImportError, RuntimeError, ValueError) as exc:
-        command = ["pdftotext", "-f", "1", "-l", str(max_pages), str(path), "-"]
+        command = ["pdftotext", str(path), "-"]
+        if max_pages is not None:
+            command = ["pdftotext", "-f", "1", "-l", str(max_pages), str(path), "-"]
         try:
             result = subprocess.run(
                 command,
@@ -85,14 +94,26 @@ def extract_pdf_text(path: Path, max_pages: int = 6) -> tuple[str, str | None]:
             return "", f"PDF text unavailable: {exc}; fallback: {fallback_exc}"
 
 
+def _fold(value: str) -> str:
+    """Whitespace- and punctuation-insensitive form for identity matching.
+
+    PDF text extraction wraps table cells across lines and drops or re-encodes
+    trademark glyphs, so "Wingman 35 CTO Crossing Catheter" may appear as
+    "Wingman 35 CTO
+Crossing Catheter" or "Wingman 35 CTO Crossing Catheter(tm)".
+    Identity is about the name, not its typography.
+    """
+    return re.sub(r"[^a-z0-9]+", "", value.casefold())
+
+
 def _contains_any(text: str, terms: list[str]) -> bool:
-    folded = text.casefold()
-    return any(term.casefold() in folded for term in terms)
+    folded = _fold(text)
+    return any(_fold(term) in folded for term in terms if _fold(term))
 
 
 def _contains_all(text: str, terms: list[str]) -> bool:
-    folded = text.casefold()
-    return all(term.casefold() in folded for term in terms)
+    folded = _fold(text)
+    return all(_fold(term) in folded for term in terms if _fold(term))
 
 
 def catalog_data_roots(catalog_root: Path) -> list[Path]:

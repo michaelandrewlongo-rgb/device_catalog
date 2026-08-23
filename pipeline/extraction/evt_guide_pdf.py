@@ -199,6 +199,102 @@ def neuro_relevance(slug: str, row: dict[str, str]) -> str:
     return "unknown"
 
 
+NAME_SUFFIX_RE = re.compile(r"^(?:inc|llc|ltd|corp|co|gmbh|sa|ag|usa|medical|systems?|catheter|device|\(?neuro\)?)[.,)]*$", re.I)
+
+
+def is_continuation_fragment(row: dict[str, str], headers: list[str], *, first_body: bool) -> bool:
+    """Detect a wrapped row whose name cells are fragments rather than names.
+
+    Only the first body row of a page can wrap from the previous page. A real
+    product row carries a multi-word company or product and at least some spec
+    cells; a fragment row has one-token name cells such as "Inc." or "Catheter"
+    and mostly empty cells.
+    """
+    if not first_body:
+        return False
+    company, product = row.get("company", ""), row.get("product", "")
+    spec_keys = [h for h in headers if h not in ("company", "product")]
+    empty = sum(1 for key in spec_keys if is_blank(row.get(key, "")))
+    fragmentary = all(len(name.split()) <= 2 and NAME_SUFFIX_RE.match(name.split()[-1]) for name in (company, product) if name)
+    if fragmentary and empty >= len(spec_keys) / 2:
+        return True
+    # A company cell that is nothing but a corporate suffix ("Corporation", "Inc")
+    # is the wrapped tail of the previous row's company, whatever else the row holds.
+    if company and re.fullmatch(r"(?:inc|llc|ltd|corp|corporation|co|gmbh|usa)[.,]?(?:\s*\(neuro\))?", company, re.I):
+        return True
+    # A wrapped row may re-print the company and carry the tail of the product
+    # name, but its prose cells then begin mid-sentence (lowercase) and its
+    # numeric spec cells are empty. A real row starts its prose with a capital.
+    numeric_keys = [k for k in spec_keys if k.endswith(("_fr", "_in", "_cm", "_mm"))]
+    numeric_empty = all(is_blank(row.get(k, "")) for k in numeric_keys)
+    prose = [row.get(k, "") for k in spec_keys if row.get(k, "") and len(row.get(k, "")) > 20]
+    mid_sentence = any(text[0].islower() for text in prose)
+    return bool(numeric_keys) and numeric_empty and mid_sentence
+
+
+def page_geometry(page: "fitz.Page", columns: list[tuple[float, float]] | None):
+    """Column x-bounds and row y-bands for one guide page.
+
+    ``find_tables`` on these guides returns only the shaded rows: the unshaded
+    rows between them have no drawn border, so half of every table was dropped.
+    Rows are therefore built geometrically. Column bounds come from the header row
+    (the one table cell-row ``find_tables`` does see, or the header words); row
+    bands are the shaded rectangles plus the gaps between them, down to the last
+    word inside the column span.
+    """
+    words = page.get_text("words")
+    header_y1 = None
+    header_text: list[str] | None = None
+    for table in page.find_tables().tables:
+        rows = table.extract()
+        first = [clean_cell(c) for c in rows[0]] if rows else []
+        if first and first[0].casefold().startswith("company"):
+            columns = [(cell[0], cell[2]) for cell in table.rows[0].cells]
+            header_y1 = table.rows[0].bbox[3]
+            header_text = first
+            break
+    if columns is None:
+        return None, None, None, []
+    if header_y1 is None:
+        header_words = [w for w in words if w[4] in ("Company", "Name") and w[0] < columns[0][1]]
+        header_y1 = max(w[3] for w in header_words) + 2 if header_words else 0
+    shades = [
+        d["rect"] for d in page.get_drawings()
+        if d.get("fill") and len(d["fill"]) >= 3 and 0.85 < d["fill"][0] < 0.99 and d["rect"].height > 6
+    ]
+    bands: list[tuple[float, float]] = []
+    for y0, y1 in sorted({(round(r.y0, 1), round(r.y1, 1)) for r in shades if r.y0 > header_y1 - 2}):
+        if bands and y0 <= bands[-1][1] + 0.5:
+            bands[-1] = (bands[-1][0], max(bands[-1][1], y1))
+        else:
+            bands.append((y0, y1))
+    body = [w for w in words if w[1] >= header_y1 - 1 and w[0] >= columns[0][0] - 2 and w[2] <= columns[-1][1] + 2]
+    if not body:
+        return columns, header_y1, header_text, []
+    edges = sorted({header_y1, *(y for band in bands for y in band), max(w[3] for w in body) + 1})
+    row_bands = [(edges[i], edges[i + 1]) for i in range(len(edges) - 1) if edges[i + 1] - edges[i] > 4]
+    rows: list[list[str]] = []
+    for y0, y1 in row_bands:
+        cells: list[list[tuple]] = [[] for _ in columns]
+        in_band = [w for w in body if y0 - 0.5 <= (w[1] + w[3]) / 2 <= y1 + 0.5]
+        if not in_band:
+            continue
+        for w in in_band:
+            xc = (w[0] + w[2]) / 2
+            for i, (cx0, cx1) in enumerate(columns):
+                if cx0 - 1 <= xc <= cx1 + 1:
+                    cells[i].append(w)
+                    break
+        texts = []
+        for col in cells:
+            lines: dict[int, list[tuple]] = {}
+            for w in col:
+                lines.setdefault(round(w[1]), []).append(w)
+            texts.append(" ".join(" ".join(x[4] for x in sorted(ws, key=lambda x: x[0])) for _, ws in sorted(lines.items())).strip())
+        rows.append(texts)
+    return columns, header_y1, header_text, rows
+
+
 def extract_guide(pdf_path: Path) -> list[dict[str, Any]]:
     """One record per product row, with continuation rows merged into their parent."""
     if fitz is None:
@@ -213,68 +309,61 @@ def extract_guide(pdf_path: Path) -> list[dict[str, Any]]:
     with fitz.open(pdf_path) as doc:
         title = guide_title(doc)
         last_company = ""
+        columns = None
         for page_index in range(doc.page_count):
             page = doc[page_index]
             pdf_page = page_index + 1
-            for table_index, table in enumerate(page.find_tables().tables):
-                rows = table.extract()
-                if not rows:
+            columns, header_y1, header_text, page_rows = page_geometry(page, columns)
+            if columns is None:
+                continue
+            if header_text and header_text != raw_headers:
+                raw_headers = header_text
+                headers = [normalize_header(h) for h in raw_headers]
+            if headers is None:
+                continue
+            for ordinal, cells in enumerate(page_rows):
+                cells = [clean_cell(cell) for cell in cells]
+                cells += [""] * (len(headers) - len(cells))
+                row = dict(zip(headers, cells))
+                company = row.get("company", "")
+                product = row.get("product", "")
+                if not product or is_continuation_fragment(row, headers, first_body=(ordinal == 0 and pdf_page > 1)):
+                    if records:
+                        parent = records[-1]
+                        for key, value in row.items():
+                            if not value:
+                                continue
+                            if key == "company":
+                                parent["company"] = f"{parent['company']} {value}".strip()
+                                parent["fields"]["company"] = parent["company"]
+                            elif not is_blank(value):
+                                parent["fields"][key] = (parent["fields"].get(key, "") + " " + value).strip()
+                        parent["continued_on"].append(pdf_page)
                     continue
-                first = [clean_cell(cell) for cell in rows[0]]
-                body_start = 0
-                if first and first[0].casefold().startswith("company"):
-                    raw_headers = first
-                    headers = [normalize_header(cell) for cell in first]
-                    body_start = 1
-                if headers is None:
-                    continue
-                for row_index, raw in enumerate(rows[body_start:], start=body_start):
-                    cells = [clean_cell(cell) for cell in raw]
-                    cells += [""] * (len(headers) - len(cells))
-                    row = dict(zip(headers, cells))
-                    company = row.get("company", "")
-                    product = row.get("product", "")
-                    if not product:
-                        # Page-break continuation: a row with no product name is the tail
-                        # of the previous row (a wrapped company name such as "USA, Inc."
-                        # lands in the company cell). Append non-empty cells to the parent.
-                        if records:
-                            parent = records[-1]
-                            for key, value in row.items():
-                                if not value:
-                                    continue
-                                if key == "company":
-                                    parent["company"] = f"{parent['company']} {value}".strip()
-                                    parent["fields"]["company"] = parent["company"]
-                                elif not is_blank(value):
-                                    parent["fields"][key] = (parent["fields"].get(key, "") + " " + value).strip()
-                            parent["continued_on"].append(pdf_page)
-                        continue
-                    if not company:
-                        row["company"] = last_company
-                    else:
-                        last_company = company
-                    fields = {key: value for key, value in row.items() if value and not is_blank(value)}
-                    record = {
-                        "guide_slug": slug,
-                        "region": region,
-                        "catalog_category": category,
-                        "guide_title": title,
-                        "pdf_filename": relative,
-                        "pdf_sha256": digest,
-                        "pdf_page": pdf_page,
-                        "table_index": table_index,
-                        "row_index": row_index,
-                        "company": row["company"],
-                        "product": product,
-                        "fields": fields,
-                        "raw_cells": dict(zip(raw_headers or headers, cells)),
-                        "continued_on": [],
-                    }
-                    record["neuro_relevance"] = neuro_relevance(slug, fields)
-                    records.append(record)
+                if not company:
+                    row["company"] = last_company
+                else:
+                    last_company = company
+                fields = {key: value for key, value in row.items() if value and not is_blank(value)}
+                record = {
+                    "guide_slug": slug,
+                    "region": region,
+                    "catalog_category": category,
+                    "guide_title": title,
+                    "pdf_filename": relative,
+                    "pdf_sha256": digest,
+                    "pdf_page": pdf_page,
+                    "row_ordinal": ordinal,
+                    "company": row["company"],
+                    "product": product,
+                    "fields": fields,
+                    "raw_cells": dict(zip(raw_headers, cells)),
+                    "continued_on": [],
+                }
+                record["neuro_relevance"] = neuro_relevance(slug, fields)
+                records.append(record)
     for record in records:
-        record["row_id"] = f"evt:{record['region'].lower()}-{slug}:{record['pdf_page']}:{record['table_index']}:{record['row_index']}"
+        record["row_id"] = f"evt:{record['region'].lower()}-{slug}:{record['pdf_page']}:r{record['row_ordinal']}"
         record["source_locator"] = (
             f"{title} ({pdf_path.name}), PDF page {record['pdf_page']}, "
             f"row '{record['company']} / {record['product']}'"

@@ -106,9 +106,14 @@ def main() -> int:
         from pipeline.extraction.evt_guide_pdf import extract_all
         from pipeline.knowledge_v2.secondary_candidates import build_candidates
 
+        from pipeline.knowledge_v2.promote_guide_rows import promote
+
         counts = extract_all()
         summary = build_candidates(include_peripheral=args.include_peripheral)
-        print(f"Extracted {sum(counts.values())} guide rows from {len(counts)} PDFs; {summary}")
+        # Audited rows are promoted to claims immediately so the candidate file never
+        # carries a row that is also served as an actionable claim.
+        promoted = promote()
+        print(f"Extracted {sum(counts.values())} guide rows from {len(counts)} PDFs; {summary}; promoted {promoted}")
         return 0
 
     manifest = build_export_from_files(args.source_records, args.claims, args.output_dir, args.candidates)
