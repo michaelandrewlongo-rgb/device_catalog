@@ -1,0 +1,209 @@
+{
+  "findings": [
+    {
+      "configured_status": "historical",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "balloon-catheter--microvention--scepter-c-xc--ifu.pdf",
+      "observed_status": "historical",
+      "official_scan_status": "not_watched",
+      "source_id": "ifu:microvention:scepter-c-xc:local",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "historical",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "balloon-catheter--microvention--scepter-mini--ifu.pdf",
+      "observed_status": "historical",
+      "official_scan_status": "not_watched",
+      "source_id": "ifu:microvention:scepter-mini:local",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "historical",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "distal-access--microvention--sofia--ifu.pdf",
+      "observed_status": "historical",
+      "official_scan_status": "not_watched",
+      "source_id": "ifu:microvention:sofia:local",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "quarantined",
+      "extraction_error": null,
+      "identity_failures": [
+        "none of the expected identity terms were found"
+      ],
+      "local_filename": "flow-diverter--medtronic--pipeline-flex-shield--ifu.pdf",
+      "observed_status": "quarantined",
+      "official_scan_status": "not_watched",
+      "source_id": "ifu:medtronic:pipeline-shield:misfiled-2018-flex",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "historical",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "flow-diverter--medtronic--pipeline-ped-original--ifu.pdf",
+      "observed_status": "historical",
+      "official_scan_status": "not_watched",
+      "source_id": "ifu:medtronic:pipeline-original:local",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "historical",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "flow-diverter--microvention--fred--ifu.pdf",
+      "observed_status": "historical",
+      "official_scan_status": "not_watched",
+      "source_id": "ifu:microvention:fred:2019",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "historical",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "intracranial-stent--microvention--lvis--ifu.pdf",
+      "observed_status": "historical",
+      "official_scan_status": "not_watched",
+      "source_id": "ifu:microvention:lvis:local",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "superseded",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "intracranial-stent--stryker--neuroform-atlas--ifu.pdf",
+      "observed_status": "superseded",
+      "official_scan_status": "not_watched",
+      "source_id": "ifu:stryker:neuroform-atlas:rev05",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "superseded",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "intrasaccular--microvention--web-embolization--ifu.pdf",
+      "observed_status": "superseded",
+      "official_scan_status": "not_watched",
+      "source_id": "ifu:microvention:web:rev-q-2018",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "quarantined",
+      "extraction_error": null,
+      "identity_failures": [
+        "none of the expected identity terms were found",
+        "a forbidden cross-product identity term was found"
+      ],
+      "local_filename": "liquid-embolic--medtronic--onyx-hd500--ifu.pdf",
+      "observed_status": "quarantined",
+      "official_scan_status": "not_watched",
+      "source_id": "ifu:medtronic:onyx-hd500:misfiled-enterprise",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "historical",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "liquid-embolic--medtronic--onyx-les--ifu.pdf",
+      "observed_status": "historical",
+      "official_scan_status": "not_watched",
+      "source_id": "ifu:medtronic:onyx-les:rev-2003-03",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": null,
+      "observed_status": "current",
+      "official_scan_status": "reviewable",
+      "source_id": "official:terumo:scepter-c-xc:product-page:2026-08-22",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": null,
+      "observed_status": "current",
+      "official_scan_status": "reviewable",
+      "source_id": "official:terumo:scepter-mini:product-page:2026-08-22",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": null,
+      "observed_status": "current",
+      "official_scan_status": "reviewable",
+      "source_id": "official:terumo:sofia:product-page:2026-08-22",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": null,
+      "observed_status": "unavailable",
+      "official_scan_status": "blocked",
+      "source_id": "official:medtronic:pipeline-shield:product-page:2026-08-22",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": null,
+      "observed_status": "current",
+      "official_scan_status": "reviewable",
+      "source_id": "official:terumo:fred:product-page:2026-08-22",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": null,
+      "observed_status": "current",
+      "official_scan_status": "reviewable",
+      "source_id": "official:terumo:lvis:product-page:2026-08-22",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/intracranial-stent--stryker--neuroform-atlas--ifu.pdf",
+      "observed_status": "current",
+      "official_scan_status": "reviewable",
+      "source_id": "official:stryker:neuroform-atlas:rev-ab-2025",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": null,
+      "observed_status": "current",
+      "official_scan_status": "reviewable",
+      "source_id": "official:terumo:web:ifu100044-rev-e",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": null,
+      "observed_status": "unavailable",
+      "official_scan_status": "blocked",
+      "source_id": "official:medtronic:onyx-les:product-page:2026-08-22",
+      "validation_errors": []
+    }
+  ]
+}

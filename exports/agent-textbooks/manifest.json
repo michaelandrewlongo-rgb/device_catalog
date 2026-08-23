@@ -1,0 +1,15 @@
+{
+  "accepted_claim_count": 6,
+  "generated_at": "2026-08-23T01:23:31.431605+00:00",
+  "policy": "fail_closed_current_full_text_direct_support",
+  "rejected_claim_count": 0,
+  "schema_version": "2.0.0",
+  "source_count": 20,
+  "source_status_counts": {
+    "current": 7,
+    "historical": 7,
+    "quarantined": 2,
+    "superseded": 2,
+    "unavailable": 2
+  }
+}

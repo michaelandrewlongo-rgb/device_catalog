@@ -1,0 +1,138 @@
+{
+  "findings": [
+    {
+      "checked_at": "2026-08-23T01:19:56.015011+00:00",
+      "content_sha256": "ac779654e8b4f0c70fa8bfca5e63337c68394ec43b24dae45857f9aa0b2dc3b0",
+      "content_type": "text/html",
+      "detected_document_ids": [
+        "MM1318(i) CHAPLA 05/23 \u00b7 Last ",
+        "MM1318(i) CHAPLA 05/23\",\"title",
+        "MM1320 NA 05/23; MM1319(i) EME"
+      ],
+      "device_id": "balloon-catheter--microvention--scepter-c-xc",
+      "http_status": 200,
+      "identity_match": true,
+      "official_url": "https://www.terumoneuro.com/products/scepter",
+      "source_id": "official:terumo:scepter-c-xc:product-page:2026-08-22",
+      "status": "reviewable"
+    },
+    {
+      "checked_at": "2026-08-23T01:19:56.493206+00:00",
+      "content_sha256": "db1b01cff6979762e05022778e25d82400ceb2f73383d3f47a0982d54ea12e8a",
+      "content_type": "text/html",
+      "detected_document_ids": [
+        "MM1454",
+        "MMInC1S930"
+      ],
+      "device_id": "balloon-catheter--microvention--scepter-mini",
+      "http_status": 200,
+      "identity_match": true,
+      "official_url": "https://www.terumoneuro.com/products/scepter-mini",
+      "source_id": "official:terumo:scepter-mini:product-page:2026-08-22",
+      "status": "reviewable"
+    },
+    {
+      "checked_at": "2026-08-23T01:19:56.951279+00:00",
+      "content_sha256": "80e9e0952e4a042ff34610638c25c5954bacc952902a76d3ce63cb83711dc2ed",
+      "content_type": "text/html",
+      "detected_document_ids": [
+        "MM1342 WW 05/23; MM1343 WW 05/",
+        "MM1344 WW 05/23 \u00b7 Last Updated",
+        "MM1344 WW 05/23\",\"title\":\"SOFI"
+      ],
+      "device_id": "distal-access--microvention--sofia",
+      "http_status": 200,
+      "identity_match": true,
+      "official_url": "https://www.terumoneuro.com/products/sofia",
+      "source_id": "official:terumo:sofia:product-page:2026-08-22",
+      "status": "reviewable"
+    },
+    {
+      "checked_at": "2026-08-23T01:19:57.491355+00:00",
+      "content_sha256": "6be8ee4e4ce3d7e0c4f5fbd0bda2e45724dea50f1f0f933d1d670cd9778532df",
+      "content_type": "text/html",
+      "detected_document_ids": [],
+      "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+      "error": "Official page rejected the non-browser scanner.",
+      "http_status": 200,
+      "identity_match": false,
+      "official_url": "https://www.medtronic.com/en-us/healthcare-professionals/products/neurological/neurovascular/aneurysm-flow-diverters/pipeline-flex-with-shield-technology.html",
+      "source_id": "official:medtronic:pipeline-shield:product-page:2026-08-22",
+      "status": "blocked"
+    },
+    {
+      "checked_at": "2026-08-23T01:19:57.980027+00:00",
+      "content_sha256": "3250465b4ee4598a86dc339dd41fd82cce3307ba78da08b539fd1398485d5775",
+      "content_type": "text/html",
+      "detected_document_ids": [
+        "MM1327",
+        "MMInC1S930"
+      ],
+      "device_id": "flow-diverter--microvention--fred",
+      "http_status": 200,
+      "identity_match": true,
+      "official_url": "https://www.terumoneuro.com/products/fred-family",
+      "source_id": "official:terumo:fred:product-page:2026-08-22",
+      "status": "reviewable"
+    },
+    {
+      "checked_at": "2026-08-23T01:19:59.093122+00:00",
+      "content_sha256": "5001a91af6e471ad91f5f564ed3b5672e1debae9b2658368911c9034079ed4c0",
+      "content_type": "text/html",
+      "detected_document_ids": [
+        "MM1339",
+        "MM1340",
+        "MM1341",
+        "MMInC1S930"
+      ],
+      "device_id": "intracranial-stent--microvention--lvis",
+      "http_status": 200,
+      "identity_match": true,
+      "official_url": "https://www.terumoneuro.com/products/lvis-family",
+      "source_id": "official:terumo:lvis:product-page:2026-08-22",
+      "status": "reviewable"
+    },
+    {
+      "checked_at": "2026-08-23T01:19:59.579248+00:00",
+      "content_sha256": "2e304b7d7b837cce765fb19e90de62be3f26307215329200d8a48a00e40d78cc",
+      "content_type": "application/pdf",
+      "detected_document_ids": [],
+      "device_id": "intracranial-stent--stryker--neuroform-atlas",
+      "http_status": 200,
+      "identity_match": true,
+      "official_url": "https://www.stryker.com/content/dam/stryker/neurovascular/products/neuroform-atlas-stent-system/resources/Neuroform_Atlas_IFU_US_03-13-2025.pdf",
+      "source_id": "official:stryker:neuroform-atlas:rev-ab-2025",
+      "status": "reviewable"
+    },
+    {
+      "checked_at": "2026-08-23T01:20:00.560975+00:00",
+      "content_sha256": "61a1c0c5b8e9c7fd59fee9f7a11ce43b996e7b04a6003ce12b379418a0494452",
+      "content_type": "text/html",
+      "detected_document_ids": [
+        "IFU100044 Rev. E"
+      ],
+      "device_id": "intrasaccular--microvention--web-embolization",
+      "http_status": 200,
+      "identity_match": true,
+      "official_url": "https://www.terumoneuro.com/products/web-family/additional-information/indication-for-use-and-intended-purpose",
+      "source_id": "official:terumo:web:ifu100044-rev-e",
+      "status": "reviewable"
+    },
+    {
+      "checked_at": "2026-08-23T01:20:01.022396+00:00",
+      "content_sha256": "cca3aa2f19533a0e815f7e3a5782a6752d54f3eb5971fc8a2b3f2d49bf359696",
+      "content_type": "text/html",
+      "detected_document_ids": [],
+      "device_id": "liquid-embolic--medtronic--onyx-les",
+      "error": "Official page rejected the non-browser scanner.",
+      "http_status": 200,
+      "identity_match": false,
+      "official_url": "https://www.medtronic.com/en-us/healthcare-professionals/products/neurological/neurovascular/liquid-embolics/onyx-liquid-embolic-system.html",
+      "source_id": "official:medtronic:onyx-les:product-page:2026-08-22",
+      "status": "blocked"
+    }
+  ],
+  "generated_at": "2026-08-23T01:20:01.268494+00:00",
+  "policy": "official_domains_only_no_automatic_claim_promotion",
+  "schema_version": "2.0.0"
+}
