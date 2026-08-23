@@ -4884,6 +4884,16 @@
       "official_scan_status": "not_watched",
       "source_id": "evt:us-microcatheters-4:2026-08:microcatheter--reflow--spexlp-14-shapeable",
       "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/penumbra--penumbra-system-red-72-silver-label-brochure-2025.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:penumbra:penumbra_brochure_2025:aspiration--penumbra--penumbra-system",
+      "validation_errors": []
     }
   ]
 }

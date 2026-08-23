@@ -9643,6 +9643,26 @@
       "source_type": "trade_journal_device_guide",
       "status": "current",
       "title": "Endovascular Today - US Device Guide - Microcatheters (2026-08 export), row for Reflow Medical, Inc / SpexLP 14 Shapeable"
+    },
+    {
+      "device_id": "aspiration--penumbra--penumbra-system",
+      "document_id": "penumbra_brochure_2025",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Penumbra System",
+          "Penumbra System"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/penumbra--penumbra-system-red-72-silver-label-brochure-2025.pdf",
+      "notes": "Manufacturer product catalog dated 2025; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2025 catalog",
+      "sha256": "57fd2c92bffe45b574da7355ce5911d47f22faf4743bd3d3b04b86ff57a776f8",
+      "source_id": "catalog:penumbra:penumbra_brochure_2025:aspiration--penumbra--penumbra-system",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Penumbra System - RED 72 SILVER LABEL with SENDit Technology brochure (31708 Rev. A 03/25) (2025), Penumbra System table"
     }
   ]
 }

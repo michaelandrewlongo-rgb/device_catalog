@@ -1,0 +1,47 @@
+{
+ "pdf_sha256": "57fd2c92bffe45b574da7355ce5911d47f22faf4743bd3d3b04b86ff57a776f8",
+ "title": "Penumbra System - RED 72 SILVER LABEL with SENDit Technology brochure (31708 Rev. A 03/25)",
+ "catalog_year": "2025",
+ "jurisdiction": "US",
+ "creation_date": "D:20250305133805-08'00'",
+ "pages_with_tables": [
+  4
+ ],
+ "row_count": 24,
+ "families": [
+  {
+   "product_family": "Penumbra System",
+   "section": "ASPIRATION KITS",
+   "pdf_page": 4,
+   "row_count": 9
+  },
+  {
+   "product_family": "Penumbra System",
+   "section": "REPERFUSION CATHETERS",
+   "pdf_page": 4,
+   "row_count": 10
+  },
+  {
+   "product_family": "Penumbra System",
+   "section": "DELIVERY MICROCATHETER",
+   "pdf_page": 4,
+   "row_count": 1
+  },
+  {
+   "product_family": "Penumbra System",
+   "section": "SEPARATOR\u2122 DEVICES",
+   "pdf_page": 4,
+   "row_count": 3
+  },
+  {
+   "product_family": "Penumbra System",
+   "section": "ASPIRATION ACCESSORIES",
+   "pdf_page": 4,
+   "row_count": 2
+  }
+ ],
+ "verification": {
+  "method": "word-position parse checked against user-supplied screenshot of the page",
+  "discrepancies": []
+ }
+}

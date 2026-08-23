@@ -92,6 +92,13 @@ def ingest(name: str, manufacturer: str, pdf_relative: str, catalog_year: str | 
         device_name = family_device_name(family)
         device_id = f"{category}--{manufacturer}--{slugify(device_name)}"
         pages = sorted({r["pdf_page"] for r in frows})
+        printed_by_pdf = {r["pdf_page"]: r.get("printed_page") for r in frows}
+
+        def page_label(pdf_page: int) -> str:
+            printed = printed_by_pdf.get(pdf_page)
+            if printed is None and name.startswith("medtronic_catalog_2019"):
+                printed = pdf_page - 2
+            return f"PDF page {pdf_page}" + (f" (printed page {printed})" if printed is not None else "")
         source_id = f"catalog:{manufacturer}:{name}:{device_id}"
         if source_id not in have_sources:
             new_sources.append({
@@ -145,7 +152,7 @@ def ingest(name: str, manufacturer: str, pdf_relative: str, catalog_year: str | 
             "review_status": "source_checked",
             "review_note": "Extracted by PyMuPDF table read and verified against the page text by an independent agent (every catalog number confirmed on its page).",
             "source_ids": [source_id],
-            "locators": [f"PDF page {p} (printed page {p - 2}), {family} table" for p in pages],
+            "locators": [f"{page_label(p)}, {family} table" for p in pages],
             "checked_at": "2026-08-23",
             "catalog_year": year,
             "jurisdiction": jurisdiction,
