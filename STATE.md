@@ -3,7 +3,15 @@
 I was trying to:
 Land the knowledge v2.1 lane in git and feed it the 15 Endovascular Today device-guide PDFs (2026-08 exports) as discovery-only secondary candidates, so `agent-textbooks` can see EVT sizing rows without ever treating them as labeling.
 
-The last thing I saw (updated 2026-08-23, second pass):
+The last thing I saw (updated 2026-08-23, third pass):
+```
+export -> 639 sources, 873 actionable claims, 269 secondary candidates, rejected=0
+- 483 EVT guide rows (every row independently audited) at trade_journal_device_guide
+- 4 manufacturer catalogs (Medtronic 2019, Stryker 2024, MicroVention 2019 intl, Balt 2020 intl) + Penumbra 2025 spec page: 1,859 SKUs in 181 families at manufacturer_catalog
+- 11 current IFUs registered and identity-checked; 163 official_labeling claims drafted by agents, validated by import_claim_drafts (1 draft rejected on page check)
+All priority-1 wishlist IFUs are now on file (Onyx LES is the 10/13 revision as served; product page cites newer CDOC numbers).
+```
+Earlier (second pass):
 ```
 Spot audit of 20 EVT candidates (5 independent auditors): rows 20/20, fields 121/127; all 6 partials were numbers parsed out of prose cells.
 Fix: classify_cell()/cell_unit() in secondary_candidates.py - numbers only from pure number cells, ranges kept as ranges, in-cell units override headers (73 prose, 10 range cells corpus-wide).

@@ -1,0 +1,123 @@
+[
+  {
+    "claim_id": "claim:flow-diverter--microvention--fred:rx-only:ifu100016-rev-a",
+    "device_id": "flow-diverter--microvention--fred",
+    "claim_type": "regulatory_status",
+    "text": "US labeling states federal (USA) law restricts the FRED System to sale by or on the order of a physician (Rx Only).",
+    "locators": ["PDF page 1"],
+    "source_quote": "Rx Only: Federal (USA) law restricts this device to sale by or on the order of a physician"
+  },
+  {
+    "claim_id": "claim:flow-diverter--microvention--fred:microcatheter-diameter-compatibility:ifu100016-rev-a",
+    "device_id": "flow-diverter--microvention--fred",
+    "claim_type": "compatibility",
+    "text": "US labeling states the FRED System 2.5 mm and 3.0 mm implants are compatible with the Headway 21 Microcatheter (FRED-21 System), and the FRED System 3.5 mm to 5.5 mm implants are compatible with the Headway 27 Microcatheter (FRED-27 System); the FRED-27 system should only be delivered through a Headway 27 microcatheter and the FRED-21 system should only be delivered through a Headway 21 microcatheter.",
+    "locators": ["PDF page 2, Device Description", "PDF page 2, Warnings"],
+    "compatibility_status": "manufacturer_labeled",
+    "source_quote": "FRED-27 system should only be delivered through a Headway 27 microcatheter"
+  },
+  {
+    "claim_id": "claim:flow-diverter--microvention--fred:device-dimensions-table:ifu100016-rev-a",
+    "device_id": "flow-diverter--microvention--fred",
+    "claim_type": "sizing",
+    "text": "US labeling's Table 1 (FRED System Models and Dimensions) lists outer diameters and corresponding total/working lengths: 2.5 mm, total length 13 to 30 mm, working length 8 to 26 mm; 3.0 mm, total 13 to 32 mm, working 9 to 27 mm; 3.5 mm, total lengths 13, 15, 17, 19, 22, 31, 40 mm, working lengths 7, 9, 11, 13, 16, 24, 36 mm; 4.0 mm, total 13, 15, 18, 20, 23, 32, 44 mm, working 7, 9, 12, 14, 17, 26, 38 mm; 4.5 mm, total 15, 17, 20, 25, 31, 34, 45 mm, working 8, 11, 13, 18, 24, 28, 39 mm; 5.0 mm, total 15, 18, 21, 26, 32, 36 mm, working 9, 11, 14, 19, 26, 29 mm; 5.5 mm, total 22, 28, 32 mm, working 14, 19, 26 mm.",
+    "locators": ["PDF page 2, Table 1: FRED System Models and Dimensions"],
+    "source_quote": "5.5   22, 28, 32   14, 19, 26"
+  },
+  {
+    "claim_id": "claim:flow-diverter--microvention--fred:indication:ifu100016-rev-a",
+    "device_id": "flow-diverter--microvention--fred",
+    "claim_type": "indication",
+    "text": "US labeling indicates the FRED System for use in the internal carotid artery from the petrous segment to the terminus for endovascular treatment of adult patients (22 years of age or older) with wide-necked (neck width ≥ 4 mm or dome-to-neck ratio < 2) saccular or fusiform intracranial aneurysms arising from a parent vessel with a diameter ≥ 2.0 mm and ≤ 5.0 mm.",
+    "locators": ["PDF page 2, Indications For Use"],
+    "source_quote": "neck width ≥ 4 mm or dome-to-neck ratio < 2"
+  },
+  {
+    "claim_id": "claim:flow-diverter--microvention--fred:contraindication:ifu100016-rev-a",
+    "device_id": "flow-diverter--microvention--fred",
+    "claim_type": "contraindication",
+    "text": "The IFU contraindicates the FRED System in patients in whom anticoagulant, anti-platelet therapy, or thrombolytic drugs are contraindicated; patients with known hypersensitivity to metal such as nickel-titanium; patients with anatomy that does not permit passage or deployment of the device; patients with an active bacterial infection; patients with a pre-existing stent in place at the target aneurysm; patients in whom the parent vessel size does not fall within the indicated range; and patients who have not received dual anti-platelet agents prior to the procedure.",
+    "locators": ["PDF page 2, Contraindications"],
+    "source_quote": "Patients who have not received dual anti-platelet agents prior to the procedure"
+  },
+  {
+    "claim_id": "claim:flow-diverter--microvention--fred:resheath-redeploy-limit:ifu100016-rev-a",
+    "device_id": "flow-diverter--microvention--fred",
+    "claim_type": "deployment",
+    "text": "US labeling states the FRED System must be retrieved/resheathed into the microcatheter and re-deployed at the desired target location or removed completely from the patient, and must not be re-deployed more than three times; the implant may be recaptured until the distal-most wire marker is aligned approximately 50% of length proximal to the microcatheter distal marker band.",
+    "locators": ["PDF page 2, Warnings", "PDF page 4, Directions for Use items 28, 30"],
+    "source_quote": "must not be re-deployed more than three times"
+  },
+  {
+    "claim_id": "claim:flow-diverter--microvention--fred:no-reposition-after-deployment:ifu100016-rev-a",
+    "device_id": "flow-diverter--microvention--fred",
+    "claim_type": "deployment",
+    "text": "The IFU warns not to reposition the FRED System in the parent vessel without fully retrieving the device, and states not to attempt to re-position the FRED implant after deployment/detachment.",
+    "locators": ["PDF page 2, Warnings"],
+    "source_quote": "Do not attempt to re-position the FRED implant after deployment/detachment"
+  },
+  {
+    "claim_id": "claim:flow-diverter--microvention--fred:foreshortening:ifu100016-rev-a",
+    "device_id": "flow-diverter--microvention--fred",
+    "claim_type": "deployment",
+    "text": "The IFU notes the FRED System implant foreshortens up to 60% as it expands to the diameter of the parent vessel, and instructs the physician to take implant foreshortening into account when sizing and deploying the device.",
+    "locators": ["PDF page 3, Directions for Use, item 6"],
+    "source_quote": "foreshortens (up to 60%) as it expands to the diameter of the parent vessel"
+  },
+  {
+    "claim_id": "claim:flow-diverter--microvention--fred:ruptured-aneurysm-not-established:ifu100016-rev-a",
+    "device_id": "flow-diverter--microvention--fred",
+    "claim_type": "warning",
+    "text": "US labeling states the safety and effectiveness of the FRED System has not been established in the treatment of ruptured intracranial aneurysms.",
+    "locators": ["PDF page 2, Warnings"],
+    "source_quote": "has not been established in the treatment of ruptured intracranial aneurysms"
+  },
+  {
+    "claim_id": "claim:flow-diverter--microvention--fred:fusiform-ia-not-established:ifu100016-rev-a",
+    "device_id": "flow-diverter--microvention--fred",
+    "claim_type": "warning",
+    "text": "The IFU separately states the safety and effectiveness of the device has not been established for treatment of fusiform intracranial aneurysms, notwithstanding that fusiform aneurysms are listed among the treatable morphologies in the Indications for Use.",
+    "locators": ["PDF page 3, Precautions"],
+    "source_quote": "has not been established for treatment of fusiform IAs"
+  },
+  {
+    "claim_id": "claim:flow-diverter--microvention--fred:c7-segment-occlusion-outcome:ifu100016-rev-a",
+    "device_id": "flow-diverter--microvention--fred",
+    "claim_type": "warning",
+    "text": "US labeling warns that a slight decrease in the proportion of patients achieving complete aneurysm occlusion without significant parent artery stenosis was observed with device use in the communicating segment (C7) of the ICA (52.6%, 10/19 subjects in the FRED IDE study at 1 year), and recommends weighing benefits and risks of alternative treatments before treating C7 aneurysms with retrograde-filling risk factors such as a fetal-origin posterior communicating artery.",
+    "locators": ["PDF page 2, Warnings"],
+    "source_quote": "52.6% (10/19) subjects in the FRED IDE study at 1 year"
+  },
+  {
+    "claim_id": "claim:flow-diverter--microvention--fred:multiple-implants-delayed-rupture:ifu100016-rev-a",
+    "device_id": "flow-diverter--microvention--fred",
+    "claim_type": "warning",
+    "text": "The IFU warns that placement of multiple FRED implants may increase the risk of ischemic complications, and that delayed rupture may occur with large and giant intracranial aneurysms.",
+    "locators": ["PDF page 2, Warnings"],
+    "source_quote": "Placement of multiple implants may increase the risk of ischemic complications"
+  },
+  {
+    "claim_id": "claim:flow-diverter--microvention--fred:mr-conditional-parameters:ifu100016-rev-a",
+    "device_id": "flow-diverter--microvention--fred",
+    "claim_type": "mri",
+    "text": "US labeling states the FRED System is MR Conditional: a patient can be safely scanned at a static magnetic field of 1.5-Tesla and 3-Tesla only, maximum spatial gradient magnetic field of 2,500 gauss/cm (25 T/m), and maximum whole-body-averaged SAR of 2 W/kg for 15 minutes of scanning (per pulse sequence) in Normal Operating Mode, producing an expected maximum temperature rise of 2.8°C at 1.5-Tesla or 3.6°C at 3-Tesla after 15 minutes of continuous scanning; image artifact extends approximately 4 mm from the device on 3-Tesla gradient echo imaging.",
+    "locators": ["PDF page 3, MR Environment"],
+    "source_quote": "maximum temperature rise of 2.8 °C at 1.5-Tesla or 3.6 °C at 3-Tesla"
+  },
+  {
+    "claim_id": "claim:flow-diverter--microvention--fred:no-torque-guidewire-use:ifu100016-rev-a",
+    "device_id": "flow-diverter--microvention--fred",
+    "claim_type": "deployment",
+    "text": "The IFU states the FRED System delivery wire should not be utilized as a guidewire, that the device should not be torqued, and that a torque device should not be used.",
+    "locators": ["PDF page 2, Warnings", "PDF page 4, item 36"],
+    "source_quote": "delivery wire should not be utilized as a guidewire"
+  },
+  {
+    "claim_id": "claim:flow-diverter--microvention--fred:single-use-sterilization:ifu100016-rev-a",
+    "device_id": "flow-diverter--microvention--fred",
+    "claim_type": "warning",
+    "text": "US labeling states the FRED System is provided sterile for single use only and must not be reused, reprocessed, or resterilized; it is sterilized with E-Beam irradiation.",
+    "locators": ["PDF page 2, Warnings", "PDF page 7, How Supplied"],
+    "source_quote": "sterilized with E-Beam irradiation"
+  }
+]

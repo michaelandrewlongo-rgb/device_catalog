@@ -1,0 +1,124 @@
+[
+  {
+    "claim_id": "claim:intrasaccular--microvention--web-embolization:indication:ifu100044-rev-e",
+    "device_id": "intrasaccular--microvention--web-embolization",
+    "claim_type": "indication",
+    "text": "US labeling indicates the WEB Aneurysm Embolization System for endovascular treatment of adult patients with saccular, wide neck bifurcation intracranial aneurysms at the middle cerebral artery (MCA) bifurcation, internal carotid artery (ICA) terminus, anterior communicating artery (AComm) complex, or basilar artery apex, with dome diameter from 3 mm to 10 mm and either neck size 4 mm or greater, or a dome-to-neck ratio greater than 1 and less than 2.",
+    "locators": ["PDF page 2, Indications For Use"],
+    "source_quote": "either neck size 4 mm or greater or the dome-to-neck ratio is greater than 1 and less than 2"
+  },
+  {
+    "claim_id": "claim:intrasaccular--microvention--web-embolization:contraindication:ifu100044-rev-e",
+    "device_id": "intrasaccular--microvention--web-embolization",
+    "claim_type": "contraindication",
+    "text": "The IFU contraindicates the WEB embolization device in patients with known active bacterial infection that may interfere with or negatively affect the implantation procedure, and in patients with known hypersensitivity to nickel.",
+    "locators": ["PDF page 2, Contraindications"],
+    "source_quote": "Patients with known hypersensitivity to nickel"
+  },
+  {
+    "claim_id": "claim:intrasaccular--microvention--web-embolization:microcatheter-sizing-table:ifu100044-rev-e",
+    "device_id": "intrasaccular--microvention--web-embolization",
+    "claim_type": "compatibility",
+    "text": "US labeling's Table 1 specifies the minimum microcatheter inner diameter and recommended VIA microcatheter for each WEB device diameter range: W5-WEB Single 4-7 mm requires 0.017 in ID (VIA 17); W4-WEB Single 4-7 mm requires 0.021 in ID (VIA 21); W2-WEB Single 8-9 mm requires 0.027 in ID (VIA 27); W2-WEB Single 10-11 mm requires 0.033 in ID (VIA 33).",
+    "locators": ["PDF page 2, Table 1 Microcatheter Sizes"],
+    "compatibility_status": "manufacturer_labeled",
+    "source_quote": "W2 - WEB Single 10 – 11 mm 0.033 VIA 33"
+  },
+  {
+    "claim_id": "claim:intrasaccular--microvention--web-embolization:device-oversizing-measurement:ifu100044-rev-e",
+    "device_id": "intrasaccular--microvention--web-embolization",
+    "claim_type": "sizing",
+    "text": "The IFU instructs measuring the aneurysm neck, average diameter, and height in two orthogonal 2D-angiographic projections, then choosing the WEB device using the average width and smallest height measurements: the correct WEB size is approximately 1 mm larger than the average aneurysm diameter and approximately 1 mm smaller than the smallest aneurysm height.",
+    "locators": ["PDF page 12, WEB Embolization Device Size Selection"],
+    "source_quote": "approximately 1 mm larger than the average aneurysm diameter and approximately 1 mm smaller than the smallest aneurysm height"
+  },
+  {
+    "claim_id": "claim:intrasaccular--microvention--web-embolization:sl-sls-shape-selection:ifu100044-rev-e",
+    "device_id": "intrasaccular--microvention--web-embolization",
+    "claim_type": "sizing",
+    "text": "US labeling directs WEB shape selection by the average aneurysm diameter-to-average aneurysm neck ratio: the WEB SL shape fits aneurysms with a 1-to-1 through 1.5-to-1 ratio, and the WEB SLS shape fits aneurysms with a 1.5-to-1 to 2-to-1 ratio.",
+    "locators": ["PDF page 12, WEB Embolization Device Size Selection, item 10"],
+    "source_quote": "SL shape fits 1-to-1 thru 1.5-to-1 ratio aneurysms and the SLS shape fits 1.5-to-1 to 2-to-1 ratio aneurysms"
+  },
+  {
+    "claim_id": "claim:intrasaccular--microvention--web-embolization:resheath-redeploy-limit:ifu100044-rev-e",
+    "device_id": "intrasaccular--microvention--web-embolization",
+    "claim_type": "deployment",
+    "text": "The IFU states the WEB embolization device should not be retracted and deployed more than twice; after two attempts, the device must be removed and replaced with another WEB device of the same or alternate size, because thrombus can prevent full deployment and recapture and residence beyond the activated clotting time (ACT) is not permitted for an inappropriately sized or non-optimally positioned device.",
+    "locators": ["PDF page 12, Introduction and Deployment of the WEB Embolization Device"],
+    "source_quote": "should not be retracted and deployed more than twice"
+  },
+  {
+    "claim_id": "claim:intrasaccular--microvention--web-embolization:detachment-power-source:ifu100044-rev-e",
+    "device_id": "intrasaccular--microvention--web-embolization",
+    "claim_type": "deployment",
+    "text": "US labeling warns the WEB embolization device cannot be detached with any power source other than a WEB detachment control device, and instructs that at least two WEB detachment control devices be available before initiating an embolization procedure.",
+    "locators": ["PDF page 2, Warnings"],
+    "source_quote": "Ensure that at least two WEB detachment control devices are available before initiating an embolization procedure"
+  },
+  {
+    "claim_id": "claim:intrasaccular--microvention--web-embolization:foreshortening:ifu100044-rev-e",
+    "device_id": "intrasaccular--microvention--web-embolization",
+    "claim_type": "deployment",
+    "text": "The IFU notes the WEB embolization device foreshortens approximately 60% during delivery; for example, an 11 mm x 9 mm device measures approximately 20 mm in length when contained within a 0.032-0.038 inch delivery microcatheter.",
+    "locators": ["PDF page 3, Precautions"],
+    "source_quote": "a 11mm x 9mm device will measure ~20mm in length when contained within a 0.032\"-0.038\" delivery microcatheter"
+  },
+  {
+    "claim_id": "claim:intrasaccular--microvention--web-embolization:ruptured-previously-treated-not-established:ifu100044-rev-e",
+    "device_id": "intrasaccular--microvention--web-embolization",
+    "claim_type": "warning",
+    "text": "US labeling states the safety and effectiveness of the WEB embolization device have not been established for ruptured intracranial aneurysms, and have not been evaluated or established in intracranial aneurysms that were previously treated.",
+    "locators": ["PDF page 2, Warnings"],
+    "source_quote": "has not been established for ruptured intracranial aneurysms"
+  },
+  {
+    "claim_id": "claim:intrasaccular--microvention--web-embolization:anticoagulant-coagulopathy-act-antiplatelet:ifu100044-rev-e",
+    "device_id": "intrasaccular--microvention--web-embolization",
+    "claim_type": "periprocedural",
+    "text": "The IFU states safety and effectiveness have not been established for patients taking anticoagulants or with a known blood dyscrasia, coagulopathy, or hemoglobinopathy, and that the status of a patient's anti-platelet medication regimen should be considered when deciding whether to remove the WEB device from the aneurysm beyond the activated clotting time (ACT) for replacement.",
+    "locators": ["PDF page 2, Warnings"],
+    "source_quote": "beyond the activated clotting time (ACT)"
+  },
+  {
+    "claim_id": "claim:intrasaccular--microvention--web-embolization:ptfe-microcatheter-requirement:ifu100044-rev-e",
+    "device_id": "intrasaccular--microvention--web-embolization",
+    "claim_type": "compatibility",
+    "text": "US labeling requires the WEB embolization device be delivered only through a compatible microcatheter with a PTFE inner surface coating; use of an incompatible microcatheter may damage the device and delivery system and necessitate removal of both from the patient.",
+    "locators": ["PDF page 2, Warnings"],
+    "compatibility_status": "manufacturer_labeled",
+    "source_quote": "delivered only through a compatible microcatheter with a PTFE inner surface coating"
+  },
+  {
+    "claim_id": "claim:intrasaccular--microvention--web-embolization:rx-only:ifu100044-rev-e",
+    "device_id": "intrasaccular--microvention--web-embolization",
+    "claim_type": "regulatory_status",
+    "text": "US labeling states federal (USA) law restricts the WEB Aneurysm Embolization System to sale by or on the order of a physician.",
+    "locators": ["PDF page 2"],
+    "source_quote": "Federal (USA) law restricts this device to sale by or on the order of a physician"
+  },
+  {
+    "claim_id": "claim:intrasaccular--microvention--web-embolization:neck-placement-marker-alignment:ifu100044-rev-e",
+    "device_id": "intrasaccular--microvention--web-embolization",
+    "claim_type": "deployment",
+    "text": "The IFU instructs that angiographic assessment be performed prior to detachment to ensure the device is not markedly protruding into the parent vessel, and that the WEB embolization device be placed with the proximal surface (center of proximal marker) aligned with the aneurysm neck and the proximal marker extending beyond the neck.",
+    "locators": ["PDF page 12, Detachment of the WEB Embolization Device, items 29-30"],
+    "source_quote": "proximal marker extending beyond the neck"
+  },
+  {
+    "claim_id": "claim:intrasaccular--microvention--web-embolization:mr-conditional-parameters:ifu100044-rev-e",
+    "device_id": "intrasaccular--microvention--web-embolization",
+    "claim_type": "mri",
+    "text": "US labeling states the WEB Aneurysm Embolization Device is MR Conditional: it can be scanned safely at a static magnetic field of 3 Tesla or less, maximum spatial gradient field of 4,000 Gauss/cm (40 T/m), and maximum whole-body-averaged SAR of 2.0 W/kg for 15 minutes of scanning (per pulse sequence) in Normal Operating Mode, producing an expected maximum temperature rise of +1.4°C after 15 minutes of continuous scanning; image artifact extends approximately 5 mm from the implant on a 3-Tesla gradient echo sequence.",
+    "locators": ["PDF page 13, MRI Safety Information"],
+    "source_quote": "maximum temperature rise of +1.4° C after 15 minutes of continuous scanning"
+  },
+  {
+    "claim_id": "claim:intrasaccular--microvention--web-embolization:mra-artifact-dsa-cta-followup:ifu100044-rev-e",
+    "device_id": "intrasaccular--microvention--web-embolization",
+    "claim_type": "warning",
+    "text": "The IFU warns the WEB embolization device may create local field inhomogeneity and susceptibility artifacts on MRA that can degrade diagnostic quality, and instructs using only DSA or CTA (not MRA) to assess intracranial aneurysm occlusion at patient follow-up.",
+    "locators": ["PDF page 3, Precautions", "PDF page 13, MRI Safety Information"],
+    "source_quote": "PLEASE ONLY USE DIGITAL SUBTRACTION ANGIOGRAPHY (DSA) OR COMPUTED TOMOGRAPHY ANGIOGRAPHY (CTA)"
+  }
+]
