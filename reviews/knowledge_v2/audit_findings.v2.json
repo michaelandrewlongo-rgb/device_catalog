@@ -859,6 +859,1546 @@
       "configured_status": "current",
       "extraction_error": null,
       "identity_failures": [],
+      "local_filename": "sources/official/current/penumbra--penumbra-system-red-72-silver-label-brochure-2025.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:penumbra:penumbra_brochure_2025:aspiration--penumbra--penumbra-system",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:guidewire--stryker--synchro2-guidewires",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:guidewire--stryker--synchro-select-guidewires",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:guidewire--stryker--synchro-10-guidewires",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:guidewire--stryker--synchro-14-guidewires",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:guidewire--stryker--transend-ex-guidewires",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:guidewire--stryker--transend-010-guidewire",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:guidewire--stryker--transend-300-guidewires",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:microcatheter--stryker--excelsior-sl-10-microcatheters",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:microcatheter--stryker--excelsior-xt-17-microcatheters",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:microcatheter--stryker--excelsior-1018-microcatheters",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:microcatheter--stryker--excelsior-xt-27-microcatheters",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:microcatheter--stryker--neuro-renegade-hi-flo-microcatheter",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:access-devices--stryker--guider-softip-xf-guide-catheters-100cm",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:access-devices--stryker--guider-softip-xf-guide-catheters-90cm",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:distal-access--stryker--axs-catalyst-distal-access-catheters",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:access-devices--stryker--axs-offset-delivery-assist-catheter",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:access-devices--stryker--axs-infinity-ls-long-sheaths",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:access-devices--stryker--axs-infinity-ls-plus-long-sheaths",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:balloon-catheter--stryker--flowgate2-balloon-guide-catheters",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:balloon-catheter--stryker--merci-balloon-guide-catheters",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-tetra-detachable-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-360-nano-detachable-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-360-ultra-detachable-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-360-soft-detachable-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-360-standard-detachable-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-xl-360-soft-detachable-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-xl-360-standard-detachable-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-3d-detachable-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-xxl-360-detachable-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-helical-nano-detachable-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-helical-ultra-detachable-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-xl-helical-detachable-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:hemorrhagic-devices--stryker--contour-neurovascular-system",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:flow-diverter--stryker--neqstent-coil-assisted-flow-diverters",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:hemorrhagic-devices--stryker--trenza-embolization-devices",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:hemorrhagic-devices--stryker--inzone-detachment-system",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:hemorrhagic-devices--stryker--e-moji-detachment-system",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:flow-diverter--stryker--surpass-evolve-flow-diverters",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:intracranial-stent--stryker--neuroform-atlas-stent-system",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:balloon-catheter--stryker--transform-compliant-occlusion-balloon-catheters",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:balloon-catheter--stryker--transform-super-compliant-occlusion-balloon-catheters",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:ischemic-devices--stryker--trevo-nxt-provue-retrievers",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:ischemic-devices--stryker--trevo-nxt-provue-retriever-2-pack-kits",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:ischemic-devices--stryker--trevo-nxt-stroke-fast-pack-3-pack-kits",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:ischemic-devices--stryker--trevo-xp-provue-retrievers",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:ischemic-devices--stryker--trevo-xp-provue-retriever-2-pack-kits",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:ischemic-devices--stryker--trevo-xp-stroke-fast-pack-2-pack-kits",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:ischemic-devices--stryker--trevo-xp-stroke-fast-pack-3-pack-kits",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:microcatheter--stryker--trevo-trak-21-microcatheter",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:microcatheter--stryker--trevo-pro-18-microcatheter",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:aspiration--stryker--axs-vecta-aspiration-catheters",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:aspiration--stryker--axs-vecta-aspiration-catheters-axs-universal-aspiration-tubing",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:distal-access--stryker--axs-catalyst-distal-access-catheters-axs-universal-aspiration-tubing",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:ischemic-devices--stryker--medela-dominant-flex-suction-pump",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:ischemic-devices--stryker--medela-dominant-flex-accessories",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:intracranial-stent--stryker--wingspan-stent-system",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:balloon-catheter--stryker--gateway-pta-balloon-catheters",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/balloon-catheter--microvention--scepter-mini--ifu.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "ifu:microvention:scepter-mini:pd111516-rev-h-2023",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/balloon-catheter--microvention--scepter-c-xc--ifu.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "ifu:microvention:scepter-c-xc:ifu100266",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/distal-access--microvention--sofia--ifu.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "ifu:microvention:sofia:ifu100279-rev-c",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/intracranial-stent--microvention--lvis--ifu.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "ifu:microvention:lvis-lvis-jr:ifu100003-rev-c-2021",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stent-retriever--medtronic--solitaire-x--ifu.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "ifu:medtronic:solitaire-x:current-2025",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/flow-diverter--medtronic--pipeline-flex-shield--ifu.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "ifu:medtronic:pipeline-flex-shield:current-2025",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/flow-diverter--medtronic--pipeline-vantage-shield--ifu.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "ifu:medtronic:pipeline-vantage-shield:current-2025",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/liquid-embolic--medtronic--onyx-les--ifu.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "ifu:medtronic:onyx-les:70862-001-rev-10-13",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/intrasaccular--microvention--web-embolization--ifu.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "ifu:microvention:web:ifu100044-rev-e-2024",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/flow-diverter--microvention--fred--ifu.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "ifu:microvention:fred:ifu100016-rev-a-2020",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/flow-diverter--medtronic--pipeline-flex-shield--in-service.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "inservice:medtronic:pipeline-flex-shield:us-neu-2400007-fy25",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microcatheter--microvention--wedge-21--ifu-screens/wedge-1.png",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "ifu:microvention:wedge-21:ifu100342-rev-b-2023-screens",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:access-treatment--balt--introducer-sheath-long-ballast",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:access-treatment--balt--introducer-sheath-long-iva",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:access-treatment--balt--guiding-catheter",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:microcatheter--balt--microcatheter-vasco",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:microcatheter--balt--microcatheter-gama",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:guidewire--balt--guidewire-hybrid",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:embolic-coil--balt--embolization-coil-system-barricade",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:embolic-coil--balt--embolization-coil-system-optima",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:balloon-catheter--balt--occlusion-catheters-with-balloon",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:aneurysm-treatment--balt--temporary-occlusion-catheters",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:intracranial-stent--balt--intracranial-self-expandable-stent",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:flow-diverter--balt--intracranial-self-expandable-flow-diverter-silk-vista-baby",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:flow-diverter--balt--intracranial-self-expandable-flow-diverter-silk",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:flow-diverter--balt--intracranial-self-expandable-flow-diverter-tapered-silk",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:microcatheter--balt--progressive-suppleness-microcatheter-magic",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:microcatheter--balt--progressive-suppleness-microcatheter-baltacci",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:microcatheter--balt--detachable-tip-microcatheter-sonic",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:balloon-catheter--balt--venous-remodelling-balloon-copernic-rc",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:balloon-catheter--balt--detachable-balloon-goldballoon",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:avm-treatment--balt--catheters-for-detachable-balloons-magic",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:avm-treatment--balt--catheters-for-detachable-balloons-baltacci",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:liquid-embolic--balt--liquid-embolic-agent-magic-glue",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:liquid-embolic--balt--liquid-embolic-agent-squid",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:embolic-coil--balt--free-spirale-flow-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:avm-treatment--balt--opacifying-powder-tantalum",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:stroke-treatment--balt--catheter-system-titan-070",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:stroke-treatment--balt--catheter-system-titan-kit",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:stroke-treatment--balt--catheter-system-titan-036",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:stent-retriever--balt--stent-retriever-system-catchview",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:stent-retriever--balt--stent-retriever-system-catch",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:cardiovascular-and-peripheral-vascular-treatment--balt--angiographic-catheter",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:cardiovascular-and-peripheral-vascular-treatment--balt--embolic-liquid-squid-peri",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:embolic-coil--balt--free-coil",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:balloon-catheter--balt--valvuloplasty-catheter-cristal-balloon",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:balloon-catheter--balt--angioplasty-catheter-cristal-balloon",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:cardiovascular-and-peripheral-vascular-treatment--balt--opacifying-powder-tungsten",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:balt:balt_catalog_2020_intl:others--balt--accessory-stopcocks",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:embolic-coil--microvention--cosmos-10-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:embolic-coil--microvention--cosmos-18-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:embolic-coil--microvention--hypersoft-3d-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:embolic-coil--microvention--hypersoft-helical-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:embolic-coil--microvention--hydroframe-10-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:embolic-coil--microvention--hydrosoft-3d-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:embolic-coil--microvention--hydroframe-18-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:embolic-coil--microvention--hydrosoft-helical-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:embolic-coil--microvention--hydrofill-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:embolic-coil--microvention--vfc-versatile-range-fill-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:embolic-coil--microvention--complex-10-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:embolic-coil--microvention--complex-18-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:embolic-coil--microvention--helical-10-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:embolic-coil--microvention--helical-18-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:delivery-and-detachment-systems--microvention--v-grip-detachment-controller",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:delivery-and-detachment-systems--microvention--web-detachment-controller",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:intrasaccular-flow-disruptor--microvention--web-sl-device",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:intrasaccular-flow-disruptor--microvention--web-sls-device",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:access-devices--microvention--sofia-catheter",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:access-devices--microvention--sofia-plus-catheter",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:access-devices--microvention--chaperon-guiding-catheter-single",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:access-devices--microvention--chaperon-guiding-catheter-system",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:balloon-catheter--microvention--scepter-c-occlusion-balloon-catheter",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:balloon-catheter--microvention--scepter-xc-occlusion-balloon-catheter",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:microcatheter--microvention--headway-microcatheter",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:microcatheter--microvention--headway-microcatheter-with-duo-technology",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:microcatheter--microvention--via-microcatheter",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:microcatheter--microvention--wedge-microcatheter",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:guidewire--microvention--traxcess-guidewire-and-docking-wire",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:intraluminal-devices--microvention--lvis-intraluminal-support-device",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:intraluminal-devices--microvention--lvis-jr-intraluminal-support-device",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:intraluminal-devices--microvention--fred-system",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:intraluminal-devices--microvention--fred-jr-system",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:aspiration--microvention--sofia-plus-aspiration-catheter",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:ischemic-stroke-devices--microvention--eric-retrieval-device",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:microcatheter--microvention--wedge-microcatheter-detailed-specifications",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:aspiration--microvention--gomco-405-aspiration-pump",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:ischemic-stroke-devices--microvention--canister-accessory-kit",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:ischemic-stroke-devices--microvention--tubing-kit",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:ischemic-stroke-devices--microvention--syringe-kit",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:intracranial-stent--microvention--casper-rx-carotid-artery-stent",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:intracranial-stent--microvention--empro-embolic-protection-system",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:liquid-embolic--microvention--phil-liquid-embolic-system",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:microcatheter--microvention--phil-microcatheter-compatibility",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/qapel--product-page-screens/walrus-qapel.png",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "qapel:product-page:walrus:2026-08-screens",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/qapel--product-page-screens/armadillo-qapel.png",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "qapel:product-page:armadillo:2026-08-screens",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/qapel--product-page-screens/zebra2-qapel.png",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "qapel:product-page:zebra:2026-08-screens",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
       "local_filename": "sources/trade_journal/endovascular-today/2026-08/EVT-EUROPEAN-microcatheters-1.pdf",
       "observed_status": "current",
       "official_scan_status": "not_watched",
@@ -3482,6 +5022,16 @@
       "local_filename": "sources/trade_journal/endovascular-today/2026-08/EVT-US-mechanical-thrombectomythrombolysis-neurovascular.pdf",
       "observed_status": "current",
       "official_scan_status": "not_watched",
+      "source_id": "evt:us-mechanical-thrombectomythrombolysis-neurovascular:2026-08:thrombectomy--medtronic--solitaire-2-and-solitaire-platinum",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/trade_journal/endovascular-today/2026-08/EVT-US-mechanical-thrombectomythrombolysis-neurovascular.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
       "source_id": "evt:us-mechanical-thrombectomythrombolysis-neurovascular:2026-08:thrombectomy--medtronic--solitaire-x-revascularization",
       "validation_errors": []
     },
@@ -3569,6 +5119,16 @@
       "configured_status": "current",
       "extraction_error": null,
       "identity_failures": [],
+      "local_filename": "sources/trade_journal/endovascular-today/2026-08/EVT-US-mechanical-thrombectomythrombolysis-neurovascular.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "evt:us-mechanical-thrombectomythrombolysis-neurovascular:2026-08:thrombectomy--stryker--trevo-xp",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
       "local_filename": "sources/trade_journal/endovascular-today/2026-08/EVT-US-mechanical-thrombectomythrombolysis.pdf",
       "observed_status": "current",
       "official_scan_status": "not_watched",
@@ -3623,6 +5183,16 @@
       "observed_status": "current",
       "official_scan_status": "not_watched",
       "source_id": "evt:us-mechanical-thrombectomythrombolysis:2026-08:thrombectomy--boston-scientific--angiojet-avx-thrombectomy-catheter",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/trade_journal/endovascular-today/2026-08/EVT-US-mechanical-thrombectomythrombolysis.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "evt:us-mechanical-thrombectomythrombolysis:2026-08:thrombectomy--cook--multi-sideport-catheter",
       "validation_errors": []
     },
     {
@@ -3773,6 +5343,16 @@
       "observed_status": "current",
       "official_scan_status": "not_watched",
       "source_id": "evt:us-microcatheters-4:2026-08:microcatheter--boston-scientific--direxion-fathom-16-system-preloaded-torqueable-microcatheter",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/trade_journal/endovascular-today/2026-08/EVT-US-microcatheters-4.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "evt:us-microcatheters-4:2026-08:microcatheter--boston-scientific--direxion-hi-flo",
       "validation_errors": []
     },
     {
@@ -4173,6 +5753,16 @@
       "observed_status": "current",
       "official_scan_status": "not_watched",
       "source_id": "evt:us-microcatheters-4:2026-08:microcatheter--reflow--spex35-shapeable-support-microcatheter",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/trade_journal/endovascular-today/2026-08/EVT-US-microcatheters-4.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "evt:us-microcatheters-4:2026-08:microcatheter--reflow--spexlp-14-shapeable",
       "validation_errors": []
     },
     {
@@ -4833,1596 +6423,6 @@
       "observed_status": "current",
       "official_scan_status": "not_watched",
       "source_id": "evt:us-specialty-balloons-neuro:2026-08:balloon-catheter--medtronic--hyperglide-occlusion-balloon-system",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/trade_journal/endovascular-today/2026-08/EVT-US-mechanical-thrombectomythrombolysis-neurovascular.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "evt:us-mechanical-thrombectomythrombolysis-neurovascular:2026-08:thrombectomy--medtronic--solitaire-2-and-solitaire-platinum",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/trade_journal/endovascular-today/2026-08/EVT-US-mechanical-thrombectomythrombolysis-neurovascular.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "evt:us-mechanical-thrombectomythrombolysis-neurovascular:2026-08:thrombectomy--stryker--trevo-xp",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/trade_journal/endovascular-today/2026-08/EVT-US-mechanical-thrombectomythrombolysis.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "evt:us-mechanical-thrombectomythrombolysis:2026-08:thrombectomy--cook--multi-sideport-catheter",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/trade_journal/endovascular-today/2026-08/EVT-US-microcatheters-4.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "evt:us-microcatheters-4:2026-08:microcatheter--boston-scientific--direxion-hi-flo",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/trade_journal/endovascular-today/2026-08/EVT-US-microcatheters-4.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "evt:us-microcatheters-4:2026-08:microcatheter--reflow--spexlp-14-shapeable",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/penumbra--penumbra-system-red-72-silver-label-brochure-2025.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:penumbra:penumbra_brochure_2025:aspiration--penumbra--penumbra-system",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:guidewire--stryker--synchro2-guidewires",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:guidewire--stryker--synchro-select-guidewires",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:guidewire--stryker--synchro-10-guidewires",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:guidewire--stryker--synchro-14-guidewires",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:guidewire--stryker--transend-ex-guidewires",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:guidewire--stryker--transend-010-guidewire",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:guidewire--stryker--transend-300-guidewires",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:microcatheter--stryker--excelsior-sl-10-microcatheters",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:microcatheter--stryker--excelsior-xt-17-microcatheters",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:microcatheter--stryker--excelsior-1018-microcatheters",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:microcatheter--stryker--excelsior-xt-27-microcatheters",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:microcatheter--stryker--neuro-renegade-hi-flo-microcatheter",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:access-devices--stryker--guider-softip-xf-guide-catheters-100cm",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:access-devices--stryker--guider-softip-xf-guide-catheters-90cm",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:distal-access--stryker--axs-catalyst-distal-access-catheters",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:access-devices--stryker--axs-offset-delivery-assist-catheter",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:access-devices--stryker--axs-infinity-ls-long-sheaths",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:access-devices--stryker--axs-infinity-ls-plus-long-sheaths",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:balloon-catheter--stryker--flowgate2-balloon-guide-catheters",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:balloon-catheter--stryker--merci-balloon-guide-catheters",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-tetra-detachable-coils",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-360-nano-detachable-coils",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-360-ultra-detachable-coils",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-360-soft-detachable-coils",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-360-standard-detachable-coils",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-xl-360-soft-detachable-coils",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-xl-360-standard-detachable-coils",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-3d-detachable-coils",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-xxl-360-detachable-coils",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-helical-nano-detachable-coils",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-helical-ultra-detachable-coils",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-xl-helical-detachable-coils",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:hemorrhagic-devices--stryker--contour-neurovascular-system",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:flow-diverter--stryker--neqstent-coil-assisted-flow-diverters",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:hemorrhagic-devices--stryker--trenza-embolization-devices",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:hemorrhagic-devices--stryker--inzone-detachment-system",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:hemorrhagic-devices--stryker--e-moji-detachment-system",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:flow-diverter--stryker--surpass-evolve-flow-diverters",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:intracranial-stent--stryker--neuroform-atlas-stent-system",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:balloon-catheter--stryker--transform-compliant-occlusion-balloon-catheters",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:balloon-catheter--stryker--transform-super-compliant-occlusion-balloon-catheters",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:ischemic-devices--stryker--trevo-nxt-provue-retrievers",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:ischemic-devices--stryker--trevo-nxt-provue-retriever-2-pack-kits",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:ischemic-devices--stryker--trevo-nxt-stroke-fast-pack-3-pack-kits",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:ischemic-devices--stryker--trevo-xp-provue-retrievers",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:ischemic-devices--stryker--trevo-xp-provue-retriever-2-pack-kits",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:ischemic-devices--stryker--trevo-xp-stroke-fast-pack-2-pack-kits",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:ischemic-devices--stryker--trevo-xp-stroke-fast-pack-3-pack-kits",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:microcatheter--stryker--trevo-trak-21-microcatheter",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:microcatheter--stryker--trevo-pro-18-microcatheter",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:aspiration--stryker--axs-vecta-aspiration-catheters",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:aspiration--stryker--axs-vecta-aspiration-catheters-axs-universal-aspiration-tubing",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:distal-access--stryker--axs-catalyst-distal-access-catheters-axs-universal-aspiration-tubing",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:ischemic-devices--stryker--medela-dominant-flex-suction-pump",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:ischemic-devices--stryker--medela-dominant-flex-accessories",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:intracranial-stent--stryker--wingspan-stent-system",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:stryker:stryker_catalog_2024:balloon-catheter--stryker--gateway-pta-balloon-catheters",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/balloon-catheter--microvention--scepter-mini--ifu.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "ifu:microvention:scepter-mini:pd111516-rev-h-2023",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/balloon-catheter--microvention--scepter-c-xc--ifu.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "ifu:microvention:scepter-c-xc:ifu100266",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/distal-access--microvention--sofia--ifu.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "ifu:microvention:sofia:ifu100279-rev-c",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/intracranial-stent--microvention--lvis--ifu.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "ifu:microvention:lvis-lvis-jr:ifu100003-rev-c-2021",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/stent-retriever--medtronic--solitaire-x--ifu.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "ifu:medtronic:solitaire-x:current-2025",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/flow-diverter--medtronic--pipeline-flex-shield--ifu.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "ifu:medtronic:pipeline-flex-shield:current-2025",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/flow-diverter--medtronic--pipeline-vantage-shield--ifu.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "ifu:medtronic:pipeline-vantage-shield:current-2025",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/liquid-embolic--medtronic--onyx-les--ifu.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "ifu:medtronic:onyx-les:70862-001-rev-10-13",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/intrasaccular--microvention--web-embolization--ifu.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "ifu:microvention:web:ifu100044-rev-e-2024",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/flow-diverter--microvention--fred--ifu.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "ifu:microvention:fred:ifu100016-rev-a-2020",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/flow-diverter--medtronic--pipeline-flex-shield--in-service.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "inservice:medtronic:pipeline-flex-shield:us-neu-2400007-fy25",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microcatheter--microvention--wedge-21--ifu-screens/wedge-1.png",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "ifu:microvention:wedge-21:ifu100342-rev-b-2023-screens",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:balt:balt_catalog_2020_intl:access-treatment--balt--introducer-sheath-long-ballast",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:balt:balt_catalog_2020_intl:access-treatment--balt--introducer-sheath-long-iva",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:balt:balt_catalog_2020_intl:access-treatment--balt--guiding-catheter",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:balt:balt_catalog_2020_intl:microcatheter--balt--microcatheter-vasco",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:balt:balt_catalog_2020_intl:microcatheter--balt--microcatheter-gama",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:balt:balt_catalog_2020_intl:guidewire--balt--guidewire-hybrid",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:balt:balt_catalog_2020_intl:embolic-coil--balt--embolization-coil-system-barricade",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:balt:balt_catalog_2020_intl:embolic-coil--balt--embolization-coil-system-optima",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:balt:balt_catalog_2020_intl:balloon-catheter--balt--occlusion-catheters-with-balloon",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:balt:balt_catalog_2020_intl:aneurysm-treatment--balt--temporary-occlusion-catheters",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:balt:balt_catalog_2020_intl:intracranial-stent--balt--intracranial-self-expandable-stent",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:balt:balt_catalog_2020_intl:flow-diverter--balt--intracranial-self-expandable-flow-diverter-silk-vista-baby",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:balt:balt_catalog_2020_intl:flow-diverter--balt--intracranial-self-expandable-flow-diverter-silk",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:balt:balt_catalog_2020_intl:flow-diverter--balt--intracranial-self-expandable-flow-diverter-tapered-silk",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:balt:balt_catalog_2020_intl:microcatheter--balt--progressive-suppleness-microcatheter-magic",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:balt:balt_catalog_2020_intl:microcatheter--balt--progressive-suppleness-microcatheter-baltacci",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:balt:balt_catalog_2020_intl:microcatheter--balt--detachable-tip-microcatheter-sonic",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:balt:balt_catalog_2020_intl:balloon-catheter--balt--venous-remodelling-balloon-copernic-rc",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:balt:balt_catalog_2020_intl:balloon-catheter--balt--detachable-balloon-goldballoon",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:balt:balt_catalog_2020_intl:avm-treatment--balt--catheters-for-detachable-balloons-magic",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:balt:balt_catalog_2020_intl:avm-treatment--balt--catheters-for-detachable-balloons-baltacci",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:balt:balt_catalog_2020_intl:liquid-embolic--balt--liquid-embolic-agent-magic-glue",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:balt:balt_catalog_2020_intl:liquid-embolic--balt--liquid-embolic-agent-squid",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:balt:balt_catalog_2020_intl:embolic-coil--balt--free-spirale-flow-coils",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:balt:balt_catalog_2020_intl:avm-treatment--balt--opacifying-powder-tantalum",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:balt:balt_catalog_2020_intl:stroke-treatment--balt--catheter-system-titan-070",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:balt:balt_catalog_2020_intl:stroke-treatment--balt--catheter-system-titan-kit",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:balt:balt_catalog_2020_intl:stroke-treatment--balt--catheter-system-titan-036",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:balt:balt_catalog_2020_intl:stent-retriever--balt--stent-retriever-system-catchview",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:balt:balt_catalog_2020_intl:stent-retriever--balt--stent-retriever-system-catch",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:balt:balt_catalog_2020_intl:cardiovascular-and-peripheral-vascular-treatment--balt--angiographic-catheter",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:balt:balt_catalog_2020_intl:cardiovascular-and-peripheral-vascular-treatment--balt--embolic-liquid-squid-peri",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:balt:balt_catalog_2020_intl:embolic-coil--balt--free-coil",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:balt:balt_catalog_2020_intl:balloon-catheter--balt--valvuloplasty-catheter-cristal-balloon",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:balt:balt_catalog_2020_intl:balloon-catheter--balt--angioplasty-catheter-cristal-balloon",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:balt:balt_catalog_2020_intl:cardiovascular-and-peripheral-vascular-treatment--balt--opacifying-powder-tungsten",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/balt--international-product-catalogue-2020.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:balt:balt_catalog_2020_intl:others--balt--accessory-stopcocks",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:embolic-coil--microvention--cosmos-10-coils",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:embolic-coil--microvention--cosmos-18-coils",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:embolic-coil--microvention--hypersoft-3d-coils",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:embolic-coil--microvention--hypersoft-helical-coils",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:embolic-coil--microvention--hydroframe-10-coils",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:embolic-coil--microvention--hydrosoft-3d-coils",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:embolic-coil--microvention--hydroframe-18-coils",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:embolic-coil--microvention--hydrosoft-helical-coils",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:embolic-coil--microvention--hydrofill-coils",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:embolic-coil--microvention--vfc-versatile-range-fill-coils",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:embolic-coil--microvention--complex-10-coils",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:embolic-coil--microvention--complex-18-coils",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:embolic-coil--microvention--helical-10-coils",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:embolic-coil--microvention--helical-18-coils",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:delivery-and-detachment-systems--microvention--v-grip-detachment-controller",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:delivery-and-detachment-systems--microvention--web-detachment-controller",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:intrasaccular-flow-disruptor--microvention--web-sl-device",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:intrasaccular-flow-disruptor--microvention--web-sls-device",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:access-devices--microvention--sofia-catheter",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:access-devices--microvention--sofia-plus-catheter",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:access-devices--microvention--chaperon-guiding-catheter-single",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:access-devices--microvention--chaperon-guiding-catheter-system",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:balloon-catheter--microvention--scepter-c-occlusion-balloon-catheter",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:balloon-catheter--microvention--scepter-xc-occlusion-balloon-catheter",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:microcatheter--microvention--headway-microcatheter",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:microcatheter--microvention--headway-microcatheter-with-duo-technology",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:microcatheter--microvention--via-microcatheter",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:microcatheter--microvention--wedge-microcatheter",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:guidewire--microvention--traxcess-guidewire-and-docking-wire",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:intraluminal-devices--microvention--lvis-intraluminal-support-device",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:intraluminal-devices--microvention--lvis-jr-intraluminal-support-device",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:intraluminal-devices--microvention--fred-system",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:intraluminal-devices--microvention--fred-jr-system",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:aspiration--microvention--sofia-plus-aspiration-catheter",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:ischemic-stroke-devices--microvention--eric-retrieval-device",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:microcatheter--microvention--wedge-microcatheter-detailed-specifications",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:aspiration--microvention--gomco-405-aspiration-pump",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:ischemic-stroke-devices--microvention--canister-accessory-kit",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:ischemic-stroke-devices--microvention--tubing-kit",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:ischemic-stroke-devices--microvention--syringe-kit",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:intracranial-stent--microvention--casper-rx-carotid-artery-stent",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:intracranial-stent--microvention--empro-embolic-protection-system",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:liquid-embolic--microvention--phil-liquid-embolic-system",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "catalog:microvention:microvention_catalog_2019_intl:microcatheter--microvention--phil-microcatheter-compatibility",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/qapel--product-page-screens/walrus-qapel.png",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "qapel:product-page:walrus:2026-08-screens",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/qapel--product-page-screens/armadillo-qapel.png",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "qapel:product-page:armadillo:2026-08-screens",
-      "validation_errors": []
-    },
-    {
-      "configured_status": "current",
-      "extraction_error": null,
-      "identity_failures": [],
-      "local_filename": "sources/official/current/qapel--product-page-screens/zebra2-qapel.png",
-      "observed_status": "current",
-      "official_scan_status": "not_watched",
-      "source_id": "qapel:product-page:zebra:2026-08-screens",
       "validation_errors": []
     }
   ]

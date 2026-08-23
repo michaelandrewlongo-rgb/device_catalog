@@ -1,10 +1,10 @@
 {
   "accepted_claim_count": 880,
-  "generated_at": "2026-08-23T19:24:07.217919+00:00",
+  "generated_at": "2026-08-23T19:32:52.809000+00:00",
   "policy": "fail_closed_current_full_text_direct_support",
   "rejected_claim_count": 0,
   "schema_version": "2.1.0",
-  "secondary_dimension_candidate_count": 269,
+  "secondary_dimension_candidate_count": 0,
   "source_count": 642,
   "source_status_counts": {
     "current": 629,

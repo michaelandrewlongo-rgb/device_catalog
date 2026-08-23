@@ -16,8 +16,8 @@ For each PASS candidate this writes:
   printed: single values, lists, ranges, or prose quotes), the non-marketing
   attributes, a page/row locator, and ``review_status: source_checked``.
 
-Derived French-to-inch values are never promoted; they stay in the candidate file as
-``derived_calculation``.
+Derived French-to-inch values travel inside the claim, labeled ``derived_calculation``
+next to the quoted value they were computed from.
 
     python -m pipeline.knowledge_v2.promote_guide_rows
 """
@@ -98,10 +98,12 @@ def claim_for(candidate: dict[str, Any], source: dict[str, Any], audit: dict[str
     dims: dict[str, Any] = {}
     for key, items in candidate["dimensions"].items():
         kept = [
-            {k: v for k, v in item.items() if k in ("value", "values", "range", "pairs", "unit", "unit_conflict", "header_unit", "parse", "meaning", "quote", "pdf_page")}
+            {k: v for k, v in item.items() if k in ("value", "values", "range", "pairs", "unit", "unit_conflict", "header_unit", "parse", "meaning", "quote", "pdf_page", "evidence_class", "derived_from", "derivation")}
             for item in items
-            if item.get("evidence_class") == "secondary_curated_catalog"
+            if item.get("evidence_class") in ("secondary_curated_catalog", "derived_calculation")
         ]
+        for item in kept:
+            item["evidence_class"] = "trade_journal_device_guide" if item["evidence_class"] == "secondary_curated_catalog" else "derived_calculation"
         if kept:
             dims[key] = kept
     attributes = {k: v["text"] for k, v in candidate.get("attributes", {}).items()}
@@ -163,12 +165,9 @@ def promote() -> dict[str, int]:
         candidate = dict(candidate)
         candidate["promoted_claim_id"] = claim["claim_id"]
         promoted += 1
-        # Keep the derived (French-to-inch) observations discoverable as candidates;
-        # drop the quoted ones, which now live in the claim.
-        derived = {k: [i for i in v if i.get("evidence_class") == "derived_calculation"] for k, v in candidate["dimensions"].items()}
-        candidate["dimensions"] = {k: v for k, v in derived.items() if v}
-        if candidate["dimensions"]:
-            remaining.append(candidate)
+        # Quoted and derived observations both live in the claim now (the derived
+        # French-to-inch values are labeled derived_calculation inside it); nothing
+        # of a promoted row remains as a secondary candidate.
     registry["sources"].extend(new_sources)
     write_json(REGISTRY, registry)
     with CLAIMS.open("a", encoding="utf-8", newline="\n") as handle:
