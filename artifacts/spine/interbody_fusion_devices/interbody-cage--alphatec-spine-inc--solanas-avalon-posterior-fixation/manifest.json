@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--alphatec-spine-inc--solanas-avalon-posterior-fixation",
+  "artifact_folder": "interbody-cage--alphatec-spine-inc--solanas-avalon-posterior-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3435,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--alphatec-spine-inc--solanas-avalon-posterior-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--alphatec-spine-inc--solanas-avalon-posterior-fixation/enriched/interbody-cage--alphatec-spine-inc--solanas-avalon-posterior-fixation.json",
+        "bytes": 1940
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K111076.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--alphatec-spine-inc--solanas-avalon-posterior-fixation/fda_raw/NKB/K111076.json",
+        "bytes": 618
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--alphatec-spine-inc--solanas-avalon-posterior-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--alphatec-spine-inc--solanas-avalon-posterior-fixation/merged/interbody-cage--alphatec-spine-inc--solanas-avalon-posterior-fixation.json",
+        "bytes": 877
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

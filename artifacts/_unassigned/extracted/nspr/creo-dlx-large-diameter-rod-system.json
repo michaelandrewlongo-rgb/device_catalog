@@ -1,0 +1,27 @@
+{
+  "source": "nspr",
+  "nspr_url": "https://neurospineproductreview.com/creo-dlx-large-diameter-rod-system",
+  "device_name": "CREO DLX Large Diameter Rod System",
+  "manufacturer": "Globus Medical",
+  "specs": {
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Screws",
+    "Screw Type": "Pedicle Screws (Thoraco-lumbar)",
+    "Features": "Fenestrated , Polyaxial Head , Extended Reduction Head Tabs",
+    "Screw Materials": "Titanium",
+    "By Location/Approach": "Posterior Thoracic , Posterior Lumbar",
+    "By Procedure Type": "TLIF , PLIF",
+    "By System Type": "Degenerative , Deformity",
+    "By Material": "Titanium (Solid)"
+  },
+  "description": "CREO DLX: 6.0 and 6.35mm Large diameter rod system\nThe CREO DLX by Globus Medical is a large diameter rod system utilizing the 6.0 and 6.35mm diameter rods. This system is primarily intended for thoracolumbar fixations where complex spinal pathologies require increased strength of the construct such as complex deformity, tumor, and trauma. The CREO DLX system also has a fenestrated screw which comes preloaded with polyaxial head.\nScrew Options:\nDLX polyaxial screw:\nDLX Dual Outer Diameter (DOD) Screws\nDLX Uniplanar Screw\nDLX Fenestrated Screws",
+  "features": [
+    "25° angulation (50° total cone of angulation)",
+    "Screw diameters: 4.0, 4.5, 5.0, 5.5, 6.0, 6.5, 7.5, 8.5, 9.5, 10.5, 11.5mm",
+    "Screw lengths: 20-140mm"
+  ],
+  "pdfs": [
+    "https://neurospineproductreview.com/storage/products/pdfs/globus-creo-dlx-large-diameter-technique-guide-revc.pdf"
+  ],
+  "mfr_link": ""
+}

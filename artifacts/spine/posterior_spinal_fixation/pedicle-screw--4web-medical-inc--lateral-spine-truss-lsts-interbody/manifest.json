@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--4web-medical-inc--lateral-spine-truss-lsts-interbody",
+  "artifact_folder": "pedicle-screw--4web-medical-inc--lateral-spine-truss-lsts-interbody",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3021,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--4web-medical-inc--lateral-spine-truss-lsts-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--4web-medical-inc--lateral-spine-truss-lsts-interbody/enriched/pedicle-screw--4web-medical-inc--lateral-spine-truss-lsts-interbody.json",
+        "bytes": 1487
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K211388.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--4web-medical-inc--lateral-spine-truss-lsts-interbody/fda_raw/MAX/K211388.json",
+        "bytes": 628
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--4web-medical-inc--lateral-spine-truss-lsts-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--4web-medical-inc--lateral-spine-truss-lsts-interbody/merged/pedicle-screw--4web-medical-inc--lateral-spine-truss-lsts-interbody.json",
+        "bytes": 906
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

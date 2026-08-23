@@ -1,0 +1,42 @@
+{
+  "device_slug": "corpectomy--choicespine--blackbird-spinal",
+  "artifact_folder": "corpectomy--choicespine--blackbird-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3606,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--choicespine--blackbird-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--choicespine--blackbird-spinal/enriched/corpectomy--choicespine--blackbird-spinal.json",
+        "bytes": 1644
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/corpectomy--choicespine--blackbird-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--choicespine--blackbird-spinal/extracted/fda_structured/corpectomy--choicespine--blackbird-spinal.json",
+        "bytes": 601
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K133214.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--choicespine--blackbird-spinal/fda_raw/KWP/K133214.json",
+        "bytes": 557
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--choicespine--blackbird-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--choicespine--blackbird-spinal/merged/corpectomy--choicespine--blackbird-spinal.json",
+        "bytes": 804
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

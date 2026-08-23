@@ -1,0 +1,42 @@
+{
+  "device_slug": "interbody-cage--aesculap--s4-spinal",
+  "artifact_folder": "interbody-cage--aesculap--s4-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 4020,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--aesculap--s4-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--aesculap--s4-spinal/enriched/interbody-cage--aesculap--s4-spinal.json",
+        "bytes": 2102
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--aesculap--s4-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--aesculap--s4-spinal/extracted/fda_structured/interbody-cage--aesculap--s4-spinal.json",
+        "bytes": 595
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K062085.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--aesculap--s4-spinal/fda_raw/NKB/K062085.json",
+        "bytes": 538
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--aesculap--s4-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--aesculap--s4-spinal/merged/interbody-cage--aesculap--s4-spinal.json",
+        "bytes": 785
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

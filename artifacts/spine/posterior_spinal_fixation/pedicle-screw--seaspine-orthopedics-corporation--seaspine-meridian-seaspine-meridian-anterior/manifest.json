@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--seaspine-orthopedics-corporation--seaspine-meridian-seaspine-meridian-anterior",
+  "artifact_folder": "pedicle-screw--seaspine-orthopedics-corporation--seaspine-meridian-seaspine-meridian-anterior",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3201,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--seaspine-orthopedics-corporation--seaspine-meridian-seaspine-meridian-anterior.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--seaspine-orthopedics-corporation--seaspine-meridian-seaspine-meridian-anterior/enriched/pedicle-screw--seaspine-orthopedics-corporation--seaspine-meridian-seaspine-meridian-anterior.json",
+        "bytes": 1545
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K220711.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--seaspine-orthopedics-corporation--seaspine-meridian-seaspine-meridian-anterior/fda_raw/MAX/K220711.json",
+        "bytes": 692
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--seaspine-orthopedics-corporation--seaspine-meridian-seaspine-meridian-anterior.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--seaspine-orthopedics-corporation--seaspine-meridian-seaspine-meridian-anterior/merged/pedicle-screw--seaspine-orthopedics-corporation--seaspine-meridian-seaspine-meridian-anterior.json",
+        "bytes": 964
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--nuvasive--nuvasive-coroent-extensure",
+  "artifact_folder": "cervical-plate--nuvasive--nuvasive-coroent-extensure",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3057,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--nuvasive--nuvasive-coroent-extensure.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--nuvasive--nuvasive-coroent-extensure/enriched/cervical-plate--nuvasive--nuvasive-coroent-extensure.json",
+        "bytes": 1643
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K052210.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--nuvasive--nuvasive-coroent-extensure/fda_raw/MQP/K052210.json",
+        "bytes": 578
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--nuvasive--nuvasive-coroent-extensure.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--nuvasive--nuvasive-coroent-extensure/merged/cervical-plate--nuvasive--nuvasive-coroent-extensure.json",
+        "bytes": 836
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

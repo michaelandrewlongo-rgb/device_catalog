@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--ortho-tec-llc--oria-spinal-clip-lateral-intermediate",
+  "artifact_folder": "corpectomy--ortho-tec-llc--oria-spinal-clip-lateral-intermediate",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3040,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--ortho-tec-llc--oria-spinal-clip-lateral-intermediate.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--ortho-tec-llc--oria-spinal-clip-lateral-intermediate/enriched/corpectomy--ortho-tec-llc--oria-spinal-clip-lateral-intermediate.json",
+        "bytes": 1498
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K031471.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--ortho-tec-llc--oria-spinal-clip-lateral-intermediate/fda_raw/KWP/K031471.json",
+        "bytes": 625
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--ortho-tec-llc--oria-spinal-clip-lateral-intermediate.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--ortho-tec-llc--oria-spinal-clip-lateral-intermediate/merged/corpectomy--ortho-tec-llc--oria-spinal-clip-lateral-intermediate.json",
+        "bytes": 917
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "device_slug": "interbody-cage--aesculap-implant-systems-inc--s4-spinal",
+  "artifact_folder": "interbody-cage--aesculap-implant-systems-inc--s4-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 4286,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--aesculap-implant-systems-inc--s4-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--aesculap-implant-systems-inc--s4-spinal/enriched/interbody-cage--aesculap-implant-systems-inc--s4-spinal.json",
+        "bytes": 1666
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--aesculap-implant-systems-inc--s4-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--aesculap-implant-systems-inc--s4-spinal/extracted/fda_structured/interbody-cage--aesculap-implant-systems-inc--s4-spinal.json",
+        "bytes": 595
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K123352.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--aesculap-implant-systems-inc--s4-spinal/fda_raw/NKB/K123352.json",
+        "bytes": 600
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K123939.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--aesculap-implant-systems-inc--s4-spinal/fda_raw/NKB/K123939.json",
+        "bytes": 600
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--aesculap-implant-systems-inc--s4-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--aesculap-implant-systems-inc--s4-spinal/merged/interbody-cage--aesculap-implant-systems-inc--s4-spinal.json",
+        "bytes": 825
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--medtronic--pivox-tm-oblique-lateral-spinal",
+  "artifact_folder": "pedicle-screw--medtronic--pivox-tm-oblique-lateral-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3818,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--medtronic--pivox-tm-oblique-lateral-spinal.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--pivox-tm-oblique-lateral-spinal/enriched/pedicle-screw--medtronic--pivox-tm-oblique-lateral-spinal.json",
+        "bytes": 2117
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K152277.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--pivox-tm-oblique-lateral-spinal/fda_raw/MAX/K152277.json",
+        "bytes": 608
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--medtronic--pivox-tm-oblique-lateral-spinal.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--pivox-tm-oblique-lateral-spinal/merged/pedicle-screw--medtronic--pivox-tm-oblique-lateral-spinal.json",
+        "bytes": 1093
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

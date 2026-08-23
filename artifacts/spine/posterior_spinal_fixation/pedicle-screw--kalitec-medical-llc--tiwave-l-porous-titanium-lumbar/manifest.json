@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--kalitec-medical-llc--tiwave-l-porous-titanium-lumbar",
+  "artifact_folder": "pedicle-screw--kalitec-medical-llc--tiwave-l-porous-titanium-lumbar",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2927,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--kalitec-medical-llc--tiwave-l-porous-titanium-lumbar.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--kalitec-medical-llc--tiwave-l-porous-titanium-lumbar/enriched/pedicle-screw--kalitec-medical-llc--tiwave-l-porous-titanium-lumbar.json",
+        "bytes": 1448
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K182210.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--kalitec-medical-llc--tiwave-l-porous-titanium-lumbar/fda_raw/MAX/K182210.json",
+        "bytes": 612
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--kalitec-medical-llc--tiwave-l-porous-titanium-lumbar.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--kalitec-medical-llc--tiwave-l-porous-titanium-lumbar/merged/pedicle-screw--kalitec-medical-llc--tiwave-l-porous-titanium-lumbar.json",
+        "bytes": 867
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

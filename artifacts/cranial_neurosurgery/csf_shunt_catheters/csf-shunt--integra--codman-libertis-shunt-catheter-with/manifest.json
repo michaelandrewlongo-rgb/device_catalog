@@ -1,0 +1,47 @@
+{
+  "device_slug": "csf-shunt--integra--codman-libertis-shunt-catheter-with",
+  "artifact_folder": "csf-shunt--integra--codman-libertis-shunt-catheter-with",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 370397,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/csf-shunt/parsed/fda_summaries/csf-shunt--integra--codman-libertis-shunt-catheter-with--510k.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--codman-libertis-shunt-catheter-with/510k/csf-shunt/parsed/fda_summaries/csf-shunt--integra--codman-libertis-shunt-catheter-with--510k.json",
+        "bytes": 22661
+      },
+      {
+        "source": "pipeline/data/510k/csf-shunt/pdfs/csf-shunt--integra--codman-libertis-shunt-catheter-with--510k.pdf",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--codman-libertis-shunt-catheter-with/510k/csf-shunt/pdfs/csf-shunt--integra--codman-libertis-shunt-catheter-with--510k.pdf",
+        "bytes": 344173
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--integra--codman-libertis-shunt-catheter-with.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--codman-libertis-shunt-catheter-with/enriched/csf-shunt--integra--codman-libertis-shunt-catheter-with.json",
+        "bytes": 2014
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K243531.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--codman-libertis-shunt-catheter-with/fda_raw/JXG/K243531.json",
+        "bytes": 638
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--integra--codman-libertis-shunt-catheter-with.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--codman-libertis-shunt-catheter-with/merged/csf-shunt--integra--codman-libertis-shunt-catheter-with.json",
+        "bytes": 911
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

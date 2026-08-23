@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K931989",
+  "clearance_date": "1993-07-21",
+  "device_class": 2,
+  "manufacturer_canonical": "gesco-intl-inc",
+  "manufacturer_raw": "Gesco Intl., Inc.",
+  "catalog_category": "csf-shunt",
+  "device_name_fda": "VENTRI-CATH",
+  "product_code": "JXG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "csf-shunt--gesco-intl-inc--ventri-cath",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf93/K931989.pdf"
+}

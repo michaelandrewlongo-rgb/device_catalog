@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--stryker--xia-3-spinal-uniplanner-reduction",
+  "artifact_folder": "interbody-cage--stryker--xia-3-spinal-uniplanner-reduction",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 4812,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--stryker--xia-3-spinal-uniplanner-reduction.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker--xia-3-spinal-uniplanner-reduction/enriched/interbody-cage--stryker--xia-3-spinal-uniplanner-reduction.json",
+        "bytes": 3296
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K091291.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker--xia-3-spinal-uniplanner-reduction/fda_raw/NKB/K091291.json",
+        "bytes": 613
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--stryker--xia-3-spinal-uniplanner-reduction.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker--xia-3-spinal-uniplanner-reduction/merged/interbody-cage--stryker--xia-3-spinal-uniplanner-reduction.json",
+        "bytes": 903
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

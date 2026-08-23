@@ -1,0 +1,42 @@
+{
+  "device_slug": "interbody-cage--medacta-international-s-a--m-u-s-t-midline",
+  "artifact_folder": "interbody-cage--medacta-international-s-a--m-u-s-t-midline",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3800,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--medacta-international-s-a--m-u-s-t-midline.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medacta-international-s-a--m-u-s-t-midline/enriched/interbody-cage--medacta-international-s-a--m-u-s-t-midline.json",
+        "bytes": 1698
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--medacta-international-s-a--m-u-s-t-midline.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medacta-international-s-a--m-u-s-t-midline/extracted/fda_structured/interbody-cage--medacta-international-s-a--m-u-s-t-midline.json",
+        "bytes": 600
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K210427.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medacta-international-s-a--m-u-s-t-midline/fda_raw/NKB/K210427.json",
+        "bytes": 623
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--medacta-international-s-a--m-u-s-t-midline.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medacta-international-s-a--m-u-s-t-midline/merged/interbody-cage--medacta-international-s-a--m-u-s-t-midline.json",
+        "bytes": 879
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

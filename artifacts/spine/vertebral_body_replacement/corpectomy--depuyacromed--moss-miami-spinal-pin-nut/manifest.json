@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--depuyacromed--moss-miami-spinal-pin-nut",
+  "artifact_folder": "corpectomy--depuyacromed--moss-miami-spinal-pin-nut",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2821,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--depuyacromed--moss-miami-spinal-pin-nut.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuyacromed--moss-miami-spinal-pin-nut/enriched/corpectomy--depuyacromed--moss-miami-spinal-pin-nut.json",
+        "bytes": 1414
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K023804.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuyacromed--moss-miami-spinal-pin-nut/fda_raw/KWP/K023804.json",
+        "bytes": 574
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--depuyacromed--moss-miami-spinal-pin-nut.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuyacromed--moss-miami-spinal-pin-nut/merged/corpectomy--depuyacromed--moss-miami-spinal-pin-nut.json",
+        "bytes": 833
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "device_slug": "sacroiliac-fusion--mcnicoll-surgical-inc--falco-fusion",
+  "artifact_folder": "sacroiliac-fusion--mcnicoll-surgical-inc--falco-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 591,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/OUR/K253611.json",
+        "artifact": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--mcnicoll-surgical-inc--falco-fusion/fda_raw/OUR/K253611.json",
+        "bytes": 591
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "sacroiliac-fusion",
+    "label": "Outside listed seed registries"
+  }
+}

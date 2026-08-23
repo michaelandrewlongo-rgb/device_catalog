@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--sofamor-danek-mfg-inc--tsrh-l-connector-modification",
+  "artifact_folder": "corpectomy--sofamor-danek-mfg-inc--tsrh-l-connector-modification",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2899,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--sofamor-danek-mfg-inc--tsrh-l-connector-modification.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sofamor-danek-mfg-inc--tsrh-l-connector-modification/enriched/corpectomy--sofamor-danek-mfg-inc--tsrh-l-connector-modification.json",
+        "bytes": 1436
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K923339.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sofamor-danek-mfg-inc--tsrh-l-connector-modification/fda_raw/KWP/K923339.json",
+        "bytes": 608
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--sofamor-danek-mfg-inc--tsrh-l-connector-modification.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sofamor-danek-mfg-inc--tsrh-l-connector-modification/merged/corpectomy--sofamor-danek-mfg-inc--tsrh-l-connector-modification.json",
+        "bytes": 855
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

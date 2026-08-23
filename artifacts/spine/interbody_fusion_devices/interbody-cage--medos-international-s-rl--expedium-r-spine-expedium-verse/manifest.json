@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--medos-international-s-rl--expedium-r-spine-expedium-verse",
+  "artifact_folder": "interbody-cage--medos-international-s-rl--expedium-r-spine-expedium-verse",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3074,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--medos-international-s-rl--expedium-r-spine-expedium-verse.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medos-international-s-rl--expedium-r-spine-expedium-verse/enriched/interbody-cage--medos-international-s-rl--expedium-r-spine-expedium-verse.json",
+        "bytes": 1496
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K200245.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medos-international-s-rl--expedium-r-spine-expedium-verse/fda_raw/NKB/K200245.json",
+        "bytes": 647
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--medos-international-s-rl--expedium-r-spine-expedium-verse.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medos-international-s-rl--expedium-r-spine-expedium-verse/merged/interbody-cage--medos-international-s-rl--expedium-r-spine-expedium-verse.json",
+        "bytes": 931
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

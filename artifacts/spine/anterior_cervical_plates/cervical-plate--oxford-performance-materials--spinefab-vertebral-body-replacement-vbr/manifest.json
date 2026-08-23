@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--oxford-performance-materials--spinefab-vertebral-body-replacement-vbr",
+  "artifact_folder": "cervical-plate--oxford-performance-materials--spinefab-vertebral-body-replacement-vbr",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3079,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--oxford-performance-materials--spinefab-vertebral-body-replacement-vbr.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--oxford-performance-materials--spinefab-vertebral-body-replacement-vbr/enriched/cervical-plate--oxford-performance-materials--spinefab-vertebral-body-replacement-vbr.json",
+        "bytes": 1500
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K142005.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--oxford-performance-materials--spinefab-vertebral-body-replacement-vbr/fda_raw/MQP/K142005.json",
+        "bytes": 660
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--oxford-performance-materials--spinefab-vertebral-body-replacement-vbr.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--oxford-performance-materials--spinefab-vertebral-body-replacement-vbr/merged/cervical-plate--oxford-performance-materials--spinefab-vertebral-body-replacement-vbr.json",
+        "bytes": 919
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

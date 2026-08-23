@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--omni-surgical-llc-dba-spine360--kestrel-posterior-cervical-spine",
+  "artifact_folder": "corpectomy--omni-surgical-llc-dba-spine360--kestrel-posterior-cervical-spine",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3004,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--omni-surgical-llc-dba-spine360--kestrel-posterior-cervical-spine.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--omni-surgical-llc-dba-spine360--kestrel-posterior-cervical-spine/enriched/corpectomy--omni-surgical-llc-dba-spine360--kestrel-posterior-cervical-spine.json",
+        "bytes": 1471
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K132122.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--omni-surgical-llc-dba-spine360--kestrel-posterior-cervical-spine/fda_raw/KWP/K132122.json",
+        "bytes": 643
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--omni-surgical-llc-dba-spine360--kestrel-posterior-cervical-spine.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--omni-surgical-llc-dba-spine360--kestrel-posterior-cervical-spine/merged/corpectomy--omni-surgical-llc-dba-spine360--kestrel-posterior-cervical-spine.json",
+        "bytes": 890
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

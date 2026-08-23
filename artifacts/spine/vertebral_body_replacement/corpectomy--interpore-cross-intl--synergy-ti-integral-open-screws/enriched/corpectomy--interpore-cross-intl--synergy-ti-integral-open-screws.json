@@ -1,0 +1,58 @@
+{
+  "device_name": "SYNERGY TI INTEGRAL OPEN SCREWS MODELS # 6193, 6194, 6195,6196, 6173, 6174, 6175, 6176, 6177",
+  "manufacturer": "interpore-cross-intl",
+  "catalog_category": "corpectomy",
+  "filename_stem": "corpectomy--interpore-cross-intl--synergy-ti-integral-open-screws",
+  "clearance_type": "510k",
+  "clearance_number": "K012871",
+  "clearance_date": "2001-09-13",
+  "device_class": 2,
+  "device_name_fda": "SYNERGY TI INTEGRAL OPEN SCREWS MODELS # 6193, 6194, 6195,6196, 6173, 6174, 6175, 6176, 6177",
+  "product_code": "KWP",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf01/K012871.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "none",
+      "confidence": 0
+    },
+    "sizing_specs": {
+      "source": "none",
+      "confidence": 0
+    },
+    "indications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "none",
+      "confidence": 0
+    },
+    "also_known_as": {
+      "source": "none",
+      "confidence": 0
+    }
+  }
+}

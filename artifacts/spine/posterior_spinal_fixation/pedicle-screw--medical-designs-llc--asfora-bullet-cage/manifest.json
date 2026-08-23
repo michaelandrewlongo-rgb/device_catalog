@@ -1,0 +1,47 @@
+{
+  "device_slug": "pedicle-screw--medical-designs-llc--asfora-bullet-cage",
+  "artifact_folder": "pedicle-screw--medical-designs-llc--asfora-bullet-cage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 4314,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--medical-designs-llc--asfora-bullet-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medical-designs-llc--asfora-bullet-cage/enriched/pedicle-screw--medical-designs-llc--asfora-bullet-cage.json",
+        "bytes": 1691
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/pedicle-screw--medical-designs-llc--asfora-bullet-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medical-designs-llc--asfora-bullet-cage/extracted/fda_structured/pedicle-screw--medical-designs-llc--asfora-bullet-cage.json",
+        "bytes": 622
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K090048.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medical-designs-llc--asfora-bullet-cage/fda_raw/MAX/K090048.json",
+        "bytes": 588
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K112648.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medical-designs-llc--asfora-bullet-cage/fda_raw/MAX/K112648.json",
+        "bytes": 581
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--medical-designs-llc--asfora-bullet-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medical-designs-llc--asfora-bullet-cage/merged/pedicle-screw--medical-designs-llc--asfora-bullet-cage.json",
+        "bytes": 832
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

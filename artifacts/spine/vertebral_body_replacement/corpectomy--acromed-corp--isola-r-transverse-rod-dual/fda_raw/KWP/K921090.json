@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K921090",
+  "clearance_date": "1992-12-31",
+  "device_class": 2,
+  "manufacturer_canonical": "acromed-corp",
+  "manufacturer_raw": "Acromed Corp.",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "ISOLA(R) TRANSVERSE ROD DUAL CONNECTOR",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--acromed-corp--isola-r-transverse-rod-dual",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf92/K921090.pdf"
+}

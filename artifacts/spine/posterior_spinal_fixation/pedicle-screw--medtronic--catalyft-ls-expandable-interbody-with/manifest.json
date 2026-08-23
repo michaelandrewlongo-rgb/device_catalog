@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--medtronic--catalyft-ls-expandable-interbody-with",
+  "artifact_folder": "pedicle-screw--medtronic--catalyft-ls-expandable-interbody-with",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3108,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--medtronic--catalyft-ls-expandable-interbody-with.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--catalyft-ls-expandable-interbody-with/enriched/pedicle-screw--medtronic--catalyft-ls-expandable-interbody-with.json",
+        "bytes": 1518
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K223153.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--catalyft-ls-expandable-interbody-with/fda_raw/MAX/K223153.json",
+        "bytes": 653
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--medtronic--catalyft-ls-expandable-interbody-with.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--catalyft-ls-expandable-interbody-with/merged/pedicle-screw--medtronic--catalyft-ls-expandable-interbody-with.json",
+        "bytes": 937
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

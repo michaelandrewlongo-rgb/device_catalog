@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--surgicraft-ltd--ransford-cervical-fixation",
+  "artifact_folder": "corpectomy--surgicraft-ltd--ransford-cervical-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2846,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--surgicraft-ltd--ransford-cervical-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--surgicraft-ltd--ransford-cervical-fixation/enriched/corpectomy--surgicraft-ltd--ransford-cervical-fixation.json",
+        "bytes": 1421
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K965221.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--surgicraft-ltd--ransford-cervical-fixation/fda_raw/KWP/K965221.json",
+        "bytes": 585
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--surgicraft-ltd--ransford-cervical-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--surgicraft-ltd--ransford-cervical-fixation/merged/corpectomy--surgicraft-ltd--ransford-cervical-fixation.json",
+        "bytes": 840
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

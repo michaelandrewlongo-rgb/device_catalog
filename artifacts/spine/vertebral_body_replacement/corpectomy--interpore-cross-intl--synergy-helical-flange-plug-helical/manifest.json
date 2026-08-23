@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--interpore-cross-intl--synergy-helical-flange-plug-helical",
+  "artifact_folder": "corpectomy--interpore-cross-intl--synergy-helical-flange-plug-helical",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3158,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--interpore-cross-intl--synergy-helical-flange-plug-helical.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--interpore-cross-intl--synergy-helical-flange-plug-helical/enriched/corpectomy--interpore-cross-intl--synergy-helical-flange-plug-helical.json",
+        "bytes": 1540
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K041449.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--interpore-cross-intl--synergy-helical-flange-plug-helical/fda_raw/KWP/K041449.json",
+        "bytes": 659
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--interpore-cross-intl--synergy-helical-flange-plug-helical.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--interpore-cross-intl--synergy-helical-flange-plug-helical/merged/corpectomy--interpore-cross-intl--synergy-helical-flange-plug-helical.json",
+        "bytes": 959
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

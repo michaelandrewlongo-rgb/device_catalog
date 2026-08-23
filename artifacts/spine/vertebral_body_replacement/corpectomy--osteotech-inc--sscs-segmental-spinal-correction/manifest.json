@@ -1,0 +1,50 @@
+{
+  "device_slug": "corpectomy--osteotech-inc--sscs-segmental-spinal-correction",
+  "artifact_folder": "corpectomy--osteotech-inc--sscs-segmental-spinal-correction",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 4681,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--osteotech-inc--sscs-segmental-spinal-correction.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--osteotech-inc--sscs-segmental-spinal-correction/enriched/corpectomy--osteotech-inc--sscs-segmental-spinal-correction.json",
+        "bytes": 1441
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K955173.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--osteotech-inc--sscs-segmental-spinal-correction/fda_raw/KWP/K955173.json",
+        "bytes": 595
+      },
+      {
+        "source": "pipeline/data/fda_raw/KWP/K971289.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--osteotech-inc--sscs-segmental-spinal-correction/fda_raw/KWP/K971289.json",
+        "bytes": 595
+      },
+      {
+        "source": "pipeline/data/fda_raw/KWP/K973868.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--osteotech-inc--sscs-segmental-spinal-correction/fda_raw/KWP/K973868.json",
+        "bytes": 595
+      },
+      {
+        "source": "pipeline/data/fda_raw/KWP/K991586.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--osteotech-inc--sscs-segmental-spinal-correction/fda_raw/KWP/K991586.json",
+        "bytes": 595
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--osteotech-inc--sscs-segmental-spinal-correction.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--osteotech-inc--sscs-segmental-spinal-correction/merged/corpectomy--osteotech-inc--sscs-segmental-spinal-correction.json",
+        "bytes": 860
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

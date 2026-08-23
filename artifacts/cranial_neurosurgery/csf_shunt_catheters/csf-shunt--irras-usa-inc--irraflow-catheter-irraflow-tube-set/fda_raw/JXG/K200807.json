@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K200807",
+  "clearance_date": "2020-04-29",
+  "device_class": 2,
+  "manufacturer_canonical": "irras-usa-inc",
+  "manufacturer_raw": "Irras USA, Inc.",
+  "catalog_category": "csf-shunt",
+  "device_name_fda": "IRRAflow Catheter, IRRAflow Tube Set, IRRAflow Control Unit",
+  "product_code": "JXG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "csf-shunt--irras-usa-inc--irraflow-catheter-irraflow-tube-set",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K200807.pdf"
+}

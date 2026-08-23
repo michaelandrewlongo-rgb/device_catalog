@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K182416",
+  "clearance_date": "2019-06-11",
+  "device_class": 2,
+  "manufacturer_canonical": "baui-biotech-co-ltd",
+  "manufacturer_raw": "Baui Biotech Co., Ltd.",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "NOVA Minimally Invasive System",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--baui-biotech-co-ltd--nova-minimally-invasive",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf18/K182416.pdf"
+}

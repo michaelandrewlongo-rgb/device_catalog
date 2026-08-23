@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-cage--globus--coalition-cervical-interbody-system",
+  "artifact_folder": "cervical-cage--globus--coalition-cervical-interbody-system",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3791,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-cage--globus--coalition-cervical-interbody-system.json",
+        "artifact": "artifacts/spine/cervical_interbody_cages/cervical-cage--globus--coalition-cervical-interbody-system/enriched/cervical-cage--globus--coalition-cervical-interbody-system.json",
+        "bytes": 1935
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-cage--globus--coalition-cervical-interbody-system.json",
+        "artifact": "artifacts/spine/cervical_interbody_cages/cervical-cage--globus--coalition-cervical-interbody-system/merged/cervical-cage--globus--coalition-cervical-interbody-system.json",
+        "bytes": 1184
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/globus/coalition-cervical-interbody-system.json",
+        "artifact": "artifacts/spine/cervical_interbody_cages/cervical-cage--globus--coalition-cervical-interbody-system/scraper_raw/globus/coalition-cervical-interbody-system.json",
+        "bytes": 672
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "cervical_interbody_cages",
+    "label": "ACDF/ACCF Cages"
+  }
+}

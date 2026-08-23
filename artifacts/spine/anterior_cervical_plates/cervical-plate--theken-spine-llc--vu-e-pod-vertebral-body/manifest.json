@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--theken-spine-llc--vu-e-pod-vertebral-body",
+  "artifact_folder": "cervical-plate--theken-spine-llc--vu-e-pod-vertebral-body",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2883,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--theken-spine-llc--vu-e-pod-vertebral-body.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--theken-spine-llc--vu-e-pod-vertebral-body/enriched/cervical-plate--theken-spine-llc--vu-e-pod-vertebral-body.json",
+        "bytes": 1434
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K071031.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--theken-spine-llc--vu-e-pod-vertebral-body/fda_raw/MQP/K071031.json",
+        "bytes": 596
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--theken-spine-llc--vu-e-pod-vertebral-body.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--theken-spine-llc--vu-e-pod-vertebral-body/merged/cervical-plate--theken-spine-llc--vu-e-pod-vertebral-body.json",
+        "bytes": 853
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

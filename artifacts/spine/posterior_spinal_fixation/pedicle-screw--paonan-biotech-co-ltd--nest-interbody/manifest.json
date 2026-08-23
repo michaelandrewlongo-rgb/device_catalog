@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--paonan-biotech-co-ltd--nest-interbody",
+  "artifact_folder": "pedicle-screw--paonan-biotech-co-ltd--nest-interbody",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2817,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--paonan-biotech-co-ltd--nest-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--paonan-biotech-co-ltd--nest-interbody/enriched/pedicle-screw--paonan-biotech-co-ltd--nest-interbody.json",
+        "bytes": 1405
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K180230.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--paonan-biotech-co-ltd--nest-interbody/fda_raw/MAX/K180230.json",
+        "bytes": 588
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--paonan-biotech-co-ltd--nest-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--paonan-biotech-co-ltd--nest-interbody/merged/pedicle-screw--paonan-biotech-co-ltd--nest-interbody.json",
+        "bytes": 824
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

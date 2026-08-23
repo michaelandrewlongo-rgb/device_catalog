@@ -1,0 +1,30 @@
+{
+  "device_name": "iFuse INTRA X",
+  "manufacturer": "si-bone",
+  "catalog_category": "sacroiliac-fusion",
+  "filename_stem": "sacroiliac-fusion--si-bone--ifuse-intra-x",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "Allograft implant for intra-articular SI joint stabilization and fusion. Percutaneous delivery through a single needle-like incision. Sterile single-use instrument set. Designed for reproducible intra-articular placement.",
+  "sizing_specs": null,
+  "indications": "Intra-articular SI joint stabilization and fusion.",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "Percutaneous delivery (single needle-like incision) distinguishes from iFuse INTRA. Sterile single-use instrument set promotes procedural efficiency. FEA biomechanics testing showed favorable results vs competitor rectangular ridged allograft (Technical Study 301310-TS).",
+  "deployment_steps": null,
+  "also_known_as": [
+    "iFuse INTRA X Allograft Implant System"
+  ],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://si-bone.com/providers/solutions/si-joint-dysfunction/ifuse-intra-x",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ]
+}

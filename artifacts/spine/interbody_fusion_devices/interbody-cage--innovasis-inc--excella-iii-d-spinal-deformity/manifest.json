@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--innovasis-inc--excella-iii-d-spinal-deformity",
+  "artifact_folder": "interbody-cage--innovasis-inc--excella-iii-d-spinal-deformity",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3197,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--innovasis-inc--excella-iii-d-spinal-deformity.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--innovasis-inc--excella-iii-d-spinal-deformity/enriched/interbody-cage--innovasis-inc--excella-iii-d-spinal-deformity.json",
+        "bytes": 1742
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K140238.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--innovasis-inc--excella-iii-d-spinal-deformity/fda_raw/NKB/K140238.json",
+        "bytes": 597
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--innovasis-inc--excella-iii-d-spinal-deformity.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--innovasis-inc--excella-iii-d-spinal-deformity/merged/interbody-cage--innovasis-inc--excella-iii-d-spinal-deformity.json",
+        "bytes": 858
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

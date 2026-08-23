@@ -1,0 +1,40 @@
+{
+  "device_slug": "csf-shunt--holter-hausner-intl--h-h-rickham-type-reservoir",
+  "artifact_folder": "csf-shunt--holter-hausner-intl--h-h-rickham-type-reservoir",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3425,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--holter-hausner-intl--h-h-rickham-type-reservoir.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--holter-hausner-intl--h-h-rickham-type-reservoir/enriched/csf-shunt--holter-hausner-intl--h-h-rickham-type-reservoir.json",
+        "bytes": 1415
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K820312.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--holter-hausner-intl--h-h-rickham-type-reservoir/fda_raw/JXG/K820312.json",
+        "bytes": 588
+      },
+      {
+        "source": "pipeline/data/fda_raw/JXG/K853364.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--holter-hausner-intl--h-h-rickham-type-reservoir/fda_raw/JXG/K853364.json",
+        "bytes": 588
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--holter-hausner-intl--h-h-rickham-type-reservoir.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--holter-hausner-intl--h-h-rickham-type-reservoir/merged/csf-shunt--holter-hausner-intl--h-h-rickham-type-reservoir.json",
+        "bytes": 834
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

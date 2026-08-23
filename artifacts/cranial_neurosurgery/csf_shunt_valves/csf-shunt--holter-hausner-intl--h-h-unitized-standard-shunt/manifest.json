@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--holter-hausner-intl--h-h-unitized-standard-shunt",
+  "artifact_folder": "csf-shunt--holter-hausner-intl--h-h-unitized-standard-shunt",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2925,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--holter-hausner-intl--h-h-unitized-standard-shunt.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--holter-hausner-intl--h-h-unitized-standard-shunt/enriched/csf-shunt--holter-hausner-intl--h-h-unitized-standard-shunt.json",
+        "bytes": 1450
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K853366.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--holter-hausner-intl--h-h-unitized-standard-shunt/fda_raw/JXG/K853366.json",
+        "bytes": 606
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--holter-hausner-intl--h-h-unitized-standard-shunt.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--holter-hausner-intl--h-h-unitized-standard-shunt/merged/csf-shunt--holter-hausner-intl--h-h-unitized-standard-shunt.json",
+        "bytes": 869
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

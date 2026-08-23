@@ -1,0 +1,40 @@
+{
+  "device_slug": "interbody-cage--choicespine--thunderbolt-minimally-invasive-and-lancer",
+  "artifact_folder": "interbody-cage--choicespine--thunderbolt-minimally-invasive-and-lancer",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3741,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--choicespine--thunderbolt-minimally-invasive-and-lancer.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--choicespine--thunderbolt-minimally-invasive-and-lancer/enriched/interbody-cage--choicespine--thunderbolt-minimally-invasive-and-lancer.json",
+        "bytes": 1516
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K160775.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--choicespine--thunderbolt-minimally-invasive-and-lancer/fda_raw/NKB/K160775.json",
+        "bytes": 639
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K171456.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--choicespine--thunderbolt-minimally-invasive-and-lancer/fda_raw/NKB/K171456.json",
+        "bytes": 635
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--choicespine--thunderbolt-minimally-invasive-and-lancer.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--choicespine--thunderbolt-minimally-invasive-and-lancer/merged/interbody-cage--choicespine--thunderbolt-minimally-invasive-and-lancer.json",
+        "bytes": 951
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

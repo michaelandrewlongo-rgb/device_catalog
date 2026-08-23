@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--4web-inc--lateral-spine-truss",
+  "artifact_folder": "pedicle-screw--4web-inc--lateral-spine-truss",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2765,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--4web-inc--lateral-spine-truss.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--4web-inc--lateral-spine-truss/enriched/pedicle-screw--4web-inc--lateral-spine-truss.json",
+        "bytes": 1394
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K153436.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--4web-inc--lateral-spine-truss/fda_raw/MAX/K153436.json",
+        "bytes": 558
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--4web-inc--lateral-spine-truss.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--4web-inc--lateral-spine-truss/merged/pedicle-screw--4web-inc--lateral-spine-truss.json",
+        "bytes": 813
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

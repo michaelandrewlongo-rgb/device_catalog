@@ -1,0 +1,42 @@
+{
+  "device_slug": "corpectomy--medtronic--msd-wire",
+  "artifact_folder": "corpectomy--medtronic--msd-wire",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3968,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--medtronic--msd-wire.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--msd-wire/enriched/corpectomy--medtronic--msd-wire.json",
+        "bytes": 2070
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/corpectomy--medtronic--msd-wire.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--msd-wire/extracted/fda_structured/corpectomy--medtronic--msd-wire.json",
+        "bytes": 571
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K020426.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--msd-wire/fda_raw/KWP/K020426.json",
+        "bytes": 551
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--medtronic--msd-wire.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--msd-wire/merged/corpectomy--medtronic--msd-wire.json",
+        "bytes": 776
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

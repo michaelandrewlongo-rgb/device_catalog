@@ -1,0 +1,21 @@
+{
+  "device_slug": "interbody-cage--depuy--concorde-lift",
+  "artifact_folder": "interbody-cage--depuy--concorde-lift",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 7024,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/interbody-cage--depuy--concorde-lift--knowledge.md",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--concorde-lift/data_by_device/interbody-cage--depuy--concorde-lift--knowledge.md",
+        "bytes": 7024
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

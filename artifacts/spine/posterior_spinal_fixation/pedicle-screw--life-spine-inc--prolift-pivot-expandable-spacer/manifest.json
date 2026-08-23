@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--life-spine-inc--prolift-pivot-expandable-spacer",
+  "artifact_folder": "pedicle-screw--life-spine-inc--prolift-pivot-expandable-spacer",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2903,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--life-spine-inc--prolift-pivot-expandable-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--life-spine-inc--prolift-pivot-expandable-spacer/enriched/pedicle-screw--life-spine-inc--prolift-pivot-expandable-spacer.json",
+        "bytes": 1442
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K243668.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--life-spine-inc--prolift-pivot-expandable-spacer/fda_raw/MAX/K243668.json",
+        "bytes": 600
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--life-spine-inc--prolift-pivot-expandable-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--life-spine-inc--prolift-pivot-expandable-spacer/merged/pedicle-screw--life-spine-inc--prolift-pivot-expandable-spacer.json",
+        "bytes": 861
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

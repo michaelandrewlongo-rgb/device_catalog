@@ -1,0 +1,292 @@
+[
+  {
+    "device_family": "aspiration--wallaby-medical--esperance-3-aspiration-catheter",
+    "query_used": "Esperance 3+ Aspiration Catheter System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "06970908212932",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Esperance 3+ Aspiration Catheter System",
+      "companyName": "Shanghai Wallaby Medical Technologies Co., Inc.",
+      "deviceIdentifier": "e64107a8-dcfa-4241-8975-a6d951bd828f",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "ASP3F160KIT"
+    },
+    "retrieved_at": "2026-04-15T10:19:08+00:00",
+    "source_id": "accessgudid:06970908212932",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/e64107a8-dcfa-4241-8975-a6d951bd828f",
+    "title": "Esperance 3+ Aspiration Catheter System (Shanghai Wallaby Medical Technologies Co., Inc.)"
+  },
+  {
+    "device_family": "aspiration--wallaby-medical--esperance-3-aspiration-catheter",
+    "query_used": "Esperance 3+ Aspiration Catheter System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "06970908212918",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Esperance 3+ Aspiration Catheter System",
+      "companyName": "Shanghai Wallaby Medical Technologies Co., Inc.",
+      "deviceIdentifier": "bbde9b58-cb61-4497-8dfc-8af391ea7c7d",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "ASP3F145KIT"
+    },
+    "retrieved_at": "2026-04-15T10:19:08+00:00",
+    "source_id": "accessgudid:06970908212918",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/bbde9b58-cb61-4497-8dfc-8af391ea7c7d",
+    "title": "Esperance 3+ Aspiration Catheter System (Shanghai Wallaby Medical Technologies Co., Inc.)"
+  },
+  {
+    "device_family": "aspiration--wallaby-medical--esperance-3-aspiration-catheter",
+    "query_used": "Esperance 3+ Aspiration Catheter System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "06970908212901",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Esperance 3+ Aspiration Catheter System",
+      "companyName": "Shanghai Wallaby Medical Technologies Co., Inc.",
+      "deviceIdentifier": "f77b17ea-e261-4936-9776-8873bb7224e0",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "ASP3F133KIT"
+    },
+    "retrieved_at": "2026-04-15T10:19:08+00:00",
+    "source_id": "accessgudid:06970908212901",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/f77b17ea-e261-4936-9776-8873bb7224e0",
+    "title": "Esperance 3+ Aspiration Catheter System (Shanghai Wallaby Medical Technologies Co., Inc.)"
+  },
+  {
+    "device_family": "aspiration--wallaby-medical--esperance-3-aspiration-catheter",
+    "query_used": "Esperance 3+ Aspiration Catheter System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "06970908213625",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Esperance 3+ Aspiration Catheter System",
+      "companyName": "Shanghai Wallaby Medical Technologies Co., Inc.",
+      "deviceIdentifier": "01b17e87-7e4f-4ebe-9af6-548a232df32d",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "ASP3F120KIT "
+    },
+    "retrieved_at": "2026-04-15T10:19:08+00:00",
+    "source_id": "accessgudid:06970908213625",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/01b17e87-7e4f-4ebe-9af6-548a232df32d",
+    "title": "Esperance 3+ Aspiration Catheter System (Shanghai Wallaby Medical Technologies Co., Inc.)"
+  },
+  {
+    "device_family": "aspiration--wallaby-medical--esperance-3-aspiration-catheter",
+    "query_used": "Esperance 3+ Aspiration Catheter System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "06970908212925",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Esperance 3+ Aspiration Catheter System",
+      "companyName": "Shanghai Wallaby Medical Technologies Co., Inc.",
+      "deviceIdentifier": "cba9f5b8-4ead-4e97-9bef-4470d55d817d",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "ASP3F153KIT"
+    },
+    "retrieved_at": "2026-04-15T10:19:08+00:00",
+    "source_id": "accessgudid:06970908212925",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/cba9f5b8-4ead-4e97-9bef-4470d55d817d",
+    "title": "Esperance 3+ Aspiration Catheter System (Shanghai Wallaby Medical Technologies Co., Inc.)"
+  },
+  {
+    "device_family": "aspiration--wallaby-medical--esperance-3-aspiration-catheter",
+    "query_used": "Esperance 3+ Aspiration Catheter System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00814548013299",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Indigo System",
+      "companyName": "PENUMBRA, INC.",
+      "deviceIdentifier": "c1fe13d8-53f3-4db9-bec1-c3344c1f3809",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "CAT3"
+    },
+    "retrieved_at": "2026-04-15T10:19:08+00:00",
+    "source_id": "accessgudid:00814548013299",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/c1fe13d8-53f3-4db9-bec1-c3344c1f3809",
+    "title": "Indigo System (PENUMBRA, INC.)"
+  },
+  {
+    "device_family": "aspiration--wallaby-medical--esperance-3-aspiration-catheter",
+    "query_used": "Esperance 3+ Aspiration Catheter System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "05391530910231",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Esperance pHLO Aspiration System",
+      "companyName": "PHENOX LIMITED",
+      "deviceIdentifier": "d3b3bd80-5756-405f-bd22-ac4e5cbc5d03",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "PHLO-AC-71-125"
+    },
+    "retrieved_at": "2026-04-15T10:19:08+00:00",
+    "source_id": "accessgudid:05391530910231",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/d3b3bd80-5756-405f-bd22-ac4e5cbc5d03",
+    "title": "Esperance pHLO Aspiration System (PHENOX LIMITED)"
+  },
+  {
+    "device_family": "aspiration--wallaby-medical--esperance-3-aspiration-catheter",
+    "query_used": "Esperance 3+ Aspiration Catheter System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "05391530910248",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Esperance pHLO Aspiration System",
+      "companyName": "PHENOX LIMITED",
+      "deviceIdentifier": "557968f9-637a-4335-aa66-0d38d26b32cd",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "PHLO-AC-71-135"
+    },
+    "retrieved_at": "2026-04-15T10:19:08+00:00",
+    "source_id": "accessgudid:05391530910248",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/557968f9-637a-4335-aa66-0d38d26b32cd",
+    "title": "Esperance pHLO Aspiration System (PHENOX LIMITED)"
+  },
+  {
+    "device_family": "aspiration--wallaby-medical--esperance-3-aspiration-catheter",
+    "query_used": "Esperance 3+ Aspiration Catheter System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00818075011025",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Socrates",
+      "companyName": "SCIENTIA VASCULAR LLC",
+      "deviceIdentifier": "b203ad4a-2d9a-44d3-8925-88ac073ecb63",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "SC038-127-001"
+    },
+    "retrieved_at": "2026-04-15T10:19:08+00:00",
+    "source_id": "accessgudid:00818075011025",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/b203ad4a-2d9a-44d3-8925-88ac073ecb63",
+    "title": "Socrates (SCIENTIA VASCULAR LLC)"
+  },
+  {
+    "device_family": "aspiration--wallaby-medical--esperance-3-aspiration-catheter",
+    "query_used": "Esperance 3+ Aspiration Catheter System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00818075010776",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Socrates",
+      "companyName": "SCIENTIA VASCULAR LLC",
+      "deviceIdentifier": "9d606e99-d97c-46a4-959d-36b770841ddf",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "SC038-156-001"
+    },
+    "retrieved_at": "2026-04-15T10:19:08+00:00",
+    "source_id": "accessgudid:00818075010776",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/9d606e99-d97c-46a4-959d-36b770841ddf",
+    "title": "Socrates (SCIENTIA VASCULAR LLC)"
+  }
+]

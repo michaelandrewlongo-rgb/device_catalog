@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--osteonics-corp--halifax-plus-interlaminar-clamp",
+  "artifact_folder": "corpectomy--osteonics-corp--halifax-plus-interlaminar-clamp",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2884,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--osteonics-corp--halifax-plus-interlaminar-clamp.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--osteonics-corp--halifax-plus-interlaminar-clamp/enriched/corpectomy--osteonics-corp--halifax-plus-interlaminar-clamp.json",
+        "bytes": 1436
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K962314.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--osteonics-corp--halifax-plus-interlaminar-clamp/fda_raw/KWP/K962314.json",
+        "bytes": 593
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--osteonics-corp--halifax-plus-interlaminar-clamp.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--osteonics-corp--halifax-plus-interlaminar-clamp/merged/corpectomy--osteonics-corp--halifax-plus-interlaminar-clamp.json",
+        "bytes": 855
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

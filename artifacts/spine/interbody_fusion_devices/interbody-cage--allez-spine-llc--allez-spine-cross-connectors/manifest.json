@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--allez-spine-llc--allez-spine-cross-connectors",
+  "artifact_folder": "interbody-cage--allez-spine-llc--allez-spine-cross-connectors",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3388,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--allez-spine-llc--allez-spine-cross-connectors.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--allez-spine-llc--allez-spine-cross-connectors/enriched/interbody-cage--allez-spine-llc--allez-spine-cross-connectors.json",
+        "bytes": 1955
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K070460.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--allez-spine-llc--allez-spine-cross-connectors/fda_raw/NKB/K070460.json",
+        "bytes": 591
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--allez-spine-llc--allez-spine-cross-connectors.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--allez-spine-llc--allez-spine-cross-connectors/merged/interbody-cage--allez-spine-llc--allez-spine-cross-connectors.json",
+        "bytes": 842
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

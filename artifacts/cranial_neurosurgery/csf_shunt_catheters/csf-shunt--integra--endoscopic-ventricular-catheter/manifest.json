@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--integra--endoscopic-ventricular-catheter",
+  "artifact_folder": "csf-shunt--integra--endoscopic-ventricular-catheter",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3293,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--integra--endoscopic-ventricular-catheter.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--endoscopic-ventricular-catheter/enriched/csf-shunt--integra--endoscopic-ventricular-catheter.json",
+        "bytes": 1892
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K971617.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--endoscopic-ventricular-catheter/fda_raw/JXG/K971617.json",
+        "bytes": 576
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--integra--endoscopic-ventricular-catheter.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--endoscopic-ventricular-catheter/merged/csf-shunt--integra--endoscopic-ventricular-catheter.json",
+        "bytes": 825
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

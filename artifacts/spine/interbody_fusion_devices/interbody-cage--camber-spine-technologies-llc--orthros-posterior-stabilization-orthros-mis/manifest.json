@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--camber-spine-technologies-llc--orthros-posterior-stabilization-orthros-mis",
+  "artifact_folder": "interbody-cage--camber-spine-technologies-llc--orthros-posterior-stabilization-orthros-mis",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3305,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--camber-spine-technologies-llc--orthros-posterior-stabilization-orthros-mis.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--camber-spine-technologies-llc--orthros-posterior-stabilization-orthros-mis/enriched/interbody-cage--camber-spine-technologies-llc--orthros-posterior-stabilization-orthros-mis.json",
+        "bytes": 1582
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K180980.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--camber-spine-technologies-llc--orthros-posterior-stabilization-orthros-mis/fda_raw/NKB/K180980.json",
+        "bytes": 706
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--camber-spine-technologies-llc--orthros-posterior-stabilization-orthros-mis.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--camber-spine-technologies-llc--orthros-posterior-stabilization-orthros-mis/merged/interbody-cage--camber-spine-technologies-llc--orthros-posterior-stabilization-orthros-mis.json",
+        "bytes": 1017
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "device_slug": "pedicle-screw--choice-spine-llc--harrier-sa-lumbar-interbody",
+  "artifact_folder": "pedicle-screw--choice-spine-llc--harrier-sa-lumbar-interbody",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3787,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--choice-spine-llc--harrier-sa-lumbar-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--choice-spine-llc--harrier-sa-lumbar-interbody/enriched/pedicle-screw--choice-spine-llc--harrier-sa-lumbar-interbody.json",
+        "bytes": 1709
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/pedicle-screw--choice-spine-llc--harrier-sa-lumbar-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--choice-spine-llc--harrier-sa-lumbar-interbody/extracted/fda_structured/pedicle-screw--choice-spine-llc--harrier-sa-lumbar-interbody.json",
+        "bytes": 628
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K191367.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--choice-spine-llc--harrier-sa-lumbar-interbody/fda_raw/MAX/K191367.json",
+        "bytes": 597
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--choice-spine-llc--harrier-sa-lumbar-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--choice-spine-llc--harrier-sa-lumbar-interbody/merged/pedicle-screw--choice-spine-llc--harrier-sa-lumbar-interbody.json",
+        "bytes": 853
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--alphatec-spine-inc--calibrate-ccx-interbody",
+  "artifact_folder": "pedicle-screw--alphatec-spine-inc--calibrate-ccx-interbody",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3273,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--alphatec-spine-inc--calibrate-ccx-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--alphatec-spine-inc--calibrate-ccx-interbody/enriched/pedicle-screw--alphatec-spine-inc--calibrate-ccx-interbody.json",
+        "bytes": 1832
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K232504.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--alphatec-spine-inc--calibrate-ccx-interbody/fda_raw/MAX/K232504.json",
+        "bytes": 596
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--alphatec-spine-inc--calibrate-ccx-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--alphatec-spine-inc--calibrate-ccx-interbody/merged/pedicle-screw--alphatec-spine-inc--calibrate-ccx-interbody.json",
+        "bytes": 845
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

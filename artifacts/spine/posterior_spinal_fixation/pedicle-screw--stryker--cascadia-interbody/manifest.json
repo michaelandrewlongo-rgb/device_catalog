@@ -1,0 +1,50 @@
+{
+  "device_slug": "pedicle-screw--stryker--cascadia-interbody",
+  "artifact_folder": "pedicle-screw--stryker--cascadia-interbody",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 4403,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--stryker--cascadia-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--cascadia-interbody/enriched/pedicle-screw--stryker--cascadia-interbody.json",
+        "bytes": 1389
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K150481.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--cascadia-interbody/fda_raw/MAX/K150481.json",
+        "bytes": 553
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K160547.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--cascadia-interbody/fda_raw/MAX/K160547.json",
+        "bytes": 547
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K162264.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--cascadia-interbody/fda_raw/MAX/K162264.json",
+        "bytes": 553
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K172009.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--cascadia-interbody/fda_raw/MAX/K172009.json",
+        "bytes": 553
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--stryker--cascadia-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--cascadia-interbody/merged/pedicle-screw--stryker--cascadia-interbody.json",
+        "bytes": 808
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

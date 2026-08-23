@@ -1,0 +1,47 @@
+{
+  "device_slug": "corpectomy--reliance-medical-systems-llc--reliance-posterior-cervical-thoracic",
+  "artifact_folder": "corpectomy--reliance-medical-systems-llc--reliance-posterior-cervical-thoracic",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 4554,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--reliance-medical-systems-llc--reliance-posterior-cervical-thoracic.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--reliance-medical-systems-llc--reliance-posterior-cervical-thoracic/enriched/corpectomy--reliance-medical-systems-llc--reliance-posterior-cervical-thoracic.json",
+        "bytes": 1741
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/corpectomy--reliance-medical-systems-llc--reliance-posterior-cervical-thoracic.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--reliance-medical-systems-llc--reliance-posterior-cervical-thoracic/extracted/fda_structured/corpectomy--reliance-medical-systems-llc--reliance-posterior-cervical-thoracic.json",
+        "bytes": 624
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K122292.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--reliance-medical-systems-llc--reliance-posterior-cervical-thoracic/fda_raw/KWP/K122292.json",
+        "bytes": 646
+      },
+      {
+        "source": "pipeline/data/fda_raw/KWP/K142867.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--reliance-medical-systems-llc--reliance-posterior-cervical-thoracic/fda_raw/KWP/K142867.json",
+        "bytes": 645
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--reliance-medical-systems-llc--reliance-posterior-cervical-thoracic.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--reliance-medical-systems-llc--reliance-posterior-cervical-thoracic/merged/corpectomy--reliance-medical-systems-llc--reliance-posterior-cervical-thoracic.json",
+        "bytes": 898
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

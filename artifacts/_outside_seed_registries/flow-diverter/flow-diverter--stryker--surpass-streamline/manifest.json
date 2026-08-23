@@ -1,0 +1,42 @@
+{
+  "device_slug": "flow-diverter--stryker--surpass-streamline",
+  "artifact_folder": "flow-diverter--stryker--surpass-streamline",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 8772,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/flow-diverter--stryker--surpass-streamline--knowledge.md",
+        "artifact": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--stryker--surpass-streamline/data_by_device/flow-diverter--stryker--surpass-streamline--knowledge.md",
+        "bytes": 5800
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/flow-diverter--stryker--surpass-streamline.json",
+        "artifact": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--stryker--surpass-streamline/extracted/fda_structured/flow-diverter--stryker--surpass-streamline.json",
+        "bytes": 528
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/flow-diverter--stryker--surpass-streamline.json",
+        "artifact": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--stryker--surpass-streamline/merged/flow-diverter--stryker--surpass-streamline.json",
+        "bytes": 1273
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/stryker/surpass-streamline.json",
+        "artifact": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--stryker--surpass-streamline/scraper_raw/stryker/surpass-streamline.json",
+        "bytes": 1171
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "flow-diverter",
+    "label": "Flow diverters noted as separate exemplar"
+  }
+}

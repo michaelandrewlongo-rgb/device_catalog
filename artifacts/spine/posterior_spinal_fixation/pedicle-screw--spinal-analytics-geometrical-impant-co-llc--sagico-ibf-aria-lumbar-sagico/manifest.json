@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--spinal-analytics-geometrical-impant-co-llc--sagico-ibf-aria-lumbar-sagico",
+  "artifact_folder": "pedicle-screw--spinal-analytics-geometrical-impant-co-llc--sagico-ibf-aria-lumbar-sagico",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3265,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--spinal-analytics-geometrical-impant-co-llc--sagico-ibf-aria-lumbar-sagico.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinal-analytics-geometrical-impant-co-llc--sagico-ibf-aria-lumbar-sagico/enriched/pedicle-screw--spinal-analytics-geometrical-impant-co-llc--sagico-ibf-aria-lumbar-sagico.json",
+        "bytes": 1558
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K161710.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinal-analytics-geometrical-impant-co-llc--sagico-ibf-aria-lumbar-sagico/fda_raw/MAX/K161710.json",
+        "bytes": 714
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--spinal-analytics-geometrical-impant-co-llc--sagico-ibf-aria-lumbar-sagico.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinal-analytics-geometrical-impant-co-llc--sagico-ibf-aria-lumbar-sagico/merged/pedicle-screw--spinal-analytics-geometrical-impant-co-llc--sagico-ibf-aria-lumbar-sagico.json",
+        "bytes": 993
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

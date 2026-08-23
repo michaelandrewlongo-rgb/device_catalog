@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--arthro-dif--acrosspine-pedicle-screw",
+  "artifact_folder": "interbody-cage--arthro-dif--acrosspine-pedicle-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2823,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--arthro-dif--acrosspine-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--arthro-dif--acrosspine-pedicle-screw/enriched/interbody-cage--arthro-dif--acrosspine-pedicle-screw.json",
+        "bytes": 1415
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K141695.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--arthro-dif--acrosspine-pedicle-screw/fda_raw/NKB/K141695.json",
+        "bytes": 574
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--arthro-dif--acrosspine-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--arthro-dif--acrosspine-pedicle-screw/merged/interbody-cage--arthro-dif--acrosspine-pedicle-screw.json",
+        "bytes": 834
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

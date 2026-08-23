@@ -1,0 +1,21 @@
+{
+  "device_slug": "nspr-technique--pedicle-screw--medtronic--cd-horizon",
+  "artifact_folder": "nspr-technique--pedicle-screw--medtronic--cd-horizon",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 8628,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/documents/nspr-technique--pedicle-screw--medtronic--cd-horizon.json",
+        "artifact": "artifacts/_outside_seed_registries/nspr-technique/nspr-technique--pedicle-screw--medtronic--cd-horizon/extracted/documents/nspr-technique--pedicle-screw--medtronic--cd-horizon.json",
+        "bytes": 8628
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "nspr-technique",
+    "label": "Outside listed seed registries"
+  }
+}

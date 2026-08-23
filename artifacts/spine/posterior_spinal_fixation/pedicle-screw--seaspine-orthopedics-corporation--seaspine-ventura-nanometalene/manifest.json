@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--seaspine-orthopedics-corporation--seaspine-ventura-nanometalene",
+  "artifact_folder": "pedicle-screw--seaspine-orthopedics-corporation--seaspine-ventura-nanometalene",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3011,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--seaspine-orthopedics-corporation--seaspine-ventura-nanometalene.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--seaspine-orthopedics-corporation--seaspine-ventura-nanometalene/enriched/pedicle-screw--seaspine-orthopedics-corporation--seaspine-ventura-nanometalene.json",
+        "bytes": 1472
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K173022.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--seaspine-orthopedics-corporation--seaspine-ventura-nanometalene/fda_raw/MAX/K173022.json",
+        "bytes": 648
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--seaspine-orthopedics-corporation--seaspine-ventura-nanometalene.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--seaspine-orthopedics-corporation--seaspine-ventura-nanometalene/merged/pedicle-screw--seaspine-orthopedics-corporation--seaspine-ventura-nanometalene.json",
+        "bytes": 891
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

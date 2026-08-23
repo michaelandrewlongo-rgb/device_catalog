@@ -1,0 +1,42 @@
+{
+  "device_slug": "interbody-cage--surgalign-spine-technologies--cortera-spinal-fixation",
+  "artifact_folder": "interbody-cage--surgalign-spine-technologies--cortera-spinal-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3840,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--surgalign-spine-technologies--cortera-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--surgalign-spine-technologies--cortera-spinal-fixation/enriched/interbody-cage--surgalign-spine-technologies--cortera-spinal-fixation.json",
+        "bytes": 1723
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--surgalign-spine-technologies--cortera-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--surgalign-spine-technologies--cortera-spinal-fixation/extracted/fda_structured/interbody-cage--surgalign-spine-technologies--cortera-spinal-fixation.json",
+        "bytes": 624
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K221403.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--surgalign-spine-technologies--cortera-spinal-fixation/fda_raw/NKB/K221403.json",
+        "bytes": 626
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--surgalign-spine-technologies--cortera-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--surgalign-spine-technologies--cortera-spinal-fixation/merged/interbody-cage--surgalign-spine-technologies--cortera-spinal-fixation.json",
+        "bytes": 867
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

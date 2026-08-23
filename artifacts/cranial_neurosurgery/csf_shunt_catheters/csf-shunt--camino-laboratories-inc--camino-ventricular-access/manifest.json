@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--camino-laboratories-inc--camino-ventricular-access",
+  "artifact_folder": "csf-shunt--camino-laboratories-inc--camino-ventricular-access",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2893,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--camino-laboratories-inc--camino-ventricular-access.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--camino-laboratories-inc--camino-ventricular-access/enriched/csf-shunt--camino-laboratories-inc--camino-ventricular-access.json",
+        "bytes": 1434
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K930222.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--camino-laboratories-inc--camino-ventricular-access/fda_raw/JXG/K930222.json",
+        "bytes": 606
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--camino-laboratories-inc--camino-ventricular-access.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--camino-laboratories-inc--camino-ventricular-access/merged/csf-shunt--camino-laboratories-inc--camino-ventricular-access.json",
+        "bytes": 853
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

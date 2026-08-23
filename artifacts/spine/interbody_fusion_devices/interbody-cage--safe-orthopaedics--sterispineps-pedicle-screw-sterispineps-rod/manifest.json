@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--safe-orthopaedics--sterispineps-pedicle-screw-sterispineps-rod",
+  "artifact_folder": "interbody-cage--safe-orthopaedics--sterispineps-pedicle-screw-sterispineps-rod",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3272,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--safe-orthopaedics--sterispineps-pedicle-screw-sterispineps-rod.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--safe-orthopaedics--sterispineps-pedicle-screw-sterispineps-rod/enriched/interbody-cage--safe-orthopaedics--sterispineps-pedicle-screw-sterispineps-rod.json",
+        "bytes": 1752
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K121299.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--safe-orthopaedics--sterispineps-pedicle-screw-sterispineps-rod/fda_raw/NKB/K121299.json",
+        "bytes": 627
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--safe-orthopaedics--sterispineps-pedicle-screw-sterispineps-rod.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--safe-orthopaedics--sterispineps-pedicle-screw-sterispineps-rod/merged/interbody-cage--safe-orthopaedics--sterispineps-pedicle-screw-sterispineps-rod.json",
+        "bytes": 893
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

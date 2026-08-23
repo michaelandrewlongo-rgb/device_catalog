@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--unitedstates-surgical--modification-to-spiral-radius-90",
+  "artifact_folder": "corpectomy--unitedstates-surgical--modification-to-spiral-radius-90",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2970,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--unitedstates-surgical--modification-to-spiral-radius-90.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--unitedstates-surgical--modification-to-spiral-radius-90/enriched/corpectomy--unitedstates-surgical--modification-to-spiral-radius-90.json",
+        "bytes": 1465
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K021825.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--unitedstates-surgical--modification-to-spiral-radius-90/fda_raw/KWP/K021825.json",
+        "bytes": 621
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--unitedstates-surgical--modification-to-spiral-radius-90.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--unitedstates-surgical--modification-to-spiral-radius-90/merged/corpectomy--unitedstates-surgical--modification-to-spiral-radius-90.json",
+        "bytes": 884
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

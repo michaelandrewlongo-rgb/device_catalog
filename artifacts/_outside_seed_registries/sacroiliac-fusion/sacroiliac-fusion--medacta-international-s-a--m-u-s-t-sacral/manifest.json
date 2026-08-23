@@ -1,0 +1,31 @@
+{
+  "device_slug": "sacroiliac-fusion--medacta-international-s-a--m-u-s-t-sacral",
+  "artifact_folder": "sacroiliac-fusion--medacta-international-s-a--m-u-s-t-sacral",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 1912,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/OUR/K171595.json",
+        "artifact": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--medacta-international-s-a--m-u-s-t-sacral/fda_raw/OUR/K171595.json",
+        "bytes": 637
+      },
+      {
+        "source": "pipeline/data/fda_raw/OUR/K193083.json",
+        "artifact": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--medacta-international-s-a--m-u-s-t-sacral/fda_raw/OUR/K193083.json",
+        "bytes": 638
+      },
+      {
+        "source": "pipeline/data/fda_raw/OUR/K203671.json",
+        "artifact": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--medacta-international-s-a--m-u-s-t-sacral/fda_raw/OUR/K203671.json",
+        "bytes": 637
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "sacroiliac-fusion",
+    "label": "Outside listed seed registries"
+  }
+}

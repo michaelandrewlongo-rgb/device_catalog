@@ -1,0 +1,21 @@
+{
+  "device_name": "Pipeline Flex Embolization Device with Shield Technology",
+  "manufacturer": "medtronic",
+  "category_hint": "flow-diverter",
+  "what_it_is": "Third-generation flow diverter embolization device for placement in parent vessel across the neck of intracranial aneurysms. Diverts flow away from aneurysm neck and reconstructs parent artery. Shield Technology is a surface modification using phosphorylcholine to reduce thrombogenicity. Reference device in flow diversion with 10 years of experience and highest number of clinical studies.",
+  "sizing_specs": null,
+  "indications": "Treatment of intracranial aneurysms (IA) by endovascular placement across the aneurysm neck in the parent vessel.",
+  "contraindications": null,
+  "compatible_with": "Phenom 17/21/27 microcatheters (delivery catheter)",
+  "use_notes": "Shield Technology (phosphorylcholine surface modification) shown to reduce thrombogenicity in vitro. Pipeline embolization devices are the reference in flow diversion. 1-year follow-up data available from PFLEX study.",
+  "also_known_as": [
+    "Pipeline Flex",
+    "PED",
+    "Pipeline Embolization Device",
+    "Pipeline Shield"
+  ],
+  "source_url": "https://www.medtronic.com/en-us/healthcare-professionals/products/neurological/neurovascular/aneurysm-flow-diverters/pipeline-flex-with-shield-technology.html",
+  "ifu_pdf_url": null,
+  "other_pdf_urls": {},
+  "chrome_api_endpoint": "https://www.medtronic.com/api/assets/medtronic-wide/public/cf/regions/americas/en-us/products/neurological/neurovascular/pipeline-flex-with-shield-technology-isw.model.json"
+}

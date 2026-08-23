@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K123207",
+  "clearance_date": "2012-11-29",
+  "device_class": 2,
+  "manufacturer_canonical": "osteomed-lp",
+  "manufacturer_raw": "Osteomed LP",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "PRIMALIF TM LLIF UNITARY PEEK LATERAL LUMBAR INTERBODY FUSION SYSTEM",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--osteomed-lp--primalif-tm-llif-unitary-peek",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf12/K123207.pdf"
+}

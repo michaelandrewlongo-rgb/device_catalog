@@ -1,0 +1,86 @@
+{
+  "category": "intracranial-stent",
+  "source_url": "https://evtoday.com/device-guide/us/cerebral-stents",
+  "headers": [
+    "Compare",
+    "Company Name",
+    "Product Name",
+    "Materials Used",
+    "Stent Diameters (mm)",
+    "Stent Lengths (mm)",
+    "Recommended Guidewire Size (inch)",
+    "Recommended Guide Catheter Size (inch)"
+  ],
+  "devices": [
+    {
+      "Compare": "",
+      "Company Name": "Cerenovus",
+      "Product Name": "Codman Enterprise 2 Vascular Reconstruction Device",
+      "Materials Used": "Nitinol, laser-cut, closed-cell design with platinum markers",
+      "Stent Diameters (mm)": "5 (for vessels 2.5–4)",
+      "Stent Lengths (mm)": "16, 23, 30, 39",
+      "Recommended Guidewire Size (inch)": "No guidewire",
+      "Recommended Guide Catheter Size (inch)": "5- or 6-F guiding catheter for a 0.021 delivery microcatheter"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Cerenovus",
+      "Product Name": "Codman Enterprise Vascular Reconstruction Device",
+      "Materials Used": "Nitinol",
+      "Stent Diameters (mm)": "4.5 (for vessels 2.5–4)",
+      "Stent Lengths (mm)": "14, 22, 28, 37",
+      "Recommended Guidewire Size (inch)": "No guidewire",
+      "Recommended Guide Catheter Size (inch)": "5- or 6-F guiding catheter for a 0.021 delivery microcatheter"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Terumo Neuro",
+      "Product Name": "LVIS Intraluminal Support Device",
+      "Materials Used": "Nitinol with tantalum markers",
+      "Stent Diameters (mm)": "3.5, 4, 4.5, 5.5",
+      "Stent Lengths (mm)": "12–33",
+      "Recommended Guidewire Size (inch)": "0.014",
+      "Recommended Guide Catheter Size (inch)": "ID: 0.021"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Terumo Neuro",
+      "Product Name": "LVIS Jr Intraluminal Support Device",
+      "Materials Used": "Nitinol with tantalum markers",
+      "Stent Diameters (mm)": "2.5, 3.5",
+      "Stent Lengths (mm)": "13–33",
+      "Recommended Guidewire Size (inch)": "0.014",
+      "Recommended Guide Catheter Size (inch)": "ID: 0.0165, 0.017"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Stryker",
+      "Product Name": "Neuroform Atlas Stent System",
+      "Materials Used": "Nitinol",
+      "Stent Diameters (mm)": "3, 4, 4.5",
+      "Stent Lengths (mm)": "15, 21, 24, 30",
+      "Recommended Guidewire Size (inch)": "0.014",
+      "Recommended Guide Catheter Size (inch)": "0.0165"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Stryker",
+      "Product Name": "Neuroform EZ Stent System",
+      "Materials Used": "Nitinol",
+      "Stent Diameters (mm)": "2.5, 3, 3.5, 4, 4.5",
+      "Stent Lengths (mm)": "10, 15, 20, 30",
+      "Recommended Guidewire Size (inch)": "0.014",
+      "Recommended Guide Catheter Size (inch)": "ID: 0.027"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Stryker",
+      "Product Name": "Wingspan Stent System",
+      "Materials Used": "Nitinol",
+      "Stent Diameters (mm)": "2.5, 3, 3.5, 4, 4.5",
+      "Stent Lengths (mm)": "9, 15, 20",
+      "Recommended Guidewire Size (inch)": "0.014",
+      "Recommended Guide Catheter Size (inch)": "Minimum ID: 0.064"
+    }
+  ]
+}

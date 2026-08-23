@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--artfx-medical--artfx-lumbar-peek-cages",
+  "artifact_folder": "pedicle-screw--artfx-medical--artfx-lumbar-peek-cages",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2795,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--artfx-medical--artfx-lumbar-peek-cages.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--artfx-medical--artfx-lumbar-peek-cages/enriched/pedicle-screw--artfx-medical--artfx-lumbar-peek-cages.json",
+        "bytes": 1402
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K240889.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--artfx-medical--artfx-lumbar-peek-cages/fda_raw/MAX/K240889.json",
+        "bytes": 572
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--artfx-medical--artfx-lumbar-peek-cages.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--artfx-medical--artfx-lumbar-peek-cages/merged/pedicle-screw--artfx-medical--artfx-lumbar-peek-cages.json",
+        "bytes": 821
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

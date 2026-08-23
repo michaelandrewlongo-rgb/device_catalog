@@ -1,0 +1,30 @@
+{
+  "device_name": "iFuse TORQ",
+  "manufacturer": "si-bone",
+  "catalog_category": "sacroiliac-fusion",
+  "filename_stem": "sacroiliac-fusion--si-bone--ifuse-torq",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "Threaded sacroiliac joint fusion implant with 3D-printed porous titanium (FuSIon 3D) surface for osseointegration. Features TORQLock hooked thread profile to reduce toggle, IntelliHarvest helical flutes and fenestrations for bone self-harvesting, and EZDrive self-drilling self-tapping tip that decreases surgical steps. Two minimally invasive approach options (lateral transiliac).",
+  "sizing_specs": null,
+  "indications": "Minimally invasive surgical fusion of the sacroiliac (SI) joint.",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "Sheep model histology (6-week) showed 11.5 Nm max torque-out for iFuse TORQ vs 0.5 Nm for traditional screws (Technical Study 300940-TS). STACI trial: prospective multicenter study demonstrating safety and effectiveness.",
+  "deployment_steps": null,
+  "also_known_as": [
+    "iFuse TORQ Implant System"
+  ],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://si-bone.com/providers/solutions/si-joint-dysfunction/ifuse-torq",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ]
+}

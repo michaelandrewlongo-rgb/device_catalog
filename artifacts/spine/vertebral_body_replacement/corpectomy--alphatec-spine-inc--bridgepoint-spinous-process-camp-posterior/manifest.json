@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--alphatec-spine-inc--bridgepoint-spinous-process-camp-posterior",
+  "artifact_folder": "corpectomy--alphatec-spine-inc--bridgepoint-spinous-process-camp-posterior",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3544,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--alphatec-spine-inc--bridgepoint-spinous-process-camp-posterior.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--alphatec-spine-inc--bridgepoint-spinous-process-camp-posterior/enriched/corpectomy--alphatec-spine-inc--bridgepoint-spinous-process-camp-posterior.json",
+        "bytes": 1987
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K103205.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--alphatec-spine-inc--bridgepoint-spinous-process-camp-posterior/fda_raw/KWP/K103205.json",
+        "bytes": 639
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--alphatec-spine-inc--bridgepoint-spinous-process-camp-posterior.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--alphatec-spine-inc--bridgepoint-spinous-process-camp-posterior/merged/corpectomy--alphatec-spine-inc--bridgepoint-spinous-process-camp-posterior.json",
+        "bytes": 918
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

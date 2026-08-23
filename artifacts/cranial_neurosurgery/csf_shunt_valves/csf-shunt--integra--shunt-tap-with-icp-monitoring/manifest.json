@@ -1,0 +1,21 @@
+{
+  "device_slug": "csf-shunt--integra--shunt-tap-with-icp-monitoring",
+  "artifact_folder": "csf-shunt--integra--shunt-tap-with-icp-monitoring",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 583,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K964371.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--shunt-tap-with-icp-monitoring/fda_raw/JXG/K964371.json",
+        "bytes": 583
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

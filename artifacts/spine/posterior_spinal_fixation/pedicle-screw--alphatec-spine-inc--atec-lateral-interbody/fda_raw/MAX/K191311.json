@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K191311",
+  "clearance_date": "2019-08-12",
+  "device_class": 2,
+  "manufacturer_canonical": "alphatec-spine-inc",
+  "manufacturer_raw": "Alphatec Spine, Inc.",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "ATEC Lateral Interbody System",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--alphatec-spine-inc--atec-lateral-interbody",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf19/K191311.pdf"
+}

@@ -1,0 +1,31 @@
+{
+  "device_name": "SI-LOK SELECT Sacroiliac Joint Fusion System",
+  "manufacturer": "globus",
+  "catalog_category": "sacroiliac-fusion",
+  "filename_stem": "sacroiliac-fusion--globus--si-lok-select-sacroiliac-joint-fusion",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "SI joint fusion screws for lateral and posterior approaches. SintrOS laser surface treatment. Optimized slot geometry for varying anatomy.",
+  "sizing_specs": null,
+  "indications": "Sacroiliac joint fusion via lateral or posterior approach.",
+  "contraindications": null,
+  "compatible_with": "ExcelsiusGPS navigation.",
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [
+    "SI-LOK",
+    "SI-LOK SELECT"
+  ],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.globusmedical.com/healthcare-professionals/spine/procedures/deformity/",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--life-spine-inc--steerable-plateau-ti",
+  "artifact_folder": "pedicle-screw--life-spine-inc--steerable-plateau-ti",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2780,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--life-spine-inc--steerable-plateau-ti.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--life-spine-inc--steerable-plateau-ti/enriched/pedicle-screw--life-spine-inc--steerable-plateau-ti.json",
+        "bytes": 1395
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K193521.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--life-spine-inc--steerable-plateau-ti/fda_raw/MAX/K193521.json",
+        "bytes": 571
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--life-spine-inc--steerable-plateau-ti.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--life-spine-inc--steerable-plateau-ti/merged/pedicle-screw--life-spine-inc--steerable-plateau-ti.json",
+        "bytes": 814
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--huvexel-co-ltd--iva-cage-ti-acif-plif",
+  "artifact_folder": "pedicle-screw--huvexel-co-ltd--iva-cage-ti-acif-plif",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2915,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--huvexel-co-ltd--iva-cage-ti-acif-plif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--huvexel-co-ltd--iva-cage-ti-acif-plif/enriched/pedicle-screw--huvexel-co-ltd--iva-cage-ti-acif-plif.json",
+        "bytes": 1448
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K173080.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--huvexel-co-ltd--iva-cage-ti-acif-plif/fda_raw/MAX/K173080.json",
+        "bytes": 600
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--huvexel-co-ltd--iva-cage-ti-acif-plif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--huvexel-co-ltd--iva-cage-ti-acif-plif/merged/pedicle-screw--huvexel-co-ltd--iva-cage-ti-acif-plif.json",
+        "bytes": 867
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

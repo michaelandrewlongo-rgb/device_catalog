@@ -1,0 +1,2070 @@
+{
+  "domain": "cranial_neurosurgery",
+  "registry": "csf_shunt_valves",
+  "label": "Programmable and Fixed Valves",
+  "path": "artifacts/cranial_neurosurgery/csf_shunt_valves",
+  "devices": [
+    {
+      "slug": "csf-shunt--aesculap-inc--aesculap-meithke-progav-2-0",
+      "artifact_folder": "csf-shunt--aesculap-inc--aesculap-meithke-progav-2-0",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aesculap-inc--aesculap-meithke-progav-2-0",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--aesculap-inc--aesculap-meithke-progav-2-0-recalls",
+      "artifact_folder": "csf-shunt--aesculap-inc--aesculap-meithke-progav-2-0-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aesculap-inc--aesculap-meithke-progav-2-0-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--aesculap-inc--aesculap-meithke-progav-programmable-shunt",
+      "artifact_folder": "csf-shunt--aesculap-inc--aesculap-meithke-progav-programmable-shunt",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aesculap-inc--aesculap-meithke-progav-programmable-shunt",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--aesculap-inc--aesculap-meithke-progav-programmable-shunt-recalls",
+      "artifact_folder": "csf-shunt--aesculap-inc--aesculap-meithke-progav-programmable-shunt-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aesculap-inc--aesculap-meithke-progav-programmable-shunt-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--aesculap-inc--aesculap-meithke-progav-programmable-valve",
+      "artifact_folder": "csf-shunt--aesculap-inc--aesculap-meithke-progav-programmable-valve",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aesculap-inc--aesculap-meithke-progav-programmable-valve",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--aesculap-inc--aesculap-meithke-progav-programmable-valve-recalls",
+      "artifact_folder": "csf-shunt--aesculap-inc--aesculap-meithke-progav-programmable-valve-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aesculap-inc--aesculap-meithke-progav-programmable-valve-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--aesculap-inc--aesculap-meithke-prosa-adjustable-shunt",
+      "artifact_folder": "csf-shunt--aesculap-inc--aesculap-meithke-prosa-adjustable-shunt",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aesculap-inc--aesculap-meithke-prosa-adjustable-shunt",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--aesculap-inc--aesculap-meithke-prosa-adjustable-shunt-recalls",
+      "artifact_folder": "csf-shunt--aesculap-inc--aesculap-meithke-prosa-adjustable-shunt-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aesculap-inc--aesculap-meithke-prosa-adjustable-shunt-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--aesculap-inc--aesculap-meithke-shunt",
+      "artifact_folder": "csf-shunt--aesculap-inc--aesculap-meithke-shunt",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aesculap-inc--aesculap-meithke-shunt",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--aesculap-inc--aesculap-meithke-shunt-recalls",
+      "artifact_folder": "csf-shunt--aesculap-inc--aesculap-meithke-shunt-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aesculap-inc--aesculap-meithke-shunt-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--aesculap-inc--aesculap-miethke-shunt",
+      "artifact_folder": "csf-shunt--aesculap-inc--aesculap-miethke-shunt",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aesculap-inc--aesculap-miethke-shunt",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--aesculap-inc--aesculap-miethke-shunt-gravity-assisted",
+      "artifact_folder": "csf-shunt--aesculap-inc--aesculap-miethke-shunt-gravity-assisted",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aesculap-inc--aesculap-miethke-shunt-gravity-assisted",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--aesculap-inc--aesculap-miethke-shunt-gravity-assisted-recalls",
+      "artifact_folder": "csf-shunt--aesculap-inc--aesculap-miethke-shunt-gravity-assisted-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aesculap-inc--aesculap-miethke-shunt-gravity-assisted-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--aesculap-inc--aesculap-miethke-shunt-recalls",
+      "artifact_folder": "csf-shunt--aesculap-inc--aesculap-miethke-shunt-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aesculap-inc--aesculap-miethke-shunt-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--aesculap-inc--aesculap-miethke-shunt-w-nph",
+      "artifact_folder": "csf-shunt--aesculap-inc--aesculap-miethke-shunt-w-nph",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aesculap-inc--aesculap-miethke-shunt-w-nph",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--aesculap-inc--aesculap-miethke-shunt-w-nph-recalls",
+      "artifact_folder": "csf-shunt--aesculap-inc--aesculap-miethke-shunt-w-nph-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aesculap-inc--aesculap-miethke-shunt-w-nph-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--aesculap-inc--m-blue-adjustable-shunt",
+      "artifact_folder": "csf-shunt--aesculap-inc--m-blue-adjustable-shunt",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aesculap-inc--m-blue-adjustable-shunt",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--aesculap-inc--m-blue-adjustable-shunt-recalls",
+      "artifact_folder": "csf-shunt--aesculap-inc--m-blue-adjustable-shunt-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aesculap-inc--m-blue-adjustable-shunt-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--aesculap-inc--miethke-shunt-gav-2-0",
+      "artifact_folder": "csf-shunt--aesculap-inc--miethke-shunt-gav-2-0",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aesculap-inc--miethke-shunt-gav-2-0",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--aesculap-inc--miethke-shunt-gav-2-0-recalls",
+      "artifact_folder": "csf-shunt--aesculap-inc--miethke-shunt-gav-2-0-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aesculap-inc--miethke-shunt-gav-2-0-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--aesculap-inc--progav-programmable-shunt-progav-2",
+      "artifact_folder": "csf-shunt--aesculap-inc--progav-programmable-shunt-progav-2",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aesculap-inc--progav-programmable-shunt-progav-2",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--aesculap-inc--progav-programmable-shunt-progav-2-recalls",
+      "artifact_folder": "csf-shunt--aesculap-inc--progav-programmable-shunt-progav-2-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aesculap-inc--progav-programmable-shunt-progav-2-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--american-heyer-schulte--american-heyer-schulte-low-profile",
+      "artifact_folder": "csf-shunt--american-heyer-schulte--american-heyer-schulte-low-profile",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--american-heyer-schulte--american-heyer-schulte-low-profile",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--american-heyer-schulte--one-piece-shunt",
+      "artifact_folder": "csf-shunt--american-heyer-schulte--one-piece-shunt",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--american-heyer-schulte--one-piece-shunt",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--american-v-mueller--heyer-schulte-hermetic-external-csf",
+      "artifact_folder": "csf-shunt--american-v-mueller--heyer-schulte-hermetic-external-csf",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--american-v-mueller--heyer-schulte-hermetic-external-csf",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--anuncia-medical-inc--reflow-mini",
+      "artifact_folder": "csf-shunt--anuncia-medical-inc--reflow-mini",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--anuncia-medical-inc--reflow-mini",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--anuncia-medical-inc--reflow-mini-and-reflow-mini",
+      "artifact_folder": "csf-shunt--anuncia-medical-inc--reflow-mini-and-reflow-mini",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--anuncia-medical-inc--reflow-mini-and-reflow-mini",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--aqueduct-critical-care-inc--smart-external-drain-sed",
+      "artifact_folder": "csf-shunt--aqueduct-critical-care-inc--smart-external-drain-sed",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aqueduct-critical-care-inc--smart-external-drain-sed",
+      "file_count": 8,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 4,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--baxter-healthcare-corp--heyer-schulte-csf-ventri-access",
+      "artifact_folder": "csf-shunt--baxter-healthcare-corp--heyer-schulte-csf-ventri-access",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--baxter-healthcare-corp--heyer-schulte-csf-ventri-access",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--baxter-healthcare-corp--optyx",
+      "artifact_folder": "csf-shunt--baxter-healthcare-corp--optyx",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--baxter-healthcare-corp--optyx",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--baxter-healthcare-corp--the-pudenz-in-line-valve",
+      "artifact_folder": "csf-shunt--baxter-healthcare-corp--the-pudenz-in-line-valve",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--baxter-healthcare-corp--the-pudenz-in-line-valve",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--biomedics--the-bioplate-shunt-connector",
+      "artifact_folder": "csf-shunt--biomedics--the-bioplate-shunt-connector",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--biomedics--the-bioplate-shunt-connector",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--borvo-medical-inc--borvo-evac-ergo-borvo-evac",
+      "artifact_folder": "csf-shunt--borvo-medical-inc--borvo-evac-ergo-borvo-evac",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--borvo-medical-inc--borvo-evac-ergo-borvo-evac",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--brainspace-inc--intellidrop",
+      "artifact_folder": "csf-shunt--brainspace-inc--intellidrop",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--brainspace-inc--intellidrop",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--btg-international-inc--ekos-ultrasound-evd-evd-control",
+      "artifact_folder": "csf-shunt--btg-international-inc--ekos-ultrasound-evd-evd-control",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--btg-international-inc--ekos-ultrasound-evd-evd-control",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--cerenovus--accu-flo-pressure-valve",
+      "artifact_folder": "csf-shunt--cerenovus--accu-flo-pressure-valve",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cerenovus--accu-flo-pressure-valve",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--cerenovus--accu-flo-unitized-shunt",
+      "artifact_folder": "csf-shunt--cerenovus--accu-flo-unitized-shunt",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cerenovus--accu-flo-unitized-shunt",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--cerenovus--codman-eds-3-csf-external",
+      "artifact_folder": "csf-shunt--cerenovus--codman-eds-3-csf-external",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cerenovus--codman-eds-3-csf-external",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--cerenovus--codman-hakim-micro-ii-valve",
+      "artifact_folder": "csf-shunt--cerenovus--codman-hakim-micro-ii-valve",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cerenovus--codman-hakim-micro-ii-valve",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--cerenovus--codman-hakim-programmable-valve-w",
+      "artifact_folder": "csf-shunt--cerenovus--codman-hakim-programmable-valve-w",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cerenovus--codman-hakim-programmable-valve-w",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--cerenovus--codman-hakim-shunt-s",
+      "artifact_folder": "csf-shunt--cerenovus--codman-hakim-shunt-s",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cerenovus--codman-hakim-shunt-s",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--cerenovus--codman-vpv-model-82-3192",
+      "artifact_folder": "csf-shunt--cerenovus--codman-vpv-model-82-3192",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cerenovus--codman-vpv-model-82-3192",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--cerenovus--hakim-programmable-and-precision-valve",
+      "artifact_folder": "csf-shunt--cerenovus--hakim-programmable-and-precision-valve",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cerenovus--hakim-programmable-and-precision-valve",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--cerenovus--hakim-programmer-and-transmitter",
+      "artifact_folder": "csf-shunt--cerenovus--hakim-programmer-and-transmitter",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cerenovus--hakim-programmer-and-transmitter",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--cerenovus--holter-in-line-shunt-filter",
+      "artifact_folder": "csf-shunt--cerenovus--holter-in-line-shunt-filter",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cerenovus--holter-in-line-shunt-filter",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--cerenovus--modification-to-codman-hakim-shunt",
+      "artifact_folder": "csf-shunt--cerenovus--modification-to-codman-hakim-shunt",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cerenovus--modification-to-codman-hakim-shunt",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--cerenovus--modification-to-hakim-precision-valve",
+      "artifact_folder": "csf-shunt--cerenovus--modification-to-hakim-precision-valve",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cerenovus--modification-to-hakim-precision-valve",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--cerenovus--uni-shunt-tm-with-elliptical",
+      "artifact_folder": "csf-shunt--cerenovus--uni-shunt-tm-with-elliptical",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cerenovus--uni-shunt-tm-with-elliptical",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--clinical-neuro-systems-llc--clinical-neuro-s-monitorr-icp",
+      "artifact_folder": "csf-shunt--clinical-neuro-systems-llc--clinical-neuro-s-monitorr-icp",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--clinical-neuro-systems-llc--clinical-neuro-s-monitorr-icp",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--clinical-neuro-systems-llc--clinical-neuro-syst-monitorr-ext",
+      "artifact_folder": "csf-shunt--clinical-neuro-systems-llc--clinical-neuro-syst-monitorr-ext",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--clinical-neuro-systems-llc--clinical-neuro-syst-monitorr-ext",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--cordis--cordis-gravity-compensating-accessory",
+      "artifact_folder": "csf-shunt--cordis--cordis-gravity-compensating-accessory",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cordis--cordis-gravity-compensating-accessory",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--cordis--cordis-horizontal-verical-valve",
+      "artifact_folder": "csf-shunt--cordis--cordis-horizontal-verical-valve",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cordis--cordis-horizontal-verical-valve",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--cordis--cordis-polypropylene-burr-hole-reservoir",
+      "artifact_folder": "csf-shunt--cordis--cordis-polypropylene-burr-hole-reservoir",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cordis--cordis-polypropylene-burr-hole-reservoir",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--cordis--cordis-polypropylene-straight-t-y",
+      "artifact_folder": "csf-shunt--cordis--cordis-polypropylene-straight-t-y",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cordis--cordis-polypropylene-straight-t-y",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--cordis--cordis-sharp-ended-stylet-blunt",
+      "artifact_folder": "csf-shunt--cordis--cordis-sharp-ended-stylet-blunt",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cordis--cordis-sharp-ended-stylet-blunt",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--cordis--cordis-straight-or-finned-ventr",
+      "artifact_folder": "csf-shunt--cordis--cordis-straight-or-finned-ventr",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cordis--cordis-straight-or-finned-ventr",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--cordis--evds-evmds-lds-ivmcs-central",
+      "artifact_folder": "csf-shunt--cordis--evds-evmds-lds-ivmcs-central",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cordis--evds-evmds-lds-ivmcs-central",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--cordis--standard-pediatric-cordis-hydrocephalus-valves",
+      "artifact_folder": "csf-shunt--cordis--standard-pediatric-cordis-hydrocephalus-valves",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cordis--standard-pediatric-cordis-hydrocephalus-valves",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--elekta-implants-sa--precision-flow-osv-ii",
+      "artifact_folder": "csf-shunt--elekta-implants-sa--precision-flow-osv-ii",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--elekta-implants-sa--precision-flow-osv-ii",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--gesco-intl-inc--ventri-cath",
+      "artifact_folder": "csf-shunt--gesco-intl-inc--ventri-cath",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--gesco-intl-inc--ventri-cath",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--heyer-schulte-corp--mishler-2-chamb-flushing-valve",
+      "artifact_folder": "csf-shunt--heyer-schulte-corp--mishler-2-chamb-flushing-valve",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--heyer-schulte-corp--mishler-2-chamb-flushing-valve",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--heyer-schulte-corp--valve-standard-model-pudenze-flushing",
+      "artifact_folder": "csf-shunt--heyer-schulte-corp--valve-standard-model-pudenze-flushing",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--heyer-schulte-corp--valve-standard-model-pudenze-flushing",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--holter-hausner-intl--h-h-cruciform-slit-valve",
+      "artifact_folder": "csf-shunt--holter-hausner-intl--h-h-cruciform-slit-valve",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--holter-hausner-intl--h-h-cruciform-slit-valve",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--holter-hausner-intl--h-h-fifth-ventricle",
+      "artifact_folder": "csf-shunt--holter-hausner-intl--h-h-fifth-ventricle",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--holter-hausner-intl--h-h-fifth-ventricle",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--holter-hausner-intl--h-h-fixation-and-joining",
+      "artifact_folder": "csf-shunt--holter-hausner-intl--h-h-fixation-and-joining",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--holter-hausner-intl--h-h-fixation-and-joining",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--holter-hausner-intl--h-h-fixation-joining-connectors",
+      "artifact_folder": "csf-shunt--holter-hausner-intl--h-h-fixation-joining-connectors",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--holter-hausner-intl--h-h-fixation-joining-connectors",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--holter-hausner-intl--h-h-flushing-reservoir",
+      "artifact_folder": "csf-shunt--holter-hausner-intl--h-h-flushing-reservoir",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--holter-hausner-intl--h-h-flushing-reservoir",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--holter-hausner-intl--h-h-in-line-valved",
+      "artifact_folder": "csf-shunt--holter-hausner-intl--h-h-in-line-valved",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--holter-hausner-intl--h-h-in-line-valved",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--holter-hausner-intl--h-h-rickham-type-reservoir",
+      "artifact_folder": "csf-shunt--holter-hausner-intl--h-h-rickham-type-reservoir",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--holter-hausner-intl--h-h-rickham-type-reservoir",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--holter-hausner-intl--h-h-unitized-standard-shunt",
+      "artifact_folder": "csf-shunt--holter-hausner-intl--h-h-unitized-standard-shunt",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--holter-hausner-intl--h-h-unitized-standard-shunt",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--holter-hausner-intl--valve-h-h-cruciform-slit",
+      "artifact_folder": "csf-shunt--holter-hausner-intl--valve-h-h-cruciform-slit",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--holter-hausner-intl--valve-h-h-cruciform-slit",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--inmed-ltda--csf400-and-csf600",
+      "artifact_folder": "csf-shunt--inmed-ltda--csf400-and-csf600",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--inmed-ltda--csf400-and-csf600",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--beverly-referential-valve-nl850-9710",
+      "artifact_folder": "csf-shunt--integra--beverly-referential-valve-nl850-9710",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--beverly-referential-valve-nl850-9710",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--beverly-referential-valve-nl850-9710-recalls",
+      "artifact_folder": "csf-shunt--integra--beverly-referential-valve-nl850-9710-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--beverly-referential-valve-nl850-9710-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--bundled-neurological-shunts-and-accessories",
+      "artifact_folder": "csf-shunt--integra--bundled-neurological-shunts-and-accessories",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--bundled-neurological-shunts-and-accessories",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--bundled-neurological-shunts-and-accessories-recalls",
+      "artifact_folder": "csf-shunt--integra--bundled-neurological-shunts-and-accessories-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--bundled-neurological-shunts-and-accessories-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--certas-plus-programmable-valves",
+      "artifact_folder": "csf-shunt--integra--certas-plus-programmable-valves",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--certas-plus-programmable-valves",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--certas-plus-valve",
+      "artifact_folder": "csf-shunt--integra--certas-plus-valve",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--certas-plus-valve",
+      "file_count": 3,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--codman-certas-plus-electronic-tool",
+      "artifact_folder": "csf-shunt--integra--codman-certas-plus-electronic-tool",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--codman-certas-plus-electronic-tool",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--codman-certas-plus-electronic-tool-recalls",
+      "artifact_folder": "csf-shunt--integra--codman-certas-plus-electronic-tool-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--codman-certas-plus-electronic-tool-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--codman-certas-plus-programmable-valve",
+      "artifact_folder": "csf-shunt--integra--codman-certas-plus-programmable-valve",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--codman-certas-plus-programmable-valve",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--codman-certas-plus-programmable-valve-recalls",
+      "artifact_folder": "csf-shunt--integra--codman-certas-plus-programmable-valve-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--codman-certas-plus-programmable-valve-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--codman-libertis-1-5-mm",
+      "artifact_folder": "csf-shunt--integra--codman-libertis-1-5-mm",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--codman-libertis-1-5-mm",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--codman-libertis-1-5-mm-recalls",
+      "artifact_folder": "csf-shunt--integra--codman-libertis-1-5-mm-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--codman-libertis-1-5-mm-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--contour-flex-valve-and-shunt",
+      "artifact_folder": "csf-shunt--integra--contour-flex-valve-and-shunt",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--contour-flex-valve-and-shunt",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--contour-flex-valve-and-shunt-recalls",
+      "artifact_folder": "csf-shunt--integra--contour-flex-valve-and-shunt-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--contour-flex-valve-and-shunt-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--equi-flow-valve-and-shunt",
+      "artifact_folder": "csf-shunt--integra--equi-flow-valve-and-shunt",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--equi-flow-valve-and-shunt",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--equi-flow-valve-and-shunt-recalls",
+      "artifact_folder": "csf-shunt--integra--equi-flow-valve-and-shunt-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--equi-flow-valve-and-shunt-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--hakim-programmable-valves-hakim-precision",
+      "artifact_folder": "csf-shunt--integra--hakim-programmable-valves-hakim-precision",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--hakim-programmable-valves-hakim-precision",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--hakim-programmable-valves-hakim-precision-recalls",
+      "artifact_folder": "csf-shunt--integra--hakim-programmable-valves-hakim-precision-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--hakim-programmable-valves-hakim-precision-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--horizontal-vertical-lumbar-valve-and",
+      "artifact_folder": "csf-shunt--integra--horizontal-vertical-lumbar-valve-and",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--horizontal-vertical-lumbar-valve-and",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--horizontal-vertical-lumbar-valve-and-recalls",
+      "artifact_folder": "csf-shunt--integra--horizontal-vertical-lumbar-valve-and-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--horizontal-vertical-lumbar-valve-and-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--horizontal-vertical-lumbar-valve-s",
+      "artifact_folder": "csf-shunt--integra--horizontal-vertical-lumbar-valve-s",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--horizontal-vertical-lumbar-valve-s",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--horizontal-vertical-lumbar-valve-s-recalls",
+      "artifact_folder": "csf-shunt--integra--horizontal-vertical-lumbar-valve-s-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--horizontal-vertical-lumbar-valve-s-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--integra-dp-valve-s-including",
+      "artifact_folder": "csf-shunt--integra--integra-dp-valve-s-including",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--integra-dp-valve-s-including",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--integra-flow-regulating-valve-s",
+      "artifact_folder": "csf-shunt--integra--integra-flow-regulating-valve-s",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--integra-flow-regulating-valve-s",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--limitorr-volume-limiting-external-csf",
+      "artifact_folder": "csf-shunt--integra--limitorr-volume-limiting-external-csf",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--limitorr-volume-limiting-external-csf",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--limitorr-volume-limiting-external-csf-recalls",
+      "artifact_folder": "csf-shunt--integra--limitorr-volume-limiting-external-csf-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--limitorr-volume-limiting-external-csf-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--low-flow-osv-ii-hydrocephalus",
+      "artifact_folder": "csf-shunt--integra--low-flow-osv-ii-hydrocephalus",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--low-flow-osv-ii-hydrocephalus",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--low-flow-osv-ii-hydrocephalus-recalls",
+      "artifact_folder": "csf-shunt--integra--low-flow-osv-ii-hydrocephalus-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--low-flow-osv-ii-hydrocephalus-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--maurice-worldwide-shunt",
+      "artifact_folder": "csf-shunt--integra--maurice-worldwide-shunt",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--maurice-worldwide-shunt",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--maurice-worldwide-shunt-recalls",
+      "artifact_folder": "csf-shunt--integra--maurice-worldwide-shunt-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--maurice-worldwide-shunt-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--modification-to-burr-hole-valve",
+      "artifact_folder": "csf-shunt--integra--modification-to-burr-hole-valve",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--modification-to-burr-hole-valve",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--modification-to-burr-hole-valve-recalls",
+      "artifact_folder": "csf-shunt--integra--modification-to-burr-hole-valve-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--modification-to-burr-hole-valve-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--novus-standard-and-pediatric-valves",
+      "artifact_folder": "csf-shunt--integra--novus-standard-and-pediatric-valves",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--novus-standard-and-pediatric-valves",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--novus-standard-and-pediatric-valves-recalls",
+      "artifact_folder": "csf-shunt--integra--novus-standard-and-pediatric-valves-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--novus-standard-and-pediatric-valves-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--osv-ii",
+      "artifact_folder": "csf-shunt--integra--osv-ii",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--osv-ii",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--osv-ii-low-flow-low",
+      "artifact_folder": "csf-shunt--integra--osv-ii-low-flow-low",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--osv-ii-low-flow-low",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--osv-ii-low-flow-low-recalls",
+      "artifact_folder": "csf-shunt--integra--osv-ii-low-flow-low-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--osv-ii-low-flow-low-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--osv-ii-lumbar-valve-and",
+      "artifact_folder": "csf-shunt--integra--osv-ii-lumbar-valve-and",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--osv-ii-lumbar-valve-and",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--osv-ii-lumbar-valve-and-recalls",
+      "artifact_folder": "csf-shunt--integra--osv-ii-lumbar-valve-and-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--osv-ii-lumbar-valve-and-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--osv-ii-recalls",
+      "artifact_folder": "csf-shunt--integra--osv-ii-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--osv-ii-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--shunt-tap",
+      "artifact_folder": "csf-shunt--integra--shunt-tap",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--shunt-tap",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--shunt-tap-with-icp-monitoring",
+      "artifact_folder": "csf-shunt--integra--shunt-tap-with-icp-monitoring",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--shunt-tap-with-icp-monitoring",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--irras-inc--irraflow-cns",
+      "artifact_folder": "csf-shunt--irras-inc--irraflow-cns",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--irras-inc--irraflow-cns",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--irras-usa--irraflow-active-fluid-exchange-afes",
+      "artifact_folder": "csf-shunt--irras-usa--irraflow-active-fluid-exchange-afes",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--irras-usa--irraflow-active-fluid-exchange-afes",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--irras-usa-inc--irraflow-active-fluid-exchange-afes",
+      "artifact_folder": "csf-shunt--irras-usa-inc--irraflow-active-fluid-exchange-afes",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--irras-usa-inc--irraflow-active-fluid-exchange-afes",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--joe-w-utt--valve-anti-syphon-model-pudenze",
+      "artifact_folder": "csf-shunt--joe-w-utt--valve-anti-syphon-model-pudenze",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--joe-w-utt--valve-anti-syphon-model-pudenze",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--johnson-johnson-professionals-inc--codman-hakim-micro-precision-valve",
+      "artifact_folder": "csf-shunt--johnson-johnson-professionals-inc--codman-hakim-micro-precision-valve",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--johnson-johnson-professionals-inc--codman-hakim-micro-precision-valve",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--johnson-johnson-professionals-inc--codman-medos-valve-shunt",
+      "artifact_folder": "csf-shunt--johnson-johnson-professionals-inc--codman-medos-valve-shunt",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--johnson-johnson-professionals-inc--codman-medos-valve-shunt",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--johnson-johnson-professionals-inc--hakim-micro-programmable-valve",
+      "artifact_folder": "csf-shunt--johnson-johnson-professionals-inc--hakim-micro-programmable-valve",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--johnson-johnson-professionals-inc--hakim-micro-programmable-valve",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--johnson-johnson-professionals-inc--hakim-programmable-valve",
+      "artifact_folder": "csf-shunt--johnson-johnson-professionals-inc--hakim-programmable-valve",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--johnson-johnson-professionals-inc--hakim-programmable-valve",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--medical-designs-llc--subdural-evacuating-port-cranial-access",
+      "artifact_folder": "csf-shunt--medical-designs-llc--subdural-evacuating-port-cranial-access",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medical-designs-llc--subdural-evacuating-port-cranial-access",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--medical-designs-llc--subdural-evacuating-port-model-11",
+      "artifact_folder": "csf-shunt--medical-designs-llc--subdural-evacuating-port-model-11",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medical-designs-llc--subdural-evacuating-port-model-11",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--medos-international-sarl--codman-certas-plus-programmable-valve",
+      "artifact_folder": "csf-shunt--medos-international-sarl--codman-certas-plus-programmable-valve",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medos-international-sarl--codman-certas-plus-programmable-valve",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--medos-international-sarl--codman-certas-programmable-valve",
+      "artifact_folder": "csf-shunt--medos-international-sarl--codman-certas-programmable-valve",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medos-international-sarl--codman-certas-programmable-valve",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--medos-international-sarl--codman-certas-programmable-valve-codman",
+      "artifact_folder": "csf-shunt--medos-international-sarl--codman-certas-programmable-valve-codman",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medos-international-sarl--codman-certas-programmable-valve-codman",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--medtronic--medtronic-m2-magnet-adjustment-tool",
+      "artifact_folder": "csf-shunt--medtronic--medtronic-m2-magnet-adjustment-tool",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medtronic--medtronic-m2-magnet-adjustment-tool",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--medtronic--medtronic-ps-medical-polyurethane-shunt",
+      "artifact_folder": "csf-shunt--medtronic--medtronic-ps-medical-polyurethane-shunt",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medtronic--medtronic-ps-medical-polyurethane-shunt",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--medtronic--medtronic-ps-medical-strata-nsc",
+      "artifact_folder": "csf-shunt--medtronic--medtronic-ps-medical-strata-nsc",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medtronic--medtronic-ps-medical-strata-nsc",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--medtronic--medtronic-ps-medical-strata-type",
+      "artifact_folder": "csf-shunt--medtronic--medtronic-ps-medical-strata-type",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medtronic--medtronic-ps-medical-strata-type",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--medtronic--medtronic-ps-medical-strata-valve",
+      "artifact_folder": "csf-shunt--medtronic--medtronic-ps-medical-strata-valve",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medtronic--medtronic-ps-medical-strata-valve",
+      "file_count": 2,
+      "source_counts": {
+        "fda_raw": 2
+      }
+    },
+    {
+      "slug": "csf-shunt--medtronic--medtronic-stratavarius",
+      "artifact_folder": "csf-shunt--medtronic--medtronic-stratavarius",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medtronic--medtronic-stratavarius",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--medtronic--ps-medical-neurosurgical-implants",
+      "artifact_folder": "csf-shunt--medtronic--ps-medical-neurosurgical-implants",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medtronic--ps-medical-neurosurgical-implants",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--medtronic--ps-medical-neurosurgical-implants-recalls",
+      "artifact_folder": "csf-shunt--medtronic--ps-medical-neurosurgical-implants-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medtronic--ps-medical-neurosurgical-implants-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--medtronic--ps-medical-strata-ii-valve",
+      "artifact_folder": "csf-shunt--medtronic--ps-medical-strata-ii-valve",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medtronic--ps-medical-strata-ii-valve",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--medtronic--ps-medical-strata-ii-valve-recalls",
+      "artifact_folder": "csf-shunt--medtronic--ps-medical-strata-ii-valve-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medtronic--ps-medical-strata-ii-valve-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--medtronic--strata-burr-hole-valve-model",
+      "artifact_folder": "csf-shunt--medtronic--strata-burr-hole-valve-model",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medtronic--strata-burr-hole-valve-model",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--medtronic--strata-family",
+      "artifact_folder": "csf-shunt--medtronic--strata-family",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medtronic--strata-family",
+      "file_count": 3,
+      "source_counts": {
+        "data_by_device": 2,
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--medtronic--strata-nsc-burr-hole-valve",
+      "artifact_folder": "csf-shunt--medtronic--strata-nsc-burr-hole-valve",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medtronic--strata-nsc-burr-hole-valve",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--medtronic--stratamr-guider-tool",
+      "artifact_folder": "csf-shunt--medtronic--stratamr-guider-tool",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medtronic--stratamr-guider-tool",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--medtronic--stratamr-guider-tool-recalls",
+      "artifact_folder": "csf-shunt--medtronic--stratamr-guider-tool-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medtronic--stratamr-guider-tool-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--medtronic--stratamr-ii-valves-and-shunts",
+      "artifact_folder": "csf-shunt--medtronic--stratamr-ii-valves-and-shunts",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medtronic--stratamr-ii-valves-and-shunts",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--medtronic--stratamr-ii-valves-and-shunts-recalls",
+      "artifact_folder": "csf-shunt--medtronic--stratamr-ii-valves-and-shunts-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medtronic--stratamr-ii-valves-and-shunts-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--medtronic--stratamr-valves-and-shunts",
+      "artifact_folder": "csf-shunt--medtronic--stratamr-valves-and-shunts",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medtronic--stratamr-valves-and-shunts",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--medtronic--stratamr-valves-and-shunts-recalls",
+      "artifact_folder": "csf-shunt--medtronic--stratamr-valves-and-shunts-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medtronic--stratamr-valves-and-shunts-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--miethke--m-blue",
+      "artifact_folder": "csf-shunt--miethke--m-blue",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--miethke--m-blue",
+      "file_count": 3,
+      "source_counts": {
+        "data_by_device": 2,
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--miethke--progav-2-0",
+      "artifact_folder": "csf-shunt--miethke--progav-2-0",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--miethke--progav-2-0",
+      "file_count": 3,
+      "source_counts": {
+        "data_by_device": 2,
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--moller-medical-gmbh--liquoguard-csf-liquoguard-csf-tubing",
+      "artifact_folder": "csf-shunt--moller-medical-gmbh--liquoguard-csf-liquoguard-csf-tubing",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--moller-medical-gmbh--liquoguard-csf-liquoguard-csf-tubing",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--neuro-diagnostic-devices--shuntcheck-csf-shunt-flow-detector",
+      "artifact_folder": "csf-shunt--neuro-diagnostic-devices--shuntcheck-csf-shunt-flow-detector",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--neuro-diagnostic-devices--shuntcheck-csf-shunt-flow-detector",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--neurocare-group--gemini-standard-and-mini-valves",
+      "artifact_folder": "csf-shunt--neurocare-group--gemini-standard-and-mini-valves",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--neurocare-group--gemini-standard-and-mini-valves",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--neurodx-development-llc--shuntcheck",
+      "artifact_folder": "csf-shunt--neurodx-development-llc--shuntcheck",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--neurodx-development-llc--shuntcheck",
+      "file_count": 7,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--neuron-therapeutics-inc--neuron-therapeutics-inc-14-gauge",
+      "artifact_folder": "csf-shunt--neuron-therapeutics-inc--neuron-therapeutics-inc-14-gauge",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--neuron-therapeutics-inc--neuron-therapeutics-inc-14-gauge",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--nmt-neurosciences-implants-s-a--nmt-neurosciences-control-unit-model",
+      "artifact_folder": "csf-shunt--nmt-neurosciences-implants-s-a--nmt-neurosciences-control-unit-model",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--nmt-neurosciences-implants-s-a--nmt-neurosciences-control-unit-model",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--p-s-medical--p-s-medical-csf-flow",
+      "artifact_folder": "csf-shunt--p-s-medical--p-s-medical-csf-flow",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--p-s-medical--p-s-medical-csf-flow",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--phasor-health-llc--evac",
+      "artifact_folder": "csf-shunt--phasor-health-llc--evac",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--phasor-health-llc--evac",
+      "file_count": 7,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--phasor-health-llc--evac-mri",
+      "artifact_folder": "csf-shunt--phasor-health-llc--evac-mri",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--phasor-health-llc--evac-mri",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--phoenix-biomedical-corp--accura-elite-shunt",
+      "artifact_folder": "csf-shunt--phoenix-biomedical-corp--accura-elite-shunt",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--phoenix-biomedical-corp--accura-elite-shunt",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--phoenix-biomedical-corp--acura-elite-gravity-compensating-reservoir",
+      "artifact_folder": "csf-shunt--phoenix-biomedical-corp--acura-elite-gravity-compensating-reservoir",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--phoenix-biomedical-corp--acura-elite-gravity-compensating-reservoir",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--phoenix-biomedical-corp--crx-diamond-valve",
+      "artifact_folder": "csf-shunt--phoenix-biomedical-corp--crx-diamond-valve",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--phoenix-biomedical-corp--crx-diamond-valve",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--phoenix-biomedical-corp--crx-world-shunt",
+      "artifact_folder": "csf-shunt--phoenix-biomedical-corp--crx-world-shunt",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--phoenix-biomedical-corp--crx-world-shunt",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--phoenix-biomedical-corp--diamond-ii-valve",
+      "artifact_folder": "csf-shunt--phoenix-biomedical-corp--diamond-ii-valve",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--phoenix-biomedical-corp--diamond-ii-valve",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--phoenix-biomedical-corp--perf-ommaya-style-reservoirs",
+      "artifact_folder": "csf-shunt--phoenix-biomedical-corp--perf-ommaya-style-reservoirs",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--phoenix-biomedical-corp--perf-ommaya-style-reservoirs",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--phoenix-biomedical-corp--phoenix-crx-valve",
+      "artifact_folder": "csf-shunt--phoenix-biomedical-corp--phoenix-crx-valve",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--phoenix-biomedical-corp--phoenix-crx-valve",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--phoenix-biomedical-corp--phoenix-universal-shunt",
+      "artifact_folder": "csf-shunt--phoenix-biomedical-corp--phoenix-universal-shunt",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--phoenix-biomedical-corp--phoenix-universal-shunt",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--pmt-corp--pmt-model-1110-5-pmt",
+      "artifact_folder": "csf-shunt--pmt-corp--pmt-model-1110-5-pmt",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--pmt-corp--pmt-model-1110-5-pmt",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--pmt-corp--spetzler-mankind-ventriculostomy-external-1114",
+      "artifact_folder": "csf-shunt--pmt-corp--spetzler-mankind-ventriculostomy-external-1114",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--pmt-corp--spetzler-mankind-ventriculostomy-external-1114",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--pudenz-schulte-medical-research-corp--csf-flow-control-valve-cylindrical",
+      "artifact_folder": "csf-shunt--pudenz-schulte-medical-research-corp--csf-flow-control-valve-cylindrical",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--pudenz-schulte-medical-research-corp--csf-flow-control-valve-cylindrical",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--pudenz-schulte-medical-research-corp--csf-flow-control-valve-ultra",
+      "artifact_folder": "csf-shunt--pudenz-schulte-medical-research-corp--csf-flow-control-valve-ultra",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--pudenz-schulte-medical-research-corp--csf-flow-control-valve-ultra",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--pudenz-schulte-medical-research-corp--csg-flow-control-valve",
+      "artifact_folder": "csf-shunt--pudenz-schulte-medical-research-corp--csg-flow-control-valve",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--pudenz-schulte-medical-research-corp--csg-flow-control-valve",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--pudenz-schulte-medical-research-corp--p-s-medical-csf-flow",
+      "artifact_folder": "csf-shunt--pudenz-schulte-medical-research-corp--p-s-medical-csf-flow",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--pudenz-schulte-medical-research-corp--p-s-medical-csf-flow",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-bioglide-csf-flow",
+      "artifact_folder": "csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-bioglide-csf-flow",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-bioglide-csf-flow",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-button-valve",
+      "artifact_folder": "csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-button-valve",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-button-valve",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-csf-access",
+      "artifact_folder": "csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-csf-access",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-csf-access",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-csf-on-off",
+      "artifact_folder": "csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-csf-on-off",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-csf-on-off",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-delta-burr-hole",
+      "artifact_folder": "csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-delta-burr-hole",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-delta-burr-hole",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-delta-csf-flow",
+      "artifact_folder": "csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-delta-csf-flow",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-delta-csf-flow",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--radionics-inc--contour-flex-valves-regular-small",
+      "artifact_folder": "csf-shunt--radionics-inc--contour-flex-valves-regular-small",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--radionics-inc--contour-flex-valves-regular-small",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--radionics-inc--radionics-burr-hole-valve",
+      "artifact_folder": "csf-shunt--radionics-inc--radionics-burr-hole-valve",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--radionics-inc--radionics-burr-hole-valve",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--radionics-inc--radionics-contour-flex-plus-valve",
+      "artifact_folder": "csf-shunt--radionics-inc--radionics-contour-flex-plus-valve",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--radionics-inc--radionics-contour-flex-plus-valve",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--radionics-inc--radionics-contour-flex-valve-radionics",
+      "artifact_folder": "csf-shunt--radionics-inc--radionics-contour-flex-valve-radionics",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--radionics-inc--radionics-contour-flex-valve-radionics",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--radionics-inc--radionics-mini-standard-shunt-valve",
+      "artifact_folder": "csf-shunt--radionics-inc--radionics-mini-standard-shunt-valve",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--radionics-inc--radionics-mini-standard-shunt-valve",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--samuel-neff-m-d--shuntcheck-prometheus-1",
+      "artifact_folder": "csf-shunt--samuel-neff-m-d--shuntcheck-prometheus-1",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--samuel-neff-m-d--shuntcheck-prometheus-1",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--sophysa--polaris-valve-electronic-reading-instrument",
+      "artifact_folder": "csf-shunt--sophysa--polaris-valve-electronic-reading-instrument",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--sophysa--polaris-valve-electronic-reading-instrument",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--sophysa--sophy-mini-monopressure-valve-sm1",
+      "artifact_folder": "csf-shunt--sophysa--sophy-mini-monopressure-valve-sm1",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--sophysa--sophy-mini-monopressure-valve-sm1",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--sophysa-sa--polaris-pressure-adjustable-valve-models",
+      "artifact_folder": "csf-shunt--sophysa-sa--polaris-pressure-adjustable-valve-models",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--sophysa-sa--polaris-pressure-adjustable-valve-models",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--sophysa-sa--polaris-pressure-adjustable-valve-modes",
+      "artifact_folder": "csf-shunt--sophysa-sa--polaris-pressure-adjustable-valve-modes",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--sophysa-sa--polaris-pressure-adjustable-valve-modes",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--sophysa-sa--polaris-pressure-adjustable-valve-polaris",
+      "artifact_folder": "csf-shunt--sophysa-sa--polaris-pressure-adjustable-valve-polaris",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--sophysa-sa--polaris-pressure-adjustable-valve-polaris",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--sophysa-sa--sophy-pressure-adjustable-valve-model",
+      "artifact_folder": "csf-shunt--sophysa-sa--sophy-pressure-adjustable-valve-model",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--sophysa-sa--sophy-pressure-adjustable-valve-model",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--sophysa-sa--sophy-su8-pressure-adjustable-valve",
+      "artifact_folder": "csf-shunt--sophysa-sa--sophy-su8-pressure-adjustable-valve",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--sophysa-sa--sophy-su8-pressure-adjustable-valve",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--theramed-inc--hydrocephalus-shunt-low-medium-high",
+      "artifact_folder": "csf-shunt--theramed-inc--hydrocephalus-shunt-low-medium-high",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--theramed-inc--hydrocephalus-shunt-low-medium-high",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--vygon-neuro--neurocath-ag",
+      "artifact_folder": "csf-shunt--vygon-neuro--neurocath-ag",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--vygon-neuro--neurocath-ag",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    }
+  ],
+  "device_count": 192
+}

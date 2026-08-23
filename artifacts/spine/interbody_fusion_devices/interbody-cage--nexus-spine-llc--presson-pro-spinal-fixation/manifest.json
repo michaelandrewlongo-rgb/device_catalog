@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--nexus-spine-llc--presson-pro-spinal-fixation",
+  "artifact_folder": "interbody-cage--nexus-spine-llc--presson-pro-spinal-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2883,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--nexus-spine-llc--presson-pro-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--nexus-spine-llc--presson-pro-spinal-fixation/enriched/interbody-cage--nexus-spine-llc--presson-pro-spinal-fixation.json",
+        "bytes": 1434
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K160820.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--nexus-spine-llc--presson-pro-spinal-fixation/fda_raw/NKB/K160820.json",
+        "bytes": 596
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--nexus-spine-llc--presson-pro-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--nexus-spine-llc--presson-pro-spinal-fixation/merged/interbody-cage--nexus-spine-llc--presson-pro-spinal-fixation.json",
+        "bytes": 853
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

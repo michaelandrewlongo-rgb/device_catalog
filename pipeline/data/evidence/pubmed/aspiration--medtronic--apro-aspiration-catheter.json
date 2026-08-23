@@ -1,0 +1,22 @@
+[
+  {
+    "device_family": "aspiration--medtronic--apro-aspiration-catheter",
+    "query_used": "\"APRO Aspiration Catheter\" OR \"APRO 55\" OR \"APRO 70\"",
+    "raw": {
+      "abstract": "The antibody-drug conjugates sacituzumab govitecan (SG) and enfortumab vedotin (EV) are standard monotherapies for metastatic urothelial carcinoma (mUC). Given the different targets and payloads, we evaluated the safety and efficacy of SG + EV in a phase I trial in mUC (NCT04724018).\nPatients with mUC and Eastern Cooperative Oncology Group performance status ≤1 who had progressed on platinum and/or immunotherapy were enrolled. SG + EV were administered on days 1 + 8 of a 21-day cycle until progression or unacceptable toxicity. Primary endpoint was the incidence of dose-limiting toxicities during cycle 1. The number of patients treated at each of four pre-specified dose levels (DLs) and the maximum tolerated doses in combination (MTD) were determined using a Bayesian Optimal Interval design. Objective response, progression-free survival, and overall survival were secondary endpoints.\nBetween May 2021 and April 2023, 24 patients were enrolled; 1 patient never started therapy and was excluded from the analysis. Median age was 70 years (range 41-88 years); 11 patients received ≥3 lines of therapy. Seventy-eight percent (18/23) of patients experienced grade ≥3 adverse event (AE) regardless of attribution at any DL, with one grade 5 AE (pneumonitis possibly related to EV). The recommended phase II doses are SG 8 mg/kg with EV 1.25 mg/kg with granulocyte colony-stimulating factor support; MTDs are SG 10 mg/kg with EV 1.25 mg/kg. The objective response rate was 70% (16/23, 95% confidence interval 47% to 87%) with three complete responses; three patients had progressive disease as best response. With a median follow-up of 14 months, 9/23 patients have ongoing response including 6 responses lasting over 12 months.\nThe combination of SG + EV was assessed at different DLs and a safe dose for phase II was identified. The combination had encouraging activity in patients with mUC with high response rates, including clinically significant complete responses. Additional study of this combination is warranted.",
+      "doi": "10.1016/j.annonc.2023.09.3114",
+      "journal": "Annals of oncology : official journal of the European Society for Medical Oncology",
+      "matched_device_family": "aspiration--medtronic--apro-aspiration-catheter",
+      "pmid": "37871703",
+      "publication_date": "2024-Jan",
+      "query_used": "\"APRO Aspiration Catheter\" OR \"APRO 55\" OR \"APRO 70\"",
+      "source_retrieved_at": "2026-04-15T10:17:15+00:00",
+      "title": "The Double Antibody Drug Conjugate (DAD) phase I trial: sacituzumab govitecan plus enfortumab vedotin for metastatic urothelial carcinoma."
+    },
+    "retrieved_at": "2026-04-15T10:17:15+00:00",
+    "source_id": "pubmed:37871703",
+    "source_type": "pubmed",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/37871703/",
+    "title": "The Double Antibody Drug Conjugate (DAD) phase I trial: sacituzumab govitecan plus enfortumab vedotin for metastatic urothelial carcinoma."
+  }
+]

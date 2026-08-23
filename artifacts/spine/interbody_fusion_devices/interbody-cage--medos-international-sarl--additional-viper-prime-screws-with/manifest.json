@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--medos-international-sarl--additional-viper-prime-screws-with",
+  "artifact_folder": "interbody-cage--medos-international-sarl--additional-viper-prime-screws-with",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3054,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--medos-international-sarl--additional-viper-prime-screws-with.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medos-international-sarl--additional-viper-prime-screws-with/enriched/interbody-cage--medos-international-sarl--additional-viper-prime-screws-with.json",
+        "bytes": 1491
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K171570.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medos-international-sarl--additional-viper-prime-screws-with/fda_raw/NKB/K171570.json",
+        "bytes": 645
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--medos-international-sarl--additional-viper-prime-screws-with.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medos-international-sarl--additional-viper-prime-screws-with/merged/interbody-cage--medos-international-sarl--additional-viper-prime-screws-with.json",
+        "bytes": 918
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

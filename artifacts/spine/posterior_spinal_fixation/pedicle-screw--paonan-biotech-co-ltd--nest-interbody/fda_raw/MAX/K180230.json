@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K180230",
+  "clearance_date": "2019-01-25",
+  "device_class": 2,
+  "manufacturer_canonical": "paonan-biotech-co-ltd",
+  "manufacturer_raw": "Paonan Biotech Co., Ltd.",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "NEST Interbody System",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--paonan-biotech-co-ltd--nest-interbody",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf18/K180230.pdf"
+}

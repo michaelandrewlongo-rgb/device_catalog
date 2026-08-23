@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--jiangsu-trauhui-medical-instrument-co-ltd--cellent-spinal-s",
+  "artifact_folder": "interbody-cage--jiangsu-trauhui-medical-instrument-co-ltd--cellent-spinal-s",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2974,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--jiangsu-trauhui-medical-instrument-co-ltd--cellent-spinal-s.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--jiangsu-trauhui-medical-instrument-co-ltd--cellent-spinal-s/enriched/interbody-cage--jiangsu-trauhui-medical-instrument-co-ltd--cellent-spinal-s.json",
+        "bytes": 1451
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K172826.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--jiangsu-trauhui-medical-instrument-co-ltd--cellent-spinal-s/fda_raw/NKB/K172826.json",
+        "bytes": 653
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--jiangsu-trauhui-medical-instrument-co-ltd--cellent-spinal-s.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--jiangsu-trauhui-medical-instrument-co-ltd--cellent-spinal-s/merged/interbody-cage--jiangsu-trauhui-medical-instrument-co-ltd--cellent-spinal-s.json",
+        "bytes": 870
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

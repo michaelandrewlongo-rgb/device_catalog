@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--levtech-inc--halifax-spinal-clamp",
+  "artifact_folder": "corpectomy--levtech-inc--halifax-spinal-clamp",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2741,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--levtech-inc--halifax-spinal-clamp.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--levtech-inc--halifax-spinal-clamp/enriched/corpectomy--levtech-inc--halifax-spinal-clamp.json",
+        "bytes": 1383
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K850039.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--levtech-inc--halifax-spinal-clamp/fda_raw/KWP/K850039.json",
+        "bytes": 556
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--levtech-inc--halifax-spinal-clamp.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--levtech-inc--halifax-spinal-clamp/merged/corpectomy--levtech-inc--halifax-spinal-clamp.json",
+        "bytes": 802
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

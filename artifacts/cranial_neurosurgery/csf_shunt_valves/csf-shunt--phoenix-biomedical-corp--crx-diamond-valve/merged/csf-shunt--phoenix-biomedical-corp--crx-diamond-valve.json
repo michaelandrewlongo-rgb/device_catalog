@@ -1,0 +1,28 @@
+{
+  "device_name": "CRX DIAMOND VALVE",
+  "manufacturer": "phoenix-biomedical-corp",
+  "catalog_category": "csf-shunt",
+  "filename_stem": "csf-shunt--phoenix-biomedical-corp--crx-diamond-valve",
+  "clearance_type": "510k",
+  "clearance_number": "K974096",
+  "clearance_date": "1998-12-08",
+  "device_class": 2,
+  "device_name_fda": "CRX DIAMOND VALVE",
+  "product_code": "JXG",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf97/K974096.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

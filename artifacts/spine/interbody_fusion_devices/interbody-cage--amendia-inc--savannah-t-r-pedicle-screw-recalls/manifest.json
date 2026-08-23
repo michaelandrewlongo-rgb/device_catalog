@@ -1,0 +1,21 @@
+{
+  "device_slug": "interbody-cage--amendia-inc--savannah-t-r-pedicle-screw-recalls",
+  "artifact_folder": "interbody-cage--amendia-inc--savannah-t-r-pedicle-screw-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 275,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/interbody-cage--amendia-inc--savannah-t-r-pedicle-screw-recalls.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--amendia-inc--savannah-t-r-pedicle-screw-recalls/extracted/fda_safety/interbody-cage--amendia-inc--savannah-t-r-pedicle-screw-recalls.json",
+        "bytes": 275
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

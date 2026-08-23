@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--medicrea-technologies--c-jaws-cervical-compressive-mini",
+  "artifact_folder": "corpectomy--medicrea-technologies--c-jaws-cervical-compressive-mini",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2935,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--medicrea-technologies--c-jaws-cervical-compressive-mini.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medicrea-technologies--c-jaws-cervical-compressive-mini/enriched/corpectomy--medicrea-technologies--c-jaws-cervical-compressive-mini.json",
+        "bytes": 1451
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K062181.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medicrea-technologies--c-jaws-cervical-compressive-mini/fda_raw/KWP/K062181.json",
+        "bytes": 614
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--medicrea-technologies--c-jaws-cervical-compressive-mini.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medicrea-technologies--c-jaws-cervical-compressive-mini/merged/corpectomy--medicrea-technologies--c-jaws-cervical-compressive-mini.json",
+        "bytes": 870
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

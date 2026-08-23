@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--presidio-surgical--viking-lumbar-polyaxial-screw",
+  "artifact_folder": "interbody-cage--presidio-surgical--viking-lumbar-polyaxial-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2912,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--presidio-surgical--viking-lumbar-polyaxial-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--presidio-surgical--viking-lumbar-polyaxial-screw/enriched/interbody-cage--presidio-surgical--viking-lumbar-polyaxial-screw.json",
+        "bytes": 1444
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K180655.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--presidio-surgical--viking-lumbar-polyaxial-screw/fda_raw/NKB/K180655.json",
+        "bytes": 605
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--presidio-surgical--viking-lumbar-polyaxial-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--presidio-surgical--viking-lumbar-polyaxial-screw/merged/interbody-cage--presidio-surgical--viking-lumbar-polyaxial-screw.json",
+        "bytes": 863
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

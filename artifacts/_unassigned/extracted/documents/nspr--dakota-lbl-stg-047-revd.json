@@ -1,0 +1,21 @@
+{
+  "source_pdf": "dakota-lbl-stg-047-revd.pdf",
+  "source_path": "C:\\Users\\Michael\\Documents\\device_catalog\\pipeline\\data\\extracted\\nspr\\pdfs\\dakota-lbl-stg-047-revd.pdf",
+  "device_name": "Dakota Lbl Stg 047 Revd",
+  "manufacturer": "unknown",
+  "doc_type": "technique_guide",
+  "extraction_method": "pdfplumber_deepseek",
+  "extraction_source": "nspr_pdf",
+  "fields": {
+    "what_it_is": null,
+    "sizing_specs": "| Screw Length (mm) | 14mm x 12mm Depth (D) | 14mm x 12mm Height (H) | 16mm x 14mm Depth (D) | 16mm x 14mm Height (H) |\n| --- | --- | --- | --- | --- |\n| 12 | 0-Flush | 6.6 | -2.0 | 6.6 |\n| 14 | 1.0 | 7.7 | 0-Flush | 7.7 |\n| 15 | 2.0 | 8.9 | 1.0 | 8.9 |\n| 17 | 3.5 | 10.0 | 2.0 | 10.0 |",
+    "indications": null,
+    "contraindications": null,
+    "compatible_with": null,
+    "use_notes": null,
+    "also_known_as": null
+  },
+  "confidence": {
+    "sizing_specs": 0.7
+  }
+}

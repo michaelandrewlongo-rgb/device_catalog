@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K043522",
+  "clearance_date": "2005-01-14",
+  "device_class": 2,
+  "manufacturer_canonical": "custom-spine-inc",
+  "manufacturer_raw": "Custom Spine, Inc.",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "ISSYS PEDICLE SCREW SYSTEM",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--custom-spine-inc--issys-pedicle-screw",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf04/K043522.pdf"
+}

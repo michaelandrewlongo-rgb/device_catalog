@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--globus--revolve-stabilization",
+  "artifact_folder": "interbody-cage--globus--revolve-stabilization",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2785,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--globus--revolve-stabilization.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--globus--revolve-stabilization/enriched/interbody-cage--globus--revolve-stabilization.json",
+        "bytes": 1398
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K083416.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--globus--revolve-stabilization/fda_raw/NKB/K083416.json",
+        "bytes": 570
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--globus--revolve-stabilization.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--globus--revolve-stabilization/merged/interbody-cage--globus--revolve-stabilization.json",
+        "bytes": 817
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "device_slug": "interbody-cage--pioneer-surgical-technology--pioneer-surgical-technology-quantum-spinal",
+  "artifact_folder": "interbody-cage--pioneer-surgical-technology--pioneer-surgical-technology-quantum-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3969,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--pioneer-surgical-technology--pioneer-surgical-technology-quantum-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--pioneer-surgical-technology--pioneer-surgical-technology-quantum-spinal/enriched/interbody-cage--pioneer-surgical-technology--pioneer-surgical-technology-quantum-spinal.json",
+        "bytes": 1725
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K041167.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--pioneer-surgical-technology--pioneer-surgical-technology-quantum-spinal/fda_raw/NKB/K041167.json",
+        "bytes": 661
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K080518.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--pioneer-surgical-technology--pioneer-surgical-technology-quantum-spinal/fda_raw/NKB/K080518.json",
+        "bytes": 661
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--pioneer-surgical-technology--pioneer-surgical-technology-quantum-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--pioneer-surgical-technology--pioneer-surgical-technology-quantum-spinal/merged/interbody-cage--pioneer-surgical-technology--pioneer-surgical-technology-quantum-spinal.json",
+        "bytes": 922
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

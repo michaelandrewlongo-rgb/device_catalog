@@ -1,0 +1,40 @@
+{
+  "device_slug": "interbody-cage--globus--creo-stabilization-navigation-instruments-excelsiusgps",
+  "artifact_folder": "interbody-cage--globus--creo-stabilization-navigation-instruments-excelsiusgps",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3709,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--globus--creo-stabilization-navigation-instruments-excelsiusgps.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--globus--creo-stabilization-navigation-instruments-excelsiusgps/enriched/interbody-cage--globus--creo-stabilization-navigation-instruments-excelsiusgps.json",
+        "bytes": 1501
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K191835.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--globus--creo-stabilization-navigation-instruments-excelsiusgps/fda_raw/NKB/K191835.json",
+        "bytes": 650
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K203153.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--globus--creo-stabilization-navigation-instruments-excelsiusgps/fda_raw/NKB/K203153.json",
+        "bytes": 638
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--globus--creo-stabilization-navigation-instruments-excelsiusgps.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--globus--creo-stabilization-navigation-instruments-excelsiusgps/merged/interbody-cage--globus--creo-stabilization-navigation-instruments-excelsiusgps.json",
+        "bytes": 920
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

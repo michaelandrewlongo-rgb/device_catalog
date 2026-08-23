@@ -1,0 +1,292 @@
+[
+  {
+    "device_family": "aspiration--balt--carrier",
+    "query_used": "Carrier",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "08806388216260",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Carrier",
+      "companyName": "Megagen Implant Co. Ltd",
+      "deviceIdentifier": "c0015677-0099-4add-8dee-afeac7c025fc",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "55847",
+          "gmdnCodeStatus": "Active",
+          "implantable": "true",
+          "termName": "Dental implant system"
+        }
+      ],
+      "modelNumber": "EZSC01"
+    },
+    "retrieved_at": "2026-04-15T10:18:39+00:00",
+    "source_id": "accessgudid:08806388216260",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/c0015677-0099-4add-8dee-afeac7c025fc",
+    "title": "Carrier (Megagen Implant Co. Ltd)"
+  },
+  {
+    "device_family": "aspiration--balt--carrier",
+    "query_used": "Carrier",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "04050674027229",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Carrier",
+      "companyName": "Andreas Hettich GmbH",
+      "deviceIdentifier": "5a578536-64e7-4b4c-9681-a17ba60a6d75",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "35554",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Centrifuge bucket/tube holder adaptor"
+        }
+      ],
+      "modelNumber": "7-place"
+    },
+    "retrieved_at": "2026-04-15T10:18:39+00:00",
+    "source_id": "accessgudid:04050674027229",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/5a578536-64e7-4b4c-9681-a17ba60a6d75",
+    "title": "Carrier (Andreas Hettich GmbH)"
+  },
+  {
+    "device_family": "aspiration--balt--carrier",
+    "query_used": "Carrier",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "04050674024587",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Carrier",
+      "companyName": "Andreas Hettich GmbH",
+      "deviceIdentifier": "726dfc9e-5a2a-4fde-81f6-a3a448e1004d",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "35554",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Centrifuge bucket/tube holder adaptor"
+        }
+      ],
+      "modelNumber": "4-place"
+    },
+    "retrieved_at": "2026-04-15T10:18:39+00:00",
+    "source_id": "accessgudid:04050674024587",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/726dfc9e-5a2a-4fde-81f6-a3a448e1004d",
+    "title": "Carrier (Andreas Hettich GmbH)"
+  },
+  {
+    "device_family": "aspiration--balt--carrier",
+    "query_used": "Carrier",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "04050674083966",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Carrier",
+      "companyName": "Andreas Hettich GmbH",
+      "deviceIdentifier": "52d8c712-2043-4fb2-a7c5-b894b2cbee7b",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "35554",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Centrifuge bucket/tube holder adaptor"
+        }
+      ],
+      "modelNumber": "7-place"
+    },
+    "retrieved_at": "2026-04-15T10:18:39+00:00",
+    "source_id": "accessgudid:04050674083966",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/52d8c712-2043-4fb2-a7c5-b894b2cbee7b",
+    "title": "Carrier (Andreas Hettich GmbH)"
+  },
+  {
+    "device_family": "aspiration--balt--carrier",
+    "query_used": "Carrier",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "04050674027236",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Carrier",
+      "companyName": "Andreas Hettich GmbH",
+      "deviceIdentifier": "69fa3b91-a48e-4b54-a879-8bf10ff9979d",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "35554",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Centrifuge bucket/tube holder adaptor"
+        }
+      ],
+      "modelNumber": "10-place"
+    },
+    "retrieved_at": "2026-04-15T10:18:39+00:00",
+    "source_id": "accessgudid:04050674027236",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/69fa3b91-a48e-4b54-a879-8bf10ff9979d",
+    "title": "Carrier (Andreas Hettich GmbH)"
+  },
+  {
+    "device_family": "aspiration--balt--carrier",
+    "query_used": "Carrier",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00888118061461",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "CARRIER",
+      "companyName": "KLS-Martin L.P.",
+      "deviceIdentifier": "7573886e-fb98-4b74-aeb4-83640f1b326a",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "64119",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Surgical irrigation/aspiration cannula, non-illuminating, reusable"
+        }
+      ],
+      "modelNumber": "38-040-08-07"
+    },
+    "retrieved_at": "2026-04-15T10:18:39+00:00",
+    "source_id": "accessgudid:00888118061461",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/7573886e-fb98-4b74-aeb4-83640f1b326a",
+    "title": "CARRIER (KLS-Martin L.P.)"
+  },
+  {
+    "device_family": "aspiration--balt--carrier",
+    "query_used": "Carrier",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00888118061454",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "CARRIER",
+      "companyName": "KLS-Martin L.P.",
+      "deviceIdentifier": "438726a2-440a-4d0d-a89c-7353f5429ab0",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "64119",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Surgical irrigation/aspiration cannula, non-illuminating, reusable"
+        }
+      ],
+      "modelNumber": "38-040-06-07"
+    },
+    "retrieved_at": "2026-04-15T10:18:39+00:00",
+    "source_id": "accessgudid:00888118061454",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/438726a2-440a-4d0d-a89c-7353f5429ab0",
+    "title": "CARRIER (KLS-Martin L.P.)"
+  },
+  {
+    "device_family": "aspiration--balt--carrier",
+    "query_used": "Carrier",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00888118061447",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "CARRIER",
+      "companyName": "KLS-Martin L.P.",
+      "deviceIdentifier": "cfb38bc2-c0c8-4dfc-b98b-05be45069cd3",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "64119",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Surgical irrigation/aspiration cannula, non-illuminating, reusable"
+        }
+      ],
+      "modelNumber": "38-040-04-07"
+    },
+    "retrieved_at": "2026-04-15T10:18:39+00:00",
+    "source_id": "accessgudid:00888118061447",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/cfb38bc2-c0c8-4dfc-b98b-05be45069cd3",
+    "title": "CARRIER (KLS-Martin L.P.)"
+  },
+  {
+    "device_family": "aspiration--balt--carrier",
+    "query_used": "Carrier",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00888118061430",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "CARRIER",
+      "companyName": "KLS-Martin L.P.",
+      "deviceIdentifier": "817c7475-7405-462e-ada4-c8adb89c23c8",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "64119",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Surgical irrigation/aspiration cannula, non-illuminating, reusable"
+        }
+      ],
+      "modelNumber": "38-040-02-07"
+    },
+    "retrieved_at": "2026-04-15T10:18:39+00:00",
+    "source_id": "accessgudid:00888118061430",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/817c7475-7405-462e-ada4-c8adb89c23c8",
+    "title": "CARRIER (KLS-Martin L.P.)"
+  },
+  {
+    "device_family": "aspiration--balt--carrier",
+    "query_used": "Carrier",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00888118073006",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "CARRIER",
+      "companyName": "KLS-Martin L.P.",
+      "deviceIdentifier": "28a462cf-2b54-4a01-b81c-dfabdbe090d5",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "47637",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Bone fixation plate pliers"
+        }
+      ],
+      "modelNumber": "48-739-18-07"
+    },
+    "retrieved_at": "2026-04-15T10:18:39+00:00",
+    "source_id": "accessgudid:00888118073006",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/28a462cf-2b54-4a01-b81c-dfabdbe090d5",
+    "title": "CARRIER (KLS-Martin L.P.)"
+  }
+]

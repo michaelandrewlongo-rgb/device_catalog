@@ -1,0 +1,45 @@
+{
+  "device_slug": "pedicle-screw--medtronic--crescent-spinal",
+  "artifact_folder": "pedicle-screw--medtronic--crescent-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 3906,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--medtronic--crescent-spinal.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--crescent-spinal/enriched/pedicle-screw--medtronic--crescent-spinal.json",
+        "bytes": 1388
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K094025.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--crescent-spinal/fda_raw/MAX/K094025.json",
+        "bytes": 565
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K133216.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--crescent-spinal/fda_raw/MAX/K133216.json",
+        "bytes": 571
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K171031.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--crescent-spinal/fda_raw/MAX/K171031.json",
+        "bytes": 567
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--medtronic--crescent-spinal.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--crescent-spinal/merged/pedicle-screw--medtronic--crescent-spinal.json",
+        "bytes": 815
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

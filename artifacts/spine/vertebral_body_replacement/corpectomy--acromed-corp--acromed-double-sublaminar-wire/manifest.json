@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--acromed-corp--acromed-double-sublaminar-wire",
+  "artifact_folder": "corpectomy--acromed-corp--acromed-double-sublaminar-wire",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2827,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--acromed-corp--acromed-double-sublaminar-wire.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--acromed-corp--acromed-double-sublaminar-wire/enriched/corpectomy--acromed-corp--acromed-double-sublaminar-wire.json",
+        "bytes": 1415
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K895413.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--acromed-corp--acromed-double-sublaminar-wire/fda_raw/KWP/K895413.json",
+        "bytes": 578
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--acromed-corp--acromed-double-sublaminar-wire.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--acromed-corp--acromed-double-sublaminar-wire/merged/corpectomy--acromed-corp--acromed-double-sublaminar-wire.json",
+        "bytes": 834
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

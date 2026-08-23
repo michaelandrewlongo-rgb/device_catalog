@@ -16,7 +16,25 @@
   "compatible_with": null,
   "use_notes": "Mode of Operation: Direct aspiration clot removal with Penumbra Engine aspiration source\n\n[FDA RECALL] 6 active recall(s).\n  - Reperfusion catheter may fail at the mid-shaft joint and may break off.  If the segment cannot be removed, it may result in blocked blood flow, requiring emergency medical treatment.\n  - The catheter may become susceptible to distal tip damage during use.  Distal tip damage in conjunction with pressurization of contrast injection may result in potential vessel damage, and subsequent p",
   "deployment_steps": null,
-  "also_known_as": [],
+  "also_known_as": [
+    "K211654",
+    "K173761",
+    "K211654",
+    "K173761",
+    "K242104",
+    "K191946",
+    "K242104",
+    "K211654",
+    "K242104",
+    "K211654",
+    "K242104",
+    "K242104",
+    "K242104",
+    "K191946",
+    "K191946",
+    "K242104",
+    "K242104"
+  ],
   "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K211654.pdf",
   "ifu_pdf_url": null,
   "source_url": "",
@@ -51,8 +69,8 @@
       "confidence": 0.8
     },
     "also_known_as": {
-      "source": "none",
-      "confidence": 0
+      "source": "fda_summary",
+      "confidence": 0.3
     },
     "_safety": {
       "source": "fda_maude+recalls",

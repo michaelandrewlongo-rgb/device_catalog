@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--deroyal-industries-inc--deroyal-spine-spacer",
+  "artifact_folder": "pedicle-screw--deroyal-industries-inc--deroyal-spine-spacer",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2871,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--deroyal-industries-inc--deroyal-spine-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--deroyal-industries-inc--deroyal-spine-spacer/enriched/pedicle-screw--deroyal-industries-inc--deroyal-spine-spacer.json",
+        "bytes": 1425
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K131292.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--deroyal-industries-inc--deroyal-spine-spacer/fda_raw/MAX/K131292.json",
+        "bytes": 602
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--deroyal-industries-inc--deroyal-spine-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--deroyal-industries-inc--deroyal-spine-spacer/merged/pedicle-screw--deroyal-industries-inc--deroyal-spine-spacer.json",
+        "bytes": 844
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

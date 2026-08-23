@@ -1,0 +1,21 @@
+{
+  "device_slug": "pedicle-screw--innovasis-inc--txti-ibf-recalls",
+  "artifact_folder": "pedicle-screw--innovasis-inc--txti-ibf-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 851,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/pedicle-screw--innovasis-inc--txti-ibf-recalls.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--innovasis-inc--txti-ibf-recalls/extracted/fda_safety/pedicle-screw--innovasis-inc--txti-ibf-recalls.json",
+        "bytes": 851
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

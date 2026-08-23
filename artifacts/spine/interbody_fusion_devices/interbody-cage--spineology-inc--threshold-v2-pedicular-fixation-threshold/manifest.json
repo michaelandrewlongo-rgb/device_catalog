@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--spineology-inc--threshold-v2-pedicular-fixation-threshold",
+  "artifact_folder": "interbody-cage--spineology-inc--threshold-v2-pedicular-fixation-threshold",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3556,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--spineology-inc--threshold-v2-pedicular-fixation-threshold.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spineology-inc--threshold-v2-pedicular-fixation-threshold/enriched/interbody-cage--spineology-inc--threshold-v2-pedicular-fixation-threshold.json",
+        "bytes": 1688
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K172107.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spineology-inc--threshold-v2-pedicular-fixation-threshold/fda_raw/NKB/K172107.json",
+        "bytes": 729
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--spineology-inc--threshold-v2-pedicular-fixation-threshold.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spineology-inc--threshold-v2-pedicular-fixation-threshold/merged/interbody-cage--spineology-inc--threshold-v2-pedicular-fixation-threshold.json",
+        "bytes": 1139
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

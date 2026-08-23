@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K211258",
+  "clearance_date": "2021-05-26",
+  "device_class": 2,
+  "manufacturer_canonical": "medtronic",
+  "manufacturer_raw": "Medtronic Sofamor Danek USA, Inc.",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "Endoskeleton TC Interbody System, Endoskeleton TCS Interbody System, Endoskeleton TA Interbody System, Endoskeleton TAS & TAS Hyp Interbody System, Endoskeleton TL Interbody System, Endoskeleton TL Hyp. Interbody System, Endoskeleton TO Interbody System, Endoskeleton TT Interbody System",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--medtronic--endoskeleton-tc-interbody-endoskeleton-tcs",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K211258.pdf"
+}

@@ -1,0 +1,47 @@
+{
+  "device_slug": "pedicle-screw--l-k-biomed-co-ltd--lnk-lumbar-interbody-fusion-cage",
+  "artifact_folder": "pedicle-screw--l-k-biomed-co-ltd--lnk-lumbar-interbody-fusion-cage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 4461,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--l-k-biomed-co-ltd--lnk-lumbar-interbody-fusion-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--l-k-biomed-co-ltd--lnk-lumbar-interbody-fusion-cage/enriched/pedicle-screw--l-k-biomed-co-ltd--lnk-lumbar-interbody-fusion-cage.json",
+        "bytes": 1728
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/pedicle-screw--l-k-biomed-co-ltd--lnk-lumbar-interbody-fusion-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--l-k-biomed-co-ltd--lnk-lumbar-interbody-fusion-cage/extracted/fda_structured/pedicle-screw--l-k-biomed-co-ltd--lnk-lumbar-interbody-fusion-cage.json",
+        "bytes": 635
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K151140.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--l-k-biomed-co-ltd--lnk-lumbar-interbody-fusion-cage/fda_raw/MAX/K151140.json",
+        "bytes": 614
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K181380.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--l-k-biomed-co-ltd--lnk-lumbar-interbody-fusion-cage/fda_raw/MAX/K181380.json",
+        "bytes": 614
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--l-k-biomed-co-ltd--lnk-lumbar-interbody-fusion-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--l-k-biomed-co-ltd--lnk-lumbar-interbody-fusion-cage/merged/pedicle-screw--l-k-biomed-co-ltd--lnk-lumbar-interbody-fusion-cage.json",
+        "bytes": 870
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

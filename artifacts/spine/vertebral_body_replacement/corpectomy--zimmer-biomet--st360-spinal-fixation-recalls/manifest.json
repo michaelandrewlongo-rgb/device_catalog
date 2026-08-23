@@ -1,0 +1,21 @@
+{
+  "device_slug": "corpectomy--zimmer-biomet--st360-spinal-fixation-recalls",
+  "artifact_folder": "corpectomy--zimmer-biomet--st360-spinal-fixation-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 2144,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/corpectomy--zimmer-biomet--st360-spinal-fixation-recalls.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--zimmer-biomet--st360-spinal-fixation-recalls/extracted/fda_safety/corpectomy--zimmer-biomet--st360-spinal-fixation-recalls.json",
+        "bytes": 2144
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

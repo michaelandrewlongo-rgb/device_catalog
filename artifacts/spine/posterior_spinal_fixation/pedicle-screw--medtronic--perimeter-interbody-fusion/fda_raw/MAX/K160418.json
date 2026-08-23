@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K160418",
+  "clearance_date": "2016-03-07",
+  "device_class": 2,
+  "manufacturer_canonical": "medtronic",
+  "manufacturer_raw": "Medtronic Sofamor Danek USA, Inc.",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "PERIMETER Interbody Fusion Device",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--medtronic--perimeter-interbody-fusion",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf16/K160418.pdf"
+}

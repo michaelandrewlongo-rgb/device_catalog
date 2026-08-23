@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--x-spine-systems-inc--xsert-lumbar-expandable-interbody",
+  "artifact_folder": "pedicle-screw--x-spine-systems-inc--xsert-lumbar-expandable-interbody",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2954,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--x-spine-systems-inc--xsert-lumbar-expandable-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--x-spine-systems-inc--xsert-lumbar-expandable-interbody/enriched/pedicle-screw--x-spine-systems-inc--xsert-lumbar-expandable-interbody.json",
+        "bytes": 1458
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K160959.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--x-spine-systems-inc--xsert-lumbar-expandable-interbody/fda_raw/MAX/K160959.json",
+        "bytes": 619
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--x-spine-systems-inc--xsert-lumbar-expandable-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--x-spine-systems-inc--xsert-lumbar-expandable-interbody/merged/pedicle-screw--x-spine-systems-inc--xsert-lumbar-expandable-interbody.json",
+        "bytes": 877
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

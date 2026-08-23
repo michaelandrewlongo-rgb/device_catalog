@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--sophysa-sa--siphonx-gravitational-antisiphon",
+  "artifact_folder": "csf-shunt--sophysa-sa--siphonx-gravitational-antisiphon",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2856,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--sophysa-sa--siphonx-gravitational-antisiphon.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_antisiphon_devices/csf-shunt--sophysa-sa--siphonx-gravitational-antisiphon/enriched/csf-shunt--sophysa-sa--siphonx-gravitational-antisiphon.json",
+        "bytes": 1429
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K091328.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_antisiphon_devices/csf-shunt--sophysa-sa--siphonx-gravitational-antisiphon/fda_raw/JXG/K091328.json",
+        "bytes": 579
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--sophysa-sa--siphonx-gravitational-antisiphon.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_antisiphon_devices/csf-shunt--sophysa-sa--siphonx-gravitational-antisiphon/merged/csf-shunt--sophysa-sa--siphonx-gravitational-antisiphon.json",
+        "bytes": 848
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_antisiphon_devices",
+    "label": "Antisiphon Accessories"
+  }
+}

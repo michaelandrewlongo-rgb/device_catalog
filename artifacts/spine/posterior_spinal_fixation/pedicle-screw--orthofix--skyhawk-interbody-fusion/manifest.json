@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--orthofix--skyhawk-interbody-fusion",
+  "artifact_folder": "pedicle-screw--orthofix--skyhawk-interbody-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2809,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--orthofix--skyhawk-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--orthofix--skyhawk-interbody-fusion/enriched/pedicle-screw--orthofix--skyhawk-interbody-fusion.json",
+        "bytes": 1409
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K140709.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--orthofix--skyhawk-interbody-fusion/fda_raw/MAX/K140709.json",
+        "bytes": 572
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--orthofix--skyhawk-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--orthofix--skyhawk-interbody-fusion/merged/pedicle-screw--orthofix--skyhawk-interbody-fusion.json",
+        "bytes": 828
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

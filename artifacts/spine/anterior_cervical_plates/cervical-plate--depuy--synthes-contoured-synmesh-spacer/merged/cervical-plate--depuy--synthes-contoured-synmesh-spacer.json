@@ -1,0 +1,28 @@
+{
+  "device_name": "SYNTHES CONTOURED SYNMESH SPACER",
+  "manufacturer": "depuy",
+  "catalog_category": "cervical-plate",
+  "filename_stem": "cervical-plate--depuy--synthes-contoured-synmesh-spacer",
+  "clearance_type": "510k",
+  "clearance_number": "K041389",
+  "clearance_date": "2004-10-01",
+  "device_class": 2,
+  "device_name_fda": "SYNTHES CONTOURED SYNMESH SPACER",
+  "product_code": "MQP",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf04/K041389.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "source": "fda_udi",
+  "brand_name": "TREND II Spinal Fixation System- STEP Series",
+  "extraction_method": "fda_udi_api",
+  "fields": {
+    "what_it_is": "Multiaxial Cannulated Screw, D 7.50 x L 50 mm",
+    "sizing_specs": "Catalog: 1226-7550; Model: 1226-7550",
+    "use_notes": "MRI: Labeling does not contain MRI Safety Information. Sterilized: Moist Heat or Steam Sterilization. Single-use",
+    "also_known_as": [
+      "TREND II Spinal Fixation System- STEP Series",
+      "Spinal bone screw, non-bioabsorbable"
+    ]
+  },
+  "confidence": {
+    "what_it_is": 0.85,
+    "sizing_specs": 0.85,
+    "use_notes": 0.85,
+    "also_known_as": 0.85
+  }
+}

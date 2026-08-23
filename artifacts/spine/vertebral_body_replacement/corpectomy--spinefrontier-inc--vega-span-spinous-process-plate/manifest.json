@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--spinefrontier-inc--vega-span-spinous-process-plate",
+  "artifact_folder": "corpectomy--spinefrontier-inc--vega-span-spinous-process-plate",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3098,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--spinefrontier-inc--vega-span-spinous-process-plate.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--spinefrontier-inc--vega-span-spinous-process-plate/enriched/corpectomy--spinefrontier-inc--vega-span-spinous-process-plate.json",
+        "bytes": 1634
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K102020.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--spinefrontier-inc--vega-span-spinous-process-plate/fda_raw/KWP/K102020.json",
+        "bytes": 603
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--spinefrontier-inc--vega-span-spinous-process-plate.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--spinefrontier-inc--vega-span-spinous-process-plate/merged/corpectomy--spinefrontier-inc--vega-span-spinous-process-plate.json",
+        "bytes": 861
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

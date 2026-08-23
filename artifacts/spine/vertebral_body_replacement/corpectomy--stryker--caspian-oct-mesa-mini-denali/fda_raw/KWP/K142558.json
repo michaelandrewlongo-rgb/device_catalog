@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K142558",
+  "clearance_date": "2014-12-22",
+  "device_class": 2,
+  "manufacturer_canonical": "stryker",
+  "manufacturer_raw": "K2m",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "Caspian OCT/MESA Mini/DENALI Mini Spinal System",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--stryker--caspian-oct-mesa-mini-denali",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf14/K142558.pdf"
+}

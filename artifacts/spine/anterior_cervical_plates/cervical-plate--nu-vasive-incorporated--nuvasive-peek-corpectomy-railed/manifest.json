@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--nu-vasive-incorporated--nuvasive-peek-corpectomy-railed",
+  "artifact_folder": "cervical-plate--nu-vasive-incorporated--nuvasive-peek-corpectomy-railed",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2964,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--nu-vasive-incorporated--nuvasive-peek-corpectomy-railed.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--nu-vasive-incorporated--nuvasive-peek-corpectomy-railed/enriched/cervical-plate--nu-vasive-incorporated--nuvasive-peek-corpectomy-railed.json",
+        "bytes": 1460
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K151538.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--nu-vasive-incorporated--nuvasive-peek-corpectomy-railed/fda_raw/MQP/K151538.json",
+        "bytes": 625
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--nu-vasive-incorporated--nuvasive-peek-corpectomy-railed.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--nu-vasive-incorporated--nuvasive-peek-corpectomy-railed/merged/cervical-plate--nu-vasive-incorporated--nuvasive-peek-corpectomy-railed.json",
+        "bytes": 879
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--ingenium-spine--ingenix-spinal",
+  "artifact_folder": "interbody-cage--ingenium-spine--ingenix-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2771,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--ingenium-spine--ingenix-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--ingenium-spine--ingenix-spinal/enriched/interbody-cage--ingenium-spine--ingenix-spinal.json",
+        "bytes": 1393
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K241258.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--ingenium-spine--ingenix-spinal/fda_raw/NKB/K241258.json",
+        "bytes": 566
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--ingenium-spine--ingenix-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--ingenium-spine--ingenix-spinal/merged/interbody-cage--ingenium-spine--ingenix-spinal.json",
+        "bytes": 812
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

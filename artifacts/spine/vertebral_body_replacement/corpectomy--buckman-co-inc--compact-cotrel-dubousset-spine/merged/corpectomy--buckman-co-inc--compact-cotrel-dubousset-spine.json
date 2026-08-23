@@ -1,0 +1,28 @@
+{
+  "device_name": "COMPACT COTREL -- DUBOUSSET SPINE SYSTEM",
+  "manufacturer": "buckman-co-inc",
+  "catalog_category": "corpectomy",
+  "filename_stem": "corpectomy--buckman-co-inc--compact-cotrel-dubousset-spine",
+  "clearance_type": "510k",
+  "clearance_number": "K921767",
+  "clearance_date": "1993-06-22",
+  "device_class": 2,
+  "device_name_fda": "COMPACT COTREL -- DUBOUSSET SPINE SYSTEM",
+  "product_code": "KWP",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf92/K921767.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

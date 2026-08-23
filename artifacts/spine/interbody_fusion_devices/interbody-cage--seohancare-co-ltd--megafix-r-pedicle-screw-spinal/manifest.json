@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--seohancare-co-ltd--megafix-r-pedicle-screw-spinal",
+  "artifact_folder": "interbody-cage--seohancare-co-ltd--megafix-r-pedicle-screw-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2931,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--seohancare-co-ltd--megafix-r-pedicle-screw-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--seohancare-co-ltd--megafix-r-pedicle-screw-spinal/enriched/interbody-cage--seohancare-co-ltd--megafix-r-pedicle-screw-spinal.json",
+        "bytes": 1447
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K191655.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--seohancare-co-ltd--megafix-r-pedicle-screw-spinal/fda_raw/NKB/K191655.json",
+        "bytes": 610
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--seohancare-co-ltd--megafix-r-pedicle-screw-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--seohancare-co-ltd--megafix-r-pedicle-screw-spinal/merged/interbody-cage--seohancare-co-ltd--megafix-r-pedicle-screw-spinal.json",
+        "bytes": 874
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

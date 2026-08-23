@@ -1,0 +1,47 @@
+{
+  "device_slug": "dural-substitute--collagen-matrix-inc--collagen-dura-regeneration-membrane-repair",
+  "artifact_folder": "dural-substitute--collagen-matrix-inc--collagen-dura-regeneration-membrane-repair",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 2586495,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/dural-substitute/parsed/fda_summaries/dural-substitute--collagen-matrix-inc--collagen-dura-regeneration-membrane-repair--510k.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--collagen-matrix-inc--collagen-dura-regeneration-membrane-repair/510k/dural-substitute/parsed/fda_summaries/dural-substitute--collagen-matrix-inc--collagen-dura-regeneration-membrane-repair--510k.json",
+        "bytes": 16047
+      },
+      {
+        "source": "pipeline/data/510k/dural-substitute/pdfs/dural-substitute--collagen-matrix-inc--collagen-dura-regeneration-membrane-repair--510k.pdf",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--collagen-matrix-inc--collagen-dura-regeneration-membrane-repair/510k/dural-substitute/pdfs/dural-substitute--collagen-matrix-inc--collagen-dura-regeneration-membrane-repair--510k.pdf",
+        "bytes": 2559154
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/dural-substitute--collagen-matrix-inc--collagen-dura-regeneration-membrane-repair.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--collagen-matrix-inc--collagen-dura-regeneration-membrane-repair/enriched/dural-substitute--collagen-matrix-inc--collagen-dura-regeneration-membrane-repair.json",
+        "bytes": 9757
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/GXQ/K251191.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--collagen-matrix-inc--collagen-dura-regeneration-membrane-repair/fda_raw/GXQ/K251191.json",
+        "bytes": 637
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/dural-substitute--collagen-matrix-inc--collagen-dura-regeneration-membrane-repair.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--collagen-matrix-inc--collagen-dura-regeneration-membrane-repair/merged/dural-substitute--collagen-matrix-inc--collagen-dura-regeneration-membrane-repair.json",
+        "bytes": 900
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "dural-substitute",
+    "label": "Outside listed seed registries"
+  }
+}

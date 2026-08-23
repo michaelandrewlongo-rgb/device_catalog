@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--holter-hausner-intl--h-h-flushing-reservoir",
+  "artifact_folder": "csf-shunt--holter-hausner-intl--h-h-flushing-reservoir",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2805,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--holter-hausner-intl--h-h-flushing-reservoir.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--holter-hausner-intl--h-h-flushing-reservoir/enriched/csf-shunt--holter-hausner-intl--h-h-flushing-reservoir.json",
+        "bytes": 1403
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K875287.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--holter-hausner-intl--h-h-flushing-reservoir/fda_raw/JXG/K875287.json",
+        "bytes": 580
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--holter-hausner-intl--h-h-flushing-reservoir.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--holter-hausner-intl--h-h-flushing-reservoir/merged/csf-shunt--holter-hausner-intl--h-h-flushing-reservoir.json",
+        "bytes": 822
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

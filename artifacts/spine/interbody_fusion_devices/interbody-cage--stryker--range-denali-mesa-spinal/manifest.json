@@ -1,0 +1,50 @@
+{
+  "device_slug": "interbody-cage--stryker--range-denali-mesa-spinal",
+  "artifact_folder": "interbody-cage--stryker--range-denali-mesa-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 4995,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--stryker--range-denali-mesa-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker--range-denali-mesa-spinal/enriched/interbody-cage--stryker--range-denali-mesa-spinal.json",
+        "bytes": 1891
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K143334.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker--range-denali-mesa-spinal/fda_raw/NKB/K143334.json",
+        "bytes": 567
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K150325.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker--range-denali-mesa-spinal/fda_raw/NKB/K150325.json",
+        "bytes": 567
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K153031.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker--range-denali-mesa-spinal/fda_raw/NKB/K153031.json",
+        "bytes": 575
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K171832.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker--range-denali-mesa-spinal/fda_raw/NKB/K171832.json",
+        "bytes": 567
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--stryker--range-denali-mesa-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker--range-denali-mesa-spinal/merged/interbody-cage--stryker--range-denali-mesa-spinal.json",
+        "bytes": 828
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

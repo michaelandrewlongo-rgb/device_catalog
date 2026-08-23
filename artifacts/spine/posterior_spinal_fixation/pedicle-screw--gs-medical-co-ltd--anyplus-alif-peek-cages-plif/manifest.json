@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--gs-medical-co-ltd--anyplus-alif-peek-cages-plif",
+  "artifact_folder": "pedicle-screw--gs-medical-co-ltd--anyplus-alif-peek-cages-plif",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3111,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--gs-medical-co-ltd--anyplus-alif-peek-cages-plif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--gs-medical-co-ltd--anyplus-alif-peek-cages-plif/enriched/pedicle-screw--gs-medical-co-ltd--anyplus-alif-peek-cages-plif.json",
+        "bytes": 1523
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K131612.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--gs-medical-co-ltd--anyplus-alif-peek-cages-plif/fda_raw/MAX/K131612.json",
+        "bytes": 646
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--gs-medical-co-ltd--anyplus-alif-peek-cages-plif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--gs-medical-co-ltd--anyplus-alif-peek-cages-plif/merged/pedicle-screw--gs-medical-co-ltd--anyplus-alif-peek-cages-plif.json",
+        "bytes": 942
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

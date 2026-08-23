@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--ortho-engineering-products-co--songer-titanium-spine-l-rod",
+  "artifact_folder": "corpectomy--ortho-engineering-products-co--songer-titanium-spine-l-rod",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2922,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--ortho-engineering-products-co--songer-titanium-spine-l-rod.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--ortho-engineering-products-co--songer-titanium-spine-l-rod/enriched/corpectomy--ortho-engineering-products-co--songer-titanium-spine-l-rod.json",
+        "bytes": 1440
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K854313.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--ortho-engineering-products-co--songer-titanium-spine-l-rod/fda_raw/KWP/K854313.json",
+        "bytes": 623
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--ortho-engineering-products-co--songer-titanium-spine-l-rod.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--ortho-engineering-products-co--songer-titanium-spine-l-rod/merged/corpectomy--ortho-engineering-products-co--songer-titanium-spine-l-rod.json",
+        "bytes": 859
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

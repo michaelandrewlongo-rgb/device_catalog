@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K191391",
+  "clearance_date": "2019-09-18",
+  "device_class": 2,
+  "manufacturer_canonical": "globus",
+  "manufacturer_raw": "Globus Medical, Inc.",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "HEDRON Lumbar Spacers",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--globus--hedron-lumbar-spacers",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf19/K191391.pdf"
+}

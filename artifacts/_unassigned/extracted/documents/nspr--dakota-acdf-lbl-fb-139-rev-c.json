@@ -1,0 +1,21 @@
+{
+  "source_pdf": "dakota-acdf-lbl-fb-139-rev-c.pdf",
+  "source_path": "C:\\Users\\Michael\\Documents\\device_catalog\\pipeline\\data\\extracted\\nspr\\pdfs\\dakota-acdf-lbl-fb-139-rev-c.pdf",
+  "device_name": "Dakota Acdf Lbl Fb 139 Rev C",
+  "manufacturer": "unknown",
+  "doc_type": "technique_guide",
+  "extraction_method": "pdfplumber_deepseek",
+  "extraction_source": "nspr_pdf",
+  "fields": {
+    "what_it_is": null,
+    "sizing_specs": "|  |\n| --- |\n|  |\n| CORTICAL CANCELLOUS SCREWS |\n\n|  |  |\n| --- | --- |\n|  |  |\n\n|  |\n| --- |\n|  |\n\n|  |\n| --- |\n| CORTICAL CANCELLOUS SCREWS |",
+    "indications": null,
+    "contraindications": null,
+    "compatible_with": null,
+    "use_notes": null,
+    "also_known_as": null
+  },
+  "confidence": {
+    "sizing_specs": 0.7
+  }
+}

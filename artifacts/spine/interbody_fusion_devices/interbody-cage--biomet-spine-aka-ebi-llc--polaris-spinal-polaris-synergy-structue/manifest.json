@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--biomet-spine-aka-ebi-llc--polaris-spinal-polaris-synergy-structue",
+  "artifact_folder": "interbody-cage--biomet-spine-aka-ebi-llc--polaris-spinal-polaris-synergy-structue",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3174,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--biomet-spine-aka-ebi-llc--polaris-spinal-polaris-synergy-structue.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--biomet-spine-aka-ebi-llc--polaris-spinal-polaris-synergy-structue/enriched/interbody-cage--biomet-spine-aka-ebi-llc--polaris-spinal-polaris-synergy-structue.json",
+        "bytes": 1540
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K100409.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--biomet-spine-aka-ebi-llc--polaris-spinal-polaris-synergy-structue/fda_raw/NKB/K100409.json",
+        "bytes": 675
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--biomet-spine-aka-ebi-llc--polaris-spinal-polaris-synergy-structue.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--biomet-spine-aka-ebi-llc--polaris-spinal-polaris-synergy-structue/merged/interbody-cage--biomet-spine-aka-ebi-llc--polaris-spinal-polaris-synergy-structue.json",
+        "bytes": 959
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--heyer-schulte-corp--valve-standard-model-pudenze-flushing",
+  "artifact_folder": "csf-shunt--heyer-schulte-corp--valve-standard-model-pudenze-flushing",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2923,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--heyer-schulte-corp--valve-standard-model-pudenze-flushing.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--heyer-schulte-corp--valve-standard-model-pudenze-flushing/enriched/csf-shunt--heyer-schulte-corp--valve-standard-model-pudenze-flushing.json",
+        "bytes": 1448
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K760501.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--heyer-schulte-corp--valve-standard-model-pudenze-flushing/fda_raw/JXG/K760501.json",
+        "bytes": 608
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--heyer-schulte-corp--valve-standard-model-pudenze-flushing.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--heyer-schulte-corp--valve-standard-model-pudenze-flushing/merged/csf-shunt--heyer-schulte-corp--valve-standard-model-pudenze-flushing.json",
+        "bytes": 867
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

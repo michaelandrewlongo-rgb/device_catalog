@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--medtronic--modification-to-verte-stack",
+  "artifact_folder": "cervical-plate--medtronic--modification-to-verte-stack",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2819,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--medtronic--modification-to-verte-stack.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--modification-to-verte-stack/enriched/cervical-plate--medtronic--modification-to-verte-stack.json",
+        "bytes": 1408
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K040422.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--modification-to-verte-stack/fda_raw/MQP/K040422.json",
+        "bytes": 584
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--medtronic--modification-to-verte-stack.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--modification-to-verte-stack/merged/cervical-plate--medtronic--modification-to-verte-stack.json",
+        "bytes": 827
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

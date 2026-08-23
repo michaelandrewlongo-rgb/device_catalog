@@ -1,0 +1,42 @@
+{
+  "device_slug": "navigation--stryker--q-guidance-system",
+  "artifact_folder": "navigation--stryker--q-guidance-system",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 8473,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/navigation--stryker--q-guidance-system--knowledge.md",
+        "artifact": "artifacts/_outside_seed_registries/navigation/navigation--stryker--q-guidance-system/data_by_device/navigation--stryker--q-guidance-system--knowledge.md",
+        "bytes": 2611
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/navigation--stryker--q-guidance-system.json",
+        "artifact": "artifacts/_outside_seed_registries/navigation/navigation--stryker--q-guidance-system/enriched/navigation--stryker--q-guidance-system.json",
+        "bytes": 2474
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/navigation--stryker--q-guidance-system.json",
+        "artifact": "artifacts/_outside_seed_registries/navigation/navigation--stryker--q-guidance-system/merged/navigation--stryker--q-guidance-system.json",
+        "bytes": 1863
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/stryker/q-guidance-system.json",
+        "artifact": "artifacts/_outside_seed_registries/navigation/navigation--stryker--q-guidance-system/scraper_raw/stryker/q-guidance-system.json",
+        "bytes": 1525
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "navigation",
+    "label": "Outside listed seed registries"
+  }
+}

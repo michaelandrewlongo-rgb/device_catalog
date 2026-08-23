@@ -1,0 +1,28 @@
+{
+  "device_slug": "reference--viktors-notes--thoracolumbosacral-spine--chapter",
+  "artifact_folder": "reference--viktors-notes--thoracolumbosacral-spine--chapter",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 2,
+  "bytes": 28116383,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/reference--viktors-notes--thoracolumbosacral-spine--chapter.pdf",
+        "artifact": "artifacts/_outside_seed_registries/reference/reference--viktors-notes--thoracolumbosacral-spine--chapter/data_by_device/reference--viktors-notes--thoracolumbosacral-spine--chapter.pdf",
+        "bytes": 28115915
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/documents/reference--viktors-notes--thoracolumbosacral-spine--chapter.json",
+        "artifact": "artifacts/_outside_seed_registries/reference/reference--viktors-notes--thoracolumbosacral-spine--chapter/extracted/documents/reference--viktors-notes--thoracolumbosacral-spine--chapter.json",
+        "bytes": 468
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "reference",
+    "label": "Outside listed seed registries"
+  }
+}

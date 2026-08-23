@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--stryker--ava-navigator-peek-spacers-model",
+  "artifact_folder": "pedicle-screw--stryker--ava-navigator-peek-spacers-model",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2931,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--stryker--ava-navigator-peek-spacers-model.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--ava-navigator-peek-spacers-model/enriched/pedicle-screw--stryker--ava-navigator-peek-spacers-model.json",
+        "bytes": 1457
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K100865.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--ava-navigator-peek-spacers-model/fda_raw/MAX/K100865.json",
+        "bytes": 598
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--stryker--ava-navigator-peek-spacers-model.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--ava-navigator-peek-spacers-model/merged/pedicle-screw--stryker--ava-navigator-peek-spacers-model.json",
+        "bytes": 876
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

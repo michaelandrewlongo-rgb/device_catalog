@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--depuy--modular-spinal-fixation-locking-hook",
+  "artifact_folder": "corpectomy--depuy--modular-spinal-fixation-locking-hook",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3058,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--depuy--modular-spinal-fixation-locking-hook.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--modular-spinal-fixation-locking-hook/enriched/corpectomy--depuy--modular-spinal-fixation-locking-hook.json",
+        "bytes": 1605
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K884688.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--modular-spinal-fixation-locking-hook/fda_raw/KWP/K884688.json",
+        "bytes": 589
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--depuy--modular-spinal-fixation-locking-hook.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--modular-spinal-fixation-locking-hook/merged/corpectomy--depuy--modular-spinal-fixation-locking-hook.json",
+        "bytes": 864
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

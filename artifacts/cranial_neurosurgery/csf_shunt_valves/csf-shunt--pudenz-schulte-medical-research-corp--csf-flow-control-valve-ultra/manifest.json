@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--pudenz-schulte-medical-research-corp--csf-flow-control-valve-ultra",
+  "artifact_folder": "csf-shunt--pudenz-schulte-medical-research-corp--csf-flow-control-valve-ultra",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3007,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--pudenz-schulte-medical-research-corp--csf-flow-control-valve-ultra.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--pudenz-schulte-medical-research-corp--csf-flow-control-valve-ultra/enriched/csf-shunt--pudenz-schulte-medical-research-corp--csf-flow-control-valve-ultra.json",
+        "bytes": 1469
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K873247.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--pudenz-schulte-medical-research-corp--csf-flow-control-valve-ultra/fda_raw/JXG/K873247.json",
+        "bytes": 650
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--pudenz-schulte-medical-research-corp--csf-flow-control-valve-ultra.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--pudenz-schulte-medical-research-corp--csf-flow-control-valve-ultra/merged/csf-shunt--pudenz-schulte-medical-research-corp--csf-flow-control-valve-ultra.json",
+        "bytes": 888
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

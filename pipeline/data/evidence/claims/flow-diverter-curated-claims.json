@@ -1,0 +1,2902 @@
+[
+  {
+    "claim_id": "claim:8e8dfd059dbea1b8",
+    "claim_text": "**Manufacturer:** Medtronic",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:560842081ee59332",
+    "claim_text": "**Category:** Flow diverter",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:f39425b194414402",
+    "claim_text": "Third-generation flow diverter embolization device for placement in parent vessel across the neck of intracranial aneurysms. Diverts flow away from aneurysm neck and reconstructs parent artery. Shield Technology is a surface modification using phosphorylcholine to reduce thrombogenicity. Reference device in flow diversion with 10 years of experience and highest number of clinical studies.",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "What It Is",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:7c02b0f56cc15368",
+    "claim_text": "[NEEDS CONTENT - dimensions, available sizes/configurations, materials table]",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Sizing/Specs",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:a5ed38d53eeb6446",
+    "claim_text": "Treatment of intracranial aneurysms (IA) by endovascular placement across the aneurysm neck in the parent vessel.",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Indications",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:ccf543ce174d4315",
+    "claim_text": "Phenom 17/21/27 microcatheters (delivery catheter)",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Compatible With",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:8995e3c5f21df8b9",
+    "claim_text": "Shield Technology (phosphorylcholine surface modification) shown to reduce thrombogenicity in vitro. Pipeline embolization devices are the reference in flow diversion. 1-year follow-up data available from PFLEX study.",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Use Notes",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:212338697c7d375d",
+    "claim_text": "**Surface Technology**: Pipeline Flex with Shield Technology features phosphorylcholine surface modification to reduce thrombogenicity, while Pipeline Flex (without Shield), FRED, and Surpass Streamline do not specify surface modifications.",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Key Differences vs Competitors",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:a427bb96482a1ab6",
+    "claim_text": "**Design Architecture**: FRED has a dual-layer braid design (inner high-density mesh for flow diversion, outer stent for scaffolding), whereas Pipeline Flex (with/without Shield) and Surpass Streamline are single-layer braided devices.",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Key Differences vs Competitors",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:0fa9cc47276134ed",
+    "claim_text": "**Indication Age Range**: Pipeline Flex (without Shield) and FRED are indicated for adults ≥22 years old, while Surpass Streamline is indicated for patients ≥18 years old; Pipeline Flex with Shield Technology does not specify an age range.",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Key Differences vs Competitors",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:e3be0beb35fcd850",
+    "claim_text": "**Resheathing Capability**: FRED specifies resheathing capability as a key differentiator, while Pipeline Flex (with/without Shield) and Surpass Streamline do not mention resheathing features.",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Key Differences vs Competitors",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:f837c0a0a43740db",
+    "claim_text": "**Clinical Data Reference**: Pipeline Flex with Shield Technology is described as the reference device in flow diversion with 10 years of experience and the highest number of clinical studies, including 1-year follow-up data from the PFLEX study; other devices do not specify comparable clinical data references.",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Key Differences vs Competitors",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:01f582de65d508f8",
+    "claim_text": "Pipeline Flex, PED, Pipeline Embolization Device, Pipeline Shield",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Also Known As",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:a27a8f6ec074eb45",
+    "claim_text": "**Manufacturer:** Medtronic",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:28fb4c476ae647e8",
+    "claim_text": "**Category:** Flow diverter",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:2f7fb2b51a293463",
+    "claim_text": "PMA P100018 | Class 3 | 2021-07-19",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:8f8e65c290ef9903",
+    "claim_text": "Third-generation flow diverter embolization device for placement in parent vessel across the neck of intracranial aneurysms. Diverts flow away from aneurysm neck and reconstructs parent artery. Shield Technology is a surface modification using phosphorylcholine to reduce thrombogenicity. Reference device in flow diversion with 10 years of experience and highest number of clinical studies.",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "What It Is",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:20f7c9abfbab20bd",
+    "claim_text": "[NEEDS CONTENT - dimensions, available sizes/configurations, materials table]",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Sizing/Specs",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:bd25f1f68d31c992",
+    "claim_text": "Treatment of intracranial aneurysms (IA) by endovascular placement across the aneurysm neck in the parent vessel.",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Indications",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:92e7ada6700795a2",
+    "claim_text": "Phenom 17/21/27 microcatheters (delivery catheter)",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Compatible With",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:2370866b211897ca",
+    "claim_text": "Shield Technology (phosphorylcholine surface modification) shown to reduce thrombogenicity in vitro. Pipeline embolization devices are the reference in flow diversion. 1-year follow-up data available from PFLEX study.",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Use Notes",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:d8e5870a0144ca4b",
+    "claim_text": "**Surface Technology**: Pipeline Flex with Shield Technology incorporates phosphorylcholine surface modification to reduce thrombogenicity, a feature not specified for the standard Pipeline Flex, FRED, or Surpass Streamline.",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Key Differences vs Competitors",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:9b32d24af31962fa",
+    "claim_text": "**Clinical Evidence**: Pipeline Flex with Shield Technology is described as the reference device in flow diversion with 10 years of experience and the highest number of clinical studies, a distinction not specified for the other devices.",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Key Differences vs Competitors",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:12182c78ef6f935c",
+    "claim_text": "**Device Design**: FRED features a dual-layer braid design (inner high-density mesh, outer stent) for flow diversion and scaffolding, differing from the single-layer braided designs of the Pipeline devices and Surpass Streamline.",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Key Differences vs Competitors",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:26b2e086f7b59a6c",
+    "claim_text": "**Indication Specificity**: Surpass Streamline is indicated for patients 18 years and older, while Pipeline Flex and FRED are indicated for adults ≥22 years old; the age indication for Pipeline Flex with Shield Technology is not specified.",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Key Differences vs Competitors",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:a3c5846b3ef35da2",
+    "claim_text": "**Delivery System Compatibility**: Pipeline Flex with Shield Technology is compatible with Phenom 17/21/27 microcatheters, whereas FRED uses Headway 21/27 microcatheters, and compatibility for Surpass Streamline is not specified.",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Key Differences vs Competitors",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:f13152445b8886de",
+    "claim_text": "Pipeline Flex, PED, Pipeline Embolization Device, Pipeline Shield",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Also Known As",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:4530e40c9fbc47cf",
+    "claim_text": "**Manufacturer:** Medtronic (ev3 Neurovascular)",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:36ee8771538e82b9",
+    "claim_text": "**Category:** Flow diverter",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:ee8a5eb15afd1c79",
+    "claim_text": "**Delivery catheter:** Marksman (0.027\" ID, minimum 135 cm length)",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:3ceb11c4b1e5e913",
+    "claim_text": "Braided, multi-alloy mesh cylinder (platinum/tungsten + cobalt-chromium-nickel) that sits across the aneurysm neck in the parent artery. Provides ~30% metal coverage of the arterial wall surface area. Diverts flow away from the aneurysm sac, promoting thrombosis and endothelialization over time.",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "What It Is",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:9e0834dfb25e989f",
+    "claim_text": "The implant sits on a 304 stainless steel micro-guidewire inside an introducer sheath (~200 cm total length). The delivery wire has a fluorosafe marker no further than 125 cm from the distal end.",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "What It Is",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:2a1c21c9c834070a",
+    "claim_text": "**Rule: Match the labeled diameter to the largest target vessel diameter.**",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Sizing",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:427bd7d622ffcc74",
+    "claim_text": "The device foreshortens 50-60% during deployment. Choose a length at least 6 mm longer than the aneurysm neck to ensure adequate landing zones on both sides.",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Sizing",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:111a85f1171b8a44",
+    "claim_text": "If there's a mismatch between proximal and distal parent vessel diameter, **size to the larger (proximal) vessel** for proper wall apposition and anchoring.",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Sizing",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:424fbc7ac67141ee",
+    "claim_text": "| Labeled Diameter (mm) | Self-Expanded Diameter (mm) | Available Lengths (mm) |",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Sizing",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:c0ee9c5e163779e3",
+    "claim_text": "| 2.50 | 2.75 | 10, 12, 14, 16, 18, 20 |",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Sizing",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:8c0bcbb7bc0a9938",
+    "claim_text": "| 2.75 | 3.00 | 10, 12, 14, 16, 18, 20 |",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Sizing",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:0566c29ad74505b7",
+    "claim_text": "| 3.00 | 3.25 | 10, 12, 14, 16, 18, 20, 25, 30, 35 |",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Sizing",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:f41c924cc30cd252",
+    "claim_text": "| 3.25 | 3.50 | 10, 12, 14, 16, 18, 20, 25, 30, 35 |",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Sizing",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:983d23a72ce9b879",
+    "claim_text": "| 3.50 | 3.75 | 10, 12, 14, 16, 18, 20, 25, 30, 35 |",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Sizing",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:9f932c1d708fad15",
+    "claim_text": "| 3.75 | 4.00 | 10, 12, 14, 16, 18, 20, 25, 30, 35 |",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Sizing",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:21bedc80c8d0b8ce",
+    "claim_text": "| 4.00 | 4.25 | 10, 12, 14, 16, 18, 20, 25, 30, 35 |",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Sizing",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:953c8684cc0883be",
+    "claim_text": "| 4.25 | 4.50 | 10, 12, 14, 16, 18, 20, 25, 30, 35 |",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Sizing",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:3d0e706e37c16502",
+    "claim_text": "| 4.50 | 4.75 | 10, 12, 14, 16, 18, 20, 25, 30, 35 |",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Sizing",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:5ef1b01e35717663",
+    "claim_text": "| 4.75 | 5.00 | 10, 12, 14, 16, 18, 20, 25, 30, 35 |",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Sizing",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:b8af8f733c2c1184",
+    "claim_text": "| 5.00 | 5.25 | 10, 12, 14, 16, 18, 20, 25, 30, 35 |",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Sizing",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:0008195352c85bad",
+    "claim_text": "**Parent vessel range:** 2.0 mm to 5.0 mm diameter.",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Sizing",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:739b00aca481309e",
+    "claim_text": "Adults >= 22 years old",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Indications",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:b0e18e5e96fb9f55",
+    "claim_text": "Large or giant wide-necked intracranial aneurysms in the ICA (petrous to superior hypophyseal)",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Indications",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:af3f1769b3ddfc4b",
+    "claim_text": "Also indicated for small and medium wide-necked aneurysms (neck >= 4 mm OR dome-to-neck ratio < 2) OR saccular/fusiform aneurysms, arising from parent vessel 2.0-5.0 mm, in the ICA up to the terminus",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Indications",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:d33f1a07fb753c74",
+    "claim_text": "Active bacterial infection",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Contraindications",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:558cd1ac54069ac1",
+    "claim_text": "Not on dual antiplatelet therapy (ASA + clopidogrel) -- absolute contraindication",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Contraindications",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:deee2004111938b3",
+    "claim_text": "Have not received DAPT prior to procedure",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Contraindications",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:059cdd36a6b6637b",
+    "claim_text": "Pre-existing stent at target aneurysm location",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Contraindications",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:97434780c7a53134",
+    "claim_text": "Parent vessel outside 2.0-5.0 mm range",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Contraindications",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:15448ba831fa8a87",
+    "claim_text": "From the PREMIER trial:",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Anticoagulation Protocol",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:478c93c64c7bfe16",
+    "claim_text": "**Pre-procedure:** Aspirin 325 mg daily for minimum 7 days + Clopidogrel 75 mg daily for minimum 7 days prior",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Anticoagulation Protocol",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:f91a7cffe36596c8",
+    "claim_text": "**Intra-procedure:** Heparinized saline drip to continuously flush microcatheter",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Anticoagulation Protocol",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:dfa8ae067ddbd218",
+    "claim_text": "**Post-procedure:** Aspirin 325 mg daily for minimum 6 months + Clopidogrel 75 mg daily for minimum 3 months (then 75 mg daily for 3 more months)",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Anticoagulation Protocol",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:a614349f6a3ccffe",
+    "claim_text": "1. **Position microcatheter:** Advance Marksman at least 20 mm past the distal edge of the aneurysm. Gently retract to reduce slack.",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment Step-by-Step",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:b9f0d9bbd14825d8",
+    "claim_text": "2. **Prep the device:** Remove packaging hoop, pull blue clip from introducer sheath. Insert introducer sheath into the RHV at the catheter hub. Flush with heparinized saline at 250 mmHg pressure. Confirm the sheath tip is seated in the hub.",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment Step-by-Step",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:35dae4ab9f03d593",
+    "claim_text": "3. **Lock and advance:** Secure introducer sheath to hub by locking down the RHV. Advance proximal end of delivery wire until it aligns with the proximal end of introducer sheath.",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment Step-by-Step",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:87c1d31a523c554c",
+    "claim_text": "4. **Remove introducer sheath.** The fluorosafe marker is only compatible with microcatheters >= 135 cm.",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment Step-by-Step",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:bafabf9852b02704",
+    "claim_text": "5. **Advance to tip:** Push the delivery wire through the microcatheter until the delivery wire tip aligns with the microcatheter tip. Place the distal end of the PED at least 3 mm past the distal edge of the aneurysm.",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment Step-by-Step",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:a63c39d53b7c2b7d",
+    "claim_text": "6. **Deploy:** Unsheathe the device by a combination of advancing the microcatheter and pushing the delivery wire simultaneously. The device foreshortens 50-60% as it opens.",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment Step-by-Step",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:3aee971e40c0ad52",
+    "claim_text": "7. **Monitor the resheathing marker** during deployment. The device can be resheathed (pulled back into the catheter) until the resheathing marker has reached the distal marker of the microcatheter. Maximum 2 full resheathing cycles -- more than 2 may damage the braid ends.",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment Step-by-Step",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:86e71ad5d321d8c6",
+    "claim_text": "8. **After full expansion:** Lock the delivery wire to the microcatheter by locking down and/or manipulating together as a system to facilitate expansion.",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment Step-by-Step",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:00ecc23dc4a0850e",
+    "claim_text": "9. **Detach:** Once fully deployed, advance the microcatheter tip distal to the PED, making sure not to dislodge the braid. Retract the delivery wire into the microcatheter tip.",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment Step-by-Step",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:2a9fb37c0ac45064",
+    "claim_text": "10. **Inspect under fluoro:** Confirm the device is fully apposed to vessel wall, not kinked. If incomplete apposition, consider balloon catheter, guidewire, or a second PED to open it.",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment Step-by-Step",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:1faf7005ac063594",
+    "claim_text": "**Excessive friction during delivery:**",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Bailout / Troubleshooting",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:d52524b36ba085f3",
+    "claim_text": "Stop. Remove the device AND microcatheter simultaneously. Do not force against resistance -- this damages the braid or vessel.",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Bailout / Troubleshooting",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:c1d2c9006c6b6c87",
+    "claim_text": "**Tortuous anatomy causing load buildup:**",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Bailout / Troubleshooting",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:ddc330b6d8a8a8b2",
+    "claim_text": "Unload the microcatheter by pulling back on the system (catheter + wire together)",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Bailout / Troubleshooting",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:129e6715ec715b22",
+    "claim_text": "Continue unloading until the device passes through the tortuous area and delivery force decreases",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Bailout / Troubleshooting",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:dc8ac53c91fed384",
+    "claim_text": "Re-advance the delivery wire while maintaining reduced load in the microcatheter",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Bailout / Troubleshooting",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:7fd6db37238c2103",
+    "claim_text": "**Device expanded at wrong location:**",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Bailout / Troubleshooting",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:489017a40387ee4b",
+    "claim_text": "If the resheathing marker has NOT reached the microcatheter distal marker, resheath the device by advancing the microcatheter while pulling the delivery wire",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Bailout / Troubleshooting",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:b61ceb9919875a12",
+    "claim_text": "If fully deployed: cannot be removed. Deploy a second PED if needed.",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Bailout / Troubleshooting",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:8136c8b4ee11c93e",
+    "claim_text": "**Can I telescope a second PED inside the first?**",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Bailout / Troubleshooting",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:ceb4177a51883fa5",
+    "claim_text": "Yes. After placing the first, advance the microcatheter over the delivery wire through the deployed PED. Position at the desired location and deploy normally. Select an appropriate new size for the second device.",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Bailout / Troubleshooting",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:7ba5613c5ca2d68c",
+    "claim_text": "Caution: Multiple PEDs increase ischemic complication risk.",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Bailout / Troubleshooting",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:1a06327eb8e3096e",
+    "claim_text": "**Which diameter if proximal and distal vessel sizes differ?**",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Bailout / Troubleshooting",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:d5d1f75d4e0c3cc3",
+    "claim_text": "Size to the larger (typically proximal) vessel for anchoring.",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Bailout / Troubleshooting",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:bfa9a131f7464691",
+    "claim_text": "From PUFS-PAS (N=134, 5-year follow-up):",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:3ca9788f14e3e0b7",
+    "claim_text": "Cerebral hemorrhage: 4.5%",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:a91997fa775932c3",
+    "claim_text": "Cerebral ischemia: 2.2%",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:3e40bfa2fa7505ed",
+    "claim_text": "Ischemic stroke: 1.5%",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:1cda7294ac288724",
+    "claim_text": "All neurological events at 5 years: 20.1%",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:d965a4ecfdc152fa",
+    "claim_text": "From PREMIER (N=141, 1-year follow-up):",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:0af72a260a7c99ce",
+    "claim_text": "Major stroke at 1 year: 2.17% (mITT population)",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:912077d01c94b009",
+    "claim_text": "Composite disabling stroke or neurological death at 1 year: 1.4%",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:8083241c29e2d26e",
+    "claim_text": "Headache at 180 days: 29.1%",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:129cc9e33a4645c3",
+    "claim_text": "Visual impairment at 180 days: 10.6%",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:9833ac43be875da1",
+    "claim_text": "Vasospasm: 19.9%",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:3745c893820a71e2",
+    "claim_text": "**Key safety signal:** Use in patients >= 60 years may result in decreased effectiveness and additional safety risks. The C7 (communicating segment) ICA has specific anatomical concerns including PComm overlap, fetal origin PCA, and retrograde filling that warrant careful patient selection.",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:5e310c88b9b3646e",
+    "claim_text": "**Hypertension post-PED is associated with increased risk of ipsilateral stroke or neurovascular death.**",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:d2a5c2e7ae483c36",
+    "claim_text": "Complete aneurysm occlusion at 180 days: 76.6% (PUFS-PAS)",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Effectiveness",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:4f65c290ba7a6a18",
+    "claim_text": "Complete aneurysm occlusion at 5 years: 93.8% (PUFS-PAS)",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Effectiveness",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:9c780ab8c69dbca4",
+    "claim_text": "Complete aneurysm occlusion at 1 year: 77.6% (PREMIER, ICA population)",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Effectiveness",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:6e51dd20dfb77c32",
+    "claim_text": "Mean 3.1 PEDs placed per subject (range 1-15)",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Effectiveness",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:56731068c67c9c88",
+    "claim_text": "Most common sizes used: 3.75-4.25 mm diameter, 14-18 mm length",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Effectiveness",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:80241ee469ea0f06",
+    "claim_text": "MR Conditional at 3T:",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "MRI Safety",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:f4809c82f6097c3b",
+    "claim_text": "Static field <= 3 Tesla",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "MRI Safety",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:43b050abaece7361",
+    "claim_text": "Spatial gradient <= 720 Gauss/cm",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "MRI Safety",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:bbedf5682dd24f37",
+    "claim_text": "SAR <= 4.0 W/kg for 15 minutes",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "MRI Safety",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:1a780699bc95778d",
+    "claim_text": "Temperature rise < 0.6C in non-clinical testing",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "MRI Safety",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:119ddf3d714f8305",
+    "claim_text": "MRI may degrade accuracy of MR angiogram for assessing luminal patency due to susceptibility artifact",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "MRI Safety",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:f34a8c9fd0030a03",
+    "claim_text": "Pipeline, PED, Pipeline Flex, Pipeline Shield, Pipeline Flex with Shield Technology",
+    "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Also Known As",
+    "source_file": "flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:4b44168cfa38089a",
+    "claim_text": "**Manufacturer:** MicroVention, Inc. (Terumo)",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:3b8ff2c6ff928400",
+    "claim_text": "**Category:** Flow diverter",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:34a61717ab1ac4f5",
+    "claim_text": "**Source:** https://www.terumoneuro.com/products/fred-family",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:b93944a0bcfe777e",
+    "claim_text": "The FRED (Flow Re-Direction Endoluminal Device) is a self-expanding nickel titanium (nitinol) flow diverter with an integrated dual-layer coverage design. The inner high-density mesh focuses flow diversion at the aneurysm neck while the outer stent provides scaffolding and vessel wall apposition. It has 4 distal and 4 proximal radiopaque markers plus interweaved helical marker strands for fluoroscopic visibility. Available in 7 diameters (2.5-5.5 mm) with working lengths from 7-39 mm. The FRED-21 system (2.5 and 3.0 mm) uses the Headway 21 microcatheter; the FRED-27 system (3.5-5.5 mm) uses the Headway 27 microcatheter.",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "What It Is",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:545e08e0f53c109b",
+    "claim_text": "Key differentiator vs. Pipeline: dual-layer braid design, resheathing capability (up to 3 times), and Headway microcatheter compatibility.",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "What It Is",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:c32820a93d09b9a5",
+    "claim_text": "### FRED System Models and Dimensions",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Sizing",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:1418b51c363849d5",
+    "claim_text": "| Outer Diameter (mm) | Total Lengths (mm) | Working Lengths (mm) | Microcatheter |",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Sizing",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:6842c160dd735d52",
+    "claim_text": "| 2.5 | 13 to 30 | 8 to 26 | Headway 21 |",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Sizing",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:5b3b0526d67e5ac2",
+    "claim_text": "| 3.0 | 13 to 32 | 9 to 27 | Headway 21 |",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Sizing",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:480ff4710abf867f",
+    "claim_text": "| 3.5 | 13, 15, 17, 19, 22, 31, 40 | 7, 9, 11, 13, 16, 24, 36 | Headway 27 |",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Sizing",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:87dd3a799a0132e1",
+    "claim_text": "| 4.0 | 13, 15, 18, 20, 23, 32, 44 | 7, 9, 12, 14, 17, 26, 38 | Headway 27 |",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Sizing",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:eb4b421e5a2c05a3",
+    "claim_text": "| 4.5 | 15, 17, 20, 25, 31, 34, 45 | 8, 11, 13, 18, 24, 28, 39 | Headway 27 |",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Sizing",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:ed6b537413584736",
+    "claim_text": "| 5.0 | 15, 18, 21, 26, 32, 36 | 9, 11, 14, 19, 26, 29 | Headway 27 |",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Sizing",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:26f156f58892d3d0",
+    "claim_text": "| 5.5 | 22, 28, 32 | 14, 19, 26 | Headway 27 |",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Sizing",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:e18682bd947ccf79",
+    "claim_text": "**Sizing decision rule:** Size the FRED to the parent vessel diameter (2.0-5.0 mm range). The implant foreshortens up to 60% as it expands to vessel diameter. Account for foreshortening when selecting length. Examine pre-treatment angiograms for correct and accurate vessel measurements. Ensure adequate implant length on each side of the aneurysm neck for appropriate coverage.",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Sizing",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:fb46c2711a602192",
+    "claim_text": "Adults >= 22 years old",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Indications",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:2aaee51f2bf84bd4",
+    "claim_text": "Wide-necked intracranial aneurysms: neck width >= 4 mm OR dome-to-neck ratio < 2",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Indications",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:ebb71c63fd2d38cb",
+    "claim_text": "Saccular or fusiform aneurysms",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Indications",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:41e9a429793450e3",
+    "claim_text": "Parent vessel diameter 2.0-5.0 mm",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Indications",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:ef3181952280cb7a",
+    "claim_text": "Internal carotid artery from petrous segment to terminus",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Indications",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:e9ad69b37d5c65ab",
+    "claim_text": "Endovascular treatment of unruptured aneurysms (safety/effectiveness NOT established for ruptured aneurysms)",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Indications",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:3a9dc3be7e4339e5",
+    "claim_text": "Anticoagulant, anti-platelet, or thrombolytic therapy is contraindicated in the patient",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Contraindications",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:883e18ac66ae725b",
+    "claim_text": "Known hypersensitivity to nickel-titanium or metal jewelry",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Contraindications",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:a6367ff9a27ec555",
+    "claim_text": "Anatomy does not permit passage or deployment of the FRED System",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Contraindications",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:c6dfe6a1b023cb0e",
+    "claim_text": "Active bacterial infection",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Contraindications",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:33d88d9584a09699",
+    "claim_text": "Pre-existing stent in place at the target aneurysm",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Contraindications",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:2eba6545971ccd42",
+    "claim_text": "Parent vessel size outside the indicated range (2.0-5.0 mm)",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Contraindications",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:c046e18b399cef25",
+    "claim_text": "Patient has NOT received dual anti-platelet agents prior to the procedure",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Contraindications",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:0e46d42e09d1be9c",
+    "claim_text": "**Dual antiplatelet therapy (DAPT):** Required prior to the procedure. Patients who have not received DAPT are contraindicated.",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Relevant Protocol",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:2cd213f601d3dd94",
+    "claim_text": "**Anticoagulation during procedure:** Standard heparinized flush solution required. Maintain continuous heparinized saline flush through the microcatheter.",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Relevant Protocol",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:c96687e98a390d15",
+    "claim_text": "**C7 ICA segment caution:** Decreased complete occlusion rates observed in communicating segment (C7) of ICA -- 52.6% (10/19) at 1 year in the FRED IDE study. Carefully consider:",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Relevant Protocol",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:4c1cd74f1c5f8d47",
+    "claim_text": "1. Observed PComm of fetal origin (small/hypoplastic/absent P1 with PCA fed by ICA)",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Relevant Protocol",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:a428b1fc3ce2596c",
+    "claim_text": "2. PComm branch arising from the aneurysm neck",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Relevant Protocol",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:6778d8bd2380f67e",
+    "claim_text": "3. PComm branch arising from the dome of the aneurysm",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Relevant Protocol",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:ae1bc4464be163ba",
+    "claim_text": "**Post-procedure monitoring:** Follow-up imaging at 30 days, 180 days, and 12 months post-procedure.",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Relevant Protocol",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:e4de45a848e522be",
+    "claim_text": "1. Gain vascular access per standard angiographic practice. Perform diagnostic angiogram to confirm vessel diameter and document target aneurysm.",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment/Use Step-by-Step",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:e69606be0136ae40",
+    "claim_text": "2. Place appropriate guide or intermediate catheter per standard practice.",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment/Use Step-by-Step",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:e5087d7dfd69503e",
+    "claim_text": "3. Coaxially navigate the Headway 27 (FRED-27) or Headway 21 (FRED-21) microcatheter over a guidewire distal to the aneurysm neck or target location. Remove the guidewire.",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment/Use Step-by-Step",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:a61be2321b32f62c",
+    "claim_text": "4. Maintain flush through the microcatheter per standard endovascular practice.",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment/Use Step-by-Step",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:b2ddfcd95bc5ae73",
+    "claim_text": "5. Select an appropriate-sized FRED System based on parent vessel/aneurysm neck size.",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment/Use Step-by-Step",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:7203048190ba31da",
+    "claim_text": "6. Note foreshortening: FRED foreshortens up to 60% as it expands. Account for this when sizing.",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment/Use Step-by-Step",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:b567a16ebd4efae2",
+    "claim_text": "7. Inspect the package for damage. Peel open the pouch aseptically and place the dispenser coil into the sterile field.",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment/Use Step-by-Step",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:a473eed04fa31c9e",
+    "claim_text": "8. Unclip the molded cap from the dispenser coil. Pull on the proximal end of the delivery wire until the introducer exits the dispenser coil. Hold the delivery wire and introducer together while removing the entire device.",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment/Use Step-by-Step",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:a3cebed4711b3001",
+    "claim_text": "9. In a bowl of saline, partially deploy the FRED implant up to 5 mm or 50% (whichever comes first) -- do not detach the implant from the distal introducer tip.",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment/Use Step-by-Step",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:b966beb532e2067c",
+    "claim_text": "10. Check for: distal marker uniformity, even displacement with no entanglement, smooth tracking through introducer.",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment/Use Step-by-Step",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:732e57fb82fb1bcf",
+    "claim_text": "11. WARNING: DO NOT FULLY DEPLOY the FRED System at this point.",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment/Use Step-by-Step",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:54294ebcada8b162",
+    "claim_text": "12. Hydrate the FRED implant in the bowl of saline. Carefully pull back on the delivery wire to fully retrieve the implant and wire tip within the introducer.",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment/Use Step-by-Step",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:139e2281581ce600",
+    "claim_text": "13. If any defect is observed, DO NOT CONTINUE. Return the unit.",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment/Use Step-by-Step",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:b038886e0dc47c0d",
+    "claim_text": "14. Confirm the device is entirely within the introducer, the delivery wire tip is not kinked, and the introducer tip is not damaged.",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment/Use Step-by-Step",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:ddaafe90e8fb29fd",
+    "claim_text": "15. Partially insert the distal end of the introducer into the RHV connected to the compatible Headway microcatheter. Tighten the RHV. Flush the RHV with sterile saline, verifying fluid exits the proximal end of the introducer (hydrating the introducer).",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment/Use Step-by-Step",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:9966028051c28ca6",
+    "claim_text": "16. WARNING: Purge the system carefully to avoid air introduction.",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment/Use Step-by-Step",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:581a757fc718ba0d",
+    "claim_text": "17. Untighten the RHV and advance the introducer until fully engaged with the microcatheter hub. Re-tighten.",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment/Use Step-by-Step",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:e8e8cd860def8916",
+    "claim_text": "18. Advance the delivery wire to transfer the FRED System from the introducer into the microcatheter.",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment/Use Step-by-Step",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:8bd7b1943c2275fa",
+    "claim_text": "19. WARNING: Do not torque the delivery wire while advancing or retracting.",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment/Use Step-by-Step",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:885f84bc603d4b43",
+    "claim_text": "20. Continue advancing the delivery wire into the microcatheter until the proximal tip of the delivery wire enters the introducer. Loosen the RHV, remove the introducer, set aside.",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment/Use Step-by-Step",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:a6fb94eb73cfef78",
+    "claim_text": "21. Fluoroscopy may be used up to this point at physician's discretion.",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment/Use Step-by-Step",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:757123c9f1a56db6",
+    "claim_text": "22. WARNING: Do not apply undue force. If resistance is encountered, withdraw the unit and select a new FRED System.",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment/Use Step-by-Step",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:3df69e2e39822530",
+    "claim_text": "23. Carefully advance until the device exit marker approaches the RHV. Initiate fluoroscopic guidance.",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment/Use Step-by-Step",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:cb9054f14906f770",
+    "claim_text": "24. Position the FRED System by aligning the distal radiopaque end markers past the aneurysm neck, allowing for adequate distal and proximal landing zones.",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment/Use Step-by-Step",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:e4cae2bbfce5e13c",
+    "claim_text": "25. Use a slow, proper push/pull technique: delivery wire push force + opposing microcatheter withdrawal force to remove excess catheter slack. Maintain the microcatheter tip in the center of the parent vessel.",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment/Use Step-by-Step",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:aea924272418b0e5",
+    "claim_text": "26. CAUTION: Rapid microcatheter withdrawal is NOT recommended -- may cause device elongation or improper deployment.",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment/Use Step-by-Step",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:6425f4acaa1c2f2b",
+    "claim_text": "27. If positioning is unsatisfactory, the implant may be recaptured if not fully deployed (up to the point where the distal-most wire marker is aligned approximately 50% of length proximal to the microcatheter distal marker band).",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment/Use Step-by-Step",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:f509f5344f2cac02",
+    "claim_text": "28. CAUTION: If resistance during recapture, withdraw microcatheter slightly to unsheath, then attempt again. Maximum 3 redeployments.",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment/Use Step-by-Step",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:33e6de6679ac2724",
+    "claim_text": "29. If positioning is satisfactory, advance the delivery wire while retracting the microcatheter to deploy across the neck. Ensure proximal radiopaque end markers are proximal to the aneurysm neck.",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment/Use Step-by-Step",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:961d2f1d981e4e2e",
+    "claim_text": "30. The FRED will expand and may foreshorten up to 60%. Visually verify opening of proximal end.",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment/Use Step-by-Step",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:fef55e798f414d45",
+    "claim_text": "31. Inspect the deployed FRED under fluoroscopy for complete opening and vessel wall apposition. If not fully open/apposed or kinked, consider using a micro guidewire and/or occlusion balloon catheter.",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment/Use Step-by-Step",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:f3224f3b726bec9f",
+    "claim_text": "32. Withdraw and discard all accessory devices. CAUTION: watch distal and proximal markers when passing through the implanted device to avoid displacement.",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment/Use Step-by-Step",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:16c585c6469df628",
+    "claim_text": "**Q: The FRED is not fully open or apposed to the vessel wall after deployment. What do I do?**",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Bailout / Troubleshooting",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:47c55be719bbd949",
+    "claim_text": "A: Consider using a suitable micro guidewire and/or occlusion balloon catheter to fully open the implant. Confirm under fluoroscopy.",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Bailout / Troubleshooting",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:14e75db6763a301b",
+    "claim_text": "**Q: I need to recapture/reposition the FRED. Is this possible?**",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Bailout / Troubleshooting",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:03157189e58bbc4f",
+    "claim_text": "A: Yes, if it is not fully deployed. The implant may be recaptured until the distal-most wire marker (collocated distal to the implant proximal markers) is aligned approximately 50% of constrained length proximal to the microcatheter distal marker band. Maximum 3 redeployments. If resistance is felt, withdraw the microcatheter slightly to unsheath, then attempt again. Do NOT continue to recapture if resistance persists.",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Bailout / Troubleshooting",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:be066ade95b71458",
+    "claim_text": "**Q: I encounter unusual resistance during delivery or access.**",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Bailout / Troubleshooting",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:7573059996bafc39",
+    "claim_text": "A: Remove the introducer/guide catheter/microcatheter and FRED System as a single unit. Applying excessive force can result in device loss or damage. Verify the microcatheter is not kinked or in extremely tortuous anatomy. Confirm the microcatheter does not ovalize. Confirm adequate heparinized flush solution.",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Bailout / Troubleshooting",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:152f34a9990a5603",
+    "claim_text": "**Q: Can I reposition the FRED after deployment/detachment?**",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Bailout / Troubleshooting",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:77d7b28d18d2d354",
+    "claim_text": "A: No. Do not attempt to reposition the FRED implant after deployment/detachment. Do not reposition in the parent vessel without fully retrieving the device. The FRED must be fully retrieved into the microcatheter and re-deployed or removed completely.",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Bailout / Troubleshooting",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:1c8d241f5f7ce331",
+    "claim_text": "**Q: Can the delivery wire be used as a guidewire?**",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Bailout / Troubleshooting",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:b00b429e710455a5",
+    "claim_text": "A: No. The FRED System delivery wire should not be used as a guidewire. Do not torque the FRED System. A torque device should not be used.",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Bailout / Troubleshooting",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:f42e20c99d65c649",
+    "claim_text": "### FRED IDE Pivotal Study (N=145 mITT, 12-month follow-up)",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:ea4b6698674f2f07",
+    "claim_text": "**Primary Safety Endpoint (death or major stroke within 30 days or neurologic death or major ipsilateral stroke within 12 months):**",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:6e389bc04c7d027f",
+    "claim_text": "mITT population: 6.2% (9/145), posterior mean 6.8% (95% CI: 3.3%-11.3%)",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:daa9b343f53c2ff8",
+    "claim_text": "ICA population: 5.9% (8/135), posterior mean 6.6% (95% CI: 3.1%-11.3%)",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:5bae4b5b227cb35d",
+    "claim_text": "**Key adverse events (>1% overall frequency through 12 months):**",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:bc9db751eb6f5f84",
+    "claim_text": "| Event | Rate |",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:306db4ac65cbe705",
+    "claim_text": "| Headache | 29.7% (43/145) |",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:cdaf8e02804682ab",
+    "claim_text": "| Vasospasm | 11.0% (16/145) |",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:63852c9dc65f22f9",
+    "claim_text": "| Visual impairment | 9.0% (13/145) |",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:60f3b756e279c44c",
+    "claim_text": "| Aneurysm repair (re-treatment) | 7.6% (11/145) |",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:464f639b8d5c0c18",
+    "claim_text": "| Hematoma | 6.9% (10/145) |",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:a52e6c2901a0f4b6",
+    "claim_text": "| Thrombosis in device | 6.9% (10/145) |",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:6f2b8ad8cb227e69",
+    "claim_text": "| Device failure | 6.2% (9/145) |",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:caa7d18f06cad4ac",
+    "claim_text": "| Cerebrovascular accident | 4.1% (6/145) |",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:d61f03cefd051a51",
+    "claim_text": "| TIA | 4.8% (7/145) |",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:44f32fb2e3acc539",
+    "claim_text": "| Ischemic stroke | 2.8% (4/145) |",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:47fc3224bd90f415",
+    "claim_text": "| Cerebral hemorrhage | 2.1% (3/145) |",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:f7b2cdd4d5b1266e",
+    "claim_text": "| Seizure | 1.4% (2/145) |",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:b11caa29023bf80e",
+    "claim_text": "| Diplopia | 2.8% (4/145) |",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:580c1680e12bf718",
+    "claim_text": "| Puncture site hemorrhage | 4.1% (6/145) |",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:2a1c0534e0f62704",
+    "claim_text": "**Cerebrovascular events (ICA population, N=135):**",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:4b95e61e85dc9301",
+    "claim_text": "Neurological death: 0.7% (1/135)",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:c4dac4e793e3d067",
+    "claim_text": "Major stroke (ischemic or hemorrhagic): 5.9% (8/135)",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:939d07a25dfbd8d0",
+    "claim_text": "Minor stroke (ischemic or hemorrhagic): 5.9% (8/135)",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:9ca5b81436cb963f",
+    "claim_text": "Any of the above: 10.4% (14/135)",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:266b1c14c9d40fa7",
+    "claim_text": "TIA: 5.2% (7/135)",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:8cd6161876793b11",
+    "claim_text": "**Additional warnings:**",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:3b802f3472300615",
+    "claim_text": "Delayed rupture may occur with large and giant intracranial aneurysms",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:83410fbcec4e4dda",
+    "claim_text": "Placement of multiple implants may increase risk of ischemic complications",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:4b587c3a757b9efe",
+    "claim_text": "Benefits may not outweigh risks for small and medium stable asymptomatic extradural aneurysms (including cavernous ICA)",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:abf8c5552be770ea",
+    "claim_text": "### FRED IDE Pivotal Study (ICA Population, N=135)",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Effectiveness",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:ddb8c5c958a14cc1",
+    "claim_text": "**Primary effectiveness endpoint:** Raymond-Roy I IA occlusion with <= 50% parent artery stenosis and no re-treatment at 12 months.",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Effectiveness",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:5290dd6a22a12544",
+    "claim_text": "Primary effectiveness success rate: 56.7% (posterior mean 56.6%, 95% CI: 48.2%-64.7%)",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Effectiveness",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:74b8f8c5e6127416",
+    "claim_text": "Posterior probability of success rate > 46%: 0.993",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Effectiveness",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:96a97a15ce5dfa01",
+    "claim_text": "Worst-case analysis (without imputation): 54.8% (74/135)",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Effectiveness",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:9849c3fd9d93440a",
+    "claim_text": "**Number of devices per subject:**",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Effectiveness",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:c47f20d24d98813a",
+    "claim_text": "1 device: 93.1% (135/145)",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Effectiveness",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:8b35ed6ac2768e3a",
+    "claim_text": "2 devices: 6.4% (9/145)",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Effectiveness",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:c31162d837fede88",
+    "claim_text": "3 devices: 0.7% (1/145)",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Effectiveness",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:d479a80eb731b178",
+    "claim_text": "**MR Conditional.** Safe under the following conditions:",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "MRI Safety",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:4f83e7f027d9fd8f",
+    "claim_text": "Static magnetic field of 1.5-Tesla and 3-Tesla only",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "MRI Safety",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:7e9f3aac4354a9c1",
+    "claim_text": "Maximum spatial gradient magnetic field of 2,500 gauss/cm (25 T/m)",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "MRI Safety",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:5105ae69287057c2",
+    "claim_text": "Maximum MR system reported whole body averaged SAR of 2 W/kg for 15 minutes of scanning per pulse sequence in Normal Operating Mode",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "MRI Safety",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:944a1b974ac4cc1b",
+    "claim_text": "**Temperature rise:**",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "MRI Safety",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:d5b95e1f54c45773",
+    "claim_text": "Maximum 2.8 degrees C at 1.5T or 3.6 degrees C at 3T after 15 minutes of continuous scanning per pulse sequence",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "MRI Safety",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:981e5b59250e5ce7",
+    "claim_text": "**Image artifact:**",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "MRI Safety",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:82fda5ffa8ce2f7e",
+    "claim_text": "Extends approximately 4 mm from the device when imaged with a gradient echo pulse sequence on a 3T MR system",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "MRI Safety",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:8d2ffeb9f2c0412a",
+    "claim_text": "May create local field inhomogeneity and susceptibility artifacts during MRA, potentially degrading diagnostic quality",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "MRI Safety",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:9690fab66d5c377a",
+    "claim_text": "**Recommendation:** Register MR conditions with MedicAlert Foundation or equivalent. Complete and provide the FRED patient implant card.",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "MRI Safety",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:6c2af5d26ab2118f",
+    "claim_text": "FRED",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Also Known As",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:42c7fe79feff6c48",
+    "claim_text": "FRED Flow Diverter",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Also Known As",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:2d95e9ca0e55e1d4",
+    "claim_text": "Flow Re-Direction Endoluminal Device",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Also Known As",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:ddfaccffbd5ce027",
+    "claim_text": "FRED-21 (2.5-3.0 mm sizes, Headway 21 compatible)",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Also Known As",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:50b098b3215d6625",
+    "claim_text": "FRED-27 (3.5-5.5 mm sizes, Headway 27 compatible)",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Also Known As",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:1255583e5e508693",
+    "claim_text": "MicroVention FRED",
+    "device_id": "flow-diverter--microvention--fred",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Also Known As",
+    "source_file": "flow-diverter--microvention--fred--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:6f8ed801f845d0e6",
+    "claim_text": "PMA P170024 | FDA Approved July 13, 2018 | Class III",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:9675bece8abce71c",
+    "claim_text": "Self-expandable braided flow diverter for endovascular treatment of large/giant wide-necked intracranial aneurysms. The braided implant is placed across the aneurysm neck in the parent artery to divert blood flow away from the aneurysm sac. Over time, endothelialization of the device and thrombosis within the sac produce progressive aneurysm occlusion. Unlike stent-assisted coiling, this is a standalone device -- no coils are placed in the aneurysm. Shipped preloaded in a dedicated delivery catheter system.",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "What It Is",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:48d362dc053291a2",
+    "claim_text": "1. **Surpass Flow Diverter (Implant):** Braided cobalt chromium with interwoven platinum-tungsten wires for fluoroscopic visualization",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "System Components",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:846fb4a00923f176",
+    "claim_text": "2. **Delivery Catheter:** PTFE-lined lumen, nitinol wire reinforcement, hydrophilic coating on distal 80 cm, radiopaque marker at distal tip",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "System Components",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:16f5fc23530b4c39",
+    "claim_text": "3. **Pusher:** Dual-segment catheter with PTFE-coated proximal shaft, stainless steel hypotube distal shaft, two radiopaque markers, and stainless steel recapture feature",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "System Components",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:68064ce2ebe20a7c",
+    "claim_text": "**Table 1. Implant Sizes**",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Sizing/Specs",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:2fb6781514c590a6",
+    "claim_text": "| Device<br>Diameter<br>(mm) | Device Length (mm)     | Unconstrained<br>Implant Outer<br>Diameter (OD)<br>(mm) | Maximum Vessel<br>Diameter (mm) | Recommended<br>Minimum Vessel<br>Diameter (mm) |",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Sizing/Specs",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:d37484880501dd9d",
+    "claim_text": "| 3.0                        | 15, 20, 25             | > 3.5                                                   | 3.5                             | 2.5                                            |",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Sizing/Specs",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:e2b72bf868d694e3",
+    "claim_text": "| 4.0                        | 15, 20, 25, 30, 40, 50 | > 4.4                                                   | 4.4                             | 3.4                                            |",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Sizing/Specs",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:61d73277a1858777",
+    "claim_text": "| 5.0                        | 20, 25, 30, 40, 50     | > 5.3                                                   | 5.3                             | 4.3                                            |",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Sizing/Specs",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:904e58dfabfbbaf6",
+    "claim_text": "Endovascular treatment of patients (18 years and older) with unruptured large or giant saccular wide-neck (neck width >= 4 mm or dome-to-neck ratio < 2) or fusiform intracranial aneurysms in the internal carotid artery from the petrous segment to the terminus, arising from a parent vessel with diameter >= 2.5 mm and <= 5.3 mm.",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Indications",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:0dc0b8c6ddebec8d",
+    "claim_text": "Parent vessel size outside 2.5-5.3 mm range",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Contraindications",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:17f57af21a0e435a",
+    "claim_text": "Antiplatelet and/or anticoagulation therapy (aspirin + clopidogrel) is contraindicated",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Contraindications",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:66dc4c22b39c975d",
+    "claim_text": "Patients who have not received dual antiplatelet agents prior to procedure",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Contraindications",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:a404520ba6022b80",
+    "claim_text": "Active bacterial infection",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Contraindications",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:efc8333d8c835399",
+    "claim_text": "Anatomy not appropriate for endovascular treatment (severe vessel tortuosity/stenosis, intracranial vasospasm unresponsive to medical therapy)",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Contraindications",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:6d3e748555a7c209",
+    "claim_text": "1. Dual antiplatelet therapy required pre-procedure (aspirin + clopidogrel)",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment/Use",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:624d94fa1106f7e3",
+    "claim_text": "2. Access via standard femoral approach with guide catheter",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment/Use",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:e345a4d39ce8b47f",
+    "claim_text": "3. Navigate delivery catheter (with preloaded implant) to target site across aneurysm neck",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment/Use",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:bcfe0ae1f3ff52c1",
+    "claim_text": "4. Deploy implant by retracting delivery catheter while stabilizing pusher",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment/Use",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:22f31cb0367dbe93",
+    "claim_text": "5. Implant self-expands to vessel wall diameter",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment/Use",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:19154164cbee3f4a",
+    "claim_text": "6. Recapture feature on pusher allows partial retrieval if repositioning needed",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment/Use",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:110e144650e6e7b2",
+    "claim_text": "7. Withdraw delivery system after deployment",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment/Use",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:091afaeda85dbcb4",
+    "claim_text": "8. Mean 1.1 devices implanted per subject in SCENT trial (range 0-2)",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Deployment/Use",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:469e45badd5a7d3e",
+    "claim_text": "**Design:** Prospective, multicenter, non-randomized, 236 enrolled (180 mITT), 25 US + 1 Netherlands sites",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Clinical Evidence (SCENT Trial)",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:3887cf7b1b1abb9f",
+    "claim_text": "**Primary safety endpoint:** Disabling stroke (mRS >= 3 at 90+ days) or neurological death within 12 months: **6.1% (11/180)**",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Clinical Evidence (SCENT Trial)",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:4dc859e4ad01c3a8",
+    "claim_text": "**Primary effectiveness endpoint:** Complete (100%) aneurysm occlusion (Raymond-Roy Class I) without significant in-stent stenosis or retreatment at 12 months: **62.8% (113/180)**, p < 0.001",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Clinical Evidence (SCENT Trial)",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:86ddfc82d9c72697",
+    "claim_text": "**Minor stroke rate:** 6.7% (12/180) at 12 months",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Clinical Evidence (SCENT Trial)",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:9fb3a4d71d933c88",
+    "claim_text": "**Age effect:** Effectiveness 70.2% for age <65 vs. 50.0% for age >=65 (statistically significant)",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Clinical Evidence (SCENT Trial)",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:dedc874e2da1ea42",
+    "claim_text": "**Apposition effect:** Raymond-Roy I occlusion 79.2% with full wall apposition vs. 50.0% without",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Clinical Evidence (SCENT Trial)",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:8b474da2cad3bd77",
+    "claim_text": "**Ischemic stroke:** 6.1% (11/180) serious; most common neurological SAE",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:6f8c152984ea820e",
+    "claim_text": "**Subarachnoid hemorrhage:** 2.8% (5/180) serious",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:f14b5e41679a200d",
+    "claim_text": "**Hemorrhagic stroke:** 2.2% (4/180) serious",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:7665575eb9baa90f",
+    "claim_text": "**Headache:** 30% of patients (mostly non-serious)",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:f1fdaeb46a3cc2c0",
+    "claim_text": "**Visual complications:** 8.9% visual impairment, 5.0% diplopia (due to ICA/ophthalmic location)",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:fc5ccf8a2e83f079",
+    "claim_text": "**Thrombosis in device:** 3.3% (6/180)",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:a17e52aa2ef44246",
+    "claim_text": "**Device migration/fracture/misplacement:** Listed as possible",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:f4b3ebb77784ebc5",
+    "claim_text": "**Neurological death:** 2.8% (5/180)",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:35890c3eb0eec32c",
+    "claim_text": "**Decreased effectiveness in patients >= 65 years** -- labeling warning added",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:a183aa8e47ea74f9",
+    "claim_text": "**Decreased effectiveness in giant aneurysms** (46.2% vs. 64.1% for large) -- not statistically significant but trend present",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Complications to Know",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:f17ea80bb1ed3892",
+    "claim_text": "Pre-procedure: Dual antiplatelet (ASA + clopidogrel) with Plavix resistance testing",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Antiplatelet Protocol (from SCENT trial)",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:9cf3d9dd18af0c75",
+    "claim_text": "Intra-procedure: Heparinization",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Antiplatelet Protocol (from SCENT trial)",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:654c71bdc6144af9",
+    "claim_text": "Post-procedure: Continue dual antiplatelet per institutional protocol",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Antiplatelet Protocol (from SCENT trial)",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:e3e999f8dee790e0",
+    "claim_text": "Duration: Per treating physician, typically 3-12 months then ASA alone",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Antiplatelet Protocol (from SCENT trial)",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:4919d14576ef4b0e",
+    "claim_text": "Surpass Streamline",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Also Known As",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:4df89f2864d4e156",
+    "claim_text": "Surpass Flow Diverter",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Also Known As",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:27c95ddf27139afa",
+    "claim_text": "Intracranial Aneurysm Flow Diverter",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Also Known As",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:c5ca47b5964087f4",
+    "claim_text": "Pipeline Embolization Device (Medtronic, PMA P100018): Similar indication, ICA petrous to superior hypophyseal only. PUFS trial showed 70.8% occlusion at 1 year and 5.6% primary safety event rate. Surpass covers ICA from petrous to terminus (wider anatomic range).",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Key Comparator",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  },
+  {
+    "claim_id": "claim:19c243d84880cdeb",
+    "claim_text": "Summary of Safety and Effectiveness Data (SSED), PMA P170024, Stryker Neurovascular. SCENT trial (IDE G110229).",
+    "device_id": "flow-diverter--stryker--surpass-streamline",
+    "extracted_at": "2026-04-15T03:44:28+00:00",
+    "review_status": "draft",
+    "section": "Source",
+    "source_file": "flow-diverter--stryker--surpass-streamline--knowledge.md",
+    "source_type": "curated_human_notes"
+  }
+]

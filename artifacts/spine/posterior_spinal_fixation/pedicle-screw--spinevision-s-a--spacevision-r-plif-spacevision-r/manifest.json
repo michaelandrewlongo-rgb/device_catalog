@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--spinevision-s-a--spacevision-r-plif-spacevision-r",
+  "artifact_folder": "pedicle-screw--spinevision-s-a--spacevision-r-plif-spacevision-r",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3036,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--spinevision-s-a--spacevision-r-plif-spacevision-r.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinevision-s-a--spacevision-r-plif-spacevision-r/enriched/pedicle-screw--spinevision-s-a--spacevision-r-plif-spacevision-r.json",
+        "bytes": 1485
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K153783.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinevision-s-a--spacevision-r-plif-spacevision-r/fda_raw/MAX/K153783.json",
+        "bytes": 623
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--spinevision-s-a--spacevision-r-plif-spacevision-r.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinevision-s-a--spacevision-r-plif-spacevision-r/merged/pedicle-screw--spinevision-s-a--spacevision-r-plif-spacevision-r.json",
+        "bytes": 928
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

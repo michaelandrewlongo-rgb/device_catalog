@@ -28,16 +28,23 @@ Status: **Ready**
 - CLI: `python -m pipeline.run_enrich --rewrite` (after acquiring Tier 2 data)
 
 ### 2. Promote more devices from enriched records
-Status: **Ready** (~415 candidates with 3+ fields)
+Status: **Largely complete for current data**
 
 Completed:
 - 30 devices promoted on 2026-04-01 (6 from drafts, 24 from enriched)
 - 22 devices promoted on 2026-03-31
+- 15 additional devices promoted 2026-04-14/15 (spine sacroiliac batch + pedicle-screw batch 2 + neurovascular):
+  - sacroiliac-fusion: iFuse 3D
+  - interbody-cage: Pivox OLIF, Mojave PL 3D, SABLE Expandable, Cascadia TL 3D
+  - cervical-cage: Cascadia Cervical 3D
+  - pedicle-screw: Everest Deformity, CREO (full system)
+  - intracranial-stent: Wingspan
+  - (plus several already in root from prior sessions)
 
-Remaining pool:
-- ~415 candidates with 3+ enriched fields across all categories
-- Strongest pools: interbody-cage (91), pedicle-screw (52), microcatheter (47), aspiration (43)
-- Next batch should target 4+ field candidates in underrepresented categories
+Remaining scraped pool:
+- 103 scraped-only devices remain; most are thin (1-2 sections) or have scraper artifacts
+- Promotable with Chrome MCP: FlowGate 2 BGC, Surpass Evolve, Balt flow diverters, Stryker Target coil variants
+- HOLD (need IFU): Catalyft PL, QUARTEX OCT, SI-LOK SELECT, iFuse INTRA Ti
 
 ### 3. Fill remaining content gaps
 Status: **Partially Complete** (48 gaps remain in 38 files)
@@ -74,15 +81,11 @@ Status: **Blocked** (429 rate limits)
 ### 7. Improve data quality metrics
 Status: **Partially addressed**
 
-Current section fill rates (213 curated files):
-- What It Is: 98%
-- Indications: 97%
-- Also Known As: 86%
-- Sizing/Specs: 82%
-- Use Notes: 79%
-- Key Differences: 71%
-- Compatible With: 46%
-- Contraindications: 30%
+Current section fill rates (228 curated files, as of 2026-04-15):
+- Key Differences vs Competitors: 222/228 filled (97%) via Gemini Flash 2.5 competitor-fill pass
+- [NEEDS CONTENT] gaps: 44 files, 58 instances remaining
+- Competitor filler uses OpenRouter → Gemini Flash 2.5 (swapped from DeepSeek 2026-04-15)
+- Gap-filler has cross-device contamination issue — do not run without reviewing dry-run output first
 
 ### 8. Expand into lower-priority data layers
 Status: **Later**

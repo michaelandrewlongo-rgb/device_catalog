@@ -1,0 +1,61 @@
+{
+  "device_slug": "dural-substitute--nurami-medical-ltd--artifascia",
+  "artifact_folder": "dural-substitute--nurami-medical-ltd--artifascia",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 7,
+  "bytes": 439146,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/dural-substitute/parsed/fda_summaries/dural-substitute--nurami-medical-ltd--artifascia--510k.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--nurami-medical-ltd--artifascia/510k/dural-substitute/parsed/fda_summaries/dural-substitute--nurami-medical-ltd--artifascia--510k.json",
+        "bytes": 27682
+      },
+      {
+        "source": "pipeline/data/510k/dural-substitute/pdfs/dural-substitute--nurami-medical-ltd--artifascia--510k.pdf",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--nurami-medical-ltd--artifascia/510k/dural-substitute/pdfs/dural-substitute--nurami-medical-ltd--artifascia--510k.pdf",
+        "bytes": 401688
+      }
+    ],
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/dural-substitute--nurami-medical-ltd--artifascia--knowledge.md",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--nurami-medical-ltd--artifascia/data_by_device/dural-substitute--nurami-medical-ltd--artifascia--knowledge.md",
+        "bytes": 3601
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/dural-substitute--nurami-medical-ltd--artifascia.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--nurami-medical-ltd--artifascia/enriched/dural-substitute--nurami-medical-ltd--artifascia.json",
+        "bytes": 3967
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/dural-substitute--nurami-medical-ltd--artifascia.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--nurami-medical-ltd--artifascia/extracted/fda_structured/dural-substitute--nurami-medical-ltd--artifascia.json",
+        "bytes": 841
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/GXQ/K223445.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--nurami-medical-ltd--artifascia/fda_raw/GXQ/K223445.json",
+        "bytes": 569
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/dural-substitute--nurami-medical-ltd--artifascia.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--nurami-medical-ltd--artifascia/merged/dural-substitute--nurami-medical-ltd--artifascia.json",
+        "bytes": 798
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "dural-substitute",
+    "label": "Outside listed seed registries"
+  }
+}

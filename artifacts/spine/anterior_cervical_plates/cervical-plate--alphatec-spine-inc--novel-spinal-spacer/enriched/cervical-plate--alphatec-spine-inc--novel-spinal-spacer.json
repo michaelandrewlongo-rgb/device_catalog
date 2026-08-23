@@ -1,0 +1,65 @@
+{
+  "device_name": "NOVEL SPINAL SPACER SYSTEM",
+  "manufacturer": "alphatec-spine-inc",
+  "catalog_category": "cervical-plate",
+  "filename_stem": "cervical-plate--alphatec-spine-inc--novel-spinal-spacer",
+  "clearance_type": "510k",
+  "clearance_number": "K080699",
+  "clearance_date": "2008-05-21",
+  "device_class": 2,
+  "device_name_fda": "NOVEL SPINAL SPACER SYSTEM",
+  "product_code": "MQP",
+  "what_it_is": "Novel VC 24-38 mm PEEK, M, 28 mm",
+  "sizing_specs": "Model: 64333-028",
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "MRI: Labeling does not contain MRI Safety Information. Sterilized: Moist Heat or Steam Sterilization. Single-use\n\n[FDA RECALL] 2 active recall(s).\n  - Firm confirmed that two lots were mixed during manufacturing and were incorrectly labeled with the wrong part number & lot number. They were incorrectly laser marked with the wrong part numbers and si\n  - Firm confirmed that two lots were mixed during manufacturing and were incorrectly labeled with the wrong part number & lot number. They were incorrectly laser marked with the wrong part numbers and si",
+  "deployment_steps": null,
+  "also_known_as": [
+    "Novel Spinal Spacer System",
+    "Polymeric spinal interbody fusion cage"
+  ],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf08/K080699.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "sizing_specs": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "indications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "also_known_as": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "_safety": {
+      "source": "fda_maude+recalls",
+      "confidence": 0.85
+    }
+  }
+}

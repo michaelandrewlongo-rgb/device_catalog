@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--joe-w-utt--valve-anti-syphon-model-pudenze",
+  "artifact_folder": "csf-shunt--joe-w-utt--valve-anti-syphon-model-pudenze",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2847,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--joe-w-utt--valve-anti-syphon-model-pudenze.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--joe-w-utt--valve-anti-syphon-model-pudenze/enriched/csf-shunt--joe-w-utt--valve-anti-syphon-model-pudenze.json",
+        "bytes": 1426
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K760502.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--joe-w-utt--valve-anti-syphon-model-pudenze/fda_raw/JXG/K760502.json",
+        "bytes": 576
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--joe-w-utt--valve-anti-syphon-model-pudenze.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--joe-w-utt--valve-anti-syphon-model-pudenze/merged/csf-shunt--joe-w-utt--valve-anti-syphon-model-pudenze.json",
+        "bytes": 845
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

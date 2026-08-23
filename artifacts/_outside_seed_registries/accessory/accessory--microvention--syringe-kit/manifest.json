@@ -1,0 +1,42 @@
+{
+  "device_slug": "accessory--microvention--syringe-kit",
+  "artifact_folder": "accessory--microvention--syringe-kit",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3302,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/accessory--microvention--syringe-kit.json",
+        "artifact": "artifacts/_outside_seed_registries/accessory/accessory--microvention--syringe-kit/enriched/accessory--microvention--syringe-kit.json",
+        "bytes": 1540
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/accessory--microvention--syringe-kit.json",
+        "artifact": "artifacts/_outside_seed_registries/accessory/accessory--microvention--syringe-kit/extracted/fda_structured/accessory--microvention--syringe-kit.json",
+        "bytes": 555
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/accessory--microvention--syringe-kit.json",
+        "artifact": "artifacts/_outside_seed_registries/accessory/accessory--microvention--syringe-kit/merged/accessory--microvention--syringe-kit.json",
+        "bytes": 743
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/microvention/syringe-kit.json",
+        "artifact": "artifacts/_outside_seed_registries/accessory/accessory--microvention--syringe-kit/scraper_raw/microvention/syringe-kit.json",
+        "bytes": 464
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "accessory",
+    "label": "Outside listed seed registries"
+  }
+}

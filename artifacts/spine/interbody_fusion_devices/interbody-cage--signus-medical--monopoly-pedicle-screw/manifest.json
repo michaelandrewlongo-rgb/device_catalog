@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--signus-medical--monopoly-pedicle-screw",
+  "artifact_folder": "interbody-cage--signus-medical--monopoly-pedicle-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2835,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--signus-medical--monopoly-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--signus-medical--monopoly-pedicle-screw/enriched/interbody-cage--signus-medical--monopoly-pedicle-screw.json",
+        "bytes": 1417
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K092073.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--signus-medical--monopoly-pedicle-screw/fda_raw/NKB/K092073.json",
+        "bytes": 582
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--signus-medical--monopoly-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--signus-medical--monopoly-pedicle-screw/merged/interbody-cage--signus-medical--monopoly-pedicle-screw.json",
+        "bytes": 836
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

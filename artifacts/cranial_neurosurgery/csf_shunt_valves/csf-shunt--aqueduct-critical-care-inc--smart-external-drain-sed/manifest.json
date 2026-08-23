@@ -1,0 +1,62 @@
+{
+  "device_slug": "csf-shunt--aqueduct-critical-care-inc--smart-external-drain-sed",
+  "artifact_folder": "csf-shunt--aqueduct-critical-care-inc--smart-external-drain-sed",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 8,
+  "bytes": 506361,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/csf-shunt/parsed/fda_summaries/csf-shunt--aqueduct-critical-care-inc--smart-external-drain-sed--510k.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aqueduct-critical-care-inc--smart-external-drain-sed/510k/csf-shunt/parsed/fda_summaries/csf-shunt--aqueduct-critical-care-inc--smart-external-drain-sed--510k.json",
+        "bytes": 30791
+      },
+      {
+        "source": "pipeline/data/510k/csf-shunt/pdfs/csf-shunt--aqueduct-critical-care-inc--smart-external-drain-sed--510k.pdf",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aqueduct-critical-care-inc--smart-external-drain-sed/510k/csf-shunt/pdfs/csf-shunt--aqueduct-critical-care-inc--smart-external-drain-sed--510k.pdf",
+        "bytes": 465273
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--aqueduct-critical-care-inc--smart-external-drain-sed.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aqueduct-critical-care-inc--smart-external-drain-sed/enriched/csf-shunt--aqueduct-critical-care-inc--smart-external-drain-sed.json",
+        "bytes": 6977
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K161605.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aqueduct-critical-care-inc--smart-external-drain-sed/fda_raw/JXG/K161605.json",
+        "bytes": 615
+      },
+      {
+        "source": "pipeline/data/fda_raw/JXG/K171586.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aqueduct-critical-care-inc--smart-external-drain-sed/fda_raw/JXG/K171586.json",
+        "bytes": 615
+      },
+      {
+        "source": "pipeline/data/fda_raw/JXG/K172759.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aqueduct-critical-care-inc--smart-external-drain-sed/fda_raw/JXG/K172759.json",
+        "bytes": 615
+      },
+      {
+        "source": "pipeline/data/fda_raw/JXG/K181301.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aqueduct-critical-care-inc--smart-external-drain-sed/fda_raw/JXG/K181301.json",
+        "bytes": 615
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--aqueduct-critical-care-inc--smart-external-drain-sed.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aqueduct-critical-care-inc--smart-external-drain-sed/merged/csf-shunt--aqueduct-critical-care-inc--smart-external-drain-sed.json",
+        "bytes": 860
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

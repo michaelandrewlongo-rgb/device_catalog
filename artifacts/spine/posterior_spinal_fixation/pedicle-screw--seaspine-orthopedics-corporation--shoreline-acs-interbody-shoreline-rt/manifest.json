@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--seaspine-orthopedics-corporation--shoreline-acs-interbody-shoreline-rt",
+  "artifact_folder": "pedicle-screw--seaspine-orthopedics-corporation--shoreline-acs-interbody-shoreline-rt",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 4367,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--seaspine-orthopedics-corporation--shoreline-acs-interbody-shoreline-rt.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--seaspine-orthopedics-corporation--shoreline-acs-interbody-shoreline-rt/enriched/pedicle-screw--seaspine-orthopedics-corporation--shoreline-acs-interbody-shoreline-rt.json",
+        "bytes": 2013
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K241466.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--seaspine-orthopedics-corporation--shoreline-acs-interbody-shoreline-rt/fda_raw/MAX/K241466.json",
+        "bytes": 922
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--seaspine-orthopedics-corporation--shoreline-acs-interbody-shoreline-rt.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--seaspine-orthopedics-corporation--shoreline-acs-interbody-shoreline-rt/merged/pedicle-screw--seaspine-orthopedics-corporation--shoreline-acs-interbody-shoreline-rt.json",
+        "bytes": 1432
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

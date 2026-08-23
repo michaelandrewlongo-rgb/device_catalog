@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--vertebron-inc--vertebron-vbr",
+  "artifact_folder": "cervical-plate--vertebron-inc--vertebron-vbr",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2758,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--vertebron-inc--vertebron-vbr.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--vertebron-inc--vertebron-vbr/enriched/cervical-plate--vertebron-inc--vertebron-vbr.json",
+        "bytes": 1388
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K073502.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--vertebron-inc--vertebron-vbr/fda_raw/MQP/K073502.json",
+        "bytes": 563
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--vertebron-inc--vertebron-vbr.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--vertebron-inc--vertebron-vbr/merged/cervical-plate--vertebron-inc--vertebron-vbr.json",
+        "bytes": 807
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

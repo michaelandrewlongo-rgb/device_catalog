@@ -1,0 +1,35 @@
+{
+  "device_slug": "unknown--balt--spi",
+  "artifact_folder": "unknown--balt--spi",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 4449,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/unknown--balt--spi.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--balt--spi/enriched/unknown--balt--spi.json",
+        "bytes": 1961
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/unknown--balt--spi.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--balt--spi/merged/unknown--balt--spi.json",
+        "bytes": 1379
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/balt/spi.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--balt--spi/scraper_raw/balt/spi.json",
+        "bytes": 1109
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "unknown",
+    "label": "Outside listed seed registries"
+  }
+}

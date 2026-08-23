@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--sofamor-co--sofamor-orfil-spine-fixation",
+  "artifact_folder": "corpectomy--sofamor-co--sofamor-orfil-spine-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2832,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--sofamor-co--sofamor-orfil-spine-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sofamor-co--sofamor-orfil-spine-fixation/enriched/corpectomy--sofamor-co--sofamor-orfil-spine-fixation.json",
+        "bytes": 1419
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K934007.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sofamor-co--sofamor-orfil-spine-fixation/fda_raw/KWP/K934007.json",
+        "bytes": 575
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--sofamor-co--sofamor-orfil-spine-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sofamor-co--sofamor-orfil-spine-fixation/merged/corpectomy--sofamor-co--sofamor-orfil-spine-fixation.json",
+        "bytes": 838
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

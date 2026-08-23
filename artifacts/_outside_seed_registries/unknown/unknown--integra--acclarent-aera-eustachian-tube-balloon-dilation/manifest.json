@@ -1,0 +1,28 @@
+{
+  "device_slug": "unknown--integra--acclarent-aera-eustachian-tube-balloon-dilation",
+  "artifact_folder": "unknown--integra--acclarent-aera-eustachian-tube-balloon-dilation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 2,
+  "bytes": 2383,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/unknown--integra--acclarent-aera-eustachian-tube-balloon-dilation.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--integra--acclarent-aera-eustachian-tube-balloon-dilation/enriched/unknown--integra--acclarent-aera-eustachian-tube-balloon-dilation.json",
+        "bytes": 1482
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/unknown--integra--acclarent-aera-eustachian-tube-balloon-dilation.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--integra--acclarent-aera-eustachian-tube-balloon-dilation/merged/unknown--integra--acclarent-aera-eustachian-tube-balloon-dilation.json",
+        "bytes": 901
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "unknown",
+    "label": "Outside listed seed registries"
+  }
+}

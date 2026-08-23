@@ -1,0 +1,62 @@
+{
+  "device_name": "TITANIUM GDLH POSTERIOR SPINAL SYSTEM",
+  "manufacturer": "sofamor-danek-usa-inc",
+  "catalog_category": "corpectomy",
+  "filename_stem": "corpectomy--sofamor-danek-usa-inc--titanium-gdlh-posterior-spinal",
+  "clearance_type": "510k",
+  "clearance_number": "K954645",
+  "clearance_date": "1996-01-16",
+  "device_class": 2,
+  "device_name_fda": "TITANIUM GDLH POSTERIOR SPINAL SYSTEM",
+  "product_code": "KWP",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "[FDA RECALL] 12 active recall(s).\n  - Disassembly:  The movable cradle component could detach from the saddle under extreme manipulation of the associated rods prior to final tightening of the set screws.\n  - Incorrect type of titanium was used which reduces the gripping strength of the screw head of 5 batches of Infinity Multi-Axial Screws",
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf95/K954645.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "none",
+      "confidence": 0
+    },
+    "sizing_specs": {
+      "source": "none",
+      "confidence": 0
+    },
+    "indications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "none",
+      "confidence": 0
+    },
+    "also_known_as": {
+      "source": "none",
+      "confidence": 0
+    },
+    "_safety": {
+      "source": "fda_maude+recalls",
+      "confidence": 0.85
+    }
+  }
+}

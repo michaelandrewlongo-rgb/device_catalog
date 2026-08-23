@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--nuvasive--gsb-global-spinal-balance",
+  "artifact_folder": "interbody-cage--nuvasive--gsb-global-spinal-balance",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3132,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--nuvasive--gsb-global-spinal-balance.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--nuvasive--gsb-global-spinal-balance/enriched/interbody-cage--nuvasive--gsb-global-spinal-balance.json",
+        "bytes": 1723
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K132014.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--nuvasive--gsb-global-spinal-balance/fda_raw/NKB/K132014.json",
+        "bytes": 576
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--nuvasive--gsb-global-spinal-balance.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--nuvasive--gsb-global-spinal-balance/merged/interbody-cage--nuvasive--gsb-global-spinal-balance.json",
+        "bytes": 833
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "device_slug": "flow-diverter--microvention--fred",
+  "artifact_folder": "flow-diverter--microvention--fred",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 623771,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/flow-diverter--microvention--fred--ifu.pdf",
+        "artifact": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--microvention--fred/data_by_device/flow-diverter--microvention--fred--ifu.pdf",
+        "bytes": 594994
+      },
+      {
+        "source": "pipeline/data/data_by_device/flow-diverter--microvention--fred--knowledge.md",
+        "artifact": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--microvention--fred/data_by_device/flow-diverter--microvention--fred--knowledge.md",
+        "bytes": 12582
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/documents/flow-diverter--microvention--fred--ifu.json",
+        "artifact": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--microvention--fred/extracted/documents/flow-diverter--microvention--fred--ifu.json",
+        "bytes": 15735
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/microvention/fredtm.json",
+        "artifact": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--microvention--fred/scraper_raw/microvention/fredtm.json",
+        "bytes": 460
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "flow-diverter",
+    "label": "Flow diverters noted as separate exemplar"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "device_slug": "interbody-cage--bk-meditech-co-ltd--mega-plus-spine",
+  "artifact_folder": "interbody-cage--bk-meditech-co-ltd--mega-plus-spine",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 4290,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--bk-meditech-co-ltd--mega-plus-spine.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--bk-meditech-co-ltd--mega-plus-spine/enriched/interbody-cage--bk-meditech-co-ltd--mega-plus-spine.json",
+        "bytes": 1681
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--bk-meditech-co-ltd--mega-plus-spine.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--bk-meditech-co-ltd--mega-plus-spine/extracted/fda_structured/interbody-cage--bk-meditech-co-ltd--mega-plus-spine.json",
+        "bytes": 618
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K173180.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--bk-meditech-co-ltd--mega-plus-spine/fda_raw/NKB/K173180.json",
+        "bytes": 584
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K183080.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--bk-meditech-co-ltd--mega-plus-spine/fda_raw/NKB/K183080.json",
+        "bytes": 584
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--bk-meditech-co-ltd--mega-plus-spine.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--bk-meditech-co-ltd--mega-plus-spine/merged/interbody-cage--bk-meditech-co-ltd--mega-plus-spine.json",
+        "bytes": 823
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

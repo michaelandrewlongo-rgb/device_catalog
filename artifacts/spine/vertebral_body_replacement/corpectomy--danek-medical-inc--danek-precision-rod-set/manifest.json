@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--danek-medical-inc--danek-precision-rod-set",
+  "artifact_folder": "corpectomy--danek-medical-inc--danek-precision-rod-set",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2807,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--danek-medical-inc--danek-precision-rod-set.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--danek-medical-inc--danek-precision-rod-set/enriched/corpectomy--danek-medical-inc--danek-precision-rod-set.json",
+        "bytes": 1404
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K896254.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--danek-medical-inc--danek-precision-rod-set/fda_raw/KWP/K896254.json",
+        "bytes": 580
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--danek-medical-inc--danek-precision-rod-set.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--danek-medical-inc--danek-precision-rod-set/merged/corpectomy--danek-medical-inc--danek-precision-rod-set.json",
+        "bytes": 823
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

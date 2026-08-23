@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K242457",
+  "clearance_date": "2024-10-07",
+  "device_class": 2,
+  "manufacturer_canonical": "retropsoas-technologies-llc",
+  "manufacturer_raw": "Retropsoas Technologies, LLC",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "EARP Interbody System",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--retropsoas-technologies-llc--earp-interbody",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K242457.pdf"
+}

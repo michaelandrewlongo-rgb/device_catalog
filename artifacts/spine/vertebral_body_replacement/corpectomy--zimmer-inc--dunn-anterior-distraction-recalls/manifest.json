@@ -1,0 +1,21 @@
+{
+  "device_slug": "corpectomy--zimmer-inc--dunn-anterior-distraction-recalls",
+  "artifact_folder": "corpectomy--zimmer-inc--dunn-anterior-distraction-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 5141,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/corpectomy--zimmer-inc--dunn-anterior-distraction-recalls.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--zimmer-inc--dunn-anterior-distraction-recalls/extracted/fda_safety/corpectomy--zimmer-inc--dunn-anterior-distraction-recalls.json",
+        "bytes": 5141
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

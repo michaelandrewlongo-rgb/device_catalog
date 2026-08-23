@@ -1,0 +1,60 @@
+{
+  "device_slug": "interbody-cage--spinal-elements-inc--mercury-spinal",
+  "artifact_folder": "interbody-cage--spinal-elements-inc--mercury-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 8,
+  "bytes": 6050,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--spinal-elements-inc--mercury-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spinal-elements-inc--mercury-spinal/enriched/interbody-cage--spinal-elements-inc--mercury-spinal.json",
+        "bytes": 1730
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K071914.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spinal-elements-inc--mercury-spinal/fda_raw/NKB/K071914.json",
+        "bytes": 583
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K082353.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spinal-elements-inc--mercury-spinal/fda_raw/NKB/K082353.json",
+        "bytes": 583
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K083230.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spinal-elements-inc--mercury-spinal/fda_raw/NKB/K083230.json",
+        "bytes": 583
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K091587.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spinal-elements-inc--mercury-spinal/fda_raw/NKB/K091587.json",
+        "bytes": 583
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K141372.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spinal-elements-inc--mercury-spinal/fda_raw/NKB/K141372.json",
+        "bytes": 583
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K151215.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spinal-elements-inc--mercury-spinal/fda_raw/NKB/K151215.json",
+        "bytes": 583
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--spinal-elements-inc--mercury-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spinal-elements-inc--mercury-spinal/merged/interbody-cage--spinal-elements-inc--mercury-spinal.json",
+        "bytes": 822
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

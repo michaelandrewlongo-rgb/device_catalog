@@ -1,0 +1,33 @@
+{
+  "device_slug": "flow-diverter--medtronic--pipeline-flex-shield",
+  "artifact_folder": "flow-diverter--medtronic--pipeline-flex-shield",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 899086,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/flow-diverter--medtronic--pipeline-flex-shield--ifu.pdf",
+        "artifact": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--medtronic--pipeline-flex-shield/data_by_device/flow-diverter--medtronic--pipeline-flex-shield--ifu.pdf",
+        "bytes": 880013
+      },
+      {
+        "source": "pipeline/data/data_by_device/flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+        "artifact": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--medtronic--pipeline-flex-shield/data_by_device/flow-diverter--medtronic--pipeline-flex-shield--knowledge.md",
+        "bytes": 7475
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/documents/flow-diverter--medtronic--pipeline-flex-shield--ifu.json",
+        "artifact": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--medtronic--pipeline-flex-shield/extracted/documents/flow-diverter--medtronic--pipeline-flex-shield--ifu.json",
+        "bytes": 11598
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "flow-diverter",
+    "label": "Flow diverters noted as separate exemplar"
+  }
+}

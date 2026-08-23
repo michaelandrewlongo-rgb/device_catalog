@@ -1,0 +1,33 @@
+{
+  "device_slug": "cervical-cage--depuy--zero-p",
+  "artifact_folder": "cervical-cage--depuy--zero-p",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 1354161,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/cervical-cage--depuy--zero-p--knowledge.md",
+        "artifact": "artifacts/spine/cervical_interbody_cages/cervical-cage--depuy--zero-p/data_by_device/cervical-cage--depuy--zero-p--knowledge.md",
+        "bytes": 14424
+      },
+      {
+        "source": "pipeline/data/data_by_device/cervical-cage--depuy--zero-p--technique.pdf",
+        "artifact": "artifacts/spine/cervical_interbody_cages/cervical-cage--depuy--zero-p/data_by_device/cervical-cage--depuy--zero-p--technique.pdf",
+        "bytes": 1333471
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/documents/cervical-cage--depuy--zero-p--technique.json",
+        "artifact": "artifacts/spine/cervical_interbody_cages/cervical-cage--depuy--zero-p/extracted/documents/cervical-cage--depuy--zero-p--technique.json",
+        "bytes": 6266
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "cervical_interbody_cages",
+    "label": "ACDF/ACCF Cages"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--seaspine-orthopedics-corporation--mariner-outrigger-revision",
+  "artifact_folder": "interbody-cage--seaspine-orthopedics-corporation--mariner-outrigger-revision",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3327,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--seaspine-orthopedics-corporation--mariner-outrigger-revision.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--seaspine-orthopedics-corporation--mariner-outrigger-revision/enriched/interbody-cage--seaspine-orthopedics-corporation--mariner-outrigger-revision.json",
+        "bytes": 1799
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K183639.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--seaspine-orthopedics-corporation--mariner-outrigger-revision/fda_raw/NKB/K183639.json",
+        "bytes": 644
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--seaspine-orthopedics-corporation--mariner-outrigger-revision.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--seaspine-orthopedics-corporation--mariner-outrigger-revision/merged/interbody-cage--seaspine-orthopedics-corporation--mariner-outrigger-revision.json",
+        "bytes": 884
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

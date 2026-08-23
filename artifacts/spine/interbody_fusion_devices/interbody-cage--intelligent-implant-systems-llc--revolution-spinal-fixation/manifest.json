@@ -1,0 +1,45 @@
+{
+  "device_slug": "interbody-cage--intelligent-implant-systems-llc--revolution-spinal-fixation",
+  "artifact_folder": "interbody-cage--intelligent-implant-systems-llc--revolution-spinal-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 4289,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--intelligent-implant-systems-llc--revolution-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--intelligent-implant-systems-llc--revolution-spinal-fixation/enriched/interbody-cage--intelligent-implant-systems-llc--revolution-spinal-fixation.json",
+        "bytes": 1467
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K142939.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--intelligent-implant-systems-llc--revolution-spinal-fixation/fda_raw/NKB/K142939.json",
+        "bytes": 642
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K160216.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--intelligent-implant-systems-llc--revolution-spinal-fixation/fda_raw/NKB/K160216.json",
+        "bytes": 642
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K163056.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--intelligent-implant-systems-llc--revolution-spinal-fixation/fda_raw/NKB/K163056.json",
+        "bytes": 644
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--intelligent-implant-systems-llc--revolution-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--intelligent-implant-systems-llc--revolution-spinal-fixation/merged/interbody-cage--intelligent-implant-systems-llc--revolution-spinal-fixation.json",
+        "bytes": 894
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

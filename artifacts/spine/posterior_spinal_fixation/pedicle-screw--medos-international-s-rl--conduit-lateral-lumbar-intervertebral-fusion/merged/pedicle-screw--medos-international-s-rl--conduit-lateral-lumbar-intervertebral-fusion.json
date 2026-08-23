@@ -1,0 +1,28 @@
+{
+  "device_name": "CONDUIT\u0099 Lateral Lumbar Intervertebral Fusion Cage, CONDUIT\u0099 Instruments",
+  "manufacturer": "medos-international-s-rl",
+  "catalog_category": "pedicle-screw",
+  "filename_stem": "pedicle-screw--medos-international-s-rl--conduit-lateral-lumbar-intervertebral-fusion",
+  "clearance_type": "510k",
+  "clearance_number": "K223688",
+  "clearance_date": "2023-03-08",
+  "device_class": 2,
+  "device_name_fda": "CONDUIT\u0099 Lateral Lumbar Intervertebral Fusion Cage, CONDUIT\u0099 Instruments",
+  "product_code": "MAX",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K223688.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

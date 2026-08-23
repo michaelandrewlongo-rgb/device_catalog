@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--medtronic--glaxy-3-2-spinal",
+  "artifact_folder": "corpectomy--medtronic--glaxy-3-2-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3212,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--medtronic--glaxy-3-2-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--glaxy-3-2-spinal/enriched/corpectomy--medtronic--glaxy-3-2-spinal.json",
+        "bytes": 1851
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K043020.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--glaxy-3-2-spinal/fda_raw/KWP/K043020.json",
+        "bytes": 561
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--medtronic--glaxy-3-2-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--glaxy-3-2-spinal/merged/corpectomy--medtronic--glaxy-3-2-spinal.json",
+        "bytes": 800
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--medtronic--axis-fixation",
+  "artifact_folder": "interbody-cage--medtronic--axis-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3128,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--medtronic--axis-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--axis-fixation/enriched/interbody-cage--medtronic--axis-fixation.json",
+        "bytes": 1760
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K062254.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--axis-fixation/fda_raw/NKB/K062254.json",
+        "bytes": 569
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--medtronic--axis-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--axis-fixation/merged/interbody-cage--medtronic--axis-fixation.json",
+        "bytes": 799
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

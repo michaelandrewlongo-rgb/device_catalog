@@ -1,0 +1,50 @@
+{
+  "device_slug": "interbody-cage--orthofix--firebird-spinal-fixation-phoenix-mis",
+  "artifact_folder": "interbody-cage--orthofix--firebird-spinal-fixation-phoenix-mis",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 5349,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--orthofix--firebird-spinal-fixation-phoenix-mis.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--orthofix--firebird-spinal-fixation-phoenix-mis/enriched/interbody-cage--orthofix--firebird-spinal-fixation-phoenix-mis.json",
+        "bytes": 1847
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K122901.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--orthofix--firebird-spinal-fixation-phoenix-mis/fda_raw/NKB/K122901.json",
+        "bytes": 616
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K151488.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--orthofix--firebird-spinal-fixation-phoenix-mis/fda_raw/NKB/K151488.json",
+        "bytes": 621
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K153428.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--orthofix--firebird-spinal-fixation-phoenix-mis/fda_raw/NKB/K153428.json",
+        "bytes": 622
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K171082.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--orthofix--firebird-spinal-fixation-phoenix-mis/fda_raw/NKB/K171082.json",
+        "bytes": 729
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--orthofix--firebird-spinal-fixation-phoenix-mis.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--orthofix--firebird-spinal-fixation-phoenix-mis/merged/interbody-cage--orthofix--firebird-spinal-fixation-phoenix-mis.json",
+        "bytes": 914
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

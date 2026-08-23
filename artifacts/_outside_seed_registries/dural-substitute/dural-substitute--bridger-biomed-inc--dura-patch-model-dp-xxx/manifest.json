@@ -1,0 +1,35 @@
+{
+  "device_slug": "dural-substitute--bridger-biomed-inc--dura-patch-model-dp-xxx",
+  "artifact_folder": "dural-substitute--bridger-biomed-inc--dura-patch-model-dp-xxx",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2849,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/dural-substitute--bridger-biomed-inc--dura-patch-model-dp-xxx.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--bridger-biomed-inc--dura-patch-model-dp-xxx/enriched/dural-substitute--bridger-biomed-inc--dura-patch-model-dp-xxx.json",
+        "bytes": 1418
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/GXQ/K980548.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--bridger-biomed-inc--dura-patch-model-dp-xxx/fda_raw/GXQ/K980548.json",
+        "bytes": 594
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/dural-substitute--bridger-biomed-inc--dura-patch-model-dp-xxx.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--bridger-biomed-inc--dura-patch-model-dp-xxx/merged/dural-substitute--bridger-biomed-inc--dura-patch-model-dp-xxx.json",
+        "bytes": 837
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "dural-substitute",
+    "label": "Outside listed seed registries"
+  }
+}

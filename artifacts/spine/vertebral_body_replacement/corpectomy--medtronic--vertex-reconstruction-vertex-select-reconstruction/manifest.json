@@ -1,0 +1,50 @@
+{
+  "device_slug": "corpectomy--medtronic--vertex-reconstruction-vertex-select-reconstruction",
+  "artifact_folder": "corpectomy--medtronic--vertex-reconstruction-vertex-select-reconstruction",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 5456,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--medtronic--vertex-reconstruction-vertex-select-reconstruction.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--vertex-reconstruction-vertex-select-reconstruction/enriched/corpectomy--medtronic--vertex-reconstruction-vertex-select-reconstruction.json",
+        "bytes": 1969
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K090714.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--vertex-reconstruction-vertex-select-reconstruction/fda_raw/KWP/K090714.json",
+        "bytes": 637
+      },
+      {
+        "source": "pipeline/data/fda_raw/KWP/K091365.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--vertex-reconstruction-vertex-select-reconstruction/fda_raw/KWP/K091365.json",
+        "bytes": 638
+      },
+      {
+        "source": "pipeline/data/fda_raw/KWP/K110522.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--vertex-reconstruction-vertex-select-reconstruction/fda_raw/KWP/K110522.json",
+        "bytes": 647
+      },
+      {
+        "source": "pipeline/data/fda_raw/KWP/K123656.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--vertex-reconstruction-vertex-select-reconstruction/fda_raw/KWP/K123656.json",
+        "bytes": 647
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--medtronic--vertex-reconstruction-vertex-select-reconstruction.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--vertex-reconstruction-vertex-select-reconstruction/merged/corpectomy--medtronic--vertex-reconstruction-vertex-select-reconstruction.json",
+        "bytes": 918
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

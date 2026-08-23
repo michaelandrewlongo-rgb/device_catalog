@@ -1,0 +1,40 @@
+{
+  "device_slug": "pedicle-screw--l-k-biomed-co-ltd--pathloc-lumbar-interbody-fusion-cage",
+  "artifact_folder": "pedicle-screw--l-k-biomed-co-ltd--pathloc-lumbar-interbody-fusion-cage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3589,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--l-k-biomed-co-ltd--pathloc-lumbar-interbody-fusion-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--l-k-biomed-co-ltd--pathloc-lumbar-interbody-fusion-cage/enriched/pedicle-screw--l-k-biomed-co-ltd--pathloc-lumbar-interbody-fusion-cage.json",
+        "bytes": 1463
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K213441.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--l-k-biomed-co-ltd--pathloc-lumbar-interbody-fusion-cage/fda_raw/MAX/K213441.json",
+        "bytes": 622
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K251741.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--l-k-biomed-co-ltd--pathloc-lumbar-interbody-fusion-cage/fda_raw/MAX/K251741.json",
+        "bytes": 622
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--l-k-biomed-co-ltd--pathloc-lumbar-interbody-fusion-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--l-k-biomed-co-ltd--pathloc-lumbar-interbody-fusion-cage/merged/pedicle-screw--l-k-biomed-co-ltd--pathloc-lumbar-interbody-fusion-cage.json",
+        "bytes": 882
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

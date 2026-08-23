@@ -1,0 +1,21 @@
+{
+  "device_slug": "interbody-cage--stryker--tritanium-tl",
+  "artifact_folder": "interbody-cage--stryker--tritanium-tl",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 6456,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/interbody-cage--stryker--tritanium-tl--knowledge.md",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker--tritanium-tl/data_by_device/interbody-cage--stryker--tritanium-tl--knowledge.md",
+        "bytes": 6456
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

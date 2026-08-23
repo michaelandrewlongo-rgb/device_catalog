@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--pudenz-schulte-medical-research-corp--csf-ventricular-catheter-standard-des",
+  "artifact_folder": "csf-shunt--pudenz-schulte-medical-research-corp--csf-ventricular-catheter-standard-des",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3049,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--pudenz-schulte-medical-research-corp--csf-ventricular-catheter-standard-des.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--pudenz-schulte-medical-research-corp--csf-ventricular-catheter-standard-des/enriched/csf-shunt--pudenz-schulte-medical-research-corp--csf-ventricular-catheter-standard-des.json",
+        "bytes": 1484
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K792007.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--pudenz-schulte-medical-research-corp--csf-ventricular-catheter-standard-des/fda_raw/JXG/K792007.json",
+        "bytes": 662
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--pudenz-schulte-medical-research-corp--csf-ventricular-catheter-standard-des.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--pudenz-schulte-medical-research-corp--csf-ventricular-catheter-standard-des/merged/csf-shunt--pudenz-schulte-medical-research-corp--csf-ventricular-catheter-standard-des.json",
+        "bytes": 903
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

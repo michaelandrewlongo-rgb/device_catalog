@@ -1,0 +1,40 @@
+{
+  "device_slug": "interbody-cage--blackstone-medical-inc--blackstone-pedicle-screw",
+  "artifact_folder": "interbody-cage--blackstone-medical-inc--blackstone-pedicle-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3521,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--blackstone-medical-inc--blackstone-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--blackstone-medical-inc--blackstone-pedicle-screw/enriched/interbody-cage--blackstone-medical-inc--blackstone-pedicle-screw.json",
+        "bytes": 1439
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K081684.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--blackstone-medical-inc--blackstone-pedicle-screw/fda_raw/NKB/K081684.json",
+        "bytes": 612
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K082797.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--blackstone-medical-inc--blackstone-pedicle-screw/fda_raw/NKB/K082797.json",
+        "bytes": 612
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--blackstone-medical-inc--blackstone-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--blackstone-medical-inc--blackstone-pedicle-screw/merged/interbody-cage--blackstone-medical-inc--blackstone-pedicle-screw.json",
+        "bytes": 858
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

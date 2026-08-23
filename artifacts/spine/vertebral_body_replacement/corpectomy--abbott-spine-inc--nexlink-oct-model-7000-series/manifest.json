@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--abbott-spine-inc--nexlink-oct-model-7000-series",
+  "artifact_folder": "corpectomy--abbott-spine-inc--nexlink-oct-model-7000-series",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2888,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--abbott-spine-inc--nexlink-oct-model-7000-series.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--abbott-spine-inc--nexlink-oct-model-7000-series/enriched/corpectomy--abbott-spine-inc--nexlink-oct-model-7000-series.json",
+        "bytes": 1436
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K090060.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--abbott-spine-inc--nexlink-oct-model-7000-series/fda_raw/KWP/K090060.json",
+        "bytes": 597
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--abbott-spine-inc--nexlink-oct-model-7000-series.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--abbott-spine-inc--nexlink-oct-model-7000-series/merged/corpectomy--abbott-spine-inc--nexlink-oct-model-7000-series.json",
+        "bytes": 855
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

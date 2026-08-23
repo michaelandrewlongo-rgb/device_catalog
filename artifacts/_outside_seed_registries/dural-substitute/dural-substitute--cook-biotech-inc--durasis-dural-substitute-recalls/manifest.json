@@ -1,0 +1,21 @@
+{
+  "device_slug": "dural-substitute--cook-biotech-inc--durasis-dural-substitute-recalls",
+  "artifact_folder": "dural-substitute--cook-biotech-inc--durasis-dural-substitute-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 306,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/dural-substitute--cook-biotech-inc--durasis-dural-substitute-recalls.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--cook-biotech-inc--durasis-dural-substitute-recalls/extracted/fda_safety/dural-substitute--cook-biotech-inc--durasis-dural-substitute-recalls.json",
+        "bytes": 306
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "dural-substitute",
+    "label": "Outside listed seed registries"
+  }
+}

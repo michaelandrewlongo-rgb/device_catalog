@@ -1,0 +1,62 @@
+{
+  "device_name": "Range (Denali and Mesa) Spinal Systems",
+  "manufacturer": "stryker",
+  "catalog_category": "interbody-cage",
+  "filename_stem": "interbody-cage--stryker--range-denali-and-mesa-spinal",
+  "clearance_type": "510k",
+  "clearance_number": "K181119",
+  "clearance_date": "2018-06-26",
+  "device_class": 2,
+  "device_name_fda": "Range (Denali and Mesa) Spinal Systems",
+  "product_code": "NKB",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "[FDA RECALL] 5 active recall(s).\n  - Stryker Spine is recalling Radius Rod to Rod Connector 5.5 to 3.5 mm (Catalog #486614530) because it does not have an associated 510(k) submisstion and subsequent clearance, which is required as this \n  - The Xia 3 8.5mm Polyaxial screws, lot A91109 were anodized turquoise instead of Fuchsia.  The turquoise color is reserved for the 9.5 mm Xia 3 screws.",
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf18/K181119.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "none",
+      "confidence": 0
+    },
+    "sizing_specs": {
+      "source": "none",
+      "confidence": 0
+    },
+    "indications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "none",
+      "confidence": 0
+    },
+    "also_known_as": {
+      "source": "none",
+      "confidence": 0
+    },
+    "_safety": {
+      "source": "fda_maude+recalls",
+      "confidence": 0.85
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "device_slug": "interbody-cage--shangdong-kangsheng-medical-devices-co-ltd--spinal-fixation",
+  "artifact_folder": "interbody-cage--shangdong-kangsheng-medical-devices-co-ltd--spinal-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3905,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--shangdong-kangsheng-medical-devices-co-ltd--spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--shangdong-kangsheng-medical-devices-co-ltd--spinal-fixation/enriched/interbody-cage--shangdong-kangsheng-medical-devices-co-ltd--spinal-fixation.json",
+        "bytes": 1745
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--shangdong-kangsheng-medical-devices-co-ltd--spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--shangdong-kangsheng-medical-devices-co-ltd--spinal-fixation/extracted/fda_structured/interbody-cage--shangdong-kangsheng-medical-devices-co-ltd--spinal-fixation.json",
+        "bytes": 634
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K190408.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--shangdong-kangsheng-medical-devices-co-ltd--spinal-fixation/fda_raw/NKB/K190408.json",
+        "bytes": 655
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--shangdong-kangsheng-medical-devices-co-ltd--spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--shangdong-kangsheng-medical-devices-co-ltd--spinal-fixation/merged/interbody-cage--shangdong-kangsheng-medical-devices-co-ltd--spinal-fixation.json",
+        "bytes": 871
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

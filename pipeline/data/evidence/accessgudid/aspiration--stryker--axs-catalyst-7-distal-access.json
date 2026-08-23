@@ -1,0 +1,292 @@
+[
+  {
+    "device_family": "aspiration--stryker--axs-catalyst-7-distal-access",
+    "query_used": "AXS Catalyst 7 Distal Access Catheter",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "07613327417227",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "AXS Catalyst 7",
+      "companyName": "Stryker Corporation",
+      "deviceIdentifier": "c45372ac-77f6-4de6-bf22-d4a49e3e0ea6",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "17846",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Vascular guide-catheter, single-use"
+        }
+      ],
+      "modelNumber": "IC068132"
+    },
+    "retrieved_at": "2026-04-15T10:19:02+00:00",
+    "source_id": "accessgudid:07613327417227",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/c45372ac-77f6-4de6-bf22-d4a49e3e0ea6",
+    "title": "AXS Catalyst 7 (Stryker Corporation)"
+  },
+  {
+    "device_family": "aspiration--stryker--axs-catalyst-7-distal-access",
+    "query_used": "AXS Catalyst 7 Distal Access Catheter",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "07613327417210",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "AXS Catalyst 7",
+      "companyName": "Stryker Corporation",
+      "deviceIdentifier": "f250973d-e6d5-4c0f-8811-a4a880d6ca21",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "17846",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Vascular guide-catheter, single-use"
+        }
+      ],
+      "modelNumber": "IC068125"
+    },
+    "retrieved_at": "2026-04-15T10:19:02+00:00",
+    "source_id": "accessgudid:07613327417210",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/f250973d-e6d5-4c0f-8811-a4a880d6ca21",
+    "title": "AXS Catalyst 7 (Stryker Corporation)"
+  },
+  {
+    "device_family": "aspiration--stryker--axs-catalyst-7-distal-access",
+    "query_used": "AXS Catalyst 7 Distal Access Catheter",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "07613327417203",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "AXS Catalyst 7",
+      "companyName": "Stryker Corporation",
+      "deviceIdentifier": "1fca00c2-6e38-47c5-9234-16dd91aa9939",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "17846",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Vascular guide-catheter, single-use"
+        }
+      ],
+      "modelNumber": "IC068115"
+    },
+    "retrieved_at": "2026-04-15T10:19:02+00:00",
+    "source_id": "accessgudid:07613327417203",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/1fca00c2-6e38-47c5-9234-16dd91aa9939",
+    "title": "AXS Catalyst 7 (Stryker Corporation)"
+  },
+  {
+    "device_family": "aspiration--stryker--axs-catalyst-7-distal-access",
+    "query_used": "AXS Catalyst 7 Distal Access Catheter",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "07613327012033",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "AXS Catalyst 6",
+      "companyName": "Stryker Corporation",
+      "deviceIdentifier": "5b457013-217f-4ae4-a199-1858b80f8c1c",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "17846",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Vascular guide-catheter, single-use"
+        }
+      ],
+      "modelNumber": "M003IC0601320"
+    },
+    "retrieved_at": "2026-04-15T10:19:02+00:00",
+    "source_id": "accessgudid:07613327012033",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/5b457013-217f-4ae4-a199-1858b80f8c1c",
+    "title": "AXS Catalyst 6 (Stryker Corporation)"
+  },
+  {
+    "device_family": "aspiration--stryker--axs-catalyst-7-distal-access",
+    "query_used": "AXS Catalyst 7 Distal Access Catheter",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "07613327012019",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "AXS Catalyst 5",
+      "companyName": "Stryker Corporation",
+      "deviceIdentifier": "23d9a694-7a99-4245-ba06-51396f7307a4",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "17846",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Vascular guide-catheter, single-use"
+        }
+      ],
+      "modelNumber": "M003IC0581150"
+    },
+    "retrieved_at": "2026-04-15T10:19:02+00:00",
+    "source_id": "accessgudid:07613327012019",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/23d9a694-7a99-4245-ba06-51396f7307a4",
+    "title": "AXS Catalyst 5 (Stryker Corporation)"
+  },
+  {
+    "device_family": "aspiration--stryker--axs-catalyst-7-distal-access",
+    "query_used": "AXS Catalyst 7 Distal Access Catheter",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "07613327011999",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "AXS Catalyst 5",
+      "companyName": "Stryker Corporation",
+      "deviceIdentifier": "7e84f000-e007-4ab5-8f81-37bbc648f631",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "17846",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Vascular guide-catheter, single-use"
+        }
+      ],
+      "modelNumber": "M003IC0581320"
+    },
+    "retrieved_at": "2026-04-15T10:19:02+00:00",
+    "source_id": "accessgudid:07613327011999",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/7e84f000-e007-4ab5-8f81-37bbc648f631",
+    "title": "AXS Catalyst 5 (Stryker Corporation)"
+  },
+  {
+    "device_family": "aspiration--stryker--axs-catalyst-7-distal-access",
+    "query_used": "AXS Catalyst 7 Distal Access Catheter",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "07613327313987",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "DAC 044",
+      "companyName": "Stryker Corporation",
+      "deviceIdentifier": "e2ab2995-c3ea-4a6d-9da7-211087022b06",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "17846",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Vascular guide-catheter, single-use"
+        }
+      ],
+      "modelNumber": "90761"
+    },
+    "retrieved_at": "2026-04-15T10:19:02+00:00",
+    "source_id": "accessgudid:07613327313987",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/e2ab2995-c3ea-4a6d-9da7-211087022b06",
+    "title": "DAC 044 (Stryker Corporation)"
+  },
+  {
+    "device_family": "aspiration--stryker--axs-catalyst-7-distal-access",
+    "query_used": "AXS Catalyst 7 Distal Access Catheter",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "07613327313963",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "DAC 070",
+      "companyName": "Stryker Corporation",
+      "deviceIdentifier": "c807ba2c-abca-44ec-8f42-8950f2d4caab",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "17846",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Vascular guide-catheter, single-use"
+        }
+      ],
+      "modelNumber": "90771"
+    },
+    "retrieved_at": "2026-04-15T10:19:02+00:00",
+    "source_id": "accessgudid:07613327313963",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/c807ba2c-abca-44ec-8f42-8950f2d4caab",
+    "title": "DAC 070 (Stryker Corporation)"
+  },
+  {
+    "device_family": "aspiration--stryker--axs-catalyst-7-distal-access",
+    "query_used": "AXS Catalyst 7 Distal Access Catheter",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "07613327313949",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "DAC 057",
+      "companyName": "Stryker Corporation",
+      "deviceIdentifier": "59535dc5-eba3-4618-bf4d-63ee7d94d297",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "17846",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Vascular guide-catheter, single-use"
+        }
+      ],
+      "modelNumber": "90731"
+    },
+    "retrieved_at": "2026-04-15T10:19:02+00:00",
+    "source_id": "accessgudid:07613327313949",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/59535dc5-eba3-4618-bf4d-63ee7d94d297",
+    "title": "DAC 057 (Stryker Corporation)"
+  },
+  {
+    "device_family": "aspiration--stryker--axs-catalyst-7-distal-access",
+    "query_used": "AXS Catalyst 7 Distal Access Catheter",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "07613327313932",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "DAC 070",
+      "companyName": "Stryker Corporation",
+      "deviceIdentifier": "249602e8-15de-49be-931d-ee917935af33",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "17846",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Vascular guide-catheter, single-use"
+        }
+      ],
+      "modelNumber": "90770"
+    },
+    "retrieved_at": "2026-04-15T10:19:02+00:00",
+    "source_id": "accessgudid:07613327313932",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/249602e8-15de-49be-931d-ee917935af33",
+    "title": "DAC 070 (Stryker Corporation)"
+  }
+]

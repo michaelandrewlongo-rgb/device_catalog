@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--captiva-spine--fuselox-lumbar-interbody-fusion",
+  "artifact_folder": "pedicle-screw--captiva-spine--fuselox-lumbar-interbody-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3426,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--captiva-spine--fuselox-lumbar-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--captiva-spine--fuselox-lumbar-interbody-fusion/enriched/pedicle-screw--captiva-spine--fuselox-lumbar-interbody-fusion.json",
+        "bytes": 1972
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K122956.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--captiva-spine--fuselox-lumbar-interbody-fusion/fda_raw/MAX/K122956.json",
+        "bytes": 595
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--captiva-spine--fuselox-lumbar-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--captiva-spine--fuselox-lumbar-interbody-fusion/merged/pedicle-screw--captiva-spine--fuselox-lumbar-interbody-fusion.json",
+        "bytes": 859
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

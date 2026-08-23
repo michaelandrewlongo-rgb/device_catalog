@@ -1,0 +1,47 @@
+{
+  "device_slug": "pedicle-screw--cutting-edge-spine-llc--evos-lumbar-interbody",
+  "artifact_folder": "pedicle-screw--cutting-edge-spine-llc--evos-lumbar-interbody",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 4388,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--cutting-edge-spine-llc--evos-lumbar-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--cutting-edge-spine-llc--evos-lumbar-interbody/enriched/pedicle-screw--cutting-edge-spine-llc--evos-lumbar-interbody.json",
+        "bytes": 1708
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/pedicle-screw--cutting-edge-spine-llc--evos-lumbar-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--cutting-edge-spine-llc--evos-lumbar-interbody/extracted/fda_structured/pedicle-screw--cutting-edge-spine-llc--evos-lumbar-interbody.json",
+        "bytes": 627
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K150321.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--cutting-edge-spine-llc--evos-lumbar-interbody/fda_raw/MAX/K150321.json",
+        "bytes": 603
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K200552.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--cutting-edge-spine-llc--evos-lumbar-interbody/fda_raw/MAX/K200552.json",
+        "bytes": 603
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--cutting-edge-spine-llc--evos-lumbar-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--cutting-edge-spine-llc--evos-lumbar-interbody/merged/pedicle-screw--cutting-edge-spine-llc--evos-lumbar-interbody.json",
+        "bytes": 847
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

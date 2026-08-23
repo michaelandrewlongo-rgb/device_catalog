@@ -1,0 +1,80 @@
+{
+  "device_slug": "corpectomy--medtronic--modification-to-vertex-reconstruction",
+  "artifact_folder": "corpectomy--medtronic--modification-to-vertex-reconstruction",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 12,
+  "bytes": 8827,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--medtronic--modification-to-vertex-reconstruction.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--modification-to-vertex-reconstruction/enriched/corpectomy--medtronic--modification-to-vertex-reconstruction.json",
+        "bytes": 1914
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K022015.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--modification-to-vertex-reconstruction/fda_raw/KWP/K022015.json",
+        "bytes": 609
+      },
+      {
+        "source": "pipeline/data/fda_raw/KWP/K023555.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--modification-to-vertex-reconstruction/fda_raw/KWP/K023555.json",
+        "bytes": 609
+      },
+      {
+        "source": "pipeline/data/fda_raw/KWP/K042402.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--modification-to-vertex-reconstruction/fda_raw/KWP/K042402.json",
+        "bytes": 609
+      },
+      {
+        "source": "pipeline/data/fda_raw/KWP/K042524.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--modification-to-vertex-reconstruction/fda_raw/KWP/K042524.json",
+        "bytes": 603
+      },
+      {
+        "source": "pipeline/data/fda_raw/KWP/K052180.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--modification-to-vertex-reconstruction/fda_raw/KWP/K052180.json",
+        "bytes": 603
+      },
+      {
+        "source": "pipeline/data/fda_raw/KWP/K052376.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--modification-to-vertex-reconstruction/fda_raw/KWP/K052376.json",
+        "bytes": 604
+      },
+      {
+        "source": "pipeline/data/fda_raw/KWP/K052734.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--modification-to-vertex-reconstruction/fda_raw/KWP/K052734.json",
+        "bytes": 604
+      },
+      {
+        "source": "pipeline/data/fda_raw/KWP/K070742.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--modification-to-vertex-reconstruction/fda_raw/KWP/K070742.json",
+        "bytes": 603
+      },
+      {
+        "source": "pipeline/data/fda_raw/KWP/K071942.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--modification-to-vertex-reconstruction/fda_raw/KWP/K071942.json",
+        "bytes": 603
+      },
+      {
+        "source": "pipeline/data/fda_raw/KWP/K080805.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--modification-to-vertex-reconstruction/fda_raw/KWP/K080805.json",
+        "bytes": 603
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--medtronic--modification-to-vertex-reconstruction.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--modification-to-vertex-reconstruction/merged/corpectomy--medtronic--modification-to-vertex-reconstruction.json",
+        "bytes": 863
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--signus-medizintechnik-gmbh--mobis-moval-semial-tetrismodel-peek",
+  "artifact_folder": "pedicle-screw--signus-medizintechnik-gmbh--mobis-moval-semial-tetrismodel-peek",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3217,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--signus-medizintechnik-gmbh--mobis-moval-semial-tetrismodel-peek.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--signus-medizintechnik-gmbh--mobis-moval-semial-tetrismodel-peek/enriched/pedicle-screw--signus-medizintechnik-gmbh--mobis-moval-semial-tetrismodel-peek.json",
+        "bytes": 1558
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K111792.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--signus-medizintechnik-gmbh--mobis-moval-semial-tetrismodel-peek/fda_raw/MAX/K111792.json",
+        "bytes": 682
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--signus-medizintechnik-gmbh--mobis-moval-semial-tetrismodel-peek.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--signus-medizintechnik-gmbh--mobis-moval-semial-tetrismodel-peek/merged/pedicle-screw--signus-medizintechnik-gmbh--mobis-moval-semial-tetrismodel-peek.json",
+        "bytes": 977
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

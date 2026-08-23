@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K030081",
+  "clearance_date": "2003-10-06",
+  "device_class": 2,
+  "manufacturer_canonical": "inmed-ltda",
+  "manufacturer_raw": "Inmed Ltda.",
+  "catalog_category": "csf-shunt",
+  "device_name_fda": "CSF400 AND CSF600",
+  "product_code": "JXG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "csf-shunt--inmed-ltda--csf400-and-csf600",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf03/K030081.pdf"
+}

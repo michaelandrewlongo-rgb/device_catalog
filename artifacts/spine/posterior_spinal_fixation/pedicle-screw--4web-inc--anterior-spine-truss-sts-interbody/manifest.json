@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--4web-inc--anterior-spine-truss-sts-interbody",
+  "artifact_folder": "pedicle-screw--4web-inc--anterior-spine-truss-sts-interbody",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2965,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--4web-inc--anterior-spine-truss-sts-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--4web-inc--anterior-spine-truss-sts-interbody/enriched/pedicle-screw--4web-inc--anterior-spine-truss-sts-interbody.json",
+        "bytes": 1471
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K170851.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--4web-inc--anterior-spine-truss-sts-interbody/fda_raw/MAX/K170851.json",
+        "bytes": 604
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--4web-inc--anterior-spine-truss-sts-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--4web-inc--anterior-spine-truss-sts-interbody/merged/pedicle-screw--4web-inc--anterior-spine-truss-sts-interbody.json",
+        "bytes": 890
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

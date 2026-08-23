@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--buckman-co-inc--cotrel-dubousset-spine-implants",
+  "artifact_folder": "corpectomy--buckman-co-inc--cotrel-dubousset-spine-implants",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2861,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--buckman-co-inc--cotrel-dubousset-spine-implants.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--buckman-co-inc--cotrel-dubousset-spine-implants/enriched/corpectomy--buckman-co-inc--cotrel-dubousset-spine-implants.json",
+        "bytes": 1426
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K921056.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--buckman-co-inc--cotrel-dubousset-spine-implants/fda_raw/KWP/K921056.json",
+        "bytes": 590
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--buckman-co-inc--cotrel-dubousset-spine-implants.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--buckman-co-inc--cotrel-dubousset-spine-implants/merged/corpectomy--buckman-co-inc--cotrel-dubousset-spine-implants.json",
+        "bytes": 845
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

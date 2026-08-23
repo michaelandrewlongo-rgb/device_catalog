@@ -1,0 +1,72 @@
+{
+  "device_slug": "interbody-cage--stryker--everest-spinal",
+  "artifact_folder": "interbody-cage--stryker--everest-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 10,
+  "bytes": 7333,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--stryker--everest-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker--everest-spinal/enriched/interbody-cage--stryker--everest-spinal.json",
+        "bytes": 2116
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--stryker--everest-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker--everest-spinal/extracted/fda_structured/interbody-cage--stryker--everest-spinal.json",
+        "bytes": 589
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K140529.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker--everest-spinal/fda_raw/NKB/K140529.json",
+        "bytes": 546
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K142360.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker--everest-spinal/fda_raw/NKB/K142360.json",
+        "bytes": 547
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K151216.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker--everest-spinal/fda_raw/NKB/K151216.json",
+        "bytes": 547
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K151727.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker--everest-spinal/fda_raw/NKB/K151727.json",
+        "bytes": 547
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K161369.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker--everest-spinal/fda_raw/NKB/K161369.json",
+        "bytes": 555
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K173508.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker--everest-spinal/fda_raw/NKB/K173508.json",
+        "bytes": 541
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K181188.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker--everest-spinal/fda_raw/NKB/K181188.json",
+        "bytes": 547
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--stryker--everest-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker--everest-spinal/merged/interbody-cage--stryker--everest-spinal.json",
+        "bytes": 798
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

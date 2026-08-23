@@ -1,0 +1,55 @@
+{
+  "device_slug": "interbody-cage--safe-orthopaedics--sterispine-ps",
+  "artifact_folder": "interbody-cage--safe-orthopaedics--sterispine-ps",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 7,
+  "bytes": 5311,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--safe-orthopaedics--sterispine-ps.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--safe-orthopaedics--sterispine-ps/enriched/interbody-cage--safe-orthopaedics--sterispine-ps.json",
+        "bytes": 1664
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K140802.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--safe-orthopaedics--sterispine-ps/fda_raw/NKB/K140802.json",
+        "bytes": 566
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K151747.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--safe-orthopaedics--sterispine-ps/fda_raw/NKB/K151747.json",
+        "bytes": 566
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K151921.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--safe-orthopaedics--sterispine-ps/fda_raw/NKB/K151921.json",
+        "bytes": 566
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K170528.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--safe-orthopaedics--sterispine-ps/fda_raw/NKB/K170528.json",
+        "bytes": 568
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K201648.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--safe-orthopaedics--sterispine-ps/fda_raw/NKB/K201648.json",
+        "bytes": 568
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--safe-orthopaedics--sterispine-ps.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--safe-orthopaedics--sterispine-ps/merged/interbody-cage--safe-orthopaedics--sterispine-ps.json",
+        "bytes": 813
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

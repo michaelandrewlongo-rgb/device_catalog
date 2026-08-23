@@ -1,0 +1,42 @@
+{
+  "device_slug": "interbody-cage--spinecraft-llc--apex-dl-spine",
+  "artifact_folder": "interbody-cage--spinecraft-llc--apex-dl-spine",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3639,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--spinecraft-llc--apex-dl-spine.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spinecraft-llc--apex-dl-spine/enriched/interbody-cage--spinecraft-llc--apex-dl-spine.json",
+        "bytes": 1658
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--spinecraft-llc--apex-dl-spine.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spinecraft-llc--apex-dl-spine/extracted/fda_structured/interbody-cage--spinecraft-llc--apex-dl-spine.json",
+        "bytes": 607
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K143683.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spinecraft-llc--apex-dl-spine/fda_raw/NKB/K143683.json",
+        "bytes": 565
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--spinecraft-llc--apex-dl-spine.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spinecraft-llc--apex-dl-spine/merged/interbody-cage--spinecraft-llc--apex-dl-spine.json",
+        "bytes": 809
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "unknown--penumbra--element",
+  "artifact_folder": "unknown--penumbra--element",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 8994,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/unknown--penumbra--element.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--penumbra--element/enriched/unknown--penumbra--element.json",
+        "bytes": 3477
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/unknown--penumbra--element.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--penumbra--element/merged/unknown--penumbra--element.json",
+        "bytes": 2905
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/penumbra/element.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--penumbra--element/scraper_raw/penumbra/element.json",
+        "bytes": 2612
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "unknown",
+    "label": "Outside listed seed registries"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--alphatec-spine-inc--battalion-universal-spacer",
+  "artifact_folder": "pedicle-screw--alphatec-spine-inc--battalion-universal-spacer",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3297,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--alphatec-spine-inc--battalion-universal-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--alphatec-spine-inc--battalion-universal-spacer/enriched/pedicle-screw--alphatec-spine-inc--battalion-universal-spacer.json",
+        "bytes": 1841
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K143740.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--alphatec-spine-inc--battalion-universal-spacer/fda_raw/MAX/K143740.json",
+        "bytes": 602
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--alphatec-spine-inc--battalion-universal-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--alphatec-spine-inc--battalion-universal-spacer/merged/pedicle-screw--alphatec-spine-inc--battalion-universal-spacer.json",
+        "bytes": 854
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

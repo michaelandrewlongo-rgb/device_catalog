@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--medtronic--t2-xvbr-1-5-spinal",
+  "artifact_folder": "cervical-plate--medtronic--t2-xvbr-1-5-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2792,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--medtronic--t2-xvbr-1-5-spinal.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--t2-xvbr-1-5-spinal/enriched/cervical-plate--medtronic--t2-xvbr-1-5-spinal.json",
+        "bytes": 1395
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K100976.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--t2-xvbr-1-5-spinal/fda_raw/MQP/K100976.json",
+        "bytes": 583
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--medtronic--t2-xvbr-1-5-spinal.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--t2-xvbr-1-5-spinal/merged/cervical-plate--medtronic--t2-xvbr-1-5-spinal.json",
+        "bytes": 814
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

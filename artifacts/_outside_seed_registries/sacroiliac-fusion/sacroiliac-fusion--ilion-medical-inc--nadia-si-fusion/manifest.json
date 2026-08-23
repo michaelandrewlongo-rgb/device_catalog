@@ -1,0 +1,21 @@
+{
+  "device_slug": "sacroiliac-fusion--ilion-medical-inc--nadia-si-fusion",
+  "artifact_folder": "sacroiliac-fusion--ilion-medical-inc--nadia-si-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 585,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/OUR/K190580.json",
+        "artifact": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--ilion-medical-inc--nadia-si-fusion/fda_raw/OUR/K190580.json",
+        "bytes": 585
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "sacroiliac-fusion",
+    "label": "Outside listed seed registries"
+  }
+}

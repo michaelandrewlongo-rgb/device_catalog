@@ -1,0 +1,47 @@
+{
+  "device_slug": "csf-shunt--cerenovus--codman-bactiseal-endoscopic-venticular-catheter",
+  "artifact_folder": "csf-shunt--cerenovus--codman-bactiseal-endoscopic-venticular-catheter",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 146640,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/csf-shunt/parsed/fda_summaries/csf-shunt--cerenovus--codman-bactiseal-endoscopic-venticular-catheter--510k.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cerenovus--codman-bactiseal-endoscopic-venticular-catheter/510k/csf-shunt/parsed/fda_summaries/csf-shunt--cerenovus--codman-bactiseal-endoscopic-venticular-catheter--510k.json",
+        "bytes": 1857
+      },
+      {
+        "source": "pipeline/data/510k/csf-shunt/pdfs/csf-shunt--cerenovus--codman-bactiseal-endoscopic-venticular-catheter--510k.pdf",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cerenovus--codman-bactiseal-endoscopic-venticular-catheter/510k/csf-shunt/pdfs/csf-shunt--cerenovus--codman-bactiseal-endoscopic-venticular-catheter--510k.pdf",
+        "bytes": 141124
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--cerenovus--codman-bactiseal-endoscopic-venticular-catheter.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cerenovus--codman-bactiseal-endoscopic-venticular-catheter/enriched/csf-shunt--cerenovus--codman-bactiseal-endoscopic-venticular-catheter.json",
+        "bytes": 2168
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K110751.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cerenovus--codman-bactiseal-endoscopic-venticular-catheter/fda_raw/JXG/K110751.json",
+        "bytes": 614
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--cerenovus--codman-bactiseal-endoscopic-venticular-catheter.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cerenovus--codman-bactiseal-endoscopic-venticular-catheter/merged/csf-shunt--cerenovus--codman-bactiseal-endoscopic-venticular-catheter.json",
+        "bytes": 877
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

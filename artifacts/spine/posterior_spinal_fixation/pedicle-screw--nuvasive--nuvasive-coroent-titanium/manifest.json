@@ -1,0 +1,21 @@
+{
+  "device_slug": "pedicle-screw--nuvasive--nuvasive-coroent-titanium",
+  "artifact_folder": "pedicle-screw--nuvasive--nuvasive-coroent-titanium",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 573,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K120918.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nuvasive--nuvasive-coroent-titanium/fda_raw/MAX/K120918.json",
+        "bytes": 573
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

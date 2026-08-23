@@ -1,0 +1,21 @@
+{
+  "device_slug": "pedicle-screw--advanced-research-medical-llc--lumbar-interbody-fusion-ollif-recalls",
+  "artifact_folder": "pedicle-screw--advanced-research-medical-llc--lumbar-interbody-fusion-ollif-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 390,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/pedicle-screw--advanced-research-medical-llc--lumbar-interbody-fusion-ollif-recalls.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--advanced-research-medical-llc--lumbar-interbody-fusion-ollif-recalls/extracted/fda_safety/pedicle-screw--advanced-research-medical-llc--lumbar-interbody-fusion-ollif-recalls.json",
+        "bytes": 390
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

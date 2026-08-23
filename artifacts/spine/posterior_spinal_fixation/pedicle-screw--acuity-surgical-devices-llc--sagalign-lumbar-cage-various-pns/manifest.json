@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--acuity-surgical-devices-llc--sagalign-lumbar-cage-various-pns",
+  "artifact_folder": "pedicle-screw--acuity-surgical-devices-llc--sagalign-lumbar-cage-various-pns",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3011,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--acuity-surgical-devices-llc--sagalign-lumbar-cage-various-pns.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--acuity-surgical-devices-llc--sagalign-lumbar-cage-various-pns/enriched/pedicle-screw--acuity-surgical-devices-llc--sagalign-lumbar-cage-various-pns.json",
+        "bytes": 1475
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K241413.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--acuity-surgical-devices-llc--sagalign-lumbar-cage-various-pns/fda_raw/MAX/K241413.json",
+        "bytes": 642
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--acuity-surgical-devices-llc--sagalign-lumbar-cage-various-pns.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--acuity-surgical-devices-llc--sagalign-lumbar-cage-various-pns/merged/pedicle-screw--acuity-surgical-devices-llc--sagalign-lumbar-cage-various-pns.json",
+        "bytes": 894
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

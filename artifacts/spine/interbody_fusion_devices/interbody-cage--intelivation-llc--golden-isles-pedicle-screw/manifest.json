@@ -1,0 +1,42 @@
+{
+  "device_slug": "interbody-cage--intelivation-llc--golden-isles-pedicle-screw",
+  "artifact_folder": "interbody-cage--intelivation-llc--golden-isles-pedicle-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3780,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--intelivation-llc--golden-isles-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--intelivation-llc--golden-isles-pedicle-screw/enriched/interbody-cage--intelivation-llc--golden-isles-pedicle-screw.json",
+        "bytes": 1706
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--intelivation-llc--golden-isles-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--intelivation-llc--golden-isles-pedicle-screw/extracted/fda_structured/interbody-cage--intelivation-llc--golden-isles-pedicle-screw.json",
+        "bytes": 625
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K212185.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--intelivation-llc--golden-isles-pedicle-screw/fda_raw/NKB/K212185.json",
+        "bytes": 597
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--intelivation-llc--golden-isles-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--intelivation-llc--golden-isles-pedicle-screw/merged/interbody-cage--intelivation-llc--golden-isles-pedicle-screw.json",
+        "bytes": 852
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

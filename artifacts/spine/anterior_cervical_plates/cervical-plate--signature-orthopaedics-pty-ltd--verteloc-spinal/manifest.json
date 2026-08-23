@@ -1,0 +1,42 @@
+{
+  "device_slug": "cervical-plate--signature-orthopaedics-pty-ltd--verteloc-spinal",
+  "artifact_folder": "cervical-plate--signature-orthopaedics-pty-ltd--verteloc-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3578,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--signature-orthopaedics-pty-ltd--verteloc-spinal.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--signature-orthopaedics-pty-ltd--verteloc-spinal/enriched/cervical-plate--signature-orthopaedics-pty-ltd--verteloc-spinal.json",
+        "bytes": 1622
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/cervical-plate--signature-orthopaedics-pty-ltd--verteloc-spinal.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--signature-orthopaedics-pty-ltd--verteloc-spinal/extracted/fda_structured/cervical-plate--signature-orthopaedics-pty-ltd--verteloc-spinal.json",
+        "bytes": 491
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K231134.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--signature-orthopaedics-pty-ltd--verteloc-spinal/fda_raw/MQP/K231134.json",
+        "bytes": 618
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--signature-orthopaedics-pty-ltd--verteloc-spinal.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--signature-orthopaedics-pty-ltd--verteloc-spinal/merged/cervical-plate--signature-orthopaedics-pty-ltd--verteloc-spinal.json",
+        "bytes": 847
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

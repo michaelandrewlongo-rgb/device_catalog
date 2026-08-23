@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--stryker--aleutian",
+  "artifact_folder": "pedicle-screw--stryker--aleutian",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2670,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--stryker--aleutian.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--aleutian/enriched/pedicle-screw--stryker--aleutian.json",
+        "bytes": 1359
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K113138.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--aleutian/fda_raw/MAX/K113138.json",
+        "bytes": 533
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--stryker--aleutian.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--aleutian/merged/pedicle-screw--stryker--aleutian.json",
+        "bytes": 778
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

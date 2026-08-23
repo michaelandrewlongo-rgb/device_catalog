@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--silony-medical-gmbh--verticale-r-triangular-fixation",
+  "artifact_folder": "interbody-cage--silony-medical-gmbh--verticale-r-triangular-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2950,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--silony-medical-gmbh--verticale-r-triangular-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--silony-medical-gmbh--verticale-r-triangular-fixation/enriched/interbody-cage--silony-medical-gmbh--verticale-r-triangular-fixation.json",
+        "bytes": 1454
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K223806.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--silony-medical-gmbh--verticale-r-triangular-fixation/fda_raw/NKB/K223806.json",
+        "bytes": 615
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--silony-medical-gmbh--verticale-r-triangular-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--silony-medical-gmbh--verticale-r-triangular-fixation/merged/interbody-cage--silony-medical-gmbh--verticale-r-triangular-fixation.json",
+        "bytes": 881
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

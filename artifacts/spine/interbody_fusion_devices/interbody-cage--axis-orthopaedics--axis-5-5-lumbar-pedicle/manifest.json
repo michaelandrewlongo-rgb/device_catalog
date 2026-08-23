@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--axis-orthopaedics--axis-5-5-lumbar-pedicle",
+  "artifact_folder": "interbody-cage--axis-orthopaedics--axis-5-5-lumbar-pedicle",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2894,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--axis-orthopaedics--axis-5-5-lumbar-pedicle.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--axis-orthopaedics--axis-5-5-lumbar-pedicle/enriched/interbody-cage--axis-orthopaedics--axis-5-5-lumbar-pedicle.json",
+        "bytes": 1438
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K180301.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--axis-orthopaedics--axis-5-5-lumbar-pedicle/fda_raw/NKB/K180301.json",
+        "bytes": 599
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--axis-orthopaedics--axis-5-5-lumbar-pedicle.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--axis-orthopaedics--axis-5-5-lumbar-pedicle/merged/interbody-cage--axis-orthopaedics--axis-5-5-lumbar-pedicle.json",
+        "bytes": 857
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

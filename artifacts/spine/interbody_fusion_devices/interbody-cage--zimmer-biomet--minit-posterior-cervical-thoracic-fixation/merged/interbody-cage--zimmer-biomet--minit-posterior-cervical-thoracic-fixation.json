@@ -1,0 +1,28 @@
+{
+  "device_name": "Minit Posterior Cervical-Thoracic Fixation System, Nex-Link Spinal Fixation System, Nex-Link OCT Cervical Plating System, Sequoia Pedicle Screw System including SpeedLink II, ST360\u00ba Spinal Fixatoin System, Title 2 Polyaxial Spinal System",
+  "manufacturer": "zimmer-biomet",
+  "catalog_category": "interbody-cage",
+  "filename_stem": "interbody-cage--zimmer-biomet--minit-posterior-cervical-thoracic-fixation",
+  "clearance_type": "510k",
+  "clearance_number": "K142752",
+  "clearance_date": "2015-06-18",
+  "device_class": 2,
+  "device_name_fda": "Minit Posterior Cervical-Thoracic Fixation System, Nex-Link Spinal Fixation System, Nex-Link OCT Cervical Plating System, Sequoia Pedicle Screw System including SpeedLink II, ST360\u00ba Spinal Fixatoin System, Title 2 Polyaxial Spinal System",
+  "product_code": "NKB",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf14/K142752.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

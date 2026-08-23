@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--medtronic--rivulet-ventricular-and-snap-shunt",
+  "artifact_folder": "csf-shunt--medtronic--rivulet-ventricular-and-snap-shunt",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3668,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--medtronic--rivulet-ventricular-and-snap-shunt.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--medtronic--rivulet-ventricular-and-snap-shunt/enriched/csf-shunt--medtronic--rivulet-ventricular-and-snap-shunt.json",
+        "bytes": 2040
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K063836.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--medtronic--rivulet-ventricular-and-snap-shunt/fda_raw/JXG/K063836.json",
+        "bytes": 654
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--medtronic--rivulet-ventricular-and-snap-shunt.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--medtronic--rivulet-ventricular-and-snap-shunt/merged/csf-shunt--medtronic--rivulet-ventricular-and-snap-shunt.json",
+        "bytes": 974
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

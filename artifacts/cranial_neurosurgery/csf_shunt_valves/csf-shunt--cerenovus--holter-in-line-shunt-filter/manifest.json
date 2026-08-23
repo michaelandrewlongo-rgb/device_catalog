@@ -1,0 +1,47 @@
+{
+  "device_slug": "csf-shunt--cerenovus--holter-in-line-shunt-filter",
+  "artifact_folder": "csf-shunt--cerenovus--holter-in-line-shunt-filter",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 291598,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/csf-shunt/parsed/fda_summaries/csf-shunt--cerenovus--holter-in-line-shunt-filter--510k.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cerenovus--holter-in-line-shunt-filter/510k/csf-shunt/parsed/fda_summaries/csf-shunt--cerenovus--holter-in-line-shunt-filter--510k.json",
+        "bytes": 19281
+      },
+      {
+        "source": "pipeline/data/510k/csf-shunt/pdfs/csf-shunt--cerenovus--holter-in-line-shunt-filter--510k.pdf",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cerenovus--holter-in-line-shunt-filter/510k/csf-shunt/pdfs/csf-shunt--cerenovus--holter-in-line-shunt-filter--510k.pdf",
+        "bytes": 262076
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--cerenovus--holter-in-line-shunt-filter.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cerenovus--holter-in-line-shunt-filter/enriched/csf-shunt--cerenovus--holter-in-line-shunt-filter.json",
+        "bytes": 8571
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K102961.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cerenovus--holter-in-line-shunt-filter/fda_raw/JXG/K102961.json",
+        "bytes": 667
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--cerenovus--holter-in-line-shunt-filter.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cerenovus--holter-in-line-shunt-filter/merged/csf-shunt--cerenovus--holter-in-line-shunt-filter.json",
+        "bytes": 1003
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

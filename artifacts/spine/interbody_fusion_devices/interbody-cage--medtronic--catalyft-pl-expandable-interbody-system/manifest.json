@@ -1,0 +1,21 @@
+{
+  "device_slug": "interbody-cage--medtronic--catalyft-pl-expandable-interbody-system",
+  "artifact_folder": "interbody-cage--medtronic--catalyft-pl-expandable-interbody-system",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 451,
+  "sources": {
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/medtronic/catalyft-pl-expandable-interbody-system.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--catalyft-pl-expandable-interbody-system/scraper_raw/medtronic/catalyft-pl-expandable-interbody-system.json",
+        "bytes": 451
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

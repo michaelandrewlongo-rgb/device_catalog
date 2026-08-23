@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--spine-wave-inc--exceed-biplanar-expandable-interbody",
+  "artifact_folder": "pedicle-screw--spine-wave-inc--exceed-biplanar-expandable-interbody",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2961,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--spine-wave-inc--exceed-biplanar-expandable-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spine-wave-inc--exceed-biplanar-expandable-interbody/enriched/pedicle-screw--spine-wave-inc--exceed-biplanar-expandable-interbody.json",
+        "bytes": 1461
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K231275.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spine-wave-inc--exceed-biplanar-expandable-interbody/fda_raw/MAX/K231275.json",
+        "bytes": 612
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--spine-wave-inc--exceed-biplanar-expandable-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spine-wave-inc--exceed-biplanar-expandable-interbody/merged/pedicle-screw--spine-wave-inc--exceed-biplanar-expandable-interbody.json",
+        "bytes": 888
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

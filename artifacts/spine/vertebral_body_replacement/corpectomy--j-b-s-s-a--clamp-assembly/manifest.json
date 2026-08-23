@@ -1,0 +1,42 @@
+{
+  "device_slug": "corpectomy--j-b-s-s-a--clamp-assembly",
+  "artifact_folder": "corpectomy--j-b-s-s-a--clamp-assembly",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3511,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--j-b-s-s-a--clamp-assembly.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--j-b-s-s-a--clamp-assembly/enriched/corpectomy--j-b-s-s-a--clamp-assembly.json",
+        "bytes": 1632
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/corpectomy--j-b-s-s-a--clamp-assembly.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--j-b-s-s-a--clamp-assembly/extracted/fda_structured/corpectomy--j-b-s-s-a--clamp-assembly.json",
+        "bytes": 560
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K953599.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--j-b-s-s-a--clamp-assembly/fda_raw/KWP/K953599.json",
+        "bytes": 539
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--j-b-s-s-a--clamp-assembly.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--j-b-s-s-a--clamp-assembly/merged/corpectomy--j-b-s-s-a--clamp-assembly.json",
+        "bytes": 780
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

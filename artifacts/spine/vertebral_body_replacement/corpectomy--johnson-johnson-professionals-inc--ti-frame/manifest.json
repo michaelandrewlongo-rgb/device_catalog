@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--johnson-johnson-professionals-inc--ti-frame",
+  "artifact_folder": "corpectomy--johnson-johnson-professionals-inc--ti-frame",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2801,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--johnson-johnson-professionals-inc--ti-frame.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--johnson-johnson-professionals-inc--ti-frame/enriched/corpectomy--johnson-johnson-professionals-inc--ti-frame.json",
+        "bytes": 1391
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K934860.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--johnson-johnson-professionals-inc--ti-frame/fda_raw/KWP/K934860.json",
+        "bytes": 600
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--johnson-johnson-professionals-inc--ti-frame.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--johnson-johnson-professionals-inc--ti-frame/merged/corpectomy--johnson-johnson-professionals-inc--ti-frame.json",
+        "bytes": 810
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

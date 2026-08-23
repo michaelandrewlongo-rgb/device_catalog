@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--zimmer-inc--transverse-traction-assembly",
+  "artifact_folder": "corpectomy--zimmer-inc--transverse-traction-assembly",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3329,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--zimmer-inc--transverse-traction-assembly.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--zimmer-inc--transverse-traction-assembly/enriched/corpectomy--zimmer-inc--transverse-traction-assembly.json",
+        "bytes": 1936
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K790238.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--zimmer-inc--transverse-traction-assembly/fda_raw/KWP/K790238.json",
+        "bytes": 569
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--zimmer-inc--transverse-traction-assembly.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--zimmer-inc--transverse-traction-assembly/merged/corpectomy--zimmer-inc--transverse-traction-assembly.json",
+        "bytes": 824
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

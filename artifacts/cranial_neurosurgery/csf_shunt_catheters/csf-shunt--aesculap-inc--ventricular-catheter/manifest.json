@@ -1,0 +1,54 @@
+{
+  "device_slug": "csf-shunt--aesculap-inc--ventricular-catheter",
+  "artifact_folder": "csf-shunt--aesculap-inc--ventricular-catheter",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 386331,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/csf-shunt/parsed/fda_summaries/csf-shunt--aesculap-inc--ventricular-catheter--510k.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--aesculap-inc--ventricular-catheter/510k/csf-shunt/parsed/fda_summaries/csf-shunt--aesculap-inc--ventricular-catheter--510k.json",
+        "bytes": 18028
+      },
+      {
+        "source": "pipeline/data/510k/csf-shunt/pdfs/csf-shunt--aesculap-inc--ventricular-catheter--510k.pdf",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--aesculap-inc--ventricular-catheter/510k/csf-shunt/pdfs/csf-shunt--aesculap-inc--ventricular-catheter--510k.pdf",
+        "bytes": 357640
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--aesculap-inc--ventricular-catheter.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--aesculap-inc--ventricular-catheter/enriched/csf-shunt--aesculap-inc--ventricular-catheter.json",
+        "bytes": 8666
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/csf-shunt--aesculap-inc--ventricular-catheter.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--aesculap-inc--ventricular-catheter/extracted/fda_structured/csf-shunt--aesculap-inc--ventricular-catheter.json",
+        "bytes": 639
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K200950.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--aesculap-inc--ventricular-catheter/fda_raw/JXG/K200950.json",
+        "bytes": 556
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--aesculap-inc--ventricular-catheter.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--aesculap-inc--ventricular-catheter/merged/csf-shunt--aesculap-inc--ventricular-catheter.json",
+        "bytes": 802
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

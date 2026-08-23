@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--carlsmed--aprevo-r-tlif-c-articulating",
+  "artifact_folder": "pedicle-screw--carlsmed--aprevo-r-tlif-c-articulating",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2843,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--carlsmed--aprevo-r-tlif-c-articulating.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--carlsmed--aprevo-r-tlif-c-articulating/enriched/pedicle-screw--carlsmed--aprevo-r-tlif-c-articulating.json",
+        "bytes": 1421
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K241019.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--carlsmed--aprevo-r-tlif-c-articulating/fda_raw/MAX/K241019.json",
+        "bytes": 574
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--carlsmed--aprevo-r-tlif-c-articulating.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--carlsmed--aprevo-r-tlif-c-articulating/merged/pedicle-screw--carlsmed--aprevo-r-tlif-c-articulating.json",
+        "bytes": 848
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

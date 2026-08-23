@@ -1,0 +1,40 @@
+{
+  "device_slug": "cervical-plate--interpore-cross-intl--modification-to-geo-structure",
+  "artifact_folder": "cervical-plate--interpore-cross-intl--modification-to-geo-structure",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3507,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--interpore-cross-intl--modification-to-geo-structure.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--interpore-cross-intl--modification-to-geo-structure/enriched/cervical-plate--interpore-cross-intl--modification-to-geo-structure.json",
+        "bytes": 1436
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K020048.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--interpore-cross-intl--modification-to-geo-structure/fda_raw/MQP/K020048.json",
+        "bytes": 608
+      },
+      {
+        "source": "pipeline/data/fda_raw/MQP/K040168.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--interpore-cross-intl--modification-to-geo-structure/fda_raw/MQP/K040168.json",
+        "bytes": 608
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--interpore-cross-intl--modification-to-geo-structure.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--interpore-cross-intl--modification-to-geo-structure/merged/cervical-plate--interpore-cross-intl--modification-to-geo-structure.json",
+        "bytes": 855
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

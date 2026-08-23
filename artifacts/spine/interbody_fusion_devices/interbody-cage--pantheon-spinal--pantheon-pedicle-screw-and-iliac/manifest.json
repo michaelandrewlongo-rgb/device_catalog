@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--pantheon-spinal--pantheon-pedicle-screw-and-iliac",
+  "artifact_folder": "interbody-cage--pantheon-spinal--pantheon-pedicle-screw-and-iliac",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2992,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--pantheon-spinal--pantheon-pedicle-screw-and-iliac.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--pantheon-spinal--pantheon-pedicle-screw-and-iliac/enriched/interbody-cage--pantheon-spinal--pantheon-pedicle-screw-and-iliac.json",
+        "bytes": 1477
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K241494.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--pantheon-spinal--pantheon-pedicle-screw-and-iliac/fda_raw/NKB/K241494.json",
+        "bytes": 619
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--pantheon-spinal--pantheon-pedicle-screw-and-iliac.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--pantheon-spinal--pantheon-pedicle-screw-and-iliac/merged/interbody-cage--pantheon-spinal--pantheon-pedicle-screw-and-iliac.json",
+        "bytes": 896
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

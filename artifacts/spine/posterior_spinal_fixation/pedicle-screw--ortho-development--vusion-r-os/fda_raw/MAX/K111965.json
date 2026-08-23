@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K111965",
+  "clearance_date": "2011-10-25",
+  "device_class": 2,
+  "manufacturer_canonical": "ortho-development",
+  "manufacturer_raw": "Ortho Development",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "VUSION(R) OS",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--ortho-development--vusion-r-os",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf11/K111965.pdf"
+}

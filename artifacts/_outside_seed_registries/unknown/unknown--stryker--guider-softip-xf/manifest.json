@@ -1,0 +1,35 @@
+{
+  "device_slug": "unknown--stryker--guider-softip-xf",
+  "artifact_folder": "unknown--stryker--guider-softip-xf",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3331,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/unknown--stryker--guider-softip-xf.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--stryker--guider-softip-xf/enriched/unknown--stryker--guider-softip-xf.json",
+        "bytes": 1616
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/unknown--stryker--guider-softip-xf.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--stryker--guider-softip-xf/merged/unknown--stryker--guider-softip-xf.json",
+        "bytes": 910
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/stryker/guider-softip-xf.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--stryker--guider-softip-xf/scraper_raw/stryker/guider-softip-xf.json",
+        "bytes": 805
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "unknown",
+    "label": "Outside listed seed registries"
+  }
+}

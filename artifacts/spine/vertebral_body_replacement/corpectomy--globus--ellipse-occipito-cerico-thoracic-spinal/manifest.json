@@ -1,0 +1,40 @@
+{
+  "device_slug": "corpectomy--globus--ellipse-occipito-cerico-thoracic-spinal",
+  "artifact_folder": "corpectomy--globus--ellipse-occipito-cerico-thoracic-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3524,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--globus--ellipse-occipito-cerico-thoracic-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--globus--ellipse-occipito-cerico-thoracic-spinal/enriched/corpectomy--globus--ellipse-occipito-cerico-thoracic-spinal.json",
+        "bytes": 1444
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K090565.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--globus--ellipse-occipito-cerico-thoracic-spinal/fda_raw/KWP/K090565.json",
+        "bytes": 598
+      },
+      {
+        "source": "pipeline/data/fda_raw/KWP/K123783.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--globus--ellipse-occipito-cerico-thoracic-spinal/fda_raw/KWP/K123783.json",
+        "bytes": 619
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--globus--ellipse-occipito-cerico-thoracic-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--globus--ellipse-occipito-cerico-thoracic-spinal/merged/corpectomy--globus--ellipse-occipito-cerico-thoracic-spinal.json",
+        "bytes": 863
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

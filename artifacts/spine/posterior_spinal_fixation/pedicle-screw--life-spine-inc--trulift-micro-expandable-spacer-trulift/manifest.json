@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--life-spine-inc--trulift-micro-expandable-spacer-trulift",
+  "artifact_folder": "pedicle-screw--life-spine-inc--trulift-micro-expandable-spacer-trulift",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3102,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--life-spine-inc--trulift-micro-expandable-spacer-trulift.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--life-spine-inc--trulift-micro-expandable-spacer-trulift/enriched/pedicle-screw--life-spine-inc--trulift-micro-expandable-spacer-trulift.json",
+        "bytes": 1520
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K232611.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--life-spine-inc--trulift-micro-expandable-spacer-trulift/fda_raw/MAX/K232611.json",
+        "bytes": 643
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--life-spine-inc--trulift-micro-expandable-spacer-trulift.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--life-spine-inc--trulift-micro-expandable-spacer-trulift/merged/pedicle-screw--life-spine-inc--trulift-micro-expandable-spacer-trulift.json",
+        "bytes": 939
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

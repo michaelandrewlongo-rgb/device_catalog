@@ -1,0 +1,20 @@
+{
+  "source": "fda_udi",
+  "brand_name": "MectaLIF Anterior Simple",
+  "extraction_method": "fda_udi_api",
+  "fields": {
+    "what_it_is": "MectaLIF Anterior Simple H.16 mm",
+    "sizing_specs": "Model: 03.30.254",
+    "use_notes": "MRI: Labeling does not contain MRI Safety Information. Pre-sterilized. Single-use",
+    "also_known_as": [
+      "MectaLIF Anterior Simple",
+      "Metallic spinal interbody fusion cage"
+    ]
+  },
+  "confidence": {
+    "what_it_is": 0.85,
+    "sizing_specs": 0.85,
+    "use_notes": 0.85,
+    "also_known_as": 0.85
+  }
+}

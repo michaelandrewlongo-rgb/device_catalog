@@ -1,0 +1,105 @@
+[
+  {
+    "device_family": "aspiration--balt--ballast",
+    "query_used": "brand_name:\"Ballast\" OR brand_name:\"Ballast 088 Long Sheath\" OR brand_name:\"Vascular guide-catheter\"",
+    "raw": {
+      "brand_name": "Ballast 088 Long Sheath",
+      "catalog_number": "N/A",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "company_name": "BALT USA LLC",
+      "customer_contacts": [
+        {
+          "email": "customerservice@balt-usa.com",
+          "phone": "1-949-788-1443"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "device_description": "The Ballast 088 Long Sheath is a sterile, single use, single lumen, variable stiffness guide catheter/long sheath that is designed for facilitating the introduction of appropriately sized interventional devices into target blood vessels in the peripheral, coronary, and neuro vasculature.",
+      "device_sizes": [
+        {
+          "type": "Catheter Working Length",
+          "unit": "Centimeter",
+          "value": "90"
+        },
+        {
+          "type": "Catheter Inner Diameter",
+          "unit": "Inch",
+          "value": "0.088"
+        }
+      ],
+      "gmdn_terms": [
+        {
+          "code": "17846",
+          "code_status": "Active",
+          "definition": "A flexible tube intended to be used for the percutaneous transluminal passage and placement of a diagnostic/interventional catheter, lead (e.g., pacing lead, balloon dilatation catheter), needle or guidewire through its lumen(s), within the vascular system. It may be rigid or flexible, non-steerable or steerable, single or multiple lumen(s), and the distal section can have a variety of preformed shapes (e.g., straight, hockey stick). It is not intended solely for infusion, is not intended to access superselective small vessels, and does not include a transseptal needle. It may include a disposable percutaneous introduction set or shaft visualization electrodes. This is a single-use device.",
+          "implantable": "false",
+          "name": "Vascular guide-catheter, single-use"
+        }
+      ],
+      "has_donation_id_number": "false",
+      "has_expiration_date": "true",
+      "has_lot_or_batch_number": "true",
+      "has_manufacturing_date": "true",
+      "has_serial_number": "false",
+      "identifiers": [
+        {
+          "id": "00840303712794",
+          "issuing_agency": "GS1",
+          "type": "Primary"
+        }
+      ],
+      "is_combination_product": "false",
+      "is_direct_marking_exempt": "false",
+      "is_hct_p": "false",
+      "is_kit": "false",
+      "is_labeled_as_no_nrl": "false",
+      "is_labeled_as_nrl": "false",
+      "is_otc": "false",
+      "is_pm_exempt": "false",
+      "is_rx": "true",
+      "is_single_use": "true",
+      "labeler_duns_number": "945543689",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "premarket_submissions": [
+        {
+          "submission_number": "K182918",
+          "supplement_number": "000"
+        }
+      ],
+      "product_codes": [
+        {
+          "code": "DQY",
+          "name": "Catheter, Percutaneous",
+          "openfda": {
+            "device_class": "2",
+            "device_name": "Catheter, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.1250"
+          }
+        }
+      ],
+      "public_device_record_key": "5020fe92-d67d-49e6-8353-78b5d67349a9",
+      "public_version_date": "2024-08-22",
+      "public_version_number": "1",
+      "public_version_status": "New",
+      "publish_date": "2024-08-14",
+      "record_status": "Published",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "storage": [
+        {
+          "special_conditions": "Store in a dry place at room temperature and away from light",
+          "type": "Special Storage Condition, Specify"
+        }
+      ],
+      "version_or_model_number": "BALLAST90"
+    },
+    "retrieved_at": "2026-04-15T10:17:55+00:00",
+    "source_id": "fda:udi:record-1",
+    "source_type": "fda",
+    "source_url": "https://api.fda.gov/device/udi.json?search=brand_name%3A%22Ballast%22%20OR%20brand_name%3A%22Ballast%20088%20Long%20Sheath%22%20OR%20brand_name%3A%22Vascular%20guide-catheter%22",
+    "title": "Ballast 088 Long Sheath"
+  }
+]

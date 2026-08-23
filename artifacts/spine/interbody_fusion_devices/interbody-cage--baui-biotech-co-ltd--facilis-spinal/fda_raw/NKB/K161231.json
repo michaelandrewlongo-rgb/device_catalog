@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K161231",
+  "clearance_date": "2017-01-23",
+  "device_class": 2,
+  "manufacturer_canonical": "baui-biotech-co-ltd",
+  "manufacturer_raw": "Baui Biotech Co., Ltd.",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "Facilis Spinal System",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--baui-biotech-co-ltd--facilis-spinal",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf16/K161231.pdf"
+}

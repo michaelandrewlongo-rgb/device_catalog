@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--osteonics-corp--osteonics-spinal-sacral-offset-connector",
+  "artifact_folder": "corpectomy--osteonics-corp--osteonics-spinal-sacral-offset-connector",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3011,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--osteonics-corp--osteonics-spinal-sacral-offset-connector.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--osteonics-corp--osteonics-spinal-sacral-offset-connector/enriched/corpectomy--osteonics-corp--osteonics-spinal-sacral-offset-connector.json",
+        "bytes": 1485
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K984375.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--osteonics-corp--osteonics-spinal-sacral-offset-connector/fda_raw/KWP/K984375.json",
+        "bytes": 622
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--osteonics-corp--osteonics-spinal-sacral-offset-connector.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--osteonics-corp--osteonics-spinal-sacral-offset-connector/merged/corpectomy--osteonics-corp--osteonics-spinal-sacral-offset-connector.json",
+        "bytes": 904
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

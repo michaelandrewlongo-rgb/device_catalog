@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--astura-medical--olympic-posterior-spinal-fixation-masada",
+  "artifact_folder": "interbody-cage--astura-medical--olympic-posterior-spinal-fixation-masada",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3139,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--astura-medical--olympic-posterior-spinal-fixation-masada.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--astura-medical--olympic-posterior-spinal-fixation-masada/enriched/interbody-cage--astura-medical--olympic-posterior-spinal-fixation-masada.json",
+        "bytes": 1535
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K252346.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--astura-medical--olympic-posterior-spinal-fixation-masada/fda_raw/NKB/K252346.json",
+        "bytes": 650
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--astura-medical--olympic-posterior-spinal-fixation-masada.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--astura-medical--olympic-posterior-spinal-fixation-masada/merged/interbody-cage--astura-medical--olympic-posterior-spinal-fixation-masada.json",
+        "bytes": 954
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

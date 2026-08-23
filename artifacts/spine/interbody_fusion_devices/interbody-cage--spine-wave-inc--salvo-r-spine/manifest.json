@@ -1,0 +1,45 @@
+{
+  "device_slug": "interbody-cage--spine-wave-inc--salvo-r-spine",
+  "artifact_folder": "interbody-cage--spine-wave-inc--salvo-r-spine",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 3905,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--spine-wave-inc--salvo-r-spine.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spine-wave-inc--salvo-r-spine/enriched/interbody-cage--spine-wave-inc--salvo-r-spine.json",
+        "bytes": 1390
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K202476.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spine-wave-inc--salvo-r-spine/fda_raw/NKB/K202476.json",
+        "bytes": 566
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K222362.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spine-wave-inc--salvo-r-spine/fda_raw/NKB/K222362.json",
+        "bytes": 566
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K240685.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spine-wave-inc--salvo-r-spine/fda_raw/NKB/K240685.json",
+        "bytes": 566
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--spine-wave-inc--salvo-r-spine.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spine-wave-inc--salvo-r-spine/merged/interbody-cage--spine-wave-inc--salvo-r-spine.json",
+        "bytes": 817
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

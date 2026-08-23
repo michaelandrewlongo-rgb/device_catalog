@@ -1,0 +1,42 @@
+{
+  "device_slug": "interbody-cage--paonan-biotech-co-ltd--trend-ii-spinal-fixation-step",
+  "artifact_folder": "interbody-cage--paonan-biotech-co-ltd--trend-ii-spinal-fixation-step",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3970,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--paonan-biotech-co-ltd--trend-ii-spinal-fixation-step.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--paonan-biotech-co-ltd--trend-ii-spinal-fixation-step/enriched/interbody-cage--paonan-biotech-co-ltd--trend-ii-spinal-fixation-step.json",
+        "bytes": 1780
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--paonan-biotech-co-ltd--trend-ii-spinal-fixation-step.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--paonan-biotech-co-ltd--trend-ii-spinal-fixation-step/extracted/fda_structured/interbody-cage--paonan-biotech-co-ltd--trend-ii-spinal-fixation-step.json",
+        "bytes": 675
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K180226.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--paonan-biotech-co-ltd--trend-ii-spinal-fixation-step/fda_raw/NKB/K180226.json",
+        "bytes": 628
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--paonan-biotech-co-ltd--trend-ii-spinal-fixation-step.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--paonan-biotech-co-ltd--trend-ii-spinal-fixation-step/merged/interbody-cage--paonan-biotech-co-ltd--trend-ii-spinal-fixation-step.json",
+        "bytes": 887
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "device_name": "OpenLoc-L Spinal Fixation System, LnK Spinal Fixation System",
+  "manufacturer": "l-k-biomed-co-ltd",
+  "catalog_category": "interbody-cage",
+  "filename_stem": "interbody-cage--l-k-biomed-co-ltd--openloc-l-spinal-fixation-lnk",
+  "clearance_type": "510k",
+  "clearance_number": "K171813",
+  "clearance_date": "2017-07-13",
+  "device_class": 2,
+  "device_name_fda": "OpenLoc-L Spinal Fixation System, LnK Spinal Fixation System",
+  "product_code": "NKB",
+  "what_it_is": "Star Type (Closed Type with Rescue Hole)",
+  "sizing_specs": "Catalog: 1306-0000; Model: 1306-0000",
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "MRI: Labeling does not contain MRI Safety Information. Sterilized: Moist Heat or Steam Sterilization. Single-use",
+  "deployment_steps": null,
+  "also_known_as": [
+    "OpenLoc-L Spinal Fixation System/LnK Spinal Fixation System",
+    "Spinal bone set screw"
+  ],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf17/K171813.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "sizing_specs": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "indications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "also_known_as": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    }
+  }
+}

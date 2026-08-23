@@ -1,0 +1,40 @@
+{
+  "device_slug": "pedicle-screw--custom-spine-inc--pathway-avid",
+  "artifact_folder": "pedicle-screw--custom-spine-inc--pathway-avid",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3291,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--custom-spine-inc--pathway-avid.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--custom-spine-inc--pathway-avid/enriched/pedicle-screw--custom-spine-inc--pathway-avid.json",
+        "bytes": 1375
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K090566.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--custom-spine-inc--pathway-avid/fda_raw/MAX/K090566.json",
+        "bytes": 561
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K111726.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--custom-spine-inc--pathway-avid/fda_raw/MAX/K111726.json",
+        "bytes": 561
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--custom-spine-inc--pathway-avid.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--custom-spine-inc--pathway-avid/merged/pedicle-screw--custom-spine-inc--pathway-avid.json",
+        "bytes": 794
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

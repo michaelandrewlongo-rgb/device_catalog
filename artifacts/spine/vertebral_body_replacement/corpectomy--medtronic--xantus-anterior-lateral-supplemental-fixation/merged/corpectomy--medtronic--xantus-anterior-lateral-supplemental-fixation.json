@@ -1,0 +1,28 @@
+{
+  "device_name": "XANTUS ANTERIOR LATERAL SUPPLEMENTAL FIXATION SYSTEM",
+  "manufacturer": "medtronic",
+  "catalog_category": "corpectomy",
+  "filename_stem": "corpectomy--medtronic--xantus-anterior-lateral-supplemental-fixation",
+  "clearance_type": "510k",
+  "clearance_number": "K022070",
+  "clearance_date": "2002-07-22",
+  "device_class": 2,
+  "device_name_fda": "XANTUS ANTERIOR LATERAL SUPPLEMENTAL FIXATION SYSTEM",
+  "product_code": "KWP",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf02/K022070.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

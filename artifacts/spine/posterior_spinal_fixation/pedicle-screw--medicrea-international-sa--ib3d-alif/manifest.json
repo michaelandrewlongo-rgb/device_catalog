@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--medicrea-international-sa--ib3d-alif",
+  "artifact_folder": "pedicle-screw--medicrea-international-sa--ib3d-alif",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2767,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--medicrea-international-sa--ib3d-alif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medicrea-international-sa--ib3d-alif/enriched/pedicle-screw--medicrea-international-sa--ib3d-alif.json",
+        "bytes": 1384
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K191134.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medicrea-international-sa--ib3d-alif/fda_raw/MAX/K191134.json",
+        "bytes": 580
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--medicrea-international-sa--ib3d-alif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medicrea-international-sa--ib3d-alif/merged/pedicle-screw--medicrea-international-sa--ib3d-alif.json",
+        "bytes": 803
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

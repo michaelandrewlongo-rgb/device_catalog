@@ -1,0 +1,45 @@
+{
+  "device_slug": "cervical-plate--medtronic--t2-stratosphere-expandable-corpectomy",
+  "artifact_folder": "cervical-plate--medtronic--t2-stratosphere-expandable-corpectomy",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 4196,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--medtronic--t2-stratosphere-expandable-corpectomy.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--t2-stratosphere-expandable-corpectomy/enriched/cervical-plate--medtronic--t2-stratosphere-expandable-corpectomy.json",
+        "bytes": 1456
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K173125.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--t2-stratosphere-expandable-corpectomy/fda_raw/MQP/K173125.json",
+        "bytes": 613
+      },
+      {
+        "source": "pipeline/data/fda_raw/MQP/K181328.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--t2-stratosphere-expandable-corpectomy/fda_raw/MQP/K181328.json",
+        "bytes": 623
+      },
+      {
+        "source": "pipeline/data/fda_raw/MQP/K183510.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--t2-stratosphere-expandable-corpectomy/fda_raw/MQP/K183510.json",
+        "bytes": 621
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--medtronic--t2-stratosphere-expandable-corpectomy.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--t2-stratosphere-expandable-corpectomy/merged/cervical-plate--medtronic--t2-stratosphere-expandable-corpectomy.json",
+        "bytes": 883
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

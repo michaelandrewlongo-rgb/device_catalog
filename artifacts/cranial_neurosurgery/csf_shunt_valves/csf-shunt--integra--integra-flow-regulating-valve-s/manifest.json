@@ -1,0 +1,21 @@
+{
+  "device_slug": "csf-shunt--integra--integra-flow-regulating-valve-s",
+  "artifact_folder": "csf-shunt--integra--integra-flow-regulating-valve-s",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 655,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K140722.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--integra-flow-regulating-valve-s/fda_raw/JXG/K140722.json",
+        "bytes": 655
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

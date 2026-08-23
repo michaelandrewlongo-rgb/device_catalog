@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K143200",
+  "clearance_date": "2015-02-03",
+  "device_class": 2,
+  "manufacturer_canonical": "z-medical-gmbh-co-kg",
+  "manufacturer_raw": "Z-Medical GmbH & Co. KG",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "MIS Z-Pedicle Screw System",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--z-medical-gmbh-co-kg--mis-z-pedicle-screw",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf14/K143200.pdf"
+}

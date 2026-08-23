@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K230116",
+  "clearance_date": "2023-10-11",
+  "device_class": 2,
+  "manufacturer_canonical": "zimmer-biomet",
+  "manufacturer_raw": "Zimvie Spine (Zimmer Biomet Spine, Inc.)",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "Vital Spinal Fixation System",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--zimmer-biomet--vital-spinal-fixation",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K230116.pdf"
+}

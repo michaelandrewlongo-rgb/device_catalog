@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--ebi-llc--polaris-spinal-translation-screw",
+  "artifact_folder": "interbody-cage--ebi-llc--polaris-spinal-translation-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3339,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--ebi-llc--polaris-spinal-translation-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--ebi-llc--polaris-spinal-translation-screw/enriched/interbody-cage--ebi-llc--polaris-spinal-translation-screw.json",
+        "bytes": 1902
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K140123.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--ebi-llc--polaris-spinal-translation-screw/fda_raw/NKB/K140123.json",
+        "bytes": 583
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--ebi-llc--polaris-spinal-translation-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--ebi-llc--polaris-spinal-translation-screw/merged/interbody-cage--ebi-llc--polaris-spinal-translation-screw.json",
+        "bytes": 854
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

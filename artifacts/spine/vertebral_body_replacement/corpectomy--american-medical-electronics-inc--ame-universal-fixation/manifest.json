@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--american-medical-electronics-inc--ame-universal-fixation",
+  "artifact_folder": "corpectomy--american-medical-electronics-inc--ame-universal-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2939,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--american-medical-electronics-inc--ame-universal-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--american-medical-electronics-inc--ame-universal-fixation/enriched/corpectomy--american-medical-electronics-inc--ame-universal-fixation.json",
+        "bytes": 1445
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K931381.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--american-medical-electronics-inc--ame-universal-fixation/fda_raw/KWP/K931381.json",
+        "bytes": 630
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--american-medical-electronics-inc--ame-universal-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--american-medical-electronics-inc--ame-universal-fixation/merged/corpectomy--american-medical-electronics-inc--ame-universal-fixation.json",
+        "bytes": 864
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

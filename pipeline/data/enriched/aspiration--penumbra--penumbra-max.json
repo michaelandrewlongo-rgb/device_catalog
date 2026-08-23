@@ -11,7 +11,7 @@
   "product_code": "NRY",
   "what_it_is": null,
   "sizing_specs": null,
-  "indications": null,
+  "indications": "Indications for Use\n5 10(k) Number (if known): K 1 6-\nDevice Name: Penumbra System®0 MAX\nIndications for Use:\nThe Penumbra System is intended for use in the revascularization of patients with acute\nisohemic stroke secondary to intracranial large vessel occlusive disease (in the internal\ncarotid, middle cerebral - MlI and M2 segments, basilar, and vertebral arteries) within 8\nhours of symptom onset.\nPrescription Use X AND/OR Over The Counter Use\n____\n(Part 21 CFR 801 Subpart D) (21 CFR 801 Subpart C)\n(PLEASE DO NOT WRITE BELOW THIS L[NE-CONT[NUE ON ANOTHER PAGE\nOF NEEDED)\nConcurrence of CDRH, Office of Device Evaluation (ODE)\nJ2FIFR\" -To\\(\n(Division Sign-Off)\nDivision of Ophthalmic, Neurological and Ear,\nNose and Throat Devices\n5\n10(k) Number-______________",
   "contraindications": null,
   "compatible_with": null,
   "use_notes": "[FDA RECALL] 6 active recall(s).\n  - Reperfusion catheter may fail at the mid-shaft joint and may break off.  If the segment cannot be removed, it may result in blocked blood flow, requiring emergency medical treatment.\n  - The catheter may become susceptible to distal tip damage during use.  Distal tip damage in conjunction with pressurization of contrast injection may result in potential vessel damage, and subsequent p",
@@ -35,8 +35,8 @@
       "confidence": 0
     },
     "indications": {
-      "source": "none",
-      "confidence": 0
+      "source": "fda_summary",
+      "confidence": 0.95
     },
     "contraindications": {
       "source": "none",

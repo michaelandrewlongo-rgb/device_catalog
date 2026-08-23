@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--advanced-spine-fixation-systems-inc--modification-to-parts-numbered-cgt",
+  "artifact_folder": "corpectomy--advanced-spine-fixation-systems-inc--modification-to-parts-numbered-cgt",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3106,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--advanced-spine-fixation-systems-inc--modification-to-parts-numbered-cgt.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--advanced-spine-fixation-systems-inc--modification-to-parts-numbered-cgt/enriched/corpectomy--advanced-spine-fixation-systems-inc--modification-to-parts-numbered-cgt.json",
+        "bytes": 1507
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K990845.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--advanced-spine-fixation-systems-inc--modification-to-parts-numbered-cgt/fda_raw/KWP/K990845.json",
+        "bytes": 673
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--advanced-spine-fixation-systems-inc--modification-to-parts-numbered-cgt.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--advanced-spine-fixation-systems-inc--modification-to-parts-numbered-cgt/merged/corpectomy--advanced-spine-fixation-systems-inc--modification-to-parts-numbered-cgt.json",
+        "bytes": 926
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

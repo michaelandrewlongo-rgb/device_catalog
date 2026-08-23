@@ -1,0 +1,35 @@
+{
+  "device_slug": "flow-diverter--microvention--fred-x-system",
+  "artifact_folder": "flow-diverter--microvention--fred-x-system",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 5173,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/flow-diverter--microvention--fred-x-system.json",
+        "artifact": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--microvention--fred-x-system/enriched/flow-diverter--microvention--fred-x-system.json",
+        "bytes": 3855
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/pma/P180027--fred-x-system.json",
+        "artifact": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--microvention--fred-x-system/fda_raw/pma/P180027--fred-x-system.json",
+        "bytes": 520
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/flow-diverter--microvention--fred-x-system.json",
+        "artifact": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--microvention--fred-x-system/merged/flow-diverter--microvention--fred-x-system.json",
+        "bytes": 798
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "flow-diverter",
+    "label": "Flow diverters noted as separate exemplar"
+  }
+}

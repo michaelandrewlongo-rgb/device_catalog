@@ -1,0 +1,40 @@
+{
+  "device_slug": "interbody-cage--endius-inc--endius-title-2-poly-axial",
+  "artifact_folder": "interbody-cage--endius-inc--endius-title-2-poly-axial",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3453,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--endius-inc--endius-title-2-poly-axial.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--endius-inc--endius-title-2-poly-axial/enriched/interbody-cage--endius-inc--endius-title-2-poly-axial.json",
+        "bytes": 1432
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K060990.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--endius-inc--endius-title-2-poly-axial/fda_raw/NKB/K060990.json",
+        "bytes": 585
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K073510.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--endius-inc--endius-title-2-poly-axial/fda_raw/NKB/K073510.json",
+        "bytes": 585
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--endius-inc--endius-title-2-poly-axial.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--endius-inc--endius-title-2-poly-axial/merged/interbody-cage--endius-inc--endius-title-2-poly-axial.json",
+        "bytes": 851
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--medyssey-usa-inc--zenius-lliad-and-kora-spinal",
+  "artifact_folder": "interbody-cage--medyssey-usa-inc--zenius-lliad-and-kora-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3008,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--medyssey-usa-inc--zenius-lliad-and-kora-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medyssey-usa-inc--zenius-lliad-and-kora-spinal/enriched/interbody-cage--medyssey-usa-inc--zenius-lliad-and-kora-spinal.json",
+        "bytes": 1473
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K171526.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medyssey-usa-inc--zenius-lliad-and-kora-spinal/fda_raw/NKB/K171526.json",
+        "bytes": 619
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--medyssey-usa-inc--zenius-lliad-and-kora-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medyssey-usa-inc--zenius-lliad-and-kora-spinal/merged/interbody-cage--medyssey-usa-inc--zenius-lliad-and-kora-spinal.json",
+        "bytes": 916
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

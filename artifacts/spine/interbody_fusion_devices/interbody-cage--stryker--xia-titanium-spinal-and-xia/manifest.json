@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--stryker--xia-titanium-spinal-and-xia",
+  "artifact_folder": "interbody-cage--stryker--xia-titanium-spinal-and-xia",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3464,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--stryker--xia-titanium-spinal-and-xia.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker--xia-titanium-spinal-and-xia/enriched/interbody-cage--stryker--xia-titanium-spinal-and-xia.json",
+        "bytes": 1960
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K061854.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker--xia-titanium-spinal-and-xia/fda_raw/NKB/K061854.json",
+        "bytes": 607
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--stryker--xia-titanium-spinal-and-xia.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker--xia-titanium-spinal-and-xia/merged/interbody-cage--stryker--xia-titanium-spinal-and-xia.json",
+        "bytes": 897
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

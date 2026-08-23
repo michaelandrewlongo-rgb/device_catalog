@@ -1,0 +1,21 @@
+{
+  "device_slug": "cervical-cage--medtronic--capstone-ptc-spinal-system",
+  "artifact_folder": "cervical-cage--medtronic--capstone-ptc-spinal-system",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 610,
+  "sources": {
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/medtronic/capstone-ptc-spinal-system.json",
+        "artifact": "artifacts/spine/cervical_interbody_cages/cervical-cage--medtronic--capstone-ptc-spinal-system/scraper_raw/medtronic/capstone-ptc-spinal-system.json",
+        "bytes": 610
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "cervical_interbody_cages",
+    "label": "ACDF/ACCF Cages"
+  }
+}

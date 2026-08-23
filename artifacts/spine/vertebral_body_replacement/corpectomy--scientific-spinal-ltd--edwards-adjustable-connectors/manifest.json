@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--scientific-spinal-ltd--edwards-adjustable-connectors",
+  "artifact_folder": "corpectomy--scientific-spinal-ltd--edwards-adjustable-connectors",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2884,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--scientific-spinal-ltd--edwards-adjustable-connectors.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--scientific-spinal-ltd--edwards-adjustable-connectors/enriched/corpectomy--scientific-spinal-ltd--edwards-adjustable-connectors.json",
+        "bytes": 1430
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K915672.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--scientific-spinal-ltd--edwards-adjustable-connectors/fda_raw/KWP/K915672.json",
+        "bytes": 605
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--scientific-spinal-ltd--edwards-adjustable-connectors.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--scientific-spinal-ltd--edwards-adjustable-connectors/merged/corpectomy--scientific-spinal-ltd--edwards-adjustable-connectors.json",
+        "bytes": 849
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

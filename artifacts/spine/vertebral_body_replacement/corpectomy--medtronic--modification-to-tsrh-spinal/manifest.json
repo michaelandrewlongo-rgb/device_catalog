@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--medtronic--modification-to-tsrh-spinal",
+  "artifact_folder": "corpectomy--medtronic--modification-to-tsrh-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3306,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--medtronic--modification-to-tsrh-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--modification-to-tsrh-spinal/enriched/corpectomy--medtronic--modification-to-tsrh-spinal.json",
+        "bytes": 1884
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K041282.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--modification-to-tsrh-spinal/fda_raw/KWP/K041282.json",
+        "bytes": 589
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--medtronic--modification-to-tsrh-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--modification-to-tsrh-spinal/merged/corpectomy--medtronic--modification-to-tsrh-spinal.json",
+        "bytes": 833
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

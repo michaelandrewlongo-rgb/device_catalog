@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K230063",
+  "clearance_date": "2023-02-09",
+  "device_class": 2,
+  "manufacturer_canonical": "g-surgical-llc",
+  "manufacturer_raw": "G Surgical, LLC",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "G Surgical Marksman Spinal Deformity System",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--g-surgical-llc--g-surgical-marksman-spinal-deformity",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K230063.pdf"
+}

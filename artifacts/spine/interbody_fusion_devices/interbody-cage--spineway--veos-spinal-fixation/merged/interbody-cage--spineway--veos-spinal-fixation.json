@@ -1,0 +1,28 @@
+{
+  "device_name": "VEOS Spinal Fixation System",
+  "manufacturer": "spineway",
+  "catalog_category": "interbody-cage",
+  "filename_stem": "interbody-cage--spineway--veos-spinal-fixation",
+  "clearance_type": "510k",
+  "clearance_number": "K231658",
+  "clearance_date": "2023-10-10",
+  "device_class": 2,
+  "device_name_fda": "VEOS Spinal Fixation System",
+  "product_code": "NKB",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K231658.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

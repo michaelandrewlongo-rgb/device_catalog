@@ -1,0 +1,47 @@
+{
+  "device_slug": "cervical-plate--synthes-spine-co-lp--synfix-lr",
+  "artifact_folder": "cervical-plate--synthes-spine-co-lp--synfix-lr",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 4211,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--synthes-spine-co-lp--synfix-lr.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--synthes-spine-co-lp--synfix-lr/enriched/cervical-plate--synthes-spine-co-lp--synfix-lr.json",
+        "bytes": 1667
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/cervical-plate--synthes-spine-co-lp--synfix-lr.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--synthes-spine-co-lp--synfix-lr/extracted/fda_structured/cervical-plate--synthes-spine-co-lp--synfix-lr.json",
+        "bytes": 620
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K053508.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--synthes-spine-co-lp--synfix-lr/fda_raw/MQP/K053508.json",
+        "bytes": 564
+      },
+      {
+        "source": "pipeline/data/fda_raw/MQP/K062083.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--synthes-spine-co-lp--synfix-lr/fda_raw/MQP/K062083.json",
+        "bytes": 565
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--synthes-spine-co-lp--synfix-lr.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--synthes-spine-co-lp--synfix-lr/merged/cervical-plate--synthes-spine-co-lp--synfix-lr.json",
+        "bytes": 795
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

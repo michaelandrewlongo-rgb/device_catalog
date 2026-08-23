@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--depuyacromed--modification-to-surgical-titanium-mesh",
+  "artifact_folder": "cervical-plate--depuyacromed--modification-to-surgical-titanium-mesh",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2949,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--depuyacromed--modification-to-surgical-titanium-mesh.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuyacromed--modification-to-surgical-titanium-mesh/enriched/cervical-plate--depuyacromed--modification-to-surgical-titanium-mesh.json",
+        "bytes": 1461
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K020522.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuyacromed--modification-to-surgical-titanium-mesh/fda_raw/MQP/K020522.json",
+        "bytes": 608
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--depuyacromed--modification-to-surgical-titanium-mesh.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuyacromed--modification-to-surgical-titanium-mesh/merged/cervical-plate--depuyacromed--modification-to-surgical-titanium-mesh.json",
+        "bytes": 880
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--l-k-biomed-co-ltd--lnk-mis-spinal-pathloc-l",
+  "artifact_folder": "interbody-cage--l-k-biomed-co-ltd--lnk-mis-spinal-pathloc-l",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3112,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--l-k-biomed-co-ltd--lnk-mis-spinal-pathloc-l.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--l-k-biomed-co-ltd--lnk-mis-spinal-pathloc-l/enriched/interbody-cage--l-k-biomed-co-ltd--lnk-mis-spinal-pathloc-l.json",
+        "bytes": 1523
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K200789.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--l-k-biomed-co-ltd--lnk-mis-spinal-pathloc-l/fda_raw/NKB/K200789.json",
+        "bytes": 647
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--l-k-biomed-co-ltd--lnk-mis-spinal-pathloc-l.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--l-k-biomed-co-ltd--lnk-mis-spinal-pathloc-l/merged/interbody-cage--l-k-biomed-co-ltd--lnk-mis-spinal-pathloc-l.json",
+        "bytes": 942
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

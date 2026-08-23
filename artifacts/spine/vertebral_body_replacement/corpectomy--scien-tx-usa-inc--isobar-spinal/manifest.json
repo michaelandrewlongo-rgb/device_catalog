@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--scien-tx-usa-inc--isobar-spinal",
+  "artifact_folder": "corpectomy--scien-tx-usa-inc--isobar-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2755,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--scien-tx-usa-inc--isobar-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--scien-tx-usa-inc--isobar-spinal/enriched/corpectomy--scien-tx-usa-inc--isobar-spinal.json",
+        "bytes": 1386
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K013447.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--scien-tx-usa-inc--isobar-spinal/fda_raw/KWP/K013447.json",
+        "bytes": 564
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--scien-tx-usa-inc--isobar-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--scien-tx-usa-inc--isobar-spinal/merged/corpectomy--scien-tx-usa-inc--isobar-spinal.json",
+        "bytes": 805
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

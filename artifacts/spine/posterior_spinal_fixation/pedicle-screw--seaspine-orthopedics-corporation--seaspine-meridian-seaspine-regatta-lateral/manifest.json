@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--seaspine-orthopedics-corporation--seaspine-meridian-seaspine-regatta-lateral",
+  "artifact_folder": "pedicle-screw--seaspine-orthopedics-corporation--seaspine-meridian-seaspine-regatta-lateral",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3155,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--seaspine-orthopedics-corporation--seaspine-meridian-seaspine-regatta-lateral.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--seaspine-orthopedics-corporation--seaspine-meridian-seaspine-regatta-lateral/enriched/pedicle-screw--seaspine-orthopedics-corporation--seaspine-meridian-seaspine-regatta-lateral.json",
+        "bytes": 1527
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K200879.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--seaspine-orthopedics-corporation--seaspine-meridian-seaspine-regatta-lateral/fda_raw/MAX/K200879.json",
+        "bytes": 682
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--seaspine-orthopedics-corporation--seaspine-meridian-seaspine-regatta-lateral.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--seaspine-orthopedics-corporation--seaspine-meridian-seaspine-regatta-lateral/merged/pedicle-screw--seaspine-orthopedics-corporation--seaspine-meridian-seaspine-regatta-lateral.json",
+        "bytes": 946
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

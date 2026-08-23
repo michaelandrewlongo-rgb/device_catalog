@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K052211",
+  "clearance_date": "2005-09-14",
+  "device_class": 2,
+  "manufacturer_canonical": "medtronic",
+  "manufacturer_raw": "Medtronic Neurosurgery",
+  "catalog_category": "dural-substitute",
+  "device_name_fda": "DUREPAIR DURA REGENERATION MATRIX",
+  "product_code": "GXQ",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "dural-substitute--medtronic--durepair-dura-regeneration-matrix",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf05/K052211.pdf"
+}

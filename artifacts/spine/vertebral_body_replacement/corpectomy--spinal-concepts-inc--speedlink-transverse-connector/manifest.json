@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--spinal-concepts-inc--speedlink-transverse-connector",
+  "artifact_folder": "corpectomy--spinal-concepts-inc--speedlink-transverse-connector",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3215,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--spinal-concepts-inc--speedlink-transverse-connector.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--spinal-concepts-inc--speedlink-transverse-connector/enriched/corpectomy--spinal-concepts-inc--speedlink-transverse-connector.json",
+        "bytes": 1767
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K002082.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--spinal-concepts-inc--speedlink-transverse-connector/fda_raw/KWP/K002082.json",
+        "bytes": 600
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--spinal-concepts-inc--speedlink-transverse-connector.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--spinal-concepts-inc--speedlink-transverse-connector/merged/corpectomy--spinal-concepts-inc--speedlink-transverse-connector.json",
+        "bytes": 848
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

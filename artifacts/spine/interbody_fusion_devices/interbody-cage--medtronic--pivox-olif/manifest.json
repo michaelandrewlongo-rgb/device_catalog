@@ -1,0 +1,21 @@
+{
+  "device_slug": "interbody-cage--medtronic--pivox-olif",
+  "artifact_folder": "interbody-cage--medtronic--pivox-olif",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 2079,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/interbody-cage--medtronic--pivox-olif--knowledge.md",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--pivox-olif/data_by_device/interbody-cage--medtronic--pivox-olif--knowledge.md",
+        "bytes": 2079
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

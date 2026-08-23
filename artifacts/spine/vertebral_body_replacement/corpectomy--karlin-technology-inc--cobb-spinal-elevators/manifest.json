@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--karlin-technology-inc--cobb-spinal-elevators",
+  "artifact_folder": "corpectomy--karlin-technology-inc--cobb-spinal-elevators",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2819,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--karlin-technology-inc--cobb-spinal-elevators.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--karlin-technology-inc--cobb-spinal-elevators/enriched/corpectomy--karlin-technology-inc--cobb-spinal-elevators.json",
+        "bytes": 1406
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K882068.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--karlin-technology-inc--cobb-spinal-elevators/fda_raw/KWP/K882068.json",
+        "bytes": 588
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--karlin-technology-inc--cobb-spinal-elevators.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--karlin-technology-inc--cobb-spinal-elevators/merged/corpectomy--karlin-technology-inc--cobb-spinal-elevators.json",
+        "bytes": 825
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

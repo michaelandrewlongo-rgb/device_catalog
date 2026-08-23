@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--stryker--caspian-spinal-screws-rods-hooks",
+  "artifact_folder": "corpectomy--stryker--caspian-spinal-screws-rods-hooks",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3203,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--stryker--caspian-spinal-screws-rods-hooks.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--stryker--caspian-spinal-screws-rods-hooks/enriched/corpectomy--stryker--caspian-spinal-screws-rods-hooks.json",
+        "bytes": 1727
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K081107.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--stryker--caspian-spinal-screws-rods-hooks/fda_raw/KWP/K081107.json",
+        "bytes": 594
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--stryker--caspian-spinal-screws-rods-hooks.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--stryker--caspian-spinal-screws-rods-hooks/merged/corpectomy--stryker--caspian-spinal-screws-rods-hooks.json",
+        "bytes": 882
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

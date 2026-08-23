@@ -1,0 +1,45 @@
+{
+  "device_slug": "pedicle-screw--medyssey-usa-inc--medussa-pl-cage",
+  "artifact_folder": "pedicle-screw--medyssey-usa-inc--medussa-pl-cage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 3888,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--medyssey-usa-inc--medussa-pl-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medyssey-usa-inc--medussa-pl-cage/enriched/pedicle-screw--medyssey-usa-inc--medussa-pl-cage.json",
+        "bytes": 1384
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K170341.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medyssey-usa-inc--medussa-pl-cage/fda_raw/MAX/K170341.json",
+        "bytes": 567
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K200283.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medyssey-usa-inc--medussa-pl-cage/fda_raw/MAX/K200283.json",
+        "bytes": 567
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K223654.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medyssey-usa-inc--medussa-pl-cage/fda_raw/MAX/K223654.json",
+        "bytes": 567
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--medyssey-usa-inc--medussa-pl-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medyssey-usa-inc--medussa-pl-cage/merged/pedicle-screw--medyssey-usa-inc--medussa-pl-cage.json",
+        "bytes": 803
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

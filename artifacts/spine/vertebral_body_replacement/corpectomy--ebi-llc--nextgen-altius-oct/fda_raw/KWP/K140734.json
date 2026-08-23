@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K140734",
+  "clearance_date": "2014-12-15",
+  "device_class": 2,
+  "manufacturer_canonical": "ebi-llc",
+  "manufacturer_raw": "Ebi, LLC",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "NEXTGEN ALTIUS OCT SYSTEM",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--ebi-llc--nextgen-altius-oct",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf14/K140734.pdf"
+}

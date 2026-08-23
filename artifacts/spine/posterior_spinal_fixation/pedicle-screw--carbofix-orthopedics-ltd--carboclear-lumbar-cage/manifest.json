@@ -1,0 +1,42 @@
+{
+  "device_slug": "pedicle-screw--carbofix-orthopedics-ltd--carboclear-lumbar-cage",
+  "artifact_folder": "pedicle-screw--carbofix-orthopedics-ltd--carboclear-lumbar-cage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3830,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--carbofix-orthopedics-ltd--carboclear-lumbar-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--carbofix-orthopedics-ltd--carboclear-lumbar-cage/enriched/pedicle-screw--carbofix-orthopedics-ltd--carboclear-lumbar-cage.json",
+        "bytes": 1725
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/pedicle-screw--carbofix-orthopedics-ltd--carboclear-lumbar-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--carbofix-orthopedics-ltd--carboclear-lumbar-cage/extracted/fda_structured/pedicle-screw--carbofix-orthopedics-ltd--carboclear-lumbar-cage.json",
+        "bytes": 638
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K193378.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--carbofix-orthopedics-ltd--carboclear-lumbar-cage/fda_raw/MAX/K193378.json",
+        "bytes": 613
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--carbofix-orthopedics-ltd--carboclear-lumbar-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--carbofix-orthopedics-ltd--carboclear-lumbar-cage/merged/pedicle-screw--carbofix-orthopedics-ltd--carboclear-lumbar-cage.json",
+        "bytes": 854
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

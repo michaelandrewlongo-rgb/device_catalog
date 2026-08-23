@@ -1,0 +1,85 @@
+{
+  "device_slug": "cervical-plate--medtronic--modification-to-verte-stack-spinal",
+  "artifact_folder": "cervical-plate--medtronic--modification-to-verte-stack-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 13,
+  "bytes": 8982,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--medtronic--modification-to-verte-stack-spinal.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--modification-to-verte-stack-spinal/enriched/cervical-plate--medtronic--modification-to-verte-stack-spinal.json",
+        "bytes": 1443
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K023570.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--modification-to-verte-stack-spinal/fda_raw/MQP/K023570.json",
+        "bytes": 605
+      },
+      {
+        "source": "pipeline/data/fda_raw/MQP/K040536.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--modification-to-verte-stack-spinal/fda_raw/MQP/K040536.json",
+        "bytes": 605
+      },
+      {
+        "source": "pipeline/data/fda_raw/MQP/K041197.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--modification-to-verte-stack-spinal/fda_raw/MQP/K041197.json",
+        "bytes": 605
+      },
+      {
+        "source": "pipeline/data/fda_raw/MQP/K041452.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--modification-to-verte-stack-spinal/fda_raw/MQP/K041452.json",
+        "bytes": 605
+      },
+      {
+        "source": "pipeline/data/fda_raw/MQP/K041556.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--modification-to-verte-stack-spinal/fda_raw/MQP/K041556.json",
+        "bytes": 605
+      },
+      {
+        "source": "pipeline/data/fda_raw/MQP/K043561.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--modification-to-verte-stack-spinal/fda_raw/MQP/K043561.json",
+        "bytes": 605
+      },
+      {
+        "source": "pipeline/data/fda_raw/MQP/K043566.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--modification-to-verte-stack-spinal/fda_raw/MQP/K043566.json",
+        "bytes": 605
+      },
+      {
+        "source": "pipeline/data/fda_raw/MQP/K052261.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--modification-to-verte-stack-spinal/fda_raw/MQP/K052261.json",
+        "bytes": 616
+      },
+      {
+        "source": "pipeline/data/fda_raw/MQP/K052931.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--modification-to-verte-stack-spinal/fda_raw/MQP/K052931.json",
+        "bytes": 605
+      },
+      {
+        "source": "pipeline/data/fda_raw/MQP/K060719.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--modification-to-verte-stack-spinal/fda_raw/MQP/K060719.json",
+        "bytes": 605
+      },
+      {
+        "source": "pipeline/data/fda_raw/MQP/K062133.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--modification-to-verte-stack-spinal/fda_raw/MQP/K062133.json",
+        "bytes": 616
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--medtronic--modification-to-verte-stack-spinal.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--modification-to-verte-stack-spinal/merged/cervical-plate--medtronic--modification-to-verte-stack-spinal.json",
+        "bytes": 862
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "device_slug": "reference--viktors-notes--instruments-materials--chapter",
+  "artifact_folder": "reference--viktors-notes--instruments-materials--chapter",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 2,
+  "bytes": 3353961,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/reference--viktors-notes--instruments-materials--chapter.pdf",
+        "artifact": "artifacts/_outside_seed_registries/reference/reference--viktors-notes--instruments-materials--chapter/data_by_device/reference--viktors-notes--instruments-materials--chapter.pdf",
+        "bytes": 3351358
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/documents/reference--viktors-notes--instruments-materials--chapter.json",
+        "artifact": "artifacts/_outside_seed_registries/reference/reference--viktors-notes--instruments-materials--chapter/extracted/documents/reference--viktors-notes--instruments-materials--chapter.json",
+        "bytes": 2603
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "reference",
+    "label": "Outside listed seed registries"
+  }
+}

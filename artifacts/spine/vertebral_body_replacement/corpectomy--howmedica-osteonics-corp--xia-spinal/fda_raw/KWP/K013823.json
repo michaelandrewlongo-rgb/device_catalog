@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K013823",
+  "clearance_date": "2001-12-19",
+  "device_class": 2,
+  "manufacturer_canonical": "howmedica-osteonics-corp",
+  "manufacturer_raw": "Howmedica Osteonics Corp.",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "XIA SPINAL SYSTEM",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--howmedica-osteonics-corp--xia-spinal",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf01/K013823.pdf"
+}

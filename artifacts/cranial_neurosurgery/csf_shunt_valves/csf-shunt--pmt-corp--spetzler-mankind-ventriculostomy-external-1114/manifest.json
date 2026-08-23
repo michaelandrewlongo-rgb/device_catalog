@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--pmt-corp--spetzler-mankind-ventriculostomy-external-1114",
+  "artifact_folder": "csf-shunt--pmt-corp--spetzler-mankind-ventriculostomy-external-1114",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2930,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--pmt-corp--spetzler-mankind-ventriculostomy-external-1114.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--pmt-corp--spetzler-mankind-ventriculostomy-external-1114/enriched/csf-shunt--pmt-corp--spetzler-mankind-ventriculostomy-external-1114.json",
+        "bytes": 1457
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K883114.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--pmt-corp--spetzler-mankind-ventriculostomy-external-1114/fda_raw/JXG/K883114.json",
+        "bytes": 597
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--pmt-corp--spetzler-mankind-ventriculostomy-external-1114.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--pmt-corp--spetzler-mankind-ventriculostomy-external-1114/merged/csf-shunt--pmt-corp--spetzler-mankind-ventriculostomy-external-1114.json",
+        "bytes": 876
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

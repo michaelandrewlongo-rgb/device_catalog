@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--blackstone-medical-inc--blackstone-ascent-poct-parallel-rod",
+  "artifact_folder": "corpectomy--blackstone-medical-inc--blackstone-ascent-poct-parallel-rod",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3023,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--blackstone-medical-inc--blackstone-ascent-poct-parallel-rod.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--blackstone-medical-inc--blackstone-ascent-poct-parallel-rod/enriched/corpectomy--blackstone-medical-inc--blackstone-ascent-poct-parallel-rod.json",
+        "bytes": 1484
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K073654.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--blackstone-medical-inc--blackstone-ascent-poct-parallel-rod/fda_raw/KWP/K073654.json",
+        "bytes": 636
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--blackstone-medical-inc--blackstone-ascent-poct-parallel-rod.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--blackstone-medical-inc--blackstone-ascent-poct-parallel-rod/merged/corpectomy--blackstone-medical-inc--blackstone-ascent-poct-parallel-rod.json",
+        "bytes": 903
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--double-medical-technology-inc--universal-spinal",
+  "artifact_folder": "interbody-cage--double-medical-technology-inc--universal-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2894,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--double-medical-technology-inc--universal-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--double-medical-technology-inc--universal-spinal/enriched/interbody-cage--double-medical-technology-inc--universal-spinal.json",
+        "bytes": 1429
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K252729.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--double-medical-technology-inc--universal-spinal/fda_raw/NKB/K252729.json",
+        "bytes": 617
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--double-medical-technology-inc--universal-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--double-medical-technology-inc--universal-spinal/merged/interbody-cage--double-medical-technology-inc--universal-spinal.json",
+        "bytes": 848
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

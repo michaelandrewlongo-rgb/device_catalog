@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--exactech-inc--octane-elevate-spinal-implant",
+  "artifact_folder": "pedicle-screw--exactech-inc--octane-elevate-spinal-implant",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2873,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--exactech-inc--octane-elevate-spinal-implant.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--exactech-inc--octane-elevate-spinal-implant/enriched/pedicle-screw--exactech-inc--octane-elevate-spinal-implant.json",
+        "bytes": 1432
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K123607.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--exactech-inc--octane-elevate-spinal-implant/fda_raw/MAX/K123607.json",
+        "bytes": 590
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--exactech-inc--octane-elevate-spinal-implant.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--exactech-inc--octane-elevate-spinal-implant/merged/pedicle-screw--exactech-inc--octane-elevate-spinal-implant.json",
+        "bytes": 851
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

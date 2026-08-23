@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--beijing-fule-science-technology-development-co-ltd--fule-spinal-fixation",
+  "artifact_folder": "interbody-cage--beijing-fule-science-technology-development-co-ltd--fule-spinal-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3076,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--beijing-fule-science-technology-development-co-ltd--fule-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--beijing-fule-science-technology-development-co-ltd--fule-spinal-fixation/enriched/interbody-cage--beijing-fule-science-technology-development-co-ltd--fule-spinal-fixation.json",
+        "bytes": 1483
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K252730.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--beijing-fule-science-technology-development-co-ltd--fule-spinal-fixation/fda_raw/NKB/K252730.json",
+        "bytes": 691
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--beijing-fule-science-technology-development-co-ltd--fule-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--beijing-fule-science-technology-development-co-ltd--fule-spinal-fixation/merged/interbody-cage--beijing-fule-science-technology-development-co-ltd--fule-spinal-fixation.json",
+        "bytes": 902
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

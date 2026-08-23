@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--neuron-therapeutics-inc--neuron-therapeutics-inc-14-gauge",
+  "artifact_folder": "csf-shunt--neuron-therapeutics-inc--neuron-therapeutics-inc-14-gauge",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3114,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--neuron-therapeutics-inc--neuron-therapeutics-inc-14-gauge.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--neuron-therapeutics-inc--neuron-therapeutics-inc-14-gauge/enriched/csf-shunt--neuron-therapeutics-inc--neuron-therapeutics-inc-14-gauge.json",
+        "bytes": 1521
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K021196.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--neuron-therapeutics-inc--neuron-therapeutics-inc-14-gauge/fda_raw/JXG/K021196.json",
+        "bytes": 653
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--neuron-therapeutics-inc--neuron-therapeutics-inc-14-gauge.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--neuron-therapeutics-inc--neuron-therapeutics-inc-14-gauge/merged/csf-shunt--neuron-therapeutics-inc--neuron-therapeutics-inc-14-gauge.json",
+        "bytes": 940
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

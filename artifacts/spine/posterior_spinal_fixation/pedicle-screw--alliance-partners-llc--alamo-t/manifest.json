@@ -1,0 +1,47 @@
+{
+  "device_slug": "pedicle-screw--alliance-partners-llc--alamo-t",
+  "artifact_folder": "pedicle-screw--alliance-partners-llc--alamo-t",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 4091,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--alliance-partners-llc--alamo-t.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--alliance-partners-llc--alamo-t/enriched/pedicle-screw--alliance-partners-llc--alamo-t.json",
+        "bytes": 1608
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/pedicle-screw--alliance-partners-llc--alamo-t.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--alliance-partners-llc--alamo-t/extracted/fda_structured/pedicle-screw--alliance-partners-llc--alamo-t.json",
+        "bytes": 564
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K120401.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--alliance-partners-llc--alamo-t/fda_raw/MAX/K120401.json",
+        "bytes": 565
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K140303.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--alliance-partners-llc--alamo-t/fda_raw/MAX/K140303.json",
+        "bytes": 565
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--alliance-partners-llc--alamo-t.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--alliance-partners-llc--alamo-t/merged/pedicle-screw--alliance-partners-llc--alamo-t.json",
+        "bytes": 789
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

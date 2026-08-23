@@ -1,0 +1,21 @@
+{
+  "device_slug": "pedicle-screw--captiva-spine-inc--pivotec-lumbar-interbody-fusion-lifd-recalls",
+  "artifact_folder": "pedicle-screw--captiva-spine-inc--pivotec-lumbar-interbody-fusion-lifd-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 8900,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/pedicle-screw--captiva-spine-inc--pivotec-lumbar-interbody-fusion-lifd-recalls.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--captiva-spine-inc--pivotec-lumbar-interbody-fusion-lifd-recalls/extracted/fda_safety/pedicle-screw--captiva-spine-inc--pivotec-lumbar-interbody-fusion-lifd-recalls.json",
+        "bytes": 8900
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

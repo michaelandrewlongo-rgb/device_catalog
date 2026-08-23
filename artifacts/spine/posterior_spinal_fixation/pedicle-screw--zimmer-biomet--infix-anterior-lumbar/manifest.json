@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--zimmer-biomet--infix-anterior-lumbar",
+  "artifact_folder": "pedicle-screw--zimmer-biomet--infix-anterior-lumbar",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2819,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--zimmer-biomet--infix-anterior-lumbar.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--zimmer-biomet--infix-anterior-lumbar/enriched/pedicle-screw--zimmer-biomet--infix-anterior-lumbar.json",
+        "bytes": 1410
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K132790.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--zimmer-biomet--infix-anterior-lumbar/fda_raw/MAX/K132790.json",
+        "bytes": 580
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--zimmer-biomet--infix-anterior-lumbar.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--zimmer-biomet--infix-anterior-lumbar/merged/pedicle-screw--zimmer-biomet--infix-anterior-lumbar.json",
+        "bytes": 829
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

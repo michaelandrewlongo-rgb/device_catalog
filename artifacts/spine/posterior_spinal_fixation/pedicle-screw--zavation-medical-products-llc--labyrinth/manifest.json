@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--zavation-medical-products-llc--labyrinth",
+  "artifact_folder": "pedicle-screw--zavation-medical-products-llc--labyrinth",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2796,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--zavation-medical-products-llc--labyrinth.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--zavation-medical-products-llc--labyrinth/enriched/pedicle-screw--zavation-medical-products-llc--labyrinth.json",
+        "bytes": 1392
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K211306.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--zavation-medical-products-llc--labyrinth/fda_raw/MAX/K211306.json",
+        "bytes": 593
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--zavation-medical-products-llc--labyrinth.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--zavation-medical-products-llc--labyrinth/merged/pedicle-screw--zavation-medical-products-llc--labyrinth.json",
+        "bytes": 811
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

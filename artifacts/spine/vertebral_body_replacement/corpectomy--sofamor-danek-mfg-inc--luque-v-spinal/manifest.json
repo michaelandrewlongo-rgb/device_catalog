@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--sofamor-danek-mfg-inc--luque-v-spinal",
+  "artifact_folder": "corpectomy--sofamor-danek-mfg-inc--luque-v-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2799,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--sofamor-danek-mfg-inc--luque-v-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sofamor-danek-mfg-inc--luque-v-spinal/enriched/corpectomy--sofamor-danek-mfg-inc--luque-v-spinal.json",
+        "bytes": 1399
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K921256.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sofamor-danek-mfg-inc--luque-v-spinal/fda_raw/KWP/K921256.json",
+        "bytes": 582
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--sofamor-danek-mfg-inc--luque-v-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sofamor-danek-mfg-inc--luque-v-spinal/merged/corpectomy--sofamor-danek-mfg-inc--luque-v-spinal.json",
+        "bytes": 818
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

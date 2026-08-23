@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--spine-wave-inc--staxx-r-ib",
+  "artifact_folder": "pedicle-screw--spine-wave-inc--staxx-r-ib",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2740,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--spine-wave-inc--staxx-r-ib.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spine-wave-inc--staxx-r-ib/enriched/pedicle-screw--spine-wave-inc--staxx-r-ib.json",
+        "bytes": 1381
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K123461.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spine-wave-inc--staxx-r-ib/fda_raw/MAX/K123461.json",
+        "bytes": 559
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--spine-wave-inc--staxx-r-ib.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spine-wave-inc--staxx-r-ib/merged/pedicle-screw--spine-wave-inc--staxx-r-ib.json",
+        "bytes": 800
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

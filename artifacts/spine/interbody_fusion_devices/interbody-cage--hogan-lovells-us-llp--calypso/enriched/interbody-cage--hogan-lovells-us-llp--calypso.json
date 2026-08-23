@@ -1,0 +1,61 @@
+{
+  "device_name": "CALYPSO SYSTEM",
+  "manufacturer": "hogan-lovells-us-llp",
+  "catalog_category": "interbody-cage",
+  "filename_stem": "interbody-cage--hogan-lovells-us-llp--calypso",
+  "clearance_type": "510k",
+  "clearance_number": "K120564",
+  "clearance_date": "2012-07-16",
+  "device_class": 2,
+  "device_name_fda": "CALYPSO SYSTEM",
+  "product_code": "NKB",
+  "what_it_is": "The Calypso System utilizes non-ionizing electromagnetic and optical technology to provide accurate, objective, and continuous localization of a treatment target for patient alignment and target position monitoring during radiation therapy. Use of the Calypso System for target localization is based on the system’s detection of electromagnetic signals from passive implanted markers, called Beacon transponders. The Beacon transponders are placed on the patient’s skin surface or implanted in or near the treatment target. When used with the Calypso System, the Beacon transponder signals enable objective, continuous measurement of the localization of the treatment target in 3 dimensions. The system operator uses this information for patient alignment and continuous target positioning (i.e., tracking) during radiation therapy treatment.",
+  "sizing_specs": "Catalog: ASM0195; Model: 3",
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "MRI: Labeling does not contain MRI Safety Information. Pre-sterilized. Single-use",
+  "deployment_steps": null,
+  "also_known_as": [
+    "Calypso System",
+    "Radiation therapy invasive marker lesion localization system"
+  ],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf12/K120564.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "sizing_specs": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "indications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "also_known_as": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    }
+  }
+}

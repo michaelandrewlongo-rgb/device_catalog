@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K163456",
+  "clearance_date": "2017-01-06",
+  "device_class": 2,
+  "manufacturer_canonical": "integra",
+  "manufacturer_raw": "Integra LifeSciences Corporation",
+  "catalog_category": "dural-substitute",
+  "device_name_fda": "DuraGen Secure Dural Regeneration Matrix",
+  "product_code": "GXQ",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "dural-substitute--integra--duragen-secure-dural-regeneration-matrix",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf16/K163456.pdf"
+}

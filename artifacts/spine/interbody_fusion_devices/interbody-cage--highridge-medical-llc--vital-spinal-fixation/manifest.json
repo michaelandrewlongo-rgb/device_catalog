@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--highridge-medical-llc--vital-spinal-fixation",
+  "artifact_folder": "interbody-cage--highridge-medical-llc--vital-spinal-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2895,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--highridge-medical-llc--vital-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--highridge-medical-llc--vital-spinal-fixation/enriched/interbody-cage--highridge-medical-llc--vital-spinal-fixation.json",
+        "bytes": 1432
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K253093.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--highridge-medical-llc--vital-spinal-fixation/fda_raw/NKB/K253093.json",
+        "bytes": 604
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--highridge-medical-llc--vital-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--highridge-medical-llc--vital-spinal-fixation/merged/interbody-cage--highridge-medical-llc--vital-spinal-fixation.json",
+        "bytes": 859
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

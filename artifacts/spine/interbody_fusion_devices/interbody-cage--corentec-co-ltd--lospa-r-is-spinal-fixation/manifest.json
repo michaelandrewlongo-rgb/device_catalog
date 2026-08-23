@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--corentec-co-ltd--lospa-r-is-spinal-fixation",
+  "artifact_folder": "interbody-cage--corentec-co-ltd--lospa-r-is-spinal-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2903,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--corentec-co-ltd--lospa-r-is-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--corentec-co-ltd--lospa-r-is-spinal-fixation/enriched/interbody-cage--corentec-co-ltd--lospa-r-is-spinal-fixation.json",
+        "bytes": 1435
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K200267.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--corentec-co-ltd--lospa-r-is-spinal-fixation/fda_raw/NKB/K200267.json",
+        "bytes": 598
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--corentec-co-ltd--lospa-r-is-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--corentec-co-ltd--lospa-r-is-spinal-fixation/merged/interbody-cage--corentec-co-ltd--lospa-r-is-spinal-fixation.json",
+        "bytes": 870
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

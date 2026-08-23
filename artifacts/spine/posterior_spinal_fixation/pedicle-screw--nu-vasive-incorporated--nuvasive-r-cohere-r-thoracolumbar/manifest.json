@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--nu-vasive-incorporated--nuvasive-r-cohere-r-thoracolumbar",
+  "artifact_folder": "pedicle-screw--nu-vasive-incorporated--nuvasive-r-cohere-r-thoracolumbar",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3040,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--nu-vasive-incorporated--nuvasive-r-cohere-r-thoracolumbar.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nu-vasive-incorporated--nuvasive-r-cohere-r-thoracolumbar/enriched/pedicle-screw--nu-vasive-incorporated--nuvasive-r-cohere-r-thoracolumbar.json",
+        "bytes": 1484
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K200953.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nu-vasive-incorporated--nuvasive-r-cohere-r-thoracolumbar/fda_raw/MAX/K200953.json",
+        "bytes": 637
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--nu-vasive-incorporated--nuvasive-r-cohere-r-thoracolumbar.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nu-vasive-incorporated--nuvasive-r-cohere-r-thoracolumbar/merged/pedicle-screw--nu-vasive-incorporated--nuvasive-r-cohere-r-thoracolumbar.json",
+        "bytes": 919
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

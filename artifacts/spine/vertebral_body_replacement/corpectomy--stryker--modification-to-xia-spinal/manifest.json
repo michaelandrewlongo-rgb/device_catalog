@@ -1,0 +1,40 @@
+{
+  "device_slug": "corpectomy--stryker--modification-to-xia-spinal",
+  "artifact_folder": "corpectomy--stryker--modification-to-xia-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3631,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--stryker--modification-to-xia-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--stryker--modification-to-xia-spinal/enriched/corpectomy--stryker--modification-to-xia-spinal.json",
+        "bytes": 1671
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K043473.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--stryker--modification-to-xia-spinal/fda_raw/KWP/K043473.json",
+        "bytes": 567
+      },
+      {
+        "source": "pipeline/data/fda_raw/KWP/K052181.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--stryker--modification-to-xia-spinal/fda_raw/KWP/K052181.json",
+        "bytes": 567
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--stryker--modification-to-xia-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--stryker--modification-to-xia-spinal/merged/corpectomy--stryker--modification-to-xia-spinal.json",
+        "bytes": 826
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

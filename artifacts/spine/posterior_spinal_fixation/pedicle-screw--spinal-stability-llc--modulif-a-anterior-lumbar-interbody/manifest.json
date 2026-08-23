@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--spinal-stability-llc--modulif-a-anterior-lumbar-interbody",
+  "artifact_folder": "pedicle-screw--spinal-stability-llc--modulif-a-anterior-lumbar-interbody",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3011,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--spinal-stability-llc--modulif-a-anterior-lumbar-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinal-stability-llc--modulif-a-anterior-lumbar-interbody/enriched/pedicle-screw--spinal-stability-llc--modulif-a-anterior-lumbar-interbody.json",
+        "bytes": 1480
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K200958.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinal-stability-llc--modulif-a-anterior-lumbar-interbody/fda_raw/MAX/K200958.json",
+        "bytes": 632
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--spinal-stability-llc--modulif-a-anterior-lumbar-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinal-stability-llc--modulif-a-anterior-lumbar-interbody/merged/pedicle-screw--spinal-stability-llc--modulif-a-anterior-lumbar-interbody.json",
+        "bytes": 899
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

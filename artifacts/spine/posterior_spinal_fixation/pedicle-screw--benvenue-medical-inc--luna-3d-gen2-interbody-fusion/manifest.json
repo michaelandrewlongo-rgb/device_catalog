@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--benvenue-medical-inc--luna-3d-gen2-interbody-fusion",
+  "artifact_folder": "pedicle-screw--benvenue-medical-inc--luna-3d-gen2-interbody-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2929,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--benvenue-medical-inc--luna-3d-gen2-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--benvenue-medical-inc--luna-3d-gen2-interbody-fusion/enriched/pedicle-screw--benvenue-medical-inc--luna-3d-gen2-interbody-fusion.json",
+        "bytes": 1448
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K183560.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--benvenue-medical-inc--luna-3d-gen2-interbody-fusion/fda_raw/MAX/K183560.json",
+        "bytes": 614
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--benvenue-medical-inc--luna-3d-gen2-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--benvenue-medical-inc--luna-3d-gen2-interbody-fusion/merged/pedicle-screw--benvenue-medical-inc--luna-3d-gen2-interbody-fusion.json",
+        "bytes": 867
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

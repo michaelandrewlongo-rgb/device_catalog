@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--aesculap-implant-systems--modification-to-s4-spinal",
+  "artifact_folder": "interbody-cage--aesculap-implant-systems--modification-to-s4-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3404,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--aesculap-implant-systems--modification-to-s4-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--aesculap-implant-systems--modification-to-s4-spinal/enriched/interbody-cage--aesculap-implant-systems--modification-to-s4-spinal.json",
+        "bytes": 1918
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K090657.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--aesculap-implant-systems--modification-to-s4-spinal/fda_raw/NKB/K090657.json",
+        "bytes": 619
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--aesculap-implant-systems--modification-to-s4-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--aesculap-implant-systems--modification-to-s4-spinal/merged/interbody-cage--aesculap-implant-systems--modification-to-s4-spinal.json",
+        "bytes": 867
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

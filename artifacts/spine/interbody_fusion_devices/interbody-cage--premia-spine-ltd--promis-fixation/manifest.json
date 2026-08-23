@@ -1,0 +1,45 @@
+{
+  "device_slug": "interbody-cage--premia-spine-ltd--promis-fixation",
+  "artifact_folder": "interbody-cage--premia-spine-ltd--promis-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 3951,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--premia-spine-ltd--promis-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--premia-spine-ltd--promis-fixation/enriched/interbody-cage--premia-spine-ltd--promis-fixation.json",
+        "bytes": 1400
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K150380.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--premia-spine-ltd--promis-fixation/fda_raw/NKB/K150380.json",
+        "bytes": 576
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K170061.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--premia-spine-ltd--promis-fixation/fda_raw/NKB/K170061.json",
+        "bytes": 578
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K231844.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--premia-spine-ltd--promis-fixation/fda_raw/NKB/K231844.json",
+        "bytes": 578
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--premia-spine-ltd--promis-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--premia-spine-ltd--promis-fixation/merged/interbody-cage--premia-spine-ltd--promis-fixation.json",
+        "bytes": 819
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--johnson-johnson--viper-s",
+  "artifact_folder": "interbody-cage--johnson-johnson--viper-s",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2719,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--johnson-johnson--viper-s.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--johnson-johnson--viper-s/enriched/interbody-cage--johnson-johnson--viper-s.json",
+        "bytes": 1372
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K111571.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--johnson-johnson--viper-s/fda_raw/NKB/K111571.json",
+        "bytes": 556
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--johnson-johnson--viper-s.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--johnson-johnson--viper-s/merged/interbody-cage--johnson-johnson--viper-s.json",
+        "bytes": 791
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

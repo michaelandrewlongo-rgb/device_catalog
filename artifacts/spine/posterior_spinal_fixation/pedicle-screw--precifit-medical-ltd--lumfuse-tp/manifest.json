@@ -1,0 +1,40 @@
+{
+  "device_slug": "pedicle-screw--precifit-medical-ltd--lumfuse-tp",
+  "artifact_folder": "pedicle-screw--precifit-medical-ltd--lumfuse-tp",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3311,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--precifit-medical-ltd--lumfuse-tp.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--precifit-medical-ltd--lumfuse-tp/enriched/pedicle-screw--precifit-medical-ltd--lumfuse-tp.json",
+        "bytes": 1377
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K171630.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--precifit-medical-ltd--lumfuse-tp/fda_raw/MAX/K171630.json",
+        "bytes": 569
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K173189.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--precifit-medical-ltd--lumfuse-tp/fda_raw/MAX/K173189.json",
+        "bytes": 569
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--precifit-medical-ltd--lumfuse-tp.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--precifit-medical-ltd--lumfuse-tp/merged/pedicle-screw--precifit-medical-ltd--lumfuse-tp.json",
+        "bytes": 796
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

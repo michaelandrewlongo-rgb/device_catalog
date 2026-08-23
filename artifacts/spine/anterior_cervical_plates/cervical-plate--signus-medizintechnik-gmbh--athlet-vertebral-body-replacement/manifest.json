@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--signus-medizintechnik-gmbh--athlet-vertebral-body-replacement",
+  "artifact_folder": "cervical-plate--signus-medizintechnik-gmbh--athlet-vertebral-body-replacement",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3007,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--signus-medizintechnik-gmbh--athlet-vertebral-body-replacement.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--signus-medizintechnik-gmbh--athlet-vertebral-body-replacement/enriched/cervical-plate--signus-medizintechnik-gmbh--athlet-vertebral-body-replacement.json",
+        "bytes": 1474
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K081332.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--signus-medizintechnik-gmbh--athlet-vertebral-body-replacement/fda_raw/MQP/K081332.json",
+        "bytes": 640
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--signus-medizintechnik-gmbh--athlet-vertebral-body-replacement.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--signus-medizintechnik-gmbh--athlet-vertebral-body-replacement/merged/cervical-plate--signus-medizintechnik-gmbh--athlet-vertebral-body-replacement.json",
+        "bytes": 893
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "device_slug": "pedicle-screw--advanced-research-medical-llc--lumbar-interbody-fusion-ollif",
+  "artifact_folder": "pedicle-screw--advanced-research-medical-llc--lumbar-interbody-fusion-ollif",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 4283,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--advanced-research-medical-llc--lumbar-interbody-fusion-ollif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--advanced-research-medical-llc--lumbar-interbody-fusion-ollif/enriched/pedicle-screw--advanced-research-medical-llc--lumbar-interbody-fusion-ollif.json",
+        "bytes": 2064
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/pedicle-screw--advanced-research-medical-llc--lumbar-interbody-fusion-ollif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--advanced-research-medical-llc--lumbar-interbody-fusion-ollif/extracted/fda_structured/pedicle-screw--advanced-research-medical-llc--lumbar-interbody-fusion-ollif.json",
+        "bytes": 688
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K173947.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--advanced-research-medical-llc--lumbar-interbody-fusion-ollif/fda_raw/MAX/K173947.json",
+        "bytes": 642
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--advanced-research-medical-llc--lumbar-interbody-fusion-ollif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--advanced-research-medical-llc--lumbar-interbody-fusion-ollif/merged/pedicle-screw--advanced-research-medical-llc--lumbar-interbody-fusion-ollif.json",
+        "bytes": 889
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

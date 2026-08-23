@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--nuvasive--coroent-ti-c",
+  "artifact_folder": "pedicle-screw--nuvasive--coroent-ti-c",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2713,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--nuvasive--coroent-ti-c.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nuvasive--coroent-ti-c/enriched/pedicle-screw--nuvasive--coroent-ti-c.json",
+        "bytes": 1373
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K140319.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nuvasive--coroent-ti-c/fda_raw/MAX/K140319.json",
+        "bytes": 548
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--nuvasive--coroent-ti-c.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nuvasive--coroent-ti-c/merged/pedicle-screw--nuvasive--coroent-ti-c.json",
+        "bytes": 792
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

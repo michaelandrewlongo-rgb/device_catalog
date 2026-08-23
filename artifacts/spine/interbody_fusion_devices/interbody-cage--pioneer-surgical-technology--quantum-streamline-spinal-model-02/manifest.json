@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--pioneer-surgical-technology--quantum-streamline-spinal-model-02",
+  "artifact_folder": "interbody-cage--pioneer-surgical-technology--quantum-streamline-spinal-model-02",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3354,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--pioneer-surgical-technology--quantum-streamline-spinal-model-02.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--pioneer-surgical-technology--quantum-streamline-spinal-model-02/enriched/interbody-cage--pioneer-surgical-technology--quantum-streamline-spinal-model-02.json",
+        "bytes": 1745
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K093692.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--pioneer-surgical-technology--quantum-streamline-spinal-model-02/fda_raw/NKB/K093692.json",
+        "bytes": 667
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--pioneer-surgical-technology--quantum-streamline-spinal-model-02.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--pioneer-surgical-technology--quantum-streamline-spinal-model-02/merged/interbody-cage--pioneer-surgical-technology--quantum-streamline-spinal-model-02.json",
+        "bytes": 942
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

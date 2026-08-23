@@ -1,0 +1,42 @@
+{
+  "device_slug": "corpectomy--sofamor-danek-usa-inc--tenor-spinal",
+  "artifact_folder": "corpectomy--sofamor-danek-usa-inc--tenor-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 4055,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--sofamor-danek-usa-inc--tenor-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sofamor-danek-usa-inc--tenor-spinal/enriched/corpectomy--sofamor-danek-usa-inc--tenor-spinal.json",
+        "bytes": 2080
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/corpectomy--sofamor-danek-usa-inc--tenor-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sofamor-danek-usa-inc--tenor-spinal/extracted/fda_structured/corpectomy--sofamor-danek-usa-inc--tenor-spinal.json",
+        "bytes": 587
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K982490.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sofamor-danek-usa-inc--tenor-spinal/fda_raw/KWP/K982490.json",
+        "bytes": 576
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--sofamor-danek-usa-inc--tenor-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sofamor-danek-usa-inc--tenor-spinal/merged/corpectomy--sofamor-danek-usa-inc--tenor-spinal.json",
+        "bytes": 812
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

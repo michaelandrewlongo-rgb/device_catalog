@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--seaspine-orthopedics-corporation--seaspine-beachside",
+  "artifact_folder": "pedicle-screw--seaspine-orthopedics-corporation--seaspine-beachside",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2923,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--seaspine-orthopedics-corporation--seaspine-beachside.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--seaspine-orthopedics-corporation--seaspine-beachside/enriched/pedicle-screw--seaspine-orthopedics-corporation--seaspine-beachside.json",
+        "bytes": 1439
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K192132.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--seaspine-orthopedics-corporation--seaspine-beachside/fda_raw/MAX/K192132.json",
+        "bytes": 626
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--seaspine-orthopedics-corporation--seaspine-beachside.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--seaspine-orthopedics-corporation--seaspine-beachside/merged/pedicle-screw--seaspine-orthopedics-corporation--seaspine-beachside.json",
+        "bytes": 858
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

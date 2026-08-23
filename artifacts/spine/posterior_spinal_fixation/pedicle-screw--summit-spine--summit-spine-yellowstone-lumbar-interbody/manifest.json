@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--summit-spine--summit-spine-yellowstone-lumbar-interbody",
+  "artifact_folder": "pedicle-screw--summit-spine--summit-spine-yellowstone-lumbar-interbody",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3002,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--summit-spine--summit-spine-yellowstone-lumbar-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--summit-spine--summit-spine-yellowstone-lumbar-interbody/enriched/pedicle-screw--summit-spine--summit-spine-yellowstone-lumbar-interbody.json",
+        "bytes": 1482
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K170572.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--summit-spine--summit-spine-yellowstone-lumbar-interbody/fda_raw/MAX/K170572.json",
+        "bytes": 619
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--summit-spine--summit-spine-yellowstone-lumbar-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--summit-spine--summit-spine-yellowstone-lumbar-interbody/merged/pedicle-screw--summit-spine--summit-spine-yellowstone-lumbar-interbody.json",
+        "bytes": 901
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

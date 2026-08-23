@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-button-valve",
+  "artifact_folder": "csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-button-valve",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2932,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-button-valve.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-button-valve/enriched/csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-button-valve.json",
+        "bytes": 1440
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K911410.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-button-valve/fda_raw/JXG/K911410.json",
+        "bytes": 633
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-button-valve.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-button-valve/merged/csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-button-valve.json",
+        "bytes": 859
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--l-k-biomed-co-ltd--venus-interbody-fixation-venus-plif",
+  "artifact_folder": "pedicle-screw--l-k-biomed-co-ltd--venus-interbody-fixation-venus-plif",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3069,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--l-k-biomed-co-ltd--venus-interbody-fixation-venus-plif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--l-k-biomed-co-ltd--venus-interbody-fixation-venus-plif/enriched/pedicle-screw--l-k-biomed-co-ltd--venus-interbody-fixation-venus-plif.json",
+        "bytes": 1504
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K110783.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--l-k-biomed-co-ltd--venus-interbody-fixation-venus-plif/fda_raw/MAX/K110783.json",
+        "bytes": 642
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--l-k-biomed-co-ltd--venus-interbody-fixation-venus-plif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--l-k-biomed-co-ltd--venus-interbody-fixation-venus-plif/merged/pedicle-screw--l-k-biomed-co-ltd--venus-interbody-fixation-venus-plif.json",
+        "bytes": 923
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

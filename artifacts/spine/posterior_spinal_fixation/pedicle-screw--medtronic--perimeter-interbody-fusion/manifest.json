@@ -1,0 +1,60 @@
+{
+  "device_slug": "pedicle-screw--medtronic--perimeter-interbody-fusion",
+  "artifact_folder": "pedicle-screw--medtronic--perimeter-interbody-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 8,
+  "bytes": 5805,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--medtronic--perimeter-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--perimeter-interbody-fusion/enriched/pedicle-screw--medtronic--perimeter-interbody-fusion.json",
+        "bytes": 1417
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K090353.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--perimeter-interbody-fusion/fda_raw/MAX/K090353.json",
+        "bytes": 587
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K111525.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--perimeter-interbody-fusion/fda_raw/MAX/K111525.json",
+        "bytes": 587
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K113642.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--perimeter-interbody-fusion/fda_raw/MAX/K113642.json",
+        "bytes": 591
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K131669.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--perimeter-interbody-fusion/fda_raw/MAX/K131669.json",
+        "bytes": 597
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K132700.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--perimeter-interbody-fusion/fda_raw/MAX/K132700.json",
+        "bytes": 593
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K160418.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--perimeter-interbody-fusion/fda_raw/MAX/K160418.json",
+        "bytes": 597
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--medtronic--perimeter-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--perimeter-interbody-fusion/merged/pedicle-screw--medtronic--perimeter-interbody-fusion.json",
+        "bytes": 836
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "device_slug": "cervical-plate--omnia-medical-llc--omnia-medical-vbr",
+  "artifact_folder": "cervical-plate--omnia-medical-llc--omnia-medical-vbr",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3696,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--omnia-medical-llc--omnia-medical-vbr.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--omnia-medical-llc--omnia-medical-vbr/enriched/cervical-plate--omnia-medical-llc--omnia-medical-vbr.json",
+        "bytes": 1683
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/cervical-plate--omnia-medical-llc--omnia-medical-vbr.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--omnia-medical-llc--omnia-medical-vbr/extracted/fda_structured/cervical-plate--omnia-medical-llc--omnia-medical-vbr.json",
+        "bytes": 625
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K172323.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--omnia-medical-llc--omnia-medical-vbr/fda_raw/MQP/K172323.json",
+        "bytes": 575
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--omnia-medical-llc--omnia-medical-vbr.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--omnia-medical-llc--omnia-medical-vbr/merged/cervical-plate--omnia-medical-llc--omnia-medical-vbr.json",
+        "bytes": 813
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

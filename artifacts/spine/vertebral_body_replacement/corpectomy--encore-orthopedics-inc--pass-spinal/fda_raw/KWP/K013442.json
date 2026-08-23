@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K013442",
+  "clearance_date": "2002-01-15",
+  "device_class": 2,
+  "manufacturer_canonical": "encore-orthopedics-inc",
+  "manufacturer_raw": "Encore Orthopedics, Inc.",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "PASS SPINAL SYSTEM",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--encore-orthopedics-inc--pass-spinal",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf01/K013442.pdf"
+}

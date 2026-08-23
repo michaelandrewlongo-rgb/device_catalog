@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--ulrich-gmbh-co-kg--tangors-multifunctional-posterior",
+  "artifact_folder": "interbody-cage--ulrich-gmbh-co-kg--tangors-multifunctional-posterior",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2947,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--ulrich-gmbh-co-kg--tangors-multifunctional-posterior.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--ulrich-gmbh-co-kg--tangors-multifunctional-posterior/enriched/interbody-cage--ulrich-gmbh-co-kg--tangors-multifunctional-posterior.json",
+        "bytes": 1456
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K120891.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--ulrich-gmbh-co-kg--tangors-multifunctional-posterior/fda_raw/NKB/K120891.json",
+        "bytes": 616
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--ulrich-gmbh-co-kg--tangors-multifunctional-posterior.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--ulrich-gmbh-co-kg--tangors-multifunctional-posterior/merged/interbody-cage--ulrich-gmbh-co-kg--tangors-multifunctional-posterior.json",
+        "bytes": 875
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

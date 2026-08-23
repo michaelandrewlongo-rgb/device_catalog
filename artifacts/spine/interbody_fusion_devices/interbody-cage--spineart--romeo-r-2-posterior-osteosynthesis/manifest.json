@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--spineart--romeo-r-2-posterior-osteosynthesis",
+  "artifact_folder": "interbody-cage--spineart--romeo-r-2-posterior-osteosynthesis",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3333,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--spineart--romeo-r-2-posterior-osteosynthesis.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spineart--romeo-r-2-posterior-osteosynthesis/enriched/interbody-cage--spineart--romeo-r-2-posterior-osteosynthesis.json",
+        "bytes": 1877
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K172101.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spineart--romeo-r-2-posterior-osteosynthesis/fda_raw/NKB/K172101.json",
+        "bytes": 588
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--spineart--romeo-r-2-posterior-osteosynthesis.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spineart--romeo-r-2-posterior-osteosynthesis/merged/interbody-cage--spineart--romeo-r-2-posterior-osteosynthesis.json",
+        "bytes": 868
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

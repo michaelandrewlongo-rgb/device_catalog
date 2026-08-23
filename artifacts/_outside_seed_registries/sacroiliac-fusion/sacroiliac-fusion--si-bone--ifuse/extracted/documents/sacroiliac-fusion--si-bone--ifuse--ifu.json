@@ -1,0 +1,22 @@
+{
+  "source_pdf": "sacroiliac-fusion--si-bone--ifuse--ifu.pdf",
+  "device_name": "ifuse",
+  "manufacturer": "si-bone",
+  "doc_type": "ifu",
+  "extraction_method": "pdf_deepseek",
+  "fields": {
+    "what_it_is": "The iFuse Implant System consists of cannulated triangular, titanium (Ti 6Al4V ELI) implants with a porous surface and an instrument system. Implant surface and shape are designed to prevent rotation and motion of the sacroiliac (SI) joint including acute, non-acute, and non-traumatic fractures involving the SI joint. The instrument system uses guide pins for accurate placement.",
+    "sizing_specs": null,
+    "indications": "The iFuse Implant System is intended for sacroiliac fusion for the following conditions:\n- Sacroiliac joint dysfunction that is a direct result of sacroiliac joint disruption and degenerative sacroiliitis. This includes conditions whose symptoms began during pregnancy or in the peripartum period and have persisted postpartum for more than 6 months.\n- To augment immobilization and stabilization of the sacroiliac joint in skeletally mature patients undergoing sacropelvic fixation as part of a lumbar or thoracolumbar fusion.\n- Acute, non-acute, and non-traumatic fractures involving the sacroiliac joint.",
+    "contraindications": "- 1. Deformities or anatomic variations that prevent or interfere with iFuse placement.\n- 2. Tumor of sacral or ilial bone.\n- 3. Active infection at treatment site.\n- 4. Unstable fracture of sacrum and/or ilium involving the sacroiliac joint.\n- 5. Allergy to metal components.",
+    "compatible_with": null,
+    "use_notes": "- 1. A minimum of two (2) implants per sacroiliac joint are recommended for treatment. Treatment typically involves at least three (3) iFuse Implants per SI joint.\n- 2. For detailed information, refer to the relevant Surgical Technique Manual(s) prior to use of the iFuse Implant System.",
+    "also_known_as": null
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "indications": 0.7,
+    "contraindications": 0.7,
+    "use_notes": 0.7
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "device_slug": "pedicle-screw--biomet-spine-llc--biomet-spine-fusion",
+  "artifact_folder": "pedicle-screw--biomet-spine-llc--biomet-spine-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 4414,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--biomet-spine-llc--biomet-spine-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--biomet-spine-llc--biomet-spine-fusion/enriched/pedicle-screw--biomet-spine-llc--biomet-spine-fusion.json",
+        "bytes": 1842
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K142634.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--biomet-spine-llc--biomet-spine-fusion/fda_raw/MAX/K142634.json",
+        "bytes": 581
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K151483.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--biomet-spine-llc--biomet-spine-fusion/fda_raw/MAX/K151483.json",
+        "bytes": 581
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K153695.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--biomet-spine-llc--biomet-spine-fusion/fda_raw/MAX/K153695.json",
+        "bytes": 581
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--biomet-spine-llc--biomet-spine-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--biomet-spine-llc--biomet-spine-fusion/merged/pedicle-screw--biomet-spine-llc--biomet-spine-fusion.json",
+        "bytes": 829
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

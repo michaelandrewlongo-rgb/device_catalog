@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--theken-spine-llc--modification-to-theken-atoll-cervico",
+  "artifact_folder": "corpectomy--theken-spine-llc--modification-to-theken-atoll-cervico",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2983,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--theken-spine-llc--modification-to-theken-atoll-cervico.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--theken-spine-llc--modification-to-theken-atoll-cervico/enriched/corpectomy--theken-spine-llc--modification-to-theken-atoll-cervico.json",
+        "bytes": 1473
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K080790.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--theken-spine-llc--modification-to-theken-atoll-cervico/fda_raw/KWP/K080790.json",
+        "bytes": 618
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--theken-spine-llc--modification-to-theken-atoll-cervico.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--theken-spine-llc--modification-to-theken-atoll-cervico/merged/corpectomy--theken-spine-llc--modification-to-theken-atoll-cervico.json",
+        "bytes": 892
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

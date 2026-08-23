@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K180301",
+  "clearance_date": "2018-04-10",
+  "device_class": 2,
+  "manufacturer_canonical": "axis-orthopaedics",
+  "manufacturer_raw": "Axis Orthopaedics",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "AXIS 5.5 Lumbar Pedicle Screw System",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--axis-orthopaedics--axis-5-5-lumbar-pedicle",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf18/K180301.pdf"
+}

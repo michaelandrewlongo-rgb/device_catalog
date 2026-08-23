@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-csf-on-off",
+  "artifact_folder": "csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-csf-on-off",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3011,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-csf-on-off.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-csf-on-off/enriched/csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-csf-on-off.json",
+        "bytes": 1472
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K896167.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-csf-on-off/fda_raw/JXG/K896167.json",
+        "bytes": 648
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-csf-on-off.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-csf-on-off/merged/csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-csf-on-off.json",
+        "bytes": 891
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

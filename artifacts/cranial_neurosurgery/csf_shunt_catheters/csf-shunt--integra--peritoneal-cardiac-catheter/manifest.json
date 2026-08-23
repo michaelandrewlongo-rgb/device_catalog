@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--integra--peritoneal-cardiac-catheter",
+  "artifact_folder": "csf-shunt--integra--peritoneal-cardiac-catheter",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3261,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--integra--peritoneal-cardiac-catheter.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--peritoneal-cardiac-catheter/enriched/csf-shunt--integra--peritoneal-cardiac-catheter.json",
+        "bytes": 1880
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K970983.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--peritoneal-cardiac-catheter/fda_raw/JXG/K970983.json",
+        "bytes": 568
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--integra--peritoneal-cardiac-catheter.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--peritoneal-cardiac-catheter/merged/csf-shunt--integra--peritoneal-cardiac-catheter.json",
+        "bytes": 813
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "device_slug": "interbody-cage--depuy--synthes-matrix",
+  "artifact_folder": "interbody-cage--depuy--synthes-matrix",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 4890,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--depuy--synthes-matrix.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--synthes-matrix/enriched/interbody-cage--depuy--synthes-matrix.json",
+        "bytes": 1908
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K092929.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--synthes-matrix/fda_raw/NKB/K092929.json",
+        "bytes": 547
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K100634.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--synthes-matrix/fda_raw/NKB/K100634.json",
+        "bytes": 547
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K120838.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--synthes-matrix/fda_raw/NKB/K120838.json",
+        "bytes": 547
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K120928.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--synthes-matrix/fda_raw/NKB/K120928.json",
+        "bytes": 547
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--depuy--synthes-matrix.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--synthes-matrix/merged/interbody-cage--depuy--synthes-matrix.json",
+        "bytes": 794
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

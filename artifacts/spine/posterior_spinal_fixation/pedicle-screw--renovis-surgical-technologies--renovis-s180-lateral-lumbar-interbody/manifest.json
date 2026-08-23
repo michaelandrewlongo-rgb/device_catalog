@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--renovis-surgical-technologies--renovis-s180-lateral-lumbar-interbody",
+  "artifact_folder": "pedicle-screw--renovis-surgical-technologies--renovis-s180-lateral-lumbar-interbody",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3089,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--renovis-surgical-technologies--renovis-s180-lateral-lumbar-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--renovis-surgical-technologies--renovis-s180-lateral-lumbar-interbody/enriched/pedicle-screw--renovis-surgical-technologies--renovis-s180-lateral-lumbar-interbody.json",
+        "bytes": 1504
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K181655.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--renovis-surgical-technologies--renovis-s180-lateral-lumbar-interbody/fda_raw/MAX/K181655.json",
+        "bytes": 662
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--renovis-surgical-technologies--renovis-s180-lateral-lumbar-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--renovis-surgical-technologies--renovis-s180-lateral-lumbar-interbody/merged/pedicle-screw--renovis-surgical-technologies--renovis-s180-lateral-lumbar-interbody.json",
+        "bytes": 923
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

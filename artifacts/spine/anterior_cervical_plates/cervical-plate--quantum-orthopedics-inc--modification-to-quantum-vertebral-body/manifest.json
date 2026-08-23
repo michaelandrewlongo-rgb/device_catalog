@@ -1,0 +1,45 @@
+{
+  "device_slug": "cervical-plate--quantum-orthopedics-inc--modification-to-quantum-vertebral-body",
+  "artifact_folder": "cervical-plate--quantum-orthopedics-inc--modification-to-quantum-vertebral-body",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 4366,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--quantum-orthopedics-inc--modification-to-quantum-vertebral-body.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--quantum-orthopedics-inc--modification-to-quantum-vertebral-body/enriched/cervical-plate--quantum-orthopedics-inc--modification-to-quantum-vertebral-body.json",
+        "bytes": 1497
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K052641.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--quantum-orthopedics-inc--modification-to-quantum-vertebral-body/fda_raw/MQP/K052641.json",
+        "bytes": 650
+      },
+      {
+        "source": "pipeline/data/fda_raw/MQP/K061576.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--quantum-orthopedics-inc--modification-to-quantum-vertebral-body/fda_raw/MQP/K061576.json",
+        "bytes": 655
+      },
+      {
+        "source": "pipeline/data/fda_raw/MQP/K062004.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--quantum-orthopedics-inc--modification-to-quantum-vertebral-body/fda_raw/MQP/K062004.json",
+        "bytes": 648
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--quantum-orthopedics-inc--modification-to-quantum-vertebral-body.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--quantum-orthopedics-inc--modification-to-quantum-vertebral-body/merged/cervical-plate--quantum-orthopedics-inc--modification-to-quantum-vertebral-body.json",
+        "bytes": 916
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

@@ -1,0 +1,2404 @@
+{
+  "accessory": [
+    {
+      "slug": "accessory--microvention--syringe-kit",
+      "artifact_folder": "accessory--microvention--syringe-kit",
+      "path": "artifacts/_outside_seed_registries/accessory/accessory--microvention--syringe-kit",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "extracted": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "accessory--microvention--tubing-kit",
+      "artifact_folder": "accessory--microvention--tubing-kit",
+      "path": "artifacts/_outside_seed_registries/accessory/accessory--microvention--tubing-kit",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "extracted": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    }
+  ],
+  "dural-sealant": [
+    {
+      "slug": "dural-sealant--integra--duraseal",
+      "artifact_folder": "dural-sealant--integra--duraseal",
+      "path": "artifacts/_outside_seed_registries/dural-sealant/dural-sealant--integra--duraseal",
+      "file_count": 3,
+      "source_counts": {
+        "data_by_device": 2,
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "dural-sealant--integra--duraseal-dural-sealant-system",
+      "artifact_folder": "dural-sealant--integra--duraseal-dural-sealant-system",
+      "path": "artifacts/_outside_seed_registries/dural-sealant/dural-sealant--integra--duraseal-dural-sealant-system",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    }
+  ],
+  "dural-substitute": [
+    {
+      "slug": "dural-substitute--acera-surgical-inc--cerafix-dura-substitute",
+      "artifact_folder": "dural-substitute--acera-surgical-inc--cerafix-dura-substitute",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--acera-surgical-inc--cerafix-dura-substitute",
+      "file_count": 7,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 3,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--aesculap-inc--lyoplant-dura-substitute-various",
+      "artifact_folder": "dural-substitute--aesculap-inc--lyoplant-dura-substitute-various",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--aesculap-inc--lyoplant-dura-substitute-various",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--aesculap-inc--lyoplant-onlay",
+      "artifact_folder": "dural-substitute--aesculap-inc--lyoplant-onlay",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--aesculap-inc--lyoplant-onlay",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 1,
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--aesculap-inc--neuro-patch",
+      "artifact_folder": "dural-substitute--aesculap-inc--neuro-patch",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--aesculap-inc--neuro-patch",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--bio-vascular-inc--dura-guard-dural-repair-patch",
+      "artifact_folder": "dural-substitute--bio-vascular-inc--dura-guard-dural-repair-patch",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--bio-vascular-inc--dura-guard-dural-repair-patch",
+      "file_count": 6,
+      "source_counts": {
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 3,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--bridger-biomed-inc--dura-patch-model-dp-xxx",
+      "artifact_folder": "dural-substitute--bridger-biomed-inc--dura-patch-model-dp-xxx",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--bridger-biomed-inc--dura-patch-model-dp-xxx",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--cerenovus--codman-duraform-dural-graft-implant",
+      "artifact_folder": "dural-substitute--cerenovus--codman-duraform-dural-graft-implant",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--cerenovus--codman-duraform-dural-graft-implant",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--cerenovus--duraform-dural-graft-implant",
+      "artifact_folder": "dural-substitute--cerenovus--duraform-dural-graft-implant",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--cerenovus--duraform-dural-graft-implant",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--collagen-matrix-inc--collagen-dura-membrane",
+      "artifact_folder": "dural-substitute--collagen-matrix-inc--collagen-dura-membrane",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--collagen-matrix-inc--collagen-dura-membrane",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--collagen-matrix-inc--collagen-dura-membrane-recalls",
+      "artifact_folder": "dural-substitute--collagen-matrix-inc--collagen-dura-membrane-recalls",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--collagen-matrix-inc--collagen-dura-membrane-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--collagen-matrix-inc--collagen-dura-regeneration-membrane-repair",
+      "artifact_folder": "dural-substitute--collagen-matrix-inc--collagen-dura-regeneration-membrane-repair",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--collagen-matrix-inc--collagen-dura-regeneration-membrane-repair",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--collagen-matrix-inc--collagen-dura-regeneration-membrane-repair-recalls",
+      "artifact_folder": "dural-substitute--collagen-matrix-inc--collagen-dura-regeneration-membrane-repair-recalls",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--collagen-matrix-inc--collagen-dura-regeneration-membrane-repair-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--collagen-matrix-inc--collagen-dural-regeneration-matrix",
+      "artifact_folder": "dural-substitute--collagen-matrix-inc--collagen-dural-regeneration-matrix",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--collagen-matrix-inc--collagen-dural-regeneration-matrix",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--collagen-matrix-inc--collagen-dural-regeneration-matrix-recalls",
+      "artifact_folder": "dural-substitute--collagen-matrix-inc--collagen-dural-regeneration-matrix-recalls",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--collagen-matrix-inc--collagen-dural-regeneration-matrix-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--collagen-matrix-inc--duramatrix-collagen-dura-substitute-membrane",
+      "artifact_folder": "dural-substitute--collagen-matrix-inc--duramatrix-collagen-dura-substitute-membrane",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--collagen-matrix-inc--duramatrix-collagen-dura-substitute-membrane",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--collagen-matrix-inc--duramatrix-collagen-dura-substitute-membrane-recalls",
+      "artifact_folder": "dural-substitute--collagen-matrix-inc--duramatrix-collagen-dura-substitute-membrane-recalls",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--collagen-matrix-inc--duramatrix-collagen-dura-substitute-membrane-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--cook-biotech-inc--biodesign-onlay-dural-graft-or",
+      "artifact_folder": "dural-substitute--cook-biotech-inc--biodesign-onlay-dural-graft-or",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--cook-biotech-inc--biodesign-onlay-dural-graft-or",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--cook-biotech-inc--biodesign-onlay-dural-graft-or-recalls",
+      "artifact_folder": "dural-substitute--cook-biotech-inc--biodesign-onlay-dural-graft-or-recalls",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--cook-biotech-inc--biodesign-onlay-dural-graft-or-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--cook-biotech-inc--durasis-dural-substitute",
+      "artifact_folder": "dural-substitute--cook-biotech-inc--durasis-dural-substitute",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--cook-biotech-inc--durasis-dural-substitute",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--cook-biotech-inc--durasis-dural-substitute-recalls",
+      "artifact_folder": "dural-substitute--cook-biotech-inc--durasis-dural-substitute-recalls",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--cook-biotech-inc--durasis-dural-substitute-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--depuy--synthecel-dura-replacement-s",
+      "artifact_folder": "dural-substitute--depuy--synthecel-dura-replacement-s",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--depuy--synthecel-dura-replacement-s",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--helios-biomedical-inc--helios-dura-regeneration-matrix",
+      "artifact_folder": "dural-substitute--helios-biomedical-inc--helios-dura-regeneration-matrix",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--helios-biomedical-inc--helios-dura-regeneration-matrix",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--integra--duragen-dural-graft-matrix",
+      "artifact_folder": "dural-substitute--integra--duragen-dural-graft-matrix",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--integra--duragen-dural-graft-matrix",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--integra--duragen-dural-graft-matrix-recalls",
+      "artifact_folder": "dural-substitute--integra--duragen-dural-graft-matrix-recalls",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--integra--duragen-dural-graft-matrix-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--integra--duragen-ii-dural-regeneration-matrix",
+      "artifact_folder": "dural-substitute--integra--duragen-ii-dural-regeneration-matrix",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--integra--duragen-ii-dural-regeneration-matrix",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--integra--duragen-ii-dural-regeneration-matrix-recalls",
+      "artifact_folder": "dural-substitute--integra--duragen-ii-dural-regeneration-matrix-recalls",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--integra--duragen-ii-dural-regeneration-matrix-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--integra--duragen-plus-dural-graft-matrix",
+      "artifact_folder": "dural-substitute--integra--duragen-plus-dural-graft-matrix",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--integra--duragen-plus-dural-graft-matrix",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--integra--duragen-plus-dural-graft-matrix-recalls",
+      "artifact_folder": "dural-substitute--integra--duragen-plus-dural-graft-matrix-recalls",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--integra--duragen-plus-dural-graft-matrix-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--integra--duragen-plus-dural-regeneration-matrix",
+      "artifact_folder": "dural-substitute--integra--duragen-plus-dural-regeneration-matrix",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--integra--duragen-plus-dural-regeneration-matrix",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--integra--duragen-plus-dural-regeneration-matrix-recalls",
+      "artifact_folder": "dural-substitute--integra--duragen-plus-dural-regeneration-matrix-recalls",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--integra--duragen-plus-dural-regeneration-matrix-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--integra--duragen-secure-dural-regeneration-matrix",
+      "artifact_folder": "dural-substitute--integra--duragen-secure-dural-regeneration-matrix",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--integra--duragen-secure-dural-regeneration-matrix",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--integra--duragen-secure-dural-regeneration-matrix-recalls",
+      "artifact_folder": "dural-substitute--integra--duragen-secure-dural-regeneration-matrix-recalls",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--integra--duragen-secure-dural-regeneration-matrix-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--integra--duragen-secure-dural-regneration-matrix",
+      "artifact_folder": "dural-substitute--integra--duragen-secure-dural-regneration-matrix",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--integra--duragen-secure-dural-regneration-matrix",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--integra--duragen-secure-dural-regneration-matrix-recalls",
+      "artifact_folder": "dural-substitute--integra--duragen-secure-dural-regneration-matrix-recalls",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--integra--duragen-secure-dural-regneration-matrix-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--integra--duragen-xs-dural-regeneration-matrix",
+      "artifact_folder": "dural-substitute--integra--duragen-xs-dural-regeneration-matrix",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--integra--duragen-xs-dural-regeneration-matrix",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--integra--duragen-xs-dural-regeneration-matrix-recalls",
+      "artifact_folder": "dural-substitute--integra--duragen-xs-dural-regeneration-matrix-recalls",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--integra--duragen-xs-dural-regeneration-matrix-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--johnson-johnson-professionals-inc--codman-ethisorb-dura-patch",
+      "artifact_folder": "dural-substitute--johnson-johnson-professionals-inc--codman-ethisorb-dura-patch",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--johnson-johnson-professionals-inc--codman-ethisorb-dura-patch",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--lemaitre-vascular-inc--xenosure-dura-biologic-patch",
+      "artifact_folder": "dural-substitute--lemaitre-vascular-inc--xenosure-dura-biologic-patch",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--lemaitre-vascular-inc--xenosure-dura-biologic-patch",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--lifecell-corp--lifecell-dural-substitute-matrix",
+      "artifact_folder": "dural-substitute--lifecell-corp--lifecell-dural-substitute-matrix",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--lifecell-corp--lifecell-dural-substitute-matrix",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--medtronic--durepair-dura-regeneration-matrix",
+      "artifact_folder": "dural-substitute--medtronic--durepair-dura-regeneration-matrix",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--medtronic--durepair-dura-regeneration-matrix",
+      "file_count": 8,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 3,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--medtronic--durepair-dura-regeneration-matrix-recalls",
+      "artifact_folder": "dural-substitute--medtronic--durepair-dura-regeneration-matrix-recalls",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--medtronic--durepair-dura-regeneration-matrix-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--medtronic--modification-to-durepair-dura-regeneration",
+      "artifact_folder": "dural-substitute--medtronic--modification-to-durepair-dura-regeneration",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--medtronic--modification-to-durepair-dura-regeneration",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--medtronic--modification-to-durepair-dura-regeneration-recalls",
+      "artifact_folder": "dural-substitute--medtronic--modification-to-durepair-dura-regeneration-recalls",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--medtronic--modification-to-durepair-dura-regeneration-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--nurami-medical-ltd--artifascia",
+      "artifact_folder": "dural-substitute--nurami-medical-ltd--artifascia",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--nurami-medical-ltd--artifascia",
+      "file_count": 7,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--rti-surgical-inc--bovine-pericardium-suturable-dural-graft",
+      "artifact_folder": "dural-substitute--rti-surgical-inc--bovine-pericardium-suturable-dural-graft",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--rti-surgical-inc--bovine-pericardium-suturable-dural-graft",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--shelhigh-inc--shelhigh-no-react-dura-shield",
+      "artifact_folder": "dural-substitute--shelhigh-inc--shelhigh-no-react-dura-shield",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--shelhigh-inc--shelhigh-no-react-dura-shield",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--shelhigh-inc--shelhigh-no-react-dura-shield-recalls",
+      "artifact_folder": "dural-substitute--shelhigh-inc--shelhigh-no-react-dura-shield-recalls",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--shelhigh-inc--shelhigh-no-react-dura-shield-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--synthes-inc--synthecel-dura-repair-synthecel-dura",
+      "artifact_folder": "dural-substitute--synthes-inc--synthecel-dura-repair-synthecel-dura",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--synthes-inc--synthecel-dura-repair-synthecel-dura",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--synthes-usa-products-llc--synthecel-dura-repair",
+      "artifact_folder": "dural-substitute--synthes-usa-products-llc--synthecel-dura-repair",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--synthes-usa-products-llc--synthecel-dura-repair",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--synthes-usa-products-llc--synthecel-dura-repair-recalls",
+      "artifact_folder": "dural-substitute--synthes-usa-products-llc--synthecel-dura-repair-recalls",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--synthes-usa-products-llc--synthecel-dura-repair-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--w-l-gore-associates-inc--preclude-acuseal-dura-substitute",
+      "artifact_folder": "dural-substitute--w-l-gore-associates-inc--preclude-acuseal-dura-substitute",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--w-l-gore-associates-inc--preclude-acuseal-dura-substitute",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--w-l-gore-associates-inc--preclude-dura-substitute",
+      "artifact_folder": "dural-substitute--w-l-gore-associates-inc--preclude-dura-substitute",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--w-l-gore-associates-inc--preclude-dura-substitute",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "dural-substitute--w-l-gore-associates-inc--preclude-mvp-dura-substitute",
+      "artifact_folder": "dural-substitute--w-l-gore-associates-inc--preclude-mvp-dura-substitute",
+      "path": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--w-l-gore-associates-inc--preclude-mvp-dura-substitute",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    }
+  ],
+  "flow-diverter": [
+    {
+      "slug": "flow-diverter--balt--optima-optimax-optiblock",
+      "artifact_folder": "flow-diverter--balt--optima-optimax-optiblock",
+      "path": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--balt--optima-optimax-optiblock",
+      "file_count": 1,
+      "source_counts": {
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "flow-diverter--balt--silk-vista",
+      "artifact_folder": "flow-diverter--balt--silk-vista",
+      "path": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--balt--silk-vista",
+      "file_count": 4,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "flow-diverter--medtronic--pipeline-embolization-device",
+      "artifact_folder": "flow-diverter--medtronic--pipeline-embolization-device",
+      "path": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--medtronic--pipeline-embolization-device",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "flow-diverter--medtronic--pipeline-embolization-devices-pipeline-flex-embolization-device",
+      "artifact_folder": "flow-diverter--medtronic--pipeline-embolization-devices-pipeline-flex-embolization-device",
+      "path": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--medtronic--pipeline-embolization-devices-pipeline-flex-embolization-device",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "flow-diverter--medtronic--pipeline-flex-embolization-device",
+      "artifact_folder": "flow-diverter--medtronic--pipeline-flex-embolization-device",
+      "path": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--medtronic--pipeline-flex-embolization-device",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "flow-diverter--medtronic--pipeline-flex-embolization-device-and-pipeline-flex-embolization-device-with-shield-technology",
+      "artifact_folder": "flow-diverter--medtronic--pipeline-flex-embolization-device-and-pipeline-flex-embolization-device-with-shield-technology",
+      "path": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--medtronic--pipeline-flex-embolization-device-and-pipeline-flex-embolization-device-with-shield-technology",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "flow-diverter--medtronic--pipeline-flex-embolization-device-pfed",
+      "artifact_folder": "flow-diverter--medtronic--pipeline-flex-embolization-device-pfed",
+      "path": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--medtronic--pipeline-flex-embolization-device-pfed",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+      "artifact_folder": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+      "path": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology-ped2-pipeline-vantage-embolization-device-with-shield-tec",
+      "artifact_folder": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology-ped2-pipeline-vantage--e543bee5ec",
+      "path": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology-ped2-pipeline-vantage--e543bee5ec",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "flow-diverter--medtronic--pipeline-flex-pipeline-flex-with-shield-technology",
+      "artifact_folder": "flow-diverter--medtronic--pipeline-flex-pipeline-flex-with-shield-technology",
+      "path": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--medtronic--pipeline-flex-pipeline-flex-with-shield-technology",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "flow-diverter--medtronic--pipeline-flex-shield",
+      "artifact_folder": "flow-diverter--medtronic--pipeline-flex-shield",
+      "path": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--medtronic--pipeline-flex-shield",
+      "file_count": 3,
+      "source_counts": {
+        "data_by_device": 2,
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "flow-diverter--medtronic--pipeline-ped-original",
+      "artifact_folder": "flow-diverter--medtronic--pipeline-ped-original",
+      "path": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--medtronic--pipeline-ped-original",
+      "file_count": 2,
+      "source_counts": {
+        "data_by_device": 1,
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "flow-diverter--medtronic--pipeline-vantage-embolization-device-with-shield-technology",
+      "artifact_folder": "flow-diverter--medtronic--pipeline-vantage-embolization-device-with-shield-technology",
+      "path": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--medtronic--pipeline-vantage-embolization-device-with-shield-technology",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "flow-diverter--medtronic--pipeline-vantage-embolization-device-with-shield-technology-pipeline-vantage",
+      "artifact_folder": "flow-diverter--medtronic--pipeline-vantage-embolization-device-with-shield-technology-pipeline-vantage",
+      "path": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--medtronic--pipeline-vantage-embolization-device-with-shield-technology-pipeline-vantage",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "flow-diverter--microvention--flow-re-direction-endoluminal-device-fred-and-fred-x-system",
+      "artifact_folder": "flow-diverter--microvention--flow-re-direction-endoluminal-device-fred-and-fred-x-system",
+      "path": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--microvention--flow-re-direction-endoluminal-device-fred-and-fred-x-system",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "flow-diverter--microvention--flow-re-direction-endoluminal-device-fred-r-system",
+      "artifact_folder": "flow-diverter--microvention--flow-re-direction-endoluminal-device-fred-r-system",
+      "path": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--microvention--flow-re-direction-endoluminal-device-fred-r-system",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "flow-diverter--microvention--flow-re-direction-endoluminal-device-fred-x-system",
+      "artifact_folder": "flow-diverter--microvention--flow-re-direction-endoluminal-device-fred-x-system",
+      "path": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--microvention--flow-re-direction-endoluminal-device-fred-x-system",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "flow-diverter--microvention--fred",
+      "artifact_folder": "flow-diverter--microvention--fred",
+      "path": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--microvention--fred",
+      "file_count": 4,
+      "source_counts": {
+        "data_by_device": 2,
+        "extracted": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "flow-diverter--microvention--fred-x",
+      "artifact_folder": "flow-diverter--microvention--fred-x",
+      "path": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--microvention--fred-x",
+      "file_count": 2,
+      "source_counts": {
+        "data_by_device": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "flow-diverter--microvention--fred-x-system",
+      "artifact_folder": "flow-diverter--microvention--fred-x-system",
+      "path": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--microvention--fred-x-system",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "flow-diverter--microvention--fred-x-system-recalls",
+      "artifact_folder": "flow-diverter--microvention--fred-x-system-recalls",
+      "path": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--microvention--fred-x-system-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "flow-diverter--stryker--surpass-elite",
+      "artifact_folder": "flow-diverter--stryker--surpass-elite",
+      "path": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--stryker--surpass-elite",
+      "file_count": 1,
+      "source_counts": {
+        "data_by_device": 1
+      }
+    },
+    {
+      "slug": "flow-diverter--stryker--surpass-elite-flow-diverter",
+      "artifact_folder": "flow-diverter--stryker--surpass-elite-flow-diverter",
+      "path": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--stryker--surpass-elite-flow-diverter",
+      "file_count": 1,
+      "source_counts": {
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "flow-diverter--stryker--surpass-elite-flow-diverter-system",
+      "artifact_folder": "flow-diverter--stryker--surpass-elite-flow-diverter-system",
+      "path": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--stryker--surpass-elite-flow-diverter-system",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "flow-diverter--stryker--surpass-evolve-flow-diverter-stent-system",
+      "artifact_folder": "flow-diverter--stryker--surpass-evolve-flow-diverter-stent-system",
+      "path": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--stryker--surpass-evolve-flow-diverter-stent-system",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "flow-diverter--stryker--surpass-evolve-flow-diverter-system",
+      "artifact_folder": "flow-diverter--stryker--surpass-evolve-flow-diverter-system",
+      "path": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--stryker--surpass-evolve-flow-diverter-system",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "flow-diverter--stryker--surpass-streamline",
+      "artifact_folder": "flow-diverter--stryker--surpass-streamline",
+      "path": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--stryker--surpass-streamline",
+      "file_count": 4,
+      "source_counts": {
+        "data_by_device": 1,
+        "extracted": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "flow-diverter--stryker--surpass-streamline--ssed",
+      "artifact_folder": "flow-diverter--stryker--surpass-streamline--ssed",
+      "path": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--stryker--surpass-streamline--ssed",
+      "file_count": 2,
+      "source_counts": {
+        "data_by_device": 1,
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "flow-diverter--stryker--surpass-streamline-flow-diverter",
+      "artifact_folder": "flow-diverter--stryker--surpass-streamline-flow-diverter",
+      "path": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--stryker--surpass-streamline-flow-diverter",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    }
+  ],
+  "navigation": [
+    {
+      "slug": "navigation--choicespine--navlock",
+      "artifact_folder": "navigation--choicespine--navlock",
+      "path": "artifacts/_outside_seed_registries/navigation/navigation--choicespine--navlock",
+      "file_count": 3,
+      "source_counts": {
+        "data_by_device": 2,
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "navigation--globus--excelsiusgps-robotic-navigation-platform",
+      "artifact_folder": "navigation--globus--excelsiusgps-robotic-navigation-platform",
+      "path": "artifacts/_outside_seed_registries/navigation/navigation--globus--excelsiusgps-robotic-navigation-platform",
+      "file_count": 4,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "navigation--medtronic--mazor-x-stealth",
+      "artifact_folder": "navigation--medtronic--mazor-x-stealth",
+      "path": "artifacts/_outside_seed_registries/navigation/navigation--medtronic--mazor-x-stealth",
+      "file_count": 1,
+      "source_counts": {
+        "data_by_device": 1
+      }
+    },
+    {
+      "slug": "navigation--medtronic--o-arm",
+      "artifact_folder": "navigation--medtronic--o-arm",
+      "path": "artifacts/_outside_seed_registries/navigation/navigation--medtronic--o-arm",
+      "file_count": 1,
+      "source_counts": {
+        "data_by_device": 1
+      }
+    },
+    {
+      "slug": "navigation--medtronic--stealthstation-cranial",
+      "artifact_folder": "navigation--medtronic--stealthstation-cranial",
+      "path": "artifacts/_outside_seed_registries/navigation/navigation--medtronic--stealthstation-cranial",
+      "file_count": 1,
+      "source_counts": {
+        "data_by_device": 1
+      }
+    },
+    {
+      "slug": "navigation--medtronic--stealthstation-cranial--pocket-guide",
+      "artifact_folder": "navigation--medtronic--stealthstation-cranial--pocket-guide",
+      "path": "artifacts/_outside_seed_registries/navigation/navigation--medtronic--stealthstation-cranial--pocket-guide",
+      "file_count": 2,
+      "source_counts": {
+        "data_by_device": 1,
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "navigation--medtronic--stealthstation-s8--safety-warnings",
+      "artifact_folder": "navigation--medtronic--stealthstation-s8--safety-warnings",
+      "path": "artifacts/_outside_seed_registries/navigation/navigation--medtronic--stealthstation-s8--safety-warnings",
+      "file_count": 2,
+      "source_counts": {
+        "data_by_device": 1,
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "navigation--stryker--q-guidance-system",
+      "artifact_folder": "navigation--stryker--q-guidance-system",
+      "path": "artifacts/_outside_seed_registries/navigation/navigation--stryker--q-guidance-system",
+      "file_count": 4,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "navigation--stryker--spinemap-3d",
+      "artifact_folder": "navigation--stryker--spinemap-3d",
+      "path": "artifacts/_outside_seed_registries/navigation/navigation--stryker--spinemap-3d",
+      "file_count": 1,
+      "source_counts": {
+        "data_by_device": 1
+      }
+    },
+    {
+      "slug": "navigation--stryker--spinemap-3d-spinemask",
+      "artifact_folder": "navigation--stryker--spinemap-3d-spinemask",
+      "path": "artifacts/_outside_seed_registries/navigation/navigation--stryker--spinemap-3d-spinemask",
+      "file_count": 2,
+      "source_counts": {
+        "data_by_device": 1,
+        "extracted": 1
+      }
+    }
+  ],
+  "nspr-technique": [
+    {
+      "slug": "nspr-technique--cervical-cage--stryker--tritanium-c",
+      "artifact_folder": "nspr-technique--cervical-cage--stryker--tritanium-c",
+      "path": "artifacts/_outside_seed_registries/nspr-technique/nspr-technique--cervical-cage--stryker--tritanium-c",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "nspr-technique--cervical-disc--medtronic--prestige-lp-cervical-disc",
+      "artifact_folder": "nspr-technique--cervical-disc--medtronic--prestige-lp-cervical-disc",
+      "path": "artifacts/_outside_seed_registries/nspr-technique/nspr-technique--cervical-disc--medtronic--prestige-lp-cervical-disc",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "nspr-technique--cervical-plate--globus--resonate-anterior-cervical-plate",
+      "artifact_folder": "nspr-technique--cervical-plate--globus--resonate-anterior-cervical-plate",
+      "path": "artifacts/_outside_seed_registries/nspr-technique/nspr-technique--cervical-plate--globus--resonate-anterior-cervical-plate",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "nspr-technique--interbody-cage--depuy--concorde-lift",
+      "artifact_folder": "nspr-technique--interbody-cage--depuy--concorde-lift",
+      "path": "artifacts/_outside_seed_registries/nspr-technique/nspr-technique--interbody-cage--depuy--concorde-lift",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "nspr-technique--pedicle-screw--globus--creo-mis",
+      "artifact_folder": "nspr-technique--pedicle-screw--globus--creo-mis",
+      "path": "artifacts/_outside_seed_registries/nspr-technique/nspr-technique--pedicle-screw--globus--creo-mis",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "nspr-technique--pedicle-screw--globus--rise-spacer",
+      "artifact_folder": "nspr-technique--pedicle-screw--globus--rise-spacer",
+      "path": "artifacts/_outside_seed_registries/nspr-technique/nspr-technique--pedicle-screw--globus--rise-spacer",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "nspr-technique--pedicle-screw--medtronic--cd-horizon",
+      "artifact_folder": "nspr-technique--pedicle-screw--medtronic--cd-horizon",
+      "path": "artifacts/_outside_seed_registries/nspr-technique/nspr-technique--pedicle-screw--medtronic--cd-horizon",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "nspr-technique--sacroiliac-fusion--si-bone--ifuse-bedrock-granite",
+      "artifact_folder": "nspr-technique--sacroiliac-fusion--si-bone--ifuse-bedrock-granite",
+      "path": "artifacts/_outside_seed_registries/nspr-technique/nspr-technique--sacroiliac-fusion--si-bone--ifuse-bedrock-granite",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "nspr-technique--sacroiliac-fusion--si-bone--ifuse-intra-x",
+      "artifact_folder": "nspr-technique--sacroiliac-fusion--si-bone--ifuse-intra-x",
+      "path": "artifacts/_outside_seed_registries/nspr-technique/nspr-technique--sacroiliac-fusion--si-bone--ifuse-intra-x",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "nspr-technique--sacroiliac-fusion--si-bone--ifuse-torq",
+      "artifact_folder": "nspr-technique--sacroiliac-fusion--si-bone--ifuse-torq",
+      "path": "artifacts/_outside_seed_registries/nspr-technique/nspr-technique--sacroiliac-fusion--si-bone--ifuse-torq",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "nspr-technique--sacroiliac-fusion--si-bone--ifuse-torq-tnt",
+      "artifact_folder": "nspr-technique--sacroiliac-fusion--si-bone--ifuse-torq-tnt",
+      "path": "artifacts/_outside_seed_registries/nspr-technique/nspr-technique--sacroiliac-fusion--si-bone--ifuse-torq-tnt",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    }
+  ],
+  "reference": [
+    {
+      "slug": "reference--viktors-notes--epilepsy-surgery--chapter",
+      "artifact_folder": "reference--viktors-notes--epilepsy-surgery--chapter",
+      "path": "artifacts/_outside_seed_registries/reference/reference--viktors-notes--epilepsy-surgery--chapter",
+      "file_count": 2,
+      "source_counts": {
+        "data_by_device": 1,
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "reference--viktors-notes--instruments-materials--chapter",
+      "artifact_folder": "reference--viktors-notes--instruments-materials--chapter",
+      "path": "artifacts/_outside_seed_registries/reference/reference--viktors-notes--instruments-materials--chapter",
+      "file_count": 2,
+      "source_counts": {
+        "data_by_device": 1,
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "reference--viktors-notes--neuronavigation--chapter",
+      "artifact_folder": "reference--viktors-notes--neuronavigation--chapter",
+      "path": "artifacts/_outside_seed_registries/reference/reference--viktors-notes--neuronavigation--chapter",
+      "file_count": 2,
+      "source_counts": {
+        "data_by_device": 1,
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "reference--viktors-notes--thoracolumbosacral-spine--chapter",
+      "artifact_folder": "reference--viktors-notes--thoracolumbosacral-spine--chapter",
+      "path": "artifacts/_outside_seed_registries/reference/reference--viktors-notes--thoracolumbosacral-spine--chapter",
+      "file_count": 2,
+      "source_counts": {
+        "data_by_device": 1,
+        "extracted": 1
+      }
+    }
+  ],
+  "sacroiliac-fusion": [
+    {
+      "slug": "sacroiliac-fusion--4web-medical--sacroiliac-joint-truss-sjts",
+      "artifact_folder": "sacroiliac-fusion--4web-medical--sacroiliac-joint-truss-sjts",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--4web-medical--sacroiliac-joint-truss-sjts",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--advanced-research-medical-llc--advanced-research-medical-trident-si",
+      "artifact_folder": "sacroiliac-fusion--advanced-research-medical-llc--advanced-research-medical-trident-si",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--advanced-research-medical-llc--advanced-research-medical-trident-si",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--aegis-spine--zespin-si-joint-fusion-megacerfix",
+      "artifact_folder": "sacroiliac-fusion--aegis-spine--zespin-si-joint-fusion-megacerfix",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--aegis-spine--zespin-si-joint-fusion-megacerfix",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--aegis-spine-inc--zespin-si-joint-fusion",
+      "artifact_folder": "sacroiliac-fusion--aegis-spine-inc--zespin-si-joint-fusion",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--aegis-spine-inc--zespin-si-joint-fusion",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--aegis-spine-inc--zespin-si-joint-fusion-paeon",
+      "artifact_folder": "sacroiliac-fusion--aegis-spine-inc--zespin-si-joint-fusion-paeon",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--aegis-spine-inc--zespin-si-joint-fusion-paeon",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--alevio-llc--si-cure-sacroiliac-joint-fusion",
+      "artifact_folder": "sacroiliac-fusion--alevio-llc--si-cure-sacroiliac-joint-fusion",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--alevio-llc--si-cure-sacroiliac-joint-fusion",
+      "file_count": 2,
+      "source_counts": {
+        "fda_raw": 2
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--anjali-investments-l-l-c--kisar-stratford-si-screw",
+      "artifact_folder": "sacroiliac-fusion--anjali-investments-l-l-c--kisar-stratford-si-screw",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--anjali-investments-l-l-c--kisar-stratford-si-screw",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--astura-medical--reunion-sacroiliac-joint-fusion",
+      "artifact_folder": "sacroiliac-fusion--astura-medical--reunion-sacroiliac-joint-fusion",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--astura-medical--reunion-sacroiliac-joint-fusion",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--aurora-spine-inc--silo-tfx-mis-sacroiliac-joint",
+      "artifact_folder": "sacroiliac-fusion--aurora-spine-inc--silo-tfx-mis-sacroiliac-joint",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--aurora-spine-inc--silo-tfx-mis-sacroiliac-joint",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--biofusion-medical--si-restore-r-sacroiliac-joint",
+      "artifact_folder": "sacroiliac-fusion--biofusion-medical--si-restore-r-sacroiliac-joint",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--biofusion-medical--si-restore-r-sacroiliac-joint",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--biofusion-medical--si-restore-sacroiliac-joint-fixation",
+      "artifact_folder": "sacroiliac-fusion--biofusion-medical--si-restore-sacroiliac-joint-fixation",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--biofusion-medical--si-restore-sacroiliac-joint-fixation",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--camber-spine-technologies--camber-sacroiliac-si-fixation",
+      "artifact_folder": "sacroiliac-fusion--camber-spine-technologies--camber-sacroiliac-si-fixation",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--camber-spine-technologies--camber-sacroiliac-si-fixation",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--camber-spine-technologies--siconus-si-joint-fixation",
+      "artifact_folder": "sacroiliac-fusion--camber-spine-technologies--siconus-si-joint-fixation",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--camber-spine-technologies--siconus-si-joint-fixation",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--camber-spine-technologies-llc--camber-sacroiliac-si-fixation",
+      "artifact_folder": "sacroiliac-fusion--camber-spine-technologies-llc--camber-sacroiliac-si-fixation",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--camber-spine-technologies-llc--camber-sacroiliac-si-fixation",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--choice-spine-llc--triton-sacroiliac-joint-fixation",
+      "artifact_folder": "sacroiliac-fusion--choice-spine-llc--triton-sacroiliac-joint-fixation",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--choice-spine-llc--triton-sacroiliac-joint-fixation",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--coorstek-medical--integrity-si-tm-fusion",
+      "artifact_folder": "sacroiliac-fusion--coorstek-medical--integrity-si-tm-fusion",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--coorstek-medical--integrity-si-tm-fusion",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--corelink-llc--entasis-3d-dual-lead-sacroiliac",
+      "artifact_folder": "sacroiliac-fusion--corelink-llc--entasis-3d-dual-lead-sacroiliac",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--corelink-llc--entasis-3d-dual-lead-sacroiliac",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--corelink-llc--the-entasis-dual-lead-sacroiliac",
+      "artifact_folder": "sacroiliac-fusion--corelink-llc--the-entasis-dual-lead-sacroiliac",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--corelink-llc--the-entasis-dual-lead-sacroiliac",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--ctl-medical-corporation--cassatt-sij-fixation",
+      "artifact_folder": "sacroiliac-fusion--ctl-medical-corporation--cassatt-sij-fixation",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--ctl-medical-corporation--cassatt-sij-fixation",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--curiteva-inc--curiteva-sacroiliac-joint-fusion",
+      "artifact_folder": "sacroiliac-fusion--curiteva-inc--curiteva-sacroiliac-joint-fusion",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--curiteva-inc--curiteva-sacroiliac-joint-fusion",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--cutting-edge-spine-llc--evol-r-si-joint-fusion",
+      "artifact_folder": "sacroiliac-fusion--cutting-edge-spine-llc--evol-r-si-joint-fusion",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--cutting-edge-spine-llc--evol-r-si-joint-fusion",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--cutting-edge-spine-llc--t-fix-3dsi-joint-fusion",
+      "artifact_folder": "sacroiliac-fusion--cutting-edge-spine-llc--t-fix-3dsi-joint-fusion",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--cutting-edge-spine-llc--t-fix-3dsi-joint-fusion",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--cutting-edge-spine-llc--t-fix-r-3dsi-joint",
+      "artifact_folder": "sacroiliac-fusion--cutting-edge-spine-llc--t-fix-r-3dsi-joint",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--cutting-edge-spine-llc--t-fix-r-3dsi-joint",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--deltacor-gmbh--torpedo-implant-r",
+      "artifact_folder": "sacroiliac-fusion--deltacor-gmbh--torpedo-implant-r",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--deltacor-gmbh--torpedo-implant-r",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--depuy--sijf-cannulated-screw",
+      "artifact_folder": "sacroiliac-fusion--depuy--sijf-cannulated-screw",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--depuy--sijf-cannulated-screw",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--dio-medical-corporation--unity-sacroiliac-joint-fixation",
+      "artifact_folder": "sacroiliac-fusion--dio-medical-corporation--unity-sacroiliac-joint-fixation",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--dio-medical-corporation--unity-sacroiliac-joint-fixation",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--eminent-spine--eminent-spine-posterior-si",
+      "artifact_folder": "sacroiliac-fusion--eminent-spine--eminent-spine-posterior-si",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--eminent-spine--eminent-spine-posterior-si",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--eminent-spine-llc--eminent-spine-si-screw",
+      "artifact_folder": "sacroiliac-fusion--eminent-spine-llc--eminent-spine-si-screw",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--eminent-spine-llc--eminent-spine-si-screw",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--folsom-metal-products-inc-dba-frontier-devices--frontier-s-fusio-screw-fuze",
+      "artifact_folder": "sacroiliac-fusion--folsom-metal-products-inc-dba-frontier-devices--frontier-s-fusio-screw-fuze",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--folsom-metal-products-inc-dba-frontier-devices--frontier-s-fusio-screw-fuze",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--foundation-fusion-solutions-llc-dba-cornerloc--transloc-3d",
+      "artifact_folder": "sacroiliac-fusion--foundation-fusion-solutions-llc-dba-cornerloc--transloc-3d",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--foundation-fusion-solutions-llc-dba-cornerloc--transloc-3d",
+      "file_count": 2,
+      "source_counts": {
+        "fda_raw": 2
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--genesys-spine--genesys-spine-sacroiliac-joint-fusion",
+      "artifact_folder": "sacroiliac-fusion--genesys-spine--genesys-spine-sacroiliac-joint-fusion",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--genesys-spine--genesys-spine-sacroiliac-joint-fusion",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--genesys-spine--siros-x",
+      "artifact_folder": "sacroiliac-fusion--genesys-spine--siros-x",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--genesys-spine--siros-x",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--globus--si-lok-r-sacroiliac-joint",
+      "artifact_folder": "sacroiliac-fusion--globus--si-lok-r-sacroiliac-joint",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--globus--si-lok-r-sacroiliac-joint",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--globus--si-lok-select-sacroiliac-joint-fusion",
+      "artifact_folder": "sacroiliac-fusion--globus--si-lok-select-sacroiliac-joint-fusion",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--globus--si-lok-select-sacroiliac-joint-fusion",
+      "file_count": 2,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--globus--si-lok-select-sacroiliac-joint-fusion-system",
+      "artifact_folder": "sacroiliac-fusion--globus--si-lok-select-sacroiliac-joint-fusion-system",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--globus--si-lok-select-sacroiliac-joint-fusion-system",
+      "file_count": 1,
+      "source_counts": {
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--ht-medical-d-b-a-xenix-medical--xenix-medical-sacroiliac-fixation",
+      "artifact_folder": "sacroiliac-fusion--ht-medical-d-b-a-xenix-medical--xenix-medical-sacroiliac-fixation",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--ht-medical-d-b-a-xenix-medical--xenix-medical-sacroiliac-fixation",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--ht-medical-llc-dba-xenix-medical--solace-sacroiliac-fixation",
+      "artifact_folder": "sacroiliac-fusion--ht-medical-llc-dba-xenix-medical--solace-sacroiliac-fixation",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--ht-medical-llc-dba-xenix-medical--solace-sacroiliac-fixation",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--huvexel-co-ltd--unity-sacroiliac-joint-fixation",
+      "artifact_folder": "sacroiliac-fusion--huvexel-co-ltd--unity-sacroiliac-joint-fixation",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--huvexel-co-ltd--unity-sacroiliac-joint-fixation",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--ilion-medical-inc--nadia-si-fusion",
+      "artifact_folder": "sacroiliac-fusion--ilion-medical-inc--nadia-si-fusion",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--ilion-medical-inc--nadia-si-fusion",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--l-k-biomed-co-ltd--pathloc-si-joint-fusion",
+      "artifact_folder": "sacroiliac-fusion--l-k-biomed-co-ltd--pathloc-si-joint-fusion",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--l-k-biomed-co-ltd--pathloc-si-joint-fusion",
+      "file_count": 4,
+      "source_counts": {
+        "fda_raw": 4
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--lesspine-innovations--sacrix-r-sacroiliac-joint-fusion",
+      "artifact_folder": "sacroiliac-fusion--lesspine-innovations--sacrix-r-sacroiliac-joint-fusion",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--lesspine-innovations--sacrix-r-sacroiliac-joint-fusion",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--life-spine-inc--arx-r-sai-implant",
+      "artifact_folder": "sacroiliac-fusion--life-spine-inc--arx-r-sai-implant",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--life-spine-inc--arx-r-sai-implant",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--life-spine-inc--life-spine-sacroiliac-joint-fixation",
+      "artifact_folder": "sacroiliac-fusion--life-spine-inc--life-spine-sacroiliac-joint-fixation",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--life-spine-inc--life-spine-sacroiliac-joint-fixation",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--life-spine-inc--life-spine-simpact-sacroiliac-joint",
+      "artifact_folder": "sacroiliac-fusion--life-spine-inc--life-spine-simpact-sacroiliac-joint",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--life-spine-inc--life-spine-simpact-sacroiliac-joint",
+      "file_count": 2,
+      "source_counts": {
+        "fda_raw": 2
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--life-spine-inc--simpact-sacroiliac-joint-fixation",
+      "artifact_folder": "sacroiliac-fusion--life-spine-inc--simpact-sacroiliac-joint-fixation",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--life-spine-inc--simpact-sacroiliac-joint-fixation",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--mcnicoll-surgical-inc--falco-fusion",
+      "artifact_folder": "sacroiliac-fusion--mcnicoll-surgical-inc--falco-fusion",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--mcnicoll-surgical-inc--falco-fusion",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--medacta-international-s-a--m-u-s-t-sacral",
+      "artifact_folder": "sacroiliac-fusion--medacta-international-s-a--m-u-s-t-sacral",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--medacta-international-s-a--m-u-s-t-sacral",
+      "file_count": 3,
+      "source_counts": {
+        "fda_raw": 3
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--medtronic--rialto-tm-si-fusion-medtronic",
+      "artifact_folder": "sacroiliac-fusion--medtronic--rialto-tm-si-fusion-medtronic",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--medtronic--rialto-tm-si-fusion-medtronic",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--medtronic--si-fix-sacroiliac-joint-fusion",
+      "artifact_folder": "sacroiliac-fusion--medtronic--si-fix-sacroiliac-joint-fusion",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--medtronic--si-fix-sacroiliac-joint-fusion",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--medtronic--the-rialto-si-fusion",
+      "artifact_folder": "sacroiliac-fusion--medtronic--the-rialto-si-fusion",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--medtronic--the-rialto-si-fusion",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--nexxt-spine--nexxt-matrixx-r-si",
+      "artifact_folder": "sacroiliac-fusion--nexxt-spine--nexxt-matrixx-r-si",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--nexxt-spine--nexxt-matrixx-r-si",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--omnia-medical-llc--omnia-medical-psif-dna",
+      "artifact_folder": "sacroiliac-fusion--omnia-medical-llc--omnia-medical-psif-dna",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--omnia-medical-llc--omnia-medical-psif-dna",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--orthofix--firebird-si-fusion",
+      "artifact_folder": "sacroiliac-fusion--orthofix--firebird-si-fusion",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--orthofix--firebird-si-fusion",
+      "file_count": 4,
+      "source_counts": {
+        "fda_raw": 4
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--orthofix--sambascrew-3d-si-fusion",
+      "artifact_folder": "sacroiliac-fusion--orthofix--sambascrew-3d-si-fusion",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--orthofix--sambascrew-3d-si-fusion",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--orthofundamentals-llc--trellis-si-joint-fusion",
+      "artifact_folder": "sacroiliac-fusion--orthofundamentals-llc--trellis-si-joint-fusion",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--orthofundamentals-llc--trellis-si-joint-fusion",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--osseus-fusion-systems-llc--blue-topaz-sacroiliac-screw",
+      "artifact_folder": "sacroiliac-fusion--osseus-fusion-systems-llc--blue-topaz-sacroiliac-screw",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--osseus-fusion-systems-llc--blue-topaz-sacroiliac-screw",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--osteocentric-technologies--integrity-si-fusion",
+      "artifact_folder": "sacroiliac-fusion--osteocentric-technologies--integrity-si-fusion",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--osteocentric-technologies--integrity-si-fusion",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--osteocentric-technologies--integrity-si-r-fusion",
+      "artifact_folder": "sacroiliac-fusion--osteocentric-technologies--integrity-si-r-fusion",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--osteocentric-technologies--integrity-si-r-fusion",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--promethean-restorative-llc--dynamis-implant",
+      "artifact_folder": "sacroiliac-fusion--promethean-restorative-llc--dynamis-implant",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--promethean-restorative-llc--dynamis-implant",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--promethean-restorative-llc--dynamis-si-screw",
+      "artifact_folder": "sacroiliac-fusion--promethean-restorative-llc--dynamis-si-screw",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--promethean-restorative-llc--dynamis-si-screw",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--sail-fusion-llc--bowtie-si-joint-fusion",
+      "artifact_folder": "sacroiliac-fusion--sail-fusion-llc--bowtie-si-joint-fusion",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--sail-fusion-llc--bowtie-si-joint-fusion",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--si-bone--ifuse",
+      "artifact_folder": "sacroiliac-fusion--si-bone--ifuse",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--si-bone--ifuse",
+      "file_count": 5,
+      "source_counts": {
+        "data_by_device": 3,
+        "extracted": 2
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--si-bone--ifuse-3d",
+      "artifact_folder": "sacroiliac-fusion--si-bone--ifuse-3d",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--si-bone--ifuse-3d",
+      "file_count": 4,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--si-bone--ifuse-bedrock-granite",
+      "artifact_folder": "sacroiliac-fusion--si-bone--ifuse-bedrock-granite",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--si-bone--ifuse-bedrock-granite",
+      "file_count": 4,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--si-bone--ifuse-bedrock-granite-implant",
+      "artifact_folder": "sacroiliac-fusion--si-bone--ifuse-bedrock-granite-implant",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--si-bone--ifuse-bedrock-granite-implant",
+      "file_count": 2,
+      "source_counts": {
+        "fda_raw": 2
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--si-bone--ifuse-bedrock-granite-r-implant",
+      "artifact_folder": "sacroiliac-fusion--si-bone--ifuse-bedrock-granite-r-implant",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--si-bone--ifuse-bedrock-granite-r-implant",
+      "file_count": 2,
+      "source_counts": {
+        "fda_raw": 2
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--si-bone--ifuse-implant",
+      "artifact_folder": "sacroiliac-fusion--si-bone--ifuse-implant",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--si-bone--ifuse-implant",
+      "file_count": 8,
+      "source_counts": {
+        "fda_raw": 8
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--si-bone--ifuse-implant-r",
+      "artifact_folder": "sacroiliac-fusion--si-bone--ifuse-implant-r",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--si-bone--ifuse-implant-r",
+      "file_count": 3,
+      "source_counts": {
+        "fda_raw": 3
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--si-bone--ifuse-implant-r-ifuse-3d",
+      "artifact_folder": "sacroiliac-fusion--si-bone--ifuse-implant-r-ifuse-3d",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--si-bone--ifuse-implant-r-ifuse-3d",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--si-bone--ifuse-intra",
+      "artifact_folder": "sacroiliac-fusion--si-bone--ifuse-intra",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--si-bone--ifuse-intra",
+      "file_count": 4,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--si-bone--ifuse-intra-ti",
+      "artifact_folder": "sacroiliac-fusion--si-bone--ifuse-intra-ti",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--si-bone--ifuse-intra-ti",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--si-bone--ifuse-intra-ti-implant",
+      "artifact_folder": "sacroiliac-fusion--si-bone--ifuse-intra-ti-implant",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--si-bone--ifuse-intra-ti-implant",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--si-bone--ifuse-intra-x",
+      "artifact_folder": "sacroiliac-fusion--si-bone--ifuse-intra-x",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--si-bone--ifuse-intra-x",
+      "file_count": 4,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--si-bone--ifuse-torq",
+      "artifact_folder": "sacroiliac-fusion--si-bone--ifuse-torq",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--si-bone--ifuse-torq",
+      "file_count": 4,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--si-bone--ifuse-torq-implant",
+      "artifact_folder": "sacroiliac-fusion--si-bone--ifuse-torq-implant",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--si-bone--ifuse-torq-implant",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--si-bone--ifuse-torq-r-implant",
+      "artifact_folder": "sacroiliac-fusion--si-bone--ifuse-torq-r-implant",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--si-bone--ifuse-torq-r-implant",
+      "file_count": 4,
+      "source_counts": {
+        "fda_raw": 4
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--si-bone--ifuse-torq-tnt",
+      "artifact_folder": "sacroiliac-fusion--si-bone--ifuse-torq-tnt",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--si-bone--ifuse-torq-tnt",
+      "file_count": 4,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--si-bone--ifuse-torq-tnt-implant",
+      "artifact_folder": "sacroiliac-fusion--si-bone--ifuse-torq-tnt-implant",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--si-bone--ifuse-torq-tnt-implant",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--si-bone--modification-to-si-joint-fusion",
+      "artifact_folder": "sacroiliac-fusion--si-bone--modification-to-si-joint-fusion",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--si-bone--modification-to-si-joint-fusion",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--si-bone--si-bone-ifuse-implant",
+      "artifact_folder": "sacroiliac-fusion--si-bone--si-bone-ifuse-implant",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--si-bone--si-bone-ifuse-implant",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--si-bone--si-bone-ifuse-implant-r",
+      "artifact_folder": "sacroiliac-fusion--si-bone--si-bone-ifuse-implant-r",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--si-bone--si-bone-ifuse-implant-r",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--si-bone--si-joint-fusion",
+      "artifact_folder": "sacroiliac-fusion--si-bone--si-joint-fusion",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--si-bone--si-joint-fusion",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--si-solutions-llc--optumsi-implant",
+      "artifact_folder": "sacroiliac-fusion--si-solutions-llc--optumsi-implant",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--si-solutions-llc--optumsi-implant",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--si-technology-llc--si-technology-r-si-desis",
+      "artifact_folder": "sacroiliac-fusion--si-technology-llc--si-technology-r-si-desis",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--si-technology-llc--si-technology-r-si-desis",
+      "file_count": 3,
+      "source_counts": {
+        "fda_raw": 3
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--sicage-llc--sicage",
+      "artifact_folder": "sacroiliac-fusion--sicage-llc--sicage",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--sicage-llc--sicage",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--sij-surgical--outlet-sacroiliac-joint-fusion",
+      "artifact_folder": "sacroiliac-fusion--sij-surgical--outlet-sacroiliac-joint-fusion",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--sij-surgical--outlet-sacroiliac-joint-fusion",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--sivantage--simmetry",
+      "artifact_folder": "sacroiliac-fusion--sivantage--simmetry",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--sivantage--simmetry",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--spinal-simplicity-llc--liberty-si-lateral-implant",
+      "artifact_folder": "sacroiliac-fusion--spinal-simplicity-llc--liberty-si-lateral-implant",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--spinal-simplicity-llc--liberty-si-lateral-implant",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--spinal-simplicity-llc--patriot-si-implant",
+      "artifact_folder": "sacroiliac-fusion--spinal-simplicity-llc--patriot-si-implant",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--spinal-simplicity-llc--patriot-si-implant",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--spinal-simplicity-llc--patriot-si-posterior-implant",
+      "artifact_folder": "sacroiliac-fusion--spinal-simplicity-llc--patriot-si-posterior-implant",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--spinal-simplicity-llc--patriot-si-posterior-implant",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--spinefrontier-inc--spinefrontier-sijfuse-sacroiliac-joint-fusion",
+      "artifact_folder": "sacroiliac-fusion--spinefrontier-inc--spinefrontier-sijfuse-sacroiliac-joint-fusion",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--spinefrontier-inc--spinefrontier-sijfuse-sacroiliac-joint-fusion",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--spinus-international-inc--harvester-si-sacroiliac-fixation",
+      "artifact_folder": "sacroiliac-fusion--spinus-international-inc--harvester-si-sacroiliac-fixation",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--spinus-international-inc--harvester-si-sacroiliac-fixation",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--surgentec--tilink-l-joint-fusion",
+      "artifact_folder": "sacroiliac-fusion--surgentec--tilink-l-joint-fusion",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--surgentec--tilink-l-joint-fusion",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--surgentec-llc--tilink-l-si-joint-fusion",
+      "artifact_folder": "sacroiliac-fusion--surgentec-llc--tilink-l-si-joint-fusion",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--surgentec-llc--tilink-l-si-joint-fusion",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--surgentec-llc--tilink-p-joint-fusion",
+      "artifact_folder": "sacroiliac-fusion--surgentec-llc--tilink-p-joint-fusion",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--surgentec-llc--tilink-p-joint-fusion",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--surgentec-llc--tilink-p-si-joint-fusion",
+      "artifact_folder": "sacroiliac-fusion--surgentec-llc--tilink-p-si-joint-fusion",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--surgentec-llc--tilink-p-si-joint-fusion",
+      "file_count": 4,
+      "source_counts": {
+        "fda_raw": 4
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--tenon-medical--catamaran-si-joint-fusion",
+      "artifact_folder": "sacroiliac-fusion--tenon-medical--catamaran-si-joint-fusion",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--tenon-medical--catamaran-si-joint-fusion",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--tenon-medical-inc--catamaran-sacroiliac-joint-fixation-cat",
+      "artifact_folder": "sacroiliac-fusion--tenon-medical-inc--catamaran-sacroiliac-joint-fixation-cat",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--tenon-medical-inc--catamaran-sacroiliac-joint-fixation-cat",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--tenon-medical-inc--catamaran-si-joint-fusion",
+      "artifact_folder": "sacroiliac-fusion--tenon-medical-inc--catamaran-si-joint-fusion",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--tenon-medical-inc--catamaran-si-joint-fusion",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--vgi-medical-inc--sijoin-r-t3",
+      "artifact_folder": "sacroiliac-fusion--vgi-medical-inc--sijoin-r-t3",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--vgi-medical-inc--sijoin-r-t3",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--wenzel-spine-inc--panasia-si-fusion",
+      "artifact_folder": "sacroiliac-fusion--wenzel-spine-inc--panasia-si-fusion",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--wenzel-spine-inc--panasia-si-fusion",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--x-spine-systems-inc--silex-sacroiliac-joint-fusion",
+      "artifact_folder": "sacroiliac-fusion--x-spine-systems-inc--silex-sacroiliac-joint-fusion",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--x-spine-systems-inc--silex-sacroiliac-joint-fusion",
+      "file_count": 2,
+      "source_counts": {
+        "fda_raw": 2
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--zavation-medical-products-llc--si-screw",
+      "artifact_folder": "sacroiliac-fusion--zavation-medical-products-llc--si-screw",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--zavation-medical-products-llc--si-screw",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--zyga-technology-inc--simmetry-sacroiliac-joint-fusion",
+      "artifact_folder": "sacroiliac-fusion--zyga-technology-inc--simmetry-sacroiliac-joint-fusion",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--zyga-technology-inc--simmetry-sacroiliac-joint-fusion",
+      "file_count": 5,
+      "source_counts": {
+        "fda_raw": 5
+      }
+    },
+    {
+      "slug": "sacroiliac-fusion--zyga-technology-inc--simmetry-tm-sacroiliac-joint-fusion",
+      "artifact_folder": "sacroiliac-fusion--zyga-technology-inc--simmetry-tm-sacroiliac-joint-fusion",
+      "path": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--zyga-technology-inc--simmetry-tm-sacroiliac-joint-fusion",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    }
+  ],
+  "unknown": [
+    {
+      "slug": "unknown--balt--catchview",
+      "artifact_folder": "unknown--balt--catchview",
+      "path": "artifacts/_outside_seed_registries/unknown/unknown--balt--catchview",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "unknown--balt--copernic-rc",
+      "artifact_folder": "unknown--balt--copernic-rc",
+      "path": "artifacts/_outside_seed_registries/unknown/unknown--balt--copernic-rc",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "unknown--balt--fargo",
+      "artifact_folder": "unknown--balt--fargo",
+      "path": "artifacts/_outside_seed_registries/unknown/unknown--balt--fargo",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "unknown--balt--magic-glue",
+      "artifact_folder": "unknown--balt--magic-glue",
+      "path": "artifacts/_outside_seed_registries/unknown/unknown--balt--magic-glue",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "unknown--balt--our-product-portfolio",
+      "artifact_folder": "unknown--balt--our-product-portfolio",
+      "path": "artifacts/_outside_seed_registries/unknown/unknown--balt--our-product-portfolio",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "unknown--balt--spi",
+      "artifact_folder": "unknown--balt--spi",
+      "path": "artifacts/_outside_seed_registries/unknown/unknown--balt--spi",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "unknown--balt--squid",
+      "artifact_folder": "unknown--balt--squid",
+      "path": "artifacts/_outside_seed_registries/unknown/unknown--balt--squid",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "unknown--balt--squid-peri",
+      "artifact_folder": "unknown--balt--squid-peri",
+      "path": "artifacts/_outside_seed_registries/unknown/unknown--balt--squid-peri",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "unknown--cerenovus--neurointerventional",
+      "artifact_folder": "unknown--cerenovus--neurointerventional",
+      "path": "artifacts/_outside_seed_registries/unknown/unknown--cerenovus--neurointerventional",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "unknown--integra--acclarent-aera-eustachian-tube-balloon-dilation",
+      "artifact_folder": "unknown--integra--acclarent-aera-eustachian-tube-balloon-dilation",
+      "path": "artifacts/_outside_seed_registries/unknown/unknown--integra--acclarent-aera-eustachian-tube-balloon-dilation",
+      "file_count": 2,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "unknown--integra--acclarent-aera-eustachian-tube-balloon-dilation-system",
+      "artifact_folder": "unknown--integra--acclarent-aera-eustachian-tube-balloon-dilation-system",
+      "path": "artifacts/_outside_seed_registries/unknown/unknown--integra--acclarent-aera-eustachian-tube-balloon-dilation-system",
+      "file_count": 1,
+      "source_counts": {
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "unknown--integra--acclarent-balloon-inflation-device",
+      "artifact_folder": "unknown--integra--acclarent-balloon-inflation-device",
+      "path": "artifacts/_outside_seed_registries/unknown/unknown--integra--acclarent-balloon-inflation-device",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "unknown--integra--acclarent-navwire-sinus-navigation-guidewire",
+      "artifact_folder": "unknown--integra--acclarent-navwire-sinus-navigation-guidewire",
+      "path": "artifacts/_outside_seed_registries/unknown/unknown--integra--acclarent-navwire-sinus-navigation-guidewire",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "unknown--integra--acclarent-se-inflation-device",
+      "artifact_folder": "unknown--integra--acclarent-se-inflation-device",
+      "path": "artifacts/_outside_seed_registries/unknown/unknown--integra--acclarent-se-inflation-device",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "unknown--integra--aofas2017",
+      "artifact_folder": "unknown--integra--aofas2017",
+      "path": "artifacts/_outside_seed_registries/unknown/unknown--integra--aofas2017",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "unknown--microvention--product-use-safety",
+      "artifact_folder": "unknown--microvention--product-use-safety",
+      "path": "artifacts/_outside_seed_registries/unknown/unknown--microvention--product-use-safety",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "unknown--penumbra--element",
+      "artifact_folder": "unknown--penumbra--element",
+      "path": "artifacts/_outside_seed_registries/unknown/unknown--penumbra--element",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "unknown--penumbra--neuro-thrombectomy",
+      "artifact_folder": "unknown--penumbra--neuro-thrombectomy",
+      "path": "artifacts/_outside_seed_registries/unknown/unknown--penumbra--neuro-thrombectomy",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "unknown--penumbra--products",
+      "artifact_folder": "unknown--penumbra--products",
+      "path": "artifacts/_outside_seed_registries/unknown/unknown--penumbra--products",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "unknown--penumbra--ruby-embolization",
+      "artifact_folder": "unknown--penumbra--ruby-embolization",
+      "path": "artifacts/_outside_seed_registries/unknown/unknown--penumbra--ruby-embolization",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "unknown--stryker--bone-mill-autograft-processing-and-milling",
+      "artifact_folder": "unknown--stryker--bone-mill-autograft-processing-and-milling",
+      "path": "artifacts/_outside_seed_registries/unknown/unknown--stryker--bone-mill-autograft-processing-and-milling",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "unknown--stryker--drive-2-is-part-of-signature-2-portfolio-the-comprehensive-and-customizable-neurosurgical-high-speed-drill-platform.",
+      "artifact_folder": "unknown--stryker--drive-2-is-part-of-signature-2-portfolio-the-comprehensive-and-customizable-neurosurgic--838cad7d7b",
+      "path": "artifacts/_outside_seed_registries/unknown/unknown--stryker--drive-2-is-part-of-signature-2-portfolio-the-comprehensive-and-customizable-neurosurgic--838cad7d7b",
+      "file_count": 1,
+      "source_counts": {
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "unknown--stryker--guider-softip-xf",
+      "artifact_folder": "unknown--stryker--guider-softip-xf",
+      "path": "artifacts/_outside_seed_registries/unknown/unknown--stryker--guider-softip-xf",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "unknown--stryker--merci-balloon-guide-catheter",
+      "artifact_folder": "unknown--stryker--merci-balloon-guide-catheter",
+      "path": "artifacts/_outside_seed_registries/unknown/unknown--stryker--merci-balloon-guide-catheter",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "unknown--stryker--neurovascular",
+      "artifact_folder": "unknown--stryker--neurovascular",
+      "path": "artifacts/_outside_seed_registries/unknown/unknown--stryker--neurovascular",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "unknown--stryker--pdrive-2-is-part-of-signature",
+      "artifact_folder": "unknown--stryker--pdrive-2-is-part-of-signature",
+      "path": "artifacts/_outside_seed_registries/unknown/unknown--stryker--pdrive-2-is-part-of-signature",
+      "file_count": 2,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1
+      }
+    }
+  ]
+}

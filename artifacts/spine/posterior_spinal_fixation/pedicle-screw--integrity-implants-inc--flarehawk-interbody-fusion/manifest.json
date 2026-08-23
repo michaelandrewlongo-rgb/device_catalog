@@ -1,0 +1,50 @@
+{
+  "device_slug": "pedicle-screw--integrity-implants-inc--flarehawk-interbody-fusion",
+  "artifact_folder": "pedicle-screw--integrity-implants-inc--flarehawk-interbody-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 5086,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--integrity-implants-inc--flarehawk-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--integrity-implants-inc--flarehawk-interbody-fusion/enriched/pedicle-screw--integrity-implants-inc--flarehawk-interbody-fusion.json",
+        "bytes": 1768
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K182114.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--integrity-implants-inc--flarehawk-interbody-fusion/fda_raw/MAX/K182114.json",
+        "bytes": 614
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K183184.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--integrity-implants-inc--flarehawk-interbody-fusion/fda_raw/MAX/K183184.json",
+        "bytes": 614
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K202198.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--integrity-implants-inc--flarehawk-interbody-fusion/fda_raw/MAX/K202198.json",
+        "bytes": 614
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K220453.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--integrity-implants-inc--flarehawk-interbody-fusion/fda_raw/MAX/K220453.json",
+        "bytes": 614
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--integrity-implants-inc--flarehawk-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--integrity-implants-inc--flarehawk-interbody-fusion/merged/pedicle-screw--integrity-implants-inc--flarehawk-interbody-fusion.json",
+        "bytes": 862
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

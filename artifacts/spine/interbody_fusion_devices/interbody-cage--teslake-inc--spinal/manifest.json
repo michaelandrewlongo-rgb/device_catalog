@@ -1,0 +1,42 @@
+{
+  "device_slug": "interbody-cage--teslake-inc--spinal",
+  "artifact_folder": "interbody-cage--teslake-inc--spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3498,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--teslake-inc--spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--teslake-inc--spinal/enriched/interbody-cage--teslake-inc--spinal.json",
+        "bytes": 1602
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--teslake-inc--spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--teslake-inc--spinal/extracted/fda_structured/interbody-cage--teslake-inc--spinal.json",
+        "bytes": 571
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K240963.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--teslake-inc--spinal/fda_raw/NKB/K240963.json",
+        "bytes": 543
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--teslake-inc--spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--teslake-inc--spinal/merged/interbody-cage--teslake-inc--spinal.json",
+        "bytes": 782
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

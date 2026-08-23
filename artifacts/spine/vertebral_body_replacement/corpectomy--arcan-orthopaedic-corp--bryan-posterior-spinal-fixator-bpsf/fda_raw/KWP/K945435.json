@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K945435",
+  "clearance_date": "1995-05-31",
+  "device_class": 2,
+  "manufacturer_canonical": "arcan-orthopaedic-corp",
+  "manufacturer_raw": "Arcan Orthopaedic Corp.",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "BRYAN POSTERIOR SPINAL FIXATOR (BPSF)",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--arcan-orthopaedic-corp--bryan-posterior-spinal-fixator-bpsf",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf94/K945435.pdf"
+}

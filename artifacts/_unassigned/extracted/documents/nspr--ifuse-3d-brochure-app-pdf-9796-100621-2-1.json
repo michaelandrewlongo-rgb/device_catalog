@@ -1,0 +1,25 @@
+{
+  "source_pdf": "ifuse-3d-brochure-app-pdf-9796-100621-2-1.pdf",
+  "source_path": "C:\\Users\\Michael\\Documents\\device_catalog\\pipeline\\data\\extracted\\nspr\\pdfs\\ifuse-3d-brochure-app-pdf-9796-100621-2-1.pdf",
+  "device_name": "Ifuse 3D Brochure App Pdf 9796 100621 2 1",
+  "manufacturer": "unknown",
+  "doc_type": "technique_guide",
+  "extraction_method": "pdfplumber_deepseek",
+  "extraction_source": "nspr_pdf",
+  "fields": {
+    "what_it_is": "iFuse Implant System® for minimally invasive SI joint fusion with iFuse Technology®. iFuse-3D™ Implant created with proprietary 3D printing technology. IntelliHarvest™ Bone Technology. Patented Triangular Design.",
+    "sizing_specs": "|  |  | 7.0 mm Diameter |\n| --- | --- | --- |\n|  | 35 |  |\n|  | 40 |  |\n| )mm(\nhtgneL\ntnalp | 45 |  |\n|  | 50 |  |\n|  | 55 |  |\n|  | 60 |  |\n|  | 65 |  |\n|  | 70 |  |\n| mI | 75 |  |\n|  | 80 |  |\n|  | 85 |  |\n|  | 90 |  |",
+    "indications": "The iFuse Implant System® is intended for sacroiliac fusion for conditions including sacroiliac joint dysfunction that is a direct result of sacroiliac joint disruption and degenerative sacroiliitis. This includes conditions whose symptoms began during pregnancy or in the peripartum period and have persisted postpartum for more than 6 months. The iFuse Implant System is also intended for sacroiliac fusion to augment immobilization and stabilization of the sacroiliac joint in skeletally mature patients undergoing sacropelvic fixation as a part of a lumbar or thoracolumbar fusion. In addition, the iFuse Implant System is intended for sacroiliac fusion in acute, non-acute, and non-traumatic fractures involving the sacroiliac joint.",
+    "contraindications": null,
+    "compatible_with": null,
+    "use_notes": "Minimally Invasive SI Joint Fusion with iFuse Technology®. Immediate Stabilization. Long-Term Fusion. Accelerated Fusion. The Method of Choice for SI Joint Fusion®.",
+    "also_known_as": "iFuse-3D, FuSIon 3D"
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "sizing_specs": 0.7,
+    "indications": 0.7,
+    "use_notes": 0.7,
+    "also_known_as": 0.7
+  }
+}

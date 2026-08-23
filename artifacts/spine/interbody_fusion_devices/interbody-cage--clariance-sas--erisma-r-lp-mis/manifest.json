@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--clariance-sas--erisma-r-lp-mis",
+  "artifact_folder": "interbody-cage--clariance-sas--erisma-r-lp-mis",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2746,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--clariance-sas--erisma-r-lp-mis.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--clariance-sas--erisma-r-lp-mis/enriched/interbody-cage--clariance-sas--erisma-r-lp-mis.json",
+        "bytes": 1380
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K162367.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--clariance-sas--erisma-r-lp-mis/fda_raw/NKB/K162367.json",
+        "bytes": 559
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--clariance-sas--erisma-r-lp-mis.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--clariance-sas--erisma-r-lp-mis/merged/interbody-cage--clariance-sas--erisma-r-lp-mis.json",
+        "bytes": 807
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

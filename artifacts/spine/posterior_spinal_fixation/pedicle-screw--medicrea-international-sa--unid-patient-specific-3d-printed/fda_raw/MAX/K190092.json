@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K190092",
+  "clearance_date": "2019-05-08",
+  "device_class": 2,
+  "manufacturer_canonical": "medicrea-international-sa",
+  "manufacturer_raw": "Medicrea International SA",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "UNiD Patient specific 3D printed TLIF cage",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--medicrea-international-sa--unid-patient-specific-3d-printed",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf19/K190092.pdf"
+}

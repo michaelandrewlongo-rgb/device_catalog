@@ -1,0 +1,42 @@
+{
+  "device_slug": "pedicle-screw--gs-medical-co-ltd--pyxis-3d-titanium-cage",
+  "artifact_folder": "pedicle-screw--gs-medical-co-ltd--pyxis-3d-titanium-cage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 4841,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--gs-medical-co-ltd--pyxis-3d-titanium-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--gs-medical-co-ltd--pyxis-3d-titanium-cage/enriched/pedicle-screw--gs-medical-co-ltd--pyxis-3d-titanium-cage.json",
+        "bytes": 2241
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/pedicle-screw--gs-medical-co-ltd--pyxis-3d-titanium-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--gs-medical-co-ltd--pyxis-3d-titanium-cage/extracted/fda_structured/pedicle-screw--gs-medical-co-ltd--pyxis-3d-titanium-cage.json",
+        "bytes": 1168
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K223868.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--gs-medical-co-ltd--pyxis-3d-titanium-cage/fda_raw/MAX/K223868.json",
+        "bytes": 592
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--gs-medical-co-ltd--pyxis-3d-titanium-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--gs-medical-co-ltd--pyxis-3d-titanium-cage/merged/pedicle-screw--gs-medical-co-ltd--pyxis-3d-titanium-cage.json",
+        "bytes": 840
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

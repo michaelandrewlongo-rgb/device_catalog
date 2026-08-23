@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--hc-biologics-llc--hc-biologics-osteopoint-spinal-fixation",
+  "artifact_folder": "interbody-cage--hc-biologics-llc--hc-biologics-osteopoint-spinal-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2986,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--hc-biologics-llc--hc-biologics-osteopoint-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--hc-biologics-llc--hc-biologics-osteopoint-spinal-fixation/enriched/interbody-cage--hc-biologics-llc--hc-biologics-osteopoint-spinal-fixation.json",
+        "bytes": 1472
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K250092.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--hc-biologics-llc--hc-biologics-osteopoint-spinal-fixation/fda_raw/NKB/K250092.json",
+        "bytes": 623
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--hc-biologics-llc--hc-biologics-osteopoint-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--hc-biologics-llc--hc-biologics-osteopoint-spinal-fixation/merged/interbody-cage--hc-biologics-llc--hc-biologics-osteopoint-spinal-fixation.json",
+        "bytes": 891
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

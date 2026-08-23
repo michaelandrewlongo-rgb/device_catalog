@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--life-spine-llc--modification-to-nautilus-spinal",
+  "artifact_folder": "interbody-cage--life-spine-llc--modification-to-nautilus-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2908,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--life-spine-llc--modification-to-nautilus-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--life-spine-llc--modification-to-nautilus-spinal/enriched/interbody-cage--life-spine-llc--modification-to-nautilus-spinal.json",
+        "bytes": 1444
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K133564.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--life-spine-llc--modification-to-nautilus-spinal/fda_raw/NKB/K133564.json",
+        "bytes": 601
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--life-spine-llc--modification-to-nautilus-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--life-spine-llc--modification-to-nautilus-spinal/merged/interbody-cage--life-spine-llc--modification-to-nautilus-spinal.json",
+        "bytes": 863
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

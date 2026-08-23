@@ -1,0 +1,42 @@
+{
+  "device_slug": "csf-shunt--cook-inc--ventricular-catheter-set",
+  "artifact_folder": "csf-shunt--cook-inc--ventricular-catheter-set",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3654,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--cook-inc--ventricular-catheter-set.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cook-inc--ventricular-catheter-set/enriched/csf-shunt--cook-inc--ventricular-catheter-set.json",
+        "bytes": 1670
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/csf-shunt--cook-inc--ventricular-catheter-set.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cook-inc--ventricular-catheter-set/extracted/fda_structured/csf-shunt--cook-inc--ventricular-catheter-set.json",
+        "bytes": 626
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K962097.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cook-inc--ventricular-catheter-set/fda_raw/JXG/K962097.json",
+        "bytes": 552
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--cook-inc--ventricular-catheter-set.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cook-inc--ventricular-catheter-set/merged/csf-shunt--cook-inc--ventricular-catheter-set.json",
+        "bytes": 806
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

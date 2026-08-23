@@ -11,12 +11,35 @@
   "product_code": "QJP",
   "what_it_is": null,
   "sizing_specs": null,
-  "indications": null,
+  "indications": "Indications for Use See PRA Statement below.\n510(k) Number (if known)\nK251240\nDevice Name\nBranchor X Balloon Guide Catheter\nIndications for Use (Describe)\nThe Branchor X Balloon Guide Catheter is indicated for use to facilitate the insertion and guidance of an intravascular\ncatheter into a selected blood vessel in the neuro vasculature, and injection of contrast media.\nThe balloon provides temporary vascular occlusion during these procedures.\nThe Branchor X Balloon Guide Catheter can also be used as a conduit for retrieval devices.\nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)\nCONTINUE ON A SEPARATE PAGE IF NEEDED.\nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the\ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any other aspect\nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of\ninformation unless it displays a currently valid OMB number.”\nFORM FDA 3881 (8/23) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF\n\nK251240\n510(k) Summary\n(as required by 21 CFR § 807.92)\nGlobal Headquarters and R&D Center\n3-100 Akatsuki-cho, Seto-shi, Aichi 489-0071 Japan\nTEL : +81-561-48-5551 FAX : +81-561-48-5552\nhttp://www.asahi-intecc.co.jp/\nBranchor X Balloon Guide Catheter\nK251240\nDate Prepared: 11 June 2025\nApplicant: ASAHI INTECC CO., LTD.\n3-100 Akatsuki-cho,\nSeto, Aichi 489-0071 Japan\nContact: Esther Kim\nQuality System and Regulatory Affairs Associate\nASAHI INTECC USA, Inc.\n3002 Dow Avenue, Suite 212\nTustin, CA 92780\nOffice: (949) 756-8901 ext 508\ne-mail: aiu_ra@asahi-intecc-us.com\nTrade/Device Name: Branchor X Balloon Guide Catheter\nRegulation Number: 21 CFR § 870.1250\nClassification Name: Percutaneous Catheter\nDevice Classification: Class II\nProduct Code: QJP – Catheter, Percutaneous, Neurovasculature",
   "contraindications": null,
   "compatible_with": null,
   "use_notes": null,
   "deployment_steps": null,
-  "also_known_as": [],
+  "also_known_as": [
+    "K221951",
+    "K203723",
+    "K120781",
+    "K221951",
+    "K203723",
+    "K120781",
+    "K251240",
+    "K221951",
+    "K251240",
+    "K251240",
+    "K221951",
+    "K203723",
+    "K120781",
+    "K251240",
+    "K221951",
+    "K203723",
+    "K120781",
+    "K251240",
+    "K251240",
+    "K251240",
+    "K251240",
+    "K251240"
+  ],
   "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf25/K251240.pdf",
   "ifu_pdf_url": null,
   "source_url": "",
@@ -35,8 +58,8 @@
       "confidence": 0
     },
     "indications": {
-      "source": "none",
-      "confidence": 0
+      "source": "fda_summary",
+      "confidence": 0.95
     },
     "contraindications": {
       "source": "none",
@@ -51,8 +74,8 @@
       "confidence": 0
     },
     "also_known_as": {
-      "source": "none",
-      "confidence": 0
+      "source": "fda_summary",
+      "confidence": 0.3
     }
   }
 }

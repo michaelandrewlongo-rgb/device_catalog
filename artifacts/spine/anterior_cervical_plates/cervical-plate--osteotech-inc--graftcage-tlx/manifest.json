@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--osteotech-inc--graftcage-tlx",
+  "artifact_folder": "cervical-plate--osteotech-inc--graftcage-tlx",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2723,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--osteotech-inc--graftcage-tlx.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--osteotech-inc--graftcage-tlx/enriched/cervical-plate--osteotech-inc--graftcage-tlx.json",
+        "bytes": 1374
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K051781.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--osteotech-inc--graftcage-tlx/fda_raw/MQP/K051781.json",
+        "bytes": 556
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--osteotech-inc--graftcage-tlx.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--osteotech-inc--graftcage-tlx/merged/cervical-plate--osteotech-inc--graftcage-tlx.json",
+        "bytes": 793
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

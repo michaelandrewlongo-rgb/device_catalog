@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--shanghai-sanyou-medical-co-ltd--zeus-spinal",
+  "artifact_folder": "interbody-cage--shanghai-sanyou-medical-co-ltd--zeus-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2861,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--shanghai-sanyou-medical-co-ltd--zeus-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--shanghai-sanyou-medical-co-ltd--zeus-spinal/enriched/interbody-cage--shanghai-sanyou-medical-co-ltd--zeus-spinal.json",
+        "bytes": 1416
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K230961.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--shanghai-sanyou-medical-co-ltd--zeus-spinal/fda_raw/NKB/K230961.json",
+        "bytes": 610
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--shanghai-sanyou-medical-co-ltd--zeus-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--shanghai-sanyou-medical-co-ltd--zeus-spinal/merged/interbody-cage--shanghai-sanyou-medical-co-ltd--zeus-spinal.json",
+        "bytes": 835
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

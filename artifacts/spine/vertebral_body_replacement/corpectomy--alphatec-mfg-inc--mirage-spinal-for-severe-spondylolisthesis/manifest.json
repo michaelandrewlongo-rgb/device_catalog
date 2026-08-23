@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--alphatec-mfg-inc--mirage-spinal-for-severe-spondylolisthesis",
+  "artifact_folder": "corpectomy--alphatec-mfg-inc--mirage-spinal-for-severe-spondylolisthesis",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2988,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--alphatec-mfg-inc--mirage-spinal-for-severe-spondylolisthesis.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--alphatec-mfg-inc--mirage-spinal-for-severe-spondylolisthesis/enriched/corpectomy--alphatec-mfg-inc--mirage-spinal-for-severe-spondylolisthesis.json",
+        "bytes": 1473
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K951846.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--alphatec-mfg-inc--mirage-spinal-for-severe-spondylolisthesis/fda_raw/KWP/K951846.json",
+        "bytes": 623
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--alphatec-mfg-inc--mirage-spinal-for-severe-spondylolisthesis.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--alphatec-mfg-inc--mirage-spinal-for-severe-spondylolisthesis/merged/corpectomy--alphatec-mfg-inc--mirage-spinal-for-severe-spondylolisthesis.json",
+        "bytes": 892
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

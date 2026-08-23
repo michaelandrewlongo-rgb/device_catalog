@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K021825",
+  "clearance_date": "2002-07-01",
+  "device_class": 2,
+  "manufacturer_canonical": "unitedstates-surgical",
+  "manufacturer_raw": "Unitedstates Surgical",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "MODIFICATION TO SPIRAL RADIUS 90-D SST SYSTEM",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--unitedstates-surgical--modification-to-spiral-radius-90",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf02/K021825.pdf"
+}

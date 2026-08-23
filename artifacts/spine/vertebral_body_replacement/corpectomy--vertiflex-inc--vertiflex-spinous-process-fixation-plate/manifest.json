@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--vertiflex-inc--vertiflex-spinous-process-fixation-plate",
+  "artifact_folder": "corpectomy--vertiflex-inc--vertiflex-spinous-process-fixation-plate",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2915,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--vertiflex-inc--vertiflex-spinous-process-fixation-plate.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--vertiflex-inc--vertiflex-spinous-process-fixation-plate/enriched/corpectomy--vertiflex-inc--vertiflex-spinous-process-fixation-plate.json",
+        "bytes": 1447
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K122509.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--vertiflex-inc--vertiflex-spinous-process-fixation-plate/fda_raw/KWP/K122509.json",
+        "bytes": 602
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--vertiflex-inc--vertiflex-spinous-process-fixation-plate.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--vertiflex-inc--vertiflex-spinous-process-fixation-plate/merged/corpectomy--vertiflex-inc--vertiflex-spinous-process-fixation-plate.json",
+        "bytes": 866
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

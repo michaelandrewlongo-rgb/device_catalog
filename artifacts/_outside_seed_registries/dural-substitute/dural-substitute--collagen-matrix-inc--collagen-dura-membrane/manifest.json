@@ -1,0 +1,54 @@
+{
+  "device_slug": "dural-substitute--collagen-matrix-inc--collagen-dura-membrane",
+  "artifact_folder": "dural-substitute--collagen-matrix-inc--collagen-dura-membrane",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 123612,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/dural-substitute/parsed/fda_summaries/dural-substitute--collagen-matrix-inc--collagen-dura-membrane--510k.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--collagen-matrix-inc--collagen-dura-membrane/510k/dural-substitute/parsed/fda_summaries/dural-substitute--collagen-matrix-inc--collagen-dura-membrane--510k.json",
+        "bytes": 17062
+      },
+      {
+        "source": "pipeline/data/510k/dural-substitute/pdfs/dural-substitute--collagen-matrix-inc--collagen-dura-membrane--510k.pdf",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--collagen-matrix-inc--collagen-dura-membrane/510k/dural-substitute/pdfs/dural-substitute--collagen-matrix-inc--collagen-dura-membrane--510k.pdf",
+        "bytes": 97546
+      }
+    ],
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/dural-substitute--collagen-matrix-inc--collagen-dura-membrane--knowledge.md",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--collagen-matrix-inc--collagen-dura-membrane/data_by_device/dural-substitute--collagen-matrix-inc--collagen-dura-membrane--knowledge.md",
+        "bytes": 3704
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/dural-substitute--collagen-matrix-inc--collagen-dura-membrane.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--collagen-matrix-inc--collagen-dura-membrane/enriched/dural-substitute--collagen-matrix-inc--collagen-dura-membrane.json",
+        "bytes": 3869
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/GXQ/K141608.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--collagen-matrix-inc--collagen-dura-membrane/fda_raw/GXQ/K141608.json",
+        "bytes": 595
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/dural-substitute--collagen-matrix-inc--collagen-dura-membrane.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--collagen-matrix-inc--collagen-dura-membrane/merged/dural-substitute--collagen-matrix-inc--collagen-dura-membrane.json",
+        "bytes": 836
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "dural-substitute",
+    "label": "Outside listed seed registries"
+  }
+}

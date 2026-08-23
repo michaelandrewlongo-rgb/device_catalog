@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--globus--fortify-and-fortify-integrated-corpectomy",
+  "artifact_folder": "pedicle-screw--globus--fortify-and-fortify-integrated-corpectomy",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 5335,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--globus--fortify-and-fortify-integrated-corpectomy.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--globus--fortify-and-fortify-integrated-corpectomy/enriched/pedicle-screw--globus--fortify-and-fortify-integrated-corpectomy.json",
+        "bytes": 2946
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K171848.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--globus--fortify-and-fortify-integrated-corpectomy/fda_raw/MAX/K171848.json",
+        "bytes": 910
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--globus--fortify-and-fortify-integrated-corpectomy.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--globus--fortify-and-fortify-integrated-corpectomy/merged/pedicle-screw--globus--fortify-and-fortify-integrated-corpectomy.json",
+        "bytes": 1479
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

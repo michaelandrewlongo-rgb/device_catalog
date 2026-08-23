@@ -1,0 +1,40 @@
+{
+  "device_slug": "csf-shunt--cerenovus--codman-bactiseal-evd-catheter-set",
+  "artifact_folder": "csf-shunt--cerenovus--codman-bactiseal-evd-catheter-set",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3464,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--cerenovus--codman-bactiseal-evd-catheter-set.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cerenovus--codman-bactiseal-evd-catheter-set/enriched/csf-shunt--cerenovus--codman-bactiseal-evd-catheter-set.json",
+        "bytes": 1416
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K021653.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cerenovus--codman-bactiseal-evd-catheter-set/fda_raw/JXG/K021653.json",
+        "bytes": 586
+      },
+      {
+        "source": "pipeline/data/fda_raw/JXG/K090348.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cerenovus--codman-bactiseal-evd-catheter-set/fda_raw/JXG/K090348.json",
+        "bytes": 627
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--cerenovus--codman-bactiseal-evd-catheter-set.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cerenovus--codman-bactiseal-evd-catheter-set/merged/csf-shunt--cerenovus--codman-bactiseal-evd-catheter-set.json",
+        "bytes": 835
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

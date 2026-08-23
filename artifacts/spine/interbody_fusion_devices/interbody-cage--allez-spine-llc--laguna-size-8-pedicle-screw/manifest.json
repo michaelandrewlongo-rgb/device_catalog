@@ -1,0 +1,40 @@
+{
+  "device_slug": "interbody-cage--allez-spine-llc--laguna-size-8-pedicle-screw",
+  "artifact_folder": "interbody-cage--allez-spine-llc--laguna-size-8-pedicle-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3976,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--allez-spine-llc--laguna-size-8-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--allez-spine-llc--laguna-size-8-pedicle-screw/enriched/interbody-cage--allez-spine-llc--laguna-size-8-pedicle-screw.json",
+        "bytes": 1952
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K072678.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--allez-spine-llc--laguna-size-8-pedicle-screw/fda_raw/NKB/K072678.json",
+        "bytes": 589
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K091995.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--allez-spine-llc--laguna-size-8-pedicle-screw/fda_raw/NKB/K091995.json",
+        "bytes": 596
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--allez-spine-llc--laguna-size-8-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--allez-spine-llc--laguna-size-8-pedicle-screw/merged/interbody-cage--allez-spine-llc--laguna-size-8-pedicle-screw.json",
+        "bytes": 839
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

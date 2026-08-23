@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--medos-international-sarl--concorde-bullet-lumbar-interbody",
+  "artifact_folder": "pedicle-screw--medos-international-sarl--concorde-bullet-lumbar-interbody",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2979,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--medos-international-sarl--concorde-bullet-lumbar-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medos-international-sarl--concorde-bullet-lumbar-interbody/enriched/pedicle-screw--medos-international-sarl--concorde-bullet-lumbar-interbody.json",
+        "bytes": 1465
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K151773.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medos-international-sarl--concorde-bullet-lumbar-interbody/fda_raw/MAX/K151773.json",
+        "bytes": 630
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--medos-international-sarl--concorde-bullet-lumbar-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medos-international-sarl--concorde-bullet-lumbar-interbody/merged/pedicle-screw--medos-international-sarl--concorde-bullet-lumbar-interbody.json",
+        "bytes": 884
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

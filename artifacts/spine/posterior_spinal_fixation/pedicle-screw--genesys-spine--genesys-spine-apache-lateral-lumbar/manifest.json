@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--genesys-spine--genesys-spine-apache-lateral-lumbar",
+  "artifact_folder": "pedicle-screw--genesys-spine--genesys-spine-apache-lateral-lumbar",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3011,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--genesys-spine--genesys-spine-apache-lateral-lumbar.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--genesys-spine--genesys-spine-apache-lateral-lumbar/enriched/pedicle-screw--genesys-spine--genesys-spine-apache-lateral-lumbar.json",
+        "bytes": 1486
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K130913.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--genesys-spine--genesys-spine-apache-lateral-lumbar/fda_raw/MAX/K130913.json",
+        "bytes": 620
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--genesys-spine--genesys-spine-apache-lateral-lumbar.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--genesys-spine--genesys-spine-apache-lateral-lumbar/merged/pedicle-screw--genesys-spine--genesys-spine-apache-lateral-lumbar.json",
+        "bytes": 905
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--nexxt-spine-llc--inertia-pedicle-screw-and-deformity",
+  "artifact_folder": "interbody-cage--nexxt-spine-llc--inertia-pedicle-screw-and-deformity",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3002,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--nexxt-spine-llc--inertia-pedicle-screw-and-deformity.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--nexxt-spine-llc--inertia-pedicle-screw-and-deformity/enriched/interbody-cage--nexxt-spine-llc--inertia-pedicle-screw-and-deformity.json",
+        "bytes": 1480
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K153453.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--nexxt-spine-llc--inertia-pedicle-screw-and-deformity/fda_raw/NKB/K153453.json",
+        "bytes": 623
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--nexxt-spine-llc--inertia-pedicle-screw-and-deformity.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--nexxt-spine-llc--inertia-pedicle-screw-and-deformity/merged/interbody-cage--nexxt-spine-llc--inertia-pedicle-screw-and-deformity.json",
+        "bytes": 899
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

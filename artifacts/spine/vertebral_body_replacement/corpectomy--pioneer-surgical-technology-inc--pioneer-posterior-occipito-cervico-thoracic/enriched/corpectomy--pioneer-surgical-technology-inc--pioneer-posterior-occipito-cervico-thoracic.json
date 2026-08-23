@@ -1,0 +1,62 @@
+{
+  "device_name": "PIONEER POSTERIOR OCCIPITO-CERVICO-THORACIC (OCT) SYSTEM",
+  "manufacturer": "pioneer-surgical-technology-inc",
+  "catalog_category": "corpectomy",
+  "filename_stem": "corpectomy--pioneer-surgical-technology-inc--pioneer-posterior-occipito-cervico-thoracic",
+  "clearance_type": "510k",
+  "clearance_number": "K121725",
+  "clearance_date": "2012-11-07",
+  "device_class": 2,
+  "device_name_fda": "PIONEER POSTERIOR OCCIPITO-CERVICO-THORACIC (OCT) SYSTEM",
+  "product_code": "KWP",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "[FDA RECALL] 4 active recall(s).\n  - RTI Surgical Inc. (RTI) is conducting a voluntary recall on two specific lots of the Streamline OCT Straight\nRod, CoCr. 3.2mm (D) x 240mm (L) due to the potential for small cracks to be present on the\n  - Multiple lots of the 26-FNLDRIVER, may have reduced mechanical strength, resulting in driver tip fracturing during use.",
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf12/K121725.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "none",
+      "confidence": 0
+    },
+    "sizing_specs": {
+      "source": "none",
+      "confidence": 0
+    },
+    "indications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "none",
+      "confidence": 0
+    },
+    "also_known_as": {
+      "source": "none",
+      "confidence": 0
+    },
+    "_safety": {
+      "source": "fda_maude+recalls",
+      "confidence": 0.85
+    }
+  }
+}

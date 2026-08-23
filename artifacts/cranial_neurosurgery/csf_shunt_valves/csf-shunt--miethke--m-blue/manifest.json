@@ -1,0 +1,33 @@
+{
+  "device_slug": "csf-shunt--miethke--m-blue",
+  "artifact_folder": "csf-shunt--miethke--m-blue",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 1482615,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/csf-shunt--miethke--m-blue--ifu.pdf",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--miethke--m-blue/data_by_device/csf-shunt--miethke--m-blue--ifu.pdf",
+        "bytes": 1467587
+      },
+      {
+        "source": "pipeline/data/data_by_device/csf-shunt--miethke--m-blue--knowledge.md",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--miethke--m-blue/data_by_device/csf-shunt--miethke--m-blue--knowledge.md",
+        "bytes": 7358
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/documents/csf-shunt--miethke--m-blue--ifu.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--miethke--m-blue/extracted/documents/csf-shunt--miethke--m-blue--ifu.json",
+        "bytes": 7670
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

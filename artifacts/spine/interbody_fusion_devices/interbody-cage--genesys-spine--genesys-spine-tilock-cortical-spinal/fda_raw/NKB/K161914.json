@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K161914",
+  "clearance_date": "2016-08-09",
+  "device_class": 2,
+  "manufacturer_canonical": "genesys-spine",
+  "manufacturer_raw": "Genesys Spine",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "Genesys Spine TiLock Cortical Spinal System",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--genesys-spine--genesys-spine-tilock-cortical-spinal",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf16/K161914.pdf"
+}

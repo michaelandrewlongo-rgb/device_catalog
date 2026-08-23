@@ -1,0 +1,21 @@
+{
+  "device_slug": "interbody-cage--stryker--tritanium-tl-curved-posterior-lumbar-cage",
+  "artifact_folder": "interbody-cage--stryker--tritanium-tl-curved-posterior-lumbar-cage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 1353,
+  "sources": {
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/stryker/tritanium-tl-curved-posterior-lumbar-cage.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker--tritanium-tl-curved-posterior-lumbar-cage/scraper_raw/stryker/tritanium-tl-curved-posterior-lumbar-cage.json",
+        "bytes": 1353
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

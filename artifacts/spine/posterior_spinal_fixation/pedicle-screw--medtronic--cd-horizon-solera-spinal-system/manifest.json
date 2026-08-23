@@ -1,0 +1,21 @@
+{
+  "device_slug": "pedicle-screw--medtronic--cd-horizon-solera-spinal-system",
+  "artifact_folder": "pedicle-screw--medtronic--cd-horizon-solera-spinal-system",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 580,
+  "sources": {
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/medtronic/cd-horizon-solera-spinal-system.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--cd-horizon-solera-spinal-system/scraper_raw/medtronic/cd-horizon-solera-spinal-system.json",
+        "bytes": 580
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

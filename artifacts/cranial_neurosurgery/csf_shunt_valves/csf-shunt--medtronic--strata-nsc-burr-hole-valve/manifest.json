@@ -1,0 +1,21 @@
+{
+  "device_slug": "csf-shunt--medtronic--strata-nsc-burr-hole-valve",
+  "artifact_folder": "csf-shunt--medtronic--strata-nsc-burr-hole-valve",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 611,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K082127.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medtronic--strata-nsc-burr-hole-valve/fda_raw/JXG/K082127.json",
+        "bytes": 611
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

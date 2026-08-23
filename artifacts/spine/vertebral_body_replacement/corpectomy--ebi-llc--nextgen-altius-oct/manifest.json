@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--ebi-llc--nextgen-altius-oct",
+  "artifact_folder": "corpectomy--ebi-llc--nextgen-altius-oct",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2731,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--ebi-llc--nextgen-altius-oct.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--ebi-llc--nextgen-altius-oct/enriched/corpectomy--ebi-llc--nextgen-altius-oct.json",
+        "bytes": 1383
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K140734.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--ebi-llc--nextgen-altius-oct/fda_raw/KWP/K140734.json",
+        "bytes": 546
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--ebi-llc--nextgen-altius-oct.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--ebi-llc--nextgen-altius-oct/merged/corpectomy--ebi-llc--nextgen-altius-oct.json",
+        "bytes": 802
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

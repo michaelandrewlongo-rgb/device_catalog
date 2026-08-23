@@ -1,0 +1,42 @@
+{
+  "device_slug": "cervical-disc--medtronic--prestige-lp-cervical-disc",
+  "artifact_folder": "cervical-disc--medtronic--prestige-lp-cervical-disc",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 5662,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/cervical-disc--medtronic--prestige-lp-cervical-disc--knowledge.md",
+        "artifact": "artifacts/spine/disc_arthroplasty/cervical-disc--medtronic--prestige-lp-cervical-disc/data_by_device/cervical-disc--medtronic--prestige-lp-cervical-disc--knowledge.md",
+        "bytes": 1605
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-disc--medtronic--prestige-lp-cervical-disc.json",
+        "artifact": "artifacts/spine/disc_arthroplasty/cervical-disc--medtronic--prestige-lp-cervical-disc/enriched/cervical-disc--medtronic--prestige-lp-cervical-disc.json",
+        "bytes": 1909
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-disc--medtronic--prestige-lp-cervical-disc.json",
+        "artifact": "artifacts/spine/disc_arthroplasty/cervical-disc--medtronic--prestige-lp-cervical-disc/merged/cervical-disc--medtronic--prestige-lp-cervical-disc.json",
+        "bytes": 1303
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/medtronic/prestige-lp-cervical-disc.json",
+        "artifact": "artifacts/spine/disc_arthroplasty/cervical-disc--medtronic--prestige-lp-cervical-disc/scraper_raw/medtronic/prestige-lp-cervical-disc.json",
+        "bytes": 845
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "disc_arthroplasty",
+    "label": "Cervical and Lumbar Disc Replacement"
+  }
+}

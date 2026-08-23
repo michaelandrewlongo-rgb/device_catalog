@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--k-j-consulting-corp--rexious-spinal-fixation-statera-spinal",
+  "artifact_folder": "interbody-cage--k-j-consulting-corp--rexious-spinal-fixation-statera-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3200,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--k-j-consulting-corp--rexious-spinal-fixation-statera-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--k-j-consulting-corp--rexious-spinal-fixation-statera-spinal/enriched/interbody-cage--k-j-consulting-corp--rexious-spinal-fixation-statera-spinal.json",
+        "bytes": 1549
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K232586.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--k-j-consulting-corp--rexious-spinal-fixation-statera-spinal/fda_raw/NKB/K232586.json",
+        "bytes": 667
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--k-j-consulting-corp--rexious-spinal-fixation-statera-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--k-j-consulting-corp--rexious-spinal-fixation-statera-spinal/merged/interbody-cage--k-j-consulting-corp--rexious-spinal-fixation-statera-spinal.json",
+        "bytes": 984
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--depuy--synthes-contoured-synmesh-spacer",
+  "artifact_folder": "cervical-plate--depuy--synthes-contoured-synmesh-spacer",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2825,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--depuy--synthes-contoured-synmesh-spacer.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuy--synthes-contoured-synmesh-spacer/enriched/cervical-plate--depuy--synthes-contoured-synmesh-spacer.json",
+        "bytes": 1415
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K041389.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuy--synthes-contoured-synmesh-spacer/fda_raw/MQP/K041389.json",
+        "bytes": 576
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--depuy--synthes-contoured-synmesh-spacer.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuy--synthes-contoured-synmesh-spacer/merged/cervical-plate--depuy--synthes-contoured-synmesh-spacer.json",
+        "bytes": 834
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

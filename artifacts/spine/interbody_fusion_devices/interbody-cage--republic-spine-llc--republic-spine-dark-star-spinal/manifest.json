@@ -1,0 +1,40 @@
+{
+  "device_slug": "interbody-cage--republic-spine-llc--republic-spine-dark-star-spinal",
+  "artifact_folder": "interbody-cage--republic-spine-llc--republic-spine-dark-star-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3549,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--republic-spine-llc--republic-spine-dark-star-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--republic-spine-llc--republic-spine-dark-star-spinal/enriched/interbody-cage--republic-spine-llc--republic-spine-dark-star-spinal.json",
+        "bytes": 1452
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K181495.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--republic-spine-llc--republic-spine-dark-star-spinal/fda_raw/NKB/K181495.json",
+        "bytes": 613
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K201420.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--republic-spine-llc--republic-spine-dark-star-spinal/fda_raw/NKB/K201420.json",
+        "bytes": 613
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--republic-spine-llc--republic-spine-dark-star-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--republic-spine-llc--republic-spine-dark-star-spinal/merged/interbody-cage--republic-spine-llc--republic-spine-dark-star-spinal.json",
+        "bytes": 871
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

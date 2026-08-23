@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--orthofix--firebird-r-spinal-fixation-s",
+  "artifact_folder": "interbody-cage--orthofix--firebird-r-spinal-fixation-s",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 4520,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--orthofix--firebird-r-spinal-fixation-s.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--orthofix--firebird-r-spinal-fixation-s/enriched/interbody-cage--orthofix--firebird-r-spinal-fixation-s.json",
+        "bytes": 2281
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K180179.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--orthofix--firebird-r-spinal-fixation-s/fda_raw/NKB/K180179.json",
+        "bytes": 835
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--orthofix--firebird-r-spinal-fixation-s.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--orthofix--firebird-r-spinal-fixation-s/merged/interbody-cage--orthofix--firebird-r-spinal-fixation-s.json",
+        "bytes": 1404
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

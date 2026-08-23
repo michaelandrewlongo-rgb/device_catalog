@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--stryker-corp--power-adaptor-instrument-accessory",
+  "artifact_folder": "interbody-cage--stryker-corp--power-adaptor-instrument-accessory",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2883,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--stryker-corp--power-adaptor-instrument-accessory.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker-corp--power-adaptor-instrument-accessory/enriched/interbody-cage--stryker-corp--power-adaptor-instrument-accessory.json",
+        "bytes": 1435
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K120434.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker-corp--power-adaptor-instrument-accessory/fda_raw/NKB/K120434.json",
+        "bytes": 594
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--stryker-corp--power-adaptor-instrument-accessory.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker-corp--power-adaptor-instrument-accessory/merged/interbody-cage--stryker-corp--power-adaptor-instrument-accessory.json",
+        "bytes": 854
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "device_family": "aspiration--wallaby-medical--esperance-3-aspiration-catheter",
+    "query_used": "\"Esperance 3+ Aspiration Catheter System\" OR \"Wallaby Esperance 3+\"",
+    "raw": {
+      "abstract": "This study was conducted to determine the safety and efficacy of the Esperance® Distal Access Catheter (0.071\"), a novel large bore aspiration catheter in treating acute ischemic stroke (AIS) with large vessel occlusion (LVO).\nA prospective multicenter clinical trial involving 15 stroke centers was performed. Baseline characteristics, procedural data, and angiographic and clinical outcomes of all acute stroke procedures (from May 2020 to March 2021) using the novel large bore aspiration catheter were analyzed.\nDuring the study period, 160 consecutive patients were recruited. The mean age and median baseline NIHSS were 65.4 years and 16, respectively. Successful reperfusion was achieved in 147 (91.9%) cases [at least modified Thrombolysis in Cerebral Infarction (mTICI) 2b] with aspiration alone, with complete reperfusion (mTICI 3) in 94 (58.8%) cases. Successful/complete first pass reperfusion was achieved in 104 (64.60%) cases, including mTICI 2b in 34 (21.1%) cases and mTICI 3 in 70 (43.5%) cases. The time from groin puncture to successful reperfusion was 44 (33, 62) min. There were 16 (9.9%) cases requiring rescue therapy using stent-retriever. Procedure-related complications included 2 (1.3%) cases of arterial perforation, 2 (1.3%) cases of arterial dissection, 12 (7.5%) cases of distal embolization, and 1(0.6%) case of puncture site infection. The rate of symptomatic intracranial hemorrhage (sICH) was 3.8% and mortality rate was 13.8%. A total of 99 (62.3%) cases had a favorable outcome (mRS 0-2) at 90 days.\nIn current practice, the first-line aspiration approach with the Esperance® Distal Access Catheter is safe and efficacious. This device may achieve high reperfusion rates with lower instances of rescue stent retriever therapy.",
+      "doi": "10.3389/fneur.2022.864563",
+      "journal": "Frontiers in neurology",
+      "matched_device_family": "aspiration--wallaby-medical--esperance-3-aspiration-catheter",
+      "pmid": "35756925",
+      "publication_date": "2022",
+      "query_used": "\"Esperance 3+ Aspiration Catheter System\" OR \"Wallaby Esperance 3+\"",
+      "source_retrieved_at": "2026-04-15T10:17:35+00:00",
+      "title": "A Prospective, Multicenter, Single-Group Target-Value Clinical Trial to Evaluate the Safety and Efficacy of a Large Bore Aspiration Catheter System for the Endovascular Treatment of Acute Ischemic Stroke."
+    },
+    "retrieved_at": "2026-04-15T10:17:35+00:00",
+    "source_id": "pubmed:35756925",
+    "source_type": "pubmed",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/35756925/",
+    "title": "A Prospective, Multicenter, Single-Group Target-Value Clinical Trial to Evaluate the Safety and Efficacy of a Large Bore Aspiration Catheter System for the Endovascular Treatment of Acute Ischemic Stroke."
+  }
+]

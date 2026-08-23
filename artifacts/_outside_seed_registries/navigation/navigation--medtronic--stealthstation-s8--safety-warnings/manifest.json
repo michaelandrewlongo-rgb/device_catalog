@@ -1,0 +1,28 @@
+{
+  "device_slug": "navigation--medtronic--stealthstation-s8--safety-warnings",
+  "artifact_folder": "navigation--medtronic--stealthstation-s8--safety-warnings",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 2,
+  "bytes": 863943,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/navigation--medtronic--stealthstation-s8--safety-warnings.pdf",
+        "artifact": "artifacts/_outside_seed_registries/navigation/navigation--medtronic--stealthstation-s8--safety-warnings/data_by_device/navigation--medtronic--stealthstation-s8--safety-warnings.pdf",
+        "bytes": 855765
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/documents/navigation--medtronic--stealthstation-s8--safety-warnings.json",
+        "artifact": "artifacts/_outside_seed_registries/navigation/navigation--medtronic--stealthstation-s8--safety-warnings/extracted/documents/navigation--medtronic--stealthstation-s8--safety-warnings.json",
+        "bytes": 8178
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "navigation",
+    "label": "Outside listed seed registries"
+  }
+}

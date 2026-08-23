@@ -1,0 +1,47 @@
+{
+  "device_slug": "interbody-cage--zimmer-biomet--pathfinder-nxt-minimally-invasive-pedicle",
+  "artifact_folder": "interbody-cage--zimmer-biomet--pathfinder-nxt-minimally-invasive-pedicle",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 5241,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--zimmer-biomet--pathfinder-nxt-minimally-invasive-pedicle.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--zimmer-biomet--pathfinder-nxt-minimally-invasive-pedicle/enriched/interbody-cage--zimmer-biomet--pathfinder-nxt-minimally-invasive-pedicle.json",
+        "bytes": 2367
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--zimmer-biomet--pathfinder-nxt-minimally-invasive-pedicle.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--zimmer-biomet--pathfinder-nxt-minimally-invasive-pedicle/extracted/fda_structured/interbody-cage--zimmer-biomet--pathfinder-nxt-minimally-invasive-pedicle.json",
+        "bytes": 715
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K121671.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--zimmer-biomet--pathfinder-nxt-minimally-invasive-pedicle/fda_raw/NKB/K121671.json",
+        "bytes": 628
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K132884.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--zimmer-biomet--pathfinder-nxt-minimally-invasive-pedicle/fda_raw/NKB/K132884.json",
+        "bytes": 628
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--zimmer-biomet--pathfinder-nxt-minimally-invasive-pedicle.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--zimmer-biomet--pathfinder-nxt-minimally-invasive-pedicle/merged/interbody-cage--zimmer-biomet--pathfinder-nxt-minimally-invasive-pedicle.json",
+        "bytes": 903
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

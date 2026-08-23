@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K032094",
+  "clearance_date": "2003-11-14",
+  "device_class": 2,
+  "manufacturer_canonical": "medicrea",
+  "manufacturer_raw": "Medicrea",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "PASSMED SPINAL SYSTEM",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--medicrea--passmed-spinal",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf03/K032094.pdf"
+}

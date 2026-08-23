@@ -1,0 +1,91 @@
+[
+  {
+    "device_family": "aspiration--medtronic--apro-aspiration-catheter",
+    "query_used": "brand_name:\"APRO Aspiration Catheter\" OR brand_name:\"APRO 55\" OR brand_name:\"APRO 70\"",
+    "raw": {
+      "brand_name": "APRO 55 Intermediate Catheter",
+      "catalog_number": "APRO-55IC-125",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "company_name": "Alembic, LLC",
+      "device_count_in_base_package": "1",
+      "device_description": "APRO 55 Catheter, Hoop Configuration",
+      "gmdn_terms": [
+        {
+          "code": "17846",
+          "code_status": "Active",
+          "definition": "A flexible tube intended to be used for the percutaneous transluminal passage and placement of a diagnostic/interventional catheter, lead (e.g., pacing lead, balloon dilatation catheter), needle or guidewire through its lumen(s), within the vascular system. It may be rigid or flexible, non-steerable or steerable, single or multiple lumen(s), and the distal section can have a variety of preformed shapes (e.g., straight, hockey stick). It is not intended solely for infusion, is not intended to access superselective small vessels, and does not include a transseptal needle. It may include a disposable percutaneous introduction set or shaft visualization electrodes. This is a single-use device.",
+          "implantable": "false",
+          "name": "Vascular guide-catheter, single-use"
+        }
+      ],
+      "has_donation_id_number": "false",
+      "has_expiration_date": "true",
+      "has_lot_or_batch_number": "true",
+      "has_manufacturing_date": "true",
+      "has_serial_number": "false",
+      "identifiers": [
+        {
+          "id": "00850014025243",
+          "issuing_agency": "GS1",
+          "type": "Primary"
+        }
+      ],
+      "is_combination_product": "false",
+      "is_direct_marking_exempt": "false",
+      "is_hct_p": "false",
+      "is_kit": "false",
+      "is_labeled_as_no_nrl": "false",
+      "is_labeled_as_nrl": "false",
+      "is_otc": "false",
+      "is_pm_exempt": "false",
+      "is_rx": "true",
+      "is_single_use": "true",
+      "labeler_duns_number": "065914268",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "premarket_submissions": [
+        {
+          "submission_number": "K250962",
+          "supplement_number": "000"
+        }
+      ],
+      "product_codes": [
+        {
+          "code": "QJP",
+          "name": "Catheter, Percutaneous, Neurovasculature",
+          "openfda": {
+            "device_class": "2",
+            "device_name": "Catheter, Percutaneous, Neurovasculature",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.1250"
+          }
+        },
+        {
+          "code": "DQY",
+          "name": "Catheter, Percutaneous",
+          "openfda": {
+            "device_class": "2",
+            "device_name": "Catheter, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.1250"
+          }
+        }
+      ],
+      "public_device_record_key": "a8fefc5f-b9e1-4e90-9b42-2a86e0ce7faa",
+      "public_version_date": "2025-07-08",
+      "public_version_number": "1",
+      "public_version_status": "New",
+      "publish_date": "2025-06-30",
+      "record_status": "Published",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "version_or_model_number": "FG-01681-N25-IC"
+    },
+    "retrieved_at": "2026-04-15T10:18:03+00:00",
+    "source_id": "fda:udi:record-1",
+    "source_type": "fda",
+    "source_url": "https://api.fda.gov/device/udi.json?search=brand_name%3A%22APRO%20Aspiration%20Catheter%22%20OR%20brand_name%3A%22APRO%2055%22%20OR%20brand_name%3A%22APRO%2070%22",
+    "title": "APRO 55 Intermediate Catheter"
+  }
+]

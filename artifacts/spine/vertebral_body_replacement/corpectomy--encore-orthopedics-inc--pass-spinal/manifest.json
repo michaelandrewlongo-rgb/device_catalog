@@ -1,0 +1,42 @@
+{
+  "device_slug": "corpectomy--encore-orthopedics-inc--pass-spinal",
+  "artifact_folder": "corpectomy--encore-orthopedics-inc--pass-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3644,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--encore-orthopedics-inc--pass-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--encore-orthopedics-inc--pass-spinal/enriched/corpectomy--encore-orthopedics-inc--pass-spinal.json",
+        "bytes": 1655
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/corpectomy--encore-orthopedics-inc--pass-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--encore-orthopedics-inc--pass-spinal/extracted/fda_structured/corpectomy--encore-orthopedics-inc--pass-spinal.json",
+        "bytes": 600
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K013442.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--encore-orthopedics-inc--pass-spinal/fda_raw/KWP/K013442.json",
+        "bytes": 578
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--encore-orthopedics-inc--pass-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--encore-orthopedics-inc--pass-spinal/merged/corpectomy--encore-orthopedics-inc--pass-spinal.json",
+        "bytes": 811
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

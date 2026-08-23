@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--phoenix-biomedical-corp--crx-world-shunt",
+  "artifact_folder": "csf-shunt--phoenix-biomedical-corp--crx-world-shunt",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2777,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--phoenix-biomedical-corp--crx-world-shunt.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--phoenix-biomedical-corp--crx-world-shunt/enriched/csf-shunt--phoenix-biomedical-corp--crx-world-shunt.json",
+        "bytes": 1390
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K990256.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--phoenix-biomedical-corp--crx-world-shunt/fda_raw/JXG/K990256.json",
+        "bytes": 578
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--phoenix-biomedical-corp--crx-world-shunt.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--phoenix-biomedical-corp--crx-world-shunt/merged/csf-shunt--phoenix-biomedical-corp--crx-world-shunt.json",
+        "bytes": 809
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "device_slug": "pedicle-screw--pinnacle-spine-group-llc--infill-intervertebral-body-fusion",
+  "artifact_folder": "pedicle-screw--pinnacle-spine-group-llc--infill-intervertebral-body-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3621,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--pinnacle-spine-group-llc--infill-intervertebral-body-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--pinnacle-spine-group-llc--infill-intervertebral-body-fusion/enriched/pedicle-screw--pinnacle-spine-group-llc--infill-intervertebral-body-fusion.json",
+        "bytes": 1468
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K103729.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--pinnacle-spine-group-llc--infill-intervertebral-body-fusion/fda_raw/MAX/K103729.json",
+        "bytes": 633
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K121733.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--pinnacle-spine-group-llc--infill-intervertebral-body-fusion/fda_raw/MAX/K121733.json",
+        "bytes": 633
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--pinnacle-spine-group-llc--infill-intervertebral-body-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--pinnacle-spine-group-llc--infill-intervertebral-body-fusion/merged/pedicle-screw--pinnacle-spine-group-llc--infill-intervertebral-body-fusion.json",
+        "bytes": 887
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

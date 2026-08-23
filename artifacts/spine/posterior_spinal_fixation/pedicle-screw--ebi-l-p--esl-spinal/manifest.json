@@ -1,0 +1,42 @@
+{
+  "device_slug": "pedicle-screw--ebi-l-p--esl-spinal",
+  "artifact_folder": "pedicle-screw--ebi-l-p--esl-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3374,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--ebi-l-p--esl-spinal.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--ebi-l-p--esl-spinal/enriched/pedicle-screw--ebi-l-p--esl-spinal.json",
+        "bytes": 1563
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/pedicle-screw--ebi-l-p--esl-spinal.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--ebi-l-p--esl-spinal/extracted/fda_structured/pedicle-screw--ebi-l-p--esl-spinal.json",
+        "bytes": 490
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K092574.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--ebi-l-p--esl-spinal/fda_raw/MAX/K092574.json",
+        "bytes": 537
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--ebi-l-p--esl-spinal.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--ebi-l-p--esl-spinal/merged/pedicle-screw--ebi-l-p--esl-spinal.json",
+        "bytes": 784
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

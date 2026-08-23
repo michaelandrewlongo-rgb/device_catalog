@@ -1,0 +1,50 @@
+{
+  "device_slug": "interbody-cage--globus--revere-stabilization",
+  "artifact_folder": "interbody-cage--globus--revere-stabilization",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 4481,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--globus--revere-stabilization.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--globus--revere-stabilization/enriched/interbody-cage--globus--revere-stabilization.json",
+        "bytes": 1395
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K061202.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--globus--revere-stabilization/fda_raw/NKB/K061202.json",
+        "bytes": 568
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K093294.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--globus--revere-stabilization/fda_raw/NKB/K093294.json",
+        "bytes": 568
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K122226.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--globus--revere-stabilization/fda_raw/NKB/K122226.json",
+        "bytes": 568
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K133350.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--globus--revere-stabilization/fda_raw/NKB/K133350.json",
+        "bytes": 568
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--globus--revere-stabilization.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--globus--revere-stabilization/merged/interbody-cage--globus--revere-stabilization.json",
+        "bytes": 814
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

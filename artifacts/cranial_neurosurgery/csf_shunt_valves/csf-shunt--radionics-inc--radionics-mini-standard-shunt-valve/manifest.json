@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--radionics-inc--radionics-mini-standard-shunt-valve",
+  "artifact_folder": "csf-shunt--radionics-inc--radionics-mini-standard-shunt-valve",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2878,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--radionics-inc--radionics-mini-standard-shunt-valve.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--radionics-inc--radionics-mini-standard-shunt-valve/enriched/csf-shunt--radionics-inc--radionics-mini-standard-shunt-valve.json",
+        "bytes": 1434
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K843132.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--radionics-inc--radionics-mini-standard-shunt-valve/fda_raw/JXG/K843132.json",
+        "bytes": 591
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--radionics-inc--radionics-mini-standard-shunt-valve.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--radionics-inc--radionics-mini-standard-shunt-valve/merged/csf-shunt--radionics-inc--radionics-mini-standard-shunt-valve.json",
+        "bytes": 853
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--medtronic--vertex-reconstruction-and-vertex-select",
+  "artifact_folder": "interbody-cage--medtronic--vertex-reconstruction-and-vertex-select",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3440,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--medtronic--vertex-reconstruction-and-vertex-select.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--vertex-reconstruction-and-vertex-select/enriched/interbody-cage--medtronic--vertex-reconstruction-and-vertex-select.json",
+        "bytes": 1882
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K093434.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--vertex-reconstruction-and-vertex-select/fda_raw/NKB/K093434.json",
+        "bytes": 637
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--medtronic--vertex-reconstruction-and-vertex-select.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--vertex-reconstruction-and-vertex-select/merged/interbody-cage--medtronic--vertex-reconstruction-and-vertex-select.json",
+        "bytes": 921
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

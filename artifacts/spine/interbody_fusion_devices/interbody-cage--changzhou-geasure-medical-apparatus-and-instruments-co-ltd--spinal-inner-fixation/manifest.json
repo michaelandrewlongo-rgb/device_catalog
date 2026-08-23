@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--changzhou-geasure-medical-apparatus-and-instruments-co-ltd--spinal-inner-fixation",
+  "artifact_folder": "interbody-cage--changzhou-geasure-medical-apparatus-and-instruments-co-ltd--spinal-inner-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3138,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--changzhou-geasure-medical-apparatus-and-instruments-co-ltd--spinal-inner-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--changzhou-geasure-medical-apparatus-and-instruments-co-ltd--spinal-inner-fixation/enriched/interbody-cage--changzhou-geasure-medical-apparatus-and-instruments-co-ltd--spinal-inner-fixation.json",
+        "bytes": 1502
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K222031.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--changzhou-geasure-medical-apparatus-and-instruments-co-ltd--spinal-inner-fixation/fda_raw/NKB/K222031.json",
+        "bytes": 715
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--changzhou-geasure-medical-apparatus-and-instruments-co-ltd--spinal-inner-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--changzhou-geasure-medical-apparatus-and-instruments-co-ltd--spinal-inner-fixation/merged/interbody-cage--changzhou-geasure-medical-apparatus-and-instruments-co-ltd--spinal-inner-fixation.json",
+        "bytes": 921
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

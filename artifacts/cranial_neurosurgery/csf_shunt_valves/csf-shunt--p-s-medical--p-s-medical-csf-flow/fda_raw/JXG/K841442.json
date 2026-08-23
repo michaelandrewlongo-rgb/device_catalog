@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K841442",
+  "clearance_date": "1984-04-19",
+  "device_class": 2,
+  "manufacturer_canonical": "p-s-medical",
+  "manufacturer_raw": "P-S Medical",
+  "catalog_category": "csf-shunt",
+  "device_name_fda": "P-S MEDICAL CSF-FLOW CONTROL VALVE-",
+  "product_code": "JXG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "csf-shunt--p-s-medical--p-s-medical-csf-flow",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf84/K841442.pdf"
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--camber-spine-technologies--camber-spine-technologies-spira-v",
+  "artifact_folder": "cervical-plate--camber-spine-technologies--camber-spine-technologies-spira-v",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3133,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--camber-spine-technologies--camber-spine-technologies-spira-v.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--camber-spine-technologies--camber-spine-technologies-spira-v/enriched/cervical-plate--camber-spine-technologies--camber-spine-technologies-spira-v.json",
+        "bytes": 1522
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K173800.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--camber-spine-technologies--camber-spine-technologies-spira-v/fda_raw/MQP/K173800.json",
+        "bytes": 662
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--camber-spine-technologies--camber-spine-technologies-spira-v.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--camber-spine-technologies--camber-spine-technologies-spira-v/merged/cervical-plate--camber-spine-technologies--camber-spine-technologies-spira-v.json",
+        "bytes": 949
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

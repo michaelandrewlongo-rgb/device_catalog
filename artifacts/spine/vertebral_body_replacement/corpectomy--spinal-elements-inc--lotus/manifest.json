@@ -1,0 +1,42 @@
+{
+  "device_slug": "corpectomy--spinal-elements-inc--lotus",
+  "artifact_folder": "corpectomy--spinal-elements-inc--lotus",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3515,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--spinal-elements-inc--lotus.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--spinal-elements-inc--lotus/enriched/corpectomy--spinal-elements-inc--lotus.json",
+        "bytes": 1611
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/corpectomy--spinal-elements-inc--lotus.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--spinal-elements-inc--lotus/extracted/fda_structured/corpectomy--spinal-elements-inc--lotus.json",
+        "bytes": 581
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K131427.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--spinal-elements-inc--lotus/fda_raw/KWP/K131427.json",
+        "bytes": 550
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--spinal-elements-inc--lotus.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--spinal-elements-inc--lotus/merged/corpectomy--spinal-elements-inc--lotus.json",
+        "bytes": 773
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

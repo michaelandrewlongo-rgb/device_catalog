@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--implanet-s-a--implanet-spine-iss",
+  "artifact_folder": "interbody-cage--implanet-s-a--implanet-spine-iss",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2801,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--implanet-s-a--implanet-spine-iss.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--implanet-s-a--implanet-spine-iss/enriched/interbody-cage--implanet-s-a--implanet-spine-iss.json",
+        "bytes": 1405
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K143731.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--implanet-s-a--implanet-spine-iss/fda_raw/NKB/K143731.json",
+        "bytes": 572
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--implanet-s-a--implanet-spine-iss.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--implanet-s-a--implanet-spine-iss/merged/interbody-cage--implanet-s-a--implanet-spine-iss.json",
+        "bytes": 824
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

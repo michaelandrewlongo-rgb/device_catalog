@@ -1,0 +1,21 @@
+{
+  "device_slug": "nspr-technique--pedicle-screw--globus--creo-mis",
+  "artifact_folder": "nspr-technique--pedicle-screw--globus--creo-mis",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 11094,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/documents/nspr-technique--pedicle-screw--globus--creo-mis.json",
+        "artifact": "artifacts/_outside_seed_registries/nspr-technique/nspr-technique--pedicle-screw--globus--creo-mis/extracted/documents/nspr-technique--pedicle-screw--globus--creo-mis.json",
+        "bytes": 11094
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "nspr-technique",
+    "label": "Outside listed seed registries"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--vygon-neuro--neurocath-ag",
+  "artifact_folder": "csf-shunt--vygon-neuro--neurocath-ag",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2668,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--vygon-neuro--neurocath-ag.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--vygon-neuro--neurocath-ag/enriched/csf-shunt--vygon-neuro--neurocath-ag.json",
+        "bytes": 1357
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K081942.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--vygon-neuro--neurocath-ag/fda_raw/JXG/K081942.json",
+        "bytes": 535
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--vygon-neuro--neurocath-ag.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--vygon-neuro--neurocath-ag/merged/csf-shunt--vygon-neuro--neurocath-ag.json",
+        "bytes": 776
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

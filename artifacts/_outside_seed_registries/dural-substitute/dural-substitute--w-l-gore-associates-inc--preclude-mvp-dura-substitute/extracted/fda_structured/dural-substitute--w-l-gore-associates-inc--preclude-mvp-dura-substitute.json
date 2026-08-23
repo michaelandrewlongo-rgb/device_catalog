@@ -1,0 +1,20 @@
+{
+  "source": "fda_udi",
+  "brand_name": "PRECLUDE MVP DURA SUBSTITUTE",
+  "extraction_method": "fda_udi_api",
+  "fields": {
+    "what_it_is": "MVP 10 CM X 12 CM",
+    "sizing_specs": "Catalog: 1MVP403; Model: 1MVP403",
+    "use_notes": "MRI: Labeling does not contain MRI Safety Information. Pre-sterilized. Single-use",
+    "also_known_as": [
+      "GORE PRECLUDE MVP Dura Substitute",
+      "Dura mater graft, synthetic"
+    ]
+  },
+  "confidence": {
+    "what_it_is": 0.85,
+    "sizing_specs": 0.85,
+    "use_notes": 0.85,
+    "also_known_as": 0.85
+  }
+}

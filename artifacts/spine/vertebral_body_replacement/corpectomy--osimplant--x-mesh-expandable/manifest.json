@@ -1,0 +1,33 @@
+{
+  "device_slug": "corpectomy--osimplant--x-mesh-expandable",
+  "artifact_folder": "corpectomy--osimplant--x-mesh-expandable",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 423699,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/corpectomy--osimplant--x-mesh-expandable--brochure.pdf",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--osimplant--x-mesh-expandable/data_by_device/corpectomy--osimplant--x-mesh-expandable--brochure.pdf",
+        "bytes": 413622
+      },
+      {
+        "source": "pipeline/data/data_by_device/corpectomy--osimplant--x-mesh-expandable--knowledge.md",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--osimplant--x-mesh-expandable/data_by_device/corpectomy--osimplant--x-mesh-expandable--knowledge.md",
+        "bytes": 8078
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/documents/corpectomy--osimplant--x-mesh-expandable--brochure.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--osimplant--x-mesh-expandable/extracted/documents/corpectomy--osimplant--x-mesh-expandable--brochure.json",
+        "bytes": 1999
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

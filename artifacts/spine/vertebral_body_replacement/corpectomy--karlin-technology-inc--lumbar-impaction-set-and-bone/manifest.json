@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--karlin-technology-inc--lumbar-impaction-set-and-bone",
+  "artifact_folder": "corpectomy--karlin-technology-inc--lumbar-impaction-set-and-bone",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2963,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--karlin-technology-inc--lumbar-impaction-set-and-bone.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--karlin-technology-inc--lumbar-impaction-set-and-bone/enriched/corpectomy--karlin-technology-inc--lumbar-impaction-set-and-bone.json",
+        "bytes": 1462
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K882070.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--karlin-technology-inc--lumbar-impaction-set-and-bone/fda_raw/KWP/K882070.json",
+        "bytes": 620
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--karlin-technology-inc--lumbar-impaction-set-and-bone.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--karlin-technology-inc--lumbar-impaction-set-and-bone/merged/corpectomy--karlin-technology-inc--lumbar-impaction-set-and-bone.json",
+        "bytes": 881
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

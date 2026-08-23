@@ -1,0 +1,87 @@
+[
+  {
+    "device_family": "aspiration--medtronic--riptide-aspiration-system",
+    "query_used": "brand_name:\"Riptide Aspiration System\" OR brand_name:\"Riptide\"",
+    "raw": {
+      "brand_name": "RIPTIDE",
+      "catalog_number": "6ZBZC2506",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "company_name": "Tyber Medical, LLC",
+      "customer_contacts": [
+        {
+          "email": "mschenk@tybermed.com",
+          "phone": "+1(866)761-0933"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "device_description": "Cotton Wedge 25x15x6mm",
+      "gmdn_terms": [
+        {
+          "code": "61617",
+          "code_status": "Active",
+          "definition": "A non-customized device intended to be implanted between the severed ends of a long bone (e.g., femur, tibia), or other bone (e.g., tarsal, carpel), following osteotomy to help facilitate bone fusion and alignment; it may be used with a plating fixation system and may be used in association with a bone substitute/graft. The device is typically designed as a small, wedge-shaped cylinder (or other geometric form) and is made of metal [e.g., titanium (Ti)].",
+          "implantable": "true",
+          "name": "Metallic osteotomy fusion cage, non-customized"
+        }
+      ],
+      "has_donation_id_number": "false",
+      "has_expiration_date": "true",
+      "has_lot_or_batch_number": "true",
+      "has_manufacturing_date": "true",
+      "has_serial_number": "false",
+      "identifiers": [
+        {
+          "id": "00196449002207",
+          "issuing_agency": "GS1",
+          "type": "Primary"
+        }
+      ],
+      "is_combination_product": "false",
+      "is_direct_marking_exempt": "false",
+      "is_hct_p": "false",
+      "is_kit": "false",
+      "is_labeled_as_no_nrl": "false",
+      "is_labeled_as_nrl": "false",
+      "is_otc": "false",
+      "is_pm_exempt": "false",
+      "is_rx": "true",
+      "is_single_use": "true",
+      "labeler_duns_number": "010968002",
+      "mri_safety": "MR Conditional",
+      "premarket_submissions": [
+        {
+          "submission_number": "K150394",
+          "supplement_number": "000"
+        }
+      ],
+      "product_codes": [
+        {
+          "code": "PLF",
+          "name": "Bone Wedge",
+          "openfda": {
+            "device_class": "2",
+            "device_name": "Bone Wedge",
+            "medical_specialty_description": "Orthopedic",
+            "regulation_number": "888.3030"
+          }
+        }
+      ],
+      "public_device_record_key": "da908fc4-9b11-4d7e-b18c-62c732df838d",
+      "public_version_date": "2025-08-15",
+      "public_version_number": "2",
+      "public_version_status": "Update",
+      "publish_date": "2022-07-12",
+      "record_status": "Published",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "version_or_model_number": "6ZBZC2506"
+    },
+    "retrieved_at": "2026-04-15T10:18:09+00:00",
+    "source_id": "fda:udi:record-1",
+    "source_type": "fda",
+    "source_url": "https://api.fda.gov/device/udi.json?search=brand_name%3A%22Riptide%20Aspiration%20System%22%20OR%20brand_name%3A%22Riptide%22",
+    "title": "RIPTIDE"
+  }
+]

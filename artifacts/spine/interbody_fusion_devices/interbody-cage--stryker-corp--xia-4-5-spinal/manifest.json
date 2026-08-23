@@ -1,0 +1,42 @@
+{
+  "device_slug": "interbody-cage--stryker-corp--xia-4-5-spinal",
+  "artifact_folder": "interbody-cage--stryker-corp--xia-4-5-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3650,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--stryker-corp--xia-4-5-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker-corp--xia-4-5-spinal/enriched/interbody-cage--stryker-corp--xia-4-5-spinal.json",
+        "bytes": 1665
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--stryker-corp--xia-4-5-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker-corp--xia-4-5-spinal/extracted/fda_structured/interbody-cage--stryker-corp--xia-4-5-spinal.json",
+        "bytes": 616
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K121342.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker-corp--xia-4-5-spinal/fda_raw/NKB/K121342.json",
+        "bytes": 561
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--stryker-corp--xia-4-5-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker-corp--xia-4-5-spinal/merged/interbody-cage--stryker-corp--xia-4-5-spinal.json",
+        "bytes": 808
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

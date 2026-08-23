@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--weigao-orthopaedic-device-co-ltd--milestone-spinal",
+  "artifact_folder": "pedicle-screw--weigao-orthopaedic-device-co-ltd--milestone-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2910,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--weigao-orthopaedic-device-co-ltd--milestone-spinal.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--weigao-orthopaedic-device-co-ltd--milestone-spinal/enriched/pedicle-screw--weigao-orthopaedic-device-co-ltd--milestone-spinal.json",
+        "bytes": 1433
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K133053.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--weigao-orthopaedic-device-co-ltd--milestone-spinal/fda_raw/MAX/K133053.json",
+        "bytes": 625
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--weigao-orthopaedic-device-co-ltd--milestone-spinal.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--weigao-orthopaedic-device-co-ltd--milestone-spinal/merged/pedicle-screw--weigao-orthopaedic-device-co-ltd--milestone-spinal.json",
+        "bytes": 852
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--pudenz-schulte-medical-research-corp--p-s-medical-csf-lumboperitoneal",
+  "artifact_folder": "csf-shunt--pudenz-schulte-medical-research-corp--p-s-medical-csf-lumboperitoneal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3026,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--pudenz-schulte-medical-research-corp--p-s-medical-csf-lumboperitoneal.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--pudenz-schulte-medical-research-corp--p-s-medical-csf-lumboperitoneal/enriched/csf-shunt--pudenz-schulte-medical-research-corp--p-s-medical-csf-lumboperitoneal.json",
+        "bytes": 1476
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K831396.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--pudenz-schulte-medical-research-corp--p-s-medical-csf-lumboperitoneal/fda_raw/JXG/K831396.json",
+        "bytes": 655
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--pudenz-schulte-medical-research-corp--p-s-medical-csf-lumboperitoneal.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--pudenz-schulte-medical-research-corp--p-s-medical-csf-lumboperitoneal/merged/csf-shunt--pudenz-schulte-medical-research-corp--p-s-medical-csf-lumboperitoneal.json",
+        "bytes": 895
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

@@ -9,14 +9,19 @@
   "device_class": 2,
   "device_name_fda": "Route 92 Medical 088 Access System, 110 cm",
   "product_code": "QJP",
-  "what_it_is": null,
-  "sizing_specs": null,
-  "indications": null,
+  "what_it_is": "Device Description\nThe Route 92 Medical 088 Access System, 110 cm, is comprised of a Support Catheter and a Delivery\nCatheter. The distal portion of the Support Catheter is a single-lumen, variable stiffness catheter. Like the",
+  "sizing_specs": "Device Description\nThe Route 92 Medical 088 Access System, 110 cm, is comprised of a Support Catheter and a Delivery\nCatheter. The distal portion of the Support Catheter is a single-lumen, variable stiffness catheter. Like the",
+  "indications": "Indications for Use See PRA Statement below.\n510(k) Number (if known)\nK200121\nDevice Name\nRoute 92 Medical 088 Access System\nIndications for Use (Describe)\nThe Route 92 Medical 088 Access System, 110 cm, is indicated for use with compatible guide catheters in facilitating the\ninsertion and guidance of microcatheters into a selected blood vessel in the neurovascular system.\nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)\nCONTINUE ON A SEPARATE PAGE IF NEEDED.\nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the\ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any other aspect\nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of\ninformation unless it displays a currently valid OMB number.”\nFORM FDA 3881 (7/17) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF\n\n510(K) SUMMARY\n510(k) Summary\nSponsor: Route 92 Medical\n1700 S. El Camino Real, Suite 206\nSan Mateo, CA 94022\nPhone: 650-581-1179\nContact: Kathy Tansey\nDate Prepared: January 17, 2019\nDevice Name: Route 92 Medical 088 Access System\nCommon Name: Percutaneous Catheter\nClassification Name: Percutaneous Catheter (Product Code QJP, 21 CFR\n870.1250)\nPrimary Predicate Device: Route 92 Medical Access System, K180201\nSecondary Predicate Device: Imperative Care Inc. EagleRay Long Sheath, K180169",
   "contraindications": null,
   "compatible_with": null,
   "use_notes": null,
   "deployment_steps": null,
-  "also_known_as": [],
+  "also_known_as": [
+    "K180201",
+    "K180169",
+    "K180201",
+    "K180169"
+  ],
   "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K200121.pdf",
   "ifu_pdf_url": null,
   "source_url": "",
@@ -27,16 +32,16 @@
   ],
   "_enrichment": {
     "what_it_is": {
-      "source": "none",
-      "confidence": 0
+      "source": "fda_summary",
+      "confidence": 0.9
     },
     "sizing_specs": {
-      "source": "none",
-      "confidence": 0
+      "source": "fda_summary",
+      "confidence": 0.3
     },
     "indications": {
-      "source": "none",
-      "confidence": 0
+      "source": "fda_summary",
+      "confidence": 0.95
     },
     "contraindications": {
       "source": "none",
@@ -51,8 +56,8 @@
       "confidence": 0
     },
     "also_known_as": {
-      "source": "none",
-      "confidence": 0
+      "source": "fda_summary",
+      "confidence": 0.3
     }
   }
 }

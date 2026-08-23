@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--globus--ellipse-occipito-cervico-thoracic-spinal",
+  "artifact_folder": "corpectomy--globus--ellipse-occipito-cervico-thoracic-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2913,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--globus--ellipse-occipito-cervico-thoracic-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--globus--ellipse-occipito-cervico-thoracic-spinal/enriched/corpectomy--globus--ellipse-occipito-cervico-thoracic-spinal.json",
+        "bytes": 1447
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K110963.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--globus--ellipse-occipito-cervico-thoracic-spinal/fda_raw/KWP/K110963.json",
+        "bytes": 600
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--globus--ellipse-occipito-cervico-thoracic-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--globus--ellipse-occipito-cervico-thoracic-spinal/merged/corpectomy--globus--ellipse-occipito-cervico-thoracic-spinal.json",
+        "bytes": 866
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

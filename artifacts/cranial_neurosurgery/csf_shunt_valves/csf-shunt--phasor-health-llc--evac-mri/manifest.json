@@ -1,0 +1,47 @@
+{
+  "device_slug": "csf-shunt--phasor-health-llc--evac-mri",
+  "artifact_folder": "csf-shunt--phasor-health-llc--evac-mri",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 2587242,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/csf-shunt/parsed/fda_summaries/csf-shunt--phasor-health-llc--evac-mri--510k.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--phasor-health-llc--evac-mri/510k/csf-shunt/parsed/fda_summaries/csf-shunt--phasor-health-llc--evac-mri--510k.json",
+        "bytes": 19199
+      },
+      {
+        "source": "pipeline/data/510k/csf-shunt/pdfs/csf-shunt--phasor-health-llc--evac-mri--510k.pdf",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--phasor-health-llc--evac-mri/510k/csf-shunt/pdfs/csf-shunt--phasor-health-llc--evac-mri--510k.pdf",
+        "bytes": 2562656
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--phasor-health-llc--evac-mri.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--phasor-health-llc--evac-mri/enriched/csf-shunt--phasor-health-llc--evac-mri.json",
+        "bytes": 4065
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K252514.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--phasor-health-llc--evac-mri/fda_raw/JXG/K252514.json",
+        "bytes": 546
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--phasor-health-llc--evac-mri.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--phasor-health-llc--evac-mri/merged/csf-shunt--phasor-health-llc--evac-mri.json",
+        "bytes": 776
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

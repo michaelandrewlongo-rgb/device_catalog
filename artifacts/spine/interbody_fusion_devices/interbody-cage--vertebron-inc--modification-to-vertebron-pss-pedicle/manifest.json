@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--vertebron-inc--modification-to-vertebron-pss-pedicle",
+  "artifact_folder": "interbody-cage--vertebron-inc--modification-to-vertebron-pss-pedicle",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2980,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--vertebron-inc--modification-to-vertebron-pss-pedicle.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--vertebron-inc--modification-to-vertebron-pss-pedicle/enriched/interbody-cage--vertebron-inc--modification-to-vertebron-pss-pedicle.json",
+        "bytes": 1472
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K071376.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--vertebron-inc--modification-to-vertebron-pss-pedicle/fda_raw/NKB/K071376.json",
+        "bytes": 617
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--vertebron-inc--modification-to-vertebron-pss-pedicle.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--vertebron-inc--modification-to-vertebron-pss-pedicle/merged/interbody-cage--vertebron-inc--modification-to-vertebron-pss-pedicle.json",
+        "bytes": 891
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

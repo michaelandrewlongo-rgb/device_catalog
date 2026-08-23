@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K122989",
+  "clearance_date": "2012-10-24",
+  "device_class": 2,
+  "manufacturer_canonical": "biomet-spine-aka-ebi-llc",
+  "manufacturer_raw": "Biomet Spine (Aka Ebi, LLC)",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "BIOMET LATERAL SPACER SYSTEM",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--biomet-spine-aka-ebi-llc--biomet-lateral-spacer",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf12/K122989.pdf"
+}

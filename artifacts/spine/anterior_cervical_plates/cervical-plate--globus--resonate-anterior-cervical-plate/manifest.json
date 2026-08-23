@@ -1,0 +1,42 @@
+{
+  "device_slug": "cervical-plate--globus--resonate-anterior-cervical-plate",
+  "artifact_folder": "cervical-plate--globus--resonate-anterior-cervical-plate",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 26943,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/cervical-plate--globus--resonate-anterior-cervical-plate--knowledge.md",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--globus--resonate-anterior-cervical-plate/data_by_device/cervical-plate--globus--resonate-anterior-cervical-plate--knowledge.md",
+        "bytes": 12555
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--globus--resonate-anterior-cervical-plate.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--globus--resonate-anterior-cervical-plate/enriched/cervical-plate--globus--resonate-anterior-cervical-plate.json",
+        "bytes": 13016
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--globus--resonate-anterior-cervical-plate.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--globus--resonate-anterior-cervical-plate/merged/cervical-plate--globus--resonate-anterior-cervical-plate.json",
+        "bytes": 941
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/globus/resonate-anterior-cervical-plate.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--globus--resonate-anterior-cervical-plate/scraper_raw/globus/resonate-anterior-cervical-plate.json",
+        "bytes": 431
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "device_slug": "sacroiliac-fusion--advanced-research-medical-llc--advanced-research-medical-trident-si",
+  "artifact_folder": "sacroiliac-fusion--advanced-research-medical-llc--advanced-research-medical-trident-si",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 668,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/OUR/K203373.json",
+        "artifact": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--advanced-research-medical-llc--advanced-research-medical-trident-si/fda_raw/OUR/K203373.json",
+        "bytes": 668
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "sacroiliac-fusion",
+    "label": "Outside listed seed registries"
+  }
+}

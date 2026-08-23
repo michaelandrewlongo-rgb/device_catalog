@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--benvenue-medical-inc--trivergent-spinal-fixation",
+  "artifact_folder": "interbody-cage--benvenue-medical-inc--trivergent-spinal-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2911,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--benvenue-medical-inc--trivergent-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--benvenue-medical-inc--trivergent-spinal-fixation/enriched/interbody-cage--benvenue-medical-inc--trivergent-spinal-fixation.json",
+        "bytes": 1441
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K201427.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--benvenue-medical-inc--trivergent-spinal-fixation/fda_raw/NKB/K201427.json",
+        "bytes": 610
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--benvenue-medical-inc--trivergent-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--benvenue-medical-inc--trivergent-spinal-fixation/merged/interbody-cage--benvenue-medical-inc--trivergent-spinal-fixation.json",
+        "bytes": 860
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

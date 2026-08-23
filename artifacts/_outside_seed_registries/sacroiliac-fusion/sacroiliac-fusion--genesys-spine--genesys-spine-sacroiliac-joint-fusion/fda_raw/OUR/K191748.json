@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K191748",
+  "clearance_date": "2019-09-26",
+  "device_class": 2,
+  "manufacturer_canonical": "genesys-spine",
+  "manufacturer_raw": "Genesys Spine",
+  "catalog_category": "sacroiliac-fusion",
+  "device_name_fda": "Genesys Spine Sacroiliac Joint Fusion System",
+  "product_code": "OUR",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "sacroiliac-fusion--genesys-spine--genesys-spine-sacroiliac-joint-fusion",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf19/K191748.pdf"
+}

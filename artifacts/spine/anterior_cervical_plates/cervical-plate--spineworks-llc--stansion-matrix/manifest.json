@@ -1,0 +1,42 @@
+{
+  "device_slug": "cervical-plate--spineworks-llc--stansion-matrix",
+  "artifact_folder": "cervical-plate--spineworks-llc--stansion-matrix",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3503,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--spineworks-llc--stansion-matrix.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--spineworks-llc--stansion-matrix/enriched/cervical-plate--spineworks-llc--stansion-matrix.json",
+        "bytes": 1616
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/cervical-plate--spineworks-llc--stansion-matrix.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--spineworks-llc--stansion-matrix/extracted/fda_structured/cervical-plate--spineworks-llc--stansion-matrix.json",
+        "bytes": 524
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K042600.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--spineworks-llc--stansion-matrix/fda_raw/MQP/K042600.json",
+        "bytes": 562
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--spineworks-llc--stansion-matrix.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--spineworks-llc--stansion-matrix/merged/cervical-plate--spineworks-llc--stansion-matrix.json",
+        "bytes": 801
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

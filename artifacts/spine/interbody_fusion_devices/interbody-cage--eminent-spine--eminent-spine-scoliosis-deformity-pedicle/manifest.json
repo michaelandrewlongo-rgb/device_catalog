@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--eminent-spine--eminent-spine-scoliosis-deformity-pedicle",
+  "artifact_folder": "interbody-cage--eminent-spine--eminent-spine-scoliosis-deformity-pedicle",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3010,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--eminent-spine--eminent-spine-scoliosis-deformity-pedicle.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--eminent-spine--eminent-spine-scoliosis-deformity-pedicle/enriched/interbody-cage--eminent-spine--eminent-spine-scoliosis-deformity-pedicle.json",
+        "bytes": 1484
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K242069.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--eminent-spine--eminent-spine-scoliosis-deformity-pedicle/fda_raw/NKB/K242069.json",
+        "bytes": 623
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--eminent-spine--eminent-spine-scoliosis-deformity-pedicle.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--eminent-spine--eminent-spine-scoliosis-deformity-pedicle/merged/interbody-cage--eminent-spine--eminent-spine-scoliosis-deformity-pedicle.json",
+        "bytes": 903
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

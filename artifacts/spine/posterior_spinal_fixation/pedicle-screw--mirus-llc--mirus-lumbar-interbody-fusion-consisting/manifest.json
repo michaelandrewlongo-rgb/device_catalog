@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--mirus-llc--mirus-lumbar-interbody-fusion-consisting",
+  "artifact_folder": "pedicle-screw--mirus-llc--mirus-lumbar-interbody-fusion-consisting",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 4159,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--mirus-llc--mirus-lumbar-interbody-fusion-consisting.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--mirus-llc--mirus-lumbar-interbody-fusion-consisting/enriched/pedicle-screw--mirus-llc--mirus-lumbar-interbody-fusion-consisting.json",
+        "bytes": 1931
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K182920.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--mirus-llc--mirus-lumbar-interbody-fusion-consisting/fda_raw/MAX/K182920.json",
+        "bytes": 838
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--mirus-llc--mirus-lumbar-interbody-fusion-consisting.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--mirus-llc--mirus-lumbar-interbody-fusion-consisting/merged/pedicle-screw--mirus-llc--mirus-lumbar-interbody-fusion-consisting.json",
+        "bytes": 1390
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

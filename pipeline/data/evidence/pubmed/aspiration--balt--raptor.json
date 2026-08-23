@@ -1,0 +1,22 @@
+[
+  {
+    "device_family": "aspiration--balt--raptor",
+    "query_used": "\"Raptor\" OR \"Raptor Aspiration Catheter\" OR \"Thrombectomy suction catheter\"",
+    "raw": {
+      "abstract": "Thrombus removal from the human body is facilitated through the utilization of aspiration catheters during minimally invasive thrombectomy procedures, where a pressure differential guides the targeted tissue through a flexible tubular medical instrument. In this paper, we present a patent analysis of thrombectomy aspiration catheter tip designs sourced from the EspaceNet database. Our findings reveal that enhancing the operability of aspiration catheters can be achieved by improving ease of positioning or suction capacity, whether through active or passive means. In terms of the former, both tip shape and flexibility play pivotal roles in maneuvering the distal end effectively. Variations in aspiration port characteristics, either distal-oriented or sideways-oriented, have the potential to enhance suction efficiency. In the active approach, aspects of positioning and suctioning are integrated into a single design, allowing for seamless transitions between configurations. While numerous design characteristics can coexist in a thrombectomy aspiration tip, a balance between flexibility and buckling resistance, as well as between maximizing aspiration lumen diameter and minimizing tip diameter, must be struck. This paper offers an insightful overview of existing thrombectomy aspiration tip designs, providing valuable inspiration for future innovations in this field.",
+      "doi": "10.3389/fmedt.2024.1388638",
+      "journal": "Frontiers in medical technology",
+      "matched_device_family": "aspiration--balt--raptor",
+      "pmid": "39654657",
+      "publication_date": "2024",
+      "query_used": "\"Raptor\" OR \"Raptor Aspiration Catheter\" OR \"Thrombectomy suction catheter\"",
+      "source_retrieved_at": "2026-04-15T10:17:13+00:00",
+      "title": "Advancements in aspiration catheter tip design for thrombectomy: a comprehensive patent review."
+    },
+    "retrieved_at": "2026-04-15T10:17:13+00:00",
+    "source_id": "pubmed:39654657",
+    "source_type": "pubmed",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/39654657/",
+    "title": "Advancements in aspiration catheter tip design for thrombectomy: a comprehensive patent review."
+  }
+]

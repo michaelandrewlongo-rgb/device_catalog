@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--alphatec-spine-inc--osseoscrew",
+  "artifact_folder": "interbody-cage--alphatec-spine-inc--osseoscrew",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3251,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--alphatec-spine-inc--osseoscrew.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--alphatec-spine-inc--osseoscrew/enriched/interbody-cage--alphatec-spine-inc--osseoscrew.json",
+        "bytes": 1871
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K181980.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--alphatec-spine-inc--osseoscrew/fda_raw/NKB/K181980.json",
+        "bytes": 572
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--alphatec-spine-inc--osseoscrew.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--alphatec-spine-inc--osseoscrew/merged/interbody-cage--alphatec-spine-inc--osseoscrew.json",
+        "bytes": 808
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

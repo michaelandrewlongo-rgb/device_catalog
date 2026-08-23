@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--evolution-spine-llc--lumbar-interbody-fusion-alif-plif",
+  "artifact_folder": "pedicle-screw--evolution-spine-llc--lumbar-interbody-fusion-alif-plif",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3033,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--evolution-spine-llc--lumbar-interbody-fusion-alif-plif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--evolution-spine-llc--lumbar-interbody-fusion-alif-plif/enriched/pedicle-screw--evolution-spine-llc--lumbar-interbody-fusion-alif-plif.json",
+        "bytes": 1490
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K160663.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--evolution-spine-llc--lumbar-interbody-fusion-alif-plif/fda_raw/MAX/K160663.json",
+        "bytes": 634
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--evolution-spine-llc--lumbar-interbody-fusion-alif-plif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--evolution-spine-llc--lumbar-interbody-fusion-alif-plif/merged/pedicle-screw--evolution-spine-llc--lumbar-interbody-fusion-alif-plif.json",
+        "bytes": 909
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

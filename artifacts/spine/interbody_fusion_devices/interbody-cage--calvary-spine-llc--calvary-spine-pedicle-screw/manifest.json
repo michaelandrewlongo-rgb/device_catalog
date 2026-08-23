@@ -1,0 +1,42 @@
+{
+  "device_slug": "interbody-cage--calvary-spine-llc--calvary-spine-pedicle-screw",
+  "artifact_folder": "interbody-cage--calvary-spine-llc--calvary-spine-pedicle-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3764,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--calvary-spine-llc--calvary-spine-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--calvary-spine-llc--calvary-spine-pedicle-screw/enriched/interbody-cage--calvary-spine-llc--calvary-spine-pedicle-screw.json",
+        "bytes": 1695
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--calvary-spine-llc--calvary-spine-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--calvary-spine-llc--calvary-spine-pedicle-screw/extracted/fda_structured/interbody-cage--calvary-spine-llc--calvary-spine-pedicle-screw.json",
+        "bytes": 610
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K201568.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--calvary-spine-llc--calvary-spine-pedicle-screw/fda_raw/NKB/K201568.json",
+        "bytes": 602
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--calvary-spine-llc--calvary-spine-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--calvary-spine-llc--calvary-spine-pedicle-screw/merged/interbody-cage--calvary-spine-llc--calvary-spine-pedicle-screw.json",
+        "bytes": 857
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

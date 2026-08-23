@@ -1,0 +1,42 @@
+{
+  "device_slug": "interbody-cage--black-box-medical--stowe-pedicle-screw",
+  "artifact_folder": "interbody-cage--black-box-medical--stowe-pedicle-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3741,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--black-box-medical--stowe-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--black-box-medical--stowe-pedicle-screw/enriched/interbody-cage--black-box-medical--stowe-pedicle-screw.json",
+        "bytes": 1696
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--black-box-medical--stowe-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--black-box-medical--stowe-pedicle-screw/extracted/fda_structured/interbody-cage--black-box-medical--stowe-pedicle-screw.json",
+        "bytes": 627
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K181554.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--black-box-medical--stowe-pedicle-screw/fda_raw/NKB/K181554.json",
+        "bytes": 585
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--black-box-medical--stowe-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--black-box-medical--stowe-pedicle-screw/merged/interbody-cage--black-box-medical--stowe-pedicle-screw.json",
+        "bytes": 833
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

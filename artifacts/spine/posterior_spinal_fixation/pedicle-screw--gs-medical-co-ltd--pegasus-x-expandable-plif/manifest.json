@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--gs-medical-co-ltd--pegasus-x-expandable-plif",
+  "artifact_folder": "pedicle-screw--gs-medical-co-ltd--pegasus-x-expandable-plif",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2877,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--gs-medical-co-ltd--pegasus-x-expandable-plif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--gs-medical-co-ltd--pegasus-x-expandable-plif/enriched/pedicle-screw--gs-medical-co-ltd--pegasus-x-expandable-plif.json",
+        "bytes": 1430
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K221687.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--gs-medical-co-ltd--pegasus-x-expandable-plif/fda_raw/MAX/K221687.json",
+        "bytes": 598
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--gs-medical-co-ltd--pegasus-x-expandable-plif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--gs-medical-co-ltd--pegasus-x-expandable-plif/merged/pedicle-screw--gs-medical-co-ltd--pegasus-x-expandable-plif.json",
+        "bytes": 849
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

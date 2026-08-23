@@ -11,12 +11,16 @@
   "product_code": "MOF",
   "what_it_is": null,
   "sizing_specs": null,
-  "indications": null,
+  "indications": "Indications for Use (Describe)\nThe AGILITY® Steerable Guidewires are intended for selective placement of microcatheters and other devices in the nero, and\nperipheral vasculature.\nThe NEUROSCOUT®1 Steerable Guidewires are intended for selective placement of niicrocalhcters and other devices in the neuro and\nperipheral vasculature.\nType of Use (Seloct one or both, as applicable)\n[JPrescription Use (Part 21 CFR 801 Subpart D) ElOver-The-Counter Use (21 CFR 801 Subpart C)\nPLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON A SEPARATE PAGE IF NEEDED.\nFOR FDA USE ONLY\nConcurrence of Center for Devices and Radiological Health (CDRH) (Signature)\nCarlos L. Pena -S\nFORM FDA 3881 (1/14) Page 1 of 2 ~E\n\nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*D0 NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the\ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any oilier aspect\nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Heahth and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhagov\n\"An agency may not conduct or sponsor, and a person is not required to respond to, a collection of\ninfonmation unless it displays a currently valid OMB number\"\nFORM FDA 3881 (1114) Page 2of 2",
   "contraindications": null,
   "compatible_with": null,
   "use_notes": null,
   "deployment_steps": null,
-  "also_known_as": [],
+  "also_known_as": [
+    "K121776",
+    "K121776",
+    "K133625"
+  ],
   "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf13/K133625.pdf",
   "ifu_pdf_url": null,
   "source_url": "",
@@ -35,8 +39,8 @@
       "confidence": 0
     },
     "indications": {
-      "source": "none",
-      "confidence": 0
+      "source": "fda_summary",
+      "confidence": 0.95
     },
     "contraindications": {
       "source": "none",
@@ -51,8 +55,8 @@
       "confidence": 0
     },
     "also_known_as": {
-      "source": "none",
-      "confidence": 0
+      "source": "fda_summary",
+      "confidence": 0.3
     }
   }
 }

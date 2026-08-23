@@ -1,0 +1,57 @@
+{
+  "device_slug": "interbody-cage--precision-spine-inc--reform-pedicle-screw",
+  "artifact_folder": "interbody-cage--precision-spine-inc--reform-pedicle-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 7,
+  "bytes": 5549,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--precision-spine-inc--reform-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--precision-spine-inc--reform-pedicle-screw/enriched/interbody-cage--precision-spine-inc--reform-pedicle-screw.json",
+        "bytes": 1702
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--precision-spine-inc--reform-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--precision-spine-inc--reform-pedicle-screw/extracted/fda_structured/interbody-cage--precision-spine-inc--reform-pedicle-screw.json",
+        "bytes": 627
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K143248.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--precision-spine-inc--reform-pedicle-screw/fda_raw/NKB/K143248.json",
+        "bytes": 595
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K150856.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--precision-spine-inc--reform-pedicle-screw/fda_raw/NKB/K150856.json",
+        "bytes": 595
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K151422.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--precision-spine-inc--reform-pedicle-screw/fda_raw/NKB/K151422.json",
+        "bytes": 595
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K242297.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--precision-spine-inc--reform-pedicle-screw/fda_raw/NKB/K242297.json",
+        "bytes": 595
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--precision-spine-inc--reform-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--precision-spine-inc--reform-pedicle-screw/merged/interbody-cage--precision-spine-inc--reform-pedicle-screw.json",
+        "bytes": 840
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

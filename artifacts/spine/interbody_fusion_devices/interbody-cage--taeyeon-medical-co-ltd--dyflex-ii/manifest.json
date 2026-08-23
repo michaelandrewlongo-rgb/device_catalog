@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--taeyeon-medical-co-ltd--dyflex-ii",
+  "artifact_folder": "interbody-cage--taeyeon-medical-co-ltd--dyflex-ii",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2755,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--taeyeon-medical-co-ltd--dyflex-ii.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--taeyeon-medical-co-ltd--dyflex-ii/enriched/interbody-cage--taeyeon-medical-co-ltd--dyflex-ii.json",
+        "bytes": 1380
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K212700.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--taeyeon-medical-co-ltd--dyflex-ii/fda_raw/NKB/K212700.json",
+        "bytes": 576
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--taeyeon-medical-co-ltd--dyflex-ii.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--taeyeon-medical-co-ltd--dyflex-ii/merged/interbody-cage--taeyeon-medical-co-ltd--dyflex-ii.json",
+        "bytes": 799
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "device_name": "MediExpand TL Expandable VBR System",
+  "manufacturer": "cmf-medicon-surgical-inc",
+  "catalog_category": "cervical-plate",
+  "filename_stem": "cervical-plate--cmf-medicon-surgical-inc--mediexpand-tl-expandable-vbr",
+  "clearance_type": "510k",
+  "clearance_number": "K190349",
+  "clearance_date": "2019-10-24",
+  "device_class": 2,
+  "device_name_fda": "MediExpand TL Expandable VBR System",
+  "product_code": "MQP",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf19/K190349.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

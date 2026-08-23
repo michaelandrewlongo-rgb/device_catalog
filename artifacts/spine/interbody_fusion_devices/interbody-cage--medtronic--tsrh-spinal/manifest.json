@@ -1,0 +1,80 @@
+{
+  "device_slug": "interbody-cage--medtronic--tsrh-spinal",
+  "artifact_folder": "interbody-cage--medtronic--tsrh-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 12,
+  "bytes": 8165,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--medtronic--tsrh-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--tsrh-spinal/enriched/interbody-cage--medtronic--tsrh-spinal.json",
+        "bytes": 1754
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K052054.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--tsrh-spinal/fda_raw/NKB/K052054.json",
+        "bytes": 559
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K052144.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--tsrh-spinal/fda_raw/NKB/K052144.json",
+        "bytes": 559
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K062807.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--tsrh-spinal/fda_raw/NKB/K062807.json",
+        "bytes": 565
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K081080.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--tsrh-spinal/fda_raw/NKB/K081080.json",
+        "bytes": 559
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K091797.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--tsrh-spinal/fda_raw/NKB/K091797.json",
+        "bytes": 559
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K092676.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--tsrh-spinal/fda_raw/NKB/K092676.json",
+        "bytes": 565
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K093058.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--tsrh-spinal/fda_raw/NKB/K093058.json",
+        "bytes": 565
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K103049.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--tsrh-spinal/fda_raw/NKB/K103049.json",
+        "bytes": 559
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K110070.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--tsrh-spinal/fda_raw/NKB/K110070.json",
+        "bytes": 569
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K110676.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--tsrh-spinal/fda_raw/NKB/K110676.json",
+        "bytes": 559
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--medtronic--tsrh-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--tsrh-spinal/merged/interbody-cage--medtronic--tsrh-spinal.json",
+        "bytes": 793
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

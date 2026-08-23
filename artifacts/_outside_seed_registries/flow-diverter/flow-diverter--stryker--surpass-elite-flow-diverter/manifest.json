@@ -1,0 +1,21 @@
+{
+  "device_slug": "flow-diverter--stryker--surpass-elite-flow-diverter",
+  "artifact_folder": "flow-diverter--stryker--surpass-elite-flow-diverter",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 507,
+  "sources": {
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/stryker/surpass-elite-r-flow-diverter.json",
+        "artifact": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--stryker--surpass-elite-flow-diverter/scraper_raw/stryker/surpass-elite-r-flow-diverter.json",
+        "bytes": 507
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "flow-diverter",
+    "label": "Flow diverters noted as separate exemplar"
+  }
+}

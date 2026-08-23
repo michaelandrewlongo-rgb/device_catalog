@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--ionics-medical-corp--dyn-alif-anterolateral-intervertebral-body",
+  "artifact_folder": "pedicle-screw--ionics-medical-corp--dyn-alif-anterolateral-intervertebral-body",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3060,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--ionics-medical-corp--dyn-alif-anterolateral-intervertebral-body.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--ionics-medical-corp--dyn-alif-anterolateral-intervertebral-body/enriched/pedicle-screw--ionics-medical-corp--dyn-alif-anterolateral-intervertebral-body.json",
+        "bytes": 1499
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K081673.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--ionics-medical-corp--dyn-alif-anterolateral-intervertebral-body/fda_raw/MAX/K081673.json",
+        "bytes": 643
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--ionics-medical-corp--dyn-alif-anterolateral-intervertebral-body.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--ionics-medical-corp--dyn-alif-anterolateral-intervertebral-body/merged/pedicle-screw--ionics-medical-corp--dyn-alif-anterolateral-intervertebral-body.json",
+        "bytes": 918
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

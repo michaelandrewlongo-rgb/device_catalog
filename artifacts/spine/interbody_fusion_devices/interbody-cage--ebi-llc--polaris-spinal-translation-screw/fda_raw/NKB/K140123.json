@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K140123",
+  "clearance_date": "2014-04-24",
+  "device_class": 2,
+  "manufacturer_canonical": "ebi-llc",
+  "manufacturer_raw": "Ebi, LLC",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "POLARIS SPINAL SYSTEM -TRANSLATION SCREW",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--ebi-llc--polaris-spinal-translation-screw",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf14/K140123.pdf"
+}

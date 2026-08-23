@@ -1,0 +1,50 @@
+{
+  "device_slug": "interbody-cage--innovative-surgical-designs-inc--true-tulip-true-m-i",
+  "artifact_folder": "interbody-cage--innovative-surgical-designs-inc--true-tulip-true-m-i",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 4809,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--innovative-surgical-designs-inc--true-tulip-true-m-i.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--innovative-surgical-designs-inc--true-tulip-true-m-i/enriched/interbody-cage--innovative-surgical-designs-inc--true-tulip-true-m-i.json",
+        "bytes": 1436
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K201780.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--innovative-surgical-designs-inc--true-tulip-true-m-i/fda_raw/NKB/K201780.json",
+        "bytes": 640
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K210816.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--innovative-surgical-designs-inc--true-tulip-true-m-i/fda_raw/NKB/K210816.json",
+        "bytes": 626
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K212627.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--innovative-surgical-designs-inc--true-tulip-true-m-i/fda_raw/NKB/K212627.json",
+        "bytes": 626
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K220297.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--innovative-surgical-designs-inc--true-tulip-true-m-i/fda_raw/NKB/K220297.json",
+        "bytes": 626
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--innovative-surgical-designs-inc--true-tulip-true-m-i.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--innovative-surgical-designs-inc--true-tulip-true-m-i/merged/interbody-cage--innovative-surgical-designs-inc--true-tulip-true-m-i.json",
+        "bytes": 855
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "device_name": "ACROMED ILIAC SCREW",
+  "manufacturer": "buckman-co-inc",
+  "catalog_category": "corpectomy",
+  "filename_stem": "corpectomy--buckman-co-inc--acromed-iliac-screw",
+  "clearance_type": "510k",
+  "clearance_number": "K884161",
+  "clearance_date": "1989-05-03",
+  "device_class": 2,
+  "device_name_fda": "ACROMED ILIAC SCREW",
+  "product_code": "KWP",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf88/K884161.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

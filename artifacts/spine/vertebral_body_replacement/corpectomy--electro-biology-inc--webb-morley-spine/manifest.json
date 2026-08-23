@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--electro-biology-inc--webb-morley-spine",
+  "artifact_folder": "corpectomy--electro-biology-inc--webb-morley-spine",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2808,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--electro-biology-inc--webb-morley-spine.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--electro-biology-inc--webb-morley-spine/enriched/corpectomy--electro-biology-inc--webb-morley-spine.json",
+        "bytes": 1404
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K945781.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--electro-biology-inc--webb-morley-spine/fda_raw/KWP/K945781.json",
+        "bytes": 581
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--electro-biology-inc--webb-morley-spine.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--electro-biology-inc--webb-morley-spine/merged/corpectomy--electro-biology-inc--webb-morley-spine.json",
+        "bytes": 823
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

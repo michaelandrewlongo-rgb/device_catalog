@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--cross-medical-products-inc--pwb-lumbosacral-spine",
+  "artifact_folder": "corpectomy--cross-medical-products-inc--pwb-lumbosacral-spine",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2889,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--cross-medical-products-inc--pwb-lumbosacral-spine.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--cross-medical-products-inc--pwb-lumbosacral-spine/enriched/corpectomy--cross-medical-products-inc--pwb-lumbosacral-spine.json",
+        "bytes": 1430
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K920116.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--cross-medical-products-inc--pwb-lumbosacral-spine/fda_raw/KWP/K920116.json",
+        "bytes": 610
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--cross-medical-products-inc--pwb-lumbosacral-spine.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--cross-medical-products-inc--pwb-lumbosacral-spine/merged/corpectomy--cross-medical-products-inc--pwb-lumbosacral-spine.json",
+        "bytes": 849
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

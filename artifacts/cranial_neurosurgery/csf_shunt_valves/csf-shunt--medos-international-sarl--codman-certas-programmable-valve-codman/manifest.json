@@ -1,0 +1,47 @@
+{
+  "device_slug": "csf-shunt--medos-international-sarl--codman-certas-programmable-valve-codman",
+  "artifact_folder": "csf-shunt--medos-international-sarl--codman-certas-programmable-valve-codman",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 176165,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/csf-shunt/parsed/fda_summaries/csf-shunt--medos-international-sarl--codman-certas-programmable-valve-codman--510k.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medos-international-sarl--codman-certas-programmable-valve-codman/510k/csf-shunt/parsed/fda_summaries/csf-shunt--medos-international-sarl--codman-certas-programmable-valve-codman--510k.json",
+        "bytes": 11891
+      },
+      {
+        "source": "pipeline/data/510k/csf-shunt/pdfs/csf-shunt--medos-international-sarl--codman-certas-programmable-valve-codman--510k.pdf",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medos-international-sarl--codman-certas-programmable-valve-codman/510k/csf-shunt/pdfs/csf-shunt--medos-international-sarl--codman-certas-programmable-valve-codman--510k.pdf",
+        "bytes": 157463
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--medos-international-sarl--codman-certas-programmable-valve-codman.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medos-international-sarl--codman-certas-programmable-valve-codman/enriched/csf-shunt--medos-international-sarl--codman-certas-programmable-valve-codman.json",
+        "bytes": 5177
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K112156.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medos-international-sarl--codman-certas-programmable-valve-codman/fda_raw/JXG/K112156.json",
+        "bytes": 669
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--medos-international-sarl--codman-certas-programmable-valve-codman.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medos-international-sarl--codman-certas-programmable-valve-codman/merged/csf-shunt--medos-international-sarl--codman-certas-programmable-valve-codman.json",
+        "bytes": 965
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--nuvasive--modification-to-nuvasive-spherx-ii",
+  "artifact_folder": "interbody-cage--nuvasive--modification-to-nuvasive-spherx-ii",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3209,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--nuvasive--modification-to-nuvasive-spherx-ii.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--nuvasive--modification-to-nuvasive-spherx-ii/enriched/interbody-cage--nuvasive--modification-to-nuvasive-spherx-ii.json",
+        "bytes": 1752
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K083028.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--nuvasive--modification-to-nuvasive-spherx-ii/fda_raw/NKB/K083028.json",
+        "bytes": 595
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--nuvasive--modification-to-nuvasive-spherx-ii.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--nuvasive--modification-to-nuvasive-spherx-ii/merged/interbody-cage--nuvasive--modification-to-nuvasive-spherx-ii.json",
+        "bytes": 862
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

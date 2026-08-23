@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--spinal-elements-inc--lucent-magnum",
+  "artifact_folder": "pedicle-screw--spinal-elements-inc--lucent-magnum",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2759,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--spinal-elements-inc--lucent-magnum.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinal-elements-inc--lucent-magnum/enriched/pedicle-screw--spinal-elements-inc--lucent-magnum.json",
+        "bytes": 1384
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K073348.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinal-elements-inc--lucent-magnum/fda_raw/MAX/K073348.json",
+        "bytes": 572
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--spinal-elements-inc--lucent-magnum.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinal-elements-inc--lucent-magnum/merged/pedicle-screw--spinal-elements-inc--lucent-magnum.json",
+        "bytes": 803
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

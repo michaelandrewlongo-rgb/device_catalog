@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--titan-spine-llc--endoskeleton-ta-interbody-fusion-ibd",
+  "artifact_folder": "pedicle-screw--titan-spine-llc--endoskeleton-ta-interbody-fusion-ibd",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2959,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--titan-spine-llc--endoskeleton-ta-interbody-fusion-ibd.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--titan-spine-llc--endoskeleton-ta-interbody-fusion-ibd/enriched/pedicle-screw--titan-spine-llc--endoskeleton-ta-interbody-fusion-ibd.json",
+        "bytes": 1463
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K080615.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--titan-spine-llc--endoskeleton-ta-interbody-fusion-ibd/fda_raw/MAX/K080615.json",
+        "bytes": 614
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--titan-spine-llc--endoskeleton-ta-interbody-fusion-ibd.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--titan-spine-llc--endoskeleton-ta-interbody-fusion-ibd/merged/pedicle-screw--titan-spine-llc--endoskeleton-ta-interbody-fusion-ibd.json",
+        "bytes": 882
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

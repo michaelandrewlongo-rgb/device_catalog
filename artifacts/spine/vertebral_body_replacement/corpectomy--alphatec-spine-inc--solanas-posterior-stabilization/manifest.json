@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--alphatec-spine-inc--solanas-posterior-stabilization",
+  "artifact_folder": "corpectomy--alphatec-spine-inc--solanas-posterior-stabilization",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3401,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--alphatec-spine-inc--solanas-posterior-stabilization.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--alphatec-spine-inc--solanas-posterior-stabilization/enriched/corpectomy--alphatec-spine-inc--solanas-posterior-stabilization.json",
+        "bytes": 1932
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K052201.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--alphatec-spine-inc--solanas-posterior-stabilization/fda_raw/KWP/K052201.json",
+        "bytes": 606
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--alphatec-spine-inc--solanas-posterior-stabilization.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--alphatec-spine-inc--solanas-posterior-stabilization/merged/corpectomy--alphatec-spine-inc--solanas-posterior-stabilization.json",
+        "bytes": 863
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

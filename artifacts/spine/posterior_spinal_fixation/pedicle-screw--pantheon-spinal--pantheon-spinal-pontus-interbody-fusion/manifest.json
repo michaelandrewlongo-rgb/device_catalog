@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--pantheon-spinal--pantheon-spinal-pontus-interbody-fusion",
+  "artifact_folder": "pedicle-screw--pantheon-spinal--pantheon-spinal-pontus-interbody-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2972,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--pantheon-spinal--pantheon-spinal-pontus-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--pantheon-spinal--pantheon-spinal-pontus-interbody-fusion/enriched/pedicle-screw--pantheon-spinal--pantheon-spinal-pontus-interbody-fusion.json",
+        "bytes": 1468
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K181548.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--pantheon-spinal--pantheon-spinal-pontus-interbody-fusion/fda_raw/MAX/K181548.json",
+        "bytes": 617
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--pantheon-spinal--pantheon-spinal-pontus-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--pantheon-spinal--pantheon-spinal-pontus-interbody-fusion/merged/pedicle-screw--pantheon-spinal--pantheon-spinal-pontus-interbody-fusion.json",
+        "bytes": 887
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

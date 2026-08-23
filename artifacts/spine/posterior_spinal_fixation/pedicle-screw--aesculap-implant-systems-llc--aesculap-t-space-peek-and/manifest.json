@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--aesculap-implant-systems-llc--aesculap-t-space-peek-and",
+  "artifact_folder": "pedicle-screw--aesculap-implant-systems-llc--aesculap-t-space-peek-and",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3002,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--aesculap-implant-systems-llc--aesculap-t-space-peek-and.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--aesculap-implant-systems-llc--aesculap-t-space-peek-and/enriched/pedicle-screw--aesculap-implant-systems-llc--aesculap-t-space-peek-and.json",
+        "bytes": 1472
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K151056.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--aesculap-implant-systems-llc--aesculap-t-space-peek-and/fda_raw/MAX/K151056.json",
+        "bytes": 639
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--aesculap-implant-systems-llc--aesculap-t-space-peek-and.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--aesculap-implant-systems-llc--aesculap-t-space-peek-and/merged/pedicle-screw--aesculap-implant-systems-llc--aesculap-t-space-peek-and.json",
+        "bytes": 891
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--royal-oak-medical-devices--helena",
+  "artifact_folder": "pedicle-screw--royal-oak-medical-devices--helena",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2778,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--royal-oak-medical-devices--helena.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--royal-oak-medical-devices--helena/enriched/pedicle-screw--royal-oak-medical-devices--helena.json",
+        "bytes": 1389
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K110177.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--royal-oak-medical-devices--helena/fda_raw/MAX/K110177.json",
+        "bytes": 581
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--royal-oak-medical-devices--helena.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--royal-oak-medical-devices--helena/merged/pedicle-screw--royal-oak-medical-devices--helena.json",
+        "bytes": 808
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

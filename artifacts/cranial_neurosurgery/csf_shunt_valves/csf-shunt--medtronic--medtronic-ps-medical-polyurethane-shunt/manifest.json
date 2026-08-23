@@ -1,0 +1,21 @@
+{
+  "device_slug": "csf-shunt--medtronic--medtronic-ps-medical-polyurethane-shunt",
+  "artifact_folder": "csf-shunt--medtronic--medtronic-ps-medical-polyurethane-shunt",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 621,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K991502.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medtronic--medtronic-ps-medical-polyurethane-shunt/fda_raw/JXG/K991502.json",
+        "bytes": 621
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

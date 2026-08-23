@@ -1,0 +1,292 @@
+[
+  {
+    "device_family": "aspiration--route-92-medical-inc--route-92-medical-hipoint-reperfusion",
+    "query_used": "Route 92 Medical HiPoint Reperfusion System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00853799007985",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Tenzing 7 Delivery Catheter, 2-pack",
+      "companyName": "ROUTE 92 MEDICAL",
+      "deviceIdentifier": "7f8098ba-e497-4abd-8d4b-4ea7c49f022e",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "10691",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Vascular microcatheter"
+        }
+      ],
+      "modelNumber": "Gen 1"
+    },
+    "retrieved_at": "2026-04-15T10:18:59+00:00",
+    "source_id": "accessgudid:00853799007985",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/7f8098ba-e497-4abd-8d4b-4ea7c49f022e",
+    "title": "Tenzing 7 Delivery Catheter, 2-pack (ROUTE 92 MEDICAL)"
+  },
+  {
+    "device_family": "aspiration--route-92-medical-inc--route-92-medical-hipoint-reperfusion",
+    "query_used": "Route 92 Medical HiPoint Reperfusion System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00853799007978",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Tenzing 7 Delivery Catheter, Single Pack",
+      "companyName": "ROUTE 92 MEDICAL",
+      "deviceIdentifier": "60ee95bc-2558-41f7-bfad-d8b40679aeed",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "10691",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Vascular microcatheter"
+        }
+      ],
+      "modelNumber": "Gen 1"
+    },
+    "retrieved_at": "2026-04-15T10:18:59+00:00",
+    "source_id": "accessgudid:00853799007978",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/60ee95bc-2558-41f7-bfad-d8b40679aeed",
+    "title": "Tenzing 7 Delivery Catheter, Single Pack (ROUTE 92 MEDICAL)"
+  },
+  {
+    "device_family": "aspiration--route-92-medical-inc--route-92-medical-hipoint-reperfusion",
+    "query_used": "Route 92 Medical HiPoint Reperfusion System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00853799007961",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "HiPoint 88 reperfusion catheter with Tenzing 8",
+      "companyName": "ROUTE 92 MEDICAL",
+      "deviceIdentifier": "bcd44d88-9e74-4dea-b24d-9a6b0c991b95",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "Gen 1"
+    },
+    "retrieved_at": "2026-04-15T10:18:59+00:00",
+    "source_id": "accessgudid:00853799007961",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/bcd44d88-9e74-4dea-b24d-9a6b0c991b95",
+    "title": "HiPoint 88 reperfusion catheter with Tenzing 8 (ROUTE 92 MEDICAL)"
+  },
+  {
+    "device_family": "aspiration--route-92-medical-inc--route-92-medical-hipoint-reperfusion",
+    "query_used": "Route 92 Medical HiPoint Reperfusion System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00853799007947",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "HiPoint 70 reperfusion catheter with Tenzing 7",
+      "companyName": "ROUTE 92 MEDICAL",
+      "deviceIdentifier": "1eb714aa-4530-4056-a78d-c6adcab07b61",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "Gen 1"
+    },
+    "retrieved_at": "2026-04-15T10:18:59+00:00",
+    "source_id": "accessgudid:00853799007947",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/1eb714aa-4530-4056-a78d-c6adcab07b61",
+    "title": "HiPoint 70 reperfusion catheter with Tenzing 7 (ROUTE 92 MEDICAL)"
+  },
+  {
+    "device_family": "aspiration--route-92-medical-inc--route-92-medical-hipoint-reperfusion",
+    "query_used": "Route 92 Medical HiPoint Reperfusion System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00853799007794",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "FreeClimb 54 reperfusion catheter, 125cm",
+      "companyName": "ROUTE 92 MEDICAL",
+      "deviceIdentifier": "73d3c31d-4de2-41b0-bf2b-2c1b5b466594",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "Gen 1"
+    },
+    "retrieved_at": "2026-04-15T10:18:59+00:00",
+    "source_id": "accessgudid:00853799007794",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/73d3c31d-4de2-41b0-bf2b-2c1b5b466594",
+    "title": "FreeClimb 54 reperfusion catheter, 125cm (ROUTE 92 MEDICAL)"
+  },
+  {
+    "device_family": "aspiration--route-92-medical-inc--route-92-medical-hipoint-reperfusion",
+    "query_used": "Route 92 Medical HiPoint Reperfusion System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00853799007787",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "FreeClimb 54 reperfusion catheter, 148cm",
+      "companyName": "ROUTE 92 MEDICAL",
+      "deviceIdentifier": "86e55539-f14a-49db-a680-0ff088ffe6d7",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "Gen 1"
+    },
+    "retrieved_at": "2026-04-15T10:18:59+00:00",
+    "source_id": "accessgudid:00853799007787",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/86e55539-f14a-49db-a680-0ff088ffe6d7",
+    "title": "FreeClimb 54 reperfusion catheter, 148cm (ROUTE 92 MEDICAL)"
+  },
+  {
+    "device_family": "aspiration--route-92-medical-inc--route-92-medical-hipoint-reperfusion",
+    "query_used": "Route 92 Medical HiPoint Reperfusion System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00853799007770",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "FreeClimb 88 catheter, 132cm with Tenzing 8",
+      "companyName": "ROUTE 92 MEDICAL",
+      "deviceIdentifier": "7979e5d4-6f8e-48a5-8687-c7fb7e58323f",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "17846",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Vascular guide-catheter, single-use"
+        }
+      ],
+      "modelNumber": "Gen 1"
+    },
+    "retrieved_at": "2026-04-15T10:18:59+00:00",
+    "source_id": "accessgudid:00853799007770",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/7979e5d4-6f8e-48a5-8687-c7fb7e58323f",
+    "title": "FreeClimb 88 catheter, 132cm with Tenzing 8 (ROUTE 92 MEDICAL)"
+  },
+  {
+    "device_family": "aspiration--route-92-medical-inc--route-92-medical-hipoint-reperfusion",
+    "query_used": "Route 92 Medical HiPoint Reperfusion System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00853799007763",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "FreeClimb 88 catheter, 125cm with Tenzing 8",
+      "companyName": "ROUTE 92 MEDICAL",
+      "deviceIdentifier": "292c9964-7f09-4129-be35-f387847f1659",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "17846",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Vascular guide-catheter, single-use"
+        }
+      ],
+      "modelNumber": "Gen 1"
+    },
+    "retrieved_at": "2026-04-15T10:18:59+00:00",
+    "source_id": "accessgudid:00853799007763",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/292c9964-7f09-4129-be35-f387847f1659",
+    "title": "FreeClimb 88 catheter, 125cm with Tenzing 8 (ROUTE 92 MEDICAL)"
+  },
+  {
+    "device_family": "aspiration--route-92-medical-inc--route-92-medical-hipoint-reperfusion",
+    "query_used": "Route 92 Medical HiPoint Reperfusion System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00853799007756",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "FreeClimb 88 catheter, 132cm",
+      "companyName": "ROUTE 92 MEDICAL",
+      "deviceIdentifier": "15891e72-790d-4d82-b530-59690ff3e30e",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "17846",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Vascular guide-catheter, single-use"
+        }
+      ],
+      "modelNumber": "Gen 1"
+    },
+    "retrieved_at": "2026-04-15T10:18:59+00:00",
+    "source_id": "accessgudid:00853799007756",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/15891e72-790d-4d82-b530-59690ff3e30e",
+    "title": "FreeClimb 88 catheter, 132cm (ROUTE 92 MEDICAL)"
+  },
+  {
+    "device_family": "aspiration--route-92-medical-inc--route-92-medical-hipoint-reperfusion",
+    "query_used": "Route 92 Medical HiPoint Reperfusion System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00853799007749",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "FreeClimb 88 catheter, 125cm",
+      "companyName": "ROUTE 92 MEDICAL",
+      "deviceIdentifier": "1fafcd6d-73e3-4c82-863c-5de6b3778ade",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "17846",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Vascular guide-catheter, single-use"
+        }
+      ],
+      "modelNumber": "Gen 1"
+    },
+    "retrieved_at": "2026-04-15T10:18:59+00:00",
+    "source_id": "accessgudid:00853799007749",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/1fafcd6d-73e3-4c82-863c-5de6b3778ade",
+    "title": "FreeClimb 88 catheter, 125cm (ROUTE 92 MEDICAL)"
+  }
+]

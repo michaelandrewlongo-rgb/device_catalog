@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--orthofix--forza-spacer-pillar-peek-spacer",
+  "artifact_folder": "pedicle-screw--orthofix--forza-spacer-pillar-peek-spacer",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3260,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--orthofix--forza-spacer-pillar-peek-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--orthofix--forza-spacer-pillar-peek-spacer/enriched/pedicle-screw--orthofix--forza-spacer-pillar-peek-spacer.json",
+        "bytes": 1588
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K162446.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--orthofix--forza-spacer-pillar-peek-spacer/fda_raw/MAX/K162446.json",
+        "bytes": 665
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--orthofix--forza-spacer-pillar-peek-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--orthofix--forza-spacer-pillar-peek-spacer/merged/pedicle-screw--orthofix--forza-spacer-pillar-peek-spacer.json",
+        "bytes": 1007
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

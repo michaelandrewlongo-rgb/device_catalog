@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K180324",
+  "clearance_date": "2018-04-06",
+  "device_class": 2,
+  "manufacturer_canonical": "valorus-spine",
+  "manufacturer_raw": "Valorus Spine",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "Patriot Spinal Fixation System",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--valorus-spine--patriot-spinal-fixation",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf18/K180324.pdf"
+}

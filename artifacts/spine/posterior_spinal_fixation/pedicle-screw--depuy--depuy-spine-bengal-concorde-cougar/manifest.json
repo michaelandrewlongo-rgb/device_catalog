@@ -1,0 +1,21 @@
+{
+  "device_slug": "pedicle-screw--depuy--depuy-spine-bengal-concorde-cougar",
+  "artifact_folder": "pedicle-screw--depuy--depuy-spine-bengal-concorde-cougar",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 610,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K081917.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--depuy--depuy-spine-bengal-concorde-cougar/fda_raw/MAX/K081917.json",
+        "bytes": 610
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K093015",
+  "clearance_date": "2010-02-25",
+  "device_class": 2,
+  "manufacturer_canonical": "binder-biomedical-inc",
+  "manufacturer_raw": "Binder Biomedical, Inc.",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "BINDER INTERVERTEBRAL BODY FUSION DEVICE",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--binder-biomedical-inc--binder-intervertebral-body-fusion",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf09/K093015.pdf"
+}

@@ -1,0 +1,42 @@
+{
+  "device_slug": "pedicle-screw--stryker--es2-mis-pedicle-screw-system",
+  "artifact_folder": "pedicle-screw--stryker--es2-mis-pedicle-screw-system",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 7112,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/pedicle-screw--stryker--es2-mis-pedicle-screw-system--knowledge.md",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--es2-mis-pedicle-screw-system/data_by_device/pedicle-screw--stryker--es2-mis-pedicle-screw-system--knowledge.md",
+        "bytes": 2413
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--stryker--es2-mis-pedicle-screw-system.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--es2-mis-pedicle-screw-system/enriched/pedicle-screw--stryker--es2-mis-pedicle-screw-system.json",
+        "bytes": 2091
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--stryker--es2-mis-pedicle-screw-system.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--es2-mis-pedicle-screw-system/merged/pedicle-screw--stryker--es2-mis-pedicle-screw-system.json",
+        "bytes": 1480
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/stryker/es2-mis-pedicle-screw-system.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--es2-mis-pedicle-screw-system/scraper_raw/stryker/es2-mis-pedicle-screw-system.json",
+        "bytes": 1128
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

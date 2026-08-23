@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--alphatec-mfg-inc--icon-polyaxial-pedicle-screw",
+  "artifact_folder": "corpectomy--alphatec-mfg-inc--icon-polyaxial-pedicle-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2876,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--alphatec-mfg-inc--icon-polyaxial-pedicle-screw.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--alphatec-mfg-inc--icon-polyaxial-pedicle-screw/enriched/corpectomy--alphatec-mfg-inc--icon-polyaxial-pedicle-screw.json",
+        "bytes": 1431
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K033090.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--alphatec-mfg-inc--icon-polyaxial-pedicle-screw/fda_raw/KWP/K033090.json",
+        "bytes": 595
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--alphatec-mfg-inc--icon-polyaxial-pedicle-screw.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--alphatec-mfg-inc--icon-polyaxial-pedicle-screw/merged/corpectomy--alphatec-mfg-inc--icon-polyaxial-pedicle-screw.json",
+        "bytes": 850
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

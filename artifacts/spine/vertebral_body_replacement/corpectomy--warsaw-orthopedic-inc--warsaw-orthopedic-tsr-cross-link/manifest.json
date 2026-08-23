@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--warsaw-orthopedic-inc--warsaw-orthopedic-tsr-cross-link",
+  "artifact_folder": "corpectomy--warsaw-orthopedic-inc--warsaw-orthopedic-tsr-cross-link",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3239,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--warsaw-orthopedic-inc--warsaw-orthopedic-tsr-cross-link.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--warsaw-orthopedic-inc--warsaw-orthopedic-tsr-cross-link/enriched/corpectomy--warsaw-orthopedic-inc--warsaw-orthopedic-tsr-cross-link.json",
+        "bytes": 1750
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K870830.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--warsaw-orthopedic-inc--warsaw-orthopedic-tsr-cross-link/fda_raw/KWP/K870830.json",
+        "bytes": 617
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--warsaw-orthopedic-inc--warsaw-orthopedic-tsr-cross-link.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--warsaw-orthopedic-inc--warsaw-orthopedic-tsr-cross-link/merged/corpectomy--warsaw-orthopedic-inc--warsaw-orthopedic-tsr-cross-link.json",
+        "bytes": 872
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

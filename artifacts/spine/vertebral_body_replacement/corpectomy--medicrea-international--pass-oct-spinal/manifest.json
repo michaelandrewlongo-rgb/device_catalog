@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--medicrea-international--pass-oct-spinal",
+  "artifact_folder": "corpectomy--medicrea-international--pass-oct-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2811,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--medicrea-international--pass-oct-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medicrea-international--pass-oct-spinal/enriched/corpectomy--medicrea-international--pass-oct-spinal.json",
+        "bytes": 1404
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K121979.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medicrea-international--pass-oct-spinal/fda_raw/KWP/K121979.json",
+        "bytes": 584
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--medicrea-international--pass-oct-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medicrea-international--pass-oct-spinal/merged/corpectomy--medicrea-international--pass-oct-spinal.json",
+        "bytes": 823
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--blackstone-medical-inc--blackstone-surgical-titanium-mesh-angled",
+  "artifact_folder": "cervical-plate--blackstone-medical-inc--blackstone-surgical-titanium-mesh-angled",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3087,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--blackstone-medical-inc--blackstone-surgical-titanium-mesh-angled.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--blackstone-medical-inc--blackstone-surgical-titanium-mesh-angled/enriched/cervical-plate--blackstone-medical-inc--blackstone-surgical-titanium-mesh-angled.json",
+        "bytes": 1507
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K032700.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--blackstone-medical-inc--blackstone-surgical-titanium-mesh-angled/fda_raw/MQP/K032700.json",
+        "bytes": 654
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--blackstone-medical-inc--blackstone-surgical-titanium-mesh-angled.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--blackstone-medical-inc--blackstone-surgical-titanium-mesh-angled/merged/cervical-plate--blackstone-medical-inc--blackstone-surgical-titanium-mesh-angled.json",
+        "bytes": 926
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

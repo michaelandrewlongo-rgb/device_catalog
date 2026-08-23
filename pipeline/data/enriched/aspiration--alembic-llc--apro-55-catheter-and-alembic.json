@@ -16,7 +16,19 @@
   "compatible_with": null,
   "use_notes": null,
   "deployment_steps": null,
-  "also_known_as": [],
+  "also_known_as": [
+    "K173841",
+    "K223545",
+    "K223545",
+    "K232971",
+    "K173841",
+    "K223545",
+    "K232971",
+    "K173841",
+    "K223545",
+    "K223545",
+    "K223545"
+  ],
   "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K232971.pdf",
   "ifu_pdf_url": null,
   "source_url": "",
@@ -51,8 +63,8 @@
       "confidence": 0
     },
     "also_known_as": {
-      "source": "none",
-      "confidence": 0
+      "source": "fda_summary",
+      "confidence": 0.3
     }
   }
 }

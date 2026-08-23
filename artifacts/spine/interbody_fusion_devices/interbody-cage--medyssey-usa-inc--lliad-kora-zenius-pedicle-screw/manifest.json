@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--medyssey-usa-inc--lliad-kora-zenius-pedicle-screw",
+  "artifact_folder": "interbody-cage--medyssey-usa-inc--lliad-kora-zenius-pedicle-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2933,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--medyssey-usa-inc--lliad-kora-zenius-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medyssey-usa-inc--lliad-kora-zenius-pedicle-screw/enriched/interbody-cage--medyssey-usa-inc--lliad-kora-zenius-pedicle-screw.json",
+        "bytes": 1452
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K131878.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medyssey-usa-inc--lliad-kora-zenius-pedicle-screw/fda_raw/NKB/K131878.json",
+        "bytes": 610
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--medyssey-usa-inc--lliad-kora-zenius-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medyssey-usa-inc--lliad-kora-zenius-pedicle-screw/merged/interbody-cage--medyssey-usa-inc--lliad-kora-zenius-pedicle-screw.json",
+        "bytes": 871
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

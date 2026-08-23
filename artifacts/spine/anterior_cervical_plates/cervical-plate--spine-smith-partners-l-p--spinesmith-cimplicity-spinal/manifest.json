@@ -1,0 +1,42 @@
+{
+  "device_slug": "cervical-plate--spine-smith-partners-l-p--spinesmith-cimplicity-spinal",
+  "artifact_folder": "cervical-plate--spine-smith-partners-l-p--spinesmith-cimplicity-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3822,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--spine-smith-partners-l-p--spinesmith-cimplicity-spinal.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--spine-smith-partners-l-p--spinesmith-cimplicity-spinal/enriched/cervical-plate--spine-smith-partners-l-p--spinesmith-cimplicity-spinal.json",
+        "bytes": 1734
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/cervical-plate--spine-smith-partners-l-p--spinesmith-cimplicity-spinal.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--spine-smith-partners-l-p--spinesmith-cimplicity-spinal/extracted/fda_structured/cervical-plate--spine-smith-partners-l-p--spinesmith-cimplicity-spinal.json",
+        "bytes": 589
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K080971.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--spine-smith-partners-l-p--spinesmith-cimplicity-spinal/fda_raw/MQP/K080971.json",
+        "bytes": 625
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--spine-smith-partners-l-p--spinesmith-cimplicity-spinal.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--spine-smith-partners-l-p--spinesmith-cimplicity-spinal/merged/cervical-plate--spine-smith-partners-l-p--spinesmith-cimplicity-spinal.json",
+        "bytes": 874
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

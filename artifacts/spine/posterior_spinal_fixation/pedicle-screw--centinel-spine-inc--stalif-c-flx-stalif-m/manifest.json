@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--centinel-spine-inc--stalif-c-flx-stalif-m",
+  "artifact_folder": "pedicle-screw--centinel-spine-inc--stalif-c-flx-stalif-m",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3451,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--centinel-spine-inc--stalif-c-flx-stalif-m.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--centinel-spine-inc--stalif-c-flx-stalif-m/enriched/pedicle-screw--centinel-spine-inc--stalif-c-flx-stalif-m.json",
+        "bytes": 1660
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K173347.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--centinel-spine-inc--stalif-c-flx-stalif-m/fda_raw/MAX/K173347.json",
+        "bytes": 712
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--centinel-spine-inc--stalif-c-flx-stalif-m.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--centinel-spine-inc--stalif-c-flx-stalif-m/merged/pedicle-screw--centinel-spine-inc--stalif-c-flx-stalif-m.json",
+        "bytes": 1079
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

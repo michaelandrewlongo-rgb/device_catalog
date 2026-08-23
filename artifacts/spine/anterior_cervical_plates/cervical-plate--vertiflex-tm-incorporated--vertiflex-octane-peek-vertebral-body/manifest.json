@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--vertiflex-tm-incorporated--vertiflex-octane-peek-vertebral-body",
+  "artifact_folder": "cervical-plate--vertiflex-tm-incorporated--vertiflex-octane-peek-vertebral-body",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3107,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--vertiflex-tm-incorporated--vertiflex-octane-peek-vertebral-body.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--vertiflex-tm-incorporated--vertiflex-octane-peek-vertebral-body/enriched/cervical-plate--vertiflex-tm-incorporated--vertiflex-octane-peek-vertebral-body.json",
+        "bytes": 1513
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K070218.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--vertiflex-tm-incorporated--vertiflex-octane-peek-vertebral-body/fda_raw/MQP/K070218.json",
+        "bytes": 662
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--vertiflex-tm-incorporated--vertiflex-octane-peek-vertebral-body.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--vertiflex-tm-incorporated--vertiflex-octane-peek-vertebral-body/merged/cervical-plate--vertiflex-tm-incorporated--vertiflex-octane-peek-vertebral-body.json",
+        "bytes": 932
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

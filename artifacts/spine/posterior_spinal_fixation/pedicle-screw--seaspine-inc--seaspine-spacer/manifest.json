@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--seaspine-inc--seaspine-spacer",
+  "artifact_folder": "pedicle-screw--seaspine-inc--seaspine-spacer",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2761,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--seaspine-inc--seaspine-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--seaspine-inc--seaspine-spacer/enriched/pedicle-screw--seaspine-inc--seaspine-spacer.json",
+        "bytes": 1390
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K102026.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--seaspine-inc--seaspine-spacer/fda_raw/MAX/K102026.json",
+        "bytes": 562
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--seaspine-inc--seaspine-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--seaspine-inc--seaspine-spacer/merged/pedicle-screw--seaspine-inc--seaspine-spacer.json",
+        "bytes": 809
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

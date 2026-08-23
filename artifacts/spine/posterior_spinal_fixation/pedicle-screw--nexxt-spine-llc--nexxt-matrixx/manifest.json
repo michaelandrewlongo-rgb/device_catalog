@@ -1,0 +1,45 @@
+{
+  "device_slug": "pedicle-screw--nexxt-spine-llc--nexxt-matrixx",
+  "artifact_folder": "pedicle-screw--nexxt-spine-llc--nexxt-matrixx",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 3898,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--nexxt-spine-llc--nexxt-matrixx.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nexxt-spine-llc--nexxt-matrixx/enriched/pedicle-screw--nexxt-spine-llc--nexxt-matrixx.json",
+        "bytes": 1390
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K191408.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nexxt-spine-llc--nexxt-matrixx/fda_raw/MAX/K191408.json",
+        "bytes": 566
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K193370.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nexxt-spine-llc--nexxt-matrixx/fda_raw/MAX/K193370.json",
+        "bytes": 566
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K200969.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nexxt-spine-llc--nexxt-matrixx/fda_raw/MAX/K200969.json",
+        "bytes": 567
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--nexxt-spine-llc--nexxt-matrixx.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nexxt-spine-llc--nexxt-matrixx/merged/pedicle-screw--nexxt-spine-llc--nexxt-matrixx.json",
+        "bytes": 809
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

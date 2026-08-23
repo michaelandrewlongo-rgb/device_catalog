@@ -1,0 +1,15 @@
+{
+  "device_name": "ExcelsiusGPS Robotic Navigation Platform",
+  "manufacturer": "globus",
+  "category_hint": "navigation",
+  "source_url": "https://www.globusmedical.com/healthcare-professionals/spine/procedures/deformity/",
+  "what_it_is": "Ecosystem of robotic navigation: ExcelsiusGPS (robotic guidance), Excelsius3D (intraop imaging), ExcelsiusHub (data). NVM5 neuromonitoring integrates nerve avoidance, monitoring, computer-assisted rod bending, angular assessment.",
+  "indications": "Spine surgery navigation and robotic guidance.",
+  "compatible_with": "CREO and Reline fixation. NVM5 neuromonitoring. Bendini rod bending.",
+  "also_known_as": [
+    "ExcelsiusGPS",
+    "Excelsius3D",
+    "ExcelsiusHub",
+    "NVM5"
+  ]
+}

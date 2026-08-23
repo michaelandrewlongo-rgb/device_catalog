@@ -1,0 +1,21 @@
+{
+  "device_slug": "interbody-cage--alphatec-spine-inc--xenon-tm-pedicle-screw-recalls",
+  "artifact_folder": "interbody-cage--alphatec-spine-inc--xenon-tm-pedicle-screw-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 3911,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/interbody-cage--alphatec-spine-inc--xenon-tm-pedicle-screw-recalls.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--alphatec-spine-inc--xenon-tm-pedicle-screw-recalls/extracted/fda_safety/interbody-cage--alphatec-spine-inc--xenon-tm-pedicle-screw-recalls.json",
+        "bytes": 3911
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

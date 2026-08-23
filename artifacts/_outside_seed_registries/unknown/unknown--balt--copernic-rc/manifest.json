@@ -1,0 +1,35 @@
+{
+  "device_slug": "unknown--balt--copernic-rc",
+  "artifact_folder": "unknown--balt--copernic-rc",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 4513,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/unknown--balt--copernic-rc.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--balt--copernic-rc/enriched/unknown--balt--copernic-rc.json",
+        "bytes": 1985
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/unknown--balt--copernic-rc.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--balt--copernic-rc/merged/unknown--balt--copernic-rc.json",
+        "bytes": 1403
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/balt/copernic-rc.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--balt--copernic-rc/scraper_raw/balt/copernic-rc.json",
+        "bytes": 1125
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "unknown",
+    "label": "Outside listed seed registries"
+  }
+}

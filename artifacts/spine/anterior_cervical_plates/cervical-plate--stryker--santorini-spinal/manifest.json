@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--stryker--santorini-spinal",
+  "artifact_folder": "cervical-plate--stryker--santorini-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2740,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--stryker--santorini-spinal.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--stryker--santorini-spinal/enriched/cervical-plate--stryker--santorini-spinal.json",
+        "bytes": 1385
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K111294.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--stryker--santorini-spinal/fda_raw/MQP/K111294.json",
+        "bytes": 551
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--stryker--santorini-spinal.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--stryker--santorini-spinal/merged/cervical-plate--stryker--santorini-spinal.json",
+        "bytes": 804
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

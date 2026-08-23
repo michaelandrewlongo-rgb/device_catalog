@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--choicespine--choice-spine-starfire-pedicle-screw",
+  "artifact_folder": "interbody-cage--choicespine--choice-spine-starfire-pedicle-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2922,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--choicespine--choice-spine-starfire-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--choicespine--choice-spine-starfire-pedicle-screw/enriched/interbody-cage--choicespine--choice-spine-starfire-pedicle-screw.json",
+        "bytes": 1450
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K102204.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--choicespine--choice-spine-starfire-pedicle-screw/fda_raw/NKB/K102204.json",
+        "bytes": 603
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--choicespine--choice-spine-starfire-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--choicespine--choice-spine-starfire-pedicle-screw/merged/interbody-cage--choicespine--choice-spine-starfire-pedicle-screw.json",
+        "bytes": 869
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

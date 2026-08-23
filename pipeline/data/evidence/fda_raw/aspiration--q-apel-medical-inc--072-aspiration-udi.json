@@ -1,0 +1,82 @@
+[
+  {
+    "device_family": "aspiration--q-apel-medical-inc--072-aspiration",
+    "query_used": "brand_name:\"072 Aspiration System\" OR brand_name:\"Thrombectomy suction catheter\"",
+    "raw": {
+      "brand_name": "072 Aspiration System",
+      "catalog_number": "AP6072-132",
+      "commercial_distribution_end_date": "2025-02-05",
+      "commercial_distribution_status": "Not in Commercial Distribution",
+      "company_name": "Q'APEL MEDICAL LLC",
+      "device_count_in_base_package": "1",
+      "device_description": "As part of the 072 Aspiration System, the 072 Aspiration Catheter with a compatible suction pump is indicated for use in the revascularization of patients with acute ischemic stroke secondary to intracranial large vessel occlusive disease (within the internal carotid, middle cerebral - M1 and M2 segments, basilar, and vertebral arteries) within 8 hours of symptom onset. Patients who are ineligible for intravenous tissue plasminogen activator (IV t-PA) or who failed IV t-PA therapy are candidates for treatment.",
+      "gmdn_terms": [
+        {
+          "code": "58173",
+          "code_status": "Active",
+          "definition": "A flexible or semi-flexible tube designed for the percutaneous, transluminal disruption and removal of clotted blood (i.e., a thrombus or thromboembolus) or other formed elements causing vascular obstruction in native/stented blood vessels, native/synthetic bypass grafts, and/or haemodialysis access grafts, through suction (aspiration) in conjunction with a syringe or dedicated suction pump system (pump not included). It may additionally be intended for infusion of fluids and/or used as a guide-catheter to facilitate introduction of a thrombectomy wire-net (not included) to remove residual thrombus. Collection containers may be included with the catheter. This is a single-use device.",
+          "implantable": "false",
+          "name": "Thrombectomy suction catheter"
+        }
+      ],
+      "has_donation_id_number": "false",
+      "has_expiration_date": "true",
+      "has_lot_or_batch_number": "true",
+      "has_manufacturing_date": "true",
+      "has_serial_number": "false",
+      "identifiers": [
+        {
+          "id": "00857545008097",
+          "issuing_agency": "GS1",
+          "type": "Primary"
+        }
+      ],
+      "is_combination_product": "false",
+      "is_direct_marking_exempt": "false",
+      "is_hct_p": "false",
+      "is_kit": "false",
+      "is_labeled_as_no_nrl": "true",
+      "is_labeled_as_nrl": "false",
+      "is_otc": "false",
+      "is_pm_exempt": "false",
+      "is_rx": "true",
+      "is_single_use": "true",
+      "labeler_duns_number": "020937374",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "premarket_submissions": [
+        {
+          "submission_number": "K222786",
+          "supplement_number": "000"
+        }
+      ],
+      "product_codes": [
+        {
+          "code": "NRY",
+          "name": "Catheter, Thrombus Retriever",
+          "openfda": {
+            "device_class": "2",
+            "device_name": "Catheter, Thrombus Retriever",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.1250"
+          }
+        }
+      ],
+      "public_device_record_key": "9c704ecd-91bd-41f8-b605-a9b1b743c186",
+      "public_version_date": "2025-05-19",
+      "public_version_number": "3",
+      "public_version_status": "Update",
+      "publish_date": "2023-10-11",
+      "record_status": "Published",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "version_or_model_number": "FG 00806"
+    },
+    "retrieved_at": "2026-04-15T10:18:22+00:00",
+    "source_id": "fda:udi:record-1",
+    "source_type": "fda",
+    "source_url": "https://api.fda.gov/device/udi.json?search=brand_name%3A%22072%20Aspiration%20System%22%20OR%20brand_name%3A%22Thrombectomy%20suction%20catheter%22",
+    "title": "072 Aspiration System"
+  }
+]

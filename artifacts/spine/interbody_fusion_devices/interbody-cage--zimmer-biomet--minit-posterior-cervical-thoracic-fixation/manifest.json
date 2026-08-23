@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--zimmer-biomet--minit-posterior-cervical-thoracic-fixation",
+  "artifact_folder": "interbody-cage--zimmer-biomet--minit-posterior-cervical-thoracic-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 4481,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--zimmer-biomet--minit-posterior-cervical-thoracic-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--zimmer-biomet--minit-posterior-cervical-thoracic-fixation/enriched/interbody-cage--zimmer-biomet--minit-posterior-cervical-thoracic-fixation.json",
+        "bytes": 2388
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K142752.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--zimmer-biomet--minit-posterior-cervical-thoracic-fixation/fda_raw/NKB/K142752.json",
+        "bytes": 813
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--zimmer-biomet--minit-posterior-cervical-thoracic-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--zimmer-biomet--minit-posterior-cervical-thoracic-fixation/merged/interbody-cage--zimmer-biomet--minit-posterior-cervical-thoracic-fixation.json",
+        "bytes": 1280
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

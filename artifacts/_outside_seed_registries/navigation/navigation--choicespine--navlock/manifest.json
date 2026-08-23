@@ -1,0 +1,33 @@
+{
+  "device_slug": "navigation--choicespine--navlock",
+  "artifact_folder": "navigation--choicespine--navlock",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 263608,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/navigation--choicespine--navlock--knowledge.md",
+        "artifact": "artifacts/_outside_seed_registries/navigation/navigation--choicespine--navlock/data_by_device/navigation--choicespine--navlock--knowledge.md",
+        "bytes": 18087
+      },
+      {
+        "source": "pipeline/data/data_by_device/navigation--choicespine--navlock--technique.pdf",
+        "artifact": "artifacts/_outside_seed_registries/navigation/navigation--choicespine--navlock/data_by_device/navigation--choicespine--navlock--technique.pdf",
+        "bytes": 235966
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/documents/navigation--choicespine--navlock--technique.json",
+        "artifact": "artifacts/_outside_seed_registries/navigation/navigation--choicespine--navlock/extracted/documents/navigation--choicespine--navlock--technique.json",
+        "bytes": 9555
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "navigation",
+    "label": "Outside listed seed registries"
+  }
+}

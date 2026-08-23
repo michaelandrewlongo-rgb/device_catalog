@@ -1,0 +1,47 @@
+{
+  "device_slug": "csf-shunt--sophysa--sophy-mini-monopressure-valve-sm1",
+  "artifact_folder": "csf-shunt--sophysa--sophy-mini-monopressure-valve-sm1",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 3757708,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/csf-shunt/parsed/fda_summaries/csf-shunt--sophysa--sophy-mini-monopressure-valve-sm1--510k.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--sophysa--sophy-mini-monopressure-valve-sm1/510k/csf-shunt/parsed/fda_summaries/csf-shunt--sophysa--sophy-mini-monopressure-valve-sm1--510k.json",
+        "bytes": 43125
+      },
+      {
+        "source": "pipeline/data/510k/csf-shunt/pdfs/csf-shunt--sophysa--sophy-mini-monopressure-valve-sm1--510k.pdf",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--sophysa--sophy-mini-monopressure-valve-sm1/510k/csf-shunt/pdfs/csf-shunt--sophysa--sophy-mini-monopressure-valve-sm1--510k.pdf",
+        "bytes": 3690413
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--sophysa--sophy-mini-monopressure-valve-sm1.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--sophysa--sophy-mini-monopressure-valve-sm1/enriched/csf-shunt--sophysa--sophy-mini-monopressure-valve-sm1.json",
+        "bytes": 22768
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K250636.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--sophysa--sophy-mini-monopressure-valve-sm1/fda_raw/JXG/K250636.json",
+        "bytes": 567
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--sophysa--sophy-mini-monopressure-valve-sm1.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--sophysa--sophy-mini-monopressure-valve-sm1/merged/csf-shunt--sophysa--sophy-mini-monopressure-valve-sm1.json",
+        "bytes": 835
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

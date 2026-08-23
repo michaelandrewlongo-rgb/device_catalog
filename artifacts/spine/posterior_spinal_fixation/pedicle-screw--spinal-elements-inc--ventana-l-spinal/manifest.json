@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--spinal-elements-inc--ventana-l-spinal",
+  "artifact_folder": "pedicle-screw--spinal-elements-inc--ventana-l-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2836,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--spinal-elements-inc--ventana-l-spinal.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinal-elements-inc--ventana-l-spinal/enriched/pedicle-screw--spinal-elements-inc--ventana-l-spinal.json",
+        "bytes": 1411
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K231252.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinal-elements-inc--ventana-l-spinal/fda_raw/MAX/K231252.json",
+        "bytes": 587
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--spinal-elements-inc--ventana-l-spinal.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinal-elements-inc--ventana-l-spinal/merged/pedicle-screw--spinal-elements-inc--ventana-l-spinal.json",
+        "bytes": 838
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

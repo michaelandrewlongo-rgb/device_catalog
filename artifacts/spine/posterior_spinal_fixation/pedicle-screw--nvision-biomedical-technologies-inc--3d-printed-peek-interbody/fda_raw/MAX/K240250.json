@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K240250",
+  "clearance_date": "2024-09-17",
+  "device_class": 2,
+  "manufacturer_canonical": "nvision-biomedical-technologies-inc",
+  "manufacturer_raw": "Nvision Biomedical Technologies, Inc.",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "3D Printed PEEK Interbody System",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--nvision-biomedical-technologies-inc--3d-printed-peek-interbody",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K240250.pdf"
+}

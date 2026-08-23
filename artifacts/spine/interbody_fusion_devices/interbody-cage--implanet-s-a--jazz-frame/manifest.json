@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--implanet-s-a--jazz-frame",
+  "artifact_folder": "interbody-cage--implanet-s-a--jazz-frame",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2727,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--implanet-s-a--jazz-frame.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--implanet-s-a--jazz-frame/enriched/interbody-cage--implanet-s-a--jazz-frame.json",
+        "bytes": 1377
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K162764.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--implanet-s-a--jazz-frame/fda_raw/NKB/K162764.json",
+        "bytes": 554
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--implanet-s-a--jazz-frame.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--implanet-s-a--jazz-frame/merged/interbody-cage--implanet-s-a--jazz-frame.json",
+        "bytes": 796
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

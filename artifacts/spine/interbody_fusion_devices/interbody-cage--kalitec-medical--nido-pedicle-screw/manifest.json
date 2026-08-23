@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--kalitec-medical--nido-pedicle-screw",
+  "artifact_folder": "interbody-cage--kalitec-medical--nido-pedicle-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2828,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--kalitec-medical--nido-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--kalitec-medical--nido-pedicle-screw/enriched/interbody-cage--kalitec-medical--nido-pedicle-screw.json",
+        "bytes": 1411
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K230974.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--kalitec-medical--nido-pedicle-screw/fda_raw/NKB/K230974.json",
+        "bytes": 579
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--kalitec-medical--nido-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--kalitec-medical--nido-pedicle-screw/merged/interbody-cage--kalitec-medical--nido-pedicle-screw.json",
+        "bytes": 838
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

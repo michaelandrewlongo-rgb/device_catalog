@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--elekta-implants-sa--subdural-drainage-catheter-kit-subdural",
+  "artifact_folder": "csf-shunt--elekta-implants-sa--subdural-drainage-catheter-kit-subdural",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2984,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--elekta-implants-sa--subdural-drainage-catheter-kit-subdural.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--elekta-implants-sa--subdural-drainage-catheter-kit-subdural/enriched/csf-shunt--elekta-implants-sa--subdural-drainage-catheter-kit-subdural.json",
+        "bytes": 1472
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K974726.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--elekta-implants-sa--subdural-drainage-catheter-kit-subdural/fda_raw/JXG/K974726.json",
+        "bytes": 621
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--elekta-implants-sa--subdural-drainage-catheter-kit-subdural.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--elekta-implants-sa--subdural-drainage-catheter-kit-subdural/merged/csf-shunt--elekta-implants-sa--subdural-drainage-catheter-kit-subdural.json",
+        "bytes": 891
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "device_slug": "cervical-plate--depuy--vertebral-spacer",
+  "artifact_folder": "cervical-plate--depuy--vertebral-spacer",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3602,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--depuy--vertebral-spacer.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuy--vertebral-spacer/enriched/cervical-plate--depuy--vertebral-spacer.json",
+        "bytes": 1652
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/cervical-plate--depuy--vertebral-spacer.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuy--vertebral-spacer/extracted/fda_structured/cervical-plate--depuy--vertebral-spacer.json",
+        "bytes": 620
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K011037.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuy--vertebral-spacer/fda_raw/MQP/K011037.json",
+        "bytes": 544
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--depuy--vertebral-spacer.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuy--vertebral-spacer/merged/cervical-plate--depuy--vertebral-spacer.json",
+        "bytes": 786
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

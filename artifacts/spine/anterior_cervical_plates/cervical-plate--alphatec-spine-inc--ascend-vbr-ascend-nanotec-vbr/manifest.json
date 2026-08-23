@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--alphatec-spine-inc--ascend-vbr-ascend-nanotec-vbr",
+  "artifact_folder": "cervical-plate--alphatec-spine-inc--ascend-vbr-ascend-nanotec-vbr",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3493,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--alphatec-spine-inc--ascend-vbr-ascend-nanotec-vbr.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--alphatec-spine-inc--ascend-vbr-ascend-nanotec-vbr/enriched/cervical-plate--alphatec-spine-inc--ascend-vbr-ascend-nanotec-vbr.json",
+        "bytes": 1994
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K232173.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--alphatec-spine-inc--ascend-vbr-ascend-nanotec-vbr/fda_raw/MQP/K232173.json",
+        "bytes": 618
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--alphatec-spine-inc--ascend-vbr-ascend-nanotec-vbr.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--alphatec-spine-inc--ascend-vbr-ascend-nanotec-vbr/merged/cervical-plate--alphatec-spine-inc--ascend-vbr-ascend-nanotec-vbr.json",
+        "bytes": 881
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

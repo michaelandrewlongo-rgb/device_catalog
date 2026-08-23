@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--blackstone-medical-inc--blackstone-medical-inc-pillar-spacer",
+  "artifact_folder": "pedicle-screw--blackstone-medical-inc--blackstone-medical-inc-pillar-spacer",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3014,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--blackstone-medical-inc--blackstone-medical-inc-pillar-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--blackstone-medical-inc--blackstone-medical-inc-pillar-spacer/enriched/pedicle-screw--blackstone-medical-inc--blackstone-medical-inc-pillar-spacer.json",
+        "bytes": 1479
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K081177.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--blackstone-medical-inc--blackstone-medical-inc-pillar-spacer/fda_raw/MAX/K081177.json",
+        "bytes": 637
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--blackstone-medical-inc--blackstone-medical-inc-pillar-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--blackstone-medical-inc--blackstone-medical-inc-pillar-spacer/merged/pedicle-screw--blackstone-medical-inc--blackstone-medical-inc-pillar-spacer.json",
+        "bytes": 898
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

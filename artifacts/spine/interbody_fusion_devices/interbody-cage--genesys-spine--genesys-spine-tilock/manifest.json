@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--genesys-spine--genesys-spine-tilock",
+  "artifact_folder": "interbody-cage--genesys-spine--genesys-spine-tilock",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2812,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--genesys-spine--genesys-spine-tilock.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--genesys-spine--genesys-spine-tilock/enriched/interbody-cage--genesys-spine--genesys-spine-tilock.json",
+        "bytes": 1409
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K103671.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--genesys-spine--genesys-spine-tilock/fda_raw/NKB/K103671.json",
+        "bytes": 575
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--genesys-spine--genesys-spine-tilock.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--genesys-spine--genesys-spine-tilock/merged/interbody-cage--genesys-spine--genesys-spine-tilock.json",
+        "bytes": 828
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

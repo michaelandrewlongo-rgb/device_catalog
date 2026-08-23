@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--arftx-medical-llc--artfx-corpectomy-cages-espinax-and",
+  "artifact_folder": "cervical-plate--arftx-medical-llc--artfx-corpectomy-cages-espinax-and",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3078,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--arftx-medical-llc--artfx-corpectomy-cages-espinax-and.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--arftx-medical-llc--artfx-corpectomy-cages-espinax-and/enriched/cervical-plate--arftx-medical-llc--artfx-corpectomy-cages-espinax-and.json",
+        "bytes": 1509
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K211892.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--arftx-medical-llc--artfx-corpectomy-cages-espinax-and/fda_raw/MQP/K211892.json",
+        "bytes": 641
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--arftx-medical-llc--artfx-corpectomy-cages-espinax-and.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--arftx-medical-llc--artfx-corpectomy-cages-espinax-and/merged/cervical-plate--arftx-medical-llc--artfx-corpectomy-cages-espinax-and.json",
+        "bytes": 928
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

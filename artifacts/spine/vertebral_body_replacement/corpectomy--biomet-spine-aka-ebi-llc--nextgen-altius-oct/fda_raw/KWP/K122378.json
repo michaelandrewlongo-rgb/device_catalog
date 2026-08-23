@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K122378",
+  "clearance_date": "2012-09-20",
+  "device_class": 2,
+  "manufacturer_canonical": "biomet-spine-aka-ebi-llc",
+  "manufacturer_raw": "Biomet Spine (Aka Ebi, LLC)",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "NEXTGEN ALTIUS OCT SYSTEM",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--biomet-spine-aka-ebi-llc--nextgen-altius-oct",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf12/K122378.pdf"
+}

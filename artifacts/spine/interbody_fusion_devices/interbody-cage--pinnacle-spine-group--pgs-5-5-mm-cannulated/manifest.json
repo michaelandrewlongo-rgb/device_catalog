@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--pinnacle-spine-group--pgs-5-5-mm-cannulated",
+  "artifact_folder": "interbody-cage--pinnacle-spine-group--pgs-5-5-mm-cannulated",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2904,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--pinnacle-spine-group--pgs-5-5-mm-cannulated.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--pinnacle-spine-group--pgs-5-5-mm-cannulated/enriched/interbody-cage--pinnacle-spine-group--pgs-5-5-mm-cannulated.json",
+        "bytes": 1440
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K141282.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--pinnacle-spine-group--pgs-5-5-mm-cannulated/fda_raw/NKB/K141282.json",
+        "bytes": 605
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--pinnacle-spine-group--pgs-5-5-mm-cannulated.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--pinnacle-spine-group--pgs-5-5-mm-cannulated/merged/interbody-cage--pinnacle-spine-group--pgs-5-5-mm-cannulated.json",
+        "bytes": 859
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

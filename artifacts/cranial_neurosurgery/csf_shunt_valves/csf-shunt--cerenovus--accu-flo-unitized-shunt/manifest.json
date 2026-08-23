@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--cerenovus--accu-flo-unitized-shunt",
+  "artifact_folder": "csf-shunt--cerenovus--accu-flo-unitized-shunt",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2762,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--cerenovus--accu-flo-unitized-shunt.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cerenovus--accu-flo-unitized-shunt/enriched/csf-shunt--cerenovus--accu-flo-unitized-shunt.json",
+        "bytes": 1388
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K904120.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cerenovus--accu-flo-unitized-shunt/fda_raw/JXG/K904120.json",
+        "bytes": 567
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--cerenovus--accu-flo-unitized-shunt.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cerenovus--accu-flo-unitized-shunt/merged/csf-shunt--cerenovus--accu-flo-unitized-shunt.json",
+        "bytes": 807
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

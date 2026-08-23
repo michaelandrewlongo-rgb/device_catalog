@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--american-v-mueller--heyer-schulte-hermetic-external-csf",
+  "artifact_folder": "csf-shunt--american-v-mueller--heyer-schulte-hermetic-external-csf",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2972,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--american-v-mueller--heyer-schulte-hermetic-external-csf.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--american-v-mueller--heyer-schulte-hermetic-external-csf/enriched/csf-shunt--american-v-mueller--heyer-schulte-hermetic-external-csf.json",
+        "bytes": 1468
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K864676.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--american-v-mueller--heyer-schulte-hermetic-external-csf/fda_raw/JXG/K864676.json",
+        "bytes": 617
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--american-v-mueller--heyer-schulte-hermetic-external-csf.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--american-v-mueller--heyer-schulte-hermetic-external-csf/merged/csf-shunt--american-v-mueller--heyer-schulte-hermetic-external-csf.json",
+        "bytes": 887
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "device_slug": "pedicle-screw--nlt-spine-ltd--prow-fusion",
+  "artifact_folder": "pedicle-screw--nlt-spine-ltd--prow-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 3801,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--nlt-spine-ltd--prow-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nlt-spine-ltd--prow-fusion/enriched/pedicle-screw--nlt-spine-ltd--prow-fusion.json",
+        "bytes": 1366
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K112359.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nlt-spine-ltd--prow-fusion/fda_raw/MAX/K112359.json",
+        "bytes": 550
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K130254.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nlt-spine-ltd--prow-fusion/fda_raw/MAX/K130254.json",
+        "bytes": 550
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K151654.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nlt-spine-ltd--prow-fusion/fda_raw/MAX/K151654.json",
+        "bytes": 550
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--nlt-spine-ltd--prow-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nlt-spine-ltd--prow-fusion/merged/pedicle-screw--nlt-spine-ltd--prow-fusion.json",
+        "bytes": 785
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

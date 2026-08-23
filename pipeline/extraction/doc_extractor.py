@@ -250,10 +250,10 @@ def extract_fda_documents(curated_only: bool = True) -> list[dict]:
     Args:
         curated_only: If True, only process PDFs matching curated knowledge files.
     """
-    from ..config import DATA_DIR
+    from ..config import FDA_510K_DIR
 
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    pdf_dir = DATA_DIR / "pdfs"
+    pdf_dir = FDA_510K_DIR
     if not pdf_dir.exists():
         logger.warning("No FDA PDF directory: %s", pdf_dir)
         return []
@@ -265,7 +265,7 @@ def extract_fda_documents(curated_only: bool = True) -> list[dict]:
             curated_stems.add(kf.name.replace("--knowledge.md", ""))
 
     results = []
-    for pdf in sorted(pdf_dir.glob("*.pdf")):
+    for pdf in sorted(pdf_dir.rglob("*.pdf")):
         parts = pdf.stem.split("--")
         if len(parts) < 3:
             continue
@@ -276,7 +276,8 @@ def extract_fda_documents(curated_only: bool = True) -> list[dict]:
         if curated_only and stem not in curated_stems:
             continue
 
-        out_file = OUTPUT_DIR / f"{pdf.stem}.json"
+        out_file = _fda_document_output_dir(pdf) / f"{pdf.stem}.json"
+        out_file.parent.mkdir(parents=True, exist_ok=True)
         if out_file.exists():
             logger.info("  Skip (exists): %s", pdf.name)
             continue
@@ -295,3 +296,13 @@ def extract_fda_documents(curated_only: bool = True) -> list[dict]:
 
     logger.info("FDA document extraction: %d documents processed", len(results))
     return results
+
+
+def _fda_document_output_dir(pdf_path: Path) -> Path:
+    """Return the category-local parsed document output directory for a 510(k) PDF."""
+    try:
+        relative = pdf_path.relative_to(FDA_510K_DIR)
+    except ValueError:
+        return OUTPUT_DIR
+    category = relative.parts[0] if relative.parts else "_uncategorized"
+    return FDA_510K_DIR / category / "parsed" / "documents"

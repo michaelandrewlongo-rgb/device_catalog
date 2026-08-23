@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--medicrea-international-sa--pass-lp-spinal-cd-horizon",
+  "artifact_folder": "interbody-cage--medicrea-international-sa--pass-lp-spinal-cd-horizon",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3047,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--medicrea-international-sa--pass-lp-spinal-cd-horizon.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medicrea-international-sa--pass-lp-spinal-cd-horizon/enriched/interbody-cage--medicrea-international-sa--pass-lp-spinal-cd-horizon.json",
+        "bytes": 1486
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K213281.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medicrea-international-sa--pass-lp-spinal-cd-horizon/fda_raw/NKB/K213281.json",
+        "bytes": 640
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--medicrea-international-sa--pass-lp-spinal-cd-horizon.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medicrea-international-sa--pass-lp-spinal-cd-horizon/merged/interbody-cage--medicrea-international-sa--pass-lp-spinal-cd-horizon.json",
+        "bytes": 921
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

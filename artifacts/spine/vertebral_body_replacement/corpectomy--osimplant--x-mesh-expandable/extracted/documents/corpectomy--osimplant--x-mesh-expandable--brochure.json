@@ -1,0 +1,21 @@
+{
+  "source_pdf": "corpectomy--osimplant--x-mesh-expandable--brochure.pdf",
+  "device_name": "x-mesh-expandable",
+  "manufacturer": "osimplant",
+  "doc_type": "brochure",
+  "extraction_method": "pdf_deepseek",
+  "fields": {
+    "what_it_is": "Expandable titanium cages, plate-mesh combination, hollow design, lordosis angled, implants made of titanium alloy (TiAI6V4)",
+    "sizing_specs": null,
+    "indications": "Reconstruction of substance defects for the anterior cervical and thoracic spine, Application as an intersomatic implant for the thoracic and lumbar spine, Restoration of the spinal profile, Support of the consolidation of introduced bone material, Single-stage surgery for trauma patients Tumor surgery, Lateral mass hypoplasia, For fixation or fusion after laminectomy, Applicable for cases with poor bone tissue quality such as rheumatoid arthritis, Kyphotic deformity fractures, Osteopathic patients",
+    "contraindications": null,
+    "compatible_with": null,
+    "use_notes": "One or more vertebral bodies can be substituted, Perfect bridging of the spinal defect, X Cages are implanted easily and safely between the adjacent end plates of the vertebral bodies, Plate-mesh combination, Easy to apply, Universal application by a variety of different implant diameters, lengths and angulations, Single or paired implantation is possible, Easy insertion-expansion, X-Mesh Corpectomy Cage provides four degrees lordotic angulation from top and bottom parts of the Implant in total of 8 degrees angle respecting both sides of vertebrae, Secure support and firm anchoring in the bone by large contact areas with spikes, Implant can be filled and additionally applied outside with bone graft to enhance the fusion mass, Easy placement of the implant by continuous distraction mechanism in situ, Simple and easy to use range of instruments",
+    "also_known_as": null
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "indications": 0.7,
+    "use_notes": 0.7
+  }
+}

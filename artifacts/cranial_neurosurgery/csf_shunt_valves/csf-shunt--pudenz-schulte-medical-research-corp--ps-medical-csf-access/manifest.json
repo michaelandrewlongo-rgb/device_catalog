@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-csf-access",
+  "artifact_folder": "csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-csf-access",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2951,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-csf-access.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-csf-access/enriched/csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-csf-access.json",
+        "bytes": 1448
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K913412.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-csf-access/fda_raw/JXG/K913412.json",
+        "bytes": 636
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-csf-access.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-csf-access/merged/csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-csf-access.json",
+        "bytes": 867
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

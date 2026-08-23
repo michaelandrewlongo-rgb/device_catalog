@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--spinevision-s-a-s--hexanium-r-tlif",
+  "artifact_folder": "pedicle-screw--spinevision-s-a-s--hexanium-r-tlif",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2769,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--spinevision-s-a-s--hexanium-r-tlif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinevision-s-a-s--hexanium-r-tlif/enriched/pedicle-screw--spinevision-s-a-s--hexanium-r-tlif.json",
+        "bytes": 1386
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K180437.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinevision-s-a-s--hexanium-r-tlif/fda_raw/MAX/K180437.json",
+        "bytes": 570
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--spinevision-s-a-s--hexanium-r-tlif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinevision-s-a-s--hexanium-r-tlif/merged/pedicle-screw--spinevision-s-a-s--hexanium-r-tlif.json",
+        "bytes": 813
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "device_family": "flow-diverter--microvention--fred",
+    "query_used": "\"FRED Flow Diverter (MicroVention/Terumo)\" OR \"FRED\" OR \"FRED Flow Diverter\" OR \"Flow Re-Direction Endoluminal Device\" OR \"FRED-21 (2.5-3.0 mm sizes\"",
+    "raw": {
+      "abstract": "Flow-diverter devices (FDDs) are new-generation stents placed in the parent artery at the level of the aneurysm neck to disrupt the intra-aneurysmal flow thus favoring intra-aneurysmal thrombosis.\nThe objective of this review article is to define the indication and results of the treatment of intracranial aneurysms by FDD, reviewing 18 studies of endovascular treatment by FDDs for a total of 1704 aneurysms in 1483 patients.\nThe medical literature on FDDs for intracranial aneurysms was reviewed from 2009 to December 2014. The keywords used were: \"intracranial aneurysms,\" \"brain aneurysms,\" \"flow diverter,\" \"pipeline embolization device,\" \"silk flow diverter,\" \"surpass flow diverter\" and \"FRED flow diverter.\"\nThe use of these stents is advisable mainly for unruptured aneurysms, particularly those located at the internal carotid artery or vertebral and basilar arteries, for fusiform and dissecting aneurysms and for saccular aneurysms with large necks and low dome-to-neck ratio. The rate of aneurysm occlusion progressively increases during follow-up (81.5% overall rate in this review). The non-negligible rate of ischemic (mean 4.1%) and hemorrhagic (mean 2.9%) complications, the neurological morbidity (mean 3.5%) and the reported mortality (mean 3.4%) are the main limits of this technique.\nTreatment with FDDs is a feasible and effective technique for unruptured aneurysms with complex anatomy (fusiform, dissecting, large neck, bifurcation with side branches) where coiling and clipping are difficult or impossible. Patient selection is very important to avoid complications and reduce the risk of morbidity and mortality. Further studies with longer follow-up are necessary to define the rate of complete occlusion.",
+      "doi": "10.1177/1971400915602803",
+      "journal": "The neuroradiology journal",
+      "matched_device_family": "flow-diverter--microvention--fred",
+      "pmid": "26314872",
+      "publication_date": "2015-Aug",
+      "query_used": "\"FRED Flow Diverter (MicroVention/Terumo)\" OR \"FRED\" OR \"FRED Flow Diverter\" OR \"Flow Re-Direction Endoluminal Device\" OR \"FRED-21 (2.5-3.0 mm sizes\"",
+      "source_retrieved_at": "2026-04-15T10:11:00+00:00",
+      "title": "Endovascular treatment of cerebral aneurysms using flow-diverter devices: A systematic review."
+    },
+    "retrieved_at": "2026-04-15T10:11:00+00:00",
+    "source_id": "pubmed:26314872",
+    "source_type": "pubmed",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/26314872/",
+    "title": "Endovascular treatment of cerebral aneurysms using flow-diverter devices: A systematic review."
+  },
+  {
+    "device_family": "flow-diverter--microvention--fred",
+    "query_used": "\"FRED Flow Diverter (MicroVention/Terumo)\" OR \"FRED\" OR \"FRED Flow Diverter\" OR \"Flow Re-Direction Endoluminal Device\" OR \"FRED-21 (2.5-3.0 mm sizes\"",
+    "raw": {
+      "abstract": "The Pipeline Embolization Device (PED; Medtronic Neurovascular, Irvine, California, USA) is designed for delivery through a 0.027″ microcatheter. Challenges with the second-generation PED Flex include limited support from the Marksman microcatheter for consistent resheathing and transmission of push forces for device delivery. The VIA27 (Sequent Medical/MicroVention Terumo, Tustin, California, USA) is an alternative 0.027″ microcatheter originally designed for intrasaccular flow diverter delivery. Here we describe our experience with the VIA27 in the delivery of PED Flex.\nWe retrospectively identified patients who underwent PED Flex treatment with the VIA27 microcatheter at our institution. Patient demographics, aneurysm characteristics, equipment utilized, and procedural details were documented.\nA total of 127 cases were completed using the VIA27 microcatheter for PED Flex implantation. Mean patient age was 56.8±12.4 years (range 21-86 years). All but one of the cases were treatments for intracranial aneurysms. Average aneurysm size was 6.5±6 mm (range 2-38 mm). Of the 127 cases, 120 (95%) were anterior circulation cases and 7 (6%) were posterior circulation cases. Significant cervical internal carotid artery (ICA) tortuosity was present in 33/120 cases (28%). Moderate to severe cavernous ICA tortuosity was present in 54/120 cases (45%). Mean fluoroscopy time was 34.1±22.7 min. Large diameter PED devices (4.5-5 mm) were used in 42/127 cases (33%). Balloon post-processing of the PED was used in 15/127 cases (12%) to improve vessel wall apposition of the PED.\nThe VIA27 is a microcatheter capable of successful PED Flex delivery in neurointervention. We have shown its utility in enhancing both resheathing and push for optimal PED Flex implantation. The VIA27 microcatheter may be a useful and safe adjunct to the traditional Marksman microcatheter in PED Flex treatment of the cerebrovasculature.",
+      "doi": "10.1136/neurintsurg-2016-012971",
+      "journal": "Journal of neurointerventional surgery",
+      "matched_device_family": "flow-diverter--microvention--fred",
+      "pmid": "28151413",
+      "publication_date": "2017-Jul",
+      "query_used": "\"FRED Flow Diverter (MicroVention/Terumo)\" OR \"FRED\" OR \"FRED Flow Diverter\" OR \"Flow Re-Direction Endoluminal Device\" OR \"FRED-21 (2.5-3.0 mm sizes\"",
+      "source_retrieved_at": "2026-04-15T10:11:00+00:00",
+      "title": "Use of the 0.027-inch VIA microcatheter for delivery of Pipeline Flex: a technical note."
+    },
+    "retrieved_at": "2026-04-15T10:11:00+00:00",
+    "source_id": "pubmed:28151413",
+    "source_type": "pubmed",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/28151413/",
+    "title": "Use of the 0.027-inch VIA microcatheter for delivery of Pipeline Flex: a technical note."
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "device_slug": "interbody-cage--medos-international-sarl--trialtis-spine",
+  "artifact_folder": "interbody-cage--medos-international-sarl--trialtis-spine",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 7,
+  "bytes": 5249,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--medos-international-sarl--trialtis-spine.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medos-international-sarl--trialtis-spine/enriched/interbody-cage--medos-international-sarl--trialtis-spine.json",
+        "bytes": 1417
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K231479.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medos-international-sarl--trialtis-spine/fda_raw/NKB/K231479.json",
+        "bytes": 596
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K233684.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medos-international-sarl--trialtis-spine/fda_raw/NKB/K233684.json",
+        "bytes": 598
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K242042.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medos-international-sarl--trialtis-spine/fda_raw/NKB/K242042.json",
+        "bytes": 598
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K243249.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medos-international-sarl--trialtis-spine/fda_raw/NKB/K243249.json",
+        "bytes": 598
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K253249.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medos-international-sarl--trialtis-spine/fda_raw/NKB/K253249.json",
+        "bytes": 598
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--medos-international-sarl--trialtis-spine.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medos-international-sarl--trialtis-spine/merged/interbody-cage--medos-international-sarl--trialtis-spine.json",
+        "bytes": 844
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--sofamor-danek-usa-inc--compact-cotrel-dubousset-ccd-spinal",
+  "artifact_folder": "corpectomy--sofamor-danek-usa-inc--compact-cotrel-dubousset-ccd-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3407,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--sofamor-danek-usa-inc--compact-cotrel-dubousset-ccd-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sofamor-danek-usa-inc--compact-cotrel-dubousset-ccd-spinal/enriched/corpectomy--sofamor-danek-usa-inc--compact-cotrel-dubousset-ccd-spinal.json",
+        "bytes": 1898
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K955365.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sofamor-danek-usa-inc--compact-cotrel-dubousset-ccd-spinal/fda_raw/KWP/K955365.json",
+        "bytes": 624
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--sofamor-danek-usa-inc--compact-cotrel-dubousset-ccd-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sofamor-danek-usa-inc--compact-cotrel-dubousset-ccd-spinal/merged/corpectomy--sofamor-danek-usa-inc--compact-cotrel-dubousset-ccd-spinal.json",
+        "bytes": 885
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

@@ -1,0 +1,304 @@
+[
+  {
+    "device_family": "aspiration--scientia-vascular-inc--socrates-aspiration",
+    "query_used": "Socrates Aspiration System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00818075010790",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Socrates",
+      "companyName": "SCIENTIA VASCULAR LLC",
+      "deviceIdentifier": "6221dfce-7ff2-46dc-ab10-2ae980e7825c",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "TS-254-110"
+    },
+    "retrieved_at": "2026-04-15T10:19:01+00:00",
+    "source_id": "accessgudid:00818075010790",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/6221dfce-7ff2-46dc-ab10-2ae980e7825c",
+    "title": "Socrates (SCIENTIA VASCULAR LLC)"
+  },
+  {
+    "device_family": "aspiration--scientia-vascular-inc--socrates-aspiration",
+    "query_used": "Socrates Aspiration System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00818075010776",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Socrates",
+      "companyName": "SCIENTIA VASCULAR LLC",
+      "deviceIdentifier": "9d606e99-d97c-46a4-959d-36b770841ddf",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "SC038-156-001"
+    },
+    "retrieved_at": "2026-04-15T10:19:01+00:00",
+    "source_id": "accessgudid:00818075010776",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/9d606e99-d97c-46a4-959d-36b770841ddf",
+    "title": "Socrates (SCIENTIA VASCULAR LLC)"
+  },
+  {
+    "device_family": "aspiration--scientia-vascular-inc--socrates-aspiration",
+    "query_used": "Socrates Aspiration System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00818075011025",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Socrates",
+      "companyName": "SCIENTIA VASCULAR LLC",
+      "deviceIdentifier": "b203ad4a-2d9a-44d3-8925-88ac073ecb63",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "SC038-127-001"
+    },
+    "retrieved_at": "2026-04-15T10:19:01+00:00",
+    "source_id": "accessgudid:00818075011025",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/b203ad4a-2d9a-44d3-8925-88ac073ecb63",
+    "title": "Socrates (SCIENTIA VASCULAR LLC)"
+  },
+  {
+    "device_family": "aspiration--scientia-vascular-inc--socrates-aspiration",
+    "query_used": "Socrates Aspiration System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00818075011216",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Socrates",
+      "companyName": "SCIENTIA VASCULAR LLC",
+      "deviceIdentifier": "2ae29011-f3ad-4d82-aa26-3102e46fc8d9",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        },
+        {
+          "gmdnCode": "17846",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Vascular guide-catheter, single-use"
+        }
+      ],
+      "modelNumber": "SC038-127-001"
+    },
+    "retrieved_at": "2026-04-15T10:19:01+00:00",
+    "source_id": "accessgudid:00818075011216",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/2ae29011-f3ad-4d82-aa26-3102e46fc8d9",
+    "title": "Socrates (SCIENTIA VASCULAR LLC)"
+  },
+  {
+    "device_family": "aspiration--scientia-vascular-inc--socrates-aspiration",
+    "query_used": "Socrates Aspiration System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00818075011209",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Socrates",
+      "companyName": "SCIENTIA VASCULAR LLC",
+      "deviceIdentifier": "5108c369-7833-4f63-b7e8-4271ce495369",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        },
+        {
+          "gmdnCode": "17846",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Vascular guide-catheter, single-use"
+        }
+      ],
+      "modelNumber": "SC038-156-001"
+    },
+    "retrieved_at": "2026-04-15T10:19:01+00:00",
+    "source_id": "accessgudid:00818075011209",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/5108c369-7833-4f63-b7e8-4271ce495369",
+    "title": "Socrates (SCIENTIA VASCULAR LLC)"
+  },
+  {
+    "device_family": "aspiration--scientia-vascular-inc--socrates-aspiration",
+    "query_used": "Socrates Aspiration System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00857545008127",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "072 Aspiration System",
+      "companyName": "Q'APEL MEDICAL LLC",
+      "deviceIdentifier": "6b29f966-a6ab-49fb-ac7b-366cc4870544",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "FG 01252"
+    },
+    "retrieved_at": "2026-04-15T10:19:01+00:00",
+    "source_id": "accessgudid:00857545008127",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/6b29f966-a6ab-49fb-ac7b-366cc4870544",
+    "title": "072 Aspiration System (Q'APEL MEDICAL LLC)"
+  },
+  {
+    "device_family": "aspiration--scientia-vascular-inc--socrates-aspiration",
+    "query_used": "Socrates Aspiration System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00855208005049",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "BNX",
+      "companyName": "Covidien LP",
+      "deviceIdentifier": "4cc23afe-6e1e-43d2-820b-f15be03a17b2",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "38825",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "General-purpose endoscopic needle, single-use"
+        }
+      ],
+      "modelNumber": "DSN-25-02"
+    },
+    "retrieved_at": "2026-04-15T10:19:01+00:00",
+    "source_id": "accessgudid:00855208005049",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/4cc23afe-6e1e-43d2-820b-f15be03a17b2",
+    "title": "BNX (Covidien LP)"
+  },
+  {
+    "device_family": "aspiration--scientia-vascular-inc--socrates-aspiration",
+    "query_used": "Socrates Aspiration System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00855208005032",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Beacon",
+      "companyName": "Covidien LP",
+      "deviceIdentifier": "5edaf0d6-678e-45ee-bd9a-bb5b9ef2d325",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "38825",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "General-purpose endoscopic needle, single-use"
+        }
+      ],
+      "modelNumber": "DSN-25-01"
+    },
+    "retrieved_at": "2026-04-15T10:19:01+00:00",
+    "source_id": "accessgudid:00855208005032",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/5edaf0d6-678e-45ee-bd9a-bb5b9ef2d325",
+    "title": "Beacon (Covidien LP)"
+  },
+  {
+    "device_family": "aspiration--scientia-vascular-inc--socrates-aspiration",
+    "query_used": "Socrates Aspiration System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00855208005025",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "BNX",
+      "companyName": "Covidien LP",
+      "deviceIdentifier": "ac266c3a-88e6-431c-8862-9f5d4be1aa2b",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "38825",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "General-purpose endoscopic needle, single-use"
+        }
+      ],
+      "modelNumber": "DSN-22-02"
+    },
+    "retrieved_at": "2026-04-15T10:19:01+00:00",
+    "source_id": "accessgudid:00855208005025",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/ac266c3a-88e6-431c-8862-9f5d4be1aa2b",
+    "title": "BNX (Covidien LP)"
+  },
+  {
+    "device_family": "aspiration--scientia-vascular-inc--socrates-aspiration",
+    "query_used": "Socrates Aspiration System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00855208005018",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Beacon",
+      "companyName": "Covidien LP",
+      "deviceIdentifier": "4d2fa84b-1c44-4f6d-81f9-79269c01ad8e",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "38825",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "General-purpose endoscopic needle, single-use"
+        }
+      ],
+      "modelNumber": "DSN-22-01"
+    },
+    "retrieved_at": "2026-04-15T10:19:01+00:00",
+    "source_id": "accessgudid:00855208005018",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/4d2fa84b-1c44-4f6d-81f9-79269c01ad8e",
+    "title": "Beacon (Covidien LP)"
+  }
+]

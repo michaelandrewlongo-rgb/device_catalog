@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--ortho-development-corp--contour-spinal",
+  "artifact_folder": "corpectomy--ortho-development-corp--contour-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2804,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--ortho-development-corp--contour-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--ortho-development-corp--contour-spinal/enriched/corpectomy--ortho-development-corp--contour-spinal.json",
+        "bytes": 1401
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K990986.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--ortho-development-corp--contour-spinal/fda_raw/KWP/K990986.json",
+        "bytes": 583
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--ortho-development-corp--contour-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--ortho-development-corp--contour-spinal/merged/corpectomy--ortho-development-corp--contour-spinal.json",
+        "bytes": 820
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

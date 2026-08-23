@@ -1,0 +1,62 @@
+{
+  "device_slug": "interbody-cage--life-spine-inc--nautilus-spinal",
+  "artifact_folder": "interbody-cage--life-spine-inc--nautilus-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 8,
+  "bytes": 6046,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--life-spine-inc--nautilus-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--life-spine-inc--nautilus-spinal/enriched/interbody-cage--life-spine-inc--nautilus-spinal.json",
+        "bytes": 1718
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--life-spine-inc--nautilus-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--life-spine-inc--nautilus-spinal/extracted/fda_structured/interbody-cage--life-spine-inc--nautilus-spinal.json",
+        "bytes": 663
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K132760.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--life-spine-inc--nautilus-spinal/fda_raw/NKB/K132760.json",
+        "bytes": 570
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K132866.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--life-spine-inc--nautilus-spinal/fda_raw/NKB/K132866.json",
+        "bytes": 570
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K140457.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--life-spine-inc--nautilus-spinal/fda_raw/NKB/K140457.json",
+        "bytes": 570
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K150390.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--life-spine-inc--nautilus-spinal/fda_raw/NKB/K150390.json",
+        "bytes": 570
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K151196.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--life-spine-inc--nautilus-spinal/fda_raw/NKB/K151196.json",
+        "bytes": 570
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--life-spine-inc--nautilus-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--life-spine-inc--nautilus-spinal/merged/interbody-cage--life-spine-inc--nautilus-spinal.json",
+        "bytes": 815
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

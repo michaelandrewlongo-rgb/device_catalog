@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--ortho-tec-llc--modification-oria-spinal",
+  "artifact_folder": "corpectomy--ortho-tec-llc--modification-oria-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2821,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--ortho-tec-llc--modification-oria-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--ortho-tec-llc--modification-oria-spinal/enriched/corpectomy--ortho-tec-llc--modification-oria-spinal.json",
+        "bytes": 1413
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K023884.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--ortho-tec-llc--modification-oria-spinal/fda_raw/KWP/K023884.json",
+        "bytes": 576
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--ortho-tec-llc--modification-oria-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--ortho-tec-llc--modification-oria-spinal/merged/corpectomy--ortho-tec-llc--modification-oria-spinal.json",
+        "bytes": 832
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

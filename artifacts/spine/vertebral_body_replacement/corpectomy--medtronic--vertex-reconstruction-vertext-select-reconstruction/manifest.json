@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--medtronic--vertex-reconstruction-vertext-select-reconstruction",
+  "artifact_folder": "corpectomy--medtronic--vertex-reconstruction-vertext-select-reconstruction",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3542,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--medtronic--vertex-reconstruction-vertext-select-reconstruction.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--vertex-reconstruction-vertext-select-reconstruction/enriched/corpectomy--medtronic--vertex-reconstruction-vertext-select-reconstruction.json",
+        "bytes": 1972
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K123906.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--vertex-reconstruction-vertext-select-reconstruction/fda_raw/KWP/K123906.json",
+        "bytes": 649
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--medtronic--vertex-reconstruction-vertext-select-reconstruction.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--vertex-reconstruction-vertext-select-reconstruction/merged/corpectomy--medtronic--vertex-reconstruction-vertext-select-reconstruction.json",
+        "bytes": 921
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

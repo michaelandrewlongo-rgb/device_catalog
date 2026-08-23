@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--integra--beverly-referential-valve-nl850-9710",
+  "artifact_folder": "csf-shunt--integra--beverly-referential-valve-nl850-9710",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3693,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--integra--beverly-referential-valve-nl850-9710.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--beverly-referential-valve-nl850-9710/enriched/csf-shunt--integra--beverly-referential-valve-nl850-9710.json",
+        "bytes": 2051
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K981246.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--beverly-referential-valve-nl850-9710/fda_raw/JXG/K981246.json",
+        "bytes": 658
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--integra--beverly-referential-valve-nl850-9710.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--beverly-referential-valve-nl850-9710/merged/csf-shunt--integra--beverly-referential-valve-nl850-9710.json",
+        "bytes": 984
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

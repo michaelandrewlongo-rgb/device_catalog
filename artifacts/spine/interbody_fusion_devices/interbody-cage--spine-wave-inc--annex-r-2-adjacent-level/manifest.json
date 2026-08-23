@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--spine-wave-inc--annex-r-2-adjacent-level",
+  "artifact_folder": "interbody-cage--spine-wave-inc--annex-r-2-adjacent-level",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2861,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--spine-wave-inc--annex-r-2-adjacent-level.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spine-wave-inc--annex-r-2-adjacent-level/enriched/interbody-cage--spine-wave-inc--annex-r-2-adjacent-level.json",
+        "bytes": 1423
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K251131.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spine-wave-inc--annex-r-2-adjacent-level/fda_raw/NKB/K251131.json",
+        "bytes": 588
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--spine-wave-inc--annex-r-2-adjacent-level.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spine-wave-inc--annex-r-2-adjacent-level/merged/interbody-cage--spine-wave-inc--annex-r-2-adjacent-level.json",
+        "bytes": 850
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

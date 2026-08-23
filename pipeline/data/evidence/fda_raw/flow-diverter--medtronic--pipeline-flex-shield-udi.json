@@ -1,0 +1,166 @@
+[
+  {
+    "device_family": "flow-diverter--medtronic--pipeline-flex-shield",
+    "query_used": "brand_name:\"Pipeline Flex Embolization Device\" OR brand_name:\"Pipeline\" OR brand_name:\"Pipeline Flex\"",
+    "raw": {
+      "brand_name": "PIPELINE",
+      "catalog_number": "288210005",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "company_name": "Medos International Sàrl",
+      "customer_contacts": [
+        {
+          "email": "xx@xx.xx",
+          "phone": "+1(800)255-2500"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "device_description": "PIPELINE ACCESS SYSTEM 5TH DILATOR 21mm",
+      "gmdn_terms": [
+        {
+          "code": "37151",
+          "code_status": "Active",
+          "definition": "A hollow dilator with a tapered distal end intended to enable the gentle insertion of a larger laparoscopic access cannula, necessary when significantly increasing the working access port's lumen, e.g., from 10 to 20 mm diameter. It is commonly used in minimally-invasive laparoscopic procedures. The dilator is entered over a guide rod, forcing a larger opening as the skin is pressed aside, thereby reducing the possible degree of damage. This is a reusable device.",
+          "implantable": "false",
+          "name": "Laparoscopic access cannula dilator"
+        }
+      ],
+      "has_donation_id_number": "false",
+      "has_expiration_date": "false",
+      "has_lot_or_batch_number": "true",
+      "has_manufacturing_date": "false",
+      "has_serial_number": "false",
+      "identifiers": [
+        {
+          "id": "10705034220628",
+          "issuing_agency": "GS1",
+          "type": "Primary"
+        }
+      ],
+      "is_combination_product": "false",
+      "is_direct_marking_exempt": "false",
+      "is_hct_p": "false",
+      "is_kit": "false",
+      "is_labeled_as_no_nrl": "false",
+      "is_labeled_as_nrl": "false",
+      "is_otc": "false",
+      "is_pm_exempt": "true",
+      "is_rx": "true",
+      "is_single_use": "false",
+      "labeler_duns_number": "482661753",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "product_codes": [
+        {
+          "code": "LXH",
+          "name": "ORTHOPEDIC MANUAL SURGICAL INSTRUMENT",
+          "openfda": {
+            "device_class": "1",
+            "device_name": "Orthopedic Manual Surgical Instrument",
+            "medical_specialty_description": "Orthopedic",
+            "regulation_number": "888.4540"
+          }
+        }
+      ],
+      "public_device_record_key": "4e2bf1de-07e4-45e3-afbf-0489f3de80d5",
+      "public_version_date": "2024-02-12",
+      "public_version_number": "3",
+      "public_version_status": "Update",
+      "publish_date": "2016-12-15",
+      "record_status": "Published",
+      "sterilization": {
+        "is_sterile": "false",
+        "is_sterilization_prior_use": "true",
+        "sterilization_methods": "Moist Heat or Steam Sterilization"
+      },
+      "version_or_model_number": "288210005"
+    },
+    "retrieved_at": "2026-04-15T10:11:11+00:00",
+    "source_id": "fda:udi:record-1",
+    "source_type": "fda",
+    "source_url": "https://api.fda.gov/device/udi.json?search=brand_name%3A%22Pipeline%20Flex%20Embolization%20Device%22%20OR%20brand_name%3A%22Pipeline%22%20OR%20brand_name%3A%22Pipeline%20Flex%22",
+    "title": "PIPELINE"
+  },
+  {
+    "device_family": "flow-diverter--medtronic--pipeline-flex-shield",
+    "query_used": "brand_name:\"Pipeline Flex Embolization Device\" OR brand_name:\"Pipeline\" OR brand_name:\"Pipeline Flex\"",
+    "raw": {
+      "brand_name": "PIPELINE",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "company_name": "Micro Therapeutics, Inc.",
+      "customer_contacts": [
+        {
+          "email": "Corporate.UDI@medtronic.com",
+          "phone": "+1(800)633-8766"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "device_description": "FA-77350-10 PIPELINE EMB DEVICE",
+      "gmdn_terms": [
+        {
+          "code": "46352",
+          "code_status": "Active",
+          "definition": "A non-bioabsorbable tubular device typically intended to be implanted into the base or parent artery of an intracranial aneurysm (e.g., wide-neck aneurysm situated at the base of a bifurcation) to facilitate the delivery of embolics to fill the aneurysm, facilitate clotting within the aneurysm by slowing blood flow into it, and/or to provide support for a neurovascular embolization coil placed inside the aneurysm. It is made of uncoated metal [e.g., nickel-titanium alloy (Nitinol)] and self-expands after it is delivered to the site of implantation and released (e.g., from a dedicated delivery instrument). Disposable devices associated with implantation may be included.",
+          "implantable": "true",
+          "name": "Bare-metal intracranial vascular stent"
+        }
+      ],
+      "has_donation_id_number": "false",
+      "has_expiration_date": "false",
+      "has_lot_or_batch_number": "true",
+      "has_manufacturing_date": "false",
+      "has_serial_number": "false",
+      "identifiers": [
+        {
+          "id": "00847536011304",
+          "issuing_agency": "GS1",
+          "type": "Primary"
+        }
+      ],
+      "is_combination_product": "false",
+      "is_direct_marking_exempt": "false",
+      "is_hct_p": "false",
+      "is_kit": "false",
+      "is_labeled_as_no_nrl": "false",
+      "is_labeled_as_nrl": "false",
+      "is_otc": "false",
+      "is_pm_exempt": "false",
+      "is_rx": "true",
+      "is_single_use": "true",
+      "labeler_duns_number": "826110710",
+      "mri_safety": "MR Conditional",
+      "premarket_submissions": [
+        {
+          "submission_number": "P100018",
+          "supplement_number": "004"
+        }
+      ],
+      "product_codes": [
+        {
+          "code": "OUT",
+          "name": "Intracranial aneurysm flow diverter",
+          "openfda": {
+            "device_class": "3",
+            "device_name": "Intracranial Aneurysm Flow Diverter",
+            "medical_specialty_description": "Unknown",
+            "regulation_number": ""
+          }
+        }
+      ],
+      "public_device_record_key": "1da69c90-1d47-4084-9e3b-a1d971096c5c",
+      "public_version_date": "2021-02-05",
+      "public_version_number": "4",
+      "public_version_status": "Update",
+      "publish_date": "2015-04-17",
+      "record_status": "Published",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "version_or_model_number": "FA-77350-10"
+    },
+    "retrieved_at": "2026-04-15T10:11:11+00:00",
+    "source_id": "fda:udi:record-2",
+    "source_type": "fda",
+    "source_url": "https://api.fda.gov/device/udi.json?search=brand_name%3A%22Pipeline%20Flex%20Embolization%20Device%22%20OR%20brand_name%3A%22Pipeline%22%20OR%20brand_name%3A%22Pipeline%20Flex%22",
+    "title": "PIPELINE"
+  }
+]

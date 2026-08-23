@@ -1,0 +1,42 @@
+{
+  "device_slug": "cervical-plate--stryker--capri",
+  "artifact_folder": "cervical-plate--stryker--capri",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3483,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--stryker--capri.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--stryker--capri/enriched/cervical-plate--stryker--capri.json",
+        "bytes": 1609
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/cervical-plate--stryker--capri.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--stryker--capri/extracted/fda_structured/cervical-plate--stryker--capri.json",
+        "bytes": 595
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K142016.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--stryker--capri/fda_raw/MQP/K142016.json",
+        "bytes": 522
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--stryker--capri.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--stryker--capri/merged/cervical-plate--stryker--capri.json",
+        "bytes": 757
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

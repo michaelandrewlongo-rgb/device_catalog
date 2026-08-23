@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--amedica-corp--arx-spinal",
+  "artifact_folder": "cervical-plate--amedica-corp--arx-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2726,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--amedica-corp--arx-spinal.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--amedica-corp--arx-spinal/enriched/cervical-plate--amedica-corp--arx-spinal.json",
+        "bytes": 1377
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K051525.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--amedica-corp--arx-spinal/fda_raw/MQP/K051525.json",
+        "bytes": 553
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--amedica-corp--arx-spinal.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--amedica-corp--arx-spinal/merged/cervical-plate--amedica-corp--arx-spinal.json",
+        "bytes": 796
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--interpore-cross-intl--modification-to-telescopic-plate-spacer",
+  "artifact_folder": "cervical-plate--interpore-cross-intl--modification-to-telescopic-plate-spacer",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3254,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--interpore-cross-intl--modification-to-telescopic-plate-spacer.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--interpore-cross-intl--modification-to-telescopic-plate-spacer/enriched/cervical-plate--interpore-cross-intl--modification-to-telescopic-plate-spacer.json",
+        "bytes": 1576
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K014145.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--interpore-cross-intl--modification-to-telescopic-plate-spacer/fda_raw/MQP/K014145.json",
+        "bytes": 683
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--interpore-cross-intl--modification-to-telescopic-plate-spacer.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--interpore-cross-intl--modification-to-telescopic-plate-spacer/merged/cervical-plate--interpore-cross-intl--modification-to-telescopic-plate-spacer.json",
+        "bytes": 995
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

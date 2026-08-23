@@ -1,0 +1,45 @@
+{
+  "device_slug": "interbody-cage--back-2-basics-direct-llc--dymaxeon-spine",
+  "artifact_folder": "interbody-cage--back-2-basics-direct-llc--dymaxeon-spine",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 4227,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--back-2-basics-direct-llc--dymaxeon-spine.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--back-2-basics-direct-llc--dymaxeon-spine/enriched/interbody-cage--back-2-basics-direct-llc--dymaxeon-spine.json",
+        "bytes": 1604
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K150184.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--back-2-basics-direct-llc--dymaxeon-spine/fda_raw/NKB/K150184.json",
+        "bytes": 597
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K170989.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--back-2-basics-direct-llc--dymaxeon-spine/fda_raw/NKB/K170989.json",
+        "bytes": 597
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K192930.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--back-2-basics-direct-llc--dymaxeon-spine/fda_raw/NKB/K192930.json",
+        "bytes": 597
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--back-2-basics-direct-llc--dymaxeon-spine.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--back-2-basics-direct-llc--dymaxeon-spine/merged/interbody-cage--back-2-basics-direct-llc--dymaxeon-spine.json",
+        "bytes": 832
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

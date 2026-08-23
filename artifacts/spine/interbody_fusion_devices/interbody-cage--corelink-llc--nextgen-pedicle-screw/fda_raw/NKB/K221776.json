@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K221776",
+  "clearance_date": "2022-08-09",
+  "device_class": 2,
+  "manufacturer_canonical": "corelink-llc",
+  "manufacturer_raw": "Corelink, LLC",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "NextGen Pedicle Screw System",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--corelink-llc--nextgen-pedicle-screw",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K221776.pdf"
+}

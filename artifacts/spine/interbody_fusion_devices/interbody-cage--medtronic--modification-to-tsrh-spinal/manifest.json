@@ -1,0 +1,55 @@
+{
+  "device_slug": "interbody-cage--medtronic--modification-to-tsrh-spinal",
+  "artifact_folder": "interbody-cage--medtronic--modification-to-tsrh-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 7,
+  "bytes": 5615,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--medtronic--modification-to-tsrh-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--modification-to-tsrh-spinal/enriched/interbody-cage--medtronic--modification-to-tsrh-spinal.json",
+        "bytes": 1802
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K030285.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--modification-to-tsrh-spinal/fda_raw/NKB/K030285.json",
+        "bytes": 597
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K050282.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--modification-to-tsrh-spinal/fda_raw/NKB/K050282.json",
+        "bytes": 591
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K072317.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--modification-to-tsrh-spinal/fda_raw/NKB/K072317.json",
+        "bytes": 601
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K072429.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--modification-to-tsrh-spinal/fda_raw/NKB/K072429.json",
+        "bytes": 591
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K090740.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--modification-to-tsrh-spinal/fda_raw/NKB/K090740.json",
+        "bytes": 592
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--medtronic--modification-to-tsrh-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--modification-to-tsrh-spinal/merged/interbody-cage--medtronic--modification-to-tsrh-spinal.json",
+        "bytes": 841
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

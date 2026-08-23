@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--american-v-mueller--heyer-schulte-syringo-peritoneal-shunt",
+  "artifact_folder": "csf-shunt--american-v-mueller--heyer-schulte-syringo-peritoneal-shunt",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2926,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--american-v-mueller--heyer-schulte-syringo-peritoneal-shunt.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--american-v-mueller--heyer-schulte-syringo-peritoneal-shunt/enriched/csf-shunt--american-v-mueller--heyer-schulte-syringo-peritoneal-shunt.json",
+        "bytes": 1449
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K854049.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--american-v-mueller--heyer-schulte-syringo-peritoneal-shunt/fda_raw/JXG/K854049.json",
+        "bytes": 609
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--american-v-mueller--heyer-schulte-syringo-peritoneal-shunt.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--american-v-mueller--heyer-schulte-syringo-peritoneal-shunt/merged/csf-shunt--american-v-mueller--heyer-schulte-syringo-peritoneal-shunt.json",
+        "bytes": 868
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

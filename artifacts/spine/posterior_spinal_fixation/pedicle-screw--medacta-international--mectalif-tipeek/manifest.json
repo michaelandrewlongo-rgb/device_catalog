@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--medacta-international--mectalif-tipeek",
+  "artifact_folder": "pedicle-screw--medacta-international--mectalif-tipeek",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2787,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--medacta-international--mectalif-tipeek.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medacta-international--mectalif-tipeek/enriched/pedicle-screw--medacta-international--mectalif-tipeek.json",
+        "bytes": 1394
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K133192.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medacta-international--mectalif-tipeek/fda_raw/MAX/K133192.json",
+        "bytes": 580
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--medacta-international--mectalif-tipeek.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medacta-international--mectalif-tipeek/merged/pedicle-screw--medacta-international--mectalif-tipeek.json",
+        "bytes": 813
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

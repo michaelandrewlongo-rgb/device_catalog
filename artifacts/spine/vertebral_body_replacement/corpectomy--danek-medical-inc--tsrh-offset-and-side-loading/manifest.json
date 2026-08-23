@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--danek-medical-inc--tsrh-offset-and-side-loading",
+  "artifact_folder": "corpectomy--danek-medical-inc--tsrh-offset-and-side-loading",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2877,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--danek-medical-inc--tsrh-offset-and-side-loading.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--danek-medical-inc--tsrh-offset-and-side-loading/enriched/corpectomy--danek-medical-inc--tsrh-offset-and-side-loading.json",
+        "bytes": 1431
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K903461.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--danek-medical-inc--tsrh-offset-and-side-loading/fda_raw/KWP/K903461.json",
+        "bytes": 596
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--danek-medical-inc--tsrh-offset-and-side-loading.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--danek-medical-inc--tsrh-offset-and-side-loading/merged/corpectomy--danek-medical-inc--tsrh-offset-and-side-loading.json",
+        "bytes": 850
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

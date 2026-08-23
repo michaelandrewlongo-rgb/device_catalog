@@ -1,0 +1,22 @@
+[
+  {
+    "device_family": "aspiration--stryker--axs-catalyst-7-distal-access",
+    "query_used": "\"AXS Catalyst 7 Distal Access Catheter\" OR \"AXS Catalyst 7\" OR \"Catalyst 7\" OR \"AXS Catalyst 068\" OR \"AXS Universal Aspiration System (Catalyst 7 component)\"",
+    "raw": {
+      "abstract": "To assess technical and clinical outcomes of an intermediate bore aspiration catheter (AXS Catalyst 5; Stryker) as front-line therapy for M2-M3 acute occlusions.\nA multicentric, retrospective data collection of patients with symptomatic M2-M3 ischemic stroke, treated with direct aspiration first-pass technique was obtained. Time to recanalization, first attempt recanalization, and number of attempts were recorded. Successful recanalization was defined as a modified thrombolysis in cerebral infarction score ≥2b; incidence of procedure-related complications was recorded. National Institutes of Health Stroke Scale at discharge and modified Rankin Scale score at 90 days were evaluated by a dedicated neurologist.\nA total of 44 acute occlusions of distal M2-M3 segment were treated with a direct aspiration first-pass technique using CAT 5 (mean age 68,4 years). Median NIHSS at baseline was 10. Overall modified thrombolysis in cerebral infarction score ≥2b was obtained in 90,9% of patients with mean time to recanalization of 49,7 minutes and a mean of 1.6 attempts. First-attempt recanalization with CAT 5 was obtained in 52,3% of patients with a mean time to recanalization of 29.2 min. A stent retriever with proximal aspiration was incorporated as a rescue device in 3 cases. No major complications was detected. The median National Institutes of Health Stroke Scale score at discharge was 4. At 90 days, a modified Rankin Scale score of 0-2 was achieved in 70,5% of patients.\nADAPT technique with the intermediate aspiration catheter CAT 5 system achieves successful revascularization and functional independence for patients with acute ischemic stroke secondary to distal M2 occlusions.",
+      "doi": "10.1016/j.jstrokecerebrovasdis.2020.105389",
+      "journal": "Journal of stroke and cerebrovascular diseases : the official journal of National Stroke Association",
+      "matched_device_family": "aspiration--stryker--axs-catalyst-7-distal-access",
+      "pmid": "33096489",
+      "publication_date": "2020-Dec",
+      "query_used": "\"AXS Catalyst 7 Distal Access Catheter\" OR \"AXS Catalyst 7\" OR \"Catalyst 7\" OR \"AXS Catalyst 068\" OR \"AXS Universal Aspiration System (Catalyst 7 component)\"",
+      "source_retrieved_at": "2026-04-15T10:17:29+00:00",
+      "title": "Multicentric Experience with an Intermediate Aspiration Catheter for Distal M2 Ischemic Stroke."
+    },
+    "retrieved_at": "2026-04-15T10:17:29+00:00",
+    "source_id": "pubmed:33096489",
+    "source_type": "pubmed",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/33096489/",
+    "title": "Multicentric Experience with an Intermediate Aspiration Catheter for Distal M2 Ischemic Stroke."
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "source_pdf": "reference--viktors-notes--neuronavigation--chapter.pdf",
+  "device_name": "neuronavigation",
+  "manufacturer": "viktors-notes",
+  "doc_type": "chapter",
+  "extraction_method": "pdf_deepseek",
+  "fields": {
+    "what_it_is": "Tracking device. Image-guided neurosurgery (neuronavigation, \"frameless stereotaxy\") - operative technique by which correlation (co-registration) between imaging studies and operative field is provided. STEREOTACTIC NEUROSURGERY - use of coordinate system to provide accurate navigation to point / region in space (e.g. deep brain structures) without direct visualization.",
+    "sizing_specs": "| Fiducials |                    | Imaging | Mean | SD   | Median | 95th       | Maximum        |  |\n|-----------|--------------------|---------|------|------|--------|------------|----------------|--|\n| n         | attachment pattern |         |      |      |        | percentile |                |  |\n| 4         | generalized        | MR      | 2.45 | 0.94 | 2.3    | 3.9        | 6.15           |  |\n| 6         | generalized        | MR      | 2.40 | 0.99 | 2.3    | 4.25       | 5.15           |  |\n| 8         | generalized        | MR      | 1.93 | 0.74 | 1.78   | 3.1        | 3.95           |  |\n| 10        | generalized        | MR      | 1.98 | 0.68 | 1.9    | 3.1        | 3.85           |  |\n|           |                    |         |      |      |        | Steinmei   | er et al. 2000 |  |\n\n| CT Slice<br>Thickness<br>(mm) | Measurement              | BRW<br>(mm)    | CRW<br>(mm)    | COMPASS<br>(mm) | Leksell<br>(mm) |\n|-------------------------------|--------------------------|----------------|----------------|-----------------|-----------------|\n| 1                             | Mean ± 3 SE <sub>M</sub> | 1.9 ± 0.10     | $1.8 \\pm 0.11$ | 1.2 ± 0.06      | 1.7 ± 0.10      |\n|                               | 99% CI for the mean      | 1.80 to 2.00   | 1.69 to 1.91   | 1.04 to 1.26    | 1.60 to 1.80    |\n| 1 canted                      | Mean ± 3 SE <sub>M</sub> | $2.5 \\pm 0.11$ | $2.2 \\pm 0.11$ | $2.1 \\pm 0.10$  | N/A             |\n|                               | 99% CI for the mean      | 2.39 to 2.61   | 2.09 to 2.31   | 2.00 to 2.20    | N/A             |\n| 1                             | Mean $\\pm 3 SE_M$        | $2.7 \\pm 0.13$ | $2.6 \\pm 0.15$ | $2.5 \\pm 0.12$  | $2.6 \\pm 0.14$  |\n|                               | 99% CI for the mean      | 2.57 to 2.83   | 2.45 to 2.75   | 2.38 to 2.62    | 2.46 to 2.74    |\n| 8                             | Mean ± 3 SE <sub>M</sub> | $6.6 \\pm 0.31$ | $6.6 \\pm 0.30$ | $5.1 \\pm 0.23$  | $5.4 \\pm 0.24$  |\n|                               | 99% CI for the mean      | 6.29 to 6.91   | 6.30 to 6.90   | 4.87 to 5.33    | 5.16 to 5.64    |",
+    "indications": "1. Tumor (biopsy, resection, radiosurgery). 2. Epilepsy (structural & physiologic data, resection). 3. Treatment of *functional abnormalities* (movement disorders, pain conditions) by lesioning or stimulation. 4. Stereotactic *implantations* of neural tissue, drug transplants, gene therapy. 5. Spine (instrumentation). 6. Ventricular catheterization (EVD / VP shunt placement).",
+    "contraindications": null,
+    "compatible_with": "Following image types are supported by current software: CT, CTA, MR, MRA, fMRI, DTI • PET. Medtronic \"Vertek\". BrainLab \"VarioGuide\". Medtronic Unibody Bone Fiducials (models FM-4007 [7 mm], FM-4010 [10 mm], and FM-4013 [13 mm]). Stryker battery-powered screwdriver QuikDrive™ mini (catalog #62-50101). Screwdriver blades: #62-15001 – it is 1.7 mm #62-00537 – size?. OsteoMed hand-held screwdriver (#220-0019 and the blade #220-0061).",
+    "use_notes": "Co-registration is the fundamental principle of stereotaxy! \"Stealth protocol\": 1. 1-3 mm slice thickness. 2. Volumetric (3D) scan contiguous slices (e.g. T1 MPRAGE, CUBE FLAIR). 3. \"Zero gantry\" zero tilt not a requirement for modern navigation software 4. Request not to \"cut\" the nose and top of head. Obtain CD from radiology and upload to the navigation station the night before surgery: 1) correct patient. 2) correct study. Acceptable ≤ 0.3 mm (in DBS ≤ 0.2 mm).",
+    "also_known_as": "Stereotactic neurosurgery. Frameless stereotaxy."
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "sizing_specs": 0.7,
+    "indications": 0.7,
+    "compatible_with": 0.7,
+    "use_notes": 0.7,
+    "also_known_as": 0.7
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--creaspine-sas--creaspine-supstance-vertebral-body-replacement",
+  "artifact_folder": "cervical-plate--creaspine-sas--creaspine-supstance-vertebral-body-replacement",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3020,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--creaspine-sas--creaspine-supstance-vertebral-body-replacement.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--creaspine-sas--creaspine-supstance-vertebral-body-replacement/enriched/cervical-plate--creaspine-sas--creaspine-supstance-vertebral-body-replacement.json",
+        "bytes": 1487
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K072537.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--creaspine-sas--creaspine-supstance-vertebral-body-replacement/fda_raw/MQP/K072537.json",
+        "bytes": 627
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--creaspine-sas--creaspine-supstance-vertebral-body-replacement.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--creaspine-sas--creaspine-supstance-vertebral-body-replacement/merged/cervical-plate--creaspine-sas--creaspine-supstance-vertebral-body-replacement.json",
+        "bytes": 906
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

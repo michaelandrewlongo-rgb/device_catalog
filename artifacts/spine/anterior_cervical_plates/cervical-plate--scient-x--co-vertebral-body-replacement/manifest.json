@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--scient-x--co-vertebral-body-replacement",
+  "artifact_folder": "cervical-plate--scient-x--co-vertebral-body-replacement",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2814,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--scient-x--co-vertebral-body-replacement.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--scient-x--co-vertebral-body-replacement/enriched/cervical-plate--scient-x--co-vertebral-body-replacement.json",
+        "bytes": 1412
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K050348.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--scient-x--co-vertebral-body-replacement/fda_raw/MQP/K050348.json",
+        "bytes": 571
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--scient-x--co-vertebral-body-replacement.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--scient-x--co-vertebral-body-replacement/merged/cervical-plate--scient-x--co-vertebral-body-replacement.json",
+        "bytes": 831
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

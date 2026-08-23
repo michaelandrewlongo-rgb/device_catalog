@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--shanghai-iatrical-ti-technologies-co-ltd--iatrical-interbody-lumbar-fusion-s",
+  "artifact_folder": "pedicle-screw--shanghai-iatrical-ti-technologies-co-ltd--iatrical-interbody-lumbar-fusion-s",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3295,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--shanghai-iatrical-ti-technologies-co-ltd--iatrical-interbody-lumbar-fusion-s.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--shanghai-iatrical-ti-technologies-co-ltd--iatrical-interbody-lumbar-fusion-s/enriched/pedicle-screw--shanghai-iatrical-ti-technologies-co-ltd--iatrical-interbody-lumbar-fusion-s.json",
+        "bytes": 1577
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K232996.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--shanghai-iatrical-ti-technologies-co-ltd--iatrical-interbody-lumbar-fusion-s/fda_raw/MAX/K232996.json",
+        "bytes": 722
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--shanghai-iatrical-ti-technologies-co-ltd--iatrical-interbody-lumbar-fusion-s.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--shanghai-iatrical-ti-technologies-co-ltd--iatrical-interbody-lumbar-fusion-s/merged/pedicle-screw--shanghai-iatrical-ti-technologies-co-ltd--iatrical-interbody-lumbar-fusion-s.json",
+        "bytes": 996
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

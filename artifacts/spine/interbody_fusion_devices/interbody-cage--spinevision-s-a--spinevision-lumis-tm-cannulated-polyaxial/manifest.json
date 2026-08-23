@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--spinevision-s-a--spinevision-lumis-tm-cannulated-polyaxial",
+  "artifact_folder": "interbody-cage--spinevision-s-a--spinevision-lumis-tm-cannulated-polyaxial",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3355,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--spinevision-s-a--spinevision-lumis-tm-cannulated-polyaxial.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spinevision-s-a--spinevision-lumis-tm-cannulated-polyaxial/enriched/interbody-cage--spinevision-s-a--spinevision-lumis-tm-cannulated-polyaxial.json",
+        "bytes": 1620
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K112607.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spinevision-s-a--spinevision-lumis-tm-cannulated-polyaxial/fda_raw/NKB/K112607.json",
+        "bytes": 696
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--spinevision-s-a--spinevision-lumis-tm-cannulated-polyaxial.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spinevision-s-a--spinevision-lumis-tm-cannulated-polyaxial/merged/interbody-cage--spinevision-s-a--spinevision-lumis-tm-cannulated-polyaxial.json",
+        "bytes": 1039
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

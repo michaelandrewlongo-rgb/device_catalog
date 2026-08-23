@@ -1,0 +1,25 @@
+{
+  "source_pdf": "globus-creo-fenestrated-pedicle-screw-surgeon-brochure-revb.pdf",
+  "source_path": "C:\\Users\\Michael\\Documents\\device_catalog\\pipeline\\data\\extracted\\nspr\\pdfs\\globus-creo-fenestrated-pedicle-screw-surgeon-brochure-revb.pdf",
+  "device_name": "Globus Creo Fenestrated Pedicle Screw Surgeon Brochure Revb",
+  "manufacturer": "unknown",
+  "doc_type": "technique_guide",
+  "extraction_method": "pdfplumber_deepseek",
+  "extraction_source": "nspr_pdf",
+  "fields": {
+    "what_it_is": "The CREO® Fenestrated Screw System is a comprehensive pedicle screw system designed for augmentation with FORTRESS® bone cement to enhance fixation within the vertebral body in indicated advanced stage tumor patients. The combination of innovative implants and streamlined instruments maximizes efficiency and construct stability. The CREO® Fenestrated screws are designed to maximize fixation in patients with advanced stage tumors, while protecting the neural elements.",
+    "sizing_specs": "SCREWS WITH LENGTHS OF 25, 30 AND 35mm HAVE FOUR FENESTRATIONS\nSCREWS WITH LENGTHS OF 40mm AND LONGER HAVE SIX FENESTRATIONS\nDISPERSED PATTERN OF FENESTRATIONS ALLOWS FOR EVEN DISTRIBUTION OF CEMENT ALONG THE SCREW SHANK",
+    "indications": "When used for posterior fixation in conjunction with FORTRESS® or FORTRESS® Plus bone cement, the CREO® Fenestrated Screw System is intended to restore the integrity of the spinal column even in the absence of fusion for a limited time period in patients with advanced stage tumors involving the thoracic and lumbar spine in whom life expectancy is of insufficient duration to permit achievement of fusion. CREO® Fenestrated screws augmented with FORTRESS® and FORTRESS® Plus bone cement are for use at spinal levels where the structural integrity of the spine is not severely compromised.",
+    "contraindications": null,
+    "compatible_with": "FORTRESS® bone cements and AFFIRM® instruments",
+    "use_notes": "The CREO® Fenestrated Screw System is available in threaded, non-threaded, and MIS screw head options to accommodate varying surgeon preferences in complex tumor procedures. Cement mixing and transfer processes are identical to those used in kyphoplasty and vertebroplasty procedures. One step cement augmentation: Cement delivery through the screwdriver provides a rigid connection with the screw to help prevent cement backflow and reduce procedural steps. Drive Screw Inject Cement.",
+    "also_known_as": null
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "sizing_specs": 0.7,
+    "indications": 0.7,
+    "compatible_with": 0.7,
+    "use_notes": 0.7
+  }
+}

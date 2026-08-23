@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--icotec-ag--icotec-interbody-cage-icotec-cervical",
+  "artifact_folder": "pedicle-screw--icotec-ag--icotec-interbody-cage-icotec-cervical",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3247,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--icotec-ag--icotec-interbody-cage-icotec-cervical.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--icotec-ag--icotec-interbody-cage-icotec-cervical/enriched/pedicle-screw--icotec-ag--icotec-interbody-cage-icotec-cervical.json",
+        "bytes": 1580
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K232792.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--icotec-ag--icotec-interbody-cage-icotec-cervical/fda_raw/MAX/K232792.json",
+        "bytes": 660
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--icotec-ag--icotec-interbody-cage-icotec-cervical.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--icotec-ag--icotec-interbody-cage-icotec-cervical/merged/pedicle-screw--icotec-ag--icotec-interbody-cage-icotec-cervical.json",
+        "bytes": 1007
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

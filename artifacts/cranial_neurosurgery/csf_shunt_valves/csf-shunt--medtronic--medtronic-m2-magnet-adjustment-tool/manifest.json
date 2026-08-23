@@ -1,0 +1,21 @@
+{
+  "device_slug": "csf-shunt--medtronic--medtronic-m2-magnet-adjustment-tool",
+  "artifact_folder": "csf-shunt--medtronic--medtronic-m2-magnet-adjustment-tool",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 587,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K052386.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medtronic--medtronic-m2-magnet-adjustment-tool/fda_raw/JXG/K052386.json",
+        "bytes": 587
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

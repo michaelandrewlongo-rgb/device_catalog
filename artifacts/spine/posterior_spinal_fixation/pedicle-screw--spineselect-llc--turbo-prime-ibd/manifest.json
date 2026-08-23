@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--spineselect-llc--turbo-prime-ibd",
+  "artifact_folder": "pedicle-screw--spineselect-llc--turbo-prime-ibd",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2781,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--spineselect-llc--turbo-prime-ibd.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spineselect-llc--turbo-prime-ibd/enriched/pedicle-screw--spineselect-llc--turbo-prime-ibd.json",
+        "bytes": 1396
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K080058.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spineselect-llc--turbo-prime-ibd/fda_raw/MAX/K080058.json",
+        "bytes": 570
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--spineselect-llc--turbo-prime-ibd.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spineselect-llc--turbo-prime-ibd/merged/pedicle-screw--spineselect-llc--turbo-prime-ibd.json",
+        "bytes": 815
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

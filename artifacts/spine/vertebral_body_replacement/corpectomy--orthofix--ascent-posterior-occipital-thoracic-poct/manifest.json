@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--orthofix--ascent-posterior-occipital-thoracic-poct",
+  "artifact_folder": "corpectomy--orthofix--ascent-posterior-occipital-thoracic-poct",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3621,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--orthofix--ascent-posterior-occipital-thoracic-poct.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--orthofix--ascent-posterior-occipital-thoracic-poct/enriched/corpectomy--orthofix--ascent-posterior-occipital-thoracic-poct.json",
+        "bytes": 2051
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K111183.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--orthofix--ascent-posterior-occipital-thoracic-poct/fda_raw/KWP/K111183.json",
+        "bytes": 632
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--orthofix--ascent-posterior-occipital-thoracic-poct.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--orthofix--ascent-posterior-occipital-thoracic-poct/merged/corpectomy--orthofix--ascent-posterior-occipital-thoracic-poct.json",
+        "bytes": 938
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

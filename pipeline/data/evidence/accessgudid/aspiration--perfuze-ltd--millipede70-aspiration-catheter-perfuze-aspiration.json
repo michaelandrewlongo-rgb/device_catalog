@@ -1,0 +1,292 @@
+[
+  {
+    "device_family": "aspiration--perfuze-ltd--millipede70-aspiration-catheter-perfuze-aspiration",
+    "query_used": "Millipede70 Aspiration Catheter and Perfuze Aspiration Tube Set",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "05391539370241",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Millipede70 Aspiration Catheter",
+      "companyName": "PERFUZE LIMITED",
+      "deviceIdentifier": "6e711c6b-c167-4799-b526-5039410c6eda",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "1.02"
+    },
+    "retrieved_at": "2026-04-15T10:18:53+00:00",
+    "source_id": "accessgudid:05391539370241",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/6e711c6b-c167-4799-b526-5039410c6eda",
+    "title": "Millipede70 Aspiration Catheter (PERFUZE LIMITED)"
+  },
+  {
+    "device_family": "aspiration--perfuze-ltd--millipede70-aspiration-catheter-perfuze-aspiration",
+    "query_used": "Millipede70 Aspiration Catheter and Perfuze Aspiration Tube Set",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "05391539370074",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Aspiration Tube Set ",
+      "companyName": "PERFUZE LIMITED",
+      "deviceIdentifier": "92275f5c-5956-4939-bb53-64e1105cb8b5",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "46721",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Disposable vacuum tubing"
+        }
+      ],
+      "modelNumber": "1.0"
+    },
+    "retrieved_at": "2026-04-15T10:18:53+00:00",
+    "source_id": "accessgudid:05391539370074",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/92275f5c-5956-4939-bb53-64e1105cb8b5",
+    "title": "Aspiration Tube Set  (PERFUZE LIMITED)"
+  },
+  {
+    "device_family": "aspiration--perfuze-ltd--millipede70-aspiration-catheter-perfuze-aspiration",
+    "query_used": "Millipede70 Aspiration Catheter and Perfuze Aspiration Tube Set",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "05391539370180",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Millipede 070 Aspiration Catheter ",
+      "companyName": "PERFUZE LIMITED",
+      "deviceIdentifier": "0642f707-215a-4459-992f-cb908ff6bbba",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "1.01"
+    },
+    "retrieved_at": "2026-04-15T10:18:53+00:00",
+    "source_id": "accessgudid:05391539370180",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/0642f707-215a-4459-992f-cb908ff6bbba",
+    "title": "Millipede 070 Aspiration Catheter  (PERFUZE LIMITED)"
+  },
+  {
+    "device_family": "aspiration--perfuze-ltd--millipede70-aspiration-catheter-perfuze-aspiration",
+    "query_used": "Millipede70 Aspiration Catheter and Perfuze Aspiration Tube Set",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "05391539370098",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Millipede 070 Aspiration Catheter",
+      "companyName": "PERFUZE LIMITED",
+      "deviceIdentifier": "d59dd1c0-f6e3-40d6-8163-26cf1043143f",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "1.0"
+    },
+    "retrieved_at": "2026-04-15T10:18:53+00:00",
+    "source_id": "accessgudid:05391539370098",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/d59dd1c0-f6e3-40d6-8163-26cf1043143f",
+    "title": "Millipede 070 Aspiration Catheter (PERFUZE LIMITED)"
+  },
+  {
+    "device_family": "aspiration--perfuze-ltd--millipede70-aspiration-catheter-perfuze-aspiration",
+    "query_used": "Millipede70 Aspiration Catheter and Perfuze Aspiration Tube Set",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "05391539370005",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Millipede 088 Access Catheter",
+      "companyName": "PERFUZE LIMITED",
+      "deviceIdentifier": "1c14fe0c-2d36-4235-b0de-d773b171120e",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "17846",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Vascular guide-catheter, single-use"
+        }
+      ],
+      "modelNumber": "1.1"
+    },
+    "retrieved_at": "2026-04-15T10:18:53+00:00",
+    "source_id": "accessgudid:05391539370005",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/1c14fe0c-2d36-4235-b0de-d773b171120e",
+    "title": "Millipede 088 Access Catheter (PERFUZE LIMITED)"
+  },
+  {
+    "device_family": "aspiration--perfuze-ltd--millipede70-aspiration-catheter-perfuze-aspiration",
+    "query_used": "Millipede70 Aspiration Catheter and Perfuze Aspiration Tube Set",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "05391539370142",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Millipede 088 Access Catheter",
+      "companyName": "PERFUZE LIMITED",
+      "deviceIdentifier": "7aa75ad7-9adb-4c1e-a0d3-292ef9e49db5",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "17846",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Vascular guide-catheter, single-use"
+        }
+      ],
+      "modelNumber": "2.0"
+    },
+    "retrieved_at": "2026-04-15T10:18:53+00:00",
+    "source_id": "accessgudid:05391539370142",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/7aa75ad7-9adb-4c1e-a0d3-292ef9e49db5",
+    "title": "Millipede 088 Access Catheter (PERFUZE LIMITED)"
+  },
+  {
+    "device_family": "aspiration--perfuze-ltd--millipede70-aspiration-catheter-perfuze-aspiration",
+    "query_used": "Millipede70 Aspiration Catheter and Perfuze Aspiration Tube Set",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "05391539370111",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Millipede 088 Access Catheter",
+      "companyName": "PERFUZE LIMITED",
+      "deviceIdentifier": "d662819a-7c07-469e-ac38-edbc5db05baf",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "17846",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Vascular guide-catheter, single-use"
+        }
+      ],
+      "modelNumber": "1.2"
+    },
+    "retrieved_at": "2026-04-15T10:18:53+00:00",
+    "source_id": "accessgudid:05391539370111",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/d662819a-7c07-469e-ac38-edbc5db05baf",
+    "title": "Millipede 088 Access Catheter (PERFUZE LIMITED)"
+  },
+  {
+    "device_family": "aspiration--perfuze-ltd--millipede70-aspiration-catheter-perfuze-aspiration",
+    "query_used": "Millipede70 Aspiration Catheter and Perfuze Aspiration Tube Set",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "05391539370067",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Zipline 088 Access Catheter",
+      "companyName": "PERFUZE LIMITED",
+      "deviceIdentifier": "0ca6fc0e-8295-4604-b1b0-b4a27f954fa9",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "17846",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Vascular guide-catheter, single-use"
+        }
+      ],
+      "modelNumber": "1.0"
+    },
+    "retrieved_at": "2026-04-15T10:18:53+00:00",
+    "source_id": "accessgudid:05391539370067",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/0ca6fc0e-8295-4604-b1b0-b4a27f954fa9",
+    "title": "Zipline 088 Access Catheter (PERFUZE LIMITED)"
+  },
+  {
+    "device_family": "aspiration--perfuze-ltd--millipede70-aspiration-catheter-perfuze-aspiration",
+    "query_used": "Millipede70 Aspiration Catheter and Perfuze Aspiration Tube Set",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "05391539370050",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Zipline 070 Access Catheter",
+      "companyName": "PERFUZE LIMITED",
+      "deviceIdentifier": "d56137e1-90fe-48a6-be11-ac3e3b9de895",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "17846",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Vascular guide-catheter, single-use"
+        }
+      ],
+      "modelNumber": "1.0"
+    },
+    "retrieved_at": "2026-04-15T10:18:53+00:00",
+    "source_id": "accessgudid:05391539370050",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/d56137e1-90fe-48a6-be11-ac3e3b9de895",
+    "title": "Zipline 070 Access Catheter (PERFUZE LIMITED)"
+  },
+  {
+    "device_family": "aspiration--perfuze-ltd--millipede70-aspiration-catheter-perfuze-aspiration",
+    "query_used": "Millipede70 Aspiration Catheter and Perfuze Aspiration Tube Set",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "05391539370197",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Millipede 088 Access Catheter",
+      "companyName": "PERFUZE LIMITED",
+      "deviceIdentifier": "a4feae13-d40b-4fd5-90cb-94ade28c7d63",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "17846",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Vascular guide-catheter, single-use"
+        }
+      ],
+      "modelNumber": "2.01"
+    },
+    "retrieved_at": "2026-04-15T10:18:53+00:00",
+    "source_id": "accessgudid:05391539370197",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/a4feae13-d40b-4fd5-90cb-94ade28c7d63",
+    "title": "Millipede 088 Access Catheter (PERFUZE LIMITED)"
+  }
+]

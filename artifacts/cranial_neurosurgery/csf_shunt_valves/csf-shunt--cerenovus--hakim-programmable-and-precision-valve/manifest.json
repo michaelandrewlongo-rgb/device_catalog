@@ -1,0 +1,47 @@
+{
+  "device_slug": "csf-shunt--cerenovus--hakim-programmable-and-precision-valve",
+  "artifact_folder": "csf-shunt--cerenovus--hakim-programmable-and-precision-valve",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 207038,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/csf-shunt/parsed/fda_summaries/csf-shunt--cerenovus--hakim-programmable-and-precision-valve--510k.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cerenovus--hakim-programmable-and-precision-valve/510k/csf-shunt/parsed/fda_summaries/csf-shunt--cerenovus--hakim-programmable-and-precision-valve--510k.json",
+        "bytes": 18262
+      },
+      {
+        "source": "pipeline/data/510k/csf-shunt/pdfs/csf-shunt--cerenovus--hakim-programmable-and-precision-valve--510k.pdf",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cerenovus--hakim-programmable-and-precision-valve/510k/csf-shunt/pdfs/csf-shunt--cerenovus--hakim-programmable-and-precision-valve--510k.pdf",
+        "bytes": 177054
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--cerenovus--hakim-programmable-and-precision-valve.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cerenovus--hakim-programmable-and-precision-valve/enriched/csf-shunt--cerenovus--hakim-programmable-and-precision-valve.json",
+        "bytes": 10237
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K122118.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cerenovus--hakim-programmable-and-precision-valve/fda_raw/JXG/K122118.json",
+        "bytes": 609
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--cerenovus--hakim-programmable-and-precision-valve.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cerenovus--hakim-programmable-and-precision-valve/merged/csf-shunt--cerenovus--hakim-programmable-and-precision-valve.json",
+        "bytes": 876
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--inmed-ltda--csf400-and-csf600",
+  "artifact_folder": "csf-shunt--inmed-ltda--csf400-and-csf600",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2702,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--inmed-ltda--csf400-and-csf600.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--inmed-ltda--csf400-and-csf600/enriched/csf-shunt--inmed-ltda--csf400-and-csf600.json",
+        "bytes": 1370
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K030081.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--inmed-ltda--csf400-and-csf600/fda_raw/JXG/K030081.json",
+        "bytes": 543
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--inmed-ltda--csf400-and-csf600.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--inmed-ltda--csf400-and-csf600/merged/csf-shunt--inmed-ltda--csf400-and-csf600.json",
+        "bytes": 789
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

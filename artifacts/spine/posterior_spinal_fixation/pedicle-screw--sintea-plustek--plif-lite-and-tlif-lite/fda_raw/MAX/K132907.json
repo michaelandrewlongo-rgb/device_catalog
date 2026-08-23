@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K132907",
+  "clearance_date": "2014-07-24",
+  "device_class": 2,
+  "manufacturer_canonical": "sintea-plustek",
+  "manufacturer_raw": "Sintea Plustek",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "PLIF LITE AND TLIF LITE",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--sintea-plustek--plif-lite-and-tlif-lite",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf13/K132907.pdf"
+}

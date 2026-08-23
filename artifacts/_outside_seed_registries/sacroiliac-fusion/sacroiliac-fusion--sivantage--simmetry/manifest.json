@@ -1,0 +1,21 @@
+{
+  "device_slug": "sacroiliac-fusion--sivantage--simmetry",
+  "artifact_folder": "sacroiliac-fusion--sivantage--simmetry",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 546,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/OUR/K250647.json",
+        "artifact": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--sivantage--simmetry/fda_raw/OUR/K250647.json",
+        "bytes": 546
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "sacroiliac-fusion",
+    "label": "Outside listed seed registries"
+  }
+}

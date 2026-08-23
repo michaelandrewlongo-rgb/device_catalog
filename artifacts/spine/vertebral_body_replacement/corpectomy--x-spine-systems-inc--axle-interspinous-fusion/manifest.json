@@ -1,0 +1,42 @@
+{
+  "device_slug": "corpectomy--x-spine-systems-inc--axle-interspinous-fusion",
+  "artifact_folder": "corpectomy--x-spine-systems-inc--axle-interspinous-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3812,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--x-spine-systems-inc--axle-interspinous-fusion.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--x-spine-systems-inc--axle-interspinous-fusion/enriched/corpectomy--x-spine-systems-inc--axle-interspinous-fusion.json",
+        "bytes": 1724
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/corpectomy--x-spine-systems-inc--axle-interspinous-fusion.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--x-spine-systems-inc--axle-interspinous-fusion/extracted/fda_structured/corpectomy--x-spine-systems-inc--axle-interspinous-fusion.json",
+        "bytes": 649
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K101471.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--x-spine-systems-inc--axle-interspinous-fusion/fda_raw/KWP/K101471.json",
+        "bytes": 595
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--x-spine-systems-inc--axle-interspinous-fusion.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--x-spine-systems-inc--axle-interspinous-fusion/merged/corpectomy--x-spine-systems-inc--axle-interspinous-fusion.json",
+        "bytes": 844
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

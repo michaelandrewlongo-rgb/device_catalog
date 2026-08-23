@@ -1,0 +1,40 @@
+{
+  "device_slug": "interbody-cage--medtronic--cd-horizon-spinal-ipc-powerease",
+  "artifact_folder": "interbody-cage--medtronic--cd-horizon-spinal-ipc-powerease",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 4788,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--medtronic--cd-horizon-spinal-ipc-powerease.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--cd-horizon-spinal-ipc-powerease/enriched/interbody-cage--medtronic--cd-horizon-spinal-ipc-powerease.json",
+        "bytes": 2685
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K143019.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--cd-horizon-spinal-ipc-powerease/fda_raw/NKB/K143019.json",
+        "bytes": 617
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K153463.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--cd-horizon-spinal-ipc-powerease/fda_raw/NKB/K153463.json",
+        "bytes": 617
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--medtronic--cd-horizon-spinal-ipc-powerease.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--cd-horizon-spinal-ipc-powerease/merged/interbody-cage--medtronic--cd-horizon-spinal-ipc-powerease.json",
+        "bytes": 869
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

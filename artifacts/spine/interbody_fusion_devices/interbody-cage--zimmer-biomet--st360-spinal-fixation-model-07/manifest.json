@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--zimmer-biomet--st360-spinal-fixation-model-07",
+  "artifact_folder": "interbody-cage--zimmer-biomet--st360-spinal-fixation-model-07",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3512,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--zimmer-biomet--st360-spinal-fixation-model-07.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--zimmer-biomet--st360-spinal-fixation-model-07/enriched/interbody-cage--zimmer-biomet--st360-spinal-fixation-model-07.json",
+        "bytes": 2006
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K072183.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--zimmer-biomet--st360-spinal-fixation-model-07/fda_raw/NKB/K072183.json",
+        "bytes": 616
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--zimmer-biomet--st360-spinal-fixation-model-07.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--zimmer-biomet--st360-spinal-fixation-model-07/merged/interbody-cage--zimmer-biomet--st360-spinal-fixation-model-07.json",
+        "bytes": 890
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "device_slug": "corpectomy--medtronic--basis-spinal",
+  "artifact_folder": "corpectomy--medtronic--basis-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3739,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--medtronic--basis-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--basis-spinal/enriched/corpectomy--medtronic--basis-spinal.json",
+        "bytes": 1839
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K050484.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--basis-spinal/fda_raw/KWP/K050484.json",
+        "bytes": 559
+      },
+      {
+        "source": "pipeline/data/fda_raw/KWP/K060081.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--basis-spinal/fda_raw/KWP/K060081.json",
+        "bytes": 553
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--medtronic--basis-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--basis-spinal/merged/corpectomy--medtronic--basis-spinal.json",
+        "bytes": 788
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

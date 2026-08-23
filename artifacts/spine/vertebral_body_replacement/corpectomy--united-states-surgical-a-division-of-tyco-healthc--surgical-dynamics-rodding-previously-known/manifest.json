@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--united-states-surgical-a-division-of-tyco-healthc--surgical-dynamics-rodding-previously-known",
+  "artifact_folder": "corpectomy--united-states-surgical-a-division-of-tyco-healthc--surgical-dynamics-rodding-previously-known",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3432,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--united-states-surgical-a-division-of-tyco-healthc--surgical-dynamics-rodding-previously-known.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--united-states-surgical-a-division-of-tyco-healthc--surgical-dynamics-rodding-previously-known/enriched/corpectomy--united-states-surgical-a-division-of-tyco-healthc--surgical-dynamics-rodding-previously-known.json",
+        "bytes": 1625
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K983197.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--united-states-surgical-a-division-of-tyco-healthc--surgical-dynamics-rodding-previously-known/fda_raw/KWP/K983197.json",
+        "bytes": 763
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--united-states-surgical-a-division-of-tyco-healthc--surgical-dynamics-rodding-previously-known.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--united-states-surgical-a-division-of-tyco-healthc--surgical-dynamics-rodding-previously-known/merged/corpectomy--united-states-surgical-a-division-of-tyco-healthc--surgical-dynamics-rodding-previously-known.json",
+        "bytes": 1044
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

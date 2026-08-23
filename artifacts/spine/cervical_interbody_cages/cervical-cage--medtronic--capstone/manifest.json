@@ -1,0 +1,21 @@
+{
+  "device_slug": "cervical-cage--medtronic--capstone",
+  "artifact_folder": "cervical-cage--medtronic--capstone",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 6239,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/cervical-cage--medtronic--capstone--knowledge.md",
+        "artifact": "artifacts/spine/cervical_interbody_cages/cervical-cage--medtronic--capstone/data_by_device/cervical-cage--medtronic--capstone--knowledge.md",
+        "bytes": 6239
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "cervical_interbody_cages",
+    "label": "ACDF/ACCF Cages"
+  }
+}

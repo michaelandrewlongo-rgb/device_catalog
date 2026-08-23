@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--medtronic--butterfly-plate-function",
+  "artifact_folder": "corpectomy--medtronic--butterfly-plate-function",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3286,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--medtronic--butterfly-plate-function.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--butterfly-plate-function/enriched/corpectomy--medtronic--butterfly-plate-function.json",
+        "bytes": 1875
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K010632.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--butterfly-plate-function/fda_raw/KWP/K010632.json",
+        "bytes": 587
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--medtronic--butterfly-plate-function.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--butterfly-plate-function/merged/corpectomy--medtronic--butterfly-plate-function.json",
+        "bytes": 824
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

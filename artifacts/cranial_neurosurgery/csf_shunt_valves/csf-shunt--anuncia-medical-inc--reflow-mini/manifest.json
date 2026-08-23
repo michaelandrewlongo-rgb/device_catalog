@@ -1,0 +1,47 @@
+{
+  "device_slug": "csf-shunt--anuncia-medical-inc--reflow-mini",
+  "artifact_folder": "csf-shunt--anuncia-medical-inc--reflow-mini",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 1204890,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/csf-shunt/parsed/fda_summaries/csf-shunt--anuncia-medical-inc--reflow-mini--510k.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--anuncia-medical-inc--reflow-mini/510k/csf-shunt/parsed/fda_summaries/csf-shunt--anuncia-medical-inc--reflow-mini--510k.json",
+        "bytes": 101009
+      },
+      {
+        "source": "pipeline/data/510k/csf-shunt/pdfs/csf-shunt--anuncia-medical-inc--reflow-mini--510k.pdf",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--anuncia-medical-inc--reflow-mini/510k/csf-shunt/pdfs/csf-shunt--anuncia-medical-inc--reflow-mini--510k.pdf",
+        "bytes": 1050829
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--anuncia-medical-inc--reflow-mini.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--anuncia-medical-inc--reflow-mini/enriched/csf-shunt--anuncia-medical-inc--reflow-mini.json",
+        "bytes": 51683
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K221918.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--anuncia-medical-inc--reflow-mini/fda_raw/JXG/K221918.json",
+        "bytes": 566
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--anuncia-medical-inc--reflow-mini.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--anuncia-medical-inc--reflow-mini/merged/csf-shunt--anuncia-medical-inc--reflow-mini.json",
+        "bytes": 803
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

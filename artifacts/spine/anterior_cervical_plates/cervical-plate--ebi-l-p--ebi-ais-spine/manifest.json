@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--ebi-l-p--ebi-ais-spine",
+  "artifact_folder": "cervical-plate--ebi-l-p--ebi-ais-spine",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2716,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--ebi-l-p--ebi-ais-spine.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--ebi-l-p--ebi-ais-spine/enriched/cervical-plate--ebi-l-p--ebi-ais-spine.json",
+        "bytes": 1376
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K020887.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--ebi-l-p--ebi-ais-spine/fda_raw/MQP/K020887.json",
+        "bytes": 545
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--ebi-l-p--ebi-ais-spine.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--ebi-l-p--ebi-ais-spine/merged/cervical-plate--ebi-l-p--ebi-ais-spine.json",
+        "bytes": 795
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K191835",
+  "clearance_date": "2019-08-06",
+  "device_class": 2,
+  "manufacturer_canonical": "globus",
+  "manufacturer_raw": "Globus Medical, Inc.",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "CREO Stabilization System, Navigation Instruments, ExcelsiusGPS Instruments",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--globus--creo-stabilization-navigation-instruments-excelsiusgps",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf19/K191835.pdf"
+}

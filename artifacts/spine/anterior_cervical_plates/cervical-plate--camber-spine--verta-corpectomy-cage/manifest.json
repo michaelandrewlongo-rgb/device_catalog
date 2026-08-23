@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--camber-spine--verta-corpectomy-cage",
+  "artifact_folder": "cervical-plate--camber-spine--verta-corpectomy-cage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2778,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--camber-spine--verta-corpectomy-cage.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--camber-spine--verta-corpectomy-cage/enriched/cervical-plate--camber-spine--verta-corpectomy-cage.json",
+        "bytes": 1396
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K143490.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--camber-spine--verta-corpectomy-cage/fda_raw/MQP/K143490.json",
+        "bytes": 567
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--camber-spine--verta-corpectomy-cage.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--camber-spine--verta-corpectomy-cage/merged/cervical-plate--camber-spine--verta-corpectomy-cage.json",
+        "bytes": 815
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

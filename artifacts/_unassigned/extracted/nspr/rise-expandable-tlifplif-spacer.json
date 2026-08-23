@@ -1,0 +1,35 @@
+{
+  "source": "nspr",
+  "nspr_url": "https://neurospineproductreview.com/rise-expandable-tlifplif-spacer",
+  "device_name": "RISE expandable TLIF/PLIF spacer",
+  "manufacturer": "Globus Medical",
+  "specs": {
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Interbody Device",
+    "Cage Type": "Interbody Cage/Lumbar",
+    "Expansion": "Expandable",
+    "Expansion Type/Lordosis": "Parallel expansion (Fixed Lordosis) , Parallel Expansion (Progressive Lordosis)",
+    "Cage Approach": "Posterior",
+    "Configuration": "Cage Alone",
+    "By Material": "Titanium (Solid) , 3D Printed Titanium",
+    "By Location/Approach": "Posterior Lumbar",
+    "By Procedure Type": "TLIF , PLIF",
+    "By System Type": "Degenerative"
+  },
+  "description": "The RISE TLIF is an expandable titanium interbody spacer for use in the TLIF or PLIF procedure. IT comes in several footprint options and lordosis options. It features a 3D printed titanium endplates for improved bony ingrowth.\np.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 11.0px 'Helvetica Neue'; color: #000000}\np.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 11.0px 'Helvetica Neue'; color: #000000; min-height: 12.0px}",
+  "features": [
+    "Up to 7mm of vertical expansion",
+    "3D printed endplates",
+    "Ability to backfill cage after placement",
+    "Footprint options:",
+    "8mm width: 8x22mm",
+    "10mm width: 10x22mm, 10x26mm, 10x30mm",
+    "12mm width: 12x26mm. 12x30mm",
+    "Height expansion 7-17mm",
+    "Lordosis options: 4, 10, and 15 degree"
+  ],
+  "pdfs": [
+    "https://neurospineproductreview.com/storage/products/pdfs/globus-rise-expandable-tlif-spacer-technique-guide-revd.pdf"
+  ],
+  "mfr_link": ""
+}

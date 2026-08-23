@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--pinnacle-spine-group-llc--infill-41-tlif-convex-oblique",
+  "artifact_folder": "pedicle-screw--pinnacle-spine-group-llc--infill-41-tlif-convex-oblique",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3366,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--pinnacle-spine-group-llc--infill-41-tlif-convex-oblique.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--pinnacle-spine-group-llc--infill-41-tlif-convex-oblique/enriched/pedicle-screw--pinnacle-spine-group-llc--infill-41-tlif-convex-oblique.json",
+        "bytes": 1620
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K133721.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--pinnacle-spine-group-llc--infill-41-tlif-convex-oblique/fda_raw/MAX/K133721.json",
+        "bytes": 707
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--pinnacle-spine-group-llc--infill-41-tlif-convex-oblique.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--pinnacle-spine-group-llc--infill-41-tlif-convex-oblique/merged/pedicle-screw--pinnacle-spine-group-llc--infill-41-tlif-convex-oblique.json",
+        "bytes": 1039
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

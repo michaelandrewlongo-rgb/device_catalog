@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K190174",
+  "clearance_date": "2019-07-05",
+  "device_class": 2,
+  "manufacturer_canonical": "aesculap-inc",
+  "manufacturer_raw": "Aesculap, Inc.",
+  "catalog_category": "csf-shunt",
+  "device_name_fda": "Miethke Shunt System GAV 2.0 and SA 2.0 Valves",
+  "product_code": "JXG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "csf-shunt--aesculap-inc--miethke-shunt-gav-2-0",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf19/K190174.pdf"
+}

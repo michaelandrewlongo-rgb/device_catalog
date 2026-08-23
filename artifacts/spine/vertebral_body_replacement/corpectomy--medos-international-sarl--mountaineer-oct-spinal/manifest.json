@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--medos-international-sarl--mountaineer-oct-spinal",
+  "artifact_folder": "corpectomy--medos-international-sarl--mountaineer-oct-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2881,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--medos-international-sarl--mountaineer-oct-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medos-international-sarl--mountaineer-oct-spinal/enriched/corpectomy--medos-international-sarl--mountaineer-oct-spinal.json",
+        "bytes": 1429
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K132332.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medos-international-sarl--mountaineer-oct-spinal/fda_raw/KWP/K132332.json",
+        "bytes": 604
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--medos-international-sarl--mountaineer-oct-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medos-international-sarl--mountaineer-oct-spinal/merged/corpectomy--medos-international-sarl--mountaineer-oct-spinal.json",
+        "bytes": 848
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

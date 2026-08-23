@@ -1,0 +1,21 @@
+{
+  "device_slug": "corpectomy--sofamor-danek-usa-inc--alpha-posterior-spinal-recalls",
+  "artifact_folder": "corpectomy--sofamor-danek-usa-inc--alpha-posterior-spinal-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 5802,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/corpectomy--sofamor-danek-usa-inc--alpha-posterior-spinal-recalls.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sofamor-danek-usa-inc--alpha-posterior-spinal-recalls/extracted/fda_safety/corpectomy--sofamor-danek-usa-inc--alpha-posterior-spinal-recalls.json",
+        "bytes": 5802
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

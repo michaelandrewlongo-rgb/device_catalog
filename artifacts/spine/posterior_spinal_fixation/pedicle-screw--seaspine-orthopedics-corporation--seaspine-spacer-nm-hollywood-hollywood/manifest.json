@@ -1,0 +1,40 @@
+{
+  "device_slug": "pedicle-screw--seaspine-orthopedics-corporation--seaspine-spacer-nm-hollywood-hollywood",
+  "artifact_folder": "pedicle-screw--seaspine-orthopedics-corporation--seaspine-spacer-nm-hollywood-hollywood",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 5880,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--seaspine-orthopedics-corporation--seaspine-spacer-nm-hollywood-hollywood.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--seaspine-orthopedics-corporation--seaspine-spacer-nm-hollywood-hollywood/enriched/pedicle-screw--seaspine-orthopedics-corporation--seaspine-spacer-nm-hollywood-hollywood.json",
+        "bytes": 2193
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K201193.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--seaspine-orthopedics-corporation--seaspine-spacer-nm-hollywood-hollywood/fda_raw/MAX/K201193.json",
+        "bytes": 1013
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K210497.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--seaspine-orthopedics-corporation--seaspine-spacer-nm-hollywood-hollywood/fda_raw/MAX/K210497.json",
+        "bytes": 1038
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--seaspine-orthopedics-corporation--seaspine-spacer-nm-hollywood-hollywood.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--seaspine-orthopedics-corporation--seaspine-spacer-nm-hollywood-hollywood/merged/pedicle-screw--seaspine-orthopedics-corporation--seaspine-spacer-nm-hollywood-hollywood.json",
+        "bytes": 1636
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

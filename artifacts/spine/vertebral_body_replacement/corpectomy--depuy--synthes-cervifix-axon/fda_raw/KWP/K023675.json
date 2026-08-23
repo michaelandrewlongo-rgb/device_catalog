@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K023675",
+  "clearance_date": "2002-11-26",
+  "device_class": 2,
+  "manufacturer_canonical": "depuy",
+  "manufacturer_raw": "Synthes (Usa)",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "SYNTHES CERVIFIX/ AXON",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--depuy--synthes-cervifix-axon",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf02/K023675.pdf"
+}

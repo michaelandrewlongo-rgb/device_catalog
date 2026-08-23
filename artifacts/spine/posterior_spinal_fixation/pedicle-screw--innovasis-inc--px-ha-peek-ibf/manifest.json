@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--innovasis-inc--px-ha-peek-ibf",
+  "artifact_folder": "pedicle-screw--innovasis-inc--px-ha-peek-ibf",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2994,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--innovasis-inc--px-ha-peek-ibf.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--innovasis-inc--px-ha-peek-ibf/enriched/pedicle-screw--innovasis-inc--px-ha-peek-ibf.json",
+        "bytes": 1623
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K151785.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--innovasis-inc--px-ha-peek-ibf/fda_raw/MAX/K151785.json",
+        "bytes": 563
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--innovasis-inc--px-ha-peek-ibf.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--innovasis-inc--px-ha-peek-ibf/merged/pedicle-screw--innovasis-inc--px-ha-peek-ibf.json",
+        "bytes": 808
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

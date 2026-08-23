@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--acromed-corp--isola-tm-spine-top-entry",
+  "artifact_folder": "corpectomy--acromed-corp--isola-tm-spine-top-entry",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2844,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--acromed-corp--isola-tm-spine-top-entry.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--acromed-corp--isola-tm-spine-top-entry/enriched/corpectomy--acromed-corp--isola-tm-spine-top-entry.json",
+        "bytes": 1423
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K905184.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--acromed-corp--isola-tm-spine-top-entry/fda_raw/KWP/K905184.json",
+        "bytes": 579
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--acromed-corp--isola-tm-spine-top-entry.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--acromed-corp--isola-tm-spine-top-entry/merged/corpectomy--acromed-corp--isola-tm-spine-top-entry.json",
+        "bytes": 842
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

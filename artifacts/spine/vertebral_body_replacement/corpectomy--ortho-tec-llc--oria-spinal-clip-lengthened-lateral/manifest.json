@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--ortho-tec-llc--oria-spinal-clip-lengthened-lateral",
+  "artifact_folder": "corpectomy--ortho-tec-llc--oria-spinal-clip-lengthened-lateral",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3024,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--ortho-tec-llc--oria-spinal-clip-lengthened-lateral.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--ortho-tec-llc--oria-spinal-clip-lengthened-lateral/enriched/corpectomy--ortho-tec-llc--oria-spinal-clip-lengthened-lateral.json",
+        "bytes": 1492
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K030253.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--ortho-tec-llc--oria-spinal-clip-lengthened-lateral/fda_raw/KWP/K030253.json",
+        "bytes": 621
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--ortho-tec-llc--oria-spinal-clip-lengthened-lateral.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--ortho-tec-llc--oria-spinal-clip-lengthened-lateral/merged/corpectomy--ortho-tec-llc--oria-spinal-clip-lengthened-lateral.json",
+        "bytes": 911
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

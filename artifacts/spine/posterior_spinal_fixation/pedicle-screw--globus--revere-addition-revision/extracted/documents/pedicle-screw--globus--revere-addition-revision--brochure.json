@@ -1,0 +1,23 @@
+{
+  "source_pdf": "pedicle-screw--globus--revere-addition-revision--brochure.pdf",
+  "device_name": "revere-addition-revision",
+  "manufacturer": "globus",
+  "doc_type": "brochure",
+  "extraction_method": "pdf_deepseek",
+  "fields": {
+    "what_it_is": "REVERE® ADDITION® Revision Fixation System. Multiple revision options. Wide variety of unique connectors including Rescue® Implants: In-Line Extension Clamp, Offset Extension Clamps, \"U\" Extension Clamps, \"Y\" Clamps, Parallel Connector Clamps, Rod-to-Rod Clamps. Utilizes the unique REVERE® Non-Threaded Locking Cap (non-threaded design eliminates cross-threading, 90° rotation of locking cap captures the rod). Fits 5.5–6.5mm rods.",
+    "sizing_specs": "Fits 5.5–6.5mm rods.",
+    "indications": "Revision Surgery.",
+    "contraindications": null,
+    "compatible_with": "Compatible with Globus' REVERE®, CREO®, BEACON® and PROTEX® systems. No need to remove existing REVERE®, CREO®, BEACON® or PROTEX® instrumentation. Attach to existing Globus' REVERE®, CREO® BEACON®, or PROTEX® hardware.",
+    "use_notes": "Multiple revision options. Less scar tissue exposure. Smaller incision may help to reduce blood loss and overall surgery time. Easier access to tighter areas (ideal for smaller stature patients). The critical junction where the rod meets the clamp (the radius) is mechanically stronger than a typical revision connector. Provides 7mm offset coupling. Shorter run-on-rod with built-in lordotic curve. Especially good for lumbar connections. Offsets medially or laterally depending upon anatomical requirements. Non-threaded design eliminates cross-threading. 90° rotation of locking cap captures the rod.",
+    "also_known_as": null
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "sizing_specs": 0.7,
+    "indications": 0.7,
+    "compatible_with": 0.7,
+    "use_notes": 0.7
+  }
+}

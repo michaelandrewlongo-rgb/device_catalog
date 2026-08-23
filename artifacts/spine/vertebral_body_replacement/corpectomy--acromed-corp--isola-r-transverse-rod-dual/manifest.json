@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--acromed-corp--isola-r-transverse-rod-dual",
+  "artifact_folder": "corpectomy--acromed-corp--isola-r-transverse-rod-dual",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2858,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--acromed-corp--isola-r-transverse-rod-dual.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--acromed-corp--isola-r-transverse-rod-dual/enriched/corpectomy--acromed-corp--isola-r-transverse-rod-dual.json",
+        "bytes": 1428
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K921090.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--acromed-corp--isola-r-transverse-rod-dual/fda_raw/KWP/K921090.json",
+        "bytes": 583
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--acromed-corp--isola-r-transverse-rod-dual.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--acromed-corp--isola-r-transverse-rod-dual/merged/corpectomy--acromed-corp--isola-r-transverse-rod-dual.json",
+        "bytes": 847
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

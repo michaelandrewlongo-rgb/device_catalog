@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--spinefrontier-inc--spinefrontier-lumbar-ibf",
+  "artifact_folder": "pedicle-screw--spinefrontier-inc--spinefrontier-lumbar-ibf",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2868,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--spinefrontier-inc--spinefrontier-lumbar-ibf.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinefrontier-inc--spinefrontier-lumbar-ibf/enriched/pedicle-screw--spinefrontier-inc--spinefrontier-lumbar-ibf.json",
+        "bytes": 1427
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K111553.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinefrontier-inc--spinefrontier-lumbar-ibf/fda_raw/MAX/K111553.json",
+        "bytes": 595
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--spinefrontier-inc--spinefrontier-lumbar-ibf.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinefrontier-inc--spinefrontier-lumbar-ibf/merged/pedicle-screw--spinefrontier-inc--spinefrontier-lumbar-ibf.json",
+        "bytes": 846
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

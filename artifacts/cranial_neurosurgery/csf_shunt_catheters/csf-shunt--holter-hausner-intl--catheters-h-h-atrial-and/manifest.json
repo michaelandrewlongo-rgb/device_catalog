@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--holter-hausner-intl--catheters-h-h-atrial-and",
+  "artifact_folder": "csf-shunt--holter-hausner-intl--catheters-h-h-atrial-and",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2881,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--holter-hausner-intl--catheters-h-h-atrial-and.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--holter-hausner-intl--catheters-h-h-atrial-and/enriched/csf-shunt--holter-hausner-intl--catheters-h-h-atrial-and.json",
+        "bytes": 1433
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K781768.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--holter-hausner-intl--catheters-h-h-atrial-and/fda_raw/JXG/K781768.json",
+        "bytes": 596
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--holter-hausner-intl--catheters-h-h-atrial-and.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--holter-hausner-intl--catheters-h-h-atrial-and/merged/csf-shunt--holter-hausner-intl--catheters-h-h-atrial-and.json",
+        "bytes": 852
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

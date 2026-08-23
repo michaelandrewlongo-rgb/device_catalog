@@ -1,0 +1,40 @@
+{
+  "device_slug": "corpectomy--stryker--oasys",
+  "artifact_folder": "corpectomy--stryker--oasys",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3433,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--stryker--oasys.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--stryker--oasys/enriched/corpectomy--stryker--oasys.json",
+        "bytes": 1608
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K142741.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--stryker--oasys/fda_raw/KWP/K142741.json",
+        "bytes": 531
+      },
+      {
+        "source": "pipeline/data/fda_raw/KWP/K150753.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--stryker--oasys/fda_raw/KWP/K150753.json",
+        "bytes": 531
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--stryker--oasys.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--stryker--oasys/merged/corpectomy--stryker--oasys.json",
+        "bytes": 763
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

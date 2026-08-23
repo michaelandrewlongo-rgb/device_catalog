@@ -1,0 +1,40 @@
+{
+  "device_slug": "cervical-plate--reliance-medical-systems-llc--reliance-vbs",
+  "artifact_folder": "cervical-plate--reliance-medical-systems-llc--reliance-vbs",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3459,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--reliance-medical-systems-llc--reliance-vbs.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--reliance-medical-systems-llc--reliance-vbs/enriched/cervical-plate--reliance-medical-systems-llc--reliance-vbs.json",
+        "bytes": 1415
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K063637.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--reliance-medical-systems-llc--reliance-vbs/fda_raw/MQP/K063637.json",
+        "bytes": 605
+      },
+      {
+        "source": "pipeline/data/fda_raw/MQP/K081383.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--reliance-medical-systems-llc--reliance-vbs/fda_raw/MQP/K081383.json",
+        "bytes": 605
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--reliance-medical-systems-llc--reliance-vbs.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--reliance-medical-systems-llc--reliance-vbs/merged/cervical-plate--reliance-medical-systems-llc--reliance-vbs.json",
+        "bytes": 834
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "device_slug": "dural-substitute--synthes-usa-products-llc--synthecel-dura-repair-recalls",
+  "artifact_folder": "dural-substitute--synthes-usa-products-llc--synthecel-dura-repair-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 3858,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/dural-substitute--synthes-usa-products-llc--synthecel-dura-repair-recalls.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--synthes-usa-products-llc--synthecel-dura-repair-recalls/extracted/fda_safety/dural-substitute--synthes-usa-products-llc--synthecel-dura-repair-recalls.json",
+        "bytes": 3858
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "dural-substitute",
+    "label": "Outside listed seed registries"
+  }
+}

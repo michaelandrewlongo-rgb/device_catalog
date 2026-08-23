@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--spineology-inc--rampart-o-and-rampart-p",
+  "artifact_folder": "pedicle-screw--spineology-inc--rampart-o-and-rampart-p",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2804,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--spineology-inc--rampart-o-and-rampart-p.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spineology-inc--rampart-o-and-rampart-p/enriched/pedicle-screw--spineology-inc--rampart-o-and-rampart-p.json",
+        "bytes": 1404
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K130396.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spineology-inc--rampart-o-and-rampart-p/fda_raw/MAX/K130396.json",
+        "bytes": 577
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--spineology-inc--rampart-o-and-rampart-p.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spineology-inc--rampart-o-and-rampart-p/merged/pedicle-screw--spineology-inc--rampart-o-and-rampart-p.json",
+        "bytes": 823
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--spinal-concepts-inc--octafix-occipital-cervical-plating",
+  "artifact_folder": "corpectomy--spinal-concepts-inc--octafix-occipital-cervical-plating",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3282,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--spinal-concepts-inc--octafix-occipital-cervical-plating.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--spinal-concepts-inc--octafix-occipital-cervical-plating/enriched/corpectomy--spinal-concepts-inc--octafix-occipital-cervical-plating.json",
+        "bytes": 1793
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K021009.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--spinal-concepts-inc--octafix-occipital-cervical-plating/fda_raw/KWP/K021009.json",
+        "bytes": 615
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--spinal-concepts-inc--octafix-occipital-cervical-plating.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--spinal-concepts-inc--octafix-occipital-cervical-plating/merged/corpectomy--spinal-concepts-inc--octafix-occipital-cervical-plating.json",
+        "bytes": 874
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

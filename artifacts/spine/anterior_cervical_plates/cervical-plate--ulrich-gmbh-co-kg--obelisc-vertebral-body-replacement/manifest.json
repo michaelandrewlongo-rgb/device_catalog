@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--ulrich-gmbh-co-kg--obelisc-vertebral-body-replacement",
+  "artifact_folder": "cervical-plate--ulrich-gmbh-co-kg--obelisc-vertebral-body-replacement",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2955,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--ulrich-gmbh-co-kg--obelisc-vertebral-body-replacement.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--ulrich-gmbh-co-kg--obelisc-vertebral-body-replacement/enriched/cervical-plate--ulrich-gmbh-co-kg--obelisc-vertebral-body-replacement.json",
+        "bytes": 1459
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K060416.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--ulrich-gmbh-co-kg--obelisc-vertebral-body-replacement/fda_raw/MQP/K060416.json",
+        "bytes": 618
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--ulrich-gmbh-co-kg--obelisc-vertebral-body-replacement.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--ulrich-gmbh-co-kg--obelisc-vertebral-body-replacement/merged/cervical-plate--ulrich-gmbh-co-kg--obelisc-vertebral-body-replacement.json",
+        "bytes": 878
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

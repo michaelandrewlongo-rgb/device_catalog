@@ -1,0 +1,42 @@
+{
+  "device_slug": "pedicle-screw--gbs-commonwealth-co-ltd--peridot-ex-expandable-intervertebral-body",
+  "artifact_folder": "pedicle-screw--gbs-commonwealth-co-ltd--peridot-ex-expandable-intervertebral-body",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3922,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--gbs-commonwealth-co-ltd--peridot-ex-expandable-intervertebral-body.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--gbs-commonwealth-co-ltd--peridot-ex-expandable-intervertebral-body/enriched/pedicle-screw--gbs-commonwealth-co-ltd--peridot-ex-expandable-intervertebral-body.json",
+        "bytes": 1759
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/pedicle-screw--gbs-commonwealth-co-ltd--peridot-ex-expandable-intervertebral-body.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--gbs-commonwealth-co-ltd--peridot-ex-expandable-intervertebral-body/extracted/fda_structured/pedicle-screw--gbs-commonwealth-co-ltd--peridot-ex-expandable-intervertebral-body.json",
+        "bytes": 585
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K232292.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--gbs-commonwealth-co-ltd--peridot-ex-expandable-intervertebral-body/fda_raw/MAX/K232292.json",
+        "bytes": 655
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--gbs-commonwealth-co-ltd--peridot-ex-expandable-intervertebral-body.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--gbs-commonwealth-co-ltd--peridot-ex-expandable-intervertebral-body/merged/pedicle-screw--gbs-commonwealth-co-ltd--peridot-ex-expandable-intervertebral-body.json",
+        "bytes": 923
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

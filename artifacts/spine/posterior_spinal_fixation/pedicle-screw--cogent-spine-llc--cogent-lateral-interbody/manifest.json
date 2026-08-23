@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--cogent-spine-llc--cogent-lateral-interbody",
+  "artifact_folder": "pedicle-screw--cogent-spine-llc--cogent-lateral-interbody",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2860,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--cogent-spine-llc--cogent-lateral-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--cogent-spine-llc--cogent-lateral-interbody/enriched/pedicle-screw--cogent-spine-llc--cogent-lateral-interbody.json",
+        "bytes": 1425
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K151406.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--cogent-spine-llc--cogent-lateral-interbody/fda_raw/MAX/K151406.json",
+        "bytes": 591
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--cogent-spine-llc--cogent-lateral-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--cogent-spine-llc--cogent-lateral-interbody/merged/pedicle-screw--cogent-spine-llc--cogent-lateral-interbody.json",
+        "bytes": 844
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

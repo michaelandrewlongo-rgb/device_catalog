@@ -1,0 +1,21 @@
+{
+  "device_slug": "sacroiliac-fusion--aegis-spine--zespin-si-joint-fusion-megacerfix",
+  "artifact_folder": "sacroiliac-fusion--aegis-spine--zespin-si-joint-fusion-megacerfix",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 709,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/OUR/K210035.json",
+        "artifact": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--aegis-spine--zespin-si-joint-fusion-megacerfix/fda_raw/OUR/K210035.json",
+        "bytes": 709
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "sacroiliac-fusion",
+    "label": "Outside listed seed registries"
+  }
+}

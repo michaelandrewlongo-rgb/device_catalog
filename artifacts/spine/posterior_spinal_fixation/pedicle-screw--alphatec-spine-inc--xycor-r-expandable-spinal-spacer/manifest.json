@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--alphatec-spine-inc--xycor-r-expandable-spinal-spacer",
+  "artifact_folder": "pedicle-screw--alphatec-spine-inc--xycor-r-expandable-spinal-spacer",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3353,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--alphatec-spine-inc--xycor-r-expandable-spinal-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--alphatec-spine-inc--xycor-r-expandable-spinal-spacer/enriched/pedicle-screw--alphatec-spine-inc--xycor-r-expandable-spinal-spacer.json",
+        "bytes": 1859
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K160646.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--alphatec-spine-inc--xycor-r-expandable-spinal-spacer/fda_raw/MAX/K160646.json",
+        "bytes": 614
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--alphatec-spine-inc--xycor-r-expandable-spinal-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--alphatec-spine-inc--xycor-r-expandable-spinal-spacer/merged/pedicle-screw--alphatec-spine-inc--xycor-r-expandable-spinal-spacer.json",
+        "bytes": 880
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

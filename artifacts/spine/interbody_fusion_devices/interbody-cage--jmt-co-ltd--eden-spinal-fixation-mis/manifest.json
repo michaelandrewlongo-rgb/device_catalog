@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--jmt-co-ltd--eden-spinal-fixation-mis",
+  "artifact_folder": "interbody-cage--jmt-co-ltd--eden-spinal-fixation-mis",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2826,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--jmt-co-ltd--eden-spinal-fixation-mis.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--jmt-co-ltd--eden-spinal-fixation-mis/enriched/interbody-cage--jmt-co-ltd--eden-spinal-fixation-mis.json",
+        "bytes": 1415
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K230762.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--jmt-co-ltd--eden-spinal-fixation-mis/fda_raw/NKB/K230762.json",
+        "bytes": 577
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--jmt-co-ltd--eden-spinal-fixation-mis.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--jmt-co-ltd--eden-spinal-fixation-mis/merged/interbody-cage--jmt-co-ltd--eden-spinal-fixation-mis.json",
+        "bytes": 834
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

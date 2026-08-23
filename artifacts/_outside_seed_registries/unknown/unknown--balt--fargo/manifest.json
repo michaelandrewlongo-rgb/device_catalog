@@ -1,0 +1,35 @@
+{
+  "device_slug": "unknown--balt--fargo",
+  "artifact_folder": "unknown--balt--fargo",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 4465,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/unknown--balt--fargo.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--balt--fargo/enriched/unknown--balt--fargo.json",
+        "bytes": 1967
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/unknown--balt--fargo.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--balt--fargo/merged/unknown--balt--fargo.json",
+        "bytes": 1385
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/balt/fargo.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--balt--fargo/scraper_raw/balt/fargo.json",
+        "bytes": 1113
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "unknown",
+    "label": "Outside listed seed registries"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "device_name": "Mega Plus MIS Spine System",
+  "manufacturer": "bk-meditech-co-ltd",
+  "catalog_category": "interbody-cage",
+  "filename_stem": "interbody-cage--bk-meditech-co-ltd--mega-plus-mis-spine",
+  "clearance_type": "510k",
+  "clearance_number": "K200981",
+  "clearance_date": "2020-08-11",
+  "device_class": 2,
+  "device_name_fda": "Mega Plus MIS Spine System",
+  "product_code": "NKB",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K200981.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "device_slug": "csf-shunt--irras-usa-inc--irraflow-active-fluid-exchange-afes",
+  "artifact_folder": "csf-shunt--irras-usa-inc--irraflow-active-fluid-exchange-afes",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 1148542,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/csf-shunt/parsed/fda_summaries/csf-shunt--irras-usa-inc--irraflow-active-fluid-exchange-afes--510k.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--irras-usa-inc--irraflow-active-fluid-exchange-afes/510k/csf-shunt/parsed/fda_summaries/csf-shunt--irras-usa-inc--irraflow-active-fluid-exchange-afes--510k.json",
+        "bytes": 31471
+      },
+      {
+        "source": "pipeline/data/510k/csf-shunt/pdfs/csf-shunt--irras-usa-inc--irraflow-active-fluid-exchange-afes--510k.pdf",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--irras-usa-inc--irraflow-active-fluid-exchange-afes/510k/csf-shunt/pdfs/csf-shunt--irras-usa-inc--irraflow-active-fluid-exchange-afes--510k.pdf",
+        "bytes": 1109269
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--irras-usa-inc--irraflow-active-fluid-exchange-afes.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--irras-usa-inc--irraflow-active-fluid-exchange-afes/enriched/csf-shunt--irras-usa-inc--irraflow-active-fluid-exchange-afes.json",
+        "bytes": 6337
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K231664.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--irras-usa-inc--irraflow-active-fluid-exchange-afes/fda_raw/JXG/K231664.json",
+        "bytes": 598
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--irras-usa-inc--irraflow-active-fluid-exchange-afes.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--irras-usa-inc--irraflow-active-fluid-exchange-afes/merged/csf-shunt--irras-usa-inc--irraflow-active-fluid-exchange-afes.json",
+        "bytes": 867
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

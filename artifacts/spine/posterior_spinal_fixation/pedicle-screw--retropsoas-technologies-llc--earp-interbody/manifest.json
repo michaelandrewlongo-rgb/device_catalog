@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--retropsoas-technologies-llc--earp-interbody",
+  "artifact_folder": "pedicle-screw--retropsoas-technologies-llc--earp-interbody",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2857,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--retropsoas-technologies-llc--earp-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--retropsoas-technologies-llc--earp-interbody/enriched/pedicle-screw--retropsoas-technologies-llc--earp-interbody.json",
+        "bytes": 1417
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K242457.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--retropsoas-technologies-llc--earp-interbody/fda_raw/MAX/K242457.json",
+        "bytes": 604
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--retropsoas-technologies-llc--earp-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--retropsoas-technologies-llc--earp-interbody/merged/pedicle-screw--retropsoas-technologies-llc--earp-interbody.json",
+        "bytes": 836
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

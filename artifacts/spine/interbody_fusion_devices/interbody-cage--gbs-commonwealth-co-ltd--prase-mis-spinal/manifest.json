@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--gbs-commonwealth-co-ltd--prase-mis-spinal",
+  "artifact_folder": "interbody-cage--gbs-commonwealth-co-ltd--prase-mis-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2853,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--gbs-commonwealth-co-ltd--prase-mis-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--gbs-commonwealth-co-ltd--prase-mis-spinal/enriched/interbody-cage--gbs-commonwealth-co-ltd--prase-mis-spinal.json",
+        "bytes": 1417
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K182059.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--gbs-commonwealth-co-ltd--prase-mis-spinal/fda_raw/NKB/K182059.json",
+        "bytes": 600
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--gbs-commonwealth-co-ltd--prase-mis-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--gbs-commonwealth-co-ltd--prase-mis-spinal/merged/interbody-cage--gbs-commonwealth-co-ltd--prase-mis-spinal.json",
+        "bytes": 836
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

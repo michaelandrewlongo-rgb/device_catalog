@@ -1,0 +1,34 @@
+{
+  "source": "nspr",
+  "nspr_url": "https://neurospineproductreview.com/cascadia-an-3d-printed-titanium-plif-spacer",
+  "device_name": "Cascadia AN 3D Printed Titanium PLIF Spacer",
+  "manufacturer": "Stryker-K2M",
+  "specs": {
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Interbody Device",
+    "Cage Type": "Interbody Cage/Lumbar",
+    "Expansion": "Static",
+    "Cage Approach": "Posterior/Straight (PLIF) Cage",
+    "Configuration": "Cage Alone",
+    "By Material": "3D Printed Titanium",
+    "By Location/Approach": "Posterior Lumbar",
+    "By Procedure Type": "PLIF",
+    "By System Type": "Degenerative"
+  },
+  "description": "The Cascadia AN 3D is in the cascadia family of 3D printed products initially produced under K2M then purchased by Stryker. The cages are intended to be used unilaterally or bilaterally in the PLIF procedure.",
+  "features": [
+    "3D printed titanium",
+    "Bullet tapered nose for easier insertion",
+    "Large central graft volume",
+    "Curved to match vertebral endplate",
+    "Footprint options:",
+    "8.5x24mm",
+    "8.5x28mm",
+    "Lordosis options",
+    "6, 12, 18 degree",
+    "Height options: (posterior height)",
+    "4-12mm"
+  ],
+  "pdfs": [],
+  "mfr_link": ""
+}

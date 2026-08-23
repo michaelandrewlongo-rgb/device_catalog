@@ -1,0 +1,30 @@
+{
+  "category": "intrasaccular",
+  "source_url": "https://evtoday.com/device-guide/us/intrasaccular-flow-disruptor-1",
+  "headers": [
+    "Compare",
+    "Company Name",
+    "Product Name",
+    "Materials Used",
+    "Device Diameter (mm)",
+    "Device Height (mm)"
+  ],
+  "devices": [
+    {
+      "Compare": "",
+      "Company Name": "Terumo Neuro",
+      "Product Name": "WEB Aneurysm Embolization System—Single Layer",
+      "Materials Used": "Nitinol-platinum",
+      "Device Diameter (mm)": "4–11",
+      "Device Height (mm)": "3–9"
+    },
+    {
+      "Compare": "",
+      "Company Name": "Terumo Neuro",
+      "Product Name": "WEB Aneurysm Embolization System—Single Layer Sphere",
+      "Materials Used": "Nitinol-platinum",
+      "Device Diameter (mm)": "4–11",
+      "Device Height (mm)": "2.6–9.6"
+    }
+  ]
+}

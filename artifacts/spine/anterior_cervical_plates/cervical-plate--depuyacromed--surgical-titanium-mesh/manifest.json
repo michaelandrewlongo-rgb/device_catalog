@@ -1,0 +1,40 @@
+{
+  "device_slug": "cervical-plate--depuyacromed--surgical-titanium-mesh",
+  "artifact_folder": "cervical-plate--depuyacromed--surgical-titanium-mesh",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3397,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--depuyacromed--surgical-titanium-mesh.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuyacromed--surgical-titanium-mesh/enriched/cervical-plate--depuyacromed--surgical-titanium-mesh.json",
+        "bytes": 1413
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K003043.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuyacromed--surgical-titanium-mesh/fda_raw/MQP/K003043.json",
+        "bytes": 576
+      },
+      {
+        "source": "pipeline/data/fda_raw/MQP/K030249.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuyacromed--surgical-titanium-mesh/fda_raw/MQP/K030249.json",
+        "bytes": 576
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--depuyacromed--surgical-titanium-mesh.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuyacromed--surgical-titanium-mesh/merged/cervical-plate--depuyacromed--surgical-titanium-mesh.json",
+        "bytes": 832
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

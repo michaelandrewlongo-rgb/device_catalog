@@ -1,0 +1,42 @@
+{
+  "device_slug": "pedicle-screw--stryker--serrato-pedicle-screw-system",
+  "artifact_folder": "pedicle-screw--stryker--serrato-pedicle-screw-system",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 7373,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/pedicle-screw--stryker--serrato-pedicle-screw-system--knowledge.md",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--serrato-pedicle-screw-system/data_by_device/pedicle-screw--stryker--serrato-pedicle-screw-system--knowledge.md",
+        "bytes": 2389
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--stryker--serrato-pedicle-screw-system.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--serrato-pedicle-screw-system/enriched/pedicle-screw--stryker--serrato-pedicle-screw-system.json",
+        "bytes": 2186
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--stryker--serrato-pedicle-screw-system.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--serrato-pedicle-screw-system/merged/pedicle-screw--stryker--serrato-pedicle-screw-system.json",
+        "bytes": 1575
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/stryker/serrato-pedicle-screw-system.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--serrato-pedicle-screw-system/scraper_raw/stryker/serrato-pedicle-screw-system.json",
+        "bytes": 1223
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

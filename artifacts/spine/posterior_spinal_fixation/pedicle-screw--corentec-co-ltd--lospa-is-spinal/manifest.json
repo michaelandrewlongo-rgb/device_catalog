@@ -1,0 +1,42 @@
+{
+  "device_slug": "pedicle-screw--corentec-co-ltd--lospa-is-spinal",
+  "artifact_folder": "pedicle-screw--corentec-co-ltd--lospa-is-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3678,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--corentec-co-ltd--lospa-is-spinal.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--corentec-co-ltd--lospa-is-spinal/enriched/pedicle-screw--corentec-co-ltd--lospa-is-spinal.json",
+        "bytes": 1673
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/pedicle-screw--corentec-co-ltd--lospa-is-spinal.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--corentec-co-ltd--lospa-is-spinal/extracted/fda_structured/pedicle-screw--corentec-co-ltd--lospa-is-spinal.json",
+        "bytes": 618
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K151408.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--corentec-co-ltd--lospa-is-spinal/fda_raw/MAX/K151408.json",
+        "bytes": 572
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--corentec-co-ltd--lospa-is-spinal.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--corentec-co-ltd--lospa-is-spinal/merged/pedicle-screw--corentec-co-ltd--lospa-is-spinal.json",
+        "bytes": 815
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

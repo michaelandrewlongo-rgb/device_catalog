@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K080537",
+  "clearance_date": "2008-06-30",
+  "device_class": 2,
+  "manufacturer_canonical": "kiscomedica-s-a",
+  "manufacturer_raw": "Kiscomedica S.A.",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "L-VARLOCK",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--kiscomedica-s-a--l-varlock",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf08/K080537.pdf"
+}

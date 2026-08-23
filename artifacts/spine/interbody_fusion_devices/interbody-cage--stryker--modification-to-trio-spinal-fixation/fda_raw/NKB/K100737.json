@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K100737",
+  "clearance_date": "2010-04-12",
+  "device_class": 2,
+  "manufacturer_canonical": "stryker",
+  "manufacturer_raw": "Stryker Spine",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "MODIFICATION TO: TRIO+SPINAL FIXATION SYSTEM",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--stryker--modification-to-trio-spinal-fixation",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf10/K100737.pdf"
+}

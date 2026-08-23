@@ -1,0 +1,42 @@
+{
+  "device_slug": "pedicle-screw--stryker--tritanium-r-tl-curved-posterior",
+  "artifact_folder": "pedicle-screw--stryker--tritanium-r-tl-curved-posterior",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 7593,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/pedicle-screw--stryker--tritanium-r-tl-curved-posterior--knowledge.md",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--tritanium-r-tl-curved-posterior/data_by_device/pedicle-screw--stryker--tritanium-r-tl-curved-posterior--knowledge.md",
+        "bytes": 2676
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--stryker--tritanium-r-tl-curved-posterior.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--tritanium-r-tl-curved-posterior/enriched/pedicle-screw--stryker--tritanium-r-tl-curved-posterior.json",
+        "bytes": 2471
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K173476.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--tritanium-r-tl-curved-posterior/fda_raw/MAX/K173476.json",
+        "bytes": 582
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--stryker--tritanium-r-tl-curved-posterior.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--tritanium-r-tl-curved-posterior/merged/pedicle-screw--stryker--tritanium-r-tl-curved-posterior.json",
+        "bytes": 1864
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

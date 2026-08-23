@@ -1,0 +1,2748 @@
+{
+  "domain": "spine",
+  "registry": "anterior_cervical_plates",
+  "label": "ACDF Plates",
+  "path": "artifacts/spine/anterior_cervical_plates",
+  "devices": [
+    {
+      "slug": "cervical-plate--aesculap-implant-system-inc--aesculap-hydrolift-vbr",
+      "artifact_folder": "cervical-plate--aesculap-implant-system-inc--aesculap-hydrolift-vbr",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--aesculap-implant-system-inc--aesculap-hydrolift-vbr",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--aesculap-implant-system-inc--ais-modulift-vbr",
+      "artifact_folder": "cervical-plate--aesculap-implant-system-inc--ais-modulift-vbr",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--aesculap-implant-system-inc--ais-modulift-vbr",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--aesculap-implant-systems-llc--biospine-vbr",
+      "artifact_folder": "cervical-plate--aesculap-implant-systems-llc--biospine-vbr",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--aesculap-implant-systems-llc--biospine-vbr",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--aesculap-inc--aesculap-peek-vertebral-body-replacement",
+      "artifact_folder": "cervical-plate--aesculap-inc--aesculap-peek-vertebral-body-replacement",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--aesculap-inc--aesculap-peek-vertebral-body-replacement",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--alphatec-nexmed--novel-vbr-spinal",
+      "artifact_folder": "cervical-plate--alphatec-nexmed--novel-vbr-spinal",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--alphatec-nexmed--novel-vbr-spinal",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--alphatec-spine-inc--ascend-vbr-ascend-nanotec-vbr",
+      "artifact_folder": "cervical-plate--alphatec-spine-inc--ascend-vbr-ascend-nanotec-vbr",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--alphatec-spine-inc--ascend-vbr-ascend-nanotec-vbr",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--alphatec-spine-inc--ascend-vbr-ascend-nanotec-vbr-recalls",
+      "artifact_folder": "cervical-plate--alphatec-spine-inc--ascend-vbr-ascend-nanotec-vbr-recalls",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--alphatec-spine-inc--ascend-vbr-ascend-nanotec-vbr-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--alphatec-spine-inc--novel-spinal-spacer",
+      "artifact_folder": "cervical-plate--alphatec-spine-inc--novel-spinal-spacer",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--alphatec-spine-inc--novel-spinal-spacer",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--alphatec-spine-inc--novel-spinal-spacer-recalls",
+      "artifact_folder": "cervical-plate--alphatec-spine-inc--novel-spinal-spacer-recalls",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--alphatec-spine-inc--novel-spinal-spacer-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--amedica-corp--arx-spinal",
+      "artifact_folder": "cervical-plate--amedica-corp--arx-spinal",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--amedica-corp--arx-spinal",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--amedica-corp--modification-to-valeo-vbr",
+      "artifact_folder": "cervical-plate--amedica-corp--modification-to-valeo-vbr",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--amedica-corp--modification-to-valeo-vbr",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--amedica-corp--valeo-vbr",
+      "artifact_folder": "cervical-plate--amedica-corp--valeo-vbr",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--amedica-corp--valeo-vbr",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--amendia-inc--rectangular-corpectomy-cage",
+      "artifact_folder": "cervical-plate--amendia-inc--rectangular-corpectomy-cage",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--amendia-inc--rectangular-corpectomy-cage",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--arftx-medical-llc--artfx-corpectomy-cages-espinax-and",
+      "artifact_folder": "cervical-plate--arftx-medical-llc--artfx-corpectomy-cages-espinax-and",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--arftx-medical-llc--artfx-corpectomy-cages-espinax-and",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--astura-medical--dominion-expandable-corpectomy",
+      "artifact_folder": "cervical-plate--astura-medical--dominion-expandable-corpectomy",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--astura-medical--dominion-expandable-corpectomy",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--atlas-spine-inc--atlas-spine-vertebral-body-replacement",
+      "artifact_folder": "cervical-plate--atlas-spine-inc--atlas-spine-vertebral-body-replacement",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--atlas-spine-inc--atlas-spine-vertebral-body-replacement",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--atlas-spine-inc--atlas-spine-vertebral-body-replacement-recalls",
+      "artifact_folder": "cervical-plate--atlas-spine-inc--atlas-spine-vertebral-body-replacement-recalls",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--atlas-spine-inc--atlas-spine-vertebral-body-replacement-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--atlas-spine-llc--atlas-spine-spacer",
+      "artifact_folder": "cervical-plate--atlas-spine-llc--atlas-spine-spacer",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--atlas-spine-llc--atlas-spine-spacer",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--atlas-spine-llc--atlas-spine-vertebral-body-replacement",
+      "artifact_folder": "cervical-plate--atlas-spine-llc--atlas-spine-vertebral-body-replacement",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--atlas-spine-llc--atlas-spine-vertebral-body-replacement",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--blackstone-medical-inc--blackstone-peek-vertebral-body-replacement",
+      "artifact_folder": "cervical-plate--blackstone-medical-inc--blackstone-peek-vertebral-body-replacement",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--blackstone-medical-inc--blackstone-peek-vertebral-body-replacement",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--blackstone-medical-inc--blackstone-surgical-titanium-mesh",
+      "artifact_folder": "cervical-plate--blackstone-medical-inc--blackstone-surgical-titanium-mesh",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--blackstone-medical-inc--blackstone-surgical-titanium-mesh",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--blackstone-medical-inc--blackstone-surgical-titanium-mesh-angled",
+      "artifact_folder": "cervical-plate--blackstone-medical-inc--blackstone-surgical-titanium-mesh-angled",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--blackstone-medical-inc--blackstone-surgical-titanium-mesh-angled",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--blackstone-medical-inc--construx-mini-peek-vbr",
+      "artifact_folder": "cervical-plate--blackstone-medical-inc--construx-mini-peek-vbr",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--blackstone-medical-inc--construx-mini-peek-vbr",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--blackstone-medical-inc--construx-pl-tl-peek-partial",
+      "artifact_folder": "cervical-plate--blackstone-medical-inc--construx-pl-tl-peek-partial",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--blackstone-medical-inc--construx-pl-tl-peek-partial",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--blustone-synergy--blustone-synergy-silica",
+      "artifact_folder": "cervical-plate--blustone-synergy--blustone-synergy-silica",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--blustone-synergy--blustone-synergy-silica",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--camber-spine--verta-corpectomy-cage",
+      "artifact_folder": "cervical-plate--camber-spine--verta-corpectomy-cage",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--camber-spine--verta-corpectomy-cage",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--camber-spine-technologies--camber-spine-technologies-spira-v",
+      "artifact_folder": "cervical-plate--camber-spine-technologies--camber-spine-technologies-spira-v",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--camber-spine-technologies--camber-spine-technologies-spira-v",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--carbofix-orthopedics-ltd--carboclear-vbr",
+      "artifact_folder": "cervical-plate--carbofix-orthopedics-ltd--carboclear-vbr",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--carbofix-orthopedics-ltd--carboclear-vbr",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--cardinal-spine-llc--stgc",
+      "artifact_folder": "cervical-plate--cardinal-spine-llc--stgc",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--cardinal-spine-llc--stgc",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--cardinal-spine-llc--stgc-lordotic",
+      "artifact_folder": "cervical-plate--cardinal-spine-llc--stgc-lordotic",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--cardinal-spine-llc--stgc-lordotic",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--choicespine--choice-spine-hawkeye-vertebral-body",
+      "artifact_folder": "cervical-plate--choicespine--choice-spine-hawkeye-vertebral-body",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--choicespine--choice-spine-hawkeye-vertebral-body",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--choicespine--choice-spine-vertebral-body-replacement",
+      "artifact_folder": "cervical-plate--choicespine--choice-spine-vertebral-body-replacement",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--choicespine--choice-spine-vertebral-body-replacement",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--cmf-medicon-surgical-inc--mediexpand-tl-expandable-vbr",
+      "artifact_folder": "cervical-plate--cmf-medicon-surgical-inc--mediexpand-tl-expandable-vbr",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--cmf-medicon-surgical-inc--mediexpand-tl-expandable-vbr",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--co-ligne-ag--ostapek-vbr",
+      "artifact_folder": "cervical-plate--co-ligne-ag--ostapek-vbr",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--co-ligne-ag--ostapek-vbr",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--corelink-llc--f3d-corpectomy",
+      "artifact_folder": "cervical-plate--corelink-llc--f3d-corpectomy",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--corelink-llc--f3d-corpectomy",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--creaspine--creaspine-supstance-small-vertebral-body",
+      "artifact_folder": "cervical-plate--creaspine--creaspine-supstance-small-vertebral-body",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--creaspine--creaspine-supstance-small-vertebral-body",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--creaspine--creaspine-supstance-vertebral-body-replacement",
+      "artifact_folder": "cervical-plate--creaspine--creaspine-supstance-vertebral-body-replacement",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--creaspine--creaspine-supstance-vertebral-body-replacement",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--creaspine-sas--creaspine-supstance-vertebral-body-replacement",
+      "artifact_folder": "cervical-plate--creaspine-sas--creaspine-supstance-vertebral-body-replacement",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--creaspine-sas--creaspine-supstance-vertebral-body-replacement",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--depuy--bengal-stackable-cage",
+      "artifact_folder": "cervical-plate--depuy--bengal-stackable-cage",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuy--bengal-stackable-cage",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--depuy--concorde-vbr-spinal",
+      "artifact_folder": "cervical-plate--depuy--concorde-vbr-spinal",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuy--concorde-vbr-spinal",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--depuy--modification-to-vbr-spinal",
+      "artifact_folder": "cervical-plate--depuy--modification-to-vbr-spinal",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuy--modification-to-vbr-spinal",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--depuy--synmesh",
+      "artifact_folder": "cervical-plate--depuy--synmesh",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuy--synmesh",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--depuy--synthes-contoured-synmesh-spacer",
+      "artifact_folder": "cervical-plate--depuy--synthes-contoured-synmesh-spacer",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuy--synthes-contoured-synmesh-spacer",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--depuy--synthes-synex-spacer",
+      "artifact_folder": "cervical-plate--depuy--synthes-synex-spacer",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuy--synthes-synex-spacer",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--depuy--synthes-synmesh-spacer",
+      "artifact_folder": "cervical-plate--depuy--synthes-synmesh-spacer",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuy--synthes-synmesh-spacer",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--depuy--synthes-vertebral-spacer-ti",
+      "artifact_folder": "cervical-plate--depuy--synthes-vertebral-spacer-ti",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuy--synthes-vertebral-spacer-ti",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--depuy--synthes-vertebral-spacer-ti-curved",
+      "artifact_folder": "cervical-plate--depuy--synthes-vertebral-spacer-ti-curved",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuy--synthes-vertebral-spacer-ti-curved",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--depuy--vectra",
+      "artifact_folder": "cervical-plate--depuy--vectra",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuy--vectra",
+      "file_count": 3,
+      "source_counts": {
+        "data_by_device": 2,
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--depuy--vertebral-spacer",
+      "artifact_folder": "cervical-plate--depuy--vertebral-spacer",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuy--vertebral-spacer",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--depuy--x-mesh-expandable-cage",
+      "artifact_folder": "cervical-plate--depuy--x-mesh-expandable-cage",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuy--x-mesh-expandable-cage",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--depuy-motech-acromed--stackable-cage",
+      "artifact_folder": "cervical-plate--depuy-motech-acromed--stackable-cage",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuy-motech-acromed--stackable-cage",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--depuyacromed--depuy-acromed-vbr",
+      "artifact_folder": "cervical-plate--depuyacromed--depuy-acromed-vbr",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuyacromed--depuy-acromed-vbr",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--depuyacromed--devex-mesh",
+      "artifact_folder": "cervical-plate--depuyacromed--devex-mesh",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuyacromed--devex-mesh",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--depuyacromed--modification-to-stackable-cage",
+      "artifact_folder": "cervical-plate--depuyacromed--modification-to-stackable-cage",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuyacromed--modification-to-stackable-cage",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--depuyacromed--modification-to-surgical-titanium-mesh",
+      "artifact_folder": "cervical-plate--depuyacromed--modification-to-surgical-titanium-mesh",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuyacromed--modification-to-surgical-titanium-mesh",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--depuyacromed--stackable-cage",
+      "artifact_folder": "cervical-plate--depuyacromed--stackable-cage",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuyacromed--stackable-cage",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--depuyacromed--surgical-titanium-mesh",
+      "artifact_folder": "cervical-plate--depuyacromed--surgical-titanium-mesh",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuyacromed--surgical-titanium-mesh",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--ebi-l-p--c-thru-spinal",
+      "artifact_folder": "cervical-plate--ebi-l-p--c-thru-spinal",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--ebi-l-p--c-thru-spinal",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--ebi-l-p--ebi-ais-spine",
+      "artifact_folder": "cervical-plate--ebi-l-p--ebi-ais-spine",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--ebi-l-p--ebi-ais-spine",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--ebi-l-p--ebi-cas-spine-spacer",
+      "artifact_folder": "cervical-plate--ebi-l-p--ebi-cas-spine-spacer",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--ebi-l-p--ebi-cas-spine-spacer",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--ebi-l-p--ebi-esl-peek-optima-spine",
+      "artifact_folder": "cervical-plate--ebi-l-p--ebi-esl-peek-optima-spine",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--ebi-l-p--ebi-esl-peek-optima-spine",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--ebi-l-p--ebi-esl-spine-spacer",
+      "artifact_folder": "cervical-plate--ebi-l-p--ebi-esl-spine-spacer",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--ebi-l-p--ebi-esl-spine-spacer",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--ebi-l-p--solitaire-anterior-spinal",
+      "artifact_folder": "cervical-plate--ebi-l-p--solitaire-anterior-spinal",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--ebi-l-p--solitaire-anterior-spinal",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--eden-spine-llc--giza-r-vertebral-body-replacement",
+      "artifact_folder": "cervical-plate--eden-spine-llc--giza-r-vertebral-body-replacement",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--eden-spine-llc--giza-r-vertebral-body-replacement",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--encore-medical-l-p--titanium-mesh",
+      "artifact_folder": "cervical-plate--encore-medical-l-p--titanium-mesh",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--encore-medical-l-p--titanium-mesh",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--flexuspine-inc--expanse-vertebral-body-replacement",
+      "artifact_folder": "cervical-plate--flexuspine-inc--expanse-vertebral-body-replacement",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--flexuspine-inc--expanse-vertebral-body-replacement",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--foundation-surgical-group-inc--vertiwedge-r-intraosseous",
+      "artifact_folder": "cervical-plate--foundation-surgical-group-inc--vertiwedge-r-intraosseous",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--foundation-surgical-group-inc--vertiwedge-r-intraosseous",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--globus--acp-anterior-cervical-plate-system",
+      "artifact_folder": "cervical-plate--globus--acp-anterior-cervical-plate-system",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--globus--acp-anterior-cervical-plate-system",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--globus--colosseum-mesh",
+      "artifact_folder": "cervical-plate--globus--colosseum-mesh",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--globus--colosseum-mesh",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--globus--fortify-corpectomy-spacers",
+      "artifact_folder": "cervical-plate--globus--fortify-corpectomy-spacers",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--globus--fortify-corpectomy-spacers",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--globus--fortify-integrated-corpectomy-spacers-fortify",
+      "artifact_folder": "cervical-plate--globus--fortify-integrated-corpectomy-spacers-fortify",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--globus--fortify-integrated-corpectomy-spacers-fortify",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--globus--fortify-tm-and-fortify-tm",
+      "artifact_folder": "cervical-plate--globus--fortify-tm-and-fortify-tm",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--globus--fortify-tm-and-fortify-tm",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--globus--niko-corpectomy-spacer",
+      "artifact_folder": "cervical-plate--globus--niko-corpectomy-spacer",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--globus--niko-corpectomy-spacer",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--globus--resonate-anterior-cervical-plate",
+      "artifact_folder": "cervical-plate--globus--resonate-anterior-cervical-plate",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--globus--resonate-anterior-cervical-plate",
+      "file_count": 4,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--globus--retain-radiolucent-spacer",
+      "artifact_folder": "cervical-plate--globus--retain-radiolucent-spacer",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--globus--retain-radiolucent-spacer",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--globus--sustain-radiolucent-spacer",
+      "artifact_folder": "cervical-plate--globus--sustain-radiolucent-spacer",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--globus--sustain-radiolucent-spacer",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--globus--sustain-spacer",
+      "artifact_folder": "cervical-plate--globus--sustain-spacer",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--globus--sustain-spacer",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--globus--xpand-corpectomy-spacer",
+      "artifact_folder": "cervical-plate--globus--xpand-corpectomy-spacer",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--globus--xpand-corpectomy-spacer",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--globus--xpand-radiolucent-corpectomy-spacer",
+      "artifact_folder": "cervical-plate--globus--xpand-radiolucent-corpectomy-spacer",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--globus--xpand-radiolucent-corpectomy-spacer",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--gold-standard-orthopedics-llc--gso-gs1-spacer",
+      "artifact_folder": "cervical-plate--gold-standard-orthopedics-llc--gso-gs1-spacer",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--gold-standard-orthopedics-llc--gso-gs1-spacer",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--howmedica-osteonics-corp--stryker-spine-vertebral-body-support",
+      "artifact_folder": "cervical-plate--howmedica-osteonics-corp--stryker-spine-vertebral-body-support",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--howmedica-osteonics-corp--stryker-spine-vertebral-body-support",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--icotec-ag--kong-r-tl-vbr-and",
+      "artifact_folder": "cervical-plate--icotec-ag--kong-r-tl-vbr-and",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--icotec-ag--kong-r-tl-vbr-and",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--icotec-ag--kong-tl-vbr-kong-c",
+      "artifact_folder": "cervical-plate--icotec-ag--kong-tl-vbr-kong-c",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--icotec-ag--kong-tl-vbr-kong-c",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--implex-corp--hedrocel-vertebral-body-replacement",
+      "artifact_folder": "cervical-plate--implex-corp--hedrocel-vertebral-body-replacement",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--implex-corp--hedrocel-vertebral-body-replacement",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--implex-corp--hedrocel-vertebral-body-replacement-model",
+      "artifact_folder": "cervical-plate--implex-corp--hedrocel-vertebral-body-replacement-model",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--implex-corp--hedrocel-vertebral-body-replacement-model",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--implex-corp--hedrocel-vertebral-body-replacement-models",
+      "artifact_folder": "cervical-plate--implex-corp--hedrocel-vertebral-body-replacement-models",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--implex-corp--hedrocel-vertebral-body-replacement-models",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--implex-corp--hydrocel-vertebral-body-replacement-model",
+      "artifact_folder": "cervical-plate--implex-corp--hydrocel-vertebral-body-replacement-model",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--implex-corp--hydrocel-vertebral-body-replacement-model",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--implex-corp--modification-to-hedrocel-vertebral-body",
+      "artifact_folder": "cervical-plate--implex-corp--modification-to-hedrocel-vertebral-body",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--implex-corp--modification-to-hedrocel-vertebral-body",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--implex-corp--trabecular-metal-vertebral-body-replacement",
+      "artifact_folder": "cervical-plate--implex-corp--trabecular-metal-vertebral-body-replacement",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--implex-corp--trabecular-metal-vertebral-body-replacement",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--innovasis-inc--box-peek-vbr",
+      "artifact_folder": "cervical-plate--innovasis-inc--box-peek-vbr",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--innovasis-inc--box-peek-vbr",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--innovative-spinal-technologies-inc--paramount-vbr",
+      "artifact_folder": "cervical-plate--innovative-spinal-technologies-inc--paramount-vbr",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--innovative-spinal-technologies-inc--paramount-vbr",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--innvotec-surgical-inc--sec-vbr",
+      "artifact_folder": "cervical-plate--innvotec-surgical-inc--sec-vbr",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--innvotec-surgical-inc--sec-vbr",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--interpore-cross-intl--expandable-peek-vbr-implant",
+      "artifact_folder": "cervical-plate--interpore-cross-intl--expandable-peek-vbr-implant",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--interpore-cross-intl--expandable-peek-vbr-implant",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--interpore-cross-intl--geo-structure",
+      "artifact_folder": "cervical-plate--interpore-cross-intl--geo-structure",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--interpore-cross-intl--geo-structure",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--interpore-cross-intl--interpore-cross-international-anterior-fixation",
+      "artifact_folder": "cervical-plate--interpore-cross-intl--interpore-cross-international-anterior-fixation",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--interpore-cross-intl--interpore-cross-international-anterior-fixation",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--interpore-cross-intl--modification-to-geo-structure",
+      "artifact_folder": "cervical-plate--interpore-cross-intl--modification-to-geo-structure",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--interpore-cross-intl--modification-to-geo-structure",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--interpore-cross-intl--modification-to-telescopic-plate-spacer",
+      "artifact_folder": "cervical-plate--interpore-cross-intl--modification-to-telescopic-plate-spacer",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--interpore-cross-intl--modification-to-telescopic-plate-spacer",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--interpore-cross-intl--peek-cas",
+      "artifact_folder": "cervical-plate--interpore-cross-intl--peek-cas",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--interpore-cross-intl--peek-cas",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--interpore-cross-intl--telescopic-plate-spacer-thoracolumbar-tps",
+      "artifact_folder": "cervical-plate--interpore-cross-intl--telescopic-plate-spacer-thoracolumbar-tps",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--interpore-cross-intl--telescopic-plate-spacer-thoracolumbar-tps",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--interpore-cross-intl--titanium-mesh-implant",
+      "artifact_folder": "cervical-plate--interpore-cross-intl--titanium-mesh-implant",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--interpore-cross-intl--titanium-mesh-implant",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--ionics-medical-corp--ionics-levante-intervertebral-pillar-expandable",
+      "artifact_folder": "cervical-plate--ionics-medical-corp--ionics-levante-intervertebral-pillar-expandable",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--ionics-medical-corp--ionics-levante-intervertebral-pillar-expandable",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--konigsee-implantate-gmbh--sfc-vertebral-body-replacement",
+      "artifact_folder": "cervical-plate--konigsee-implantate-gmbh--sfc-vertebral-body-replacement",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--konigsee-implantate-gmbh--sfc-vertebral-body-replacement",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--lanx-llc--lanx-vbr",
+      "artifact_folder": "cervical-plate--lanx-llc--lanx-vbr",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--lanx-llc--lanx-vbr",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--lucero-medical-llc--enduramesh",
+      "artifact_folder": "cervical-plate--lucero-medical-llc--enduramesh",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--lucero-medical-llc--enduramesh",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--lucero-medical-llc--enduramesh-model-762-xxx",
+      "artifact_folder": "cervical-plate--lucero-medical-llc--enduramesh-model-762-xxx",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--lucero-medical-llc--enduramesh-model-762-xxx",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--lucero-medical-llc--enduramesh-model-762-xxx-recalls",
+      "artifact_folder": "cervical-plate--lucero-medical-llc--enduramesh-model-762-xxx-recalls",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--lucero-medical-llc--enduramesh-model-762-xxx-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--lucero-medical-llc--enduramesh-recalls",
+      "artifact_folder": "cervical-plate--lucero-medical-llc--enduramesh-recalls",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--lucero-medical-llc--enduramesh-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--medos-international-sarl--x-mesh-r-expandable-cage",
+      "artifact_folder": "cervical-plate--medos-international-sarl--x-mesh-r-expandable-cage",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--medos-international-sarl--x-mesh-r-expandable-cage",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--medtronic--atlantis-vision-elite",
+      "artifact_folder": "cervical-plate--medtronic--atlantis-vision-elite",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--atlantis-vision-elite",
+      "file_count": 3,
+      "source_counts": {
+        "data_by_device": 2,
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--medtronic--basis-vertebral-body-spacer",
+      "artifact_folder": "cervical-plate--medtronic--basis-vertebral-body-spacer",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--basis-vertebral-body-spacer",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--medtronic--hourglass-vertebral-body-spacer",
+      "artifact_folder": "cervical-plate--medtronic--hourglass-vertebral-body-spacer",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--hourglass-vertebral-body-spacer",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--medtronic--lift-vb-spinal",
+      "artifact_folder": "cervical-plate--medtronic--lift-vb-spinal",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--lift-vb-spinal",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--medtronic--modification-to-verte-stack",
+      "artifact_folder": "cervical-plate--medtronic--modification-to-verte-stack",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--modification-to-verte-stack",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--medtronic--modification-to-verte-stack-spinal",
+      "artifact_folder": "cervical-plate--medtronic--modification-to-verte-stack-spinal",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--modification-to-verte-stack-spinal",
+      "file_count": 13,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 11,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--medtronic--modified-verte-stack-spinal",
+      "artifact_folder": "cervical-plate--medtronic--modified-verte-stack-spinal",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--modified-verte-stack-spinal",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--medtronic--pyramesh-implant",
+      "artifact_folder": "cervical-plate--medtronic--pyramesh-implant",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--pyramesh-implant",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--medtronic--spinal-mesh",
+      "artifact_folder": "cervical-plate--medtronic--spinal-mesh",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--spinal-mesh",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--medtronic--t2-sceptor-spinal",
+      "artifact_folder": "cervical-plate--medtronic--t2-sceptor-spinal",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--t2-sceptor-spinal",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--medtronic--t2-spinal",
+      "artifact_folder": "cervical-plate--medtronic--t2-spinal",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--t2-spinal",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--medtronic--t2-stratosphere-expandable-corpectomy",
+      "artifact_folder": "cervical-plate--medtronic--t2-stratosphere-expandable-corpectomy",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--t2-stratosphere-expandable-corpectomy",
+      "file_count": 5,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 3,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--medtronic--t2-xvbr-1-5-spinal",
+      "artifact_folder": "cervical-plate--medtronic--t2-xvbr-1-5-spinal",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--t2-xvbr-1-5-spinal",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--medtronic--t2-xvbr-spinal",
+      "artifact_folder": "cervical-plate--medtronic--t2-xvbr-spinal",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--t2-xvbr-spinal",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--medtronic--t2-xvbr-spinal-t2-altitude",
+      "artifact_folder": "cervical-plate--medtronic--t2-xvbr-spinal-t2-altitude",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--t2-xvbr-spinal-t2-altitude",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--medtronic--venture-anterior-cervical-plate-system",
+      "artifact_folder": "cervical-plate--medtronic--venture-anterior-cervical-plate-system",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--venture-anterior-cervical-plate-system",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--medtronic--verte-span-spinal",
+      "artifact_folder": "cervical-plate--medtronic--verte-span-spinal",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--verte-span-spinal",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--medtronic--verte-stack-spinal",
+      "artifact_folder": "cervical-plate--medtronic--verte-stack-spinal",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--verte-stack-spinal",
+      "file_count": 11,
+      "source_counts": {
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 8,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--medtronic--verte-stack-spinal-extra-small",
+      "artifact_folder": "cervical-plate--medtronic--verte-stack-spinal-extra-small",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--verte-stack-spinal-extra-small",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--medtronic--zevo-anterior-cervical-plate-system",
+      "artifact_folder": "cervical-plate--medtronic--zevo-anterior-cervical-plate-system",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--zevo-anterior-cervical-plate-system",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--new-business-development-llc--phenix-vertebral-body-replacement",
+      "artifact_folder": "cervical-plate--new-business-development-llc--phenix-vertebral-body-replacement",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--new-business-development-llc--phenix-vertebral-body-replacement",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--nu-vasive-incorporated--lateral-vbr",
+      "artifact_folder": "cervical-plate--nu-vasive-incorporated--lateral-vbr",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--nu-vasive-incorporated--lateral-vbr",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--nu-vasive-incorporated--nuvasive-peek-corpectomy",
+      "artifact_folder": "cervical-plate--nu-vasive-incorporated--nuvasive-peek-corpectomy",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--nu-vasive-incorporated--nuvasive-peek-corpectomy",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--nu-vasive-incorporated--nuvasive-peek-corpectomy-railed",
+      "artifact_folder": "cervical-plate--nu-vasive-incorporated--nuvasive-peek-corpectomy-railed",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--nu-vasive-incorporated--nuvasive-peek-corpectomy-railed",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--nu-vasive-incorporated--nuvasive-r-monolith-corpectomy",
+      "artifact_folder": "cervical-plate--nu-vasive-incorporated--nuvasive-r-monolith-corpectomy",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--nu-vasive-incorporated--nuvasive-r-monolith-corpectomy",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--nu-vasive-incorporated--nuvasive-x-core-expandable-vbr",
+      "artifact_folder": "cervical-plate--nu-vasive-incorporated--nuvasive-x-core-expandable-vbr",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--nu-vasive-incorporated--nuvasive-x-core-expandable-vbr",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--nuvasive--nuvasive-adjustable-vertebral-body-replacement",
+      "artifact_folder": "cervical-plate--nuvasive--nuvasive-adjustable-vertebral-body-replacement",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--nuvasive--nuvasive-adjustable-vertebral-body-replacement",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--nuvasive--nuvasive-adjustable-vertebral-body-replacement-recalls",
+      "artifact_folder": "cervical-plate--nuvasive--nuvasive-adjustable-vertebral-body-replacement-recalls",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--nuvasive--nuvasive-adjustable-vertebral-body-replacement-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--nuvasive--nuvasive-coroent",
+      "artifact_folder": "cervical-plate--nuvasive--nuvasive-coroent",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--nuvasive--nuvasive-coroent",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--nuvasive--nuvasive-coroent-extensure",
+      "artifact_folder": "cervical-plate--nuvasive--nuvasive-coroent-extensure",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--nuvasive--nuvasive-coroent-extensure",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--nuvasive--nuvasive-coroent-extensure-recalls",
+      "artifact_folder": "cervical-plate--nuvasive--nuvasive-coroent-extensure-recalls",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--nuvasive--nuvasive-coroent-extensure-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--nuvasive--nuvasive-coroent-recalls",
+      "artifact_folder": "cervical-plate--nuvasive--nuvasive-coroent-recalls",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--nuvasive--nuvasive-coroent-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--nuvasive--nuvasive-mash",
+      "artifact_folder": "cervical-plate--nuvasive--nuvasive-mash",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--nuvasive--nuvasive-mash",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--nuvasive--nuvasive-mash-recalls",
+      "artifact_folder": "cervical-plate--nuvasive--nuvasive-mash-recalls",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--nuvasive--nuvasive-mash-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--nuvasive--nuvasive-mesh",
+      "artifact_folder": "cervical-plate--nuvasive--nuvasive-mesh",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--nuvasive--nuvasive-mesh",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--nuvasive--nuvasive-mesh-recalls",
+      "artifact_folder": "cervical-plate--nuvasive--nuvasive-mesh-recalls",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--nuvasive--nuvasive-mesh-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--nuvasive--nuvasive-x-core-r-expandable",
+      "artifact_folder": "cervical-plate--nuvasive--nuvasive-x-core-r-expandable",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--nuvasive--nuvasive-x-core-r-expandable",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--nuvasive--nuvasive-x-core-r-expandable-recalls",
+      "artifact_folder": "cervical-plate--nuvasive--nuvasive-x-core-r-expandable-recalls",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--nuvasive--nuvasive-x-core-r-expandable-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--omnia-medical-llc--omnia-medical-vbr",
+      "artifact_folder": "cervical-plate--omnia-medical-llc--omnia-medical-vbr",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--omnia-medical-llc--omnia-medical-vbr",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--ortho-development-corp--vusion-ts-ps-and-cs",
+      "artifact_folder": "cervical-plate--ortho-development-corp--vusion-ts-ps-and-cs",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--ortho-development-corp--vusion-ts-ps-and-cs",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--orthovita-inc--endoskeleton-ta-vertebral-body-replacement",
+      "artifact_folder": "cervical-plate--orthovita-inc--endoskeleton-ta-vertebral-body-replacement",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--orthovita-inc--endoskeleton-ta-vertebral-body-replacement",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--osteotech-inc--graftcage-acx",
+      "artifact_folder": "cervical-plate--osteotech-inc--graftcage-acx",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--osteotech-inc--graftcage-acx",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--osteotech-inc--graftcage-tlx",
+      "artifact_folder": "cervical-plate--osteotech-inc--graftcage-tlx",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--osteotech-inc--graftcage-tlx",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--osteotech-inc--vbr",
+      "artifact_folder": "cervical-plate--osteotech-inc--vbr",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--osteotech-inc--vbr",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--osteotech-inc--vertebral-body-replacement",
+      "artifact_folder": "cervical-plate--osteotech-inc--vertebral-body-replacement",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--osteotech-inc--vertebral-body-replacement",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--oxford-performance-materials--spinefab-vertebral-body-replacement-vbr",
+      "artifact_folder": "cervical-plate--oxford-performance-materials--spinefab-vertebral-body-replacement-vbr",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--oxford-performance-materials--spinefab-vertebral-body-replacement-vbr",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--pioneer-surgical-technology--pioneer-vertebral-body-replacement-pioneer",
+      "artifact_folder": "cervical-plate--pioneer-surgical-technology--pioneer-vertebral-body-replacement-pioneer",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--pioneer-surgical-technology--pioneer-vertebral-body-replacement-pioneer",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--pioneer-surgical-technology--pioneer-vertebral-spacer-vertebral-spacer",
+      "artifact_folder": "cervical-plate--pioneer-surgical-technology--pioneer-vertebral-spacer-vertebral-spacer",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--pioneer-surgical-technology--pioneer-vertebral-spacer-vertebral-spacer",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--pioneer-surgical-technology-inc--pioneer-maxfuse-vertebral-body-replacement",
+      "artifact_folder": "cervical-plate--pioneer-surgical-technology-inc--pioneer-maxfuse-vertebral-body-replacement",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--pioneer-surgical-technology-inc--pioneer-maxfuse-vertebral-body-replacement",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--quantum-orthopedics-inc--modification-to-quantum-vertebral-body",
+      "artifact_folder": "cervical-plate--quantum-orthopedics-inc--modification-to-quantum-vertebral-body",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--quantum-orthopedics-inc--modification-to-quantum-vertebral-body",
+      "file_count": 5,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 3,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--quantum-orthopedics-inc--quantum-vertebral-body-replacement",
+      "artifact_folder": "cervical-plate--quantum-orthopedics-inc--quantum-vertebral-body-replacement",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--quantum-orthopedics-inc--quantum-vertebral-body-replacement",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--reliance-medical-systems-llc--reliance-vbs",
+      "artifact_folder": "cervical-plate--reliance-medical-systems-llc--reliance-vbs",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--reliance-medical-systems-llc--reliance-vbs",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--rsb-spine-llc--interplate-vbr",
+      "artifact_folder": "cervical-plate--rsb-spine-llc--interplate-vbr",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--rsb-spine-llc--interplate-vbr",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--rsb-spine-llc--modification-to-interplate-vbr",
+      "artifact_folder": "cervical-plate--rsb-spine-llc--modification-to-interplate-vbr",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--rsb-spine-llc--modification-to-interplate-vbr",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--scient-x--co-vertebral-body-replacement",
+      "artifact_folder": "cervical-plate--scient-x--co-vertebral-body-replacement",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--scient-x--co-vertebral-body-replacement",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--scient-x--ellys-and-aurys-vertebral-body",
+      "artifact_folder": "cervical-plate--scient-x--ellys-and-aurys-vertebral-body",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--scient-x--ellys-and-aurys-vertebral-body",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--scient-x-usa-inc--davantis-antelys-vertebral-body-replacements",
+      "artifact_folder": "cervical-plate--scient-x-usa-inc--davantis-antelys-vertebral-body-replacements",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--scient-x-usa-inc--davantis-antelys-vertebral-body-replacements",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--seaspine-inc--seaspine-vbr",
+      "artifact_folder": "cervical-plate--seaspine-inc--seaspine-vbr",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--seaspine-inc--seaspine-vbr",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--seaspine-inc--zuma",
+      "artifact_folder": "cervical-plate--seaspine-inc--zuma",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--seaspine-inc--zuma",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--signature-orthopaedics-pty-ltd--verteloc-spinal",
+      "artifact_folder": "cervical-plate--signature-orthopaedics-pty-ltd--verteloc-spinal",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--signature-orthopaedics-pty-ltd--verteloc-spinal",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--signus-medical-llc--nubic-spinal-implant",
+      "artifact_folder": "cervical-plate--signus-medical-llc--nubic-spinal-implant",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--signus-medical-llc--nubic-spinal-implant",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--signus-medical-llc--peek-tetris-spinal-implant",
+      "artifact_folder": "cervical-plate--signus-medical-llc--peek-tetris-spinal-implant",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--signus-medical-llc--peek-tetris-spinal-implant",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--signus-medical-llc--tetris-spinal-implant",
+      "artifact_folder": "cervical-plate--signus-medical-llc--tetris-spinal-implant",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--signus-medical-llc--tetris-spinal-implant",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--signus-medizintechnik-gmbh--athlet-vertebral-body-replacement",
+      "artifact_folder": "cervical-plate--signus-medizintechnik-gmbh--athlet-vertebral-body-replacement",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--signus-medizintechnik-gmbh--athlet-vertebral-body-replacement",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--signus-medizintechnik-gmbh--curved-peek-tetris-spinal-implant",
+      "artifact_folder": "cervical-plate--signus-medizintechnik-gmbh--curved-peek-tetris-spinal-implant",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--signus-medizintechnik-gmbh--curved-peek-tetris-spinal-implant",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--signus-medizintechnik-gmbh--kimba-mini",
+      "artifact_folder": "cervical-plate--signus-medizintechnik-gmbh--kimba-mini",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--signus-medizintechnik-gmbh--kimba-mini",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--signus-medizintechnik-gmbh--kimba-spinal-implant",
+      "artifact_folder": "cervical-plate--signus-medizintechnik-gmbh--kimba-spinal-implant",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--signus-medizintechnik-gmbh--kimba-spinal-implant",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--signus-medizintechnik-gmbh--mobis-spinal-implant",
+      "artifact_folder": "cervical-plate--signus-medizintechnik-gmbh--mobis-spinal-implant",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--signus-medizintechnik-gmbh--mobis-spinal-implant",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--signus-medizintechnik-gmbh--rabea-spinal-implant",
+      "artifact_folder": "cervical-plate--signus-medizintechnik-gmbh--rabea-spinal-implant",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--signus-medizintechnik-gmbh--rabea-spinal-implant",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--signus-medizintechnik-gmbh--semial-spinal-implant",
+      "artifact_folder": "cervical-plate--signus-medizintechnik-gmbh--semial-spinal-implant",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--signus-medizintechnik-gmbh--semial-spinal-implant",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--signus-medizintechnik-gmbh--tasmin-r",
+      "artifact_folder": "cervical-plate--signus-medizintechnik-gmbh--tasmin-r",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--signus-medizintechnik-gmbh--tasmin-r",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--sintea-biotech-inc--sintea-biotech-dsc-alf-spinal",
+      "artifact_folder": "cervical-plate--sintea-biotech-inc--sintea-biotech-dsc-alf-spinal",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--sintea-biotech-inc--sintea-biotech-dsc-alf-spinal",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--sintea-plastek-llc--dsc-alf-spinal",
+      "artifact_folder": "cervical-plate--sintea-plastek-llc--dsc-alf-spinal",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--sintea-plastek-llc--dsc-alf-spinal",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--specialty-spine-products-llc--ssp-vertebral-body-replacement",
+      "artifact_folder": "cervical-plate--specialty-spine-products-llc--ssp-vertebral-body-replacement",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--specialty-spine-products-llc--ssp-vertebral-body-replacement",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--spinal-concepts-inc--fortitude-vue-vertebral-body-replacement",
+      "artifact_folder": "cervical-plate--spinal-concepts-inc--fortitude-vue-vertebral-body-replacement",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--spinal-concepts-inc--fortitude-vue-vertebral-body-replacement",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--spinal-concepts-inc--fortitude-vue-vertebral-body-replacement-recalls",
+      "artifact_folder": "cervical-plate--spinal-concepts-inc--fortitude-vue-vertebral-body-replacement-recalls",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--spinal-concepts-inc--fortitude-vue-vertebral-body-replacement-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--spinal-concepts-inc--spinal-concepts-inc-cadence-and",
+      "artifact_folder": "cervical-plate--spinal-concepts-inc--spinal-concepts-inc-cadence-and",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--spinal-concepts-inc--spinal-concepts-inc-cadence-and",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--spinal-concepts-inc--spinal-concepts-inc-cadence-and-recalls",
+      "artifact_folder": "cervical-plate--spinal-concepts-inc--spinal-concepts-inc-cadence-and-recalls",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--spinal-concepts-inc--spinal-concepts-inc-cadence-and-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--spinal-concepts-inc--spinal-concepts-inc-coda",
+      "artifact_folder": "cervical-plate--spinal-concepts-inc--spinal-concepts-inc-coda",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--spinal-concepts-inc--spinal-concepts-inc-coda",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--spinal-concepts-inc--spinal-concepts-inc-coda-recalls",
+      "artifact_folder": "cervical-plate--spinal-concepts-inc--spinal-concepts-inc-coda-recalls",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--spinal-concepts-inc--spinal-concepts-inc-coda-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--spinal-concepts-inc--spinal-concepts-inc-infix",
+      "artifact_folder": "cervical-plate--spinal-concepts-inc--spinal-concepts-inc-infix",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--spinal-concepts-inc--spinal-concepts-inc-infix",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--spinal-concepts-inc--spinal-concepts-inc-infix-recalls",
+      "artifact_folder": "cervical-plate--spinal-concepts-inc--spinal-concepts-inc-infix-recalls",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--spinal-concepts-inc--spinal-concepts-inc-infix-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--spinal-edge-llc--atlas-spinal-cage-models-sc",
+      "artifact_folder": "cervical-plate--spinal-edge-llc--atlas-spinal-cage-models-sc",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--spinal-edge-llc--atlas-spinal-cage-models-sc",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--spinal-usa--spinal-usa-vbr",
+      "artifact_folder": "cervical-plate--spinal-usa--spinal-usa-vbr",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--spinal-usa--spinal-usa-vbr",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--spine-next-america-corporation--fidji-vertebral-body-replacement-type",
+      "artifact_folder": "cervical-plate--spine-next-america-corporation--fidji-vertebral-body-replacement-type",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--spine-next-america-corporation--fidji-vertebral-body-replacement-type",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--spine-smith-partners-l-p--spinesmith-cimplicity-spinal",
+      "artifact_folder": "cervical-plate--spine-smith-partners-l-p--spinesmith-cimplicity-spinal",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--spine-smith-partners-l-p--spinesmith-cimplicity-spinal",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--spine-vision-inc--spacevision-cage",
+      "artifact_folder": "cervical-plate--spine-vision-inc--spacevision-cage",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--spine-vision-inc--spacevision-cage",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--spine-wave-inc--staxx-r",
+      "artifact_folder": "cervical-plate--spine-wave-inc--staxx-r",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--spine-wave-inc--staxx-r",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--spine-wave-inc--staxx-r-xd",
+      "artifact_folder": "cervical-plate--spine-wave-inc--staxx-r-xd",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--spine-wave-inc--staxx-r-xd",
+      "file_count": 5,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 3,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--spine-wave-inc--staxx-xd",
+      "artifact_folder": "cervical-plate--spine-wave-inc--staxx-xd",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--spine-wave-inc--staxx-xd",
+      "file_count": 6,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 4,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--spine-wave-inc--staxx-xdl",
+      "artifact_folder": "cervical-plate--spine-wave-inc--staxx-xdl",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--spine-wave-inc--staxx-xdl",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--spine-wave-inc--staxxsd",
+      "artifact_folder": "cervical-plate--spine-wave-inc--staxxsd",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--spine-wave-inc--staxxsd",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--spineworks-llc--stansion-matrix",
+      "artifact_folder": "cervical-plate--spineworks-llc--stansion-matrix",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--spineworks-llc--stansion-matrix",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--stryker--aleutian-spacer",
+      "artifact_folder": "cervical-plate--stryker--aleutian-spacer",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--stryker--aleutian-spacer",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--stryker--aleutian-spacer-model-k2-07",
+      "artifact_folder": "cervical-plate--stryker--aleutian-spacer-model-k2-07",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--stryker--aleutian-spacer-model-k2-07",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--stryker--avs-asl-peek-spacer",
+      "artifact_folder": "cervical-plate--stryker--avs-asl-peek-spacer",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--stryker--avs-asl-peek-spacer",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--stryker--avs-pl-peek-spacer",
+      "artifact_folder": "cervical-plate--stryker--avs-pl-peek-spacer",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--stryker--avs-pl-peek-spacer",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--stryker--capri",
+      "artifact_folder": "cervical-plate--stryker--capri",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--stryker--capri",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--stryker--capri-corpectomy-cage",
+      "artifact_folder": "cervical-plate--stryker--capri-corpectomy-cage",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--stryker--capri-corpectomy-cage",
+      "file_count": 5,
+      "source_counts": {
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--stryker--reflex-hybrid",
+      "artifact_folder": "cervical-plate--stryker--reflex-hybrid",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--stryker--reflex-hybrid",
+      "file_count": 1,
+      "source_counts": {
+        "data_by_device": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--stryker--santorini-corpectomy-cage-capri-corpectomy",
+      "artifact_folder": "cervical-plate--stryker--santorini-corpectomy-cage-capri-corpectomy",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--stryker--santorini-corpectomy-cage-capri-corpectomy",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--stryker--santorini-spinal",
+      "artifact_folder": "cervical-plate--stryker--santorini-spinal",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--stryker--santorini-spinal",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--stryker--stryker-spine-avs-asl-peek",
+      "artifact_folder": "cervical-plate--stryker--stryker-spine-avs-asl-peek",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--stryker--stryker-spine-avs-asl-peek",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--stryker--stryker-spine-avs-pl-peek",
+      "artifact_folder": "cervical-plate--stryker--stryker-spine-avs-pl-peek",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--stryker--stryker-spine-avs-pl-peek",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--stryker--stryker-spine-avs-tl-peek",
+      "artifact_folder": "cervical-plate--stryker--stryker-spine-avs-tl-peek",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--stryker--stryker-spine-avs-tl-peek",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--stryker--stryker-spine-vertebral-spacer",
+      "artifact_folder": "cervical-plate--stryker--stryker-spine-vertebral-spacer",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--stryker--stryker-spine-vertebral-spacer",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--stryker--stryker-spine-vlift-vertebral-body",
+      "artifact_folder": "cervical-plate--stryker--stryker-spine-vlift-vertebral-body",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--stryker--stryker-spine-vlift-vertebral-body",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--stryker--vlift-s-vertebral-body-replacement",
+      "artifact_folder": "cervical-plate--stryker--vlift-s-vertebral-body-replacement",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--stryker--vlift-s-vertebral-body-replacement",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--surgicraft-ltd--stalif-tt",
+      "artifact_folder": "cervical-plate--surgicraft-ltd--stalif-tt",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--surgicraft-ltd--stalif-tt",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--synthes-spine-co-lp--synex-ii",
+      "artifact_folder": "cervical-plate--synthes-spine-co-lp--synex-ii",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--synthes-spine-co-lp--synex-ii",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--synthes-spine-co-lp--synfix-lr",
+      "artifact_folder": "cervical-plate--synthes-spine-co-lp--synfix-lr",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--synthes-spine-co-lp--synfix-lr",
+      "file_count": 5,
+      "source_counts": {
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--synthes-spine-co-lp--synthes-oracle-spacer",
+      "artifact_folder": "cervical-plate--synthes-spine-co-lp--synthes-oracle-spacer",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--synthes-spine-co-lp--synthes-oracle-spacer",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--synthes-spine-co-lp--synthes-xrl",
+      "artifact_folder": "cervical-plate--synthes-spine-co-lp--synthes-xrl",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--synthes-spine-co-lp--synthes-xrl",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--theken-spine-llc--theken-vu-mesh-vbr",
+      "artifact_folder": "cervical-plate--theken-spine-llc--theken-vu-mesh-vbr",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--theken-spine-llc--theken-vu-mesh-vbr",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--theken-spine-llc--vu-e-pod-vertebral-body",
+      "artifact_folder": "cervical-plate--theken-spine-llc--vu-e-pod-vertebral-body",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--theken-spine-llc--vu-e-pod-vertebral-body",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--theken-spine-llc--x-pod-adjustable-vertebral-body",
+      "artifact_folder": "cervical-plate--theken-spine-llc--x-pod-adjustable-vertebral-body",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--theken-spine-llc--x-pod-adjustable-vertebral-body",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--theken-surgical-llc--theken-cpod-lpod-vertebral-body",
+      "artifact_folder": "cervical-plate--theken-surgical-llc--theken-cpod-lpod-vertebral-body",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--theken-surgical-llc--theken-cpod-lpod-vertebral-body",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--theken-surgical-llc--theken-reveal-vbr",
+      "artifact_folder": "cervical-plate--theken-surgical-llc--theken-reveal-vbr",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--theken-surgical-llc--theken-reveal-vbr",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--ulrich-gmbh-co-kg--addplus",
+      "artifact_folder": "cervical-plate--ulrich-gmbh-co-kg--addplus",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--ulrich-gmbh-co-kg--addplus",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--ulrich-gmbh-co-kg--obelisc-vertebral-body-replacement",
+      "artifact_folder": "cervical-plate--ulrich-gmbh-co-kg--obelisc-vertebral-body-replacement",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--ulrich-gmbh-co-kg--obelisc-vertebral-body-replacement",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--ulrich-gmbh-co-kg--small-vbr",
+      "artifact_folder": "cervical-plate--ulrich-gmbh-co-kg--small-vbr",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--ulrich-gmbh-co-kg--small-vbr",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--ulrich-medical-usa--solidity-vertebral-body-replacement",
+      "artifact_folder": "cervical-plate--ulrich-medical-usa--solidity-vertebral-body-replacement",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--ulrich-medical-usa--solidity-vertebral-body-replacement",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--united-states-surgical-a-division-of-tyco-healthc--surgical-dynamics-mesh-cage",
+      "artifact_folder": "cervical-plate--united-states-surgical-a-division-of-tyco-healthc--surgical-dynamics-mesh-cage",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--united-states-surgical-a-division-of-tyco-healthc--surgical-dynamics-mesh-cage",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--us-spinal-technologies-llc--atalia-titanium-surgical-mesh",
+      "artifact_folder": "cervical-plate--us-spinal-technologies-llc--atalia-titanium-surgical-mesh",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--us-spinal-technologies-llc--atalia-titanium-surgical-mesh",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--vertebration-inc--xy-cor-spinal-implant-for",
+      "artifact_folder": "cervical-plate--vertebration-inc--xy-cor-spinal-implant-for",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--vertebration-inc--xy-cor-spinal-implant-for",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--vertebration-inc--xycor-spinal-implant",
+      "artifact_folder": "cervical-plate--vertebration-inc--xycor-spinal-implant",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--vertebration-inc--xycor-spinal-implant",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--vertebron-inc--vertebron-vbr",
+      "artifact_folder": "cervical-plate--vertebron-inc--vertebron-vbr",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--vertebron-inc--vertebron-vbr",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--verticor-ltd--cervicore-corpectomy-cage",
+      "artifact_folder": "cervical-plate--verticor-ltd--cervicore-corpectomy-cage",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--verticor-ltd--cervicore-corpectomy-cage",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--vertiflex-tm-incorporated--vertiflex-octane-peek-vertebral-body",
+      "artifact_folder": "cervical-plate--vertiflex-tm-incorporated--vertiflex-octane-peek-vertebral-body",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--vertiflex-tm-incorporated--vertiflex-octane-peek-vertebral-body",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--vy-spine-llc--vybrate-vbr",
+      "artifact_folder": "cervical-plate--vy-spine-llc--vybrate-vbr",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--vy-spine-llc--vybrate-vbr",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--zimmer-biomet--ldr-spine-roi-a-implant",
+      "artifact_folder": "cervical-plate--zimmer-biomet--ldr-spine-roi-a-implant",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--zimmer-biomet--ldr-spine-roi-a-implant",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--zimmer-biomet--ldr-spine-roi-c-implant",
+      "artifact_folder": "cervical-plate--zimmer-biomet--ldr-spine-roi-c-implant",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--zimmer-biomet--ldr-spine-roi-c-implant",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--zimmer-biomet--ldr-spine-roi-t",
+      "artifact_folder": "cervical-plate--zimmer-biomet--ldr-spine-roi-t",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--zimmer-biomet--ldr-spine-roi-t",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--zimmer-biomet--ldr-spine-roi-t-implant",
+      "artifact_folder": "cervical-plate--zimmer-biomet--ldr-spine-roi-t-implant",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--zimmer-biomet--ldr-spine-roi-t-implant",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--zimmer-biomet--mc-partial-vbr",
+      "artifact_folder": "cervical-plate--zimmer-biomet--mc-partial-vbr",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--zimmer-biomet--mc-partial-vbr",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--zimmer-biomet--open-radiotransparent-intersomatic-implant-roi",
+      "artifact_folder": "cervical-plate--zimmer-biomet--open-radiotransparent-intersomatic-implant-roi",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--zimmer-biomet--open-radiotransparent-intersomatic-implant-roi",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--zimmer-biomet--small-stature-spacers",
+      "artifact_folder": "cervical-plate--zimmer-biomet--small-stature-spacers",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--zimmer-biomet--small-stature-spacers",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--zimmer-biomet--vertefit-corpectomy-cage",
+      "artifact_folder": "cervical-plate--zimmer-biomet--vertefit-corpectomy-cage",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--zimmer-biomet--vertefit-corpectomy-cage",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--zimmer-trabecular--the-zimmer-tmt-trabecular-metal",
+      "artifact_folder": "cervical-plate--zimmer-trabecular--the-zimmer-tmt-trabecular-metal",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--zimmer-trabecular--the-zimmer-tmt-trabecular-metal",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--zimmer-trabecular--vista-p-vertebral-body-replacement",
+      "artifact_folder": "cervical-plate--zimmer-trabecular--vista-p-vertebral-body-replacement",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--zimmer-trabecular--vista-p-vertebral-body-replacement",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--zimmer-trabecular-metal-technology--trabecular-metal-tm-vertebral-body",
+      "artifact_folder": "cervical-plate--zimmer-trabecular-metal-technology--trabecular-metal-tm-vertebral-body",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--zimmer-trabecular-metal-technology--trabecular-metal-tm-vertebral-body",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--zimmer-trabecular-metal-technology--trabecular-metal-vertebral-body-replacement",
+      "artifact_folder": "cervical-plate--zimmer-trabecular-metal-technology--trabecular-metal-vertebral-body-replacement",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--zimmer-trabecular-metal-technology--trabecular-metal-vertebral-body-replacement",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "cervical-plate--zimmer-trabecular-metal-technology--vista-s",
+      "artifact_folder": "cervical-plate--zimmer-trabecular-metal-technology--vista-s",
+      "path": "artifacts/spine/anterior_cervical_plates/cervical-plate--zimmer-trabecular-metal-technology--vista-s",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    }
+  ],
+  "device_count": 251
+}

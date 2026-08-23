@@ -1,0 +1,26 @@
+{
+  "source_pdf": "303015-us-rev-b-ifuse-torq-tnt-stm.pdf",
+  "source_path": "C:\\Users\\Michael\\Documents\\device_catalog\\pipeline\\data\\extracted\\nspr\\pdfs\\303015-us-rev-b-ifuse-torq-tnt-stm.pdf",
+  "device_name": "303015 Us Rev B Ifuse Torq Tnt Stm",
+  "manufacturer": "unknown",
+  "doc_type": "technique_guide",
+  "extraction_method": "pdfplumber_deepseek",
+  "extraction_source": "nspr_pdf",
+  "fields": {
+    "what_it_is": "iFuse TORQ TNT™ Implant: A porous threaded Implant with lengths capable of spanning the posterior pelvis, passing through the ipsilateral ilium, sacrum, and through the contralateral ilium (through and through, “TNT”).",
+    "sizing_specs": "| Specification |  |  | Size (mm) | Part Number |\n| --- | --- | --- | --- | --- |\n| Major Diameter |  |  | 8.7 | 870070 – 870170 |\n| Minor Diameter |  |  | 6.9 |  |\n| Inner Diameter |  |  | 2.7 |  |\n| Head Diameter |  |  | 10.5 |  |\n| Lengths |  |  | 70 – 170 |  |\n| Washer – Outer Diameter |  |  | 16.0 or 21.0 | 501939-0016 or 501939-0021 |\n| Washer – Inner Diameter |  |  | 10.3 |  |\n| Drill Bit Dimensions |  |  | 4.5 x 280 | 501765 |\n|  |  |  | 5.5 x 280 | 501766-0280 |\n|  |  |  | 5.5 x 375 | 501766-0375 |\n|  | Tap Dimensions |  | 8.0 x 275 | 400418 |",
+    "indications": "The iFuse TORQ TNT™ Implant System is indicated for fracture fixation of the pelvis, including acute, non-acute and non-traumatic fractures. The iFuse TORQ TNT Implant System is indicated for sacroiliac joint fusion for sacroiliac joint dysfunction including sacroiliac joint disruption and degenerative sacroiliitis.",
+    "contraindications": null,
+    "compatible_with": "iFuse TORQ TNT Instruments, not including disposables, are compatible with a Jacobs Chuck using the Quarter Inch to Tri-Lobe Adapter. The iFuse TORQ TNT Navigation Instruments are intended to be used with the Medtronic StealthStation System.",
+    "use_notes": "This surgical technique manual describes the steps for placing iFuse TORQ TNT implants in sacral style and the SI style trajectories. Other implant trajectories in the pelvis are possible and will be added in the future. The iFuse TORQ TNT Implant System will include future surgical technique manuals that describe placement of iFuse TORQ TNT implants in the sacroalar iliac (SAI) trajectory under fluoroscopic or navigation guidance. The iFuse TORQ TNT Implant System may expand in the future to include additional implant types.",
+    "also_known_as": "through and through, “TNT”"
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "sizing_specs": 0.7,
+    "indications": 0.7,
+    "compatible_with": 0.7,
+    "use_notes": 0.7,
+    "also_known_as": 0.7
+  }
+}

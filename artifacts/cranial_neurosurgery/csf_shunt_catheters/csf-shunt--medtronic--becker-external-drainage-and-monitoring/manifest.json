@@ -1,0 +1,42 @@
+{
+  "device_slug": "csf-shunt--medtronic--becker-external-drainage-and-monitoring",
+  "artifact_folder": "csf-shunt--medtronic--becker-external-drainage-and-monitoring",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 4280,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--medtronic--becker-external-drainage-and-monitoring.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--medtronic--becker-external-drainage-and-monitoring/enriched/csf-shunt--medtronic--becker-external-drainage-and-monitoring.json",
+        "bytes": 2193
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/csf-shunt--medtronic--becker-external-drainage-and-monitoring.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--medtronic--becker-external-drainage-and-monitoring/extracted/fda_structured/csf-shunt--medtronic--becker-external-drainage-and-monitoring.json",
+        "bytes": 619
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K984053.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--medtronic--becker-external-drainage-and-monitoring/fda_raw/JXG/K984053.json",
+        "bytes": 601
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--medtronic--becker-external-drainage-and-monitoring.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--medtronic--becker-external-drainage-and-monitoring/merged/csf-shunt--medtronic--becker-external-drainage-and-monitoring.json",
+        "bytes": 867
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

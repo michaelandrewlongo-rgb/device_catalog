@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--theken-spine-llc--theken-atoll-cervico-thoracic",
+  "artifact_folder": "corpectomy--theken-spine-llc--theken-atoll-cervico-thoracic",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2882,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--theken-spine-llc--theken-atoll-cervico-thoracic.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--theken-spine-llc--theken-atoll-cervico-thoracic/enriched/corpectomy--theken-spine-llc--theken-atoll-cervico-thoracic.json",
+        "bytes": 1434
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K070638.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--theken-spine-llc--theken-atoll-cervico-thoracic/fda_raw/KWP/K070638.json",
+        "bytes": 595
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--theken-spine-llc--theken-atoll-cervico-thoracic.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--theken-spine-llc--theken-atoll-cervico-thoracic/merged/corpectomy--theken-spine-llc--theken-atoll-cervico-thoracic.json",
+        "bytes": 853
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

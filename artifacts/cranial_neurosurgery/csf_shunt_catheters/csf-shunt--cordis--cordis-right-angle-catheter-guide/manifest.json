@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--cordis--cordis-right-angle-catheter-guide",
+  "artifact_folder": "csf-shunt--cordis--cordis-right-angle-catheter-guide",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2807,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--cordis--cordis-right-angle-catheter-guide.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cordis--cordis-right-angle-catheter-guide/enriched/csf-shunt--cordis--cordis-right-angle-catheter-guide.json",
+        "bytes": 1410
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K913842.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cordis--cordis-right-angle-catheter-guide/fda_raw/JXG/K913842.json",
+        "bytes": 568
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--cordis--cordis-right-angle-catheter-guide.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cordis--cordis-right-angle-catheter-guide/merged/csf-shunt--cordis--cordis-right-angle-catheter-guide.json",
+        "bytes": 829
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

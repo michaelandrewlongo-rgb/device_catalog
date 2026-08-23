@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--innovasis-inc--excella-m-spinal",
+  "artifact_folder": "corpectomy--innovasis-inc--excella-m-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2758,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--innovasis-inc--excella-m-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--innovasis-inc--excella-m-spinal/enriched/corpectomy--innovasis-inc--excella-m-spinal.json",
+        "bytes": 1389
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K042143.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--innovasis-inc--excella-m-spinal/fda_raw/KWP/K042143.json",
+        "bytes": 561
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--innovasis-inc--excella-m-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--innovasis-inc--excella-m-spinal/merged/corpectomy--innovasis-inc--excella-m-spinal.json",
+        "bytes": 808
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

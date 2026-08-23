@@ -1,0 +1,21 @@
+{
+  "source_pdf": "reference--viktors-notes--epilepsy-surgery--chapter.pdf",
+  "device_name": "epilepsy-surgery",
+  "manufacturer": "viktors-notes",
+  "doc_type": "chapter",
+  "extraction_method": "pdf_deepseek",
+  "fields": {
+    "what_it_is": null,
+    "sizing_specs": null,
+    "indications": "Seizures refractory to appropriate medical management, seizures seriously limit patient's quality of life, well-defined epileptogenic focus not involving eloquent cortex (obsolete condition).",
+    "contraindications": "Benign partial childhood epilepsy, significant noncompliance, progressive neurologic diseases, severe concurrent medical illness. Relative contraindications: generalized epilepsy (indication for corpus callosotomy or VNS or DBS), mental retardation / low IQ (< 70), psychiatric disease (psychosis or other serious psychiatric disorder), multiple seizure types arising from different brain regions (unless one seizure type is most frequent and disabling), coexistence of epileptic and nonepileptic seizures. Not contraindications: epileptogenic focus in dominant hemisphere, epileptogenic focus in eloquent cortex, bilateral or multifocal epileptogenic foci, neurological deficits on examination.",
+    "compatible_with": null,
+    "use_notes": "Surgical treatment of epilepsy involves presurgical evaluation (non-invasive, phase I and invasive, phase II), types of surgery include resection/ablation, disconnections, neuromodulation, cell therapy. Presurgical evaluation includes electrophysiology, imaging, neuropsychology, genetic testing. Surgical zones defined: epileptogenic lesion, epileptogenic zone, irritative zone, symptomatogenic zone, functional deficit zone. Common epileptic pathologies include hippocampal sclerosis, malformations of cortical development, tumors, vascular malformations, gliosis, infections.",
+    "also_known_as": null
+  },
+  "confidence": {
+    "indications": 0.7,
+    "contraindications": 0.7,
+    "use_notes": 0.7
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "device_slug": "pedicle-screw--spineology-inc--spineology-peek-lumbar-interbody-fusion",
+  "artifact_folder": "pedicle-screw--spineology-inc--spineology-peek-lumbar-interbody-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 4814,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--spineology-inc--spineology-peek-lumbar-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spineology-inc--spineology-peek-lumbar-interbody-fusion/enriched/pedicle-screw--spineology-inc--spineology-peek-lumbar-interbody-fusion.json",
+        "bytes": 1466
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K110933.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spineology-inc--spineology-peek-lumbar-interbody-fusion/fda_raw/MAX/K110933.json",
+        "bytes": 616
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K120293.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spineology-inc--spineology-peek-lumbar-interbody-fusion/fda_raw/MAX/K120293.json",
+        "bytes": 615
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K121129.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spineology-inc--spineology-peek-lumbar-interbody-fusion/fda_raw/MAX/K121129.json",
+        "bytes": 616
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K123652.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spineology-inc--spineology-peek-lumbar-interbody-fusion/fda_raw/MAX/K123652.json",
+        "bytes": 616
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--spineology-inc--spineology-peek-lumbar-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spineology-inc--spineology-peek-lumbar-interbody-fusion/merged/pedicle-screw--spineology-inc--spineology-peek-lumbar-interbody-fusion.json",
+        "bytes": 885
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

@@ -1,0 +1,292 @@
+[
+  {
+    "device_family": "aspiration--medtronic--riptide-aspiration-system",
+    "query_used": "Riptide Aspiration System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00763000950750",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Riptide™ Aspiration Pump",
+      "companyName": "Micro Therapeutics, Inc.",
+      "deviceIdentifier": "dfb40cae-eebd-4fcd-980b-1ddcb81cfc5a",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "33579",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Surgical irrigation/aspiration pump, reusable"
+        }
+      ],
+      "modelNumber": "MAP-1000"
+    },
+    "retrieved_at": "2026-04-15T10:18:45+00:00",
+    "source_id": "accessgudid:00763000950750",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/dfb40cae-eebd-4fcd-980b-1ddcb81cfc5a",
+    "title": "Riptide™ Aspiration Pump (Micro Therapeutics, Inc.)"
+  },
+  {
+    "device_family": "aspiration--medtronic--riptide-aspiration-system",
+    "query_used": "Riptide Aspiration System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00763000915681",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Riptide™ Aspiration Pump",
+      "companyName": "Micro Therapeutics, Inc.",
+      "deviceIdentifier": "9ffc36a8-300e-40b6-9225-346ada91c88b",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "33579",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Surgical irrigation/aspiration pump, reusable"
+        }
+      ],
+      "modelNumber": "LMT-RAP"
+    },
+    "retrieved_at": "2026-04-15T10:18:45+00:00",
+    "source_id": "accessgudid:00763000915681",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/9ffc36a8-300e-40b6-9225-346ada91c88b",
+    "title": "Riptide™ Aspiration Pump (Micro Therapeutics, Inc.)"
+  },
+  {
+    "device_family": "aspiration--medtronic--riptide-aspiration-system",
+    "query_used": "Riptide Aspiration System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00763000299439",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Riptide™",
+      "companyName": "Micro Therapeutics, Inc.",
+      "deviceIdentifier": "00fe5b6c-2cb7-4c40-a463-4c99c69394ee",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "16779",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Suction/irrigation tubing, single-use"
+        }
+      ],
+      "modelNumber": "MAT-110-110"
+    },
+    "retrieved_at": "2026-04-15T10:18:45+00:00",
+    "source_id": "accessgudid:00763000299439",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/00fe5b6c-2cb7-4c40-a463-4c99c69394ee",
+    "title": "Riptide™ (Micro Therapeutics, Inc.)"
+  },
+  {
+    "device_family": "aspiration--medtronic--riptide-aspiration-system",
+    "query_used": "Riptide Aspiration System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00763000299422",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Riptide™",
+      "companyName": "Micro Therapeutics, Inc.",
+      "deviceIdentifier": "4a7d07b2-176e-4258-b909-076b6c9ad960",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "34858",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Surgical suction system collection container, single-use"
+        }
+      ],
+      "modelNumber": "MAC-1200"
+    },
+    "retrieved_at": "2026-04-15T10:18:45+00:00",
+    "source_id": "accessgudid:00763000299422",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/4a7d07b2-176e-4258-b909-076b6c9ad960",
+    "title": "Riptide™ (Micro Therapeutics, Inc.)"
+  },
+  {
+    "device_family": "aspiration--medtronic--riptide-aspiration-system",
+    "query_used": "Riptide Aspiration System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00763000299415",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Riptide™",
+      "companyName": "Micro Therapeutics, Inc.",
+      "deviceIdentifier": "c8953e44-c81e-420b-bf2a-02c96d52247a",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "33579",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Surgical irrigation/aspiration pump, reusable"
+        }
+      ],
+      "modelNumber": "MAP-1000"
+    },
+    "retrieved_at": "2026-04-15T10:18:45+00:00",
+    "source_id": "accessgudid:00763000299415",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/c8953e44-c81e-420b-bf2a-02c96d52247a",
+    "title": "Riptide™ (Micro Therapeutics, Inc.)"
+  },
+  {
+    "device_family": "aspiration--medtronic--riptide-aspiration-system",
+    "query_used": "Riptide Aspiration System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00810209420918",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "FlowLogic RipTide",
+      "companyName": "SONENDO, INC.",
+      "deviceIdentifier": "c519f718-b972-4615-a072-e33849e0bf9c",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "63550",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Rotary/reciprocating endodontic file/rasp, single-use"
+        }
+      ],
+      "modelNumber": "FG-016-00010-01"
+    },
+    "retrieved_at": "2026-04-15T10:18:45+00:00",
+    "source_id": "accessgudid:00810209420918",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/c519f718-b972-4615-a072-e33849e0bf9c",
+    "title": "FlowLogic RipTide (SONENDO, INC.)"
+  },
+  {
+    "device_family": "aspiration--medtronic--riptide-aspiration-system",
+    "query_used": "Riptide Aspiration System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00763000974091",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Riptide™",
+      "companyName": "Micro Therapeutics, Inc.",
+      "deviceIdentifier": "01353cc2-42f7-4b74-874d-865d2e6abe86",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "34858",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Surgical suction system collection container, single-use"
+        }
+      ],
+      "modelNumber": "MAC-1200"
+    },
+    "retrieved_at": "2026-04-15T10:18:45+00:00",
+    "source_id": "accessgudid:00763000974091",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/01353cc2-42f7-4b74-874d-865d2e6abe86",
+    "title": "Riptide™ (Micro Therapeutics, Inc.)"
+  },
+  {
+    "device_family": "aspiration--medtronic--riptide-aspiration-system",
+    "query_used": "Riptide Aspiration System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00763000974077",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Riptide™",
+      "companyName": "Micro Therapeutics, Inc.",
+      "deviceIdentifier": "7d9310d5-e306-4253-81e3-607a69c7f544",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "16779",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Suction/irrigation tubing, single-use"
+        }
+      ],
+      "modelNumber": "MAT-110-110"
+    },
+    "retrieved_at": "2026-04-15T10:18:45+00:00",
+    "source_id": "accessgudid:00763000974077",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/7d9310d5-e306-4253-81e3-607a69c7f544",
+    "title": "Riptide™ (Micro Therapeutics, Inc.)"
+  },
+  {
+    "device_family": "aspiration--medtronic--riptide-aspiration-system",
+    "query_used": "Riptide Aspiration System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00196449010073",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "RIPTIDE",
+      "companyName": "Tyber Medical, LLC",
+      "deviceIdentifier": "6aa621c4-359d-43df-a9d4-9fc81661b420",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "64237",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Orthopaedic inorganic implant inserter/extractor, single-use"
+        }
+      ],
+      "modelNumber": "6ZB000012"
+    },
+    "retrieved_at": "2026-04-15T10:18:45+00:00",
+    "source_id": "accessgudid:00196449010073",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/6aa621c4-359d-43df-a9d4-9fc81661b420",
+    "title": "RIPTIDE (Tyber Medical, LLC)"
+  },
+  {
+    "device_family": "aspiration--medtronic--riptide-aspiration-system",
+    "query_used": "Riptide Aspiration System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00196449002450",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "RIPTIDE",
+      "companyName": "Tyber Medical, LLC",
+      "deviceIdentifier": "1f2cd0ff-7d4b-4a89-9987-f061554d605e",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "12143",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Instrument tray, reusable"
+        }
+      ],
+      "modelNumber": "6ZB000011"
+    },
+    "retrieved_at": "2026-04-15T10:18:45+00:00",
+    "source_id": "accessgudid:00196449002450",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/1f2cd0ff-7d4b-4a89-9987-f061554d605e",
+    "title": "RIPTIDE (Tyber Medical, LLC)"
+  }
+]

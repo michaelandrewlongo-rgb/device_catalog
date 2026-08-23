@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--spinal-edge-llc--atlas-spinal-cage-models-sc",
+  "artifact_folder": "cervical-plate--spinal-edge-llc--atlas-spinal-cage-models-sc",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3023,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--spinal-edge-llc--atlas-spinal-cage-models-sc.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--spinal-edge-llc--atlas-spinal-cage-models-sc/enriched/cervical-plate--spinal-edge-llc--atlas-spinal-cage-models-sc.json",
+        "bytes": 1490
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K060916.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--spinal-edge-llc--atlas-spinal-cage-models-sc/fda_raw/MQP/K060916.json",
+        "bytes": 624
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--spinal-edge-llc--atlas-spinal-cage-models-sc.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--spinal-edge-llc--atlas-spinal-cage-models-sc/merged/cervical-plate--spinal-edge-llc--atlas-spinal-cage-models-sc.json",
+        "bytes": 909
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

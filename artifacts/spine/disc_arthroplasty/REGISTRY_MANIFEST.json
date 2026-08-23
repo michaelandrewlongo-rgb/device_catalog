@@ -1,0 +1,30 @@
+{
+  "domain": "spine",
+  "registry": "disc_arthroplasty",
+  "label": "Cervical and Lumbar Disc Replacement",
+  "path": "artifacts/spine/disc_arthroplasty",
+  "devices": [
+    {
+      "slug": "cervical-disc--medtronic--prestige-lp",
+      "artifact_folder": "cervical-disc--medtronic--prestige-lp",
+      "path": "artifacts/spine/disc_arthroplasty/cervical-disc--medtronic--prestige-lp",
+      "file_count": 1,
+      "source_counts": {
+        "data_by_device": 1
+      }
+    },
+    {
+      "slug": "cervical-disc--medtronic--prestige-lp-cervical-disc",
+      "artifact_folder": "cervical-disc--medtronic--prestige-lp-cervical-disc",
+      "path": "artifacts/spine/disc_arthroplasty/cervical-disc--medtronic--prestige-lp-cervical-disc",
+      "file_count": 4,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    }
+  ],
+  "device_count": 2
+}

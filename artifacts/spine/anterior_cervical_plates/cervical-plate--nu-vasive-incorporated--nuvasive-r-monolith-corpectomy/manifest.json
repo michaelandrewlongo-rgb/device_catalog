@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--nu-vasive-incorporated--nuvasive-r-monolith-corpectomy",
+  "artifact_folder": "cervical-plate--nu-vasive-incorporated--nuvasive-r-monolith-corpectomy",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2961,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--nu-vasive-incorporated--nuvasive-r-monolith-corpectomy.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--nu-vasive-incorporated--nuvasive-r-monolith-corpectomy/enriched/cervical-plate--nu-vasive-incorporated--nuvasive-r-monolith-corpectomy.json",
+        "bytes": 1459
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K170271.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--nu-vasive-incorporated--nuvasive-r-monolith-corpectomy/fda_raw/MQP/K170271.json",
+        "bytes": 624
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--nu-vasive-incorporated--nuvasive-r-monolith-corpectomy.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--nu-vasive-incorporated--nuvasive-r-monolith-corpectomy/merged/cervical-plate--nu-vasive-incorporated--nuvasive-r-monolith-corpectomy.json",
+        "bytes": 878
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

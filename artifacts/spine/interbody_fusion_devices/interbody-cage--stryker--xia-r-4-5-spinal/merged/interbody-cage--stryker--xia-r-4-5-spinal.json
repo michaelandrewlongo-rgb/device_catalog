@@ -1,0 +1,28 @@
+{
+  "device_name": "XIA\u00ae 4.5 Spinal System, XIA\u00ae 4.5 Cortical Trajectory, XIA\u00ae 3 Spinal System, Serrato\u00ae Spinal System, XIA\u00ae Growth Rod Conversion Set, XIA\u00ae II Spinal System, XIA\u00ae Precision System, XIA\u00ae Anterior, Diapason\u00ae Spinal System, Opus\u0099 Spinal System, Radius\u00ae Spinal System, Mantis\u00ae Spinal System, Mantis\u00ae Redux, Trio\u00ae & Trio+ Spinal Fixation System, ES2\u0099 Spinal System, ES2\u0099 Augmentable Spinal System, Oasys\u00ae Occipito-Cervico-Thoracic System, Nile\u00ae Proximal Fixation Spinal System, Nile\u00ae Alternative Fi",
+  "manufacturer": "stryker",
+  "catalog_category": "interbody-cage",
+  "filename_stem": "interbody-cage--stryker--xia-r-4-5-spinal",
+  "clearance_type": "510k",
+  "clearance_number": "K222684",
+  "clearance_date": "2023-06-08",
+  "device_class": 2,
+  "device_name_fda": "XIA\u00ae 4.5 Spinal System, XIA\u00ae 4.5 Cortical Trajectory, XIA\u00ae 3 Spinal System, Serrato\u00ae Spinal System, XIA\u00ae Growth Rod Conversion Set, XIA\u00ae II Spinal System, XIA\u00ae Precision System, XIA\u00ae Anterior, Diapason\u00ae Spinal System, Opus\u0099 Spinal System, Radius\u00ae Spinal System, Mantis\u00ae Spinal System, Mantis\u00ae Redux, Trio\u00ae & Trio+ Spinal Fixation System, ES2\u0099 Spinal System, ES2\u0099 Augmentable Spinal System, Oasys\u00ae Occipito-Cervico-Thoracic System, Nile\u00ae Proximal Fixation Spinal System, Nile\u00ae Alternative Fi",
+  "product_code": "NKB",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K222684.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

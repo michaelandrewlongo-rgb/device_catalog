@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--alphatec-mfg-inc--alpha-spinal",
+  "artifact_folder": "corpectomy--alphatec-mfg-inc--alpha-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2748,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--alphatec-mfg-inc--alpha-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--alphatec-mfg-inc--alpha-spinal/enriched/corpectomy--alphatec-mfg-inc--alpha-spinal.json",
+        "bytes": 1383
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K930515.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--alphatec-mfg-inc--alpha-spinal/fda_raw/KWP/K930515.json",
+        "bytes": 563
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--alphatec-mfg-inc--alpha-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--alphatec-mfg-inc--alpha-spinal/merged/corpectomy--alphatec-mfg-inc--alpha-spinal.json",
+        "bytes": 802
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

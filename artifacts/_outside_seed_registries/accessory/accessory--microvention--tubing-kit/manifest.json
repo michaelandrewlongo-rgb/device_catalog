@@ -1,0 +1,42 @@
+{
+  "device_slug": "accessory--microvention--tubing-kit",
+  "artifact_folder": "accessory--microvention--tubing-kit",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3303,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/accessory--microvention--tubing-kit.json",
+        "artifact": "artifacts/_outside_seed_registries/accessory/accessory--microvention--tubing-kit/enriched/accessory--microvention--tubing-kit.json",
+        "bytes": 1543
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/accessory--microvention--tubing-kit.json",
+        "artifact": "artifacts/_outside_seed_registries/accessory/accessory--microvention--tubing-kit/extracted/fda_structured/accessory--microvention--tubing-kit.json",
+        "bytes": 560
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/accessory--microvention--tubing-kit.json",
+        "artifact": "artifacts/_outside_seed_registries/accessory/accessory--microvention--tubing-kit/merged/accessory--microvention--tubing-kit.json",
+        "bytes": 739
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/microvention/tubing-kit.json",
+        "artifact": "artifacts/_outside_seed_registries/accessory/accessory--microvention--tubing-kit/scraper_raw/microvention/tubing-kit.json",
+        "bytes": 461
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "accessory",
+    "label": "Outside listed seed registries"
+  }
+}

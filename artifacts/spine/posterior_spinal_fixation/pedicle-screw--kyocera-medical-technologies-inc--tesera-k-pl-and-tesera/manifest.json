@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--kyocera-medical-technologies-inc--tesera-k-pl-and-tesera",
+  "artifact_folder": "pedicle-screw--kyocera-medical-technologies-inc--tesera-k-pl-and-tesera",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3017,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--kyocera-medical-technologies-inc--tesera-k-pl-and-tesera.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--kyocera-medical-technologies-inc--tesera-k-pl-and-tesera/enriched/pedicle-screw--kyocera-medical-technologies-inc--tesera-k-pl-and-tesera.json",
+        "bytes": 1475
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K242771.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--kyocera-medical-technologies-inc--tesera-k-pl-and-tesera/fda_raw/MAX/K242771.json",
+        "bytes": 648
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--kyocera-medical-technologies-inc--tesera-k-pl-and-tesera.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--kyocera-medical-technologies-inc--tesera-k-pl-and-tesera/merged/pedicle-screw--kyocera-medical-technologies-inc--tesera-k-pl-and-tesera.json",
+        "bytes": 894
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

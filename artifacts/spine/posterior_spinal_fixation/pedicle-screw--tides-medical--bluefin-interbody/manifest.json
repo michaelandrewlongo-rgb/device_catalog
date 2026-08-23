@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--tides-medical--bluefin-interbody",
+  "artifact_folder": "pedicle-screw--tides-medical--bluefin-interbody",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2782,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--tides-medical--bluefin-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--tides-medical--bluefin-interbody/enriched/pedicle-screw--tides-medical--bluefin-interbody.json",
+        "bytes": 1398
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K143479.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--tides-medical--bluefin-interbody/fda_raw/MAX/K143479.json",
+        "bytes": 567
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--tides-medical--bluefin-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--tides-medical--bluefin-interbody/merged/pedicle-screw--tides-medical--bluefin-interbody.json",
+        "bytes": 817
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

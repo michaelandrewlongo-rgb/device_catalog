@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--accel-spine--renoir-posterior-cervial-fixation",
+  "artifact_folder": "corpectomy--accel-spine--renoir-posterior-cervial-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2878,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--accel-spine--renoir-posterior-cervial-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--accel-spine--renoir-posterior-cervial-fixation/enriched/corpectomy--accel-spine--renoir-posterior-cervial-fixation.json",
+        "bytes": 1436
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K121136.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--accel-spine--renoir-posterior-cervial-fixation/fda_raw/KWP/K121136.json",
+        "bytes": 587
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--accel-spine--renoir-posterior-cervial-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--accel-spine--renoir-posterior-cervial-fixation/merged/corpectomy--accel-spine--renoir-posterior-cervial-fixation.json",
+        "bytes": 855
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

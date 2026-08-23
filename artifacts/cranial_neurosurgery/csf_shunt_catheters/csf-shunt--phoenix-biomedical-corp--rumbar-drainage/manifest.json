@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--phoenix-biomedical-corp--rumbar-drainage",
+  "artifact_folder": "csf-shunt--phoenix-biomedical-corp--rumbar-drainage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2812,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--phoenix-biomedical-corp--rumbar-drainage.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--phoenix-biomedical-corp--rumbar-drainage/enriched/csf-shunt--phoenix-biomedical-corp--rumbar-drainage.json",
+        "bytes": 1404
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K000514.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--phoenix-biomedical-corp--rumbar-drainage/fda_raw/JXG/K000514.json",
+        "bytes": 585
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--phoenix-biomedical-corp--rumbar-drainage.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--phoenix-biomedical-corp--rumbar-drainage/merged/csf-shunt--phoenix-biomedical-corp--rumbar-drainage.json",
+        "bytes": 823
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

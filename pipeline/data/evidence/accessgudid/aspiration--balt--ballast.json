@@ -1,0 +1,292 @@
+[
+  {
+    "device_family": "aspiration--balt--ballast",
+    "query_used": "Ballast",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00380657515400",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "CONSTELLATION",
+      "companyName": "Alcon Laboratories, Inc.",
+      "deviceIdentifier": "8efc69c4-2344-4865-a89d-87db062fd38b",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "45073",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Phacoemulsification/vitrectomy system generator"
+        }
+      ],
+      "modelNumber": "8065751540"
+    },
+    "retrieved_at": "2026-04-15T10:18:38+00:00",
+    "source_id": "accessgudid:00380657515400",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/8efc69c4-2344-4865-a89d-87db062fd38b",
+    "title": "CONSTELLATION (Alcon Laboratories, Inc.)"
+  },
+  {
+    "device_family": "aspiration--balt--ballast",
+    "query_used": "Ballast",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "10889981149338",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Ballast",
+      "companyName": "ISOTIS ORTHOBIOLOGICS, INC.",
+      "deviceIdentifier": "9fcd84c0-2fcf-4507-bbc6-d112c03e6b02",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "47257",
+          "gmdnCodeStatus": "Active",
+          "implantable": "true",
+          "termName": "Bone matrix implant, human-derived"
+        }
+      ],
+      "modelNumber": "02-8000-180"
+    },
+    "retrieved_at": "2026-04-15T10:18:38+00:00",
+    "source_id": "accessgudid:10889981149338",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/9fcd84c0-2fcf-4507-bbc6-d112c03e6b02",
+    "title": "Ballast (ISOTIS ORTHOBIOLOGICS, INC.)"
+  },
+  {
+    "device_family": "aspiration--balt--ballast",
+    "query_used": "Ballast",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "10889981149321",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Ballast",
+      "companyName": "ISOTIS ORTHOBIOLOGICS, INC.",
+      "deviceIdentifier": "14a42235-a309-423b-b1db-919452f153b8",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "47257",
+          "gmdnCodeStatus": "Active",
+          "implantable": "true",
+          "termName": "Bone matrix implant, human-derived"
+        }
+      ],
+      "modelNumber": "02-8000-115"
+    },
+    "retrieved_at": "2026-04-15T10:18:38+00:00",
+    "source_id": "accessgudid:10889981149321",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/14a42235-a309-423b-b1db-919452f153b8",
+    "title": "Ballast (ISOTIS ORTHOBIOLOGICS, INC.)"
+  },
+  {
+    "device_family": "aspiration--balt--ballast",
+    "query_used": "Ballast",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "10889981149314",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Ballast",
+      "companyName": "ISOTIS ORTHOBIOLOGICS, INC.",
+      "deviceIdentifier": "8b1038c7-6cf4-41cc-8b6d-419e07b1108b",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "47257",
+          "gmdnCodeStatus": "Active",
+          "implantable": "true",
+          "termName": "Bone matrix implant, human-derived"
+        }
+      ],
+      "modelNumber": "02-8000-095"
+    },
+    "retrieved_at": "2026-04-15T10:18:38+00:00",
+    "source_id": "accessgudid:10889981149314",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/8b1038c7-6cf4-41cc-8b6d-419e07b1108b",
+    "title": "Ballast (ISOTIS ORTHOBIOLOGICS, INC.)"
+  },
+  {
+    "device_family": "aspiration--balt--ballast",
+    "query_used": "Ballast",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "10889981149307",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Ballast",
+      "companyName": "ISOTIS ORTHOBIOLOGICS, INC.",
+      "deviceIdentifier": "8c746055-cdc3-42cd-b8b6-9f90f5e4ef3b",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "47257",
+          "gmdnCodeStatus": "Active",
+          "implantable": "true",
+          "termName": "Bone matrix implant, human-derived"
+        }
+      ],
+      "modelNumber": "02-8000-060"
+    },
+    "retrieved_at": "2026-04-15T10:18:38+00:00",
+    "source_id": "accessgudid:10889981149307",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/8c746055-cdc3-42cd-b8b6-9f90f5e4ef3b",
+    "title": "Ballast (ISOTIS ORTHOBIOLOGICS, INC.)"
+  },
+  {
+    "device_family": "aspiration--balt--ballast",
+    "query_used": "Ballast",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "10889981232139",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Ballast",
+      "companyName": "ISOTIS ORTHOBIOLOGICS, INC.",
+      "deviceIdentifier": "ba404fdd-64f4-4289-86e7-ba0c0e3400fa",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "44688",
+          "gmdnCodeStatus": "Active",
+          "implantable": "true",
+          "termName": "Extra-gynaecological surgical mesh, synthetic polymer, bioabsorbable"
+        }
+      ],
+      "modelNumber": "02-1100-000"
+    },
+    "retrieved_at": "2026-04-15T10:18:38+00:00",
+    "source_id": "accessgudid:10889981232139",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/ba404fdd-64f4-4289-86e7-ba0c0e3400fa",
+    "title": "Ballast (ISOTIS ORTHOBIOLOGICS, INC.)"
+  },
+  {
+    "device_family": "aspiration--balt--ballast",
+    "query_used": "Ballast",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "10889981232122",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Ballast",
+      "companyName": "ISOTIS ORTHOBIOLOGICS, INC.",
+      "deviceIdentifier": "2b695502-ae0e-4fd4-a2cd-c8617b0af2a5",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "44688",
+          "gmdnCodeStatus": "Active",
+          "implantable": "true",
+          "termName": "Extra-gynaecological surgical mesh, synthetic polymer, bioabsorbable"
+        }
+      ],
+      "modelNumber": "02-1000-000"
+    },
+    "retrieved_at": "2026-04-15T10:18:38+00:00",
+    "source_id": "accessgudid:10889981232122",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/2b695502-ae0e-4fd4-a2cd-c8617b0af2a5",
+    "title": "Ballast (ISOTIS ORTHOBIOLOGICS, INC.)"
+  },
+  {
+    "device_family": "aspiration--balt--ballast",
+    "query_used": "Ballast",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "10889981189259",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Ballast™",
+      "companyName": "Seaspine Orthopedics Corporation",
+      "deviceIdentifier": "0e67f0f3-1ecd-48f4-a8a0-c3f2b6c2b248",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "47257",
+          "gmdnCodeStatus": "Active",
+          "implantable": "true",
+          "termName": "Bone matrix implant, human-derived"
+        }
+      ],
+      "modelNumber": "02-8000-160"
+    },
+    "retrieved_at": "2026-04-15T10:18:38+00:00",
+    "source_id": "accessgudid:10889981189259",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/0e67f0f3-1ecd-48f4-a8a0-c3f2b6c2b248",
+    "title": "Ballast™ (Seaspine Orthopedics Corporation)"
+  },
+  {
+    "device_family": "aspiration--balt--ballast",
+    "query_used": "Ballast",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00763000092504",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "CD HORIZON® Spinal System",
+      "companyName": "MEDTRONIC SOFAMOR DANEK, INC.",
+      "deviceIdentifier": "0678cb8b-65c0-4958-b75f-4e29d72cd0c5",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "12143",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Instrument tray, reusable"
+        }
+      ],
+      "modelNumber": "RBT090008"
+    },
+    "retrieved_at": "2026-04-15T10:18:38+00:00",
+    "source_id": "accessgudid:00763000092504",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/0678cb8b-65c0-4958-b75f-4e29d72cd0c5",
+    "title": "CD HORIZON® Spinal System (MEDTRONIC SOFAMOR DANEK, INC.)"
+  },
+  {
+    "device_family": "aspiration--balt--ballast",
+    "query_used": "Ballast",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00643169523838",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "CD HORIZON® Spinal System",
+      "companyName": "MEDTRONIC SOFAMOR DANEK, INC.",
+      "deviceIdentifier": "be18fb66-e9a6-4bee-bc7d-f58652856aa9",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "12143",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Instrument tray, reusable"
+        }
+      ],
+      "modelNumber": "2950002"
+    },
+    "retrieved_at": "2026-04-15T10:18:38+00:00",
+    "source_id": "accessgudid:00643169523838",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/be18fb66-e9a6-4bee-bc7d-f58652856aa9",
+    "title": "CD HORIZON® Spinal System (MEDTRONIC SOFAMOR DANEK, INC.)"
+  }
+]

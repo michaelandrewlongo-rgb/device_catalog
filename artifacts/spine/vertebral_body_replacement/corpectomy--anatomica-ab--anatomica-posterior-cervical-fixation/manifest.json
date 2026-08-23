@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--anatomica-ab--anatomica-posterior-cervical-fixation",
+  "artifact_folder": "corpectomy--anatomica-ab--anatomica-posterior-cervical-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2917,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--anatomica-ab--anatomica-posterior-cervical-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--anatomica-ab--anatomica-posterior-cervical-fixation/enriched/corpectomy--anatomica-ab--anatomica-posterior-cervical-fixation.json",
+        "bytes": 1450
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K061943.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--anatomica-ab--anatomica-posterior-cervical-fixation/fda_raw/KWP/K061943.json",
+        "bytes": 598
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--anatomica-ab--anatomica-posterior-cervical-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--anatomica-ab--anatomica-posterior-cervical-fixation/merged/corpectomy--anatomica-ab--anatomica-posterior-cervical-fixation.json",
+        "bytes": 869
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

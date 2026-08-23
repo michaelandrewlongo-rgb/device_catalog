@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--howmedica-osteonics-corp--xia-spine-sacral-block-assembly",
+  "artifact_folder": "corpectomy--howmedica-osteonics-corp--xia-spine-sacral-block-assembly",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2954,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--howmedica-osteonics-corp--xia-spine-sacral-block-assembly.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--howmedica-osteonics-corp--xia-spine-sacral-block-assembly/enriched/corpectomy--howmedica-osteonics-corp--xia-spine-sacral-block-assembly.json",
+        "bytes": 1456
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K001653.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--howmedica-osteonics-corp--xia-spine-sacral-block-assembly/fda_raw/KWP/K001653.json",
+        "bytes": 623
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--howmedica-osteonics-corp--xia-spine-sacral-block-assembly.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--howmedica-osteonics-corp--xia-spine-sacral-block-assembly/merged/corpectomy--howmedica-osteonics-corp--xia-spine-sacral-block-assembly.json",
+        "bytes": 875
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

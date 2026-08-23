@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K200048",
+  "clearance_date": "2020-03-09",
+  "device_class": 2,
+  "manufacturer_canonical": "medacta-international-s-a",
+  "manufacturer_raw": "Medacta International S.A.",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "MectaLIF Anterior Simple",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--medacta-international-s-a--mectalif-anterior-simple",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K200048.pdf"
+}

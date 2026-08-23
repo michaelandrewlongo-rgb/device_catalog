@@ -1,0 +1,42 @@
+{
+  "device_slug": "corpectomy--medacta-international--m-u-s-t-pedicle",
+  "artifact_folder": "corpectomy--medacta-international--m-u-s-t-pedicle",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3667,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--medacta-international--m-u-s-t-pedicle.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medacta-international--m-u-s-t-pedicle/enriched/corpectomy--medacta-international--m-u-s-t-pedicle.json",
+        "bytes": 1657
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/corpectomy--medacta-international--m-u-s-t-pedicle.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medacta-international--m-u-s-t-pedicle/extracted/fda_structured/corpectomy--medacta-international--m-u-s-t-pedicle.json",
+        "bytes": 590
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K121115.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medacta-international--m-u-s-t-pedicle/fda_raw/KWP/K121115.json",
+        "bytes": 587
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--medacta-international--m-u-s-t-pedicle.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medacta-international--m-u-s-t-pedicle/merged/corpectomy--medacta-international--m-u-s-t-pedicle.json",
+        "bytes": 833
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--medtronic--cd-horizon-astute-spinal-cd",
+  "artifact_folder": "interbody-cage--medtronic--cd-horizon-astute-spinal-cd",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 4421,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--medtronic--cd-horizon-astute-spinal-cd.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--cd-horizon-astute-spinal-cd/enriched/interbody-cage--medtronic--cd-horizon-astute-spinal-cd.json",
+        "bytes": 2244
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K221646.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--cd-horizon-astute-spinal-cd/fda_raw/NKB/K221646.json",
+        "bytes": 822
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--medtronic--cd-horizon-astute-spinal-cd.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--cd-horizon-astute-spinal-cd/merged/interbody-cage--medtronic--cd-horizon-astute-spinal-cd.json",
+        "bytes": 1355
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

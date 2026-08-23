@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--trans1-incorporated--trans1-lateral-intervertebral-fusion-t",
+  "artifact_folder": "pedicle-screw--trans1-incorporated--trans1-lateral-intervertebral-fusion-t",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2997,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--trans1-incorporated--trans1-lateral-intervertebral-fusion-t.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--trans1-incorporated--trans1-lateral-intervertebral-fusion-t/enriched/pedicle-screw--trans1-incorporated--trans1-lateral-intervertebral-fusion-t.json",
+        "bytes": 1475
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K100210.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--trans1-incorporated--trans1-lateral-intervertebral-fusion-t/fda_raw/MAX/K100210.json",
+        "bytes": 628
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--trans1-incorporated--trans1-lateral-intervertebral-fusion-t.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--trans1-incorporated--trans1-lateral-intervertebral-fusion-t/merged/pedicle-screw--trans1-incorporated--trans1-lateral-intervertebral-fusion-t.json",
+        "bytes": 894
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

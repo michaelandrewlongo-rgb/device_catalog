@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--g-surgical-llc--g-surgical-marksman-spinal-deformity",
+  "artifact_folder": "interbody-cage--g-surgical-llc--g-surgical-marksman-spinal-deformity",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2948,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--g-surgical-llc--g-surgical-marksman-spinal-deformity.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--g-surgical-llc--g-surgical-marksman-spinal-deformity/enriched/interbody-cage--g-surgical-llc--g-surgical-marksman-spinal-deformity.json",
+        "bytes": 1459
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K230063.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--g-surgical-llc--g-surgical-marksman-spinal-deformity/fda_raw/NKB/K230063.json",
+        "bytes": 611
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--g-surgical-llc--g-surgical-marksman-spinal-deformity.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--g-surgical-llc--g-surgical-marksman-spinal-deformity/merged/interbody-cage--g-surgical-llc--g-surgical-marksman-spinal-deformity.json",
+        "bytes": 878
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

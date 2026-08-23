@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--calvary-spine-llc--integra-cervical-and-petra-plif",
+  "artifact_folder": "pedicle-screw--calvary-spine-llc--integra-cervical-and-petra-plif",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2953,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--calvary-spine-llc--integra-cervical-and-petra-plif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--calvary-spine-llc--integra-cervical-and-petra-plif/enriched/pedicle-screw--calvary-spine-llc--integra-cervical-and-petra-plif.json",
+        "bytes": 1460
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K082260.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--calvary-spine-llc--integra-cervical-and-petra-plif/fda_raw/MAX/K082260.json",
+        "bytes": 614
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--calvary-spine-llc--integra-cervical-and-petra-plif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--calvary-spine-llc--integra-cervical-and-petra-plif/merged/pedicle-screw--calvary-spine-llc--integra-cervical-and-petra-plif.json",
+        "bytes": 879
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

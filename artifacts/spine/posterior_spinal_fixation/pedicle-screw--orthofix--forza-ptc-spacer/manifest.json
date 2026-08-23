@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--orthofix--forza-ptc-spacer",
+  "artifact_folder": "pedicle-screw--orthofix--forza-ptc-spacer",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2745,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--orthofix--forza-ptc-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--orthofix--forza-ptc-spacer/enriched/pedicle-screw--orthofix--forza-ptc-spacer.json",
+        "bytes": 1385
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K152475.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--orthofix--forza-ptc-spacer/fda_raw/MAX/K152475.json",
+        "bytes": 556
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--orthofix--forza-ptc-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--orthofix--forza-ptc-spacer/merged/pedicle-screw--orthofix--forza-ptc-spacer.json",
+        "bytes": 804
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

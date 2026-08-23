@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--acromed-corp--isola-pediatric-components",
+  "artifact_folder": "corpectomy--acromed-corp--isola-pediatric-components",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2795,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--acromed-corp--isola-pediatric-components.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--acromed-corp--isola-pediatric-components/enriched/corpectomy--acromed-corp--isola-pediatric-components.json",
+        "bytes": 1403
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K962984.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--acromed-corp--isola-pediatric-components/fda_raw/KWP/K962984.json",
+        "bytes": 570
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--acromed-corp--isola-pediatric-components.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--acromed-corp--isola-pediatric-components/merged/corpectomy--acromed-corp--isola-pediatric-components.json",
+        "bytes": 822
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

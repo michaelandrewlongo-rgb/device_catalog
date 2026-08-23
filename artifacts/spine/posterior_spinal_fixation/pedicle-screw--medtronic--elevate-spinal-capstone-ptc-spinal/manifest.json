@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--medtronic--elevate-spinal-capstone-ptc-spinal",
+  "artifact_folder": "pedicle-screw--medtronic--elevate-spinal-capstone-ptc-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3900,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--medtronic--elevate-spinal-capstone-ptc-spinal.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--elevate-spinal-capstone-ptc-spinal/enriched/pedicle-screw--medtronic--elevate-spinal-capstone-ptc-spinal.json",
+        "bytes": 2242
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K172199.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--elevate-spinal-capstone-ptc-spinal/fda_raw/MAX/K172199.json",
+        "bytes": 668
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--medtronic--elevate-spinal-capstone-ptc-spinal.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--elevate-spinal-capstone-ptc-spinal/merged/pedicle-screw--medtronic--elevate-spinal-capstone-ptc-spinal.json",
+        "bytes": 990
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

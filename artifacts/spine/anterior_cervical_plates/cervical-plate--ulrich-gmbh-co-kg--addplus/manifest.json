@@ -1,0 +1,42 @@
+{
+  "device_slug": "cervical-plate--ulrich-gmbh-co-kg--addplus",
+  "artifact_folder": "cervical-plate--ulrich-gmbh-co-kg--addplus",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3540,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--ulrich-gmbh-co-kg--addplus.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--ulrich-gmbh-co-kg--addplus/enriched/cervical-plate--ulrich-gmbh-co-kg--addplus.json",
+        "bytes": 1619
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/cervical-plate--ulrich-gmbh-co-kg--addplus.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--ulrich-gmbh-co-kg--addplus/extracted/fda_structured/cervical-plate--ulrich-gmbh-co-kg--addplus.json",
+        "bytes": 581
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K090841.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--ulrich-gmbh-co-kg--addplus/fda_raw/MQP/K090841.json",
+        "bytes": 557
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--ulrich-gmbh-co-kg--addplus.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--ulrich-gmbh-co-kg--addplus/merged/cervical-plate--ulrich-gmbh-co-kg--addplus.json",
+        "bytes": 783
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K190483",
+  "clearance_date": "2019-09-23",
+  "device_class": 2,
+  "manufacturer_canonical": "camber-spine-technologies",
+  "manufacturer_raw": "Camber Spine Technologies",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "SPIRA Open Matrix ALIF and LLIF",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--camber-spine-technologies--spira-open-matrix-alif-and",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf19/K190483.pdf"
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--medtronic--verte-stack-spinal-extra-small",
+  "artifact_folder": "cervical-plate--medtronic--verte-stack-spinal-extra-small",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2913,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--medtronic--verte-stack-spinal-extra-small.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--verte-stack-spinal-extra-small/enriched/cervical-plate--medtronic--verte-stack-spinal-extra-small.json",
+        "bytes": 1445
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K030736.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--verte-stack-spinal-extra-small/fda_raw/MQP/K030736.json",
+        "bytes": 604
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--medtronic--verte-stack-spinal-extra-small.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--verte-stack-spinal-extra-small/merged/cervical-plate--medtronic--verte-stack-spinal-extra-small.json",
+        "bytes": 864
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

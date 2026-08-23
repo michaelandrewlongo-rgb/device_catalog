@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--nu-vasive-incorporated--vertera-spine-coalesce-thoracolumbar-interbody",
+  "artifact_folder": "pedicle-screw--nu-vasive-incorporated--vertera-spine-coalesce-thoracolumbar-interbody",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3149,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--nu-vasive-incorporated--vertera-spine-coalesce-thoracolumbar-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nu-vasive-incorporated--vertera-spine-coalesce-thoracolumbar-interbody/enriched/pedicle-screw--nu-vasive-incorporated--vertera-spine-coalesce-thoracolumbar-interbody.json",
+        "bytes": 1525
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K173153.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nu-vasive-incorporated--vertera-spine-coalesce-thoracolumbar-interbody/fda_raw/MAX/K173153.json",
+        "bytes": 664
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--nu-vasive-incorporated--vertera-spine-coalesce-thoracolumbar-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nu-vasive-incorporated--vertera-spine-coalesce-thoracolumbar-interbody/merged/pedicle-screw--nu-vasive-incorporated--vertera-spine-coalesce-thoracolumbar-interbody.json",
+        "bytes": 960
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

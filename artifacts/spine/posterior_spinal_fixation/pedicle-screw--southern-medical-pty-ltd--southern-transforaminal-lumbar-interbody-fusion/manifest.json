@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--southern-medical-pty-ltd--southern-transforaminal-lumbar-interbody-fusion",
+  "artifact_folder": "pedicle-screw--southern-medical-pty-ltd--southern-transforaminal-lumbar-interbody-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3104,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--southern-medical-pty-ltd--southern-transforaminal-lumbar-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--southern-medical-pty-ltd--southern-transforaminal-lumbar-interbody-fusion/enriched/pedicle-screw--southern-medical-pty-ltd--southern-transforaminal-lumbar-interbody-fusion.json",
+        "bytes": 1510
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K221182.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--southern-medical-pty-ltd--southern-transforaminal-lumbar-interbody-fusion/fda_raw/MAX/K221182.json",
+        "bytes": 665
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--southern-medical-pty-ltd--southern-transforaminal-lumbar-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--southern-medical-pty-ltd--southern-transforaminal-lumbar-interbody-fusion/merged/pedicle-screw--southern-medical-pty-ltd--southern-transforaminal-lumbar-interbody-fusion.json",
+        "bytes": 929
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

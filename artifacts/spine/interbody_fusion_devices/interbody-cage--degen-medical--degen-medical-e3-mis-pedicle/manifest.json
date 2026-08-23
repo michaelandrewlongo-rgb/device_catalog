@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--degen-medical--degen-medical-e3-mis-pedicle",
+  "artifact_folder": "interbody-cage--degen-medical--degen-medical-e3-mis-pedicle",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2906,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--degen-medical--degen-medical-e3-mis-pedicle.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--degen-medical--degen-medical-e3-mis-pedicle/enriched/interbody-cage--degen-medical--degen-medical-e3-mis-pedicle.json",
+        "bytes": 1445
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K173814.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--degen-medical--degen-medical-e3-mis-pedicle/fda_raw/NKB/K173814.json",
+        "bytes": 597
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--degen-medical--degen-medical-e3-mis-pedicle.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--degen-medical--degen-medical-e3-mis-pedicle/merged/interbody-cage--degen-medical--degen-medical-e3-mis-pedicle.json",
+        "bytes": 864
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

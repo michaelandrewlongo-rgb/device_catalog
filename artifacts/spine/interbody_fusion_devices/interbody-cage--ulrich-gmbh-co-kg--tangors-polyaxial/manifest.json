@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--ulrich-gmbh-co-kg--tangors-polyaxial",
+  "artifact_folder": "interbody-cage--ulrich-gmbh-co-kg--tangors-polyaxial",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2819,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--ulrich-gmbh-co-kg--tangors-polyaxial.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--ulrich-gmbh-co-kg--tangors-polyaxial/enriched/interbody-cage--ulrich-gmbh-co-kg--tangors-polyaxial.json",
+        "bytes": 1408
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K052385.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--ulrich-gmbh-co-kg--tangors-polyaxial/fda_raw/NKB/K052385.json",
+        "bytes": 584
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--ulrich-gmbh-co-kg--tangors-polyaxial.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--ulrich-gmbh-co-kg--tangors-polyaxial/merged/interbody-cage--ulrich-gmbh-co-kg--tangors-polyaxial.json",
+        "bytes": 827
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

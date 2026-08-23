@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--rti-surgical-inc--fortilink-r-interbody-fusion-ibf",
+  "artifact_folder": "pedicle-screw--rti-surgical-inc--fortilink-r-interbody-fusion-ibf",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3106,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--rti-surgical-inc--fortilink-r-interbody-fusion-ibf.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--rti-surgical-inc--fortilink-r-interbody-fusion-ibf/enriched/pedicle-screw--rti-surgical-inc--fortilink-r-interbody-fusion-ibf.json",
+        "bytes": 1515
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K172343.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--rti-surgical-inc--fortilink-r-interbody-fusion-ibf/fda_raw/MAX/K172343.json",
+        "bytes": 641
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--rti-surgical-inc--fortilink-r-interbody-fusion-ibf.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--rti-surgical-inc--fortilink-r-interbody-fusion-ibf/merged/pedicle-screw--rti-surgical-inc--fortilink-r-interbody-fusion-ibf.json",
+        "bytes": 950
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

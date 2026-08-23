@@ -1,0 +1,62 @@
+{
+  "device_name": "Biomet Spine Fusion System",
+  "manufacturer": "biomet-spine-llc",
+  "catalog_category": "pedicle-screw",
+  "filename_stem": "pedicle-screw--biomet-spine-llc--biomet-spine-fusion",
+  "clearance_type": "510k",
+  "clearance_number": "K153695",
+  "clearance_date": "2016-01-21",
+  "device_class": 2,
+  "device_name_fda": "Biomet Spine Fusion System",
+  "product_code": "MAX",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "[FDA RECALL] 2 active recall(s).\n  - Biomet Spine, LLC. announces voluntary recall of Durango Anchored ALIF Plate due to the set screw component potentially becoming dislodged from the plate assembly.\n  - Biomet Spine, LLC is recalling the Timberline Cranial Caudal and Posterior Blades, 40-180mm due to oversize of the set screw hex feature.",
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf15/K153695.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "none",
+      "confidence": 0
+    },
+    "sizing_specs": {
+      "source": "none",
+      "confidence": 0
+    },
+    "indications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "none",
+      "confidence": 0
+    },
+    "also_known_as": {
+      "source": "none",
+      "confidence": 0
+    },
+    "_safety": {
+      "source": "fda_maude+recalls",
+      "confidence": 0.85
+    }
+  }
+}

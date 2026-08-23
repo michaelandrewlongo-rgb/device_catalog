@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K062009",
+  "clearance_date": "2007-01-17",
+  "device_class": 2,
+  "manufacturer_canonical": "aesculap-inc",
+  "manufacturer_raw": "Aesculap, Inc.",
+  "catalog_category": "csf-shunt",
+  "device_name_fda": "AESCULAP-MEITHKE PROGAV PROGRAMMABLE VALVE, MODELS FV410T-FV451T",
+  "product_code": "JXG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "csf-shunt--aesculap-inc--aesculap-meithke-progav-programmable-valve",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf06/K062009.pdf"
+}

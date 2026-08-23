@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K013488",
+  "clearance_date": "2002-03-27",
+  "device_class": 2,
+  "manufacturer_canonical": "sophysa-sa",
+  "manufacturer_raw": "Sophysa SA",
+  "catalog_category": "csf-shunt",
+  "device_name_fda": "SOPHY PRESSURE ADJUSTABLE VALVE SYSTEM MODEL SM8",
+  "product_code": "JXG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "csf-shunt--sophysa-sa--sophy-pressure-adjustable-valve-model",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf01/K013488.pdf"
+}

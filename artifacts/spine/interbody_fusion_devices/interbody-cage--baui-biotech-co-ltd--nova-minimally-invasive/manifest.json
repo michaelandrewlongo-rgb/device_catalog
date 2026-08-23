@@ -1,0 +1,47 @@
+{
+  "device_slug": "interbody-cage--baui-biotech-co-ltd--nova-minimally-invasive",
+  "artifact_folder": "interbody-cage--baui-biotech-co-ltd--nova-minimally-invasive",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 4330,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--baui-biotech-co-ltd--nova-minimally-invasive.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--baui-biotech-co-ltd--nova-minimally-invasive/enriched/interbody-cage--baui-biotech-co-ltd--nova-minimally-invasive.json",
+        "bytes": 1679
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--baui-biotech-co-ltd--nova-minimally-invasive.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--baui-biotech-co-ltd--nova-minimally-invasive/extracted/fda_structured/interbody-cage--baui-biotech-co-ltd--nova-minimally-invasive.json",
+        "bytes": 598
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K182416.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--baui-biotech-co-ltd--nova-minimally-invasive/fda_raw/NKB/K182416.json",
+        "bytes": 602
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K242899.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--baui-biotech-co-ltd--nova-minimally-invasive/fda_raw/NKB/K242899.json",
+        "bytes": 602
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--baui-biotech-co-ltd--nova-minimally-invasive.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--baui-biotech-co-ltd--nova-minimally-invasive/merged/interbody-cage--baui-biotech-co-ltd--nova-minimally-invasive.json",
+        "bytes": 849
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

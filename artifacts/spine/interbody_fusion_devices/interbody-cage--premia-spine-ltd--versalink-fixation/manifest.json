@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--premia-spine-ltd--versalink-fixation",
+  "artifact_folder": "interbody-cage--premia-spine-ltd--versalink-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2837,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--premia-spine-ltd--versalink-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--premia-spine-ltd--versalink-fixation/enriched/interbody-cage--premia-spine-ltd--versalink-fixation.json",
+        "bytes": 1413
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K182598.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--premia-spine-ltd--versalink-fixation/fda_raw/NKB/K182598.json",
+        "bytes": 584
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--premia-spine-ltd--versalink-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--premia-spine-ltd--versalink-fixation/merged/interbody-cage--premia-spine-ltd--versalink-fixation.json",
+        "bytes": 840
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

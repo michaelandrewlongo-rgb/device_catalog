@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--medtronic--tsrh-spinal",
+  "artifact_folder": "corpectomy--medtronic--tsrh-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3182,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--medtronic--tsrh-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--tsrh-spinal/enriched/corpectomy--medtronic--tsrh-spinal.json",
+        "bytes": 1836
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K021170.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--tsrh-spinal/fda_raw/KWP/K021170.json",
+        "bytes": 561
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--medtronic--tsrh-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--tsrh-spinal/merged/corpectomy--medtronic--tsrh-spinal.json",
+        "bytes": 785
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

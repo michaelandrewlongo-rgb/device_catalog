@@ -1,0 +1,28 @@
+{
+  "device_slug": "navigation--medtronic--stealthstation-cranial--pocket-guide",
+  "artifact_folder": "navigation--medtronic--stealthstation-cranial--pocket-guide",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 2,
+  "bytes": 12964623,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/navigation--medtronic--stealthstation-cranial--pocket-guide.pdf",
+        "artifact": "artifacts/_outside_seed_registries/navigation/navigation--medtronic--stealthstation-cranial--pocket-guide/data_by_device/navigation--medtronic--stealthstation-cranial--pocket-guide.pdf",
+        "bytes": 12961319
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/documents/navigation--medtronic--stealthstation-cranial--pocket-guide.json",
+        "artifact": "artifacts/_outside_seed_registries/navigation/navigation--medtronic--stealthstation-cranial--pocket-guide/extracted/documents/navigation--medtronic--stealthstation-cranial--pocket-guide.json",
+        "bytes": 3304
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "navigation",
+    "label": "Outside listed seed registries"
+  }
+}

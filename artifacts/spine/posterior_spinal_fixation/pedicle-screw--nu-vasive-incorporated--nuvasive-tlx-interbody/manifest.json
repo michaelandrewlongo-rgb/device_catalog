@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--nu-vasive-incorporated--nuvasive-tlx-interbody",
+  "artifact_folder": "pedicle-screw--nu-vasive-incorporated--nuvasive-tlx-interbody",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2886,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--nu-vasive-incorporated--nuvasive-tlx-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nu-vasive-incorporated--nuvasive-tlx-interbody/enriched/pedicle-screw--nu-vasive-incorporated--nuvasive-tlx-interbody.json",
+        "bytes": 1431
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K171633.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nu-vasive-incorporated--nuvasive-tlx-interbody/fda_raw/MAX/K171633.json",
+        "bytes": 605
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--nu-vasive-incorporated--nuvasive-tlx-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nu-vasive-incorporated--nuvasive-tlx-interbody/merged/pedicle-screw--nu-vasive-incorporated--nuvasive-tlx-interbody.json",
+        "bytes": 850
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

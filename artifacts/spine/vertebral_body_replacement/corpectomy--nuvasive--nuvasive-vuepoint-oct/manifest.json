@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--nuvasive--nuvasive-vuepoint-oct",
+  "artifact_folder": "corpectomy--nuvasive--nuvasive-vuepoint-oct",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2767,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--nuvasive--nuvasive-vuepoint-oct.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--nuvasive--nuvasive-vuepoint-oct/enriched/corpectomy--nuvasive--nuvasive-vuepoint-oct.json",
+        "bytes": 1394
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K093319.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--nuvasive--nuvasive-vuepoint-oct/fda_raw/KWP/K093319.json",
+        "bytes": 560
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--nuvasive--nuvasive-vuepoint-oct.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--nuvasive--nuvasive-vuepoint-oct/merged/corpectomy--nuvasive--nuvasive-vuepoint-oct.json",
+        "bytes": 813
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

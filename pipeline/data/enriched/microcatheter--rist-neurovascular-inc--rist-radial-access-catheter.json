@@ -11,12 +11,35 @@
   "product_code": "QJP",
   "what_it_is": null,
   "sizing_specs": null,
-  "indications": null,
+  "indications": "Indications for Use See PRA Statement below.\n510(k) Number (if known)\nK200417\nDevice Name\nRIST Radial Access Catheter\nIndications for Use (Describe)\nThe RIST Radial Access Catheter is indicated for the introduction of interventional devices into the peripheral, coronary,\nand neuro vasculature.\nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)\nCONTINUE ON A SEPARATE PAGE IF NEEDED.\nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the\ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any other aspect\nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of\ninformation unless it displays a currently valid OMB number.”\nFORM FDA 3881 (7/17) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF\n\nRIST Neurovascular, Inc.\nTraditional 510(k) – RIST Radial Access Catheter\nApril 2020\n510(k) Summary\nDate Summary Prepared: April 23, 2020\nSubmitter: RIST Neurovascular, Inc.\n11611 Interchange Circle S\nMiramar, FL 33025\nPrimary Submission Contact: Vyoma Upadhya Chikara\nDesign Quality/RA\nRIST Neurovascular Inc.\n11611 Interchange Circle South\nMiramar, FL 33025\nTelephone: 1-954-559-1323\nFacsimile: 1-954-742-5989\nE-Mail: Vyoma@InNeuroCo.com\nSecondary Submission Contact: Marianne Grunwaldt\nDirector, Quality Assurance & Regulatory Affairs\nRIST Neurovascular Inc.\n11611 Interchange Circle South\nMiramar, FL 33025\nTelephone: 1-305-495-3883\nFacsimile: 1-954-742-5989\nE-Mail: Marianne@InNeuroCo.com\nTrade Name: RIST Radial Access Catheter\nRegulation Number: 21 CFR 870.1250\nDevice Common or\nClassification Name: Percutaneous Catheter\nProduct Class: Class II\nProduct Panel: Cardiovascular\nProduct Code: QJP, DQY",
   "contraindications": null,
   "compatible_with": null,
   "use_notes": null,
   "deployment_steps": null,
-  "also_known_as": [],
+  "also_known_as": [
+    "K142321",
+    "K191551",
+    "K191551",
+    "K191551",
+    "K142321",
+    "K191551",
+    "K142321",
+    "K082290",
+    "K142321",
+    "K082290",
+    "K142321",
+    "K152202",
+    "K161262",
+    "K152202",
+    "K161262",
+    "K161262",
+    "K152202",
+    "K152876",
+    "K161262",
+    "K152202",
+    "K152876",
+    "K142321"
+  ],
   "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K201682.pdf",
   "ifu_pdf_url": null,
   "source_url": "",
@@ -35,8 +58,8 @@
       "confidence": 0
     },
     "indications": {
-      "source": "none",
-      "confidence": 0
+      "source": "fda_summary",
+      "confidence": 0.95
     },
     "contraindications": {
       "source": "none",
@@ -51,8 +74,8 @@
       "confidence": 0
     },
     "also_known_as": {
-      "source": "none",
-      "confidence": 0
+      "source": "fda_summary",
+      "confidence": 0.3
     }
   }
 }

@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--depuy--synapse-synthes-oc-fusion",
+  "artifact_folder": "corpectomy--depuy--synapse-synthes-oc-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2992,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--depuy--synapse-synthes-oc-fusion.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--synapse-synthes-oc-fusion/enriched/corpectomy--depuy--synapse-synthes-oc-fusion.json",
+        "bytes": 1576
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K141897.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--synapse-synthes-oc-fusion/fda_raw/KWP/K141897.json",
+        "bytes": 581
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--depuy--synapse-synthes-oc-fusion.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--synapse-synthes-oc-fusion/merged/corpectomy--depuy--synapse-synthes-oc-fusion.json",
+        "bytes": 835
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

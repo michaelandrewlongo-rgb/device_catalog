@@ -1,0 +1,20 @@
+{
+  "source_pdf": "reference--viktors-notes--instruments-materials--chapter.pdf",
+  "device_name": "instruments-materials",
+  "manufacturer": "viktors-notes",
+  "doc_type": "chapter",
+  "extraction_method": "pdf_deepseek",
+  "fields": {
+    "what_it_is": "Surgical instruments and materials used in neurosurgery, including needles, hemostatic materials, antibacterial materials, electrosurgery equipment, skin substitutes/allografts, bone substitutes/allografts, bone growth stimulators, dural sealants, dural substitutes, dural clips, head holders, cranial plating systems, drills, ultrasonic bone scalpels, retractors, CNS parenchyma protectors, probes/dissectors, CNS parenchyma ablators, tables and frames, exoscopes, ventricular endoscopes, headlights, microscopes, intraoperative imaging (X-ray and CT), and robots.",
+    "sizing_specs": "| HEADLIGHTS                |                                                               |       |      |      |         |  |  |  |  |\n|---------------------------|---------------------------------------------------------------|-------|------|------|---------|--|--|--|--|\n|                           | Integra                                                       | Storz | Wolf | ACMI | Olympus |  |  |  |  |\n| Price                     |                                                               |       |      |      |         |  |  |  |  |\n| Contact                   | 311 Enterprise Drive,<br>Plainsboro, NJ 08536<br>800-997-4868 |       |      |      |         |  |  |  |  |\n| Strength                  | 350+ lumens<br>guaranteed after                               |       |      |      |         |  |  |  |  |\n|                           | 20 min burn in<br>on highest<br>setting                       |       |      |      |         |  |  |  |  |\n| Hours of LED<br>operation | 25,000+                                                       |       |      |      |         |  |  |  |  |\n|                           |                                                               |       |      |      |         |  |  |  |  |\n| Perks                     | Audible battery<br>life notifications                         |       |      |      |         |  |  |  |  |\n|                           |                                                               |       |      |      |         |  |  |  |  |",
+    "indications": null,
+    "contraindications": null,
+    "compatible_with": null,
+    "use_notes": null,
+    "also_known_as": null
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "sizing_specs": 0.7
+  }
+}

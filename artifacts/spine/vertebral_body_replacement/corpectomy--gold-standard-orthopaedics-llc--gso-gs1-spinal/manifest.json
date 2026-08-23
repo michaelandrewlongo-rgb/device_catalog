@@ -1,0 +1,42 @@
+{
+  "device_slug": "corpectomy--gold-standard-orthopaedics-llc--gso-gs1-spinal",
+  "artifact_folder": "corpectomy--gold-standard-orthopaedics-llc--gso-gs1-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3638,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--gold-standard-orthopaedics-llc--gso-gs1-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--gold-standard-orthopaedics-llc--gso-gs1-spinal/enriched/corpectomy--gold-standard-orthopaedics-llc--gso-gs1-spinal.json",
+        "bytes": 1636
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/corpectomy--gold-standard-orthopaedics-llc--gso-gs1-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--gold-standard-orthopaedics-llc--gso-gs1-spinal/extracted/fda_structured/corpectomy--gold-standard-orthopaedics-llc--gso-gs1-spinal.json",
+        "bytes": 559
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K070966.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--gold-standard-orthopaedics-llc--gso-gs1-spinal/fda_raw/KWP/K070966.json",
+        "bytes": 607
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--gold-standard-orthopaedics-llc--gso-gs1-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--gold-standard-orthopaedics-llc--gso-gs1-spinal/merged/corpectomy--gold-standard-orthopaedics-llc--gso-gs1-spinal.json",
+        "bytes": 836
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

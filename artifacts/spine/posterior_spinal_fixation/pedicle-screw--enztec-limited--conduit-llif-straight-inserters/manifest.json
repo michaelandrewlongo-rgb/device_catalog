@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--enztec-limited--conduit-llif-straight-inserters",
+  "artifact_folder": "pedicle-screw--enztec-limited--conduit-llif-straight-inserters",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2866,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--enztec-limited--conduit-llif-straight-inserters.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--enztec-limited--conduit-llif-straight-inserters/enriched/pedicle-screw--enztec-limited--conduit-llif-straight-inserters.json",
+        "bytes": 1428
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K223671.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--enztec-limited--conduit-llif-straight-inserters/fda_raw/MAX/K223671.json",
+        "bytes": 591
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--enztec-limited--conduit-llif-straight-inserters.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--enztec-limited--conduit-llif-straight-inserters/merged/pedicle-screw--enztec-limited--conduit-llif-straight-inserters.json",
+        "bytes": 847
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

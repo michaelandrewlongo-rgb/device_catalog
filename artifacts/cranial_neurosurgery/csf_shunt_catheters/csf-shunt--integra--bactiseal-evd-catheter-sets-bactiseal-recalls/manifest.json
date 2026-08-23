@@ -1,0 +1,21 @@
+{
+  "device_slug": "csf-shunt--integra--bactiseal-evd-catheter-sets-bactiseal-recalls",
+  "artifact_folder": "csf-shunt--integra--bactiseal-evd-catheter-sets-bactiseal-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 14680,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/csf-shunt--integra--bactiseal-evd-catheter-sets-bactiseal-recalls.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--bactiseal-evd-catheter-sets-bactiseal-recalls/extracted/fda_safety/csf-shunt--integra--bactiseal-evd-catheter-sets-bactiseal-recalls.json",
+        "bytes": 14680
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

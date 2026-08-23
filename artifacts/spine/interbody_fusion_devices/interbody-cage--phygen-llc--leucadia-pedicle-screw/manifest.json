@@ -1,0 +1,42 @@
+{
+  "device_slug": "interbody-cage--phygen-llc--leucadia-pedicle-screw",
+  "artifact_folder": "interbody-cage--phygen-llc--leucadia-pedicle-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3692,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--phygen-llc--leucadia-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--phygen-llc--leucadia-pedicle-screw/enriched/interbody-cage--phygen-llc--leucadia-pedicle-screw.json",
+        "bytes": 1677
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--phygen-llc--leucadia-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--phygen-llc--leucadia-pedicle-screw/extracted/fda_structured/interbody-cage--phygen-llc--leucadia-pedicle-screw.json",
+        "bytes": 616
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K110588.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--phygen-llc--leucadia-pedicle-screw/fda_raw/NKB/K110588.json",
+        "bytes": 571
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--phygen-llc--leucadia-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--phygen-llc--leucadia-pedicle-screw/merged/interbody-cage--phygen-llc--leucadia-pedicle-screw.json",
+        "bytes": 828
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

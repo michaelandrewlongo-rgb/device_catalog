@@ -1,0 +1,21 @@
+{
+  "device_slug": "sacroiliac-fusion--globus--si-lok-select-sacroiliac-joint-fusion-system",
+  "artifact_folder": "sacroiliac-fusion--globus--si-lok-select-sacroiliac-joint-fusion-system",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 595,
+  "sources": {
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/globus/si-lok-select-sacroiliac-joint-fusion-system.json",
+        "artifact": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--globus--si-lok-select-sacroiliac-joint-fusion-system/scraper_raw/globus/si-lok-select-sacroiliac-joint-fusion-system.json",
+        "bytes": 595
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "sacroiliac-fusion",
+    "label": "Outside listed seed registries"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--life-spine--longbow-spacer",
+  "artifact_folder": "pedicle-screw--life-spine--longbow-spacer",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2737,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--life-spine--longbow-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--life-spine--longbow-spacer/enriched/pedicle-screw--life-spine--longbow-spacer.json",
+        "bytes": 1383
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K133717.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--life-spine--longbow-spacer/fda_raw/MAX/K133717.json",
+        "bytes": 552
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--life-spine--longbow-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--life-spine--longbow-spacer/merged/pedicle-screw--life-spine--longbow-spacer.json",
+        "bytes": 802
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

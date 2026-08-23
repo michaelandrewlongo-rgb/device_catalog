@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--medtronic--intrepid-spinal",
+  "artifact_folder": "pedicle-screw--medtronic--intrepid-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2752,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--medtronic--intrepid-spinal.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--intrepid-spinal/enriched/pedicle-screw--medtronic--intrepid-spinal.json",
+        "bytes": 1384
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K080083.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--intrepid-spinal/fda_raw/MAX/K080083.json",
+        "bytes": 565
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--medtronic--intrepid-spinal.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--intrepid-spinal/merged/pedicle-screw--medtronic--intrepid-spinal.json",
+        "bytes": 803
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

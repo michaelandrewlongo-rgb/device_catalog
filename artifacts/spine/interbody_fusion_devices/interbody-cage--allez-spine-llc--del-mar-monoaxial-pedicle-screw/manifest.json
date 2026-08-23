@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--allez-spine-llc--del-mar-monoaxial-pedicle-screw",
+  "artifact_folder": "interbody-cage--allez-spine-llc--del-mar-monoaxial-pedicle-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3447,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--allez-spine-llc--del-mar-monoaxial-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--allez-spine-llc--del-mar-monoaxial-pedicle-screw/enriched/interbody-cage--allez-spine-llc--del-mar-monoaxial-pedicle-screw.json",
+        "bytes": 1978
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K091219.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--allez-spine-llc--del-mar-monoaxial-pedicle-screw/fda_raw/NKB/K091219.json",
+        "bytes": 604
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--allez-spine-llc--del-mar-monoaxial-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--allez-spine-llc--del-mar-monoaxial-pedicle-screw/merged/interbody-cage--allez-spine-llc--del-mar-monoaxial-pedicle-screw.json",
+        "bytes": 865
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

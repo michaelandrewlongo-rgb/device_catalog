@@ -1,0 +1,33 @@
+{
+  "device_slug": "pedicle-screw--depuy--viper-prime-expedium",
+  "artifact_folder": "pedicle-screw--depuy--viper-prime-expedium",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 120891,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/pedicle-screw/parsed/documents/pedicle-screw--depuy--viper-prime-expedium--510k.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--depuy--viper-prime-expedium/510k/pedicle-screw/parsed/documents/pedicle-screw--depuy--viper-prime-expedium--510k.json",
+        "bytes": 4520
+      },
+      {
+        "source": "pipeline/data/510k/pedicle-screw/pdfs/pedicle-screw--depuy--viper-prime-expedium--510k.pdf",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--depuy--viper-prime-expedium/510k/pedicle-screw/pdfs/pedicle-screw--depuy--viper-prime-expedium--510k.pdf",
+        "bytes": 111249
+      }
+    ],
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/pedicle-screw--depuy--viper-prime-expedium--knowledge.md",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--depuy--viper-prime-expedium/data_by_device/pedicle-screw--depuy--viper-prime-expedium--knowledge.md",
+        "bytes": 5122
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--endius-inc--endius-minit-posterior-cervical-and",
+  "artifact_folder": "corpectomy--endius-inc--endius-minit-posterior-cervical-and",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3009,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--endius-inc--endius-minit-posterior-cervical-and.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--endius-inc--endius-minit-posterior-cervical-and/enriched/corpectomy--endius-inc--endius-minit-posterior-cervical-and.json",
+        "bytes": 1488
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K060683.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--endius-inc--endius-minit-posterior-cervical-and/fda_raw/KWP/K060683.json",
+        "bytes": 614
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--endius-inc--endius-minit-posterior-cervical-and.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--endius-inc--endius-minit-posterior-cervical-and/merged/corpectomy--endius-inc--endius-minit-posterior-cervical-and.json",
+        "bytes": 907
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

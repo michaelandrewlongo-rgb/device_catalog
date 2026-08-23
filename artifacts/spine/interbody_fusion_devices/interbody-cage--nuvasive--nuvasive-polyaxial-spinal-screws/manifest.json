@@ -1,0 +1,21 @@
+{
+  "device_slug": "interbody-cage--nuvasive--nuvasive-polyaxial-spinal-screws",
+  "artifact_folder": "interbody-cage--nuvasive--nuvasive-polyaxial-spinal-screws",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 582,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K121619.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--nuvasive--nuvasive-polyaxial-spinal-screws/fda_raw/NKB/K121619.json",
+        "bytes": 582
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

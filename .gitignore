@@ -5,6 +5,18 @@ __pycache__/
 .venv/
 .pytest_cache/
 
+# Local secrets and tool state
+.ncbi_keys.txt
+.tmp/
+.tmp2/
+.pytest-tmp/
+pytest_tmp/
+.agents/
+.superpowers/
+.claude/skills/
+skills-lock.json
+*.log
+
 # Pipeline intermediate data (regenerable)
 pipeline/data/merged/
 pipeline/data/drafts/

@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--scient-x-usa-inc--davantis-antelys-vertebral-body-replacements",
+  "artifact_folder": "cervical-plate--scient-x-usa-inc--davantis-antelys-vertebral-body-replacements",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2992,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--scient-x-usa-inc--davantis-antelys-vertebral-body-replacements.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--scient-x-usa-inc--davantis-antelys-vertebral-body-replacements/enriched/cervical-plate--scient-x-usa-inc--davantis-antelys-vertebral-body-replacements.json",
+        "bytes": 1473
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K053292.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--scient-x-usa-inc--davantis-antelys-vertebral-body-replacements/fda_raw/MQP/K053292.json",
+        "bytes": 627
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--scient-x-usa-inc--davantis-antelys-vertebral-body-replacements.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--scient-x-usa-inc--davantis-antelys-vertebral-body-replacements/merged/cervical-plate--scient-x-usa-inc--davantis-antelys-vertebral-body-replacements.json",
+        "bytes": 892
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

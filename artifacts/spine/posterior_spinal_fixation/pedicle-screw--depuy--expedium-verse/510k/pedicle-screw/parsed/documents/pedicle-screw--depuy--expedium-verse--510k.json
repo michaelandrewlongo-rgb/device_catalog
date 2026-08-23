@@ -1,0 +1,21 @@
+{
+  "source_pdf": "pedicle-screw--depuy--expedium-verse--510k.pdf",
+  "device_name": "expedium-verse",
+  "manufacturer": "depuy",
+  "doc_type": "510k",
+  "extraction_method": "pdf_deepseek",
+  "fields": {
+    "what_it_is": "The EXPEDIUM® Spine System and the EXPEDIUM VERSE® Spine Systems consists of metallic implants intended to provide immobilization and stabilization of spinal segments. The EXPEDIUM® Spine System and the EXPEDIUM VERSE® Spine Systems also consists of longitudinal rods, monoaxial screws, polyaxial screws, uniplanar screws, reduction screws, cable/wire screws, bolts, slotted connectors, wires, hooks, reduction hooks, transverse connectors, SFX Cross Connector System, dual rod connectors, sacral extenders, lateral connectors, and washers.",
+    "sizing_specs": null,
+    "indications": "The EXPEDIUM VERSE® System is intended to provide immobilization and stabilization of spinal segments in skeletally mature patients as an adjunct to fusion in the treatment of acute and chronic instabilities or deformities of the thoracic, lumbar and sacral spine. The EXPEDIUM VERSE® System is intended for noncervical pedicle fixation and nonpedicle fixation for the following indications: degenerative disc disease (defined as back pain of discogenic origin with degeneration of the disc confirmed by history and radiographic studies); spondylolisthesis; trauma (i.e., fracture or dislocation); spinal stenosis; curvatures (i.e., scoliosis, kyphosis, and/or lordosis); tumor, pseudoarthrosis; and failed previous fusion in skeletally mature patients. When used in a posterior percutaneous approach with MIS instrumentation, the EXPEDIUM VERSE® System is intended for noncervical pedicle fixation and nonpedicle fixation for the following indications: degenerative disc disease (defined as back pain of discogenic origin with degeneration of the disc confirmed by history and radiographic studies); spondylolisthesis; trauma (i.e., fracture or dislocation); spinal stenosis; curvatures (i.e., scoliosis, kyphosis, and/or lordosis); tumor, pseudoarthrosis; and failed previous fusion in skeletally mature patients. When used for posterior non-cervical pedicle screw fixation in pediatric patients, the EXPEDIUM VERSE® System metallic implants are indicated as an adjunct to fusion to treat progressive spinal deformities (i.e, scoliosis, kyphosis, or lordosis) including adolescent idiopathic scoliosis, neuromuscular scoliosis, and congenital scoliosis. Additionally, the EXPEDIUM VERSE® system is intended to treat pediatric patients diagnosed with: spondylolisthesis/spondylolysis, fracture caused by tumor and/or trauma, pseudarthrosis, and/or failed previous fusion. The EXPEDIUM VERSE® system is intended to be used with autograft and/or allograft. Pediatric pedicle screw fixation is limited to a posterior approach.",
+    "contraindications": null,
+    "compatible_with": null,
+    "use_notes": null,
+    "also_known_as": "Pedicle screw spinal system"
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "indications": 0.7,
+    "also_known_as": 0.7
+  }
+}

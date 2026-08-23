@@ -1,0 +1,20 @@
+{
+  "source": "fda_udi",
+  "brand_name": "KIMBA MINI",
+  "extraction_method": "fda_udi_api",
+  "fields": {
+    "what_it_is": "The KIMBA®, KIMBA® mini, MOBIS® and NOVAL™ implants have a hollow, slightly curved frame with tapered edges. The frame is made from PEEK-OPTIMA®.\nSEMIAL® spinal implants have a semi-cylindrical form and are hollow. The implant is made from PEEK-OPTIMA®. The provision of varying heights, together with a wedge shaped option, allow better lordosis control.\nThe TETRIS® implants (PEEK and Titanium) are hollow having a rectangular frame with lateral fenestrations.\nThe upper and lower aspects of the implant are open and the walls feature spikes which assist in the positive anchorage and seating of the implant between the superior and inferior vertebral bodies. These implants are available in a variety of dimensional and angular sizes. This enables the surgeon to choose the size suited to the individual pathology and anatomy and condition.\nThe MOBIS, NOVAL, SEMIAL and PEEK TETRIS devices are manufactured from polyetheretherketone (PEEK-OPTIMA® LT1, Invibio™) as described by ASTM F2026. Integral marker pins are manufactured from titanium alloy (Ti-6Al-4V) as described by ASTM F136 / ISO 5832-3 or tantalum as described by ASTM F560. The Titanium TETRIS devices are manufactured from titanium alloy (Ti-6Al-4V) as described by ASTM F136 / ISO 5832-3. The KIMBA® and KIMBA® mini devices are manufactured from ECF PEEK OPTIMA (Invibio™).",
+    "sizing_specs": "Catalog: MC131232; Model: Lumbar cage",
+    "use_notes": "MRI: Labeling does not contain MRI Safety Information. Pre-sterilized. Single-use",
+    "also_known_as": [
+      "KIMBA mini",
+      "Polymeric spinal interbody fusion cage"
+    ]
+  },
+  "confidence": {
+    "what_it_is": 0.85,
+    "sizing_specs": 0.85,
+    "use_notes": 0.85,
+    "also_known_as": 0.85
+  }
+}

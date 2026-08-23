@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--stryker--mantis-mantis-redux-spinal-radius",
+  "artifact_folder": "interbody-cage--stryker--mantis-mantis-redux-spinal-radius",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3757,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--stryker--mantis-mantis-redux-spinal-radius.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker--mantis-mantis-redux-spinal-radius/enriched/interbody-cage--stryker--mantis-mantis-redux-spinal-radius.json",
+        "bytes": 2076
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K133188.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker--mantis-mantis-redux-spinal-radius/fda_raw/NKB/K133188.json",
+        "bytes": 668
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--stryker--mantis-mantis-redux-spinal-radius.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker--mantis-mantis-redux-spinal-radius/merged/interbody-cage--stryker--mantis-mantis-redux-spinal-radius.json",
+        "bytes": 1013
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

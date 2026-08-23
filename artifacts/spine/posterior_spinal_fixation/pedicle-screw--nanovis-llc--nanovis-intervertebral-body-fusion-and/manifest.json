@@ -1,0 +1,40 @@
+{
+  "device_slug": "pedicle-screw--nanovis-llc--nanovis-intervertebral-body-fusion-and",
+  "artifact_folder": "pedicle-screw--nanovis-llc--nanovis-intervertebral-body-fusion-and",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3622,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--nanovis-llc--nanovis-intervertebral-body-fusion-and.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nanovis-llc--nanovis-intervertebral-body-fusion-and/enriched/pedicle-screw--nanovis-llc--nanovis-intervertebral-body-fusion-and.json",
+        "bytes": 1481
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K160874.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nanovis-llc--nanovis-intervertebral-body-fusion-and/fda_raw/MAX/K160874.json",
+        "bytes": 616
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K161485.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nanovis-llc--nanovis-intervertebral-body-fusion-and/fda_raw/MAX/K161485.json",
+        "bytes": 617
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--nanovis-llc--nanovis-intervertebral-body-fusion-and.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nanovis-llc--nanovis-intervertebral-body-fusion-and/merged/pedicle-screw--nanovis-llc--nanovis-intervertebral-body-fusion-and.json",
+        "bytes": 908
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

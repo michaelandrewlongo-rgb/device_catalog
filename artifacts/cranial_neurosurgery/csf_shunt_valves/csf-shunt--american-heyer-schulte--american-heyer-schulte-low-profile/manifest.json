@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--american-heyer-schulte--american-heyer-schulte-low-profile",
+  "artifact_folder": "csf-shunt--american-heyer-schulte--american-heyer-schulte-low-profile",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2951,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--american-heyer-schulte--american-heyer-schulte-low-profile.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--american-heyer-schulte--american-heyer-schulte-low-profile/enriched/csf-shunt--american-heyer-schulte--american-heyer-schulte-low-profile.json",
+        "bytes": 1457
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K802586.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--american-heyer-schulte--american-heyer-schulte-low-profile/fda_raw/JXG/K802586.json",
+        "bytes": 618
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--american-heyer-schulte--american-heyer-schulte-low-profile.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--american-heyer-schulte--american-heyer-schulte-low-profile/merged/csf-shunt--american-heyer-schulte--american-heyer-schulte-low-profile.json",
+        "bytes": 876
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

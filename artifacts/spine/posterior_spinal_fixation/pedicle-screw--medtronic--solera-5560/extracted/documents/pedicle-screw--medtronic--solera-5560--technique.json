@@ -1,0 +1,24 @@
+{
+  "source_pdf": "pedicle-screw--medtronic--solera-5560--technique.pdf",
+  "device_name": "solera-5560",
+  "manufacturer": "medtronic",
+  "doc_type": "technique",
+  "extraction_method": "pdf_deepseek",
+  "fields": {
+    "what_it_is": "CD HORIZON® SOLERA® 5.5/6.0 Spinal System. A spinal system for treating multiple spinal pathologies from the thoracic spine to the ilium. Offers a variety of implant options including Multi-Axial Screw (MAS), Sagittal Adjusting Screw (SAS), Fixed Angle Screw (FAS), Reduction Multi-Axial Screw (RMAS), Break-Off Set Screw, rod options (Commercially Pure Titanium, CHROMALOY™, CHROMALOY™ Plus, Titanium Alloy), CD HORIZON® X10 CROSSLINK® Plate, CD HORIZON® LEGACY™ Hooks, and CD HORIZON® LEGACY™ Iliac Spine System. Features include a 10% reduction in overall volume compared to CD HORIZON® LEGACY™ 6.35mm screws, OSTEOGRIP® dual lead threadform, color-coded saddles by bone screw diameter, and compatibility with various rod materials. Includes the VERIFYI™ Implant Tracking System.",
+    "sizing_specs": "| 4.5mm | 5.5mm | 6.5mm | 7.5mm | 8.5mm | 9.5mm |\n|-------|-------|-------|-------|-------|-------|\n|       |       |       |       |       |       |\n\n| Rod Options                            | 5.5mm | 6.0mm |\n|----------------------------------------|-------|-------|\n| Pre-bent CHROMALOY™                    | •     |       |\n| Pre-bent Commercially<br>Pure Titanium | •     |       |\n| Straight Titanium Alloy                | •     | •     |\n| Straight Commercially<br>Pure Titanium | •     | •     |\n| Straight CHROMALOY™                    | •     | •     |\n| Straight CHROMALOY™ Plus               | •     | •     |\n|                                        |       |       |\n\nPre-bent rods range in lengths from 30mm to 120mm in 5mm increments. 500mm straight rods available. Screws are color-coded by bone screw diameter. CD HORIZON® X10 CROSSLINK® Plate has adjustable or fixed length options. 6.35 X10 Crosslink® plate compatible with 6.0 rods diameter offering. CD HORIZON® LEGACY™ Iliac Spine System includes closed fixed head iliac screws available in 0°, 10°, and 20° angles.",
+    "indications": "For treating multiple spinal pathologies from the thoracic spine to the ilium.",
+    "contraindications": null,
+    "compatible_with": "Compatible with CHROMALOY™, CHROMALOY™ Plus, and Titanium Rods. Compatible with CD HORIZON® LEGACY™ Hooks and CD HORIZON® LEGACY™ Iliac Spine System. Compatible with various enabling technologies such as NIM-ECLIPSE® Spinal System, O-arm® Imaging System, StealthStation® Image Guidance System, and POWEREASE® System. Compatible with interbody or vertebral body replacement options.",
+    "use_notes": "Surgical technique includes steps for pedicle screw and hook placement. Key steps: Thoracic Facetectomy and Starting Points, Screw Starting Points (with table for levels T1 to Iliac), Pedicle Preparation (using high-speed burr, thoracic probe, sounding/feeler probe, undertapping), Screw Placement (using Quick Connect Handle, Multi-Axial Screw Lock Sleeve Driver, Dual Purpose Driver, or POWEREASE® System), Rod Selection (pre-bent or straight rods), Rod Contouring and Placement, Provisional Driver Assembly, Rod Reduction (using Forceps Rocker, Rocker Pusher, Beale Rod Reducer, 5.5/6.0mm Lateral Translator, SMARTLINK™ Extenders), Apical Derotation (using SMARTLINK™ Derotators or Vertebral Column Manipulation), Compression Distraction (using Hinged Translator), Iliac Fixation (using SOLERA Lateral Connectors), Final Tightening (using Counter Torque and Self-Retaining Break-off Driver or Torque Indicating Driver), Bone Graft Options, Anti-Adhesion Option (MediShield™ Anti-Adhesion Gel), CD HORIZON® X10 CROSSLINK® Plate Placement (using In-Line Plate Holder or T-Bolt Implant Positioner), Final Tightening of the Plate, Postoperative Care and Mobilization. For hooks: Hook Implant Strategy (with table of hook types), Surgical Strategy, Hook Site Preparation, Options and Insertion (Pedicle Hook, Transverse Process Hook, Laminar Hook), Decortication, Rod Contouring, Rod Insertion, Deformity Correction. Important notes: Do not start medial to the midpoint of the superior facet. Do not implant the VERIFYI™ Implant Tracking tags. The Multi-Axial Screw Lock Sleeve Driver locking cap must be disengaged while threading it into the threads of the bone screw tulip head. Never use the set screw to reduce a spinal rod. Final tightening torque range is 10.50-12.50Nm or 92-110 in-lbs for set screws. For CD HORIZON® X10 CROSSLINK® Plate, final tighten midline nut to 80in-lbs (9Nm) and set screws to break off at 55-65 in-lbs (6.2-7.3Nm).",
+    "also_known_as": "CD HORIZON® SOLERA® Spinal System, SOLERA-5560"
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "sizing_specs": 0.7,
+    "indications": 0.7,
+    "compatible_with": 0.7,
+    "use_notes": 0.7,
+    "also_known_as": 0.7
+  }
+}

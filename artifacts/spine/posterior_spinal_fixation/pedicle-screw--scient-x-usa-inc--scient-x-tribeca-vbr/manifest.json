@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--scient-x-usa-inc--scient-x-tribeca-vbr",
+  "artifact_folder": "pedicle-screw--scient-x-usa-inc--scient-x-tribeca-vbr",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2794,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--scient-x-usa-inc--scient-x-tribeca-vbr.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--scient-x-usa-inc--scient-x-tribeca-vbr/enriched/pedicle-screw--scient-x-usa-inc--scient-x-tribeca-vbr.json",
+        "bytes": 1399
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K080588.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--scient-x-usa-inc--scient-x-tribeca-vbr/fda_raw/MAX/K080588.json",
+        "bytes": 577
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--scient-x-usa-inc--scient-x-tribeca-vbr.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--scient-x-usa-inc--scient-x-tribeca-vbr/merged/pedicle-screw--scient-x-usa-inc--scient-x-tribeca-vbr.json",
+        "bytes": 818
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

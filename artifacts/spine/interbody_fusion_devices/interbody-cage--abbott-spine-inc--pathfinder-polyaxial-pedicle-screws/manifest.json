@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--abbott-spine-inc--pathfinder-polyaxial-pedicle-screws",
+  "artifact_folder": "interbody-cage--abbott-spine-inc--pathfinder-polyaxial-pedicle-screws",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2955,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--abbott-spine-inc--pathfinder-polyaxial-pedicle-screws.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--abbott-spine-inc--pathfinder-polyaxial-pedicle-screws/enriched/interbody-cage--abbott-spine-inc--pathfinder-polyaxial-pedicle-screws.json",
+        "bytes": 1460
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K071174.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--abbott-spine-inc--pathfinder-polyaxial-pedicle-screws/fda_raw/NKB/K071174.json",
+        "bytes": 616
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--abbott-spine-inc--pathfinder-polyaxial-pedicle-screws.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--abbott-spine-inc--pathfinder-polyaxial-pedicle-screws/merged/interbody-cage--abbott-spine-inc--pathfinder-polyaxial-pedicle-screws.json",
+        "bytes": 879
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

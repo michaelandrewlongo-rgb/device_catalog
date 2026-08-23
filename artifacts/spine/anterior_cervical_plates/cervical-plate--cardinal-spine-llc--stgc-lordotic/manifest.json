@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--cardinal-spine-llc--stgc-lordotic",
+  "artifact_folder": "cervical-plate--cardinal-spine-llc--stgc-lordotic",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2757,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--cardinal-spine-llc--stgc-lordotic.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--cardinal-spine-llc--stgc-lordotic/enriched/cervical-plate--cardinal-spine-llc--stgc-lordotic.json",
+        "bytes": 1384
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K142030.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--cardinal-spine-llc--stgc-lordotic/fda_raw/MQP/K142030.json",
+        "bytes": 570
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--cardinal-spine-llc--stgc-lordotic.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--cardinal-spine-llc--stgc-lordotic/merged/cervical-plate--cardinal-spine-llc--stgc-lordotic.json",
+        "bytes": 803
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

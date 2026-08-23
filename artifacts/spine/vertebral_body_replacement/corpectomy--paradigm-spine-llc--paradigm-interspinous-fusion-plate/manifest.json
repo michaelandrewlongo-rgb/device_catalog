@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--paradigm-spine-llc--paradigm-interspinous-fusion-plate",
+  "artifact_folder": "corpectomy--paradigm-spine-llc--paradigm-interspinous-fusion-plate",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2901,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--paradigm-spine-llc--paradigm-interspinous-fusion-plate.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--paradigm-spine-llc--paradigm-interspinous-fusion-plate/enriched/corpectomy--paradigm-spine-llc--paradigm-interspinous-fusion-plate.json",
+        "bytes": 1439
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K093438.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--paradigm-spine-llc--paradigm-interspinous-fusion-plate/fda_raw/KWP/K093438.json",
+        "bytes": 604
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--paradigm-spine-llc--paradigm-interspinous-fusion-plate.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--paradigm-spine-llc--paradigm-interspinous-fusion-plate/merged/corpectomy--paradigm-spine-llc--paradigm-interspinous-fusion-plate.json",
+        "bytes": 858
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

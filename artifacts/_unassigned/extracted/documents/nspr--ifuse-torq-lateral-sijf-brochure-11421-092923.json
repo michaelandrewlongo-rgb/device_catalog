@@ -1,0 +1,25 @@
+{
+  "source_pdf": "ifuse-torq-lateral-sijf-brochure-11421-092923.pdf",
+  "source_path": "C:\\Users\\Michael\\Documents\\device_catalog\\pipeline\\data\\extracted\\nspr\\pdfs\\ifuse-torq-lateral-sijf-brochure-11421-092923.pdf",
+  "device_name": "Ifuse Torq Lateral Sijf Brochure 11421 092923",
+  "manufacturer": "unknown",
+  "doc_type": "technique_guide",
+  "extraction_method": "pdfplumber_deepseek",
+  "extraction_source": "nspr_pdf",
+  "fields": {
+    "what_it_is": "iFuse TORQ® 3D-printed implants designed with cutting-edge features to optimize system performance in sacroiliac joint fusion procedures. Fully-Threaded iFuse TORQ Implant – SI Joint Specific Thread Pattern for Osseous Fixation and SI Joint Fusion. Features include FuSIon 3D™ Surface (3D Printed Porous Lattice designed for osseointegration), TORQLock™ Threads (Hooked Profile designed to reduce toggle), IntelliHarvest® Technology (Helical Flutes and Fenestrations for self-harvest bone), iFuse TORQ® NAV (navigation compatible), EZDrive® Tip (Self-Drilling, Self-Tapping to decrease surgical steps).",
+    "sizing_specs": "| Specifications (in mm) |\n| --- |\n| Diameter 10.0 11.5 13.5 |\n| Length 40/35-90 40/35-90 35-90 |\n| Part Numbers |\n| Implant 100XXLG/100XXT 115XXLG/115XXT 135XXT |",
+    "indications": "The iFuse TORQ® Implant System is indicated for sacroiliac joint fusion for: • Sacroiliac joint dysfunction including sacroiliac joint disruption and degenerative sacroiliitis. • Augmenting immobilization and stabilization of the sacroiliac joint in skeletally mature patients undergoing sacropelvic fixation as part of a lumbar or thoracolumbar fusion. The iFuse TORQ Implant System is also indicated for fracture fixation of the pelvis, including acute, non-acute, and non-traumatic fractures and non-traumatic fractures.",
+    "contraindications": null,
+    "compatible_with": "iFuse TORQ Navigation instruments are intended to be used with the iFuse TORQ Implant System. iFuse TORQ Navigation instruments are intended to be used with the Medtronic StealthStation System.",
+    "use_notes": "The iFuse TORQ Navigation instruments are intended to be used with the iFuse TORQ Implant System to assist the surgeon in precisely locating anatomical structures in iFuse TORQ Implant System procedures, in which the use of stereotactic surgery may be appropriate, and where reference to a rigid anatomical structure, such as the pelvis or vertebra, can be identified relative to the acquired image (CT, MR, 2D fluoroscopic image or 3D fluoroscopic image reconstruction) and/or an image data based model of the anatomy. Healthcare professionals should refer to the Instructions For Use for indications, contraindications, warnings, and precautions at www.si-bone.com/label. There are potential risks associated with the iFuse TORQ Implant System. It may not be appropriate for all patients and all patients may not benefit. For information about the risks, visit www.si-bone.com/risks.",
+    "also_known_as": null
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "sizing_specs": 0.7,
+    "indications": 0.7,
+    "compatible_with": 0.7,
+    "use_notes": 0.7
+  }
+}

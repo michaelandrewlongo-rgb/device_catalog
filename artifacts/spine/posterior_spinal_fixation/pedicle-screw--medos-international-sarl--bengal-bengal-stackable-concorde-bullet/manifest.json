@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--medos-international-sarl--bengal-bengal-stackable-concorde-bullet",
+  "artifact_folder": "pedicle-screw--medos-international-sarl--bengal-bengal-stackable-concorde-bullet",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3405,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--medos-international-sarl--bengal-bengal-stackable-concorde-bullet.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medos-international-sarl--bengal-bengal-stackable-concorde-bullet/enriched/pedicle-screw--medos-international-sarl--bengal-bengal-stackable-concorde-bullet.json",
+        "bytes": 1634
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K140759.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medos-international-sarl--bengal-bengal-stackable-concorde-bullet/fda_raw/MAX/K140759.json",
+        "bytes": 718
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--medos-international-sarl--bengal-bengal-stackable-concorde-bullet.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medos-international-sarl--bengal-bengal-stackable-concorde-bullet/merged/pedicle-screw--medos-international-sarl--bengal-bengal-stackable-concorde-bullet.json",
+        "bytes": 1053
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

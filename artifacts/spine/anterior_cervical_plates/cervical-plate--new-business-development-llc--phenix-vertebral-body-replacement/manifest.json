@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--new-business-development-llc--phenix-vertebral-body-replacement",
+  "artifact_folder": "cervical-plate--new-business-development-llc--phenix-vertebral-body-replacement",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2987,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--new-business-development-llc--phenix-vertebral-body-replacement.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--new-business-development-llc--phenix-vertebral-body-replacement/enriched/cervical-plate--new-business-development-llc--phenix-vertebral-body-replacement.json",
+        "bytes": 1464
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K072029.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--new-business-development-llc--phenix-vertebral-body-replacement/fda_raw/MQP/K072029.json",
+        "bytes": 640
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--new-business-development-llc--phenix-vertebral-body-replacement.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--new-business-development-llc--phenix-vertebral-body-replacement/merged/cervical-plate--new-business-development-llc--phenix-vertebral-body-replacement.json",
+        "bytes": 883
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

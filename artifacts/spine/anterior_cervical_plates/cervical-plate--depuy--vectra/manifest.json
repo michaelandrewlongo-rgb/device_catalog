@@ -1,0 +1,33 @@
+{
+  "device_slug": "cervical-plate--depuy--vectra",
+  "artifact_folder": "cervical-plate--depuy--vectra",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 1709083,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/cervical-plate--depuy--vectra--knowledge.md",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuy--vectra/data_by_device/cervical-plate--depuy--vectra--knowledge.md",
+        "bytes": 12111
+      },
+      {
+        "source": "pipeline/data/data_by_device/cervical-plate--depuy--vectra--technique.pdf",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuy--vectra/data_by_device/cervical-plate--depuy--vectra--technique.pdf",
+        "bytes": 1684317
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/documents/cervical-plate--depuy--vectra--technique.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuy--vectra/extracted/documents/cervical-plate--depuy--vectra--technique.json",
+        "bytes": 12655
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

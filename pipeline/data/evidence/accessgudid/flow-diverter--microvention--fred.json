@@ -1,0 +1,292 @@
+[
+  {
+    "device_family": "flow-diverter--microvention--fred",
+    "query_used": "FRED Flow Diverter (MicroVention/Terumo)",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "07613252648864",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Surpass Streamline",
+      "companyName": "Stryker Corporation",
+      "deviceIdentifier": "c8b4de3c-3b61-486b-9071-3e4fc266bd4c",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "46352",
+          "gmdnCodeStatus": "Active",
+          "implantable": "true",
+          "termName": "Bare-metal intracranial vascular stent"
+        }
+      ],
+      "modelNumber": "M003SFD050400"
+    },
+    "retrieved_at": "2026-04-15T10:11:38+00:00",
+    "source_id": "accessgudid:07613252648864",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/c8b4de3c-3b61-486b-9071-3e4fc266bd4c",
+    "title": "Surpass Streamline (Stryker Corporation)"
+  },
+  {
+    "device_family": "flow-diverter--microvention--fred",
+    "query_used": "FRED Flow Diverter (MicroVention/Terumo)",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "07613252648857",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Surpass Streamline",
+      "companyName": "Stryker Corporation",
+      "deviceIdentifier": "88846fb2-2a46-48a3-babd-7ea7179a121a",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "46352",
+          "gmdnCodeStatus": "Active",
+          "implantable": "true",
+          "termName": "Bare-metal intracranial vascular stent"
+        }
+      ],
+      "modelNumber": "M003SFD050250"
+    },
+    "retrieved_at": "2026-04-15T10:11:38+00:00",
+    "source_id": "accessgudid:07613252648857",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/88846fb2-2a46-48a3-babd-7ea7179a121a",
+    "title": "Surpass Streamline (Stryker Corporation)"
+  },
+  {
+    "device_family": "flow-diverter--microvention--fred",
+    "query_used": "FRED Flow Diverter (MicroVention/Terumo)",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "07613252648840",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Surpass Streamline",
+      "companyName": "Stryker Corporation",
+      "deviceIdentifier": "e0b2eed3-8181-44c2-aea7-6e478e8e09fe",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "46352",
+          "gmdnCodeStatus": "Active",
+          "implantable": "true",
+          "termName": "Bare-metal intracranial vascular stent"
+        }
+      ],
+      "modelNumber": "M003SFD050500"
+    },
+    "retrieved_at": "2026-04-15T10:11:38+00:00",
+    "source_id": "accessgudid:07613252648840",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/e0b2eed3-8181-44c2-aea7-6e478e8e09fe",
+    "title": "Surpass Streamline (Stryker Corporation)"
+  },
+  {
+    "device_family": "flow-diverter--microvention--fred",
+    "query_used": "FRED Flow Diverter (MicroVention/Terumo)",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "07613252648833",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Surpass Streamline",
+      "companyName": "Stryker Corporation",
+      "deviceIdentifier": "77daf87e-ff54-4954-b0da-19962da1854c",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "46352",
+          "gmdnCodeStatus": "Active",
+          "implantable": "true",
+          "termName": "Bare-metal intracranial vascular stent"
+        }
+      ],
+      "modelNumber": "M003SFD050300"
+    },
+    "retrieved_at": "2026-04-15T10:11:38+00:00",
+    "source_id": "accessgudid:07613252648833",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/77daf87e-ff54-4954-b0da-19962da1854c",
+    "title": "Surpass Streamline (Stryker Corporation)"
+  },
+  {
+    "device_family": "flow-diverter--microvention--fred",
+    "query_used": "FRED Flow Diverter (MicroVention/Terumo)",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "07613252648826",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Surpass Streamline",
+      "companyName": "Stryker Corporation",
+      "deviceIdentifier": "50114930-2411-4066-a5e9-300abff4afab",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "46352",
+          "gmdnCodeStatus": "Active",
+          "implantable": "true",
+          "termName": "Bare-metal intracranial vascular stent"
+        }
+      ],
+      "modelNumber": "M003SFD040500"
+    },
+    "retrieved_at": "2026-04-15T10:11:38+00:00",
+    "source_id": "accessgudid:07613252648826",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/50114930-2411-4066-a5e9-300abff4afab",
+    "title": "Surpass Streamline (Stryker Corporation)"
+  },
+  {
+    "device_family": "flow-diverter--microvention--fred",
+    "query_used": "FRED Flow Diverter (MicroVention/Terumo)",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "07613252648819",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Surpass Streamline",
+      "companyName": "Stryker Corporation",
+      "deviceIdentifier": "858e6f63-b2c9-4a7d-948a-141fbbb3a194",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "46352",
+          "gmdnCodeStatus": "Active",
+          "implantable": "true",
+          "termName": "Bare-metal intracranial vascular stent"
+        }
+      ],
+      "modelNumber": "M003SFD050200"
+    },
+    "retrieved_at": "2026-04-15T10:11:38+00:00",
+    "source_id": "accessgudid:07613252648819",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/858e6f63-b2c9-4a7d-948a-141fbbb3a194",
+    "title": "Surpass Streamline (Stryker Corporation)"
+  },
+  {
+    "device_family": "flow-diverter--microvention--fred",
+    "query_used": "FRED Flow Diverter (MicroVention/Terumo)",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "07613252648802",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Surpass Streamline",
+      "companyName": "Stryker Corporation",
+      "deviceIdentifier": "07d7a783-0b40-482f-ac02-89c0de8f640c",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "46352",
+          "gmdnCodeStatus": "Active",
+          "implantable": "true",
+          "termName": "Bare-metal intracranial vascular stent"
+        }
+      ],
+      "modelNumber": "M003SFD040400"
+    },
+    "retrieved_at": "2026-04-15T10:11:38+00:00",
+    "source_id": "accessgudid:07613252648802",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/07d7a783-0b40-482f-ac02-89c0de8f640c",
+    "title": "Surpass Streamline (Stryker Corporation)"
+  },
+  {
+    "device_family": "flow-diverter--microvention--fred",
+    "query_used": "FRED Flow Diverter (MicroVention/Terumo)",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "07613252648796",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Surpass Streamline",
+      "companyName": "Stryker Corporation",
+      "deviceIdentifier": "bf27679b-38e1-4def-b282-e43181fd9ee7",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "46352",
+          "gmdnCodeStatus": "Active",
+          "implantable": "true",
+          "termName": "Bare-metal intracranial vascular stent"
+        }
+      ],
+      "modelNumber": "M003SFD040300"
+    },
+    "retrieved_at": "2026-04-15T10:11:38+00:00",
+    "source_id": "accessgudid:07613252648796",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/bf27679b-38e1-4def-b282-e43181fd9ee7",
+    "title": "Surpass Streamline (Stryker Corporation)"
+  },
+  {
+    "device_family": "flow-diverter--microvention--fred",
+    "query_used": "FRED Flow Diverter (MicroVention/Terumo)",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "07613252648772",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Surpass Streamline",
+      "companyName": "Stryker Corporation",
+      "deviceIdentifier": "539c78a7-c9e4-4c2b-a3e1-f8c016016391",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "46352",
+          "gmdnCodeStatus": "Active",
+          "implantable": "true",
+          "termName": "Bare-metal intracranial vascular stent"
+        }
+      ],
+      "modelNumber": "M003SFD030200"
+    },
+    "retrieved_at": "2026-04-15T10:11:38+00:00",
+    "source_id": "accessgudid:07613252648772",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/539c78a7-c9e4-4c2b-a3e1-f8c016016391",
+    "title": "Surpass Streamline (Stryker Corporation)"
+  },
+  {
+    "device_family": "flow-diverter--microvention--fred",
+    "query_used": "FRED Flow Diverter (MicroVention/Terumo)",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "07613252648741",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Surpass Streamline",
+      "companyName": "Stryker Corporation",
+      "deviceIdentifier": "060fea0b-f19e-45a2-b151-a9314cdbb9df",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "46352",
+          "gmdnCodeStatus": "Active",
+          "implantable": "true",
+          "termName": "Bare-metal intracranial vascular stent"
+        }
+      ],
+      "modelNumber": "M003SFD040150"
+    },
+    "retrieved_at": "2026-04-15T10:11:38+00:00",
+    "source_id": "accessgudid:07613252648741",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/060fea0b-f19e-45a2-b151-a9314cdbb9df",
+    "title": "Surpass Streamline (Stryker Corporation)"
+  }
+]

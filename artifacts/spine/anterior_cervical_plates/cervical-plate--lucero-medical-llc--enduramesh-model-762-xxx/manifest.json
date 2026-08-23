@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--lucero-medical-llc--enduramesh-model-762-xxx",
+  "artifact_folder": "cervical-plate--lucero-medical-llc--enduramesh-model-762-xxx",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3314,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--lucero-medical-llc--enduramesh-model-762-xxx.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--lucero-medical-llc--enduramesh-model-762-xxx/enriched/cervical-plate--lucero-medical-llc--enduramesh-model-762-xxx.json",
+        "bytes": 1883
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K093207.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--lucero-medical-llc--enduramesh-model-762-xxx/fda_raw/MQP/K093207.json",
+        "bytes": 593
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--lucero-medical-llc--enduramesh-model-762-xxx.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--lucero-medical-llc--enduramesh-model-762-xxx/merged/cervical-plate--lucero-medical-llc--enduramesh-model-762-xxx.json",
+        "bytes": 838
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

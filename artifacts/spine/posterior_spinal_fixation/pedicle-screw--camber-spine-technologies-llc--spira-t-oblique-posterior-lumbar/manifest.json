@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--camber-spine-technologies-llc--spira-t-oblique-posterior-lumbar",
+  "artifact_folder": "pedicle-screw--camber-spine-technologies-llc--spira-t-oblique-posterior-lumbar",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3190,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--camber-spine-technologies-llc--spira-t-oblique-posterior-lumbar.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--camber-spine-technologies-llc--spira-t-oblique-posterior-lumbar/enriched/pedicle-screw--camber-spine-technologies-llc--spira-t-oblique-posterior-lumbar.json",
+        "bytes": 1545
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K210595.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--camber-spine-technologies-llc--spira-t-oblique-posterior-lumbar/fda_raw/MAX/K210595.json",
+        "bytes": 681
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--camber-spine-technologies-llc--spira-t-oblique-posterior-lumbar.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--camber-spine-technologies-llc--spira-t-oblique-posterior-lumbar/merged/pedicle-screw--camber-spine-technologies-llc--spira-t-oblique-posterior-lumbar.json",
+        "bytes": 964
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

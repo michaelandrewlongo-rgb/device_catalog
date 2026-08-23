@@ -1,0 +1,28 @@
+{
+  "device_name": "Ardis Interbody System, BAK Interbody Fusion System, BAK/C Anterior Cervical Interbody Fusion System, InFix Anterior Lumbar System, TraXis Vertebral Body Replacement (Ti and VUE)",
+  "manufacturer": "zimmer-biomet",
+  "catalog_category": "pedicle-screw",
+  "filename_stem": "pedicle-screw--zimmer-biomet--ardis-interbody-bak-interbody-fusion",
+  "clearance_type": "510k",
+  "clearance_number": "K143297",
+  "clearance_date": "2015-02-12",
+  "device_class": 2,
+  "device_name_fda": "Ardis Interbody System, BAK Interbody Fusion System, BAK/C Anterior Cervical Interbody Fusion System, InFix Anterior Lumbar System, TraXis Vertebral Body Replacement (Ti and VUE)",
+  "product_code": "MAX",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf14/K143297.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

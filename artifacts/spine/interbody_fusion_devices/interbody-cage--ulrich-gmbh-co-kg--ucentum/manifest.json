@@ -1,0 +1,42 @@
+{
+  "device_slug": "interbody-cage--ulrich-gmbh-co-kg--ucentum",
+  "artifact_folder": "interbody-cage--ulrich-gmbh-co-kg--ucentum",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3520,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--ulrich-gmbh-co-kg--ucentum.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--ulrich-gmbh-co-kg--ucentum/enriched/interbody-cage--ulrich-gmbh-co-kg--ucentum.json",
+        "bytes": 1609
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--ulrich-gmbh-co-kg--ucentum.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--ulrich-gmbh-co-kg--ucentum/extracted/fda_structured/interbody-cage--ulrich-gmbh-co-kg--ucentum.json",
+        "bytes": 571
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K123717.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--ulrich-gmbh-co-kg--ucentum/fda_raw/NKB/K123717.json",
+        "bytes": 557
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--ulrich-gmbh-co-kg--ucentum.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--ulrich-gmbh-co-kg--ucentum/merged/interbody-cage--ulrich-gmbh-co-kg--ucentum.json",
+        "bytes": 783
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

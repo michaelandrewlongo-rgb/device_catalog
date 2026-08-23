@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--ortho-tec-llc--oria-spinal-clip",
+  "artifact_folder": "corpectomy--ortho-tec-llc--oria-spinal-clip",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2757,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--ortho-tec-llc--oria-spinal-clip.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--ortho-tec-llc--oria-spinal-clip/enriched/corpectomy--ortho-tec-llc--oria-spinal-clip.json",
+        "bytes": 1389
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K021679.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--ortho-tec-llc--oria-spinal-clip/fda_raw/KWP/K021679.json",
+        "bytes": 560
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--ortho-tec-llc--oria-spinal-clip.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--ortho-tec-llc--oria-spinal-clip/merged/corpectomy--ortho-tec-llc--oria-spinal-clip.json",
+        "bytes": 808
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

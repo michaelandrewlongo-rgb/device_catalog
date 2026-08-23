@@ -1,0 +1,328 @@
+[
+  {
+    "device_family": "aspiration--stryker--axs-vecta-aspiration",
+    "query_used": "AXS Universal Aspiration Set",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "07612367052719",
+          "type": "Primary"
+        },
+        {
+          "deviceId": "07612367053921",
+          "type": "Package"
+        }
+      ],
+      "brandName": "AXS Universal Aspiration Tubing",
+      "companyName": "Medela AG",
+      "deviceIdentifier": "09d54e9f-9182-47b3-82ce-5ddf870cd429",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "16779",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Suction/irrigation tubing, single-use"
+        }
+      ],
+      "modelNumber": "077.0193"
+    },
+    "retrieved_at": "2026-04-15T10:19:04+00:00",
+    "source_id": "accessgudid:07612367052719",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/09d54e9f-9182-47b3-82ce-5ddf870cd429",
+    "title": "AXS Universal Aspiration Tubing (Medela AG)"
+  },
+  {
+    "device_family": "aspiration--stryker--axs-vecta-aspiration",
+    "query_used": "AXS Universal Aspiration Set",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "07612367054959",
+          "type": "Primary"
+        },
+        {
+          "deviceId": "07612367052726",
+          "type": "Unit of Use"
+        },
+        {
+          "deviceId": "07612367054966",
+          "type": "Package"
+        }
+      ],
+      "brandName": "AXS Universal Liner Set",
+      "companyName": "Medela AG",
+      "deviceIdentifier": "c9015a5e-8214-4a79-bb28-fd1208673947",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "34858",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Surgical suction system collection container, single-use"
+        }
+      ],
+      "modelNumber": "077.0194"
+    },
+    "retrieved_at": "2026-04-15T10:19:04+00:00",
+    "source_id": "accessgudid:07612367054959",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/c9015a5e-8214-4a79-bb28-fd1208673947",
+    "title": "AXS Universal Liner Set (Medela AG)"
+  },
+  {
+    "device_family": "aspiration--stryker--axs-vecta-aspiration",
+    "query_used": "AXS Universal Aspiration Set",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00810068563986",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Balt Aspiration Tubing Set ",
+      "companyName": "BALT USA LLC",
+      "deviceIdentifier": "0ba13c0c-bd79-4c7a-a1d4-6d51f0f2e923",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "BASPT-110"
+    },
+    "retrieved_at": "2026-04-15T10:19:04+00:00",
+    "source_id": "accessgudid:00810068563986",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/0ba13c0c-bd79-4c7a-a1d4-6d51f0f2e923",
+    "title": "Balt Aspiration Tubing Set  (BALT USA LLC)"
+  },
+  {
+    "device_family": "aspiration--stryker--axs-vecta-aspiration",
+    "query_used": "AXS Universal Aspiration Set",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00818075010790",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Socrates",
+      "companyName": "SCIENTIA VASCULAR LLC",
+      "deviceIdentifier": "6221dfce-7ff2-46dc-ab10-2ae980e7825c",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "TS-254-110"
+    },
+    "retrieved_at": "2026-04-15T10:19:04+00:00",
+    "source_id": "accessgudid:00818075010790",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/6221dfce-7ff2-46dc-ab10-2ae980e7825c",
+    "title": "Socrates (SCIENTIA VASCULAR LLC)"
+  },
+  {
+    "device_family": "aspiration--stryker--axs-vecta-aspiration",
+    "query_used": "AXS Universal Aspiration Set",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "20841305107797",
+          "type": "Package"
+        },
+        {
+          "deviceId": "10841305101316",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Synergetics",
+      "companyName": "SYNERGETICS USA, INC.",
+      "deviceIdentifier": "89b2b05b-d6e3-4139-be7b-803cdfe0222e",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "62478",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Ophthalmic soft-tissue manipulation forceps, probe-like, single-use"
+        }
+      ],
+      "modelNumber": "17580"
+    },
+    "retrieved_at": "2026-04-15T10:19:04+00:00",
+    "source_id": "accessgudid:10841305101316",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/89b2b05b-d6e3-4139-be7b-803cdfe0222e",
+    "title": "Synergetics (SYNERGETICS USA, INC.)"
+  },
+  {
+    "device_family": "aspiration--stryker--axs-vecta-aspiration",
+    "query_used": "AXS Universal Aspiration Set",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "30812747016043",
+          "type": "Package"
+        },
+        {
+          "deviceId": "10812747016049",
+          "type": "Primary"
+        },
+        {
+          "deviceId": "20812747016046",
+          "type": "Package"
+        }
+      ],
+      "brandName": "HAEMONETICS CELL SAVER SYSTEM",
+      "companyName": "HAEMONETICS CORPORATION",
+      "deviceIdentifier": "c31b8f85-29a0-4cc6-94e5-ea0c1739bf0c",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "17605",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Autotransfusion system blood component processing set"
+        }
+      ],
+      "modelNumber": "00208-00"
+    },
+    "retrieved_at": "2026-04-15T10:19:04+00:00",
+    "source_id": "accessgudid:10812747016049",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/c31b8f85-29a0-4cc6-94e5-ea0c1739bf0c",
+    "title": "HAEMONETICS CELL SAVER SYSTEM (HAEMONETICS CORPORATION)"
+  },
+  {
+    "device_family": "aspiration--stryker--axs-vecta-aspiration",
+    "query_used": "AXS Universal Aspiration Set",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00827002052963",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Cook",
+      "companyName": "COOK INCORPORATED",
+      "deviceIdentifier": "8a1ed3db-ec95-4fd8-b2cc-ceadceb9cfab",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "47797",
+          "gmdnCodeStatus": "Active",
+          "implantable": "true",
+          "termName": "Pleural/peritoneal drainage catheterization kit, non-medicated"
+        }
+      ],
+      "modelNumber": "G05296"
+    },
+    "retrieved_at": "2026-04-15T10:19:04+00:00",
+    "source_id": "accessgudid:00827002052963",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/8a1ed3db-ec95-4fd8-b2cc-ceadceb9cfab",
+    "title": "Cook (COOK INCORPORATED)"
+  },
+  {
+    "device_family": "aspiration--stryker--axs-vecta-aspiration",
+    "query_used": "AXS Universal Aspiration Set",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00653160345872",
+          "type": "Package"
+        },
+        {
+          "deviceId": "10653160345879",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Centurion",
+      "companyName": "CENTURION MEDICAL PRODUCTS CORPORATION",
+      "deviceIdentifier": "807b8488-6b57-464e-b95c-72ca79894509",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "33961",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "General surgical procedure kit, non-medicated, single-use"
+        }
+      ],
+      "modelNumber": "CHT1965"
+    },
+    "retrieved_at": "2026-04-15T10:19:04+00:00",
+    "source_id": "accessgudid:10653160345879",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/807b8488-6b57-464e-b95c-72ca79894509",
+    "title": "Centurion (CENTURION MEDICAL PRODUCTS CORPORATION)"
+  },
+  {
+    "device_family": "aspiration--stryker--axs-vecta-aspiration",
+    "query_used": "AXS Universal Aspiration Set",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "07613327459272",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Aspiration Tubing Set",
+      "companyName": "Stryker Corporation",
+      "deviceIdentifier": "3fe04701-948e-417d-9ecd-5322510f390e",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "16779",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Suction/irrigation tubing, single-use"
+        }
+      ],
+      "modelNumber": "INC-11460"
+    },
+    "retrieved_at": "2026-04-15T10:19:04+00:00",
+    "source_id": "accessgudid:07613327459272",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/3fe04701-948e-417d-9ecd-5322510f390e",
+    "title": "Aspiration Tubing Set (Stryker Corporation)"
+  },
+  {
+    "device_family": "aspiration--stryker--axs-vecta-aspiration",
+    "query_used": "AXS Universal Aspiration Set",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "30816989020011",
+          "type": "Primary"
+        },
+        {
+          "deviceId": "10816989020017",
+          "type": "Unit of Use"
+        },
+        {
+          "deviceId": "38169890200013",
+          "type": "Previous"
+        }
+      ],
+      "brandName": "Aspiration Tubing",
+      "companyName": "HK SURGICAL INC.",
+      "deviceIdentifier": "b6e31665-183a-41c1-9274-286668f74e07",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "47625",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Surgical irrigation/aspiration tubing set"
+        }
+      ],
+      "modelNumber": "AT6-10"
+    },
+    "retrieved_at": "2026-04-15T10:19:04+00:00",
+    "source_id": "accessgudid:30816989020011",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/b6e31665-183a-41c1-9274-286668f74e07",
+    "title": "Aspiration Tubing (HK SURGICAL INC.)"
+  }
+]

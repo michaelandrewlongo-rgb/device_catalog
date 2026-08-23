@@ -1,0 +1,125 @@
+[
+  {
+    "device_family": "aspiration--balt--hybrid",
+    "query_used": "brand_name:\"Hybrid\" OR brand_name:\"Revere Hybrid Access Catheter\" OR brand_name:\"Vascular guide-catheter\"",
+    "raw": {
+      "brand_name": "CarboClear Hybrid Pedicle Screw System",
+      "catalog_number": "MIS6550F",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "company_name": "CARBOFIX ORTHOPEDICS LTD",
+      "customer_contacts": [
+        {
+          "email": "usa@carbo-fix.com",
+          "phone": "1-800-408-0120"
+        },
+        {
+          "email": "info@carbo-fix.com",
+          "phone": "+97299511511"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "device_description": "CarboClear Hybrid MIS Pedicle Screw - Fenestrated",
+      "device_sizes": [
+        {
+          "type": "Length",
+          "unit": "Millimeter",
+          "value": "50"
+        },
+        {
+          "type": "Outer Diameter",
+          "unit": "Millimeter",
+          "value": "6.5"
+        }
+      ],
+      "gmdn_terms": [
+        {
+          "code": "46651",
+          "code_status": "Active",
+          "definition": "A small, threaded, implantable rod with a screw head and drive intended for internal spinal fixation by being screwed into the spine to hold a correction/stabilization device (e.g., rod, plate, tether) to bone; it is made of a material that is not chemically degraded or absorbed via natural body processes (e.g., surgical steel, titanium alloy, carbon fibre). It is available in various types (e.g., pedicle or transfacet, with a slotted, cross, star, or polygonal drive), and is typically used to provide immobilization and stabilization of spinal segments in the treatment of spinal instabilities or deformities. A screw head adaptor intended to stabilize a rod may be included with the screw.",
+          "implantable": "true",
+          "name": "Spinal bone screw, non-bioabsorbable"
+        }
+      ],
+      "has_donation_id_number": "false",
+      "has_expiration_date": "true",
+      "has_lot_or_batch_number": "true",
+      "has_manufacturing_date": "false",
+      "has_serial_number": "false",
+      "identifiers": [
+        {
+          "id": "17290117353926",
+          "issuing_agency": "GS1",
+          "package_status": "In Commercial Distribution",
+          "quantity_per_package": "2",
+          "type": "Package",
+          "unit_of_use_id": "07290117353929"
+        },
+        {
+          "id": "07290117353929",
+          "issuing_agency": "GS1",
+          "type": "Primary"
+        }
+      ],
+      "is_combination_product": "false",
+      "is_direct_marking_exempt": "false",
+      "is_hct_p": "false",
+      "is_kit": "false",
+      "is_labeled_as_no_nrl": "false",
+      "is_labeled_as_nrl": "false",
+      "is_otc": "false",
+      "is_pm_exempt": "false",
+      "is_rx": "true",
+      "is_single_use": "true",
+      "labeler_duns_number": "649185170",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "premarket_submissions": [
+        {
+          "submission_number": "K240846",
+          "supplement_number": "000"
+        },
+        {
+          "submission_number": "K243106",
+          "supplement_number": "000"
+        }
+      ],
+      "product_codes": [
+        {
+          "code": "PML",
+          "name": "Bone Cement, Posterior Screw Augmentation",
+          "openfda": {
+            "device_class": "2",
+            "device_name": "Bone Cement, Posterior Screw Augmentation",
+            "medical_specialty_description": "Orthopedic",
+            "regulation_number": "888.3027"
+          }
+        },
+        {
+          "code": "NKB",
+          "name": "Thoracolumbosacral Pedicle Screw System",
+          "openfda": {
+            "device_class": "2",
+            "device_name": "Thoracolumbosacral Pedicle Screw System",
+            "medical_specialty_description": "Orthopedic",
+            "regulation_number": "888.3070"
+          }
+        }
+      ],
+      "public_device_record_key": "8f4c56f4-665e-41b8-a432-f29dfe943007",
+      "public_version_date": "2025-05-13",
+      "public_version_number": "1",
+      "public_version_status": "New",
+      "publish_date": "2025-05-05",
+      "record_status": "Published",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "version_or_model_number": "MIS Pedicle Screw"
+    },
+    "retrieved_at": "2026-04-15T10:17:59+00:00",
+    "source_id": "fda:udi:record-1",
+    "source_type": "fda",
+    "source_url": "https://api.fda.gov/device/udi.json?search=brand_name%3A%22Hybrid%22%20OR%20brand_name%3A%22Revere%20Hybrid%20Access%20Catheter%22%20OR%20brand_name%3A%22Vascular%20guide-catheter%22",
+    "title": "CarboClear Hybrid Pedicle Screw System"
+  }
+]

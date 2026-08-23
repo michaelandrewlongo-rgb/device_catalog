@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--alphatec-spine-inc--zodiac-dynamo-semi-rigid-spinal",
+  "artifact_folder": "corpectomy--alphatec-spine-inc--zodiac-dynamo-semi-rigid-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3401,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--alphatec-spine-inc--zodiac-dynamo-semi-rigid-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--alphatec-spine-inc--zodiac-dynamo-semi-rigid-spinal/enriched/corpectomy--alphatec-spine-inc--zodiac-dynamo-semi-rigid-spinal.json",
+        "bytes": 1932
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K072081.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--alphatec-spine-inc--zodiac-dynamo-semi-rigid-spinal/fda_raw/KWP/K072081.json",
+        "bytes": 606
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--alphatec-spine-inc--zodiac-dynamo-semi-rigid-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--alphatec-spine-inc--zodiac-dynamo-semi-rigid-spinal/merged/corpectomy--alphatec-spine-inc--zodiac-dynamo-semi-rigid-spinal.json",
+        "bytes": 863
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

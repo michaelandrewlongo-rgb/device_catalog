@@ -1,0 +1,47 @@
+{
+  "device_slug": "interbody-cage--spinal-balance-inc--libra-pedicle-screw",
+  "artifact_folder": "interbody-cage--spinal-balance-inc--libra-pedicle-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 4248,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--spinal-balance-inc--libra-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spinal-balance-inc--libra-pedicle-screw/enriched/interbody-cage--spinal-balance-inc--libra-pedicle-screw.json",
+        "bytes": 1652
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--spinal-balance-inc--libra-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spinal-balance-inc--libra-pedicle-screw/extracted/fda_structured/interbody-cage--spinal-balance-inc--libra-pedicle-screw.json",
+        "bytes": 581
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K151770.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spinal-balance-inc--libra-pedicle-screw/fda_raw/NKB/K151770.json",
+        "bytes": 590
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K162750.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spinal-balance-inc--libra-pedicle-screw/fda_raw/NKB/K162750.json",
+        "bytes": 590
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--spinal-balance-inc--libra-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spinal-balance-inc--libra-pedicle-screw/merged/interbody-cage--spinal-balance-inc--libra-pedicle-screw.json",
+        "bytes": 835
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

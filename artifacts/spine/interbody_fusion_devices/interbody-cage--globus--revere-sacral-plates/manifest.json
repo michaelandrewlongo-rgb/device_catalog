@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--globus--revere-sacral-plates",
+  "artifact_folder": "interbody-cage--globus--revere-sacral-plates",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2742,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--globus--revere-sacral-plates.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--globus--revere-sacral-plates/enriched/interbody-cage--globus--revere-sacral-plates.json",
+        "bytes": 1381
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K103072.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--globus--revere-sacral-plates/fda_raw/NKB/K103072.json",
+        "bytes": 561
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--globus--revere-sacral-plates.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--globus--revere-sacral-plates/merged/interbody-cage--globus--revere-sacral-plates.json",
+        "bytes": 800
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--seaspine-orthopedics-corporation--newport-spinal-daytona-small-stature",
+  "artifact_folder": "interbody-cage--seaspine-orthopedics-corporation--newport-spinal-daytona-small-stature",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 4322,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--seaspine-orthopedics-corporation--newport-spinal-daytona-small-stature.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--seaspine-orthopedics-corporation--newport-spinal-daytona-small-stature/enriched/interbody-cage--seaspine-orthopedics-corporation--newport-spinal-daytona-small-stature.json",
+        "bytes": 2195
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K232566.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--seaspine-orthopedics-corporation--newport-spinal-daytona-small-stature/fda_raw/NKB/K232566.json",
+        "bytes": 847
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--seaspine-orthopedics-corporation--newport-spinal-daytona-small-stature.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--seaspine-orthopedics-corporation--newport-spinal-daytona-small-stature/merged/interbody-cage--seaspine-orthopedics-corporation--newport-spinal-daytona-small-stature.json",
+        "bytes": 1280
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

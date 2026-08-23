@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--american-heyer-schulte--spetzler-lumbar-peritoneal",
+  "artifact_folder": "csf-shunt--american-heyer-schulte--spetzler-lumbar-peritoneal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2892,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--american-heyer-schulte--spetzler-lumbar-peritoneal.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--american-heyer-schulte--spetzler-lumbar-peritoneal/enriched/csf-shunt--american-heyer-schulte--spetzler-lumbar-peritoneal.json",
+        "bytes": 1435
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K811288.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--american-heyer-schulte--spetzler-lumbar-peritoneal/fda_raw/JXG/K811288.json",
+        "bytes": 603
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--american-heyer-schulte--spetzler-lumbar-peritoneal.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--american-heyer-schulte--spetzler-lumbar-peritoneal/merged/csf-shunt--american-heyer-schulte--spetzler-lumbar-peritoneal.json",
+        "bytes": 854
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

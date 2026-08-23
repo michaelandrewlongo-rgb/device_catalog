@@ -1,0 +1,28 @@
+{
+  "device_name": "UniSpace\u00ae TPLIF Cage",
+  "manufacturer": "cg-medtech-co-ltd",
+  "catalog_category": "pedicle-screw",
+  "filename_stem": "pedicle-screw--cg-medtech-co-ltd--unispace-r-tplif-cage",
+  "clearance_type": "510k",
+  "clearance_number": "K252351",
+  "clearance_date": "2025-10-28",
+  "device_class": 2,
+  "device_name_fda": "UniSpace\u00ae TPLIF Cage",
+  "product_code": "MAX",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf25/K252351.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

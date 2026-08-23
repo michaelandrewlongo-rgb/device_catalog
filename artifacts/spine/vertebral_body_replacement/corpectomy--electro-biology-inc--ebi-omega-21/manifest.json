@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--electro-biology-inc--ebi-omega-21",
+  "artifact_folder": "corpectomy--electro-biology-inc--ebi-omega-21",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2768,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--electro-biology-inc--ebi-omega-21.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--electro-biology-inc--ebi-omega-21/enriched/corpectomy--electro-biology-inc--ebi-omega-21.json",
+        "bytes": 1389
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K990303.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--electro-biology-inc--ebi-omega-21/fda_raw/KWP/K990303.json",
+        "bytes": 571
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--electro-biology-inc--ebi-omega-21.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--electro-biology-inc--ebi-omega-21/merged/corpectomy--electro-biology-inc--ebi-omega-21.json",
+        "bytes": 808
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

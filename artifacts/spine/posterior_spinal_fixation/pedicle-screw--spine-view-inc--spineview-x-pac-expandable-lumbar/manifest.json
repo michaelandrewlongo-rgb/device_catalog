@@ -1,0 +1,40 @@
+{
+  "device_slug": "pedicle-screw--spine-view-inc--spineview-x-pac-expandable-lumbar",
+  "artifact_folder": "pedicle-screw--spine-view-inc--spineview-x-pac-expandable-lumbar",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3553,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--spine-view-inc--spineview-x-pac-expandable-lumbar.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spine-view-inc--spineview-x-pac-expandable-lumbar/enriched/pedicle-screw--spine-view-inc--spineview-x-pac-expandable-lumbar.json",
+        "bytes": 1458
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K152539.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spine-view-inc--spineview-x-pac-expandable-lumbar/fda_raw/MAX/K152539.json",
+        "bytes": 609
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K160856.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spine-view-inc--spineview-x-pac-expandable-lumbar/fda_raw/MAX/K160856.json",
+        "bytes": 609
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--spine-view-inc--spineview-x-pac-expandable-lumbar.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spine-view-inc--spineview-x-pac-expandable-lumbar/merged/pedicle-screw--spine-view-inc--spineview-x-pac-expandable-lumbar.json",
+        "bytes": 877
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

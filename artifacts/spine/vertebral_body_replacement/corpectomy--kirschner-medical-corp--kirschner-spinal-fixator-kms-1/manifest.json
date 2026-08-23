@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--kirschner-medical-corp--kirschner-spinal-fixator-kms-1",
+  "artifact_folder": "corpectomy--kirschner-medical-corp--kirschner-spinal-fixator-kms-1",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2897,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--kirschner-medical-corp--kirschner-spinal-fixator-kms-1.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--kirschner-medical-corp--kirschner-spinal-fixator-kms-1/enriched/corpectomy--kirschner-medical-corp--kirschner-spinal-fixator-kms-1.json",
+        "bytes": 1435
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K884690.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--kirschner-medical-corp--kirschner-spinal-fixator-kms-1/fda_raw/KWP/K884690.json",
+        "bytes": 608
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--kirschner-medical-corp--kirschner-spinal-fixator-kms-1.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--kirschner-medical-corp--kirschner-spinal-fixator-kms-1/merged/corpectomy--kirschner-medical-corp--kirschner-spinal-fixator-kms-1.json",
+        "bytes": 854
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

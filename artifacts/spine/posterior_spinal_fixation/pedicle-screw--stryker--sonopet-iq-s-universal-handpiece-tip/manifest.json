@@ -1,0 +1,28 @@
+{
+  "device_slug": "pedicle-screw--stryker--sonopet-iq-s-universal-handpiece-tip",
+  "artifact_folder": "pedicle-screw--stryker--sonopet-iq-s-universal-handpiece-tip",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 2,
+  "bytes": 2296,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--stryker--sonopet-iq-s-universal-handpiece-tip.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--sonopet-iq-s-universal-handpiece-tip/enriched/pedicle-screw--stryker--sonopet-iq-s-universal-handpiece-tip.json",
+        "bytes": 1446
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--stryker--sonopet-iq-s-universal-handpiece-tip.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--sonopet-iq-s-universal-handpiece-tip/merged/pedicle-screw--stryker--sonopet-iq-s-universal-handpiece-tip.json",
+        "bytes": 850
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

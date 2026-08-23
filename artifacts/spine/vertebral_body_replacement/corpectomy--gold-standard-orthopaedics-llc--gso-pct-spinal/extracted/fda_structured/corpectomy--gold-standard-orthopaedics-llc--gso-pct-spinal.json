@@ -1,0 +1,20 @@
+{
+  "source": "fda_udi",
+  "brand_name": "GSO PCT SPINAL SYSTEM",
+  "extraction_method": "fda_udi_api",
+  "fields": {
+    "what_it_is": "Implant Instrument Case",
+    "sizing_specs": "Model: 507180",
+    "use_notes": "MRI: Labeling does not contain MRI Safety Information. Sterilized: Moist Heat or Steam Sterilization. Single-use",
+    "also_known_as": [
+      "GSO PCT Spinal System",
+      "Surgical instrument/implant rack"
+    ]
+  },
+  "confidence": {
+    "what_it_is": 0.85,
+    "sizing_specs": 0.85,
+    "use_notes": 0.85,
+    "also_known_as": 0.85
+  }
+}

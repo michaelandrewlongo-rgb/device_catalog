@@ -1,0 +1,40 @@
+{
+  "device_slug": "interbody-cage--baui-biotech-co-ltd--facilis-spinal",
+  "artifact_folder": "interbody-cage--baui-biotech-co-ltd--facilis-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3413,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--baui-biotech-co-ltd--facilis-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--baui-biotech-co-ltd--facilis-spinal/enriched/interbody-cage--baui-biotech-co-ltd--facilis-spinal.json",
+        "bytes": 1407
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K161231.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--baui-biotech-co-ltd--facilis-spinal/fda_raw/NKB/K161231.json",
+        "bytes": 586
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K191494.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--baui-biotech-co-ltd--facilis-spinal/fda_raw/NKB/K191494.json",
+        "bytes": 586
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--baui-biotech-co-ltd--facilis-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--baui-biotech-co-ltd--facilis-spinal/merged/interbody-cage--baui-biotech-co-ltd--facilis-spinal.json",
+        "bytes": 834
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

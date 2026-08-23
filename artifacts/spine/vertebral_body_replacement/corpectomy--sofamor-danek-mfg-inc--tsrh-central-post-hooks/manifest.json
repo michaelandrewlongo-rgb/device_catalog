@@ -1,0 +1,40 @@
+{
+  "device_slug": "corpectomy--sofamor-danek-mfg-inc--tsrh-central-post-hooks",
+  "artifact_folder": "corpectomy--sofamor-danek-mfg-inc--tsrh-central-post-hooks",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3429,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--sofamor-danek-mfg-inc--tsrh-central-post-hooks.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sofamor-danek-mfg-inc--tsrh-central-post-hooks/enriched/corpectomy--sofamor-danek-mfg-inc--tsrh-central-post-hooks.json",
+        "bytes": 1412
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K914966.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sofamor-danek-mfg-inc--tsrh-central-post-hooks/fda_raw/KWP/K914966.json",
+        "bytes": 593
+      },
+      {
+        "source": "pipeline/data/fda_raw/KWP/K925811.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sofamor-danek-mfg-inc--tsrh-central-post-hooks/fda_raw/KWP/K925811.json",
+        "bytes": 593
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--sofamor-danek-mfg-inc--tsrh-central-post-hooks.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sofamor-danek-mfg-inc--tsrh-central-post-hooks/merged/corpectomy--sofamor-danek-mfg-inc--tsrh-central-post-hooks.json",
+        "bytes": 831
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

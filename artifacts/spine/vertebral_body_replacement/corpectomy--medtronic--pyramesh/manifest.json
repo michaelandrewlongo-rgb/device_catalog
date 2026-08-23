@@ -1,0 +1,21 @@
+{
+  "device_slug": "corpectomy--medtronic--pyramesh",
+  "artifact_folder": "corpectomy--medtronic--pyramesh",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 6251,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/corpectomy--medtronic--pyramesh--knowledge.md",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--pyramesh/data_by_device/corpectomy--medtronic--pyramesh--knowledge.md",
+        "bytes": 6251
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

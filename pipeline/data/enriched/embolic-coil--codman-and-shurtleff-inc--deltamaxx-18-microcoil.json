@@ -11,12 +11,16 @@
   "product_code": "HCG",
   "what_it_is": null,
   "sizing_specs": null,
-  "indications": null,
+  "indications": "Indications for Use Form\nt2 Z~\n51 0(k) Number (if known):.\nDevice Name: DELTAMAXXTM 18 Microcoil System\nThe DELTAMAXX'M Microcoil Delivery System is intended for endovascular\nembolization of intracranial aneurysms, other neurovascular abnormalities such as\narteriovenous malformations and arteriovenous fistulae, and is also intended for arterial\nand venous embolizations in the peripheral vasculature.\nP rescription Use _X- AND/OR Over-Th&-Counter Use\n(Part 21 CFR 801 Subpart D) (21 CFR 801 Subpart C)\n(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER\nPAGE IF NEEDED)\nConcurrence of CDRII, Office of In Vitro Diagnostic Devices (O1VD)\nDivision SignOI\nOffice of In Vitro Diagnostic Device\nEvaluation and Safety\nK0-2--4-\n510(k\n14",
   "contraindications": null,
   "compatible_with": null,
   "use_notes": null,
   "deployment_steps": null,
-  "also_known_as": [],
+  "also_known_as": [
+    "K080379",
+    "K080437",
+    "K120274"
+  ],
   "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf12/K120274.pdf",
   "ifu_pdf_url": null,
   "source_url": "",
@@ -35,8 +39,8 @@
       "confidence": 0
     },
     "indications": {
-      "source": "none",
-      "confidence": 0
+      "source": "fda_summary",
+      "confidence": 0.95
     },
     "contraindications": {
       "source": "none",
@@ -51,8 +55,8 @@
       "confidence": 0
     },
     "also_known_as": {
-      "source": "none",
-      "confidence": 0
+      "source": "fda_summary",
+      "confidence": 0.3
     }
   }
 }

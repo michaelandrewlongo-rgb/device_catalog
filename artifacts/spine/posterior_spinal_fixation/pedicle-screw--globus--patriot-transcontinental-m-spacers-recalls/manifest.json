@@ -1,0 +1,21 @@
+{
+  "device_slug": "pedicle-screw--globus--patriot-transcontinental-m-spacers-recalls",
+  "artifact_folder": "pedicle-screw--globus--patriot-transcontinental-m-spacers-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 6510,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/pedicle-screw--globus--patriot-transcontinental-m-spacers-recalls.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--globus--patriot-transcontinental-m-spacers-recalls/extracted/fda_safety/pedicle-screw--globus--patriot-transcontinental-m-spacers-recalls.json",
+        "bytes": 6510
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

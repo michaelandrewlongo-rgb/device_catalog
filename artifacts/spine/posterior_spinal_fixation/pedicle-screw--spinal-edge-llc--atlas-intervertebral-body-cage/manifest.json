@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--spinal-edge-llc--atlas-intervertebral-body-cage",
+  "artifact_folder": "pedicle-screw--spinal-edge-llc--atlas-intervertebral-body-cage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2866,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--spinal-edge-llc--atlas-intervertebral-body-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinal-edge-llc--atlas-intervertebral-body-cage/enriched/pedicle-screw--spinal-edge-llc--atlas-intervertebral-body-cage.json",
+        "bytes": 1427
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K092774.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinal-edge-llc--atlas-intervertebral-body-cage/fda_raw/MAX/K092774.json",
+        "bytes": 593
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--spinal-edge-llc--atlas-intervertebral-body-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinal-edge-llc--atlas-intervertebral-body-cage/merged/pedicle-screw--spinal-edge-llc--atlas-intervertebral-body-cage.json",
+        "bytes": 846
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

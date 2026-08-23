@@ -1,0 +1,33 @@
+{
+  "device_slug": "cervical-cage--stryker--tritanium-c",
+  "artifact_folder": "cervical-cage--stryker--tritanium-c",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 356168,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/cervical-cage--stryker--tritanium-c--ifu.pdf",
+        "artifact": "artifacts/spine/cervical_interbody_cages/cervical-cage--stryker--tritanium-c/data_by_device/cervical-cage--stryker--tritanium-c--ifu.pdf",
+        "bytes": 327337
+      },
+      {
+        "source": "pipeline/data/data_by_device/cervical-cage--stryker--tritanium-c--knowledge.md",
+        "artifact": "artifacts/spine/cervical_interbody_cages/cervical-cage--stryker--tritanium-c/data_by_device/cervical-cage--stryker--tritanium-c--knowledge.md",
+        "bytes": 14341
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/documents/cervical-cage--stryker--tritanium-c--ifu.json",
+        "artifact": "artifacts/spine/cervical_interbody_cages/cervical-cage--stryker--tritanium-c/extracted/documents/cervical-cage--stryker--tritanium-c--ifu.json",
+        "bytes": 14490
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "cervical_interbody_cages",
+    "label": "ACDF/ACCF Cages"
+  }
+}

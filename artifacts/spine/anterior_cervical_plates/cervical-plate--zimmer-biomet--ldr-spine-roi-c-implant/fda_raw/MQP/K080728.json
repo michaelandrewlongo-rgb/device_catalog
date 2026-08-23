@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K080728",
+  "clearance_date": "2008-05-29",
+  "device_class": 2,
+  "manufacturer_canonical": "zimmer-biomet",
+  "manufacturer_raw": "Ldr Spine USA",
+  "catalog_category": "cervical-plate",
+  "device_name_fda": "LDR SPINE ROI-C IMPLANT",
+  "product_code": "MQP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "cervical-plate--zimmer-biomet--ldr-spine-roi-c-implant",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf08/K080728.pdf"
+}

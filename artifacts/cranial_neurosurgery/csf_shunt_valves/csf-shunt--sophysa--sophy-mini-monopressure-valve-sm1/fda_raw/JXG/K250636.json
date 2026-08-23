@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K250636",
+  "clearance_date": "2025-11-28",
+  "device_class": 2,
+  "manufacturer_canonical": "sophysa",
+  "manufacturer_raw": "Sophysa",
+  "catalog_category": "csf-shunt",
+  "device_name_fda": "Sophy Mini Monopressure Valve (SM1)",
+  "product_code": "JXG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "csf-shunt--sophysa--sophy-mini-monopressure-valve-sm1",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf25/K250636.pdf"
+}

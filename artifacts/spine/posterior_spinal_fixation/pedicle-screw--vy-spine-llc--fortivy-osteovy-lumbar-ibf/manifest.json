@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--vy-spine-llc--fortivy-osteovy-lumbar-ibf",
+  "artifact_folder": "pedicle-screw--vy-spine-llc--fortivy-osteovy-lumbar-ibf",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2849,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--vy-spine-llc--fortivy-osteovy-lumbar-ibf.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--vy-spine-llc--fortivy-osteovy-lumbar-ibf/enriched/pedicle-screw--vy-spine-llc--fortivy-osteovy-lumbar-ibf.json",
+        "bytes": 1417
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K241783.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--vy-spine-llc--fortivy-osteovy-lumbar-ibf/fda_raw/MAX/K241783.json",
+        "bytes": 580
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--vy-spine-llc--fortivy-osteovy-lumbar-ibf.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--vy-spine-llc--fortivy-osteovy-lumbar-ibf/merged/pedicle-screw--vy-spine-llc--fortivy-osteovy-lumbar-ibf.json",
+        "bytes": 852
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

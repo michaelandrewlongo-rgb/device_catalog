@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--integrity-implants-inc--linesider-r-spinal",
+  "artifact_folder": "interbody-cage--integrity-implants-inc--linesider-r-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3355,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--integrity-implants-inc--linesider-r-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--integrity-implants-inc--linesider-r-spinal/enriched/interbody-cage--integrity-implants-inc--linesider-r-spinal.json",
+        "bytes": 1907
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K231098.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--integrity-implants-inc--linesider-r-spinal/fda_raw/NKB/K231098.json",
+        "bytes": 600
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--integrity-implants-inc--linesider-r-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--integrity-implants-inc--linesider-r-spinal/merged/interbody-cage--integrity-implants-inc--linesider-r-spinal.json",
+        "bytes": 848
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

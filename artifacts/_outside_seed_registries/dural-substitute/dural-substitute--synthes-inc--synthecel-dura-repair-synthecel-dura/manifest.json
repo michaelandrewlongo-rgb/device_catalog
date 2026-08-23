@@ -1,0 +1,47 @@
+{
+  "device_slug": "dural-substitute--synthes-inc--synthecel-dura-repair-synthecel-dura",
+  "artifact_folder": "dural-substitute--synthes-inc--synthecel-dura-repair-synthecel-dura",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 167998,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/dural-substitute/parsed/fda_summaries/dural-substitute--synthes-inc--synthecel-dura-repair-synthecel-dura--510k.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--synthes-inc--synthecel-dura-repair-synthecel-dura/510k/dural-substitute/parsed/fda_summaries/dural-substitute--synthes-inc--synthecel-dura-repair-synthecel-dura--510k.json",
+        "bytes": 17132
+      },
+      {
+        "source": "pipeline/data/510k/dural-substitute/pdfs/dural-substitute--synthes-inc--synthecel-dura-repair-synthecel-dura--510k.pdf",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--synthes-inc--synthecel-dura-repair-synthecel-dura/510k/dural-substitute/pdfs/dural-substitute--synthes-inc--synthecel-dura-repair-synthecel-dura--510k.pdf",
+        "bytes": 139643
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/dural-substitute--synthes-inc--synthecel-dura-repair-synthecel-dura.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--synthes-inc--synthecel-dura-repair-synthecel-dura/enriched/dural-substitute--synthes-inc--synthecel-dura-repair-synthecel-dura.json",
+        "bytes": 9741
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/GXQ/K131792.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--synthes-inc--synthecel-dura-repair-synthecel-dura/fda_raw/GXQ/K131792.json",
+        "bytes": 606
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/dural-substitute--synthes-inc--synthecel-dura-repair-synthecel-dura.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--synthes-inc--synthecel-dura-repair-synthecel-dura/merged/dural-substitute--synthes-inc--synthecel-dura-repair-synthecel-dura.json",
+        "bytes": 876
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "dural-substitute",
+    "label": "Outside listed seed registries"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K121191",
+  "clearance_date": "2012-06-29",
+  "device_class": 2,
+  "manufacturer_canonical": "medtronic",
+  "manufacturer_raw": "Medtronic Sofamor Danek, Inc.",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "VERTEX RCCONSTRUCTION SYSTEM",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--medtronic--vertex-rcconstruction",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf12/K121191.pdf"
+}

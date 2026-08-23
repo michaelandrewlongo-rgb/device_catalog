@@ -1,0 +1,33 @@
+{
+  "device_slug": "pedicle-screw--medtronic--cd-horizon",
+  "artifact_folder": "pedicle-screw--medtronic--cd-horizon",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 438367,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/pedicle-screw/parsed/documents/pedicle-screw--medtronic--cd-horizon--510k.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--cd-horizon/510k/pedicle-screw/parsed/documents/pedicle-screw--medtronic--cd-horizon--510k.json",
+        "bytes": 5511
+      },
+      {
+        "source": "pipeline/data/510k/pedicle-screw/pdfs/pedicle-screw--medtronic--cd-horizon--510k.pdf",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--cd-horizon/510k/pedicle-screw/pdfs/pedicle-screw--medtronic--cd-horizon--510k.pdf",
+        "bytes": 426869
+      }
+    ],
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/pedicle-screw--medtronic--cd-horizon--knowledge.md",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--cd-horizon/data_by_device/pedicle-screw--medtronic--cd-horizon--knowledge.md",
+        "bytes": 5987
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

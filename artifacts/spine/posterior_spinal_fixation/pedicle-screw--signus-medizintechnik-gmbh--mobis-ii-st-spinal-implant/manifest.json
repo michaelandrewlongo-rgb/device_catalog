@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--signus-medizintechnik-gmbh--mobis-ii-st-spinal-implant",
+  "artifact_folder": "pedicle-screw--signus-medizintechnik-gmbh--mobis-ii-st-spinal-implant",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2910,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--signus-medizintechnik-gmbh--mobis-ii-st-spinal-implant.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--signus-medizintechnik-gmbh--mobis-ii-st-spinal-implant/enriched/pedicle-screw--signus-medizintechnik-gmbh--mobis-ii-st-spinal-implant.json",
+        "bytes": 1437
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K141405.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--signus-medizintechnik-gmbh--mobis-ii-st-spinal-implant/fda_raw/MAX/K141405.json",
+        "bytes": 617
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--signus-medizintechnik-gmbh--mobis-ii-st-spinal-implant.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--signus-medizintechnik-gmbh--mobis-ii-st-spinal-implant/merged/pedicle-screw--signus-medizintechnik-gmbh--mobis-ii-st-spinal-implant.json",
+        "bytes": 856
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

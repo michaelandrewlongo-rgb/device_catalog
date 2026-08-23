@@ -1,0 +1,40 @@
+{
+  "source": "nspr",
+  "nspr_url": "https://neurospineproductreview.com/ifuse-torq-3d-printed-porous-titanium-si-screw",
+  "device_name": "iFuse TORQ 3D Printed Porous Titanium SI Screw",
+  "manufacturer": "SI-Bone, Inc",
+  "specs": {
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Screws , SI Joint",
+    "Screw Type": "Lateral SI Screw (or Posterior Lateral)",
+    "Features": "Self Tapping , Percutaneous Screw",
+    "Screw Materials": "Titanium",
+    "By Material": "3D Printed Titanium , Titanium (Solid)",
+    "SI approach": "Lateral Percutaneous Fixation",
+    "Materials": "Titanium (solid)",
+    "Special Features": "Compression Washer , Graft Window",
+    "By Location/Approach": "Lateral (MIS) Sacral",
+    "By Procedure Type": "SI Joint Fusion (Percutaneous)",
+    "By System Type": "Degenerative , MIS/Perc"
+  },
+  "description": "The iFuse TORQ by SI-Bone is a 3D printed titanium screw for use in the fusion and stabilization of the sacroiliac joint. It features a porous open architecture utilizing FuSIon 3D Surface Printed Porous Lattice which allows for osseous integration.",
+  "features": [
+    "3D printed open porous architecture for osseous integration",
+    "Helical Flutes with fenestrations for self-harvesting of autograft",
+    "EZDrive Tip with self drilling and self tapping",
+    "Available diameters:",
+    "10mm",
+    "11.5mm",
+    "13.5mm",
+    "Lengths available",
+    "35-90mm"
+  ],
+  "pdfs": [
+    "https://neurospineproductreview.com/storage/products/pdfs/ifuse-torq-brochure-10902-030421.pdf",
+    "https://neurospineproductreview.com/storage/products/pdfs/ifuse-torq-lateral-sijf-brochure-11421-092923.pdf",
+    "https://neurospineproductreview.com/storage/products/pdfs/ifuse-torq-sijf-claims-sheet.pdf",
+    "https://neurospineproductreview.com/storage/products/pdfs/301081-us-e-ifuse-torq-bedrock-stm.pdf",
+    "https://neurospineproductreview.com/storage/products/pdfs/300867-us-l2c-ifuse-torq2c-stm-1.pdf"
+  ],
+  "mfr_link": ""
+}

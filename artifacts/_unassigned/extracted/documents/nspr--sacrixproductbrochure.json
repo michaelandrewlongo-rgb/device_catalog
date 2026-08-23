@@ -1,0 +1,25 @@
+{
+  "source_pdf": "sacrixproductbrochure.pdf",
+  "source_path": "C:\\Users\\Michael\\Documents\\device_catalog\\pipeline\\data\\extracted\\nspr\\pdfs\\sacrixproductbrochure.pdf",
+  "device_name": "Sacrixproductbrochure",
+  "manufacturer": "unknown",
+  "doc_type": "technique_guide",
+  "extraction_method": "pdfplumber_deepseek",
+  "extraction_source": "nspr_pdf",
+  "fields": {
+    "what_it_is": "Sacrix implants are inserted through a lateral-oblique approach via straightforward cannulated instrumentation. Cortical and cancellous thread profiles ease insertion and optimize purchase for differing bone densities and compresses the joint. The inner fusion network funnels bone product from the insertion feature through the implant, directly into the fusion channels. Fusion channels self-harvest autograft during insertion, creating three equally spaced fusion columns and aiding fixation through the ilium, SI joint and sacrum. Bulleted tip and self-cutting features optimize and enable pilot hole creation immediately following the bone needle, eliminating the need for supplementary instrumentation. The implants are easy to insert and easy to remove using a threaded inserter.",
+    "sizing_specs": "Sacrix implants are available in 8, 10, 12 and 14 mm diameters. With lengths from 40 to 60 mm in 5 mm increments.\n\n| Diameter | Length Range | Increments |\n|----------|--------------|------------|\n| 8 mm     | 40-60 mm     | 5 mm       |\n| 10 mm    | 40-60 mm     | 5 mm       |\n| 12 mm    | 40-60 mm     | 5 mm       |\n| 14 mm    | 40-60 mm     | 5 mm       |\n\nThe Ø12 mm X 60 mm implant is capable of holding 1 CC of bone graft.",
+    "indications": "percutaneous transarticular sacroiliac joint fixation",
+    "contraindications": null,
+    "compatible_with": null,
+    "use_notes": "If desired, this can be a simple, two step process with bone needle/trajectory establishment and implant insertion. Regardless of trajectory, the implants are inserted using a guidepin, which allows for smaller incisions and less tissue disruption, minimal blood loss and quick and easy surgery using a two-step technique.",
+    "also_known_as": "SacroFuse system, SacroFuse Gen II"
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "sizing_specs": 0.7,
+    "indications": 0.7,
+    "use_notes": 0.7,
+    "also_known_as": 0.7
+  }
+}

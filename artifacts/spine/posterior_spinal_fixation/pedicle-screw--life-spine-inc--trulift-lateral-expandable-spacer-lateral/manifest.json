@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--life-spine-inc--trulift-lateral-expandable-spacer-lateral",
+  "artifact_folder": "pedicle-screw--life-spine-inc--trulift-lateral-expandable-spacer-lateral",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3058,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--life-spine-inc--trulift-lateral-expandable-spacer-lateral.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--life-spine-inc--trulift-lateral-expandable-spacer-lateral/enriched/pedicle-screw--life-spine-inc--trulift-lateral-expandable-spacer-lateral.json",
+        "bytes": 1502
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K221806.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--life-spine-inc--trulift-lateral-expandable-spacer-lateral/fda_raw/MAX/K221806.json",
+        "bytes": 635
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--life-spine-inc--trulift-lateral-expandable-spacer-lateral.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--life-spine-inc--trulift-lateral-expandable-spacer-lateral/merged/pedicle-screw--life-spine-inc--trulift-lateral-expandable-spacer-lateral.json",
+        "bytes": 921
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

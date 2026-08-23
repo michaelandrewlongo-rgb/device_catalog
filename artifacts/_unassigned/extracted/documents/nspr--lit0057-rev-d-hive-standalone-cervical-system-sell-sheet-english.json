@@ -1,0 +1,23 @@
+{
+  "source_pdf": "lit0057-rev-d-hive-standalone-cervical-system-sell-sheet-english.pdf",
+  "source_path": "C:\\Users\\Michael\\Documents\\device_catalog\\pipeline\\data\\extracted\\nspr\\pdfs\\lit0057-rev-d-hive-standalone-cervical-system-sell-sheet-english.pdf",
+  "device_name": "Lit0057 Rev D Hive Standalone Cervical System Sell Sheet English",
+  "manufacturer": "unknown",
+  "doc_type": "technique_guide",
+  "extraction_method": "pdfplumber_deepseek",
+  "extraction_source": "nspr_pdf",
+  "fields": {
+    "what_it_is": "Hive Standalone Cervical System includes a full range of implant designs and sizes to accommodate vertebral anatomy, lordosis and surgical technique. The implants incorporate a Soft Titanium lattice structure to deliver maximum durability while optimizing visualization. Proprietary NanoHive® acid etch surface treatment drives increased osteoblast recruitment, as compared to untreated surfaces. Patented rhombic dodecahedron lattice with independent endplates reduces the need for stress shielding design features found in other implants. Soft Titanium lattice allows bone cells growing within the implant walls to experience natural loads, significantly increasing bone strength per Wolff's law. Macro, micro and nano-scale features on all surfaces, as well as each member of the internal cell structure, are designed to support osteoblast adhesion and optimize the environment for bony on-growth.",
+    "sizing_specs": "| WIDE RANGE OF SIZES |\n| --- |\n| 15mm wide x 12mm deep |\n| 18mm wide x 14mm deep |\n| Height: 6 – 12mm (5mm - selective footprints) |\n| Lordosis: 6°, 12° |\n\n| BONE SCREWS |\n| --- |\n| Self drilling/self tapping |\n| Dia: 3.5 & 4.0 mm |\n| Length: 12 – 18mm |\n| Variable insertion angles |",
+    "indications": null,
+    "contraindications": null,
+    "compatible_with": null,
+    "use_notes": "Zero Profile cage designed to minimize contact with nearby vessels and nerves. Adjustable anterior plate, to allow for plate rotation and countersinking of the interbody into the disc space. Streamlined instrumentation, including easy to use Angled Driver, accommodates a variety of anatomical conditions and approaches.",
+    "also_known_as": null
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "sizing_specs": 0.7,
+    "use_notes": 0.7
+  }
+}

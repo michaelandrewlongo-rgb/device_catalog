@@ -1,0 +1,109 @@
+[
+  {
+    "device_family": "aspiration--stryker--axs-catalyst-7-distal-access",
+    "query_used": "brand_name:\"AXS Catalyst 7 Distal Access Catheter\" OR brand_name:\"AXS Catalyst 7\" OR brand_name:\"Catalyst 7\"",
+    "raw": {
+      "brand_name": "AXS Catalyst 7",
+      "catalog_number": "IC068132",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "company_name": "Stryker Corporation",
+      "customer_contacts": [
+        {
+          "email": "NVCustomerService@stryker.com",
+          "phone": "+1(855)916-3876"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "device_description": "Distal Access Catheter",
+      "device_sizes": [
+        {
+          "type": "Length",
+          "unit": "Centimeter",
+          "value": "132.0"
+        },
+        {
+          "type": "Lumen/Inner Diameter",
+          "unit": "Inch",
+          "value": "0.068"
+        }
+      ],
+      "gmdn_terms": [
+        {
+          "code": "17846",
+          "code_status": "Active",
+          "definition": "A flexible tube intended to be used for the percutaneous transluminal passage and placement of a diagnostic/interventional catheter, lead (e.g., pacing lead, balloon dilatation catheter), needle or guidewire through its lumen(s), within the vascular system. It may be rigid or flexible, non-steerable or steerable, single or multiple lumen(s), and the distal section can have a variety of preformed shapes (e.g., straight, hockey stick). It is not intended solely for infusion, is not intended to access superselective small vessels, and does not include a transseptal needle. It may include a disposable percutaneous introduction set or shaft visualization electrodes. This is a single-use device.",
+          "implantable": "false",
+          "name": "Vascular guide-catheter, single-use"
+        }
+      ],
+      "has_donation_id_number": "false",
+      "has_expiration_date": "true",
+      "has_lot_or_batch_number": "true",
+      "has_manufacturing_date": "false",
+      "has_serial_number": "false",
+      "identifiers": [
+        {
+          "id": "07613327417227",
+          "issuing_agency": "GS1",
+          "type": "Primary"
+        }
+      ],
+      "is_combination_product": "false",
+      "is_direct_marking_exempt": "false",
+      "is_hct_p": "false",
+      "is_kit": "false",
+      "is_labeled_as_no_nrl": "false",
+      "is_labeled_as_nrl": "false",
+      "is_otc": "false",
+      "is_pm_exempt": "false",
+      "is_rx": "true",
+      "is_single_use": "true",
+      "labeler_duns_number": "042405446",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "product_codes": [
+        {
+          "code": "NRY",
+          "name": "CATHETER, THROMBUS RETRIEVER",
+          "openfda": {
+            "device_class": "2",
+            "device_name": "Catheter, Thrombus Retriever",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.1250"
+          }
+        },
+        {
+          "code": "DQY",
+          "name": "Catheter, percutaneous",
+          "openfda": {
+            "device_class": "2",
+            "device_name": "Catheter, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.1250"
+          }
+        }
+      ],
+      "public_device_record_key": "c45372ac-77f6-4de6-bf22-d4a49e3e0ea6",
+      "public_version_date": "2025-05-12",
+      "public_version_number": "6",
+      "public_version_status": "Update",
+      "publish_date": "2019-05-13",
+      "record_status": "Published",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "storage": [
+        {
+          "special_conditions": "Store in cool, dry, dark place.",
+          "type": "Special Storage Condition, Specify"
+        }
+      ],
+      "version_or_model_number": "IC068132"
+    },
+    "retrieved_at": "2026-04-15T10:18:30+00:00",
+    "source_id": "fda:udi:record-1",
+    "source_type": "fda",
+    "source_url": "https://api.fda.gov/device/udi.json?search=brand_name%3A%22AXS%20Catalyst%207%20Distal%20Access%20Catheter%22%20OR%20brand_name%3A%22AXS%20Catalyst%207%22%20OR%20brand_name%3A%22Catalyst%207%22",
+    "title": "AXS Catalyst 7"
+  }
+]

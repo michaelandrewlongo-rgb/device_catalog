@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--nuvasive--nuvasive-mash",
+  "artifact_folder": "cervical-plate--nuvasive--nuvasive-mash",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2918,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--nuvasive--nuvasive-mash.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--nuvasive--nuvasive-mash/enriched/cervical-plate--nuvasive--nuvasive-mash.json",
+        "bytes": 1590
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K023319.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--nuvasive--nuvasive-mash/fda_raw/MQP/K023319.json",
+        "bytes": 545
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--nuvasive--nuvasive-mash.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--nuvasive--nuvasive-mash/merged/cervical-plate--nuvasive--nuvasive-mash.json",
+        "bytes": 783
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

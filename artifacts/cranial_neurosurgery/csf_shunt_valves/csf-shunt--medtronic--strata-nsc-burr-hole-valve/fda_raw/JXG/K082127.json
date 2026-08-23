@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K082127",
+  "clearance_date": "2008-08-27",
+  "device_class": 2,
+  "manufacturer_canonical": "medtronic",
+  "manufacturer_raw": "Medtronic Neurosurgery",
+  "catalog_category": "csf-shunt",
+  "device_name_fda": "STRATA NSC BURR HOLE VALVE, MODEL 42335; SHUNT ASSEMBLY, MODEL 46635",
+  "product_code": "JXG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": true,
+  "suggested_filename_stem": "csf-shunt--medtronic--strata-nsc-burr-hole-valve",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf08/K082127.pdf"
+}

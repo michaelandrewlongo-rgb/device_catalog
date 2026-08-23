@@ -1,0 +1,42 @@
+{
+  "device_slug": "pedicle-screw--globus--reline-open-fixation-system",
+  "artifact_folder": "pedicle-screw--globus--reline-open-fixation-system",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 6419,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/pedicle-screw--globus--reline-open-fixation-system--knowledge.md",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--globus--reline-open-fixation-system/data_by_device/pedicle-screw--globus--reline-open-fixation-system--knowledge.md",
+        "bytes": 2142
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--globus--reline-open-fixation-system.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--globus--reline-open-fixation-system/enriched/pedicle-screw--globus--reline-open-fixation-system.json",
+        "bytes": 1980
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--globus--reline-open-fixation-system.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--globus--reline-open-fixation-system/merged/pedicle-screw--globus--reline-open-fixation-system.json",
+        "bytes": 1374
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/globus/reline-open-fixation-system.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--globus--reline-open-fixation-system/scraper_raw/globus/reline-open-fixation-system.json",
+        "bytes": 923
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

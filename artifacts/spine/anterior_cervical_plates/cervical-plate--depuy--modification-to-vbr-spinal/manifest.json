@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--depuy--modification-to-vbr-spinal",
+  "artifact_folder": "cervical-plate--depuy--modification-to-vbr-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2816,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--depuy--modification-to-vbr-spinal.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuy--modification-to-vbr-spinal/enriched/cervical-plate--depuy--modification-to-vbr-spinal.json",
+        "bytes": 1411
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K041722.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuy--modification-to-vbr-spinal/fda_raw/MQP/K041722.json",
+        "bytes": 575
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--depuy--modification-to-vbr-spinal.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuy--modification-to-vbr-spinal/merged/cervical-plate--depuy--modification-to-vbr-spinal.json",
+        "bytes": 830
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "device_slug": "csf-shunt--integra--bundled-neurological-shunts-and-accessories",
+  "artifact_folder": "csf-shunt--integra--bundled-neurological-shunts-and-accessories",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 292860,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/csf-shunt/parsed/fda_summaries/csf-shunt--integra--bundled-neurological-shunts-and-accessories--510k.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--bundled-neurological-shunts-and-accessories/510k/csf-shunt/parsed/fda_summaries/csf-shunt--integra--bundled-neurological-shunts-and-accessories--510k.json",
+        "bytes": 79427
+      },
+      {
+        "source": "pipeline/data/510k/csf-shunt/pdfs/csf-shunt--integra--bundled-neurological-shunts-and-accessories--510k.pdf",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--bundled-neurological-shunts-and-accessories/510k/csf-shunt/pdfs/csf-shunt--integra--bundled-neurological-shunts-and-accessories--510k.pdf",
+        "bytes": 170166
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--integra--bundled-neurological-shunts-and-accessories.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--bundled-neurological-shunts-and-accessories/enriched/csf-shunt--integra--bundled-neurological-shunts-and-accessories.json",
+        "bytes": 41574
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K153041.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--bundled-neurological-shunts-and-accessories/fda_raw/JXG/K153041.json",
+        "bytes": 684
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--integra--bundled-neurological-shunts-and-accessories.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--bundled-neurological-shunts-and-accessories/merged/csf-shunt--integra--bundled-neurological-shunts-and-accessories.json",
+        "bytes": 1009
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

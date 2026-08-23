@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--ebi-l-p--expandable-peek-optima-implant",
+  "artifact_folder": "pedicle-screw--ebi-l-p--expandable-peek-optima-implant",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2811,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--ebi-l-p--expandable-peek-optima-implant.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--ebi-l-p--expandable-peek-optima-implant/enriched/pedicle-screw--ebi-l-p--expandable-peek-optima-implant.json",
+        "bytes": 1411
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K082406.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--ebi-l-p--expandable-peek-optima-implant/fda_raw/MAX/K082406.json",
+        "bytes": 570
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--ebi-l-p--expandable-peek-optima-implant.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--ebi-l-p--expandable-peek-optima-implant/merged/pedicle-screw--ebi-l-p--expandable-peek-optima-implant.json",
+        "bytes": 830
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

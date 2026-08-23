@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--nexxt-spine-llc--trelloss-l-mpf",
+  "artifact_folder": "pedicle-screw--nexxt-spine-llc--trelloss-l-mpf",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2756,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--nexxt-spine-llc--trelloss-l-mpf.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nexxt-spine-llc--trelloss-l-mpf/enriched/pedicle-screw--nexxt-spine-llc--trelloss-l-mpf.json",
+        "bytes": 1383
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K192687.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nexxt-spine-llc--trelloss-l-mpf/fda_raw/MAX/K192687.json",
+        "bytes": 563
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--nexxt-spine-llc--trelloss-l-mpf.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nexxt-spine-llc--trelloss-l-mpf/merged/pedicle-screw--nexxt-spine-llc--trelloss-l-mpf.json",
+        "bytes": 810
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

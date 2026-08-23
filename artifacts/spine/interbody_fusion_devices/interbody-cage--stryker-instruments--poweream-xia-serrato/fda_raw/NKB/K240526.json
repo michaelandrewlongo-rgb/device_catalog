@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K240526",
+  "clearance_date": "2024-04-29",
+  "device_class": 2,
+  "manufacturer_canonical": "stryker-instruments",
+  "manufacturer_raw": "Stryker Instruments",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "POWEReam Xia/Serrato",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--stryker-instruments--poweream-xia-serrato",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K240526.pdf"
+}

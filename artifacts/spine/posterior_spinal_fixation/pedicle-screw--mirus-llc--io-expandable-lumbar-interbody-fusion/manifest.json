@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--mirus-llc--io-expandable-lumbar-interbody-fusion",
+  "artifact_folder": "pedicle-screw--mirus-llc--io-expandable-lumbar-interbody-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2915,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--mirus-llc--io-expandable-lumbar-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--mirus-llc--io-expandable-lumbar-interbody-fusion/enriched/pedicle-screw--mirus-llc--io-expandable-lumbar-interbody-fusion.json",
+        "bytes": 1450
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K210800.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--mirus-llc--io-expandable-lumbar-interbody-fusion/fda_raw/MAX/K210800.json",
+        "bytes": 596
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--mirus-llc--io-expandable-lumbar-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--mirus-llc--io-expandable-lumbar-interbody-fusion/merged/pedicle-screw--mirus-llc--io-expandable-lumbar-interbody-fusion.json",
+        "bytes": 869
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "device_slug": "pedicle-screw--globus--creo",
+  "artifact_folder": "pedicle-screw--globus--creo",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 3597,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/pedicle-screw--globus--creo--knowledge.md",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--globus--creo/data_by_device/pedicle-screw--globus--creo--knowledge.md",
+        "bytes": 3597
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

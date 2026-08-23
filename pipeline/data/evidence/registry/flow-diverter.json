@@ -1,0 +1,71 @@
+[
+  {
+    "canonical_id": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield",
+    "category": "flow-diverter",
+    "display_name": "Pipeline Flex Embolization Device with Shield Technology",
+    "editions": [],
+    "manufacturer": "medtronic",
+    "synonyms": [
+      "Pipeline Flex",
+      "PED",
+      "Pipeline Embolization Device",
+      "Pipeline Shield"
+    ]
+  },
+  {
+    "canonical_id": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+    "category": "flow-diverter",
+    "display_name": "Pipeline Flex Embolization Device with Shield Technology",
+    "editions": [],
+    "manufacturer": "medtronic",
+    "synonyms": [
+      "Pipeline Flex",
+      "PED",
+      "Pipeline Embolization Device",
+      "Pipeline Shield"
+    ]
+  },
+  {
+    "canonical_id": "flow-diverter--medtronic--pipeline-flex-shield",
+    "category": "flow-diverter",
+    "display_name": "Pipeline Flex Embolization Device",
+    "editions": [],
+    "manufacturer": "medtronic",
+    "synonyms": [
+      "Pipeline",
+      "PED",
+      "Pipeline Flex",
+      "Pipeline Shield",
+      "Pipeline Flex with Shield Technology"
+    ]
+  },
+  {
+    "canonical_id": "flow-diverter--microvention--fred",
+    "category": "flow-diverter",
+    "display_name": "FRED Flow Diverter (MicroVention/Terumo)",
+    "editions": [],
+    "manufacturer": "microvention",
+    "synonyms": [
+      "FRED",
+      "FRED Flow Diverter",
+      "Flow Re-Direction Endoluminal Device",
+      "FRED-21 (2.5-3.0 mm sizes",
+      "Headway 21 compatible)",
+      "FRED-27 (3.5-5.5 mm sizes",
+      "Headway 27 compatible)",
+      "MicroVention FRED"
+    ]
+  },
+  {
+    "canonical_id": "flow-diverter--stryker--surpass-streamline",
+    "category": "flow-diverter",
+    "display_name": "Surpass Streamline Flow Diverter -- Stryker Neurovascular",
+    "editions": [],
+    "manufacturer": "stryker",
+    "synonyms": [
+      "Surpass Streamline",
+      "Surpass Flow Diverter",
+      "Intracranial Aneurysm Flow Diverter"
+    ]
+  }
+]

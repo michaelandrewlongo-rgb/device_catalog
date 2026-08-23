@@ -1,0 +1,47 @@
+{
+  "device_slug": "csf-shunt--sophysa--polaris-valve-electronic-reading-instrument",
+  "artifact_folder": "csf-shunt--sophysa--polaris-valve-electronic-reading-instrument",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 2564740,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/csf-shunt/parsed/fda_summaries/csf-shunt--sophysa--polaris-valve-electronic-reading-instrument--510k.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--sophysa--polaris-valve-electronic-reading-instrument/510k/csf-shunt/parsed/fda_summaries/csf-shunt--sophysa--polaris-valve-electronic-reading-instrument--510k.json",
+        "bytes": 15405
+      },
+      {
+        "source": "pipeline/data/510k/csf-shunt/pdfs/csf-shunt--sophysa--polaris-valve-electronic-reading-instrument--510k.pdf",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--sophysa--polaris-valve-electronic-reading-instrument/510k/csf-shunt/pdfs/csf-shunt--sophysa--polaris-valve-electronic-reading-instrument--510k.pdf",
+        "bytes": 2539352
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--sophysa--polaris-valve-electronic-reading-instrument.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--sophysa--polaris-valve-electronic-reading-instrument/enriched/csf-shunt--sophysa--polaris-valve-electronic-reading-instrument.json",
+        "bytes": 8537
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K222422.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--sophysa--polaris-valve-electronic-reading-instrument/fda_raw/JXG/K222422.json",
+        "bytes": 585
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--sophysa--polaris-valve-electronic-reading-instrument.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--sophysa--polaris-valve-electronic-reading-instrument/merged/csf-shunt--sophysa--polaris-valve-electronic-reading-instrument.json",
+        "bytes": 861
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

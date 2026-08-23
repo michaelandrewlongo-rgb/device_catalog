@@ -1,0 +1,45 @@
+{
+  "device_slug": "interbody-cage--spineart--perla-r-tl-posterior-osteosynthesis",
+  "artifact_folder": "interbody-cage--spineart--perla-r-tl-posterior-osteosynthesis",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 4521,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--spineart--perla-r-tl-posterior-osteosynthesis.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spineart--perla-r-tl-posterior-osteosynthesis/enriched/interbody-cage--spineart--perla-r-tl-posterior-osteosynthesis.json",
+        "bytes": 1880
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K193396.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spineart--perla-r-tl-posterior-osteosynthesis/fda_raw/NKB/K193396.json",
+        "bytes": 590
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K203506.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spineart--perla-r-tl-posterior-osteosynthesis/fda_raw/NKB/K203506.json",
+        "bytes": 590
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K213470.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spineart--perla-r-tl-posterior-osteosynthesis/fda_raw/NKB/K213470.json",
+        "bytes": 590
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--spineart--perla-r-tl-posterior-osteosynthesis.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spineart--perla-r-tl-posterior-osteosynthesis/merged/interbody-cage--spineart--perla-r-tl-posterior-osteosynthesis.json",
+        "bytes": 871
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

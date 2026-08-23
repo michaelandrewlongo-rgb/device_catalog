@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--neuro-diagnostic-devices--shuntcheck-csf-shunt-flow-detector",
+  "artifact_folder": "csf-shunt--neuro-diagnostic-devices--shuntcheck-csf-shunt-flow-detector",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2945,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--neuro-diagnostic-devices--shuntcheck-csf-shunt-flow-detector.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--neuro-diagnostic-devices--shuntcheck-csf-shunt-flow-detector/enriched/csf-shunt--neuro-diagnostic-devices--shuntcheck-csf-shunt-flow-detector.json",
+        "bytes": 1453
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K080168.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--neuro-diagnostic-devices--shuntcheck-csf-shunt-flow-detector/fda_raw/JXG/K080168.json",
+        "bytes": 620
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--neuro-diagnostic-devices--shuntcheck-csf-shunt-flow-detector.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--neuro-diagnostic-devices--shuntcheck-csf-shunt-flow-detector/merged/csf-shunt--neuro-diagnostic-devices--shuntcheck-csf-shunt-flow-detector.json",
+        "bytes": 872
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K180655",
+  "clearance_date": "2018-07-13",
+  "device_class": 2,
+  "manufacturer_canonical": "presidio-surgical",
+  "manufacturer_raw": "Presidio Surgical",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "Viking Lumbar Polyaxial Screw System",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--presidio-surgical--viking-lumbar-polyaxial-screw",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf18/K180655.pdf"
+}

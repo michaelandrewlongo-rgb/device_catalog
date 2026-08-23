@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--depuy--veper-expedium",
+  "artifact_folder": "interbody-cage--depuy--veper-expedium",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3293,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--depuy--veper-expedium.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--veper-expedium/enriched/interbody-cage--depuy--veper-expedium.json",
+        "bytes": 1924
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K103133.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--veper-expedium/fda_raw/NKB/K103133.json",
+        "bytes": 559
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--depuy--veper-expedium.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--veper-expedium/merged/interbody-cage--depuy--veper-expedium.json",
+        "bytes": 810
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

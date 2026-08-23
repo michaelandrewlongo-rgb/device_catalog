@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--camber-spine-technologies--spira-r-posterior-lumbar-spacers",
+  "artifact_folder": "pedicle-screw--camber-spine-technologies--spira-r-posterior-lumbar-spacers",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2959,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--camber-spine-technologies--spira-r-posterior-lumbar-spacers.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--camber-spine-technologies--spira-r-posterior-lumbar-spacers/enriched/pedicle-screw--camber-spine-technologies--spira-r-posterior-lumbar-spacers.json",
+        "bytes": 1453
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K230942.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--camber-spine-technologies--spira-r-posterior-lumbar-spacers/fda_raw/MAX/K230942.json",
+        "bytes": 626
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--camber-spine-technologies--spira-r-posterior-lumbar-spacers.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--camber-spine-technologies--spira-r-posterior-lumbar-spacers/merged/pedicle-screw--camber-spine-technologies--spira-r-posterior-lumbar-spacers.json",
+        "bytes": 880
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

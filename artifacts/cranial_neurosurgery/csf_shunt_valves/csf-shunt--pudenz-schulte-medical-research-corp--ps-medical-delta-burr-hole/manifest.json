@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-delta-burr-hole",
+  "artifact_folder": "csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-delta-burr-hole",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2986,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-delta-burr-hole.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-delta-burr-hole/enriched/csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-delta-burr-hole.json",
+        "bytes": 1461
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K934545.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-delta-burr-hole/fda_raw/JXG/K934545.json",
+        "bytes": 645
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-delta-burr-hole.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-delta-burr-hole/merged/csf-shunt--pudenz-schulte-medical-research-corp--ps-medical-delta-burr-hole.json",
+        "bytes": 880
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

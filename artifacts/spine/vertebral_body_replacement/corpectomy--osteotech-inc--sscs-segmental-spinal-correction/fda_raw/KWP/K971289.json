@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K971289",
+  "clearance_date": "1997-06-18",
+  "device_class": 2,
+  "manufacturer_canonical": "osteotech-inc",
+  "manufacturer_raw": "Osteotech, Inc.",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "SSCS (SEGMENTAL SPINAL CORRECTION SYSTEM)",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--osteotech-inc--sscs-segmental-spinal-correction",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf97/K971289.pdf"
+}

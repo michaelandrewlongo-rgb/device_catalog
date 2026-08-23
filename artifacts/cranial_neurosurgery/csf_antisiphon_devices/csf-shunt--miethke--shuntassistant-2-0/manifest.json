@@ -1,0 +1,33 @@
+{
+  "device_slug": "csf-shunt--miethke--shuntassistant-2-0",
+  "artifact_folder": "csf-shunt--miethke--shuntassistant-2-0",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2406939,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/csf-shunt--miethke--shuntassistant-2-0--brochure.pdf",
+        "artifact": "artifacts/cranial_neurosurgery/csf_antisiphon_devices/csf-shunt--miethke--shuntassistant-2-0/data_by_device/csf-shunt--miethke--shuntassistant-2-0--brochure.pdf",
+        "bytes": 2395167
+      },
+      {
+        "source": "pipeline/data/data_by_device/csf-shunt--miethke--shuntassistant-2-0--knowledge.md",
+        "artifact": "artifacts/cranial_neurosurgery/csf_antisiphon_devices/csf-shunt--miethke--shuntassistant-2-0/data_by_device/csf-shunt--miethke--shuntassistant-2-0--knowledge.md",
+        "bytes": 4693
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/documents/csf-shunt--miethke--shuntassistant-2-0--brochure.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_antisiphon_devices/csf-shunt--miethke--shuntassistant-2-0/extracted/documents/csf-shunt--miethke--shuntassistant-2-0--brochure.json",
+        "bytes": 7079
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_antisiphon_devices",
+    "label": "Antisiphon Accessories"
+  }
+}

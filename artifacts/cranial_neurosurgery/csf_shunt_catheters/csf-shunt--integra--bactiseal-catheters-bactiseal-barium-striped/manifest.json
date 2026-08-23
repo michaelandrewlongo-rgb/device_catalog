@@ -1,0 +1,47 @@
+{
+  "device_slug": "csf-shunt--integra--bactiseal-catheters-bactiseal-barium-striped",
+  "artifact_folder": "csf-shunt--integra--bactiseal-catheters-bactiseal-barium-striped",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 1695163,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/csf-shunt/parsed/fda_summaries/csf-shunt--integra--bactiseal-catheters-bactiseal-barium-striped--510k.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--bactiseal-catheters-bactiseal-barium-striped/510k/csf-shunt/parsed/fda_summaries/csf-shunt--integra--bactiseal-catheters-bactiseal-barium-striped--510k.json",
+        "bytes": 25757
+      },
+      {
+        "source": "pipeline/data/510k/csf-shunt/pdfs/csf-shunt--integra--bactiseal-catheters-bactiseal-barium-striped--510k.pdf",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--bactiseal-catheters-bactiseal-barium-striped/510k/csf-shunt/pdfs/csf-shunt--integra--bactiseal-catheters-bactiseal-barium-striped--510k.pdf",
+        "bytes": 1662839
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--integra--bactiseal-catheters-bactiseal-barium-striped.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--bactiseal-catheters-bactiseal-barium-striped/enriched/csf-shunt--integra--bactiseal-catheters-bactiseal-barium-striped.json",
+        "bytes": 4918
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K233445.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--bactiseal-catheters-bactiseal-barium-striped/fda_raw/JXG/K233445.json",
+        "bytes": 677
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--integra--bactiseal-catheters-bactiseal-barium-striped.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--bactiseal-catheters-bactiseal-barium-striped/merged/csf-shunt--integra--bactiseal-catheters-bactiseal-barium-striped.json",
+        "bytes": 972
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

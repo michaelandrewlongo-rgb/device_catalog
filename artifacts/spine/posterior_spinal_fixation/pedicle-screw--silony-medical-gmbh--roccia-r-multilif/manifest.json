@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--silony-medical-gmbh--roccia-r-multilif",
+  "artifact_folder": "pedicle-screw--silony-medical-gmbh--roccia-r-multilif",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2797,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--silony-medical-gmbh--roccia-r-multilif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--silony-medical-gmbh--roccia-r-multilif/enriched/pedicle-screw--silony-medical-gmbh--roccia-r-multilif.json",
+        "bytes": 1396
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K171434.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--silony-medical-gmbh--roccia-r-multilif/fda_raw/MAX/K171434.json",
+        "bytes": 578
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--silony-medical-gmbh--roccia-r-multilif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--silony-medical-gmbh--roccia-r-multilif/merged/pedicle-screw--silony-medical-gmbh--roccia-r-multilif.json",
+        "bytes": 823
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

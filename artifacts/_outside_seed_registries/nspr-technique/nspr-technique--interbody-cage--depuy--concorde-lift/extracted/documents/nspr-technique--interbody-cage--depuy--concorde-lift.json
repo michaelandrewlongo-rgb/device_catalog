@@ -1,0 +1,24 @@
+{
+  "source_pdf": "depuy-synthes-concorde-lift-expandable-tlif-plif-spacer-sales-sheet-depuysynthes-2.pdf",
+  "source_path": "C:\\Users\\Michael\\Documents\\device_catalog\\pipeline\\data\\extracted\\nspr\\pdfs\\depuy-synthes-concorde-lift-expandable-tlif-plif-spacer-sales-sheet-depuysynthes-2.pdf",
+  "device_name": "Depuy Synthes Concorde Lift Expandable Tlif Plif Spacer Sales Sheet Depuysynthes 2",
+  "manufacturer": "unknown",
+  "doc_type": "technique_guide",
+  "extraction_method": "pdfplumber_deepseek",
+  "extraction_source": "nspr_pdf",
+  "fields": {
+    "what_it_is": "The CONCORDE LIFT™ Expandable Interbody Device. Designed as a solution for collapsed interbody spaces, the CONCORDE LIFT Implant provides the flexibility of an expandable cage with continuous expansion mechanism for stability and height restoration during interbody fusion procedures. The sterile packed implant is offered in Convex and Lordotic configurations with multiple footprints. The streamlined set of instruments is designed for efficient endplate preparation, implant insertion, graft delivery into the disc space and graft delivery into the implant post-expansion. The CONCORDE LIFT Expandable Interbody Device provides a robust expandable titanium cage with instrumentation that delivers control and performance to clinicians through tactile feedback and reliable graft delivery for the TLIF approach.",
+    "sizing_specs": "|  |  |  |  | Convex |  |  |  |  |  | Lordotic |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  | 9x21 / 11x21 |  |  | 9x26 / 11x26 |  |  | 9x23 / 11x23 |  |  | 9x27 / 11x27 |  |\n| Fully collapsed (mm) |  | 32 |  |  | 36 |  |  | 32 |  |  | 36 |  |  |\n| Fully expanded (mm) |  | 24 |  |  | 28 |  |  | 24 |  |  | 28 |  |  |\n| Endplate length (mm) |  | 21 |  |  | 26 |  |  | 23 |  |  | 27 |  |  |\n| Expansion range (mm) |  | 8-13 |  |  |  |  |  | 10-15 |  |  |  |  |  |",
+    "indications": "The CONCORDE LIFT™ Expandable Interbody Device is a lumbar intervertebral body fusion device, and is indicated for use with autogenous bone graft and/or allograft comprised of cancellous and/or corticocancellous bone graft in patients with degenerative disc disease (DDD) at one or two contiguous levels of the lumbar spine, L2 to S1. These DDD patients may also have up to Grade I spondylolisthesis or retrolisthesis at the involved level(s). The CONCORDE LIFT™ Expandable Interbody Device can be implanted via posterior or transforaminal approach. DDD is defined as discogenic back pain with degeneration of the disc confirmed by history and radiographic studies. Candidates for surgery should be skeletally mature and have had a six-month course of conservative treatment. These patients may have had primary or secondary surgery, but no previous fusion at the involved levels. The device is not intended to be used as a stand-alone device. It must be used with supplemental internal spinal fixation systems that have been cleared for use in the lumbar spine.",
+    "contraindications": null,
+    "compatible_with": "CONCORDE® Clear MIS Discectomy Device and VIPER PRIME™ System.",
+    "use_notes": null,
+    "also_known_as": null
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "sizing_specs": 0.7,
+    "indications": 0.7,
+    "compatible_with": 0.7
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--sofamor-danek-usa-inc--alpha-posterior-spinal",
+  "artifact_folder": "corpectomy--sofamor-danek-usa-inc--alpha-posterior-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3293,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--sofamor-danek-usa-inc--alpha-posterior-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sofamor-danek-usa-inc--alpha-posterior-spinal/enriched/corpectomy--sofamor-danek-usa-inc--alpha-posterior-spinal.json",
+        "bytes": 1855
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K964275.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sofamor-danek-usa-inc--alpha-posterior-spinal/fda_raw/KWP/K964275.json",
+        "bytes": 596
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--sofamor-danek-usa-inc--alpha-posterior-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sofamor-danek-usa-inc--alpha-posterior-spinal/merged/corpectomy--sofamor-danek-usa-inc--alpha-posterior-spinal.json",
+        "bytes": 842
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

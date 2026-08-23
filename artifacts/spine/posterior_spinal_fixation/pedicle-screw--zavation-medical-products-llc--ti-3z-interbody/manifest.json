@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--zavation-medical-products-llc--ti-3z-interbody",
+  "artifact_folder": "pedicle-screw--zavation-medical-products-llc--ti-3z-interbody",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2879,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--zavation-medical-products-llc--ti-3z-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--zavation-medical-products-llc--ti-3z-interbody/enriched/pedicle-screw--zavation-medical-products-llc--ti-3z-interbody.json",
+        "bytes": 1424
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K180076.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--zavation-medical-products-llc--ti-3z-interbody/fda_raw/MAX/K180076.json",
+        "bytes": 612
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--zavation-medical-products-llc--ti-3z-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--zavation-medical-products-llc--ti-3z-interbody/merged/pedicle-screw--zavation-medical-products-llc--ti-3z-interbody.json",
+        "bytes": 843
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

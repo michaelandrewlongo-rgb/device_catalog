@@ -1,0 +1,42 @@
+{
+  "device_slug": "interbody-cage--hogan-lovells-us-llp--calypso",
+  "artifact_folder": "interbody-cage--hogan-lovells-us-llp--calypso",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 5222,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--hogan-lovells-us-llp--calypso.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--hogan-lovells-us-llp--calypso/enriched/interbody-cage--hogan-lovells-us-llp--calypso.json",
+        "bytes": 2450
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--hogan-lovells-us-llp--calypso.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--hogan-lovells-us-llp--calypso/extracted/fda_structured/interbody-cage--hogan-lovells-us-llp--calypso.json",
+        "bytes": 1399
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K120564.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--hogan-lovells-us-llp--calypso/fda_raw/NKB/K120564.json",
+        "bytes": 570
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--hogan-lovells-us-llp--calypso.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--hogan-lovells-us-llp--calypso/merged/interbody-cage--hogan-lovells-us-llp--calypso.json",
+        "bytes": 803
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

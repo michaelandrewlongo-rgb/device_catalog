@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K222422",
+  "clearance_date": "2023-02-02",
+  "device_class": 2,
+  "manufacturer_canonical": "sophysa",
+  "manufacturer_raw": "Sophysa",
+  "catalog_category": "csf-shunt",
+  "device_name_fda": "Polaris Valve Electronic Reading Instrument",
+  "product_code": "JXG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "csf-shunt--sophysa--polaris-valve-electronic-reading-instrument",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K222422.pdf"
+}

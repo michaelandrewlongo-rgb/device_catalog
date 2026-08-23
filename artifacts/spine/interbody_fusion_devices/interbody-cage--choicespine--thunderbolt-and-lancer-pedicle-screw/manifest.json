@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--choicespine--thunderbolt-and-lancer-pedicle-screw",
+  "artifact_folder": "interbody-cage--choicespine--thunderbolt-and-lancer-pedicle-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2936,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--choicespine--thunderbolt-and-lancer-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--choicespine--thunderbolt-and-lancer-pedicle-screw/enriched/interbody-cage--choicespine--thunderbolt-and-lancer-pedicle-screw.json",
+        "bytes": 1457
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K132049.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--choicespine--thunderbolt-and-lancer-pedicle-screw/fda_raw/NKB/K132049.json",
+        "bytes": 603
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--choicespine--thunderbolt-and-lancer-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--choicespine--thunderbolt-and-lancer-pedicle-screw/merged/interbody-cage--choicespine--thunderbolt-and-lancer-pedicle-screw.json",
+        "bytes": 876
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

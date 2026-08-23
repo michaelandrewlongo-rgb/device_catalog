@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--zimmer-biomet--st360-spinal-fixation",
+  "artifact_folder": "corpectomy--zimmer-biomet--st360-spinal-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3333,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--zimmer-biomet--st360-spinal-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--zimmer-biomet--st360-spinal-fixation/enriched/corpectomy--zimmer-biomet--st360-spinal-fixation.json",
+        "bytes": 1936
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K041925.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--zimmer-biomet--st360-spinal-fixation/fda_raw/KWP/K041925.json",
+        "bytes": 574
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--zimmer-biomet--st360-spinal-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--zimmer-biomet--st360-spinal-fixation/merged/corpectomy--zimmer-biomet--st360-spinal-fixation.json",
+        "bytes": 823
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

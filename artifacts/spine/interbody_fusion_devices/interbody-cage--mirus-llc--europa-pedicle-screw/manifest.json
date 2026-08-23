@@ -1,0 +1,50 @@
+{
+  "device_slug": "interbody-cage--mirus-llc--europa-pedicle-screw",
+  "artifact_folder": "interbody-cage--mirus-llc--europa-pedicle-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 4495,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--mirus-llc--europa-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--mirus-llc--europa-pedicle-screw/enriched/interbody-cage--mirus-llc--europa-pedicle-screw.json",
+        "bytes": 1405
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K180337.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--mirus-llc--europa-pedicle-screw/fda_raw/NKB/K180337.json",
+        "bytes": 564
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K182970.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--mirus-llc--europa-pedicle-screw/fda_raw/NKB/K182970.json",
+        "bytes": 566
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K191757.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--mirus-llc--europa-pedicle-screw/fda_raw/NKB/K191757.json",
+        "bytes": 564
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K192268.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--mirus-llc--europa-pedicle-screw/fda_raw/NKB/K192268.json",
+        "bytes": 564
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--mirus-llc--europa-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--mirus-llc--europa-pedicle-screw/merged/interbody-cage--mirus-llc--europa-pedicle-screw.json",
+        "bytes": 832
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

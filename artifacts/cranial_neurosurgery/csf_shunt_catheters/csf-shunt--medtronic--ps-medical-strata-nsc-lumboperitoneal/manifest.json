@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--medtronic--ps-medical-strata-nsc-lumboperitoneal",
+  "artifact_folder": "csf-shunt--medtronic--ps-medical-strata-nsc-lumboperitoneal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3467,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--medtronic--ps-medical-strata-nsc-lumboperitoneal.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--medtronic--ps-medical-strata-nsc-lumboperitoneal/enriched/csf-shunt--medtronic--ps-medical-strata-nsc-lumboperitoneal.json",
+        "bytes": 1959
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K091312.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--medtronic--ps-medical-strata-nsc-lumboperitoneal/fda_raw/JXG/K091312.json",
+        "bytes": 615
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--medtronic--ps-medical-strata-nsc-lumboperitoneal.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--medtronic--ps-medical-strata-nsc-lumboperitoneal/merged/csf-shunt--medtronic--ps-medical-strata-nsc-lumboperitoneal.json",
+        "bytes": 893
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

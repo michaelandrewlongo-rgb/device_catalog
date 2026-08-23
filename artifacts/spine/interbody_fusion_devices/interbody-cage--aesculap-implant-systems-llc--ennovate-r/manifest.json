@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--aesculap-implant-systems-llc--ennovate-r",
+  "artifact_folder": "interbody-cage--aesculap-implant-systems-llc--ennovate-r",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3281,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--aesculap-implant-systems-llc--ennovate-r.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--aesculap-implant-systems-llc--ennovate-r/enriched/interbody-cage--aesculap-implant-systems-llc--ennovate-r.json",
+        "bytes": 1865
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K180433.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--aesculap-implant-systems-llc--ennovate-r/fda_raw/NKB/K180433.json",
+        "bytes": 594
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--aesculap-implant-systems-llc--ennovate-r.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--aesculap-implant-systems-llc--ennovate-r/merged/interbody-cage--aesculap-implant-systems-llc--ennovate-r.json",
+        "bytes": 822
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

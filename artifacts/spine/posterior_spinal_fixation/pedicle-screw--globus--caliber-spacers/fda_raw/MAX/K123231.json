@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K123231",
+  "clearance_date": "2013-01-18",
+  "device_class": 2,
+  "manufacturer_canonical": "globus",
+  "manufacturer_raw": "Globus Medical, Inc.",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "CALIBER SPACERS",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--globus--caliber-spacers",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf12/K123231.pdf"
+}

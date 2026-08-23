@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--pudenz-schulte-medical-research-corp--p-s-medical-csf-siphon",
+  "artifact_folder": "csf-shunt--pudenz-schulte-medical-research-corp--p-s-medical-csf-siphon",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2999,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--pudenz-schulte-medical-research-corp--p-s-medical-csf-siphon.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_antisiphon_devices/csf-shunt--pudenz-schulte-medical-research-corp--p-s-medical-csf-siphon/enriched/csf-shunt--pudenz-schulte-medical-research-corp--p-s-medical-csf-siphon.json",
+        "bytes": 1467
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K862907.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_antisiphon_devices/csf-shunt--pudenz-schulte-medical-research-corp--p-s-medical-csf-siphon/fda_raw/JXG/K862907.json",
+        "bytes": 646
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--pudenz-schulte-medical-research-corp--p-s-medical-csf-siphon.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_antisiphon_devices/csf-shunt--pudenz-schulte-medical-research-corp--p-s-medical-csf-siphon/merged/csf-shunt--pudenz-schulte-medical-research-corp--p-s-medical-csf-siphon.json",
+        "bytes": 886
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_antisiphon_devices",
+    "label": "Antisiphon Accessories"
+  }
+}

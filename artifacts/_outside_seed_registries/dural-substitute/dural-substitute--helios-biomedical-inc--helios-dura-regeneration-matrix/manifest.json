@@ -1,0 +1,47 @@
+{
+  "device_slug": "dural-substitute--helios-biomedical-inc--helios-dura-regeneration-matrix",
+  "artifact_folder": "dural-substitute--helios-biomedical-inc--helios-dura-regeneration-matrix",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 2239438,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/dural-substitute/parsed/fda_summaries/dural-substitute--helios-biomedical-inc--helios-dura-regeneration-matrix--510k.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--helios-biomedical-inc--helios-dura-regeneration-matrix/510k/dural-substitute/parsed/fda_summaries/dural-substitute--helios-biomedical-inc--helios-dura-regeneration-matrix--510k.json",
+        "bytes": 10239
+      },
+      {
+        "source": "pipeline/data/510k/dural-substitute/pdfs/dural-substitute--helios-biomedical-inc--helios-dura-regeneration-matrix--510k.pdf",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--helios-biomedical-inc--helios-dura-regeneration-matrix/510k/dural-substitute/pdfs/dural-substitute--helios-biomedical-inc--helios-dura-regeneration-matrix--510k.pdf",
+        "bytes": 2224188
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/dural-substitute--helios-biomedical-inc--helios-dura-regeneration-matrix.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--helios-biomedical-inc--helios-dura-regeneration-matrix/enriched/dural-substitute--helios-biomedical-inc--helios-dura-regeneration-matrix.json",
+        "bytes": 3525
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/GXQ/K250420.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--helios-biomedical-inc--helios-dura-regeneration-matrix/fda_raw/GXQ/K250420.json",
+        "bytes": 619
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/dural-substitute--helios-biomedical-inc--helios-dura-regeneration-matrix.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--helios-biomedical-inc--helios-dura-regeneration-matrix/merged/dural-substitute--helios-biomedical-inc--helios-dura-regeneration-matrix.json",
+        "bytes": 867
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "dural-substitute",
+    "label": "Outside listed seed registries"
+  }
+}

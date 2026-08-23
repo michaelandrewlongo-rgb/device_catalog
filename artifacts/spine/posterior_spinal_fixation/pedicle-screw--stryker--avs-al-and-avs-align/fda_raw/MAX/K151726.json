@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K151726",
+  "clearance_date": "2016-01-20",
+  "device_class": 2,
+  "manufacturer_canonical": "stryker",
+  "manufacturer_raw": "Stryker Corporation",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "AVS AL and AVS ALign PEEK Spacers, AVS PL  and AVS UniLIF PEEK Spacers, AVS TL PEEK Spacer, AVS Navigator PEEK Spacer, AVS ARIA PEEK Spacer",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--stryker--avs-al-and-avs-align",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf15/K151726.pdf"
+}

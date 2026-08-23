@@ -1,0 +1,40 @@
+{
+  "device_slug": "csf-shunt--holter-hausner-intl--h-h-slotted-ventricular-catheter",
+  "artifact_folder": "csf-shunt--holter-hausner-intl--h-h-slotted-ventricular-catheter",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3570,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--holter-hausner-intl--h-h-slotted-ventricular-catheter.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--holter-hausner-intl--h-h-slotted-ventricular-catheter/enriched/csf-shunt--holter-hausner-intl--h-h-slotted-ventricular-catheter.json",
+        "bytes": 1467
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K791076.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--holter-hausner-intl--h-h-slotted-ventricular-catheter/fda_raw/JXG/K791076.json",
+        "bytes": 600
+      },
+      {
+        "source": "pipeline/data/fda_raw/JXG/K853362.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--holter-hausner-intl--h-h-slotted-ventricular-catheter/fda_raw/JXG/K853362.json",
+        "bytes": 617
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--holter-hausner-intl--h-h-slotted-ventricular-catheter.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--holter-hausner-intl--h-h-slotted-ventricular-catheter/merged/csf-shunt--holter-hausner-intl--h-h-slotted-ventricular-catheter.json",
+        "bytes": 886
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

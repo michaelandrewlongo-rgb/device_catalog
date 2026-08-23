@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--globus--modification-to-beacon-stabilization",
+  "artifact_folder": "interbody-cage--globus--modification-to-beacon-stabilization",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2905,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--globus--modification-to-beacon-stabilization.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--globus--modification-to-beacon-stabilization/enriched/interbody-cage--globus--modification-to-beacon-stabilization.json",
+        "bytes": 1443
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K092610.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--globus--modification-to-beacon-stabilization/fda_raw/NKB/K092610.json",
+        "bytes": 600
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--globus--modification-to-beacon-stabilization.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--globus--modification-to-beacon-stabilization/merged/interbody-cage--globus--modification-to-beacon-stabilization.json",
+        "bytes": 862
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

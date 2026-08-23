@@ -1,0 +1,42 @@
+{
+  "device_slug": "cervical-plate--osteotech-inc--vertebral-body-replacement",
+  "artifact_folder": "cervical-plate--osteotech-inc--vertebral-body-replacement",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3716,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--osteotech-inc--vertebral-body-replacement.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--osteotech-inc--vertebral-body-replacement/enriched/cervical-plate--osteotech-inc--vertebral-body-replacement.json",
+        "bytes": 1685
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/cervical-plate--osteotech-inc--vertebral-body-replacement.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--osteotech-inc--vertebral-body-replacement/extracted/fda_structured/cervical-plate--osteotech-inc--vertebral-body-replacement.json",
+        "bytes": 617
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K003155.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--osteotech-inc--vertebral-body-replacement/fda_raw/MQP/K003155.json",
+        "bytes": 582
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--osteotech-inc--vertebral-body-replacement.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--osteotech-inc--vertebral-body-replacement/merged/cervical-plate--osteotech-inc--vertebral-body-replacement.json",
+        "bytes": 832
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--howmedica-osteonics-corp--xia-spinal-and-xia-stainless",
+  "artifact_folder": "corpectomy--howmedica-osteonics-corp--xia-spinal-and-xia-stainless",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2995,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--howmedica-osteonics-corp--xia-spinal-and-xia-stainless.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--howmedica-osteonics-corp--xia-spinal-and-xia-stainless/enriched/corpectomy--howmedica-osteonics-corp--xia-spinal-and-xia-stainless.json",
+        "bytes": 1473
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K031893.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--howmedica-osteonics-corp--xia-spinal-and-xia-stainless/fda_raw/KWP/K031893.json",
+        "bytes": 630
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--howmedica-osteonics-corp--xia-spinal-and-xia-stainless.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--howmedica-osteonics-corp--xia-spinal-and-xia-stainless/merged/corpectomy--howmedica-osteonics-corp--xia-spinal-and-xia-stainless.json",
+        "bytes": 892
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

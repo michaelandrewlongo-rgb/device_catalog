@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--progress-mankind-technology--pmt-mankind-lumbar-peritoneal-shunt",
+  "artifact_folder": "csf-shunt--progress-mankind-technology--pmt-mankind-lumbar-peritoneal-shunt",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3029,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--progress-mankind-technology--pmt-mankind-lumbar-peritoneal-shunt.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--progress-mankind-technology--pmt-mankind-lumbar-peritoneal-shunt/enriched/csf-shunt--progress-mankind-technology--pmt-mankind-lumbar-peritoneal-shunt.json",
+        "bytes": 1484
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K881616.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--progress-mankind-technology--pmt-mankind-lumbar-peritoneal-shunt/fda_raw/JXG/K881616.json",
+        "bytes": 642
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--progress-mankind-technology--pmt-mankind-lumbar-peritoneal-shunt.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--progress-mankind-technology--pmt-mankind-lumbar-peritoneal-shunt/merged/csf-shunt--progress-mankind-technology--pmt-mankind-lumbar-peritoneal-shunt.json",
+        "bytes": 903
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

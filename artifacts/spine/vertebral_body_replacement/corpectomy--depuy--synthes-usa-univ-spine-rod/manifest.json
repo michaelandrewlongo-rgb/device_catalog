@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--depuy--synthes-usa-univ-spine-rod",
+  "artifact_folder": "corpectomy--depuy--synthes-usa-univ-spine-rod",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3033,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--depuy--synthes-usa-univ-spine-rod.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--synthes-usa-univ-spine-rod/enriched/corpectomy--depuy--synthes-usa-univ-spine-rod.json",
+        "bytes": 1597
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K930891.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--synthes-usa-univ-spine-rod/fda_raw/KWP/K930891.json",
+        "bytes": 580
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--depuy--synthes-usa-univ-spine-rod.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--synthes-usa-univ-spine-rod/merged/corpectomy--depuy--synthes-usa-univ-spine-rod.json",
+        "bytes": 856
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

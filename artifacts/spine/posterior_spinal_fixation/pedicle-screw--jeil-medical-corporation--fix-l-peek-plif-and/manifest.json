@@ -1,0 +1,42 @@
+{
+  "device_slug": "pedicle-screw--jeil-medical-corporation--fix-l-peek-plif-and",
+  "artifact_folder": "pedicle-screw--jeil-medical-corporation--fix-l-peek-plif-and",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3694,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--jeil-medical-corporation--fix-l-peek-plif-and.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--jeil-medical-corporation--fix-l-peek-plif-and/enriched/pedicle-screw--jeil-medical-corporation--fix-l-peek-plif-and.json",
+        "bytes": 1678
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/pedicle-screw--jeil-medical-corporation--fix-l-peek-plif-and.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--jeil-medical-corporation--fix-l-peek-plif-and/extracted/fda_structured/pedicle-screw--jeil-medical-corporation--fix-l-peek-plif-and.json",
+        "bytes": 546
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K243973.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--jeil-medical-corporation--fix-l-peek-plif-and/fda_raw/MAX/K243973.json",
+        "bytes": 611
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--jeil-medical-corporation--fix-l-peek-plif-and.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--jeil-medical-corporation--fix-l-peek-plif-and/merged/pedicle-screw--jeil-medical-corporation--fix-l-peek-plif-and.json",
+        "bytes": 859
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

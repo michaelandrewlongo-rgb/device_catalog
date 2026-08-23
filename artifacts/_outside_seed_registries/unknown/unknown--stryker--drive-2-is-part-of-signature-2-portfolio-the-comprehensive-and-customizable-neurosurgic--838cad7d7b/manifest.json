@@ -1,0 +1,21 @@
+{
+  "device_slug": "unknown--stryker--drive-2-is-part-of-signature-2-portfolio-the-comprehensive-and-customizable-neurosurgical-high-speed-drill-platform.",
+  "artifact_folder": "unknown--stryker--drive-2-is-part-of-signature-2-portfolio-the-comprehensive-and-customizable-neurosurgic--838cad7d7b",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 1528,
+  "sources": {
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/stryker/pdrive-2-is-part-of-signature-2-portfolio-the-comprehensive-and-customizable-neurosurgical-high-speed-drill-platform.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--stryker--drive-2-is-part-of-signature-2-portfolio-the-comprehensive-and-customizable-neurosurgic--838cad7d7b/scraper_raw/stryker/pdrive-2-is-part-of-signature-2-portfolio-the-comprehensive-and-customizable-neurosurgical-high-speed-drill-platform.json",
+        "bytes": 1528
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "unknown",
+    "label": "Outside listed seed registries"
+  }
+}

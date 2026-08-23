@@ -1,0 +1,36 @@
+{
+  "source": "nspr",
+  "nspr_url": "https://neurospineproductreview.com/coalition-mis-acdf-spacer-peek",
+  "device_name": "Coalition MIS ACDF Spacer PEEK",
+  "manufacturer": "Globus Medical",
+  "specs": {
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Interbody Device",
+    "Cage Type": "Interbody Cage/Cervical",
+    "Expansion": "Static",
+    "Cage Approach": "Anterior",
+    "Configuration": "0-Profile (Integrated screws)",
+    "By Material": "PEEK/Titanium , Titanium etched",
+    "Cage Material": "Titanium Solid (etched surface) , PEEK Solid block",
+    "By Location/Approach": "Anterior Cervical",
+    "By Procedure Type": "ACDF",
+    "By System Type": "Degenerative , Deformity , MIS/Perc"
+  },
+  "description": "The COALITION MIS is an integrated PEEK cage and titanium plate that utilizes an integrated anchor fixation system allowing implantation of the spacer through smaller corridors.  The spacer can be used with the MIS anchor or traditional screw fixation.",
+  "features": [
+    "Available footprint options include:",
+    "12x14mm",
+    "14x16mm",
+    "15x18mm",
+    "Eight Height options:",
+    "5-12mm",
+    "Three lordotic options:",
+    "0 deg",
+    "7 deg",
+    "12 deg"
+  ],
+  "pdfs": [
+    "https://neurospineproductreview.com/storage/products/pdfs/globus-coalition-mis-peek-acdf-spacer-technique-guide-revf.pdf"
+  ],
+  "mfr_link": ""
+}

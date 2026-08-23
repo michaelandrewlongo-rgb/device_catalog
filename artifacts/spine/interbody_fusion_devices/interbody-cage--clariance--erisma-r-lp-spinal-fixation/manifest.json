@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--clariance--erisma-r-lp-spinal-fixation",
+  "artifact_folder": "interbody-cage--clariance--erisma-r-lp-spinal-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3139,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--clariance--erisma-r-lp-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--clariance--erisma-r-lp-spinal-fixation/enriched/interbody-cage--clariance--erisma-r-lp-spinal-fixation.json",
+        "bytes": 1654
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K241863.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--clariance--erisma-r-lp-spinal-fixation/fda_raw/NKB/K241863.json",
+        "bytes": 594
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--clariance--erisma-r-lp-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--clariance--erisma-r-lp-spinal-fixation/merged/interbody-cage--clariance--erisma-r-lp-spinal-fixation.json",
+        "bytes": 891
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

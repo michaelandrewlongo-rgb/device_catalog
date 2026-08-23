@@ -1,0 +1,35 @@
+{
+  "device_slug": "unknown--balt--our-product-portfolio",
+  "artifact_folder": "unknown--balt--our-product-portfolio",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2453,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/unknown--balt--our-product-portfolio.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--balt--our-product-portfolio/enriched/unknown--balt--our-product-portfolio.json",
+        "bytes": 1298
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/unknown--balt--our-product-portfolio.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--balt--our-product-portfolio/merged/unknown--balt--our-product-portfolio.json",
+        "bytes": 717
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/balt/our-product-portfolio.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--balt--our-product-portfolio/scraper_raw/balt/our-product-portfolio.json",
+        "bytes": 438
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "unknown",
+    "label": "Outside listed seed registries"
+  }
+}

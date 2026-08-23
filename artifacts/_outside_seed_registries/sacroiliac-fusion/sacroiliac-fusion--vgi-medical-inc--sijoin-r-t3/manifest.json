@@ -1,0 +1,21 @@
+{
+  "device_slug": "sacroiliac-fusion--vgi-medical-inc--sijoin-r-t3",
+  "artifact_folder": "sacroiliac-fusion--vgi-medical-inc--sijoin-r-t3",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 563,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/OUR/K213815.json",
+        "artifact": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--vgi-medical-inc--sijoin-r-t3/fda_raw/OUR/K213815.json",
+        "bytes": 563
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "sacroiliac-fusion",
+    "label": "Outside listed seed registries"
+  }
+}

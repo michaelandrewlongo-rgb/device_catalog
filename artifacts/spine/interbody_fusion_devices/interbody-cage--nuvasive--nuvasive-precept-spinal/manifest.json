@@ -1,0 +1,21 @@
+{
+  "device_slug": "interbody-cage--nuvasive--nuvasive-precept-spinal",
+  "artifact_folder": "interbody-cage--nuvasive--nuvasive-precept-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 571,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K122352.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--nuvasive--nuvasive-precept-spinal/fda_raw/NKB/K122352.json",
+        "bytes": 571
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

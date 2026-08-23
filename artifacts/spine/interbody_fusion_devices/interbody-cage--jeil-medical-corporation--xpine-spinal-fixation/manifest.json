@@ -1,0 +1,42 @@
+{
+  "device_slug": "interbody-cage--jeil-medical-corporation--xpine-spinal-fixation",
+  "artifact_folder": "interbody-cage--jeil-medical-corporation--xpine-spinal-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3664,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--jeil-medical-corporation--xpine-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--jeil-medical-corporation--xpine-spinal-fixation/enriched/interbody-cage--jeil-medical-corporation--xpine-spinal-fixation.json",
+        "bytes": 1666
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--jeil-medical-corporation--xpine-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--jeil-medical-corporation--xpine-spinal-fixation/extracted/fda_structured/interbody-cage--jeil-medical-corporation--xpine-spinal-fixation.json",
+        "bytes": 535
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K243004.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--jeil-medical-corporation--xpine-spinal-fixation/fda_raw/NKB/K243004.json",
+        "bytes": 610
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--jeil-medical-corporation--xpine-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--jeil-medical-corporation--xpine-spinal-fixation/merged/interbody-cage--jeil-medical-corporation--xpine-spinal-fixation.json",
+        "bytes": 853
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

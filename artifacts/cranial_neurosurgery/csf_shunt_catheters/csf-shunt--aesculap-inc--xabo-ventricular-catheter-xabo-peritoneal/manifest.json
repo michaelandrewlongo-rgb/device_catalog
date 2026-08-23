@@ -1,0 +1,47 @@
+{
+  "device_slug": "csf-shunt--aesculap-inc--xabo-ventricular-catheter-xabo-peritoneal",
+  "artifact_folder": "csf-shunt--aesculap-inc--xabo-ventricular-catheter-xabo-peritoneal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 547281,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/csf-shunt/parsed/fda_summaries/csf-shunt--aesculap-inc--xabo-ventricular-catheter-xabo-peritoneal--510k.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--aesculap-inc--xabo-ventricular-catheter-xabo-peritoneal/510k/csf-shunt/parsed/fda_summaries/csf-shunt--aesculap-inc--xabo-ventricular-catheter-xabo-peritoneal--510k.json",
+        "bytes": 3502
+      },
+      {
+        "source": "pipeline/data/510k/csf-shunt/pdfs/csf-shunt--aesculap-inc--xabo-ventricular-catheter-xabo-peritoneal--510k.pdf",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--aesculap-inc--xabo-ventricular-catheter-xabo-peritoneal/510k/csf-shunt/pdfs/csf-shunt--aesculap-inc--xabo-ventricular-catheter-xabo-peritoneal--510k.pdf",
+        "bytes": 538659
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--aesculap-inc--xabo-ventricular-catheter-xabo-peritoneal.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--aesculap-inc--xabo-ventricular-catheter-xabo-peritoneal/enriched/csf-shunt--aesculap-inc--xabo-ventricular-catheter-xabo-peritoneal.json",
+        "bytes": 3570
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K242003.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--aesculap-inc--xabo-ventricular-catheter-xabo-peritoneal/fda_raw/JXG/K242003.json",
+        "bytes": 627
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--aesculap-inc--xabo-ventricular-catheter-xabo-peritoneal.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--aesculap-inc--xabo-ventricular-catheter-xabo-peritoneal/merged/csf-shunt--aesculap-inc--xabo-ventricular-catheter-xabo-peritoneal.json",
+        "bytes": 923
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

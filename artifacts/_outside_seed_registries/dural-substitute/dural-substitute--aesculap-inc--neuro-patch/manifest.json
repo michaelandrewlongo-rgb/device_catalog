@@ -1,0 +1,42 @@
+{
+  "device_slug": "dural-substitute--aesculap-inc--neuro-patch",
+  "artifact_folder": "dural-substitute--aesculap-inc--neuro-patch",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3459,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/dural-substitute--aesculap-inc--neuro-patch.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--aesculap-inc--neuro-patch/enriched/dural-substitute--aesculap-inc--neuro-patch.json",
+        "bytes": 1579
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/dural-substitute--aesculap-inc--neuro-patch.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--aesculap-inc--neuro-patch/extracted/fda_structured/dural-substitute--aesculap-inc--neuro-patch.json",
+        "bytes": 539
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/GXQ/K960470.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--aesculap-inc--neuro-patch/fda_raw/GXQ/K960470.json",
+        "bytes": 552
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/dural-substitute--aesculap-inc--neuro-patch.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--aesculap-inc--neuro-patch/merged/dural-substitute--aesculap-inc--neuro-patch.json",
+        "bytes": 789
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "dural-substitute",
+    "label": "Outside listed seed registries"
+  }
+}

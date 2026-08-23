@@ -1,0 +1,25 @@
+{
+  "source_pdf": "irix-a-brochure-fm-c-mrk-31-c.pdf",
+  "source_path": "C:\\Users\\Michael\\Documents\\device_catalog\\pipeline\\data\\extracted\\nspr\\pdfs\\irix-a-brochure-fm-c-mrk-31-c.pdf",
+  "device_name": "Irix A Brochure Fm C Mrk 31 C",
+  "manufacturer": "unknown",
+  "doc_type": "technique_guide",
+  "extraction_method": "pdfplumber_deepseek",
+  "extraction_source": "nspr_pdf",
+  "fields": {
+    "what_it_is": "The Irix-A is an integrated stand-alone device for use in anterior lumbar interbody fusions. The zero profile with integrated zero-step locking mechanism provides 3 indicators of screw implantation. Integrated titanium ring encapsulated in PEEK provides increased torsional strength compared to a leading competitor. Self-tapping and self drilling screws are available in multiple lengths with 6 degrees of conical angulation. Frictional titanium plasma coating on bone interfacing surfaces aids in migration resistance, provides endplate visualization and aids in osteointegration.",
+    "sizing_specs": "|  |  |  |\n| --- | --- | --- |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n\n|  |  |\n| --- | --- |\n|  |  |\n\n|  |  |\n| --- | --- |\n|  |  |\n|  |  |\n\nIrix-A 33mm x 26mm Implants\nIrix-A 38mm x 28mm Implants\nIrix-A 42mm x 30mm Implants",
+    "indications": "See Package Insert for a more complete listing of indications, contraindications, warnings, precautions, and other important information.",
+    "contraindications": null,
+    "compatible_with": null,
+    "use_notes": "Screw orientation 35° cephalad/caudal with Titanium Plasma Coated (PC) up to 6° conical screw. PEEK provides fluoroscopic angulation endplate visualization. Integrated Titanium ring Locking arm provides encapsulated in PEEK tactile, visual and audible feedback.",
+    "also_known_as": "Irix-A Lumbar Integrated Fusion System"
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "sizing_specs": 0.7,
+    "indications": 0.7,
+    "use_notes": 0.7,
+    "also_known_as": 0.7
+  }
+}

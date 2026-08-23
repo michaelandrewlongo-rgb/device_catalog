@@ -1,0 +1,40 @@
+{
+  "device_slug": "pedicle-screw--medtronic--modification-to-capstone-spinal",
+  "artifact_folder": "pedicle-screw--medtronic--modification-to-capstone-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3492,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--medtronic--modification-to-capstone-spinal.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--modification-to-capstone-spinal/enriched/pedicle-screw--medtronic--modification-to-capstone-spinal.json",
+        "bytes": 1434
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K082342.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--modification-to-capstone-spinal/fda_raw/MAX/K082342.json",
+        "bytes": 597
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K082732.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--modification-to-capstone-spinal/fda_raw/MAX/K082732.json",
+        "bytes": 608
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--medtronic--modification-to-capstone-spinal.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--modification-to-capstone-spinal/merged/pedicle-screw--medtronic--modification-to-capstone-spinal.json",
+        "bytes": 853
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

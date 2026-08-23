@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--johnson-johnson-professionals-inc--hakim-programmable-valve",
+  "artifact_folder": "csf-shunt--johnson-johnson-professionals-inc--hakim-programmable-valve",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2957,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--johnson-johnson-professionals-inc--hakim-programmable-valve.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--johnson-johnson-professionals-inc--hakim-programmable-valve/enriched/csf-shunt--johnson-johnson-professionals-inc--hakim-programmable-valve.json",
+        "bytes": 1451
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K974739.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--johnson-johnson-professionals-inc--hakim-programmable-valve/fda_raw/JXG/K974739.json",
+        "bytes": 636
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--johnson-johnson-professionals-inc--hakim-programmable-valve.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--johnson-johnson-professionals-inc--hakim-programmable-valve/merged/csf-shunt--johnson-johnson-professionals-inc--hakim-programmable-valve.json",
+        "bytes": 870
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

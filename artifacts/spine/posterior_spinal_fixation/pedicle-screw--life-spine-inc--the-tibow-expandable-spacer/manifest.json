@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--life-spine-inc--the-tibow-expandable-spacer",
+  "artifact_folder": "pedicle-screw--life-spine-inc--the-tibow-expandable-spacer",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2871,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--life-spine-inc--the-tibow-expandable-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--life-spine-inc--the-tibow-expandable-spacer/enriched/pedicle-screw--life-spine-inc--the-tibow-expandable-spacer.json",
+        "bytes": 1430
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K170919.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--life-spine-inc--the-tibow-expandable-spacer/fda_raw/MAX/K170919.json",
+        "bytes": 592
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--life-spine-inc--the-tibow-expandable-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--life-spine-inc--the-tibow-expandable-spacer/merged/pedicle-screw--life-spine-inc--the-tibow-expandable-spacer.json",
+        "bytes": 849
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

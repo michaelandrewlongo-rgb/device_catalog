@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--stuart--sacral-bar",
+  "artifact_folder": "corpectomy--stuart--sacral-bar",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2624,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--stuart--sacral-bar.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--stuart--sacral-bar/enriched/corpectomy--stuart--sacral-bar.json",
+        "bytes": 1343
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K843445.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--stuart--sacral-bar/fda_raw/KWP/K843445.json",
+        "bytes": 519
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--stuart--sacral-bar.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--stuart--sacral-bar/merged/corpectomy--stuart--sacral-bar.json",
+        "bytes": 762
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

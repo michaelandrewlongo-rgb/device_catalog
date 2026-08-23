@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--ionics-medical-corp--ionics-levante-intervertebral-pillar-expandable",
+  "artifact_folder": "cervical-plate--ionics-medical-corp--ionics-levante-intervertebral-pillar-expandable",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3041,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--ionics-medical-corp--ionics-levante-intervertebral-pillar-expandable.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--ionics-medical-corp--ionics-levante-intervertebral-pillar-expandable/enriched/cervical-plate--ionics-medical-corp--ionics-levante-intervertebral-pillar-expandable.json",
+        "bytes": 1490
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K983667.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--ionics-medical-corp--ionics-levante-intervertebral-pillar-expandable/fda_raw/MQP/K983667.json",
+        "bytes": 642
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--ionics-medical-corp--ionics-levante-intervertebral-pillar-expandable.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--ionics-medical-corp--ionics-levante-intervertebral-pillar-expandable/merged/cervical-plate--ionics-medical-corp--ionics-levante-intervertebral-pillar-expandable.json",
+        "bytes": 909
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

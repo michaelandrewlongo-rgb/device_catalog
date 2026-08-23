@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--advanced-spine-fixation-systems-inc--centra-line-grapple-varifix",
+  "artifact_folder": "corpectomy--advanced-spine-fixation-systems-inc--centra-line-grapple-varifix",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3005,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--advanced-spine-fixation-systems-inc--centra-line-grapple-varifix.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--advanced-spine-fixation-systems-inc--centra-line-grapple-varifix/enriched/corpectomy--advanced-spine-fixation-systems-inc--centra-line-grapple-varifix.json",
+        "bytes": 1468
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K954770.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--advanced-spine-fixation-systems-inc--centra-line-grapple-varifix/fda_raw/KWP/K954770.json",
+        "bytes": 650
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--advanced-spine-fixation-systems-inc--centra-line-grapple-varifix.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--advanced-spine-fixation-systems-inc--centra-line-grapple-varifix/merged/corpectomy--advanced-spine-fixation-systems-inc--centra-line-grapple-varifix.json",
+        "bytes": 887
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

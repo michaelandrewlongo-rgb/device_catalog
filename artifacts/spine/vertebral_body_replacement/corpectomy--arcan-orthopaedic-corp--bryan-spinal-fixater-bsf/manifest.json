@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--arcan-orthopaedic-corp--bryan-spinal-fixater-bsf",
+  "artifact_folder": "corpectomy--arcan-orthopaedic-corp--bryan-spinal-fixater-bsf",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2859,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--arcan-orthopaedic-corp--bryan-spinal-fixater-bsf.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--arcan-orthopaedic-corp--bryan-spinal-fixater-bsf/enriched/corpectomy--arcan-orthopaedic-corp--bryan-spinal-fixater-bsf.json",
+        "bytes": 1421
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K914548.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--arcan-orthopaedic-corp--bryan-spinal-fixater-bsf/fda_raw/KWP/K914548.json",
+        "bytes": 598
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--arcan-orthopaedic-corp--bryan-spinal-fixater-bsf.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--arcan-orthopaedic-corp--bryan-spinal-fixater-bsf/merged/corpectomy--arcan-orthopaedic-corp--bryan-spinal-fixater-bsf.json",
+        "bytes": 840
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

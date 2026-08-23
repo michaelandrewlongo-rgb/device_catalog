@@ -1,0 +1,47 @@
+{
+  "device_slug": "csf-shunt--integra--horizontal-vertical-lumbar-valve-s",
+  "artifact_folder": "csf-shunt--integra--horizontal-vertical-lumbar-valve-s",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 267762,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/csf-shunt/parsed/fda_summaries/csf-shunt--integra--horizontal-vertical-lumbar-valve-s--510k.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--horizontal-vertical-lumbar-valve-s/510k/csf-shunt/parsed/fda_summaries/csf-shunt--integra--horizontal-vertical-lumbar-valve-s--510k.json",
+        "bytes": 23715
+      },
+      {
+        "source": "pipeline/data/510k/csf-shunt/pdfs/csf-shunt--integra--horizontal-vertical-lumbar-valve-s--510k.pdf",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--horizontal-vertical-lumbar-valve-s/510k/csf-shunt/pdfs/csf-shunt--integra--horizontal-vertical-lumbar-valve-s--510k.pdf",
+        "bytes": 236596
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--integra--horizontal-vertical-lumbar-valve-s.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--horizontal-vertical-lumbar-valve-s/enriched/csf-shunt--integra--horizontal-vertical-lumbar-valve-s.json",
+        "bytes": 5881
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K161992.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--horizontal-vertical-lumbar-valve-s/fda_raw/JXG/K161992.json",
+        "bytes": 640
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--integra--horizontal-vertical-lumbar-valve-s.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--horizontal-vertical-lumbar-valve-s/merged/csf-shunt--integra--horizontal-vertical-lumbar-valve-s.json",
+        "bytes": 930
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

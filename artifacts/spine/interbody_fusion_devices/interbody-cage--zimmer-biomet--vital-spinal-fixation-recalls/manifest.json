@@ -1,0 +1,21 @@
+{
+  "device_slug": "interbody-cage--zimmer-biomet--vital-spinal-fixation-recalls",
+  "artifact_folder": "interbody-cage--zimmer-biomet--vital-spinal-fixation-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 12377,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/interbody-cage--zimmer-biomet--vital-spinal-fixation-recalls.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--zimmer-biomet--vital-spinal-fixation-recalls/extracted/fda_safety/interbody-cage--zimmer-biomet--vital-spinal-fixation-recalls.json",
+        "bytes": 12377
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "device_slug": "interbody-cage--stryker--mantis-spinal-mantis-redux-spinal-recalls",
+  "artifact_folder": "interbody-cage--stryker--mantis-spinal-mantis-redux-spinal-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 2742,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/interbody-cage--stryker--mantis-spinal-mantis-redux-spinal-recalls.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker--mantis-spinal-mantis-redux-spinal-recalls/extracted/fda_safety/interbody-cage--stryker--mantis-spinal-mantis-redux-spinal-recalls.json",
+        "bytes": 2742
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

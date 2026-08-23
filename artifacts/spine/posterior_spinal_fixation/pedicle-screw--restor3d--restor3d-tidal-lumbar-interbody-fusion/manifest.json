@@ -1,0 +1,40 @@
+{
+  "device_slug": "pedicle-screw--restor3d--restor3d-tidal-lumbar-interbody-fusion",
+  "artifact_folder": "pedicle-screw--restor3d--restor3d-tidal-lumbar-interbody-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3509,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--restor3d--restor3d-tidal-lumbar-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--restor3d--restor3d-tidal-lumbar-interbody-fusion/enriched/pedicle-screw--restor3d--restor3d-tidal-lumbar-interbody-fusion.json",
+        "bytes": 1451
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K220523.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--restor3d--restor3d-tidal-lumbar-interbody-fusion/fda_raw/MAX/K220523.json",
+        "bytes": 594
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K234087.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--restor3d--restor3d-tidal-lumbar-interbody-fusion/fda_raw/MAX/K234087.json",
+        "bytes": 594
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--restor3d--restor3d-tidal-lumbar-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--restor3d--restor3d-tidal-lumbar-interbody-fusion/merged/pedicle-screw--restor3d--restor3d-tidal-lumbar-interbody-fusion.json",
+        "bytes": 870
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

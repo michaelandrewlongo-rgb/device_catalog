@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--pudenz-schulte-medical-research-corp--becker-external-drainage-monitor-sys",
+  "artifact_folder": "csf-shunt--pudenz-schulte-medical-research-corp--becker-external-drainage-monitor-sys",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3101,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--pudenz-schulte-medical-research-corp--becker-external-drainage-monitor-sys.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--pudenz-schulte-medical-research-corp--becker-external-drainage-monitor-sys/enriched/csf-shunt--pudenz-schulte-medical-research-corp--becker-external-drainage-monitor-sys.json",
+        "bytes": 1505
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K862303.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--pudenz-schulte-medical-research-corp--becker-external-drainage-monitor-sys/fda_raw/JXG/K862303.json",
+        "bytes": 672
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--pudenz-schulte-medical-research-corp--becker-external-drainage-monitor-sys.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--pudenz-schulte-medical-research-corp--becker-external-drainage-monitor-sys/merged/csf-shunt--pudenz-schulte-medical-research-corp--becker-external-drainage-monitor-sys.json",
+        "bytes": 924
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

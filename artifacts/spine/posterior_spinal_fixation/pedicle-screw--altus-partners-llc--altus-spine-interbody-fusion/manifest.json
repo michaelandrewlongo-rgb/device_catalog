@@ -1,0 +1,52 @@
+{
+  "device_slug": "pedicle-screw--altus-partners-llc--altus-spine-interbody-fusion",
+  "artifact_folder": "pedicle-screw--altus-partners-llc--altus-spine-interbody-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 4922,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--altus-partners-llc--altus-spine-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--altus-partners-llc--altus-spine-interbody-fusion/enriched/pedicle-screw--altus-partners-llc--altus-spine-interbody-fusion.json",
+        "bytes": 1667
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/pedicle-screw--altus-partners-llc--altus-spine-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--altus-partners-llc--altus-spine-interbody-fusion/extracted/fda_structured/pedicle-screw--altus-partners-llc--altus-spine-interbody-fusion.json",
+        "bytes": 580
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K160976.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--altus-partners-llc--altus-spine-interbody-fusion/fda_raw/MAX/K160976.json",
+        "bytes": 605
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K170553.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--altus-partners-llc--altus-spine-interbody-fusion/fda_raw/MAX/K170553.json",
+        "bytes": 605
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K182406.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--altus-partners-llc--altus-spine-interbody-fusion/fda_raw/MAX/K182406.json",
+        "bytes": 605
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--altus-partners-llc--altus-spine-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--altus-partners-llc--altus-spine-interbody-fusion/merged/pedicle-screw--altus-partners-llc--altus-spine-interbody-fusion.json",
+        "bytes": 860
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "source": "fda_udi",
+  "brand_name": "CALYPSO SYSTEM",
+  "extraction_method": "fda_udi_api",
+  "fields": {
+    "what_it_is": "The Calypso System utilizes non-ionizing electromagnetic and optical technology to provide accurate, objective, and continuous localization of a treatment target for patient alignment and target position monitoring during radiation therapy. Use of the Calypso System for target localization is based on the system’s detection of electromagnetic signals from passive implanted markers, called Beacon transponders. The Beacon transponders are placed on the patient’s skin surface or implanted in or near the treatment target. When used with the Calypso System, the Beacon transponder signals enable objective, continuous measurement of the localization of the treatment target in 3 dimensions. The system operator uses this information for patient alignment and continuous target positioning (i.e., tracking) during radiation therapy treatment.",
+    "sizing_specs": "Catalog: ASM0195; Model: 3",
+    "use_notes": "MRI: Labeling does not contain MRI Safety Information. Pre-sterilized. Single-use",
+    "also_known_as": [
+      "Calypso System",
+      "Radiation therapy invasive marker lesion localization system"
+    ]
+  },
+  "confidence": {
+    "what_it_is": 0.85,
+    "sizing_specs": 0.85,
+    "use_notes": 0.85,
+    "also_known_as": 0.85
+  }
+}

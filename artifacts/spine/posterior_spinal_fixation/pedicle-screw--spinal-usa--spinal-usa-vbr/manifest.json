@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--spinal-usa--spinal-usa-vbr",
+  "artifact_folder": "pedicle-screw--spinal-usa--spinal-usa-vbr",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2737,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--spinal-usa--spinal-usa-vbr.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinal-usa--spinal-usa-vbr/enriched/pedicle-screw--spinal-usa--spinal-usa-vbr.json",
+        "bytes": 1383
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K081196.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinal-usa--spinal-usa-vbr/fda_raw/MAX/K081196.json",
+        "bytes": 552
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--spinal-usa--spinal-usa-vbr.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinal-usa--spinal-usa-vbr/merged/pedicle-screw--spinal-usa--spinal-usa-vbr.json",
+        "bytes": 802
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

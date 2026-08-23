@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--amedica-corp--valeo-spacer-and-valeo-ii",
+  "artifact_folder": "pedicle-screw--amedica-corp--valeo-spacer-and-valeo-ii",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2995,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--amedica-corp--valeo-spacer-and-valeo-ii.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--amedica-corp--valeo-spacer-and-valeo-ii/enriched/pedicle-screw--amedica-corp--valeo-spacer-and-valeo-ii.json",
+        "bytes": 1482
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K143518.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--amedica-corp--valeo-spacer-and-valeo-ii/fda_raw/MAX/K143518.json",
+        "bytes": 612
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--amedica-corp--valeo-spacer-and-valeo-ii.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--amedica-corp--valeo-spacer-and-valeo-ii/merged/pedicle-screw--amedica-corp--valeo-spacer-and-valeo-ii.json",
+        "bytes": 901
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

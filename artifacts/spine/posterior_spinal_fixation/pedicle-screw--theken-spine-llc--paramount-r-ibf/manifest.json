@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--theken-spine-llc--paramount-r-ibf",
+  "artifact_folder": "pedicle-screw--theken-spine-llc--paramount-r-ibf",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2788,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--theken-spine-llc--paramount-r-ibf.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--theken-spine-llc--paramount-r-ibf/enriched/pedicle-screw--theken-spine-llc--paramount-r-ibf.json",
+        "bytes": 1398
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K103228.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--theken-spine-llc--paramount-r-ibf/fda_raw/MAX/K103228.json",
+        "bytes": 573
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--theken-spine-llc--paramount-r-ibf.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--theken-spine-llc--paramount-r-ibf/merged/pedicle-screw--theken-spine-llc--paramount-r-ibf.json",
+        "bytes": 817
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

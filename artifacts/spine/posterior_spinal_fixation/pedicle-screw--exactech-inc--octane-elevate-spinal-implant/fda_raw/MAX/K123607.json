@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K123607",
+  "clearance_date": "2014-04-25",
+  "device_class": 2,
+  "manufacturer_canonical": "exactech-inc",
+  "manufacturer_raw": "Exactech, Inc.",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "OCTANE ELEVATE SPINAL IMPLANT SYSTEM",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--exactech-inc--octane-elevate-spinal-implant",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf12/K123607.pdf"
+}

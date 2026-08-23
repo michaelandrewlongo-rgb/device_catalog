@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--alphatec-spine-inc--psx-interbody",
+  "artifact_folder": "pedicle-screw--alphatec-spine-inc--psx-interbody",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3193,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--alphatec-spine-inc--psx-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--alphatec-spine-inc--psx-interbody/enriched/pedicle-screw--alphatec-spine-inc--psx-interbody.json",
+        "bytes": 1802
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K211873.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--alphatec-spine-inc--psx-interbody/fda_raw/MAX/K211873.json",
+        "bytes": 576
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--alphatec-spine-inc--psx-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--alphatec-spine-inc--psx-interbody/merged/pedicle-screw--alphatec-spine-inc--psx-interbody.json",
+        "bytes": 815
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

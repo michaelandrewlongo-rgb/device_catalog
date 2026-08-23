@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--nvision-biomedical-technologies-inc--earp-interbody",
+  "artifact_folder": "pedicle-screw--nvision-biomedical-technologies-inc--earp-interbody",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2914,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--nvision-biomedical-technologies-inc--earp-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nvision-biomedical-technologies-inc--earp-interbody/enriched/pedicle-screw--nvision-biomedical-technologies-inc--earp-interbody.json",
+        "bytes": 1433
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K212477.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nvision-biomedical-technologies-inc--earp-interbody/fda_raw/MAX/K212477.json",
+        "bytes": 629
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--nvision-biomedical-technologies-inc--earp-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nvision-biomedical-technologies-inc--earp-interbody/merged/pedicle-screw--nvision-biomedical-technologies-inc--earp-interbody.json",
+        "bytes": 852
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

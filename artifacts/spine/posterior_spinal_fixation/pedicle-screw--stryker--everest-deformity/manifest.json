@@ -1,0 +1,21 @@
+{
+  "device_slug": "pedicle-screw--stryker--everest-deformity",
+  "artifact_folder": "pedicle-screw--stryker--everest-deformity",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 2412,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/pedicle-screw--stryker--everest-deformity--knowledge.md",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--everest-deformity/data_by_device/pedicle-screw--stryker--everest-deformity--knowledge.md",
+        "bytes": 2412
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

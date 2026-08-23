@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--expanding-orthopedics-inc--flxfit",
+  "artifact_folder": "pedicle-screw--expanding-orthopedics-inc--flxfit",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2763,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--expanding-orthopedics-inc--flxfit.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--expanding-orthopedics-inc--flxfit/enriched/pedicle-screw--expanding-orthopedics-inc--flxfit.json",
+        "bytes": 1379
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K171519.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--expanding-orthopedics-inc--flxfit/fda_raw/MAX/K171519.json",
+        "bytes": 578
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--expanding-orthopedics-inc--flxfit.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--expanding-orthopedics-inc--flxfit/merged/pedicle-screw--expanding-orthopedics-inc--flxfit.json",
+        "bytes": 806
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "device_slug": "dural-substitute--integra--duragen-plus-dural-regeneration-matrix-recalls",
+  "artifact_folder": "dural-substitute--integra--duragen-plus-dural-regeneration-matrix-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 5858,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/dural-substitute--integra--duragen-plus-dural-regeneration-matrix-recalls.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--integra--duragen-plus-dural-regeneration-matrix-recalls/extracted/fda_safety/dural-substitute--integra--duragen-plus-dural-regeneration-matrix-recalls.json",
+        "bytes": 5858
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "dural-substitute",
+    "label": "Outside listed seed registries"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "device_slug": "cervical-cage--globus--coalition",
+  "artifact_folder": "cervical-cage--globus--coalition",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 6827,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/cervical-cage--globus--coalition--knowledge.md",
+        "artifact": "artifacts/spine/cervical_interbody_cages/cervical-cage--globus--coalition/data_by_device/cervical-cage--globus--coalition--knowledge.md",
+        "bytes": 6827
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "cervical_interbody_cages",
+    "label": "ACDF/ACCF Cages"
+  }
+}

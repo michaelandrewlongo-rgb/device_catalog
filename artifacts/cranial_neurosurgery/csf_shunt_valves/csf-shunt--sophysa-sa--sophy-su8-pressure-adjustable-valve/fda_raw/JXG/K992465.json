@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K992465",
+  "clearance_date": "2000-09-21",
+  "device_class": 2,
+  "manufacturer_canonical": "sophysa-sa",
+  "manufacturer_raw": "Sophysa SA",
+  "catalog_category": "csf-shunt",
+  "device_name_fda": "SOPHY SU8 PRESSURE ADJUSTABLE VALVE",
+  "product_code": "JXG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "csf-shunt--sophysa-sa--sophy-su8-pressure-adjustable-valve",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf99/K992465.pdf"
+}

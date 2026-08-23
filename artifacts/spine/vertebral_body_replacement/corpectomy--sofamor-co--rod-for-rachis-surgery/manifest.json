@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--sofamor-co--rod-for-rachis-surgery",
+  "artifact_folder": "corpectomy--sofamor-co--rod-for-rachis-surgery",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2749,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--sofamor-co--rod-for-rachis-surgery.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sofamor-co--rod-for-rachis-surgery/enriched/corpectomy--sofamor-co--rod-for-rachis-surgery.json",
+        "bytes": 1387
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K843687.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sofamor-co--rod-for-rachis-surgery/fda_raw/KWP/K843687.json",
+        "bytes": 556
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--sofamor-co--rod-for-rachis-surgery.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sofamor-co--rod-for-rachis-surgery/merged/corpectomy--sofamor-co--rod-for-rachis-surgery.json",
+        "bytes": 806
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

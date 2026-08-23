@@ -1,0 +1,35 @@
+{
+  "device_slug": "unknown--cerenovus--neurointerventional",
+  "artifact_folder": "unknown--cerenovus--neurointerventional",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2531,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/unknown--cerenovus--neurointerventional.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--cerenovus--neurointerventional/enriched/unknown--cerenovus--neurointerventional.json",
+        "bytes": 1325
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/unknown--cerenovus--neurointerventional.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--cerenovus--neurointerventional/merged/unknown--cerenovus--neurointerventional.json",
+        "bytes": 744
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/cerenovus/neurointerventional.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--cerenovus--neurointerventional/scraper_raw/cerenovus/neurointerventional.json",
+        "bytes": 462
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "unknown",
+    "label": "Outside listed seed registries"
+  }
+}

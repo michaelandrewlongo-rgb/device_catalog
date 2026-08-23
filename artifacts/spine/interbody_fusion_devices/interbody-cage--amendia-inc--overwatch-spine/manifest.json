@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--amendia-inc--overwatch-spine",
+  "artifact_folder": "interbody-cage--amendia-inc--overwatch-spine",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3011,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--amendia-inc--overwatch-spine.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--amendia-inc--overwatch-spine/enriched/interbody-cage--amendia-inc--overwatch-spine.json",
+        "bytes": 1641
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K161842.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--amendia-inc--overwatch-spine/fda_raw/NKB/K161842.json",
+        "bytes": 561
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--amendia-inc--overwatch-spine.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--amendia-inc--overwatch-spine/merged/interbody-cage--amendia-inc--overwatch-spine.json",
+        "bytes": 809
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

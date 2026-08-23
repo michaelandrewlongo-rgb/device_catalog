@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--danek-medical-inc--ray-sacral-fixation",
+  "artifact_folder": "corpectomy--danek-medical-inc--ray-sacral-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2810,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--danek-medical-inc--ray-sacral-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--danek-medical-inc--ray-sacral-fixation/enriched/corpectomy--danek-medical-inc--ray-sacral-fixation.json",
+        "bytes": 1406
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K904520.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--danek-medical-inc--ray-sacral-fixation/fda_raw/KWP/K904520.json",
+        "bytes": 579
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--danek-medical-inc--ray-sacral-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--danek-medical-inc--ray-sacral-fixation/merged/corpectomy--danek-medical-inc--ray-sacral-fixation.json",
+        "bytes": 825
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

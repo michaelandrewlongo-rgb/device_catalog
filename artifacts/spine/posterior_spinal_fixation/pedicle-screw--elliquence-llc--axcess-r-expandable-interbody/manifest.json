@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--elliquence-llc--axcess-r-expandable-interbody",
+  "artifact_folder": "pedicle-screw--elliquence-llc--axcess-r-expandable-interbody",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2894,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--elliquence-llc--axcess-r-expandable-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--elliquence-llc--axcess-r-expandable-interbody/enriched/pedicle-screw--elliquence-llc--axcess-r-expandable-interbody.json",
+        "bytes": 1436
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K243739.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--elliquence-llc--axcess-r-expandable-interbody/fda_raw/MAX/K243739.json",
+        "bytes": 595
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--elliquence-llc--axcess-r-expandable-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--elliquence-llc--axcess-r-expandable-interbody/merged/pedicle-screw--elliquence-llc--axcess-r-expandable-interbody.json",
+        "bytes": 863
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

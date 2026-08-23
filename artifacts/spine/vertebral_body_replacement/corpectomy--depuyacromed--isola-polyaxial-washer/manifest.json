@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--depuyacromed--isola-polyaxial-washer",
+  "artifact_folder": "corpectomy--depuyacromed--isola-polyaxial-washer",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2762,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--depuyacromed--isola-polyaxial-washer.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuyacromed--isola-polyaxial-washer/enriched/corpectomy--depuyacromed--isola-polyaxial-washer.json",
+        "bytes": 1391
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K013441.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuyacromed--isola-polyaxial-washer/fda_raw/KWP/K013441.json",
+        "bytes": 561
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--depuyacromed--isola-polyaxial-washer.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuyacromed--isola-polyaxial-washer/merged/corpectomy--depuyacromed--isola-polyaxial-washer.json",
+        "bytes": 810
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

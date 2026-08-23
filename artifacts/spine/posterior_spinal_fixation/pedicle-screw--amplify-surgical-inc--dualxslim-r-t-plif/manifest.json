@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--amplify-surgical-inc--dualxslim-r-t-plif",
+  "artifact_folder": "pedicle-screw--amplify-surgical-inc--dualxslim-r-t-plif",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2811,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--amplify-surgical-inc--dualxslim-r-t-plif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--amplify-surgical-inc--dualxslim-r-t-plif/enriched/pedicle-screw--amplify-surgical-inc--dualxslim-r-t-plif.json",
+        "bytes": 1403
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K222203.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--amplify-surgical-inc--dualxslim-r-t-plif/fda_raw/MAX/K222203.json",
+        "bytes": 586
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--amplify-surgical-inc--dualxslim-r-t-plif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--amplify-surgical-inc--dualxslim-r-t-plif/merged/pedicle-screw--amplify-surgical-inc--dualxslim-r-t-plif.json",
+        "bytes": 822
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

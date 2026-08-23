@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K233241",
+  "clearance_date": "2023-10-27",
+  "device_class": 2,
+  "manufacturer_canonical": "ht-medical-llc-dba-xenix-medical",
+  "manufacturer_raw": "Ht Medical, LLC Dba Xenix Medical",
+  "catalog_category": "sacroiliac-fusion",
+  "device_name_fda": "SOLACE Sacroiliac Fixation System",
+  "product_code": "OUR",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "sacroiliac-fusion--ht-medical-llc-dba-xenix-medical--solace-sacroiliac-fixation",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K233241.pdf"
+}

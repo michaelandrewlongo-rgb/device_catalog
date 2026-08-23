@@ -1,0 +1,292 @@
+[
+  {
+    "device_family": "aspiration--penumbra--artemis-neuro-evacuation-device",
+    "query_used": "Artemis Neuro Evacuation Device",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "06977365711343",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "WENAN COUNTY WANTONG MEDICAL INSTRUMENTS CO.,LTD",
+      "companyName": "WENAN COUNTY WANTONG MEDICAL INSTRUMENTS CO.,LTD.",
+      "deviceIdentifier": "14991e5c-5c87-4b16-beed-f3136dbb22cf",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "41875",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Electric-motor-driven wheelchair, occupant-controlled"
+        }
+      ],
+      "modelNumber": "artemis"
+    },
+    "retrieved_at": "2026-04-15T10:18:49+00:00",
+    "source_id": "accessgudid:06977365711343",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/14991e5c-5c87-4b16-beed-f3136dbb22cf",
+    "title": "WENAN COUNTY WANTONG MEDICAL INSTRUMENTS CO.,LTD (WENAN COUNTY WANTONG MEDICAL INSTRUMENTS CO.,LTD.)"
+  },
+  {
+    "device_family": "aspiration--penumbra--artemis-neuro-evacuation-device",
+    "query_used": "Artemis Neuro Evacuation Device",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "06975028630628",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "NINGBO YOUHUAN AUTOMATION TECHNOLOGY CO., LTD.",
+      "companyName": "Ningbo Youhuan Automation Technology Co., Ltd",
+      "deviceIdentifier": "8de23e7f-6af2-4b20-9965-b53fbf39a9c6",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "41875",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Electric-motor-driven wheelchair, occupant-controlled"
+        }
+      ],
+      "modelNumber": "artemis"
+    },
+    "retrieved_at": "2026-04-15T10:18:49+00:00",
+    "source_id": "accessgudid:06975028630628",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/8de23e7f-6af2-4b20-9965-b53fbf39a9c6",
+    "title": "NINGBO YOUHUAN AUTOMATION TECHNOLOGY CO., LTD. (Ningbo Youhuan Automation Technology Co., Ltd)"
+  },
+  {
+    "device_family": "aspiration--penumbra--artemis-neuro-evacuation-device",
+    "query_used": "Artemis Neuro Evacuation Device",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00860012388400",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "culver mobility",
+      "companyName": "CULVER LED LIGHTING SOLUTION CORP",
+      "deviceIdentifier": "c69f3e23-8f2d-4df7-8cf2-a36ed3443e15",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "41875",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Electric-motor-driven wheelchair, occupant-controlled"
+        }
+      ],
+      "modelNumber": "artemis"
+    },
+    "retrieved_at": "2026-04-15T10:18:49+00:00",
+    "source_id": "accessgudid:00860012388400",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/c69f3e23-8f2d-4df7-8cf2-a36ed3443e15",
+    "title": "culver mobility (CULVER LED LIGHTING SOLUTION CORP)"
+  },
+  {
+    "device_family": "aspiration--penumbra--artemis-neuro-evacuation-device",
+    "query_used": "Artemis Neuro Evacuation Device",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00851797006061",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Terumo",
+      "companyName": "TEDAN SURGICAL INNOVATIONS, L.L.C.",
+      "deviceIdentifier": "a70a6cb7-8b67-4f49-8aad-9e6dedfe9ea0",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "45182",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Self-retaining surgical retractor, reusable"
+        }
+      ],
+      "modelNumber": "T400400"
+    },
+    "retrieved_at": "2026-04-15T10:18:49+00:00",
+    "source_id": "accessgudid:00851797006061",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/a70a6cb7-8b67-4f49-8aad-9e6dedfe9ea0",
+    "title": "Terumo (TEDAN SURGICAL INNOVATIONS, L.L.C.)"
+  },
+  {
+    "device_family": "aspiration--penumbra--artemis-neuro-evacuation-device",
+    "query_used": "Artemis Neuro Evacuation Device",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00814548017877",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Artemis",
+      "companyName": "PENUMBRA, INC.",
+      "deviceIdentifier": "7c1ad7b5-4760-4a82-a645-f679e4ef6164",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "41978",
+          "gmdnCodeStatus": "Obsolete",
+          "implantable": "false",
+          "termName": "Surgical irrigation/aspiration system"
+        }
+      ],
+      "modelNumber": "AP28-A"
+    },
+    "retrieved_at": "2026-04-15T10:18:49+00:00",
+    "source_id": "accessgudid:00814548017877",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/7c1ad7b5-4760-4a82-a645-f679e4ef6164",
+    "title": "Artemis (PENUMBRA, INC.)"
+  },
+  {
+    "device_family": "aspiration--penumbra--artemis-neuro-evacuation-device",
+    "query_used": "Artemis Neuro Evacuation Device",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00814548017860",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Artemis",
+      "companyName": "PENUMBRA, INC.",
+      "deviceIdentifier": "2bbc1ad9-f2ad-4e85-8e6c-0ddf84c07315",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "41978",
+          "gmdnCodeStatus": "Obsolete",
+          "implantable": "false",
+          "termName": "Surgical irrigation/aspiration system"
+        }
+      ],
+      "modelNumber": "AP21-A"
+    },
+    "retrieved_at": "2026-04-15T10:18:49+00:00",
+    "source_id": "accessgudid:00814548017860",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/2bbc1ad9-f2ad-4e85-8e6c-0ddf84c07315",
+    "title": "Artemis (PENUMBRA, INC.)"
+  },
+  {
+    "device_family": "aspiration--penumbra--artemis-neuro-evacuation-device",
+    "query_used": "Artemis Neuro Evacuation Device",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00814548017846",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Artemis",
+      "companyName": "PENUMBRA, INC.",
+      "deviceIdentifier": "2a16a639-59ac-4b1f-a37b-64819e2671c3",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "41978",
+          "gmdnCodeStatus": "Obsolete",
+          "implantable": "false",
+          "termName": "Surgical irrigation/aspiration system"
+        }
+      ],
+      "modelNumber": "AP15-A"
+    },
+    "retrieved_at": "2026-04-15T10:18:49+00:00",
+    "source_id": "accessgudid:00814548017846",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/2a16a639-59ac-4b1f-a37b-64819e2671c3",
+    "title": "Artemis (PENUMBRA, INC.)"
+  },
+  {
+    "device_family": "aspiration--penumbra--artemis-neuro-evacuation-device",
+    "query_used": "Artemis Neuro Evacuation Device",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "NEURO02",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "TeraRecon Neuro",
+      "companyName": "Terarecon Inc.",
+      "deviceIdentifier": "98457127-3f21-4ed2-9112-a0f9fb5ee2fb",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "57812",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Radiology DICOM image processing application software"
+        }
+      ],
+      "modelNumber": "Neuro02"
+    },
+    "retrieved_at": "2026-04-15T10:18:49+00:00",
+    "source_id": "accessgudid:NEURO02",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/98457127-3f21-4ed2-9112-a0f9fb5ee2fb",
+    "title": "TeraRecon Neuro (Terarecon Inc.)"
+  },
+  {
+    "device_family": "aspiration--penumbra--artemis-neuro-evacuation-device",
+    "query_used": "Artemis Neuro Evacuation Device",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "08809974444405",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Medyssey Navigation Instrument",
+      "companyName": "Medyssey Co., Ltd.",
+      "deviceIdentifier": "e859ca1a-5879-4179-9b70-f1abdf51396c",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "33968",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Surgical screwdriver, reusable"
+        }
+      ],
+      "modelNumber": "SNXPD-N01"
+    },
+    "retrieved_at": "2026-04-15T10:18:49+00:00",
+    "source_id": "accessgudid:08809974444405",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/e859ca1a-5879-4179-9b70-f1abdf51396c",
+    "title": "Medyssey Navigation Instrument (Medyssey Co., Ltd.)"
+  },
+  {
+    "device_family": "aspiration--penumbra--artemis-neuro-evacuation-device",
+    "query_used": "Artemis Neuro Evacuation Device",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00814548017952",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Penumbra System",
+      "companyName": "PENUMBRA, INC.",
+      "deviceIdentifier": "280a5665-4df1-4815-9184-766d844aea7b",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "41978",
+          "gmdnCodeStatus": "Obsolete",
+          "implantable": "false",
+          "termName": "Surgical irrigation/aspiration system"
+        }
+      ],
+      "modelNumber": "APCAN2"
+    },
+    "retrieved_at": "2026-04-15T10:18:49+00:00",
+    "source_id": "accessgudid:00814548017952",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/280a5665-4df1-4815-9184-766d844aea7b",
+    "title": "Penumbra System (PENUMBRA, INC.)"
+  }
+]

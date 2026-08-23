@@ -1,0 +1,90 @@
+{
+  "device_slug": "interbody-cage--medtronic--modification-to-cd-horizon-spinal",
+  "artifact_folder": "interbody-cage--medtronic--modification-to-cd-horizon-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 14,
+  "bytes": 10800,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--medtronic--modification-to-cd-horizon-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--modification-to-cd-horizon-spinal/enriched/interbody-cage--medtronic--modification-to-cd-horizon-spinal.json",
+        "bytes": 2675
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K042167.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--modification-to-cd-horizon-spinal/fda_raw/NKB/K042167.json",
+        "bytes": 604
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K042962.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--modification-to-cd-horizon-spinal/fda_raw/NKB/K042962.json",
+        "bytes": 603
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K043321.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--modification-to-cd-horizon-spinal/fda_raw/NKB/K043321.json",
+        "bytes": 604
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K043488.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--modification-to-cd-horizon-spinal/fda_raw/NKB/K043488.json",
+        "bytes": 603
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K052187.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--modification-to-cd-horizon-spinal/fda_raw/NKB/K052187.json",
+        "bytes": 605
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K052609.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--modification-to-cd-horizon-spinal/fda_raw/NKB/K052609.json",
+        "bytes": 603
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K052747.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--modification-to-cd-horizon-spinal/fda_raw/NKB/K052747.json",
+        "bytes": 603
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K060203.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--modification-to-cd-horizon-spinal/fda_raw/NKB/K060203.json",
+        "bytes": 603
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K063083.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--modification-to-cd-horizon-spinal/fda_raw/NKB/K063083.json",
+        "bytes": 609
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K063417.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--modification-to-cd-horizon-spinal/fda_raw/NKB/K063417.json",
+        "bytes": 603
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K091974.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--modification-to-cd-horizon-spinal/fda_raw/NKB/K091974.json",
+        "bytes": 613
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K092325.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--modification-to-cd-horizon-spinal/fda_raw/NKB/K092325.json",
+        "bytes": 613
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--medtronic--modification-to-cd-horizon-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--modification-to-cd-horizon-spinal/merged/interbody-cage--medtronic--modification-to-cd-horizon-spinal.json",
+        "bytes": 859
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

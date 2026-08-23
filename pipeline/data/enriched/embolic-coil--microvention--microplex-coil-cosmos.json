@@ -9,14 +9,14 @@
   "device_class": 2,
   "device_name_fda": "MICROPLEX COIL SYSTEM-COSMOS",
   "product_code": "HCG",
-  "what_it_is": null,
-  "sizing_specs": null,
-  "indications": null,
+  "what_it_is": "The MCS Cosmos 10 consists of an implantable coil made of bare platinum alloy. The HES HydroFrame 10 consists of implantable coil made of platinum alloy with a biologically inert and stable inner hydrogel core. Both the Cosmos 10 and the HydroFrame 10 coils are available in various loop sizes and lengths. The coil is attached to a V-Trak delivery pusher. The proximal end of the delivery pusher is inserted into a hand held battery powered V-Grip Detachment Controller (sold separately). The implantable coil detaches upon activation of the Detachment Controller. Both the Cosmos 10 and the HydroFrame 10 coil implants have a PET member within the primary coil to provide stretch resistance properties. Both feature a 3-dimensional shape that creates a frame when placed within an aneurysm. The HydroFrame 10 also has a hydrogel core member that runs parallel with the stretch resistant member within the coil. The expansion properties of the hydrogel allow for improved filling properties of the implanted coil.",
+  "sizing_specs": "| MCS Cosmos 10                    |                               |                |\n|----------------------------------|-------------------------------|----------------|\n| -Predicate<br>Feature            | Device                        | Subject Device |\n| Coil shape                       | 3D - spherical                | Same           |\n| Coil implant diameter            | 3-12mm                        | 2.0-2.5mm      |\n| Coil restrained length           | 6,15cm                        | 2-4cm          |\n| Deliver pusher length            | 185cm                         | Same           |\n| Main coil wire material          | Platinum/Tungsten alloy       | Same           |\n| Coupler material                 | Platinum/Iridium              | Same           |\n| Adhesive material                | Utraviolet cure               | Same           |\n| Implant to pusher material       | Polyolefin elastomer          | Same           |\n| Stretch resistant filar material | Polyolefin elastomer          | PET            |\n| MRI compatibility                | Yes                           | Same           |\n| Method of supply                 | Sterile, single use           | Same           |\n| Packaging configuration          | Dispenser coil, pouch, carton | Same           |\n\n| HES HydroFrame 10                |                               |                |\n|----------------------------------|-------------------------------|----------------|\n| Feature                          | Predicate Device              | Subject Device |\n| Coil shape                       | 3D - spherical                | Same           |\n| Coil implant diameter            | 3-12mm                        | 2.0-2.5mm      |\n| Coil restrained length           | 6-43cm                        | 2.4cm          |\n| Deliver pusher length            | 185cm                         | Same           |\n| Main coil wire material          | Platinum/Tungsten alloy       | Same           |\n| Coupler material                 | Platinum/Iridium              | Same           |\n| Adhesive material                | Utraviolet cure               | Same           |\n| Implant to pusher material       | Polyolefin elastomer          | Same           |\n| Stretch resistant filar material | Polyolefin elastomer          | PET            |\n| Gel                              | Hydrophilic acrylic copolymer | Same           |\n| MRI compatibility                | Yes                           | Same           |\n| Method of supply                 | Sterile, single use           | Same           |\n| Packaging configuration          | Dispenser coil, pouch, carton | Same           |",
+  "indications": "Intended for the endovascular embolization of intracranial aneurysms and other neurovascular abnormalities such as arteriovenous malformations and arteriovenous fistulae. The MCS and HES is also intended for vascular occlusion of blood vessels within the neurovascular system to permanently obstruct blood flow to an aneurysm or other vascular malformation and for arterial and venous embolization in the peripheral vasculature.",
   "contraindications": null,
   "compatible_with": null,
   "use_notes": "[FDA RECALL] 16 active recall(s).\n  - The devices may be missing the implant coil.\n  - The devices may be missing the implant coil.",
   "deployment_steps": null,
-  "also_known_as": [],
+  "also_known_as": "MicroPlex Coil System - Cosmos 10, HydroCoil Embolic System - HydroFrame 10, MCS, HES",
   "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf09/K090891.pdf",
   "ifu_pdf_url": null,
   "source_url": "",
@@ -27,16 +27,16 @@
   ],
   "_enrichment": {
     "what_it_is": {
-      "source": "none",
-      "confidence": 0
+      "source": "document",
+      "confidence": 0.7
     },
     "sizing_specs": {
-      "source": "none",
-      "confidence": 0
+      "source": "document",
+      "confidence": 0.7
     },
     "indications": {
-      "source": "none",
-      "confidence": 0
+      "source": "document",
+      "confidence": 0.7
     },
     "contraindications": {
       "source": "none",
@@ -51,8 +51,8 @@
       "confidence": 0
     },
     "also_known_as": {
-      "source": "none",
-      "confidence": 0
+      "source": "document",
+      "confidence": 0.7
     },
     "_safety": {
       "source": "fda_maude+recalls",

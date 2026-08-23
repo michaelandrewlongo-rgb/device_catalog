@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--clariance-sas--idys-tlif-tivac",
+  "artifact_folder": "pedicle-screw--clariance-sas--idys-tlif-tivac",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2750,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--clariance-sas--idys-tlif-tivac.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--clariance-sas--idys-tlif-tivac/enriched/pedicle-screw--clariance-sas--idys-tlif-tivac.json",
+        "bytes": 1382
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K183259.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--clariance-sas--idys-tlif-tivac/fda_raw/MAX/K183259.json",
+        "bytes": 559
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--clariance-sas--idys-tlif-tivac.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--clariance-sas--idys-tlif-tivac/merged/pedicle-screw--clariance-sas--idys-tlif-tivac.json",
+        "bytes": 809
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

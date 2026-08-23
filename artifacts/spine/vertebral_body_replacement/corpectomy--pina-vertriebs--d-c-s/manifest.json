@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--pina-vertriebs--d-c-s",
+  "artifact_folder": "corpectomy--pina-vertriebs--d-c-s",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2675,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--pina-vertriebs--d-c-s.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--pina-vertriebs--d-c-s/enriched/corpectomy--pina-vertriebs--d-c-s.json",
+        "bytes": 1358
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K930657.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--pina-vertriebs--d-c-s/fda_raw/KWP/K930657.json",
+        "bytes": 540
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--pina-vertriebs--d-c-s.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--pina-vertriebs--d-c-s/merged/corpectomy--pina-vertriebs--d-c-s.json",
+        "bytes": 777
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--corelink-llc--corelink-midline-fixation",
+  "artifact_folder": "interbody-cage--corelink-llc--corelink-midline-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2846,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--corelink-llc--corelink-midline-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--corelink-llc--corelink-midline-fixation/enriched/interbody-cage--corelink-llc--corelink-midline-fixation.json",
+        "bytes": 1422
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K210539.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--corelink-llc--corelink-midline-fixation/fda_raw/NKB/K210539.json",
+        "bytes": 583
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--corelink-llc--corelink-midline-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--corelink-llc--corelink-midline-fixation/merged/interbody-cage--corelink-llc--corelink-midline-fixation.json",
+        "bytes": 841
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

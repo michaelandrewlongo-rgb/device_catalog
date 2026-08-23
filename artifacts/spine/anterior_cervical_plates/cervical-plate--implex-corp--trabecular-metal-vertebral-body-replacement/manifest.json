@@ -1,0 +1,40 @@
+{
+  "device_slug": "cervical-plate--implex-corp--trabecular-metal-vertebral-body-replacement",
+  "artifact_folder": "cervical-plate--implex-corp--trabecular-metal-vertebral-body-replacement",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3742,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--implex-corp--trabecular-metal-vertebral-body-replacement.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--implex-corp--trabecular-metal-vertebral-body-replacement/enriched/cervical-plate--implex-corp--trabecular-metal-vertebral-body-replacement.json",
+        "bytes": 1534
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K051196.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--implex-corp--trabecular-metal-vertebral-body-replacement/fda_raw/MQP/K051196.json",
+        "bytes": 646
+      },
+      {
+        "source": "pipeline/data/fda_raw/MQP/K051978.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--implex-corp--trabecular-metal-vertebral-body-replacement/fda_raw/MQP/K051978.json",
+        "bytes": 609
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--implex-corp--trabecular-metal-vertebral-body-replacement.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--implex-corp--trabecular-metal-vertebral-body-replacement/merged/cervical-plate--implex-corp--trabecular-metal-vertebral-body-replacement.json",
+        "bytes": 953
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

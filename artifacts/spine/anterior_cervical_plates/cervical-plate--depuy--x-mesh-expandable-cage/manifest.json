@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--depuy--x-mesh-expandable-cage",
+  "artifact_folder": "cervical-plate--depuy--x-mesh-expandable-cage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2784,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--depuy--x-mesh-expandable-cage.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuy--x-mesh-expandable-cage/enriched/cervical-plate--depuy--x-mesh-expandable-cage.json",
+        "bytes": 1399
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K080568.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuy--x-mesh-expandable-cage/fda_raw/MQP/K080568.json",
+        "bytes": 567
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--depuy--x-mesh-expandable-cage.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuy--x-mesh-expandable-cage/merged/cervical-plate--depuy--x-mesh-expandable-cage.json",
+        "bytes": 818
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

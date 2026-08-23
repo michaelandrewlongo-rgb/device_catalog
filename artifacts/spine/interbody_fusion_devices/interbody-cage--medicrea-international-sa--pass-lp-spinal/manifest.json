@@ -1,0 +1,67 @@
+{
+  "device_slug": "interbody-cage--medicrea-international-sa--pass-lp-spinal",
+  "artifact_folder": "interbody-cage--medicrea-international-sa--pass-lp-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 9,
+  "bytes": 6725,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--medicrea-international-sa--pass-lp-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medicrea-international-sa--pass-lp-spinal/enriched/interbody-cage--medicrea-international-sa--pass-lp-spinal.json",
+        "bytes": 1686
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--medicrea-international-sa--pass-lp-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medicrea-international-sa--pass-lp-spinal/extracted/fda_structured/interbody-cage--medicrea-international-sa--pass-lp-spinal.json",
+        "bytes": 611
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K141398.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medicrea-international-sa--pass-lp-spinal/fda_raw/NKB/K141398.json",
+        "bytes": 599
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K153413.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medicrea-international-sa--pass-lp-spinal/fda_raw/NKB/K153413.json",
+        "bytes": 599
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K161627.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medicrea-international-sa--pass-lp-spinal/fda_raw/NKB/K161627.json",
+        "bytes": 599
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K162786.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medicrea-international-sa--pass-lp-spinal/fda_raw/NKB/K162786.json",
+        "bytes": 599
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K182240.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medicrea-international-sa--pass-lp-spinal/fda_raw/NKB/K182240.json",
+        "bytes": 599
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K190376.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medicrea-international-sa--pass-lp-spinal/fda_raw/NKB/K190376.json",
+        "bytes": 599
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--medicrea-international-sa--pass-lp-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medicrea-international-sa--pass-lp-spinal/merged/interbody-cage--medicrea-international-sa--pass-lp-spinal.json",
+        "bytes": 834
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

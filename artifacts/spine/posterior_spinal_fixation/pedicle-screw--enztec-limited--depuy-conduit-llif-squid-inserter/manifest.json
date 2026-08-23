@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--enztec-limited--depuy-conduit-llif-squid-inserter",
+  "artifact_folder": "pedicle-screw--enztec-limited--depuy-conduit-llif-squid-inserter",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2882,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--enztec-limited--depuy-conduit-llif-squid-inserter.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--enztec-limited--depuy-conduit-llif-squid-inserter/enriched/pedicle-screw--enztec-limited--depuy-conduit-llif-squid-inserter.json",
+        "bytes": 1434
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K220449.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--enztec-limited--depuy-conduit-llif-squid-inserter/fda_raw/MAX/K220449.json",
+        "bytes": 595
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--enztec-limited--depuy-conduit-llif-squid-inserter.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--enztec-limited--depuy-conduit-llif-squid-inserter/merged/pedicle-screw--enztec-limited--depuy-conduit-llif-squid-inserter.json",
+        "bytes": 853
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--nuvasive--spinous-process-plate",
+  "artifact_folder": "corpectomy--nuvasive--spinous-process-plate",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2767,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--nuvasive--spinous-process-plate.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--nuvasive--spinous-process-plate/enriched/corpectomy--nuvasive--spinous-process-plate.json",
+        "bytes": 1394
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K073278.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--nuvasive--spinous-process-plate/fda_raw/KWP/K073278.json",
+        "bytes": 560
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--nuvasive--spinous-process-plate.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--nuvasive--spinous-process-plate/merged/corpectomy--nuvasive--spinous-process-plate.json",
+        "bytes": 813
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

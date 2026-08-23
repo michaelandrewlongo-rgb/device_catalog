@@ -1,0 +1,40 @@
+{
+  "device_slug": "interbody-cage--amedica-corp--valeo-pedicle-screw-spinal",
+  "artifact_folder": "interbody-cage--amedica-corp--valeo-pedicle-screw-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3439,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--amedica-corp--valeo-pedicle-screw-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--amedica-corp--valeo-pedicle-screw-spinal/enriched/interbody-cage--amedica-corp--valeo-pedicle-screw-spinal.json",
+        "bytes": 1425
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K072022.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--amedica-corp--valeo-pedicle-screw-spinal/fda_raw/NKB/K072022.json",
+        "bytes": 585
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K073430.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--amedica-corp--valeo-pedicle-screw-spinal/fda_raw/NKB/K073430.json",
+        "bytes": 585
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--amedica-corp--valeo-pedicle-screw-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--amedica-corp--valeo-pedicle-screw-spinal/merged/interbody-cage--amedica-corp--valeo-pedicle-screw-spinal.json",
+        "bytes": 844
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

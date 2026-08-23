@@ -1,0 +1,35 @@
+{
+  "device_slug": "dural-substitute--cook-biotech-inc--durasis-dural-substitute",
+  "artifact_folder": "dural-substitute--cook-biotech-inc--durasis-dural-substitute",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3094,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/dural-substitute--cook-biotech-inc--durasis-dural-substitute.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--cook-biotech-inc--durasis-dural-substitute/enriched/dural-substitute--cook-biotech-inc--durasis-dural-substitute.json",
+        "bytes": 1668
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/GXQ/K031850.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--cook-biotech-inc--durasis-dural-substitute/fda_raw/GXQ/K031850.json",
+        "bytes": 590
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/dural-substitute--cook-biotech-inc--durasis-dural-substitute.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--cook-biotech-inc--durasis-dural-substitute/merged/dural-substitute--cook-biotech-inc--durasis-dural-substitute.json",
+        "bytes": 836
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "dural-substitute",
+    "label": "Outside listed seed registries"
+  }
+}

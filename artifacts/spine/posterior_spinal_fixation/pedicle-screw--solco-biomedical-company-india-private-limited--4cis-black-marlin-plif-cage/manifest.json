@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--solco-biomedical-company-india-private-limited--4cis-black-marlin-plif-cage",
+  "artifact_folder": "pedicle-screw--solco-biomedical-company-india-private-limited--4cis-black-marlin-plif-cage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3248,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--solco-biomedical-company-india-private-limited--4cis-black-marlin-plif-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--solco-biomedical-company-india-private-limited--4cis-black-marlin-plif-cage/enriched/pedicle-screw--solco-biomedical-company-india-private-limited--4cis-black-marlin-plif-cage.json",
+        "bytes": 1556
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K213653.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--solco-biomedical-company-india-private-limited--4cis-black-marlin-plif-cage/fda_raw/MAX/K213653.json",
+        "bytes": 717
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--solco-biomedical-company-india-private-limited--4cis-black-marlin-plif-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--solco-biomedical-company-india-private-limited--4cis-black-marlin-plif-cage/merged/pedicle-screw--solco-biomedical-company-india-private-limited--4cis-black-marlin-plif-cage.json",
+        "bytes": 975
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

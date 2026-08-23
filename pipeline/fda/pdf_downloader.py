@@ -7,11 +7,12 @@ from rich.console import Console
 from rich.progress import Progress, SpinnerColumn, TextColumn, BarColumn
 
 from .models import FDADeviceRecord
-from ..config import DATA_DIR
+from ..config import DATA_DIR, FDA_510K_DIR
 
 console = Console()
 
 PDF_DIR = DATA_DIR / "pdfs"
+FDA_PDF_DIR = FDA_510K_DIR
 REQUEST_DELAY = 1.0  # Be polite to FDA servers
 MAX_RETRIES = 2
 
@@ -62,7 +63,7 @@ async def download_fda_pdfs(
     Returns:
         Dict mapping clearance_number to success/failure.
     """
-    PDF_DIR.mkdir(parents=True, exist_ok=True)
+    FDA_PDF_DIR.mkdir(parents=True, exist_ok=True)
 
     # Filter to devices with PDF URLs
     downloadable = [d for d in devices if d.pdf_summary_url]
@@ -89,7 +90,10 @@ async def download_fda_pdfs(
 
             for device in downloadable:
                 dest_name = f"{device.suggested_filename_stem}--510k.pdf"
-                dest_path = PDF_DIR / dest_name
+                category = device.catalog_category or "_uncategorized"
+                dest_dir = FDA_PDF_DIR / category / "pdfs"
+                dest_dir.mkdir(parents=True, exist_ok=True)
+                dest_path = dest_dir / dest_name
 
                 success = await download_pdf(client, device.pdf_summary_url, dest_path)
                 results[device.clearance_number] = success
@@ -100,13 +104,13 @@ async def download_fda_pdfs(
     success_count = sum(1 for v in results.values() if v)
     console.print(
         f"[green]Downloaded {success_count}/{len(results)} PDFs[/] "
-        f"to {PDF_DIR}"
+        f"to {FDA_PDF_DIR}"
     )
 
     # Log failures
     failures = [k for k, v in results.items() if not v]
     if failures:
-        log_path = PDF_DIR / "download_failures.txt"
+        log_path = FDA_PDF_DIR / "download_failures.txt"
         log_path.write_text("\n".join(failures), encoding="utf-8")
         console.print(f"[yellow]{len(failures)} failures logged to {log_path}[/]")
 

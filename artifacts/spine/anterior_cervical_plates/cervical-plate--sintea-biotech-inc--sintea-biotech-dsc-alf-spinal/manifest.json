@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--sintea-biotech-inc--sintea-biotech-dsc-alf-spinal",
+  "artifact_folder": "cervical-plate--sintea-biotech-inc--sintea-biotech-dsc-alf-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3071,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--sintea-biotech-inc--sintea-biotech-dsc-alf-spinal.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--sintea-biotech-inc--sintea-biotech-dsc-alf-spinal/enriched/cervical-plate--sintea-biotech-inc--sintea-biotech-dsc-alf-spinal.json",
+        "bytes": 1506
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K070181.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--sintea-biotech-inc--sintea-biotech-dsc-alf-spinal/fda_raw/MQP/K070181.json",
+        "bytes": 640
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--sintea-biotech-inc--sintea-biotech-dsc-alf-spinal.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--sintea-biotech-inc--sintea-biotech-dsc-alf-spinal/merged/cervical-plate--sintea-biotech-inc--sintea-biotech-dsc-alf-spinal.json",
+        "bytes": 925
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--zimmer-biomet--ldr-spine-roi-t",
+  "artifact_folder": "cervical-plate--zimmer-biomet--ldr-spine-roi-t",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2772,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--zimmer-biomet--ldr-spine-roi-t.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--zimmer-biomet--ldr-spine-roi-t/enriched/cervical-plate--zimmer-biomet--ldr-spine-roi-t.json",
+        "bytes": 1394
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K072132.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--zimmer-biomet--ldr-spine-roi-t/fda_raw/MQP/K072132.json",
+        "bytes": 565
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--zimmer-biomet--ldr-spine-roi-t.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--zimmer-biomet--ldr-spine-roi-t/merged/cervical-plate--zimmer-biomet--ldr-spine-roi-t.json",
+        "bytes": 813
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

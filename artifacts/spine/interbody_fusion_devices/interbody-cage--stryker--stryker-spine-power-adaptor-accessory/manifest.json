@@ -1,0 +1,21 @@
+{
+  "device_slug": "interbody-cage--stryker--stryker-spine-power-adaptor-accessory",
+  "artifact_folder": "interbody-cage--stryker--stryker-spine-power-adaptor-accessory",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 608,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K111478.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker--stryker-spine-power-adaptor-accessory/fda_raw/NKB/K111478.json",
+        "bytes": 608
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--tdm-co-ltd--tdm-lumbar-interbody-fusion-cage",
+  "artifact_folder": "pedicle-screw--tdm-co-ltd--tdm-lumbar-interbody-fusion-cage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2884,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--tdm-co-ltd--tdm-lumbar-interbody-fusion-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--tdm-co-ltd--tdm-lumbar-interbody-fusion-cage/enriched/pedicle-screw--tdm-co-ltd--tdm-lumbar-interbody-fusion-cage.json",
+        "bytes": 1437
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K221844.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--tdm-co-ltd--tdm-lumbar-interbody-fusion-cage/fda_raw/MAX/K221844.json",
+        "bytes": 591
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--tdm-co-ltd--tdm-lumbar-interbody-fusion-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--tdm-co-ltd--tdm-lumbar-interbody-fusion-cage/merged/pedicle-screw--tdm-co-ltd--tdm-lumbar-interbody-fusion-cage.json",
+        "bytes": 856
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

@@ -11,7 +11,7 @@
   "product_code": "QJP",
   "what_it_is": null,
   "sizing_specs": "Catalog: APRO-70-132; Model: FG-02133-132-IC",
-  "indications": null,
+  "indications": "Indications for Use See PRA Statement below.\n510(k) Number (if known)\nK243297\nDevice Name\nAPRO 70 Swift Catheter\nIndications for Use (Describe)\nThe APRO 70 Swift Catheter is indicated for use in facilitating the insertion and guidance of appropriately sized\ninterventional devices into a selected blood vessel in the peripheral and neurovascular systems.\nThe APRO 70 Swift Catheter is also indicated for use as a conduit for retrieval devices.\nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)\nCONTINUE ON A SEPARATE PAGE IF NEEDED.\nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the\ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any other aspect\nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of\ninformation unless it displays a currently valid OMB number.”\nFORM FDA 3881 (8/23) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF\n\n510(k) Summary\n510(k) Number: K243297\nThis 510(k) Summary is provided in accordance with the requirements of 21 CFR §807.92.\n1) Submitter information\nSubmitter: Alembic, LLC\n627 National Ave.\nMountain View, CA 94043\nContact: Lisa Yen\nVP of Regulatory and Quality\nTelephone Number: (650) 388-5087\nEmail: lyen@alembicllc.com\nDate Prepared: January 14, 2025\n2) Device Name and Classification\nTrade/Proprietary Name: APRO® 70 Swift Catheter\nCommon Name: Percutaneous Catheter\nClassification Name: Percutaneous Catheter, 21 CFR 870.1250\nCatheter, Percutaneous, Neurovasculature, 21 CFR 870.1250\nRegulatory Class: Class II\nProduct Codes: DQY, QJP\nReview Panel: Cardiovascular, Neurology\n3) Legally Marketed Predicate Device and Reference Device",
   "contraindications": null,
   "compatible_with": null,
   "use_notes": "MRI: Labeling does not contain MRI Safety Information. Pre-sterilized. Single-use",
@@ -38,8 +38,8 @@
       "confidence": 0.85
     },
     "indications": {
-      "source": "none",
-      "confidence": 0
+      "source": "fda_summary",
+      "confidence": 0.95
     },
     "contraindications": {
       "source": "none",

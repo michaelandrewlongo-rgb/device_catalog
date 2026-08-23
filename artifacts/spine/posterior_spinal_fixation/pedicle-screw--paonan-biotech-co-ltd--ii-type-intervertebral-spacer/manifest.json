@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--paonan-biotech-co-ltd--ii-type-intervertebral-spacer",
+  "artifact_folder": "pedicle-screw--paonan-biotech-co-ltd--ii-type-intervertebral-spacer",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2902,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--paonan-biotech-co-ltd--ii-type-intervertebral-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--paonan-biotech-co-ltd--ii-type-intervertebral-spacer/enriched/pedicle-screw--paonan-biotech-co-ltd--ii-type-intervertebral-spacer.json",
+        "bytes": 1436
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K180228.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--paonan-biotech-co-ltd--ii-type-intervertebral-spacer/fda_raw/MAX/K180228.json",
+        "bytes": 611
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--paonan-biotech-co-ltd--ii-type-intervertebral-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--paonan-biotech-co-ltd--ii-type-intervertebral-spacer/merged/pedicle-screw--paonan-biotech-co-ltd--ii-type-intervertebral-spacer.json",
+        "bytes": 855
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

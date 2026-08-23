@@ -1,0 +1,40 @@
+{
+  "device_slug": "pedicle-screw--genesys-spine--genesys-spine-apache-interbody-fusion",
+  "artifact_folder": "pedicle-screw--genesys-spine--genesys-spine-apache-interbody-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3549,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--genesys-spine--genesys-spine-apache-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--genesys-spine--genesys-spine-apache-interbody-fusion/enriched/pedicle-screw--genesys-spine--genesys-spine-apache-interbody-fusion.json",
+        "bytes": 1458
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K153123.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--genesys-spine--genesys-spine-apache-interbody-fusion/fda_raw/MAX/K153123.json",
+        "bytes": 607
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K171656.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--genesys-spine--genesys-spine-apache-interbody-fusion/fda_raw/MAX/K171656.json",
+        "bytes": 607
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--genesys-spine--genesys-spine-apache-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--genesys-spine--genesys-spine-apache-interbody-fusion/merged/pedicle-screw--genesys-spine--genesys-spine-apache-interbody-fusion.json",
+        "bytes": 877
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

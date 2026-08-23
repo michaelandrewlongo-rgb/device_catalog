@@ -1,0 +1,40 @@
+{
+  "device_slug": "pedicle-screw--life-spine-inc--prolift-r-expandable",
+  "artifact_folder": "pedicle-screw--life-spine-inc--prolift-r-expandable",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3401,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--life-spine-inc--prolift-r-expandable.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--life-spine-inc--prolift-r-expandable/enriched/pedicle-screw--life-spine-inc--prolift-r-expandable.json",
+        "bytes": 1409
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K173182.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--life-spine-inc--prolift-r-expandable/fda_raw/MAX/K173182.json",
+        "bytes": 578
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K191005.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--life-spine-inc--prolift-r-expandable/fda_raw/MAX/K191005.json",
+        "bytes": 578
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--life-spine-inc--prolift-r-expandable.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--life-spine-inc--prolift-r-expandable/merged/pedicle-screw--life-spine-inc--prolift-r-expandable.json",
+        "bytes": 836
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

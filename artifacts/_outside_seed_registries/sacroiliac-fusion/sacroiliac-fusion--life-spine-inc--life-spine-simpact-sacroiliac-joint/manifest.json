@@ -1,0 +1,26 @@
+{
+  "device_slug": "sacroiliac-fusion--life-spine-inc--life-spine-simpact-sacroiliac-joint",
+  "artifact_folder": "sacroiliac-fusion--life-spine-inc--life-spine-simpact-sacroiliac-joint",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 2,
+  "bytes": 1250,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/OUR/K180749.json",
+        "artifact": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--life-spine-inc--life-spine-simpact-sacroiliac-joint/fda_raw/OUR/K180749.json",
+        "bytes": 625
+      },
+      {
+        "source": "pipeline/data/fda_raw/OUR/K201538.json",
+        "artifact": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--life-spine-inc--life-spine-simpact-sacroiliac-joint/fda_raw/OUR/K201538.json",
+        "bytes": 625
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "sacroiliac-fusion",
+    "label": "Outside listed seed registries"
+  }
+}

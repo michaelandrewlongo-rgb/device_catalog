@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--cross-medical-products-inc--pwb-lumbar-laminar-hooks-with",
+  "artifact_folder": "corpectomy--cross-medical-products-inc--pwb-lumbar-laminar-hooks-with",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2973,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--cross-medical-products-inc--pwb-lumbar-laminar-hooks-with.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--cross-medical-products-inc--pwb-lumbar-laminar-hooks-with/enriched/corpectomy--cross-medical-products-inc--pwb-lumbar-laminar-hooks-with.json",
+        "bytes": 1462
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K924381.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--cross-medical-products-inc--pwb-lumbar-laminar-hooks-with/fda_raw/KWP/K924381.json",
+        "bytes": 630
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--cross-medical-products-inc--pwb-lumbar-laminar-hooks-with.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--cross-medical-products-inc--pwb-lumbar-laminar-hooks-with/merged/corpectomy--cross-medical-products-inc--pwb-lumbar-laminar-hooks-with.json",
+        "bytes": 881
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

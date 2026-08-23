@@ -1,0 +1,40 @@
+{
+  "device_slug": "csf-shunt--holter-hausner-intl--h-h-fifth-ventricle",
+  "artifact_folder": "csf-shunt--holter-hausner-intl--h-h-fifth-ventricle",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3355,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--holter-hausner-intl--h-h-fifth-ventricle.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--holter-hausner-intl--h-h-fifth-ventricle/enriched/csf-shunt--holter-hausner-intl--h-h-fifth-ventricle.json",
+        "bytes": 1394
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K800168.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--holter-hausner-intl--h-h-fifth-ventricle/fda_raw/JXG/K800168.json",
+        "bytes": 574
+      },
+      {
+        "source": "pipeline/data/fda_raw/JXG/K853365.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--holter-hausner-intl--h-h-fifth-ventricle/fda_raw/JXG/K853365.json",
+        "bytes": 574
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--holter-hausner-intl--h-h-fifth-ventricle.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--holter-hausner-intl--h-h-fifth-ventricle/merged/csf-shunt--holter-hausner-intl--h-h-fifth-ventricle.json",
+        "bytes": 813
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "device_slug": "interbody-cage--medtronic--cd-horizon-voyager-spinal",
+  "artifact_folder": "interbody-cage--medtronic--cd-horizon-voyager-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 6890,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/interbody-cage--medtronic--cd-horizon-voyager-spinal--knowledge.md",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--cd-horizon-voyager-spinal/data_by_device/interbody-cage--medtronic--cd-horizon-voyager-spinal--knowledge.md",
+        "bytes": 2091
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--medtronic--cd-horizon-voyager-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--cd-horizon-voyager-spinal/enriched/interbody-cage--medtronic--cd-horizon-voyager-spinal.json",
+        "bytes": 3026
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K113529.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--cd-horizon-voyager-spinal/fda_raw/NKB/K113529.json",
+        "bytes": 587
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--medtronic--cd-horizon-voyager-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--cd-horizon-voyager-spinal/merged/interbody-cage--medtronic--cd-horizon-voyager-spinal.json",
+        "bytes": 1186
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "device_slug": "corpectomy--seaspine-inc--sierra-recalls",
+  "artifact_folder": "corpectomy--seaspine-inc--sierra-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 5915,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/corpectomy--seaspine-inc--sierra-recalls.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--seaspine-inc--sierra-recalls/extracted/fda_safety/corpectomy--seaspine-inc--sierra-recalls.json",
+        "bytes": 5915
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

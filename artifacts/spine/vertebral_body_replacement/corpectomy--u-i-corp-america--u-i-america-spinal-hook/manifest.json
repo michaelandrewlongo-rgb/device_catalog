@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--u-i-corp-america--u-i-america-spinal-hook",
+  "artifact_folder": "corpectomy--u-i-corp-america--u-i-america-spinal-hook",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2845,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--u-i-corp-america--u-i-america-spinal-hook.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--u-i-corp-america--u-i-america-spinal-hook/enriched/corpectomy--u-i-corp-america--u-i-america-spinal-hook.json",
+        "bytes": 1420
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K031595.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--u-i-corp-america--u-i-america-spinal-hook/fda_raw/KWP/K031595.json",
+        "bytes": 586
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--u-i-corp-america--u-i-america-spinal-hook.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--u-i-corp-america--u-i-america-spinal-hook/merged/corpectomy--u-i-corp-america--u-i-america-spinal-hook.json",
+        "bytes": 839
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

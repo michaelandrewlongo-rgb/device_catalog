@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--radionics-inc--radionics-burr-hole-valve",
+  "artifact_folder": "csf-shunt--radionics-inc--radionics-burr-hole-valve",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2788,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--radionics-inc--radionics-burr-hole-valve.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--radionics-inc--radionics-burr-hole-valve/enriched/csf-shunt--radionics-inc--radionics-burr-hole-valve.json",
+        "bytes": 1400
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K970578.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--radionics-inc--radionics-burr-hole-valve/fda_raw/JXG/K970578.json",
+        "bytes": 569
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--radionics-inc--radionics-burr-hole-valve.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--radionics-inc--radionics-burr-hole-valve/merged/csf-shunt--radionics-inc--radionics-burr-hole-valve.json",
+        "bytes": 819
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

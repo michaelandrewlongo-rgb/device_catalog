@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--depuy--synthes-spine-cervifix",
+  "artifact_folder": "corpectomy--depuy--synthes-spine-cervifix",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2916,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--depuy--synthes-spine-cervifix.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--synthes-spine-cervifix/enriched/corpectomy--depuy--synthes-spine-cervifix.json",
+        "bytes": 1551
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K984377.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--synthes-spine-cervifix/fda_raw/KWP/K984377.json",
+        "bytes": 555
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--depuy--synthes-spine-cervifix.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--synthes-spine-cervifix/merged/corpectomy--depuy--synthes-spine-cervifix.json",
+        "bytes": 810
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

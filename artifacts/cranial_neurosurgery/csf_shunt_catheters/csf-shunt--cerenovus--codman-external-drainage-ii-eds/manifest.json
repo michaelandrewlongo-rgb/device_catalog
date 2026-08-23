@@ -1,0 +1,40 @@
+{
+  "device_slug": "csf-shunt--cerenovus--codman-external-drainage-ii-eds",
+  "artifact_folder": "csf-shunt--cerenovus--codman-external-drainage-ii-eds",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3476,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--cerenovus--codman-external-drainage-ii-eds.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cerenovus--codman-external-drainage-ii-eds/enriched/csf-shunt--cerenovus--codman-external-drainage-ii-eds.json",
+        "bytes": 1434
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K902257.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cerenovus--codman-external-drainage-ii-eds/fda_raw/JXG/K902257.json",
+        "bytes": 595
+      },
+      {
+        "source": "pipeline/data/fda_raw/JXG/K910938.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cerenovus--codman-external-drainage-ii-eds/fda_raw/JXG/K910938.json",
+        "bytes": 594
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--cerenovus--codman-external-drainage-ii-eds.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cerenovus--codman-external-drainage-ii-eds/merged/csf-shunt--cerenovus--codman-external-drainage-ii-eds.json",
+        "bytes": 853
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "device_name": "Surpass Elite Flow Diverter",
+  "manufacturer": "stryker",
+  "catalog_category": "flow-diverter",
+  "filename_stem": "flow-diverter--stryker--surpass-elite-flow-diverter-system",
+  "clearance_type": "pma",
+  "clearance_number": "P170024",
+  "clearance_date": "2025-02-12",
+  "device_class": 3,
+  "device_name_fda": "Surpass Elite Flow Diverter System",
+  "product_code": "OUT",
+  "what_it_is": "Third-generation self-expanding braided flow diverter for intracranial aneurysm treatment. Features 64-wire pure cobalt-chromium-nickel alloy construction for high mesh density and enhanced material strength. Incorporates the BioStealth Surface modification, which reduces thrombin generation by 91% compared to an unmodified device (in bench testing). Successor to Surpass Evolve, with larger and longer size offerings, higher braid angle for easier opening with less manipulation, and higher durometer resheath pad for confident resheathing.",
+  "sizing_specs": "Stent Diameter (mm): 3.25, 4.0, 4.5, 5.0. Stent Length (mm): 12-40. Materials: Cobalt-chromium-nickel alloy (15% nickel). 64 braid wires with pure CoCr structural wires. Bodiless petals and anatomy-specific stainless-steel wire delivery system.",
+  "indications": "Adults 18 years of age and older. Unruptured large or giant saccular wide-neck (neck width >=4 mm or dome-to-neck ratio <2) or fusiform intracranial aneurysms in the internal carotid artery from the petrous segment to the terminus. Parent vessel diameter 2.5-5.3 mm. (Per PMA P170024 original approval.)",
+  "contraindications": null,
+  "compatible_with": "Excelsior XT-27 Microcatheter (delivery catheter)",
+  "use_notes": "BioStealth Surface is a phosphorylcholine surface modification designed to reduce thrombogenicity. Bench testing (n=min 9 stent segments, Stryker data on file) demonstrated 91% reduction in thrombin generation compared to unmodified device. Design features optimized for ease-of-opening with less manipulation via higher braid angle. Higher durometer resheath pad allows confident resheathing without compromising proximal opening. Enhanced material strength for fatigue-resistant braid.",
+  "deployment_steps": null,
+  "also_known_as": [
+    "Surpass Elite"
+  ],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.stryker.com/us/en/neurovascular/products/surpass-elite.html",
+  "confidence_score": 0.85,
+  "needs_review": true,
+  "data_sources": [
+    "fda",
+    "scraper-chrome",
+    "evtoday"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "scraper-chrome",
+      "confidence": 0.85
+    },
+    "sizing_specs": {
+      "source": "scraper-chrome+evtoday",
+      "confidence": 0.85
+    },
+    "indications": {
+      "source": "fda-pma",
+      "confidence": 0.9,
+      "note": "From PMA P170024 original approval order; same indication governs all Surpass devices"
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "scraper-chrome",
+      "confidence": 0.9
+    },
+    "use_notes": {
+      "source": "scraper-chrome",
+      "confidence": 0.85
+    },
+    "also_known_as": {
+      "source": "scraper-chrome",
+      "confidence": 0.7
+    }
+  }
+}

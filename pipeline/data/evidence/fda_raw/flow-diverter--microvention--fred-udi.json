@@ -1,0 +1,212 @@
+[
+  {
+    "device_family": "flow-diverter--microvention--fred",
+    "query_used": "brand_name:\"FRED Flow Diverter (MicroVention/Terumo)\" OR brand_name:\"FRED\" OR brand_name:\"FRED Flow Diverter\"",
+    "raw": {
+      "brand_name": "Fred",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "company_name": "Covidien LP",
+      "customer_contacts": [
+        {
+          "email": "covidien.udi@covidien.com",
+          "phone": "+1(508)261-8000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "device_description": "Anti-Fog Kit",
+      "gmdn_terms": [
+        {
+          "code": "45225",
+          "code_status": "Active",
+          "definition": "A liquid substance intended to be used to prevent the occurrence of condensed vapour (fog) on the lens of an endoscopic instrument during treatment. It will typically be used on the lens of an endoscopic camera where the warmth from an enclosed body cavity creates the conditions to produce fog on the lens. This device will typically be contained in a spray can, bottle, or squeeze bottle. After application, this device cannot be reused.",
+          "implantable": "false",
+          "name": "Endoscope antifog solution"
+        }
+      ],
+      "has_donation_id_number": "false",
+      "has_expiration_date": "true",
+      "has_lot_or_batch_number": "true",
+      "has_manufacturing_date": "false",
+      "has_serial_number": "false",
+      "identifiers": [
+        {
+          "id": "20884521066493",
+          "issuing_agency": "GS1",
+          "package_status": "In Commercial Distribution",
+          "package_type": "CASE",
+          "quantity_per_package": "20",
+          "type": "Package",
+          "unit_of_use_id": "10884521066496"
+        },
+        {
+          "id": "10884521066496",
+          "issuing_agency": "GS1",
+          "type": "Primary"
+        }
+      ],
+      "is_combination_product": "false",
+      "is_direct_marking_exempt": "false",
+      "is_hct_p": "false",
+      "is_kit": "false",
+      "is_labeled_as_no_nrl": "false",
+      "is_labeled_as_nrl": "false",
+      "is_otc": "false",
+      "is_pm_exempt": "false",
+      "is_rx": "true",
+      "is_single_use": "true",
+      "labeler_duns_number": "058614483",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "premarket_submissions": [
+        {
+          "submission_number": "K923843",
+          "supplement_number": "000"
+        }
+      ],
+      "product_codes": [
+        {
+          "code": "HET",
+          "name": "LAPAROSCOPE, GYNECOLOGIC (AND ACCESSORIES)",
+          "openfda": {
+            "device_class": "2",
+            "device_name": "Laparoscope, Gynecologic (And Accessories)",
+            "medical_specialty_description": "Obstetrics/Gynecology",
+            "regulation_number": "884.1720"
+          }
+        }
+      ],
+      "public_device_record_key": "992952cd-48f6-4298-a675-4968691590f6",
+      "public_version_date": "2025-06-24",
+      "public_version_number": "7",
+      "public_version_status": "Update",
+      "publish_date": "2016-09-24",
+      "record_status": "Published",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "storage": [
+        {
+          "high": {
+            "unit": "Degrees Fahrenheit",
+            "value": "130"
+          },
+          "low": {
+            "unit": "Degrees Fahrenheit"
+          },
+          "type": "Handling Environment Temperature"
+        }
+      ],
+      "version_or_model_number": "220-01"
+    },
+    "retrieved_at": "2026-04-15T10:11:13+00:00",
+    "source_id": "fda:udi:record-1",
+    "source_type": "fda",
+    "source_url": "https://api.fda.gov/device/udi.json?search=brand_name%3A%22FRED%20Flow%20Diverter%20%28MicroVention/Terumo%29%22%20OR%20brand_name%3A%22FRED%22%20OR%20brand_name%3A%22FRED%20Flow%20Diverter%22",
+    "title": "Fred"
+  },
+  {
+    "device_family": "flow-diverter--microvention--fred",
+    "query_used": "brand_name:\"FRED Flow Diverter (MicroVention/Terumo)\" OR brand_name:\"FRED\" OR brand_name:\"FRED Flow Diverter\"",
+    "raw": {
+      "brand_name": "Fred 2",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "company_name": "Covidien LP",
+      "customer_contacts": [
+        {
+          "email": "covidien.udi@covidien.com",
+          "phone": "+1(508)261-8000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "device_description": "Anti-Fog Kit",
+      "gmdn_terms": [
+        {
+          "code": "45225",
+          "code_status": "Active",
+          "definition": "A liquid substance intended to be used to prevent the occurrence of condensed vapour (fog) on the lens of an endoscopic instrument during treatment. It will typically be used on the lens of an endoscopic camera where the warmth from an enclosed body cavity creates the conditions to produce fog on the lens. This device will typically be contained in a spray can, bottle, or squeeze bottle. After application, this device cannot be reused.",
+          "implantable": "false",
+          "name": "Endoscope antifog solution"
+        }
+      ],
+      "has_donation_id_number": "false",
+      "has_expiration_date": "true",
+      "has_lot_or_batch_number": "true",
+      "has_manufacturing_date": "false",
+      "has_serial_number": "false",
+      "identifiers": [
+        {
+          "id": "10884521066540",
+          "issuing_agency": "GS1",
+          "package_status": "In Commercial Distribution",
+          "package_type": "CASE",
+          "quantity_per_package": "20",
+          "type": "Package",
+          "unit_of_use_id": "20884521066547"
+        },
+        {
+          "id": "20884521066547",
+          "issuing_agency": "GS1",
+          "type": "Primary"
+        }
+      ],
+      "is_combination_product": "false",
+      "is_direct_marking_exempt": "false",
+      "is_hct_p": "false",
+      "is_kit": "false",
+      "is_labeled_as_no_nrl": "false",
+      "is_labeled_as_nrl": "false",
+      "is_otc": "false",
+      "is_pm_exempt": "false",
+      "is_rx": "true",
+      "is_single_use": "true",
+      "labeler_duns_number": "058614483",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "premarket_submissions": [
+        {
+          "submission_number": "K923843",
+          "supplement_number": "000"
+        }
+      ],
+      "product_codes": [
+        {
+          "code": "HET",
+          "name": "LAPAROSCOPE, GYNECOLOGIC (AND ACCESSORIES)",
+          "openfda": {
+            "device_class": "2",
+            "device_name": "Laparoscope, Gynecologic (And Accessories)",
+            "medical_specialty_description": "Obstetrics/Gynecology",
+            "regulation_number": "884.1720"
+          }
+        }
+      ],
+      "public_device_record_key": "70239f4c-cc64-4e38-888f-ced088d464d7",
+      "public_version_date": "2025-08-21",
+      "public_version_number": "9",
+      "public_version_status": "Update",
+      "publish_date": "2016-09-24",
+      "record_status": "Published",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "storage": [
+        {
+          "high": {
+            "unit": "Degrees Fahrenheit",
+            "value": "130"
+          },
+          "low": {
+            "unit": "Degrees Fahrenheit"
+          },
+          "type": "Handling Environment Temperature"
+        }
+      ],
+      "version_or_model_number": "220-50"
+    },
+    "retrieved_at": "2026-04-15T10:11:13+00:00",
+    "source_id": "fda:udi:record-2",
+    "source_type": "fda",
+    "source_url": "https://api.fda.gov/device/udi.json?search=brand_name%3A%22FRED%20Flow%20Diverter%20%28MicroVention/Terumo%29%22%20OR%20brand_name%3A%22FRED%22%20OR%20brand_name%3A%22FRED%20Flow%20Diverter%22",
+    "title": "Fred 2"
+  }
+]

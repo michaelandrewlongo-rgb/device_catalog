@@ -1,0 +1,21 @@
+{
+  "device_slug": "flow-diverter--stryker--surpass-evolve-flow-diverter-system",
+  "artifact_folder": "flow-diverter--stryker--surpass-evolve-flow-diverter-system",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 557,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/pma/P170024--surpass-evolve-flow-diverter-system.json",
+        "artifact": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--stryker--surpass-evolve-flow-diverter-system/fda_raw/pma/P170024--surpass-evolve-flow-diverter-system.json",
+        "bytes": 557
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "flow-diverter",
+    "label": "Flow diverters noted as separate exemplar"
+  }
+}

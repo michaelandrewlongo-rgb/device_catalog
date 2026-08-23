@@ -1,0 +1,21 @@
+{
+  "device_slug": "csf-shunt--medtronic--ps-medical-strata-nsc-lumboperitoneal-recalls",
+  "artifact_folder": "csf-shunt--medtronic--ps-medical-strata-nsc-lumboperitoneal-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 17526,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/csf-shunt--medtronic--ps-medical-strata-nsc-lumboperitoneal-recalls.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--medtronic--ps-medical-strata-nsc-lumboperitoneal-recalls/extracted/fda_safety/csf-shunt--medtronic--ps-medical-strata-nsc-lumboperitoneal-recalls.json",
+        "bytes": 17526
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

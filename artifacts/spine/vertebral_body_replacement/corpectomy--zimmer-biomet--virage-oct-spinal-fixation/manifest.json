@@ -1,0 +1,42 @@
+{
+  "device_slug": "corpectomy--zimmer-biomet--virage-oct-spinal-fixation",
+  "artifact_folder": "corpectomy--zimmer-biomet--virage-oct-spinal-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 4301,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--zimmer-biomet--virage-oct-spinal-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--zimmer-biomet--virage-oct-spinal-fixation/enriched/corpectomy--zimmer-biomet--virage-oct-spinal-fixation.json",
+        "bytes": 2242
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/corpectomy--zimmer-biomet--virage-oct-spinal-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--zimmer-biomet--virage-oct-spinal-fixation/extracted/fda_structured/corpectomy--zimmer-biomet--virage-oct-spinal-fixation.json",
+        "bytes": 637
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K133556.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--zimmer-biomet--virage-oct-spinal-fixation/fda_raw/KWP/K133556.json",
+        "bytes": 584
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--zimmer-biomet--virage-oct-spinal-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--zimmer-biomet--virage-oct-spinal-fixation/merged/corpectomy--zimmer-biomet--virage-oct-spinal-fixation.json",
+        "bytes": 838
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "device_slug": "interbody-cage--corelink-llc--tiger-spine",
+  "artifact_folder": "interbody-cage--corelink-llc--tiger-spine",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 7,
+  "bytes": 5334,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--corelink-llc--tiger-spine.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--corelink-llc--tiger-spine/enriched/interbody-cage--corelink-llc--tiger-spine.json",
+        "bytes": 1679
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--corelink-llc--tiger-spine.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--corelink-llc--tiger-spine/extracted/fda_structured/interbody-cage--corelink-llc--tiger-spine.json",
+        "bytes": 636
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K113058.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--corelink-llc--tiger-spine/fda_raw/NKB/K113058.json",
+        "bytes": 555
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K121728.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--corelink-llc--tiger-spine/fda_raw/NKB/K121728.json",
+        "bytes": 555
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K131250.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--corelink-llc--tiger-spine/fda_raw/NKB/K131250.json",
+        "bytes": 555
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K133369.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--corelink-llc--tiger-spine/fda_raw/NKB/K133369.json",
+        "bytes": 555
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--corelink-llc--tiger-spine.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--corelink-llc--tiger-spine/merged/interbody-cage--corelink-llc--tiger-spine.json",
+        "bytes": 799
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

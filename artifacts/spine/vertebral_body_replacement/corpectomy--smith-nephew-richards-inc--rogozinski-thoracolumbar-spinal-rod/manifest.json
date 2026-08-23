@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--smith-nephew-richards-inc--rogozinski-thoracolumbar-spinal-rod",
+  "artifact_folder": "corpectomy--smith-nephew-richards-inc--rogozinski-thoracolumbar-spinal-rod",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2961,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--smith-nephew-richards-inc--rogozinski-thoracolumbar-spinal-rod.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--smith-nephew-richards-inc--rogozinski-thoracolumbar-spinal-rod/enriched/corpectomy--smith-nephew-richards-inc--rogozinski-thoracolumbar-spinal-rod.json",
+        "bytes": 1456
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K954696.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--smith-nephew-richards-inc--rogozinski-thoracolumbar-spinal-rod/fda_raw/KWP/K954696.json",
+        "bytes": 630
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--smith-nephew-richards-inc--rogozinski-thoracolumbar-spinal-rod.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--smith-nephew-richards-inc--rogozinski-thoracolumbar-spinal-rod/merged/corpectomy--smith-nephew-richards-inc--rogozinski-thoracolumbar-spinal-rod.json",
+        "bytes": 875
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

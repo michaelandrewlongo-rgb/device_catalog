@@ -1,0 +1,42 @@
+[
+  {
+    "device_family": "flow-diverter--medtronic--pipeline-flex-shield",
+    "query_used": "\"Pipeline Flex Embolization Device\" OR \"Pipeline\" OR \"Pipeline Flex\" OR \"Pipeline Shield\" OR \"Pipeline Flex with Shield Technology\"",
+    "raw": {
+      "abstract": "The Pipeline Flex Embolization Device with Shield technology (PED-Shield [Medtronic, Dublin, Ireland]) is a third-generation flow diverter. Surface modification of the mesh with phosphorylcholine covalently bound to the metal struts aims to reduce thrombogenicity. In the present study, we report the results from the first U.S. series of patients with intracranial aneurysms treated with the PED-Shield and a comprehensive systematic literature review.\nWe retrospectively collected the patient demographics, aneurysm characteristics, procedural details, and periprocedural complications from our prospectively maintained endovascular database (April 2021 to July 2021). Our literature review encompassed 3 databases (PubMed, Embase, and MEDLINE).\nTen patients with 11 anterior circulation unruptured wide-necked aneurysms (10 saccular, 1 fusiform) were included. The average patient age was 64.7 years (range, 45-86 years), and 9 were women. One device demonstrated insufficient distal opening. No other technical issues or intraprocedural complications had occurred. After the procedure, 1 patient had developed a groin hematoma and 1 had experienced a small intracranial hemorrhage, with no clinical repercussions. All patients were discharged with dual-antiplatelet therapy. In the review, we identified 15 studies. Most had been conducted in Europe and South America and 3 were U.S. case reports of compassionate use of the device.\nIn our initial periprocedural experience with the PED-Shield for intracranial aneurysm treatment, the device demonstrated an excellent performance and no major complications. Further studies are required to evaluate the long-term follow-up results and the safety of different antiplatelet regimens.",
+      "doi": "10.1016/j.wneu.2021.12.031",
+      "journal": "World neurosurgery",
+      "matched_device_family": "flow-diverter--medtronic--pipeline-flex-shield",
+      "pmid": "34920157",
+      "publication_date": "2022-Mar",
+      "query_used": "\"Pipeline Flex Embolization Device\" OR \"Pipeline\" OR \"Pipeline Flex\" OR \"Pipeline Shield\" OR \"Pipeline Flex with Shield Technology\"",
+      "source_retrieved_at": "2026-04-15T10:10:59+00:00",
+      "title": "First U.S. Experience Using the Pipeline Flex Embolization Device with Shield Technology for Treatment of Intracranial Aneurysms."
+    },
+    "retrieved_at": "2026-04-15T10:10:59+00:00",
+    "source_id": "pubmed:34920157",
+    "source_type": "pubmed",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/34920157/",
+    "title": "First U.S. Experience Using the Pipeline Flex Embolization Device with Shield Technology for Treatment of Intracranial Aneurysms."
+  },
+  {
+    "device_family": "flow-diverter--medtronic--pipeline-flex-shield",
+    "query_used": "\"Pipeline Flex Embolization Device\" OR \"Pipeline\" OR \"Pipeline Flex\" OR \"Pipeline Shield\" OR \"Pipeline Flex with Shield Technology\"",
+    "raw": {
+      "abstract": "Clinical trials for Alzheimer's disease (AD) must be registered on clinicaltrials.gov. The registry presents a variety of types of information related to the planned clinical trial. We assess clinicaltrials.gov to document and compare aspects of drug development across the AD pipeline. Currently, there are 138 drugs being assessed in 182 clinical trials in the AD pipeline. Biological disease-targeted therapies (DTTs) comprise 30% of the pipeline; small molecule DTTs account for 43% of the pipeline; drugs addressing cognitive enhancement account for 14% of the pipeline; and drugs aiming to ameliorate neuropsychiatric symptoms in participants with AD contribute 11% of the pipeline. Biomarkers are among the primary outcomes of 27% of active trials. Repurposed agents represent 33% of the pipeline agents. The pipeline has more trials and more drugs compared to the 2024 pipeline.\nThe 2025 Alzheimer's disease drug development pipeline hosts 182 trials and 138 novel drugs.The 2025 Alzheimer's disease drug development pipeline is diverse, with agents that address 15 basic disease processes.The 2025 Alzheimer's disease drug development pipeline has more trials and more drugs than the 2024 pipeline.Biomarkers play an important role in current trials to determine trial eligibility and as outcomes of trials.Repurposed agents comprise approximately one-third of the agents and trials in the 2025 Alzheimer's disease drug development pipeline.",
+      "doi": "10.1002/trc2.70098",
+      "journal": "Alzheimer's & dementia (New York, N. Y.)",
+      "matched_device_family": "flow-diverter--medtronic--pipeline-flex-shield",
+      "pmid": "40463637",
+      "publication_date": "2025",
+      "query_used": "\"Pipeline Flex Embolization Device\" OR \"Pipeline\" OR \"Pipeline Flex\" OR \"Pipeline Shield\" OR \"Pipeline Flex with Shield Technology\"",
+      "source_retrieved_at": "2026-04-15T10:10:59+00:00",
+      "title": "Alzheimer's disease drug development pipeline: 2025."
+    },
+    "retrieved_at": "2026-04-15T10:10:59+00:00",
+    "source_id": "pubmed:40463637",
+    "source_type": "pubmed",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/40463637/",
+    "title": "Alzheimer's disease drug development pipeline: 2025."
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "device_slug": "pedicle-screw--zavation-medical-products-llc--zavation-ezspand-interbody",
+  "artifact_folder": "pedicle-screw--zavation-medical-products-llc--zavation-ezspand-interbody",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3601,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--zavation-medical-products-llc--zavation-ezspand-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--zavation-medical-products-llc--zavation-ezspand-interbody/enriched/pedicle-screw--zavation-medical-products-llc--zavation-ezspand-interbody.json",
+        "bytes": 1457
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K191339.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--zavation-medical-products-llc--zavation-ezspand-interbody/fda_raw/MAX/K191339.json",
+        "bytes": 634
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K220581.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--zavation-medical-products-llc--zavation-ezspand-interbody/fda_raw/MAX/K220581.json",
+        "bytes": 634
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--zavation-medical-products-llc--zavation-ezspand-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--zavation-medical-products-llc--zavation-ezspand-interbody/merged/pedicle-screw--zavation-medical-products-llc--zavation-ezspand-interbody.json",
+        "bytes": 876
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

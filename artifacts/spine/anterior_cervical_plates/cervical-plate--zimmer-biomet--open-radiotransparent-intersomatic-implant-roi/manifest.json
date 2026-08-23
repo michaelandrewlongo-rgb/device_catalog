@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--zimmer-biomet--open-radiotransparent-intersomatic-implant-roi",
+  "artifact_folder": "cervical-plate--zimmer-biomet--open-radiotransparent-intersomatic-implant-roi",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2995,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--zimmer-biomet--open-radiotransparent-intersomatic-implant-roi.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--zimmer-biomet--open-radiotransparent-intersomatic-implant-roi/enriched/cervical-plate--zimmer-biomet--open-radiotransparent-intersomatic-implant-roi.json",
+        "bytes": 1477
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K043349.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--zimmer-biomet--open-radiotransparent-intersomatic-implant-roi/fda_raw/MQP/K043349.json",
+        "bytes": 622
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--zimmer-biomet--open-radiotransparent-intersomatic-implant-roi.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--zimmer-biomet--open-radiotransparent-intersomatic-implant-roi/merged/cervical-plate--zimmer-biomet--open-radiotransparent-intersomatic-implant-roi.json",
+        "bytes": 896
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

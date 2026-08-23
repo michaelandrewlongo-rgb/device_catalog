@@ -1,0 +1,35 @@
+{
+  "device_slug": "dural-substitute--shelhigh-inc--shelhigh-no-react-dura-shield",
+  "artifact_folder": "dural-substitute--shelhigh-inc--shelhigh-no-react-dura-shield",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3106,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/dural-substitute--shelhigh-inc--shelhigh-no-react-dura-shield.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--shelhigh-inc--shelhigh-no-react-dura-shield/enriched/dural-substitute--shelhigh-inc--shelhigh-no-react-dura-shield.json",
+        "bytes": 1675
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/GXQ/K982101.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--shelhigh-inc--shelhigh-no-react-dura-shield/fda_raw/GXQ/K982101.json",
+        "bytes": 588
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/dural-substitute--shelhigh-inc--shelhigh-no-react-dura-shield.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--shelhigh-inc--shelhigh-no-react-dura-shield/merged/dural-substitute--shelhigh-inc--shelhigh-no-react-dura-shield.json",
+        "bytes": 843
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "dural-substitute",
+    "label": "Outside listed seed registries"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "device_slug": "interbody-cage--orthopediatrics-corp--response-5-5-6-0",
+  "artifact_folder": "interbody-cage--orthopediatrics-corp--response-5-5-6-0",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 4883,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--orthopediatrics-corp--response-5-5-6-0.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--orthopediatrics-corp--response-5-5-6-0/enriched/interbody-cage--orthopediatrics-corp--response-5-5-6-0.json",
+        "bytes": 2201
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--orthopediatrics-corp--response-5-5-6-0.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--orthopediatrics-corp--response-5-5-6-0/extracted/fda_structured/interbody-cage--orthopediatrics-corp--response-5-5-6-0.json",
+        "bytes": 617
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K150600.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--orthopediatrics-corp--response-5-5-6-0/fda_raw/NKB/K150600.json",
+        "bytes": 595
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K222105.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--orthopediatrics-corp--response-5-5-6-0/fda_raw/NKB/K222105.json",
+        "bytes": 606
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--orthopediatrics-corp--response-5-5-6-0.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--orthopediatrics-corp--response-5-5-6-0/merged/interbody-cage--orthopediatrics-corp--response-5-5-6-0.json",
+        "bytes": 864
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

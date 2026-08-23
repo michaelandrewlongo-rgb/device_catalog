@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--medtronic--venture-anterior-cervical-plate-system",
+  "artifact_folder": "cervical-plate--medtronic--venture-anterior-cervical-plate-system",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3309,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--medtronic--venture-anterior-cervical-plate-system.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--venture-anterior-cervical-plate-system/enriched/cervical-plate--medtronic--venture-anterior-cervical-plate-system.json",
+        "bytes": 2016
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--medtronic--venture-anterior-cervical-plate-system.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--venture-anterior-cervical-plate-system/merged/cervical-plate--medtronic--venture-anterior-cervical-plate-system.json",
+        "bytes": 906
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/medtronic/venture-anterior-cervical-plate-system.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--venture-anterior-cervical-plate-system/scraper_raw/medtronic/venture-anterior-cervical-plate-system.json",
+        "bytes": 387
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

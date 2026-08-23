@@ -1,0 +1,57 @@
+{
+  "device_slug": "interbody-cage--altus-partners-llc--altus-spine-pedicle-screw",
+  "artifact_folder": "interbody-cage--altus-partners-llc--altus-spine-pedicle-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 7,
+  "bytes": 5526,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--altus-partners-llc--altus-spine-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--altus-partners-llc--altus-spine-pedicle-screw/enriched/interbody-cage--altus-partners-llc--altus-spine-pedicle-screw.json",
+        "bytes": 1676
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--altus-partners-llc--altus-spine-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--altus-partners-llc--altus-spine-pedicle-screw/extracted/fda_structured/interbody-cage--altus-partners-llc--altus-spine-pedicle-screw.json",
+        "bytes": 593
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K181281.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--altus-partners-llc--altus-spine-pedicle-screw/fda_raw/NKB/K181281.json",
+        "bytes": 601
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K181339.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--altus-partners-llc--altus-spine-pedicle-screw/fda_raw/NKB/K181339.json",
+        "bytes": 601
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K200322.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--altus-partners-llc--altus-spine-pedicle-screw/fda_raw/NKB/K200322.json",
+        "bytes": 601
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K211027.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--altus-partners-llc--altus-spine-pedicle-screw/fda_raw/NKB/K211027.json",
+        "bytes": 601
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--altus-partners-llc--altus-spine-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--altus-partners-llc--altus-spine-pedicle-screw/merged/interbody-cage--altus-partners-llc--altus-spine-pedicle-screw.json",
+        "bytes": 853
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "device_slug": "nspr-technique--sacroiliac-fusion--si-bone--ifuse-torq",
+  "artifact_folder": "nspr-technique--sacroiliac-fusion--si-bone--ifuse-torq",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 6389,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/documents/nspr-technique--sacroiliac-fusion--si-bone--ifuse-torq.json",
+        "artifact": "artifacts/_outside_seed_registries/nspr-technique/nspr-technique--sacroiliac-fusion--si-bone--ifuse-torq/extracted/documents/nspr-technique--sacroiliac-fusion--si-bone--ifuse-torq.json",
+        "bytes": 6389
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "nspr-technique",
+    "label": "Outside listed seed registries"
+  }
+}

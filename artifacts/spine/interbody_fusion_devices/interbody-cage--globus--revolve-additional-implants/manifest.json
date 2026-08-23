@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--globus--revolve-additional-implants",
+  "artifact_folder": "interbody-cage--globus--revolve-additional-implants",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2798,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--globus--revolve-additional-implants.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--globus--revolve-additional-implants/enriched/interbody-cage--globus--revolve-additional-implants.json",
+        "bytes": 1402
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K111449.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--globus--revolve-additional-implants/fda_raw/NKB/K111449.json",
+        "bytes": 575
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--globus--revolve-additional-implants.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--globus--revolve-additional-implants/merged/interbody-cage--globus--revolve-additional-implants.json",
+        "bytes": 821
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

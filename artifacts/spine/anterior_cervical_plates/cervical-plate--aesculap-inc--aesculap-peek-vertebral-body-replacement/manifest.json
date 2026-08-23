@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--aesculap-inc--aesculap-peek-vertebral-body-replacement",
+  "artifact_folder": "cervical-plate--aesculap-inc--aesculap-peek-vertebral-body-replacement",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2967,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--aesculap-inc--aesculap-peek-vertebral-body-replacement.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--aesculap-inc--aesculap-peek-vertebral-body-replacement/enriched/cervical-plate--aesculap-inc--aesculap-peek-vertebral-body-replacement.json",
+        "bytes": 1467
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K060762.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--aesculap-inc--aesculap-peek-vertebral-body-replacement/fda_raw/MQP/K060762.json",
+        "bytes": 614
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--aesculap-inc--aesculap-peek-vertebral-body-replacement.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--aesculap-inc--aesculap-peek-vertebral-body-replacement/merged/cervical-plate--aesculap-inc--aesculap-peek-vertebral-body-replacement.json",
+        "bytes": 886
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

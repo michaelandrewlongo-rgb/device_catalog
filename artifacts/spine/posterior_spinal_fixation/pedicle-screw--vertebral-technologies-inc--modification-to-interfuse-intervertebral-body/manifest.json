@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--vertebral-technologies-inc--modification-to-interfuse-intervertebral-body",
+  "artifact_folder": "pedicle-screw--vertebral-technologies-inc--modification-to-interfuse-intervertebral-body",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3204,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--vertebral-technologies-inc--modification-to-interfuse-intervertebral-body.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--vertebral-technologies-inc--modification-to-interfuse-intervertebral-body/enriched/pedicle-screw--vertebral-technologies-inc--modification-to-interfuse-intervertebral-body.json",
+        "bytes": 1550
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K091988.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--vertebral-technologies-inc--modification-to-interfuse-intervertebral-body/fda_raw/MAX/K091988.json",
+        "bytes": 685
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--vertebral-technologies-inc--modification-to-interfuse-intervertebral-body.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--vertebral-technologies-inc--modification-to-interfuse-intervertebral-body/merged/pedicle-screw--vertebral-technologies-inc--modification-to-interfuse-intervertebral-body.json",
+        "bytes": 969
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

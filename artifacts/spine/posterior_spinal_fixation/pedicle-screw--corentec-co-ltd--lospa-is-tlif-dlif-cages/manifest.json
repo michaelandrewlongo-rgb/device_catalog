@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--corentec-co-ltd--lospa-is-tlif-dlif-cages",
+  "artifact_folder": "pedicle-screw--corentec-co-ltd--lospa-is-tlif-dlif-cages",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2830,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--corentec-co-ltd--lospa-is-tlif-dlif-cages.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--corentec-co-ltd--lospa-is-tlif-dlif-cages/enriched/pedicle-screw--corentec-co-ltd--lospa-is-tlif-dlif-cages.json",
+        "bytes": 1413
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K170243.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--corentec-co-ltd--lospa-is-tlif-dlif-cages/fda_raw/MAX/K170243.json",
+        "bytes": 585
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--corentec-co-ltd--lospa-is-tlif-dlif-cages.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--corentec-co-ltd--lospa-is-tlif-dlif-cages/merged/pedicle-screw--corentec-co-ltd--lospa-is-tlif-dlif-cages.json",
+        "bytes": 832
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--osteomed-lp--primal-ok-interspinous-fusion",
+  "artifact_folder": "corpectomy--osteomed-lp--primal-ok-interspinous-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2846,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--osteomed-lp--primal-ok-interspinous-fusion.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--osteomed-lp--primal-ok-interspinous-fusion/enriched/corpectomy--osteomed-lp--primal-ok-interspinous-fusion.json",
+        "bytes": 1424
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K100354.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--osteomed-lp--primal-ok-interspinous-fusion/fda_raw/KWP/K100354.json",
+        "bytes": 579
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--osteomed-lp--primal-ok-interspinous-fusion.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--osteomed-lp--primal-ok-interspinous-fusion/merged/corpectomy--osteomed-lp--primal-ok-interspinous-fusion.json",
+        "bytes": 843
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

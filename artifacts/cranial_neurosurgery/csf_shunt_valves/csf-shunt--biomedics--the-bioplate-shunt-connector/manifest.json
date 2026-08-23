@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--biomedics--the-bioplate-shunt-connector",
+  "artifact_folder": "csf-shunt--biomedics--the-bioplate-shunt-connector",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2782,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--biomedics--the-bioplate-shunt-connector.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--biomedics--the-bioplate-shunt-connector/enriched/csf-shunt--biomedics--the-bioplate-shunt-connector.json",
+        "bytes": 1401
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K984583.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--biomedics--the-bioplate-shunt-connector/fda_raw/JXG/K984583.json",
+        "bytes": 561
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--biomedics--the-bioplate-shunt-connector.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--biomedics--the-bioplate-shunt-connector/merged/csf-shunt--biomedics--the-bioplate-shunt-connector.json",
+        "bytes": 820
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "device_slug": "pedicle-screw--depuy--depuy-synthes-t-pal-spacer",
+  "artifact_folder": "pedicle-screw--depuy--depuy-synthes-t-pal-spacer",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 574,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K181231.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--depuy--depuy-synthes-t-pal-spacer/fda_raw/MAX/K181231.json",
+        "bytes": 574
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

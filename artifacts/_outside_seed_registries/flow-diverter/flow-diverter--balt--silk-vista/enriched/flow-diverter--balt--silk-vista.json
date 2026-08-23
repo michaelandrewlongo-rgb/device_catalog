@@ -1,0 +1,61 @@
+{
+  "device_name": "Silk Vista",
+  "manufacturer": "balt",
+  "catalog_category": "flow-diverter",
+  "filename_stem": "flow-diverter--balt--silk-vista",
+  "clearance_type": "ce-mark",
+  "clearance_number": "CE0297",
+  "clearance_date": "2020",
+  "device_class": 3,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "Self-expandable intracranial flow diverter for the treatment of intracranial aneurysms. Constructed from 48 braided wires using advanced platinum core nitinol Drawn Filled Tubes (DFT) technology, making the device entirely visible under fluoroscopy. Part of the Silk family (SILK+ 2012, Silk Vista 2020, Silk Vista Baby 2018).",
+  "sizing_specs": "Delivery catheter compatibility: 0.021\" for diameters up to 5.0 mm unconstrained. Silk Vista Baby variant is deliverable through a 0.017\" catheter for distal vasculature.",
+  "indications": "Self-expandable flow diverter designed for the treatment of intracranial aneurysms. CE marked Class III (CE0297) per Medical Device Directive 93/42/EEC amended by 2007/47/EC. Not FDA cleared for US market.",
+  "contraindications": null,
+  "compatible_with": "0.021\" delivery microcatheter (Silk Vista); 0.017\" delivery microcatheter (Silk Vista Baby variant)",
+  "use_notes": "48 braided wires provide escalating flow diversion compared to SILK+. Platinum core nitinol DFT wires make the device entirely fluoroscopically visible. Silk Vista Baby is the only flow diverter deliverable through a 0.017\" catheter, widening opportunities in the distal vasculature. Manufactured by BALT EXTRUSION SAS.",
+  "deployment_steps": null,
+  "also_known_as": [
+    "SILK VISTA",
+    "Silk family"
+  ],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://baltgroup.com/products/silk-vista",
+  "confidence_score": 0.75,
+  "needs_review": true,
+  "data_sources": [
+    "scraper-chrome"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "scraper-chrome",
+      "confidence": 0.8
+    },
+    "sizing_specs": {
+      "source": "scraper-chrome",
+      "confidence": 0.7
+    },
+    "indications": {
+      "source": "scraper-chrome",
+      "confidence": 0.7
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "scraper-chrome",
+      "confidence": 0.8
+    },
+    "use_notes": {
+      "source": "scraper-chrome",
+      "confidence": 0.8
+    },
+    "also_known_as": {
+      "source": "scraper-chrome",
+      "confidence": 0.5
+    }
+  }
+}

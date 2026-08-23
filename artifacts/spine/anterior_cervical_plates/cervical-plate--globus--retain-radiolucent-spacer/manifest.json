@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--globus--retain-radiolucent-spacer",
+  "artifact_folder": "cervical-plate--globus--retain-radiolucent-spacer",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2782,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--globus--retain-radiolucent-spacer.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--globus--retain-radiolucent-spacer/enriched/cervical-plate--globus--retain-radiolucent-spacer.json",
+        "bytes": 1396
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K061380.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--globus--retain-radiolucent-spacer/fda_raw/MQP/K061380.json",
+        "bytes": 571
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--globus--retain-radiolucent-spacer.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--globus--retain-radiolucent-spacer/merged/cervical-plate--globus--retain-radiolucent-spacer.json",
+        "bytes": 815
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

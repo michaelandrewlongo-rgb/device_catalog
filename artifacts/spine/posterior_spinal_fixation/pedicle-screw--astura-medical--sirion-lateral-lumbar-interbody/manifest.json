@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--astura-medical--sirion-lateral-lumbar-interbody",
+  "artifact_folder": "pedicle-screw--astura-medical--sirion-lateral-lumbar-interbody",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2901,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--astura-medical--sirion-lateral-lumbar-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--astura-medical--sirion-lateral-lumbar-interbody/enriched/pedicle-screw--astura-medical--sirion-lateral-lumbar-interbody.json",
+        "bytes": 1442
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K223335.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--astura-medical--sirion-lateral-lumbar-interbody/fda_raw/MAX/K223335.json",
+        "bytes": 598
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--astura-medical--sirion-lateral-lumbar-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--astura-medical--sirion-lateral-lumbar-interbody/merged/pedicle-screw--astura-medical--sirion-lateral-lumbar-interbody.json",
+        "bytes": 861
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

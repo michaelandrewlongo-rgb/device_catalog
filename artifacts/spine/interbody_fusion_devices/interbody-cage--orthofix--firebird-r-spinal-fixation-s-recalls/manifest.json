@@ -1,0 +1,21 @@
+{
+  "device_slug": "interbody-cage--orthofix--firebird-r-spinal-fixation-s-recalls",
+  "artifact_folder": "interbody-cage--orthofix--firebird-r-spinal-fixation-s-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 5881,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/interbody-cage--orthofix--firebird-r-spinal-fixation-s-recalls.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--orthofix--firebird-r-spinal-fixation-s-recalls/extracted/fda_safety/interbody-cage--orthofix--firebird-r-spinal-fixation-s-recalls.json",
+        "bytes": 5881
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

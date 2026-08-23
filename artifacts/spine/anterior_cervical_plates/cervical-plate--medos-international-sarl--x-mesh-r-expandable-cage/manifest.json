@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--medos-international-sarl--x-mesh-r-expandable-cage",
+  "artifact_folder": "cervical-plate--medos-international-sarl--x-mesh-r-expandable-cage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 5279,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--medos-international-sarl--x-mesh-r-expandable-cage.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medos-international-sarl--x-mesh-r-expandable-cage/enriched/cervical-plate--medos-international-sarl--x-mesh-r-expandable-cage.json",
+        "bytes": 2351
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K173787.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medos-international-sarl--x-mesh-r-expandable-cage/fda_raw/MQP/K173787.json",
+        "bytes": 1070
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--medos-international-sarl--x-mesh-r-expandable-cage.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medos-international-sarl--x-mesh-r-expandable-cage/merged/cervical-plate--medos-international-sarl--x-mesh-r-expandable-cage.json",
+        "bytes": 1858
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

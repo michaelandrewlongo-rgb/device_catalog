@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--expanding-orthopedics-inc--eoi-spinal",
+  "artifact_folder": "interbody-cage--expanding-orthopedics-inc--eoi-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2818,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--expanding-orthopedics-inc--eoi-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--expanding-orthopedics-inc--eoi-spinal/enriched/interbody-cage--expanding-orthopedics-inc--eoi-spinal.json",
+        "bytes": 1403
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K083825.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--expanding-orthopedics-inc--eoi-spinal/fda_raw/NKB/K083825.json",
+        "bytes": 593
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--expanding-orthopedics-inc--eoi-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--expanding-orthopedics-inc--eoi-spinal/merged/interbody-cage--expanding-orthopedics-inc--eoi-spinal.json",
+        "bytes": 822
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

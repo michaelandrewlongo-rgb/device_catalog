@@ -1,0 +1,52 @@
+{
+  "device_slug": "interbody-cage--spinecraft-llc--astra-spine",
+  "artifact_folder": "interbody-cage--spinecraft-llc--astra-spine",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 4797,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--spinecraft-llc--astra-spine.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spinecraft-llc--astra-spine/enriched/interbody-cage--spinecraft-llc--astra-spine.json",
+        "bytes": 1679
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--spinecraft-llc--astra-spine.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spinecraft-llc--astra-spine/extracted/fda_structured/interbody-cage--spinecraft-llc--astra-spine.json",
+        "bytes": 632
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K150417.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spinecraft-llc--astra-spine/fda_raw/NKB/K150417.json",
+        "bytes": 561
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K211323.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spinecraft-llc--astra-spine/fda_raw/NKB/K211323.json",
+        "bytes": 561
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K223273.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spinecraft-llc--astra-spine/fda_raw/NKB/K223273.json",
+        "bytes": 561
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--spinecraft-llc--astra-spine.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spinecraft-llc--astra-spine/merged/interbody-cage--spinecraft-llc--astra-spine.json",
+        "bytes": 803
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--globus--h-link-integrated-rod",
+  "artifact_folder": "interbody-cage--globus--h-link-integrated-rod",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2750,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--globus--h-link-integrated-rod.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--globus--h-link-integrated-rod/enriched/interbody-cage--globus--h-link-integrated-rod.json",
+        "bytes": 1384
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K073517.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--globus--h-link-integrated-rod/fda_raw/NKB/K073517.json",
+        "bytes": 563
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--globus--h-link-integrated-rod.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--globus--h-link-integrated-rod/merged/interbody-cage--globus--h-link-integrated-rod.json",
+        "bytes": 803
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

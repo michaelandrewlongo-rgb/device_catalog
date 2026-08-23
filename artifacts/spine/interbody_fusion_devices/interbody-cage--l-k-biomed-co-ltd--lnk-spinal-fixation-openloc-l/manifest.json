@@ -1,0 +1,55 @@
+{
+  "device_slug": "interbody-cage--l-k-biomed-co-ltd--lnk-spinal-fixation-openloc-l",
+  "artifact_folder": "interbody-cage--l-k-biomed-co-ltd--lnk-spinal-fixation-openloc-l",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 7,
+  "bytes": 5838,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--l-k-biomed-co-ltd--lnk-spinal-fixation-openloc-l.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--l-k-biomed-co-ltd--lnk-spinal-fixation-openloc-l/enriched/interbody-cage--l-k-biomed-co-ltd--lnk-spinal-fixation-openloc-l.json",
+        "bytes": 1558
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K200790.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--l-k-biomed-co-ltd--lnk-spinal-fixation-openloc-l/fda_raw/NKB/K200790.json",
+        "bytes": 634
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K223565.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--l-k-biomed-co-ltd--lnk-spinal-fixation-openloc-l/fda_raw/NKB/K223565.json",
+        "bytes": 668
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K230245.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--l-k-biomed-co-ltd--lnk-spinal-fixation-openloc-l/fda_raw/NKB/K230245.json",
+        "bytes": 666
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K231636.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--l-k-biomed-co-ltd--lnk-spinal-fixation-openloc-l/fda_raw/NKB/K231636.json",
+        "bytes": 668
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K232311.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--l-k-biomed-co-ltd--lnk-spinal-fixation-openloc-l/fda_raw/NKB/K232311.json",
+        "bytes": 667
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--l-k-biomed-co-ltd--lnk-spinal-fixation-openloc-l.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--l-k-biomed-co-ltd--lnk-spinal-fixation-openloc-l/merged/interbody-cage--l-k-biomed-co-ltd--lnk-spinal-fixation-openloc-l.json",
+        "bytes": 977
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--corelink-llc--corelink-foundation-3d-anterior-lumbar",
+  "artifact_folder": "pedicle-screw--corelink-llc--corelink-foundation-3d-anterior-lumbar",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3223,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--corelink-llc--corelink-foundation-3d-anterior-lumbar.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--corelink-llc--corelink-foundation-3d-anterior-lumbar/enriched/pedicle-screw--corelink-llc--corelink-foundation-3d-anterior-lumbar.json",
+        "bytes": 1738
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K180556.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--corelink-llc--corelink-foundation-3d-anterior-lumbar/fda_raw/MAX/K180556.json",
+        "bytes": 607
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--corelink-llc--corelink-foundation-3d-anterior-lumbar.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--corelink-llc--corelink-foundation-3d-anterior-lumbar/merged/pedicle-screw--corelink-llc--corelink-foundation-3d-anterior-lumbar.json",
+        "bytes": 878
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

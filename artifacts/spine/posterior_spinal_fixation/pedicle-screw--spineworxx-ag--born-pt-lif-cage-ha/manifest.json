@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--spineworxx-ag--born-pt-lif-cage-ha",
+  "artifact_folder": "pedicle-screw--spineworxx-ag--born-pt-lif-cage-ha",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2763,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--spineworxx-ag--born-pt-lif-cage-ha.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spineworxx-ag--born-pt-lif-cage-ha/enriched/pedicle-screw--spineworxx-ag--born-pt-lif-cage-ha.json",
+        "bytes": 1390
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K202380.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spineworxx-ag--born-pt-lif-cage-ha/fda_raw/MAX/K202380.json",
+        "bytes": 564
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--spineworxx-ag--born-pt-lif-cage-ha.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spineworxx-ag--born-pt-lif-cage-ha/merged/pedicle-screw--spineworxx-ag--born-pt-lif-cage-ha.json",
+        "bytes": 809
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

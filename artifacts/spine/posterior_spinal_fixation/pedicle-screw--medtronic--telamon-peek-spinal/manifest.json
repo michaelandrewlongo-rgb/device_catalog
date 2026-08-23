@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--medtronic--telamon-peek-spinal",
+  "artifact_folder": "pedicle-screw--medtronic--telamon-peek-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2788,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--medtronic--telamon-peek-spinal.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--telamon-peek-spinal/enriched/pedicle-screw--medtronic--telamon-peek-spinal.json",
+        "bytes": 1396
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K110562.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--telamon-peek-spinal/fda_raw/MAX/K110562.json",
+        "bytes": 577
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--medtronic--telamon-peek-spinal.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--telamon-peek-spinal/merged/pedicle-screw--medtronic--telamon-peek-spinal.json",
+        "bytes": 815
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

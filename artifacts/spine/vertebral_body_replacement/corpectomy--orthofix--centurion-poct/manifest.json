@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--orthofix--centurion-poct",
+  "artifact_folder": "corpectomy--orthofix--centurion-poct",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3243,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--orthofix--centurion-poct.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--orthofix--centurion-poct/enriched/corpectomy--orthofix--centurion-poct.json",
+        "bytes": 1905
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K131833.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--orthofix--centurion-poct/fda_raw/KWP/K131833.json",
+        "bytes": 546
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--orthofix--centurion-poct.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--orthofix--centurion-poct/merged/corpectomy--orthofix--centurion-poct.json",
+        "bytes": 792
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

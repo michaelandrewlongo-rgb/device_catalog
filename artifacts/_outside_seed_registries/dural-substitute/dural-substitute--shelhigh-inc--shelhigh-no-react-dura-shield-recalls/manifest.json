@@ -1,0 +1,21 @@
+{
+  "device_slug": "dural-substitute--shelhigh-inc--shelhigh-no-react-dura-shield-recalls",
+  "artifact_folder": "dural-substitute--shelhigh-inc--shelhigh-no-react-dura-shield-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 457,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/dural-substitute--shelhigh-inc--shelhigh-no-react-dura-shield-recalls.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--shelhigh-inc--shelhigh-no-react-dura-shield-recalls/extracted/fda_safety/dural-substitute--shelhigh-inc--shelhigh-no-react-dura-shield-recalls.json",
+        "bytes": 457
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "dural-substitute",
+    "label": "Outside listed seed registries"
+  }
+}

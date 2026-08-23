@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--spine-vision-inc--plus-pivot-link-universal",
+  "artifact_folder": "corpectomy--spine-vision-inc--plus-pivot-link-universal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2851,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--spine-vision-inc--plus-pivot-link-universal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--spine-vision-inc--plus-pivot-link-universal/enriched/corpectomy--spine-vision-inc--plus-pivot-link-universal.json",
+        "bytes": 1422
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K021507.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--spine-vision-inc--plus-pivot-link-universal/fda_raw/KWP/K021507.json",
+        "bytes": 588
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--spine-vision-inc--plus-pivot-link-universal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--spine-vision-inc--plus-pivot-link-universal/merged/corpectomy--spine-vision-inc--plus-pivot-link-universal.json",
+        "bytes": 841
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

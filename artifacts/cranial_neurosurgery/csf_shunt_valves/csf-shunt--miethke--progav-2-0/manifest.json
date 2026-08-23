@@ -1,0 +1,33 @@
+{
+  "device_slug": "csf-shunt--miethke--progav-2-0",
+  "artifact_folder": "csf-shunt--miethke--progav-2-0",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3789436,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/csf-shunt--miethke--progav-2-0--brochure.pdf",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--miethke--progav-2-0/data_by_device/csf-shunt--miethke--progav-2-0--brochure.pdf",
+        "bytes": 3763070
+      },
+      {
+        "source": "pipeline/data/data_by_device/csf-shunt--miethke--progav-2-0--knowledge.md",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--miethke--progav-2-0/data_by_device/csf-shunt--miethke--progav-2-0--knowledge.md",
+        "bytes": 6710
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/documents/csf-shunt--miethke--progav-2-0--brochure.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--miethke--progav-2-0/extracted/documents/csf-shunt--miethke--progav-2-0--brochure.json",
+        "bytes": 19656
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

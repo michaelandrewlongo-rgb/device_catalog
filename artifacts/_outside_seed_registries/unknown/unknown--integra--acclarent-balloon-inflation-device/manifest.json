@@ -1,0 +1,35 @@
+{
+  "device_slug": "unknown--integra--acclarent-balloon-inflation-device",
+  "artifact_folder": "unknown--integra--acclarent-balloon-inflation-device",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2770,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/unknown--integra--acclarent-balloon-inflation-device.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--integra--acclarent-balloon-inflation-device/enriched/unknown--integra--acclarent-balloon-inflation-device.json",
+        "bytes": 1409
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/unknown--integra--acclarent-balloon-inflation-device.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--integra--acclarent-balloon-inflation-device/merged/unknown--integra--acclarent-balloon-inflation-device.json",
+        "bytes": 828
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/integra/acclarent-balloon-inflation-device.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--integra--acclarent-balloon-inflation-device/scraper_raw/integra/acclarent-balloon-inflation-device.json",
+        "bytes": 533
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "unknown",
+    "label": "Outside listed seed registries"
+  }
+}

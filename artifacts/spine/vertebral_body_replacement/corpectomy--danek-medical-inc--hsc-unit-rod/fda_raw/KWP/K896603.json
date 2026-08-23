@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K896603",
+  "clearance_date": "1990-01-30",
+  "device_class": 2,
+  "manufacturer_canonical": "danek-medical-inc",
+  "manufacturer_raw": "Danek Medical, Inc.",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "HSC UNIT ROD",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--danek-medical-inc--hsc-unit-rod",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf89/K896603.pdf"
+}

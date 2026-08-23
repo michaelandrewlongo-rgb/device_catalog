@@ -1,0 +1,40 @@
+{
+  "device_slug": "pedicle-screw--spineex-inc--spineex-sagittae-lateral-lumbar-interbody",
+  "artifact_folder": "pedicle-screw--spineex-inc--spineex-sagittae-lateral-lumbar-interbody",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3621,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--spineex-inc--spineex-sagittae-lateral-lumbar-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spineex-inc--spineex-sagittae-lateral-lumbar-interbody/enriched/pedicle-screw--spineex-inc--spineex-sagittae-lateral-lumbar-interbody.json",
+        "bytes": 1482
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K181531.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spineex-inc--spineex-sagittae-lateral-lumbar-interbody/fda_raw/MAX/K181531.json",
+        "bytes": 619
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K200816.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spineex-inc--spineex-sagittae-lateral-lumbar-interbody/fda_raw/MAX/K200816.json",
+        "bytes": 619
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--spineex-inc--spineex-sagittae-lateral-lumbar-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spineex-inc--spineex-sagittae-lateral-lumbar-interbody/merged/pedicle-screw--spineex-inc--spineex-sagittae-lateral-lumbar-interbody.json",
+        "bytes": 901
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

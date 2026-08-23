@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--globus--revere-6-35-stabilization",
+  "artifact_folder": "interbody-cage--globus--revere-6-35-stabilization",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2817,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--globus--revere-6-35-stabilization.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--globus--revere-6-35-stabilization/enriched/interbody-cage--globus--revere-6-35-stabilization.json",
+        "bytes": 1410
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K091782.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--globus--revere-6-35-stabilization/fda_raw/NKB/K091782.json",
+        "bytes": 578
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--globus--revere-6-35-stabilization.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--globus--revere-6-35-stabilization/merged/interbody-cage--globus--revere-6-35-stabilization.json",
+        "bytes": 829
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

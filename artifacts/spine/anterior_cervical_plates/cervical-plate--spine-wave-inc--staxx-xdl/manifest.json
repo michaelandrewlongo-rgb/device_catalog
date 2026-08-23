@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--spine-wave-inc--staxx-xdl",
+  "artifact_folder": "cervical-plate--spine-wave-inc--staxx-xdl",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2733,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--spine-wave-inc--staxx-xdl.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--spine-wave-inc--staxx-xdl/enriched/cervical-plate--spine-wave-inc--staxx-xdl.json",
+        "bytes": 1378
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K102315.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--spine-wave-inc--staxx-xdl/fda_raw/MQP/K102315.json",
+        "bytes": 558
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--spine-wave-inc--staxx-xdl.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--spine-wave-inc--staxx-xdl/merged/cervical-plate--spine-wave-inc--staxx-xdl.json",
+        "bytes": 797
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

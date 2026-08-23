@@ -1,0 +1,35 @@
+{
+  "device_slug": "unknown--stryker--neurovascular",
+  "artifact_folder": "unknown--stryker--neurovascular",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2479,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/unknown--stryker--neurovascular.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--stryker--neurovascular/enriched/unknown--stryker--neurovascular.json",
+        "bytes": 1305
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/unknown--stryker--neurovascular.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--stryker--neurovascular/merged/unknown--stryker--neurovascular.json",
+        "bytes": 724
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/stryker/neurovascular.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--stryker--neurovascular/scraper_raw/stryker/neurovascular.json",
+        "bytes": 450
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "unknown",
+    "label": "Outside listed seed registries"
+  }
+}

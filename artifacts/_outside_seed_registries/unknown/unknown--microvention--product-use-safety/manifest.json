@@ -1,0 +1,35 @@
+{
+  "device_slug": "unknown--microvention--product-use-safety",
+  "artifact_folder": "unknown--microvention--product-use-safety",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2568,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/unknown--microvention--product-use-safety.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--microvention--product-use-safety/enriched/unknown--microvention--product-use-safety.json",
+        "bytes": 1338
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/unknown--microvention--product-use-safety.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--microvention--product-use-safety/merged/unknown--microvention--product-use-safety.json",
+        "bytes": 757
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/microvention/product-use-safety.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--microvention--product-use-safety/scraper_raw/microvention/product-use-safety.json",
+        "bytes": 473
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "unknown",
+    "label": "Outside listed seed registries"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--southern-spine-llc--deploy-expandable-interbody",
+  "artifact_folder": "pedicle-screw--southern-spine-llc--deploy-expandable-interbody",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2898,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--southern-spine-llc--deploy-expandable-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--southern-spine-llc--deploy-expandable-interbody/enriched/pedicle-screw--southern-spine-llc--deploy-expandable-interbody.json",
+        "bytes": 1438
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K211845.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--southern-spine-llc--deploy-expandable-interbody/fda_raw/MAX/K211845.json",
+        "bytes": 603
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--southern-spine-llc--deploy-expandable-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--southern-spine-llc--deploy-expandable-interbody/merged/pedicle-screw--southern-spine-llc--deploy-expandable-interbody.json",
+        "bytes": 857
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

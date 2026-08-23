@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--atlas-spine-inc--atlas-spine-expandable-interbody",
+  "artifact_folder": "pedicle-screw--atlas-spine-inc--atlas-spine-expandable-interbody",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2918,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--atlas-spine-inc--atlas-spine-expandable-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--atlas-spine-inc--atlas-spine-expandable-interbody/enriched/pedicle-screw--atlas-spine-inc--atlas-spine-expandable-interbody.json",
+        "bytes": 1447
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K162918.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--atlas-spine-inc--atlas-spine-expandable-interbody/fda_raw/MAX/K162918.json",
+        "bytes": 605
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--atlas-spine-inc--atlas-spine-expandable-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--atlas-spine-inc--atlas-spine-expandable-interbody/merged/pedicle-screw--atlas-spine-inc--atlas-spine-expandable-interbody.json",
+        "bytes": 866
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

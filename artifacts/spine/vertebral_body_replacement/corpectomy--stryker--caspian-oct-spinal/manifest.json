@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--stryker--caspian-oct-spinal",
+  "artifact_folder": "corpectomy--stryker--caspian-oct-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2996,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--stryker--caspian-oct-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--stryker--caspian-oct-spinal/enriched/corpectomy--stryker--caspian-oct-spinal.json",
+        "bytes": 1647
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K133288.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--stryker--caspian-oct-spinal/fda_raw/KWP/K133288.json",
+        "bytes": 547
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--stryker--caspian-oct-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--stryker--caspian-oct-spinal/merged/corpectomy--stryker--caspian-oct-spinal.json",
+        "bytes": 802
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

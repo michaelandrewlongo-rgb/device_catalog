@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--zimmer-biomet--peek-optima-alif-spacer",
+  "artifact_folder": "pedicle-screw--zimmer-biomet--peek-optima-alif-spacer",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2794,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--zimmer-biomet--peek-optima-alif-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--zimmer-biomet--peek-optima-alif-spacer/enriched/pedicle-screw--zimmer-biomet--peek-optima-alif-spacer.json",
+        "bytes": 1402
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K081636.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--zimmer-biomet--peek-optima-alif-spacer/fda_raw/MAX/K081636.json",
+        "bytes": 571
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--zimmer-biomet--peek-optima-alif-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--zimmer-biomet--peek-optima-alif-spacer/merged/pedicle-screw--zimmer-biomet--peek-optima-alif-spacer.json",
+        "bytes": 821
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

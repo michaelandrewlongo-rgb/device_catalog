@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--ohio-medical-instrument-co-inc--omi-occipital-cervical-loop-model",
+  "artifact_folder": "corpectomy--ohio-medical-instrument-co-inc--omi-occipital-cervical-loop-model",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3014,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--ohio-medical-instrument-co-inc--omi-occipital-cervical-loop-model.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--ohio-medical-instrument-co-inc--omi-occipital-cervical-loop-model/enriched/corpectomy--ohio-medical-instrument-co-inc--omi-occipital-cervical-loop-model.json",
+        "bytes": 1474
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K983282.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--ohio-medical-instrument-co-inc--omi-occipital-cervical-loop-model/fda_raw/KWP/K983282.json",
+        "bytes": 647
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--ohio-medical-instrument-co-inc--omi-occipital-cervical-loop-model.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--ohio-medical-instrument-co-inc--omi-occipital-cervical-loop-model/merged/corpectomy--ohio-medical-instrument-co-inc--omi-occipital-cervical-loop-model.json",
+        "bytes": 893
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

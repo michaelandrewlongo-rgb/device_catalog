@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--ortho-tec-llc--scs-claris-spinal-rextended-omniaxial",
+  "artifact_folder": "corpectomy--ortho-tec-llc--scs-claris-spinal-rextended-omniaxial",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3305,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--ortho-tec-llc--scs-claris-spinal-rextended-omniaxial.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--ortho-tec-llc--scs-claris-spinal-rextended-omniaxial/enriched/corpectomy--ortho-tec-llc--scs-claris-spinal-rextended-omniaxial.json",
+        "bytes": 1604
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K021919.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--ortho-tec-llc--scs-claris-spinal-rextended-omniaxial/fda_raw/KWP/K021919.json",
+        "bytes": 678
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--ortho-tec-llc--scs-claris-spinal-rextended-omniaxial.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--ortho-tec-llc--scs-claris-spinal-rextended-omniaxial/merged/corpectomy--ortho-tec-llc--scs-claris-spinal-rextended-omniaxial.json",
+        "bytes": 1023
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

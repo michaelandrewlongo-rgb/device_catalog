@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--medtronic--anatomic-peek-cervical-fusion-anatomic",
+  "artifact_folder": "pedicle-screw--medtronic--anatomic-peek-cervical-fusion-anatomic",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 6011,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--medtronic--anatomic-peek-cervical-fusion-anatomic.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--anatomic-peek-cervical-fusion-anatomic/enriched/pedicle-screw--medtronic--anatomic-peek-cervical-fusion-anatomic.json",
+        "bytes": 3040
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K192502.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--anatomic-peek-cervical-fusion-anatomic/fda_raw/MAX/K192502.json",
+        "bytes": 1079
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--medtronic--anatomic-peek-cervical-fusion-anatomic.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--anatomic-peek-cervical-fusion-anatomic/merged/pedicle-screw--medtronic--anatomic-peek-cervical-fusion-anatomic.json",
+        "bytes": 1892
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "device_name": "ChoiceSpine\u0099 Proliant\u00ae Posterior Pedicle Screw and Hook Fixation System",
+  "manufacturer": "choicespine",
+  "catalog_category": "interbody-cage",
+  "filename_stem": "interbody-cage--choicespine--choicespine-proliant-r-posterior-pedicle",
+  "clearance_type": "510k",
+  "clearance_number": "K170821",
+  "clearance_date": "2017-06-08",
+  "device_class": 2,
+  "device_name_fda": "ChoiceSpine\u0099 Proliant\u00ae Posterior Pedicle Screw and Hook Fixation System",
+  "product_code": "NKB",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf17/K170821.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

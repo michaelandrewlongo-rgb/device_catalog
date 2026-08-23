@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--aesculap-inc--aesculap-spine-additional-components",
+  "artifact_folder": "corpectomy--aesculap-inc--aesculap-spine-additional-components",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2911,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--aesculap-inc--aesculap-spine-additional-components.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--aesculap-inc--aesculap-spine-additional-components/enriched/corpectomy--aesculap-inc--aesculap-spine-additional-components.json",
+        "bytes": 1447
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K980121.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--aesculap-inc--aesculap-spine-additional-components/fda_raw/KWP/K980121.json",
+        "bytes": 598
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--aesculap-inc--aesculap-spine-additional-components.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--aesculap-inc--aesculap-spine-additional-components/merged/corpectomy--aesculap-inc--aesculap-spine-additional-components.json",
+        "bytes": 866
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "device_slug": "corpectomy--life-spine-inc--solstice-oct",
+  "artifact_folder": "corpectomy--life-spine-inc--solstice-oct",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 3845,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--life-spine-inc--solstice-oct.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--life-spine-inc--solstice-oct/enriched/corpectomy--life-spine-inc--solstice-oct.json",
+        "bytes": 1379
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K142253.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--life-spine-inc--solstice-oct/fda_raw/KWP/K142253.json",
+        "bytes": 556
+      },
+      {
+        "source": "pipeline/data/fda_raw/KWP/K143249.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--life-spine-inc--solstice-oct/fda_raw/KWP/K143249.json",
+        "bytes": 556
+      },
+      {
+        "source": "pipeline/data/fda_raw/KWP/K150229.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--life-spine-inc--solstice-oct/fda_raw/KWP/K150229.json",
+        "bytes": 556
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--life-spine-inc--solstice-oct.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--life-spine-inc--solstice-oct/merged/corpectomy--life-spine-inc--solstice-oct.json",
+        "bytes": 798
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

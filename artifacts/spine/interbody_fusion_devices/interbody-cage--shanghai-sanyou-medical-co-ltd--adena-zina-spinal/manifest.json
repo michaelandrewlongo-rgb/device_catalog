@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--shanghai-sanyou-medical-co-ltd--adena-zina-spinal",
+  "artifact_folder": "interbody-cage--shanghai-sanyou-medical-co-ltd--adena-zina-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2909,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--shanghai-sanyou-medical-co-ltd--adena-zina-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--shanghai-sanyou-medical-co-ltd--adena-zina-spinal/enriched/interbody-cage--shanghai-sanyou-medical-co-ltd--adena-zina-spinal.json",
+        "bytes": 1434
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K231931.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--shanghai-sanyou-medical-co-ltd--adena-zina-spinal/fda_raw/NKB/K231931.json",
+        "bytes": 622
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--shanghai-sanyou-medical-co-ltd--adena-zina-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--shanghai-sanyou-medical-co-ltd--adena-zina-spinal/merged/interbody-cage--shanghai-sanyou-medical-co-ltd--adena-zina-spinal.json",
+        "bytes": 853
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

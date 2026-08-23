@@ -1,0 +1,21 @@
+{
+  "device_slug": "corpectomy--spinefrontier-inc--vega-span-spinous-process-plate-recalls",
+  "artifact_folder": "corpectomy--spinefrontier-inc--vega-span-spinous-process-plate-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 376,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/corpectomy--spinefrontier-inc--vega-span-spinous-process-plate-recalls.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--spinefrontier-inc--vega-span-spinous-process-plate-recalls/extracted/fda_safety/corpectomy--spinefrontier-inc--vega-span-spinous-process-plate-recalls.json",
+        "bytes": 376
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

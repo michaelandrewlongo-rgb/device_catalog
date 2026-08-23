@@ -1,0 +1,22 @@
+{
+  "source_pdf": "tritanium-c-sell-sheet.pdf",
+  "source_path": "C:\\Users\\Michael\\Documents\\device_catalog\\pipeline\\data\\extracted\\nspr\\pdfs\\tritanium-c-sell-sheet.pdf",
+  "device_name": "Tritanium C Sell Sheet",
+  "manufacturer": "unknown",
+  "doc_type": "technique_guide",
+  "extraction_method": "pdfplumber_deepseek",
+  "extraction_source": "nspr_pdf",
+  "fields": {
+    "what_it_is": "Tritanium C Anterior Cervical Cage design overview: Solid-tipped, angled, Large central graft window, serrations designed for bidirectional fixation, Threaded inserter attachment for rigid inserter-to-cage connection, Laser marking verifies proper inserter attachment, Highly porous titanium alloy material throughout cage, Lateral windows to reduce stiffness of cage and aid in visualisation of fusion, Smooth posterior nose facilitates cage insertion, Thin layer of solid material surrounding cage provides smooth insertion",
+    "sizing_specs": "| Material |\n| --- |\n| Mean porosity range |\n| Mean pore size |\n| Pore size range |\n\n| Footprint | Lordotic option | Heights |\n| --- | --- | --- |\n| 12 x 14mm | 6° |  |\n| 14 x 17mm | 6° |  |\n|  | 10° |  |",
+    "indications": null,
+    "contraindications": null,
+    "compatible_with": null,
+    "use_notes": null,
+    "also_known_as": null
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "sizing_specs": 0.7
+  }
+}

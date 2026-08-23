@@ -1,0 +1,21 @@
+{
+  "device_slug": "sacroiliac-fusion--aurora-spine-inc--silo-tfx-mis-sacroiliac-joint",
+  "artifact_folder": "sacroiliac-fusion--aurora-spine-inc--silo-tfx-mis-sacroiliac-joint",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 619,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/OUR/K221047.json",
+        "artifact": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--aurora-spine-inc--silo-tfx-mis-sacroiliac-joint/fda_raw/OUR/K221047.json",
+        "bytes": 619
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "sacroiliac-fusion",
+    "label": "Outside listed seed registries"
+  }
+}

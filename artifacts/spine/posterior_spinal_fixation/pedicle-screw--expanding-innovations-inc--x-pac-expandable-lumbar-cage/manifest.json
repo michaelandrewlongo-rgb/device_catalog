@@ -1,0 +1,50 @@
+{
+  "device_slug": "pedicle-screw--expanding-innovations-inc--x-pac-expandable-lumbar-cage",
+  "artifact_folder": "pedicle-screw--expanding-innovations-inc--x-pac-expandable-lumbar-cage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 4837,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--expanding-innovations-inc--x-pac-expandable-lumbar-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--expanding-innovations-inc--x-pac-expandable-lumbar-cage/enriched/pedicle-screw--expanding-innovations-inc--x-pac-expandable-lumbar-cage.json",
+        "bytes": 1455
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K201145.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--expanding-innovations-inc--x-pac-expandable-lumbar-cage/fda_raw/MAX/K201145.json",
+        "bytes": 627
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K203802.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--expanding-innovations-inc--x-pac-expandable-lumbar-cage/fda_raw/MAX/K203802.json",
+        "bytes": 627
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K220655.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--expanding-innovations-inc--x-pac-expandable-lumbar-cage/fda_raw/MAX/K220655.json",
+        "bytes": 627
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K222797.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--expanding-innovations-inc--x-pac-expandable-lumbar-cage/fda_raw/MAX/K222797.json",
+        "bytes": 627
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--expanding-innovations-inc--x-pac-expandable-lumbar-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--expanding-innovations-inc--x-pac-expandable-lumbar-cage/merged/pedicle-screw--expanding-innovations-inc--x-pac-expandable-lumbar-cage.json",
+        "bytes": 874
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

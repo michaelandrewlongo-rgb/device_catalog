@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--lanx-inc--lanx-spinal-fization",
+  "artifact_folder": "interbody-cage--lanx-inc--lanx-spinal-fization",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2779,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--lanx-inc--lanx-spinal-fization.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--lanx-inc--lanx-spinal-fization/enriched/interbody-cage--lanx-inc--lanx-spinal-fization.json",
+        "bytes": 1399
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K121316.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--lanx-inc--lanx-spinal-fization/fda_raw/NKB/K121316.json",
+        "bytes": 562
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--lanx-inc--lanx-spinal-fization.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--lanx-inc--lanx-spinal-fization/merged/interbody-cage--lanx-inc--lanx-spinal-fization.json",
+        "bytes": 818
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

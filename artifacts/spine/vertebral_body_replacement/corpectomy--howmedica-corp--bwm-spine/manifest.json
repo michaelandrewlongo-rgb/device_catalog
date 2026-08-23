@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--howmedica-corp--bwm-spine",
+  "artifact_folder": "corpectomy--howmedica-corp--bwm-spine",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2708,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--howmedica-corp--bwm-spine.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--howmedica-corp--bwm-spine/enriched/corpectomy--howmedica-corp--bwm-spine.json",
+        "bytes": 1370
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K982494.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--howmedica-corp--bwm-spine/fda_raw/KWP/K982494.json",
+        "bytes": 549
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--howmedica-corp--bwm-spine.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--howmedica-corp--bwm-spine/merged/corpectomy--howmedica-corp--bwm-spine.json",
+        "bytes": 789
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

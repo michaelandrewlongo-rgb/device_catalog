@@ -9,7 +9,14 @@ Minimally invasive sacroiliac joint fusion implant with 3D-printed porous titani
 
 ## Sizing/Specs
 
-[NEEDS CONTENT - dimensions, available sizes/configurations, materials table]
+| Parameter | Value |
+|---|---|
+| Cross-section shape | Triangular |
+| Cross-section size | 11.35 mm |
+| Available lengths | 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90 mm |
+| Surface | FuSIon 3D porous titanium (3D printed) |
+
+Self-harvesting design: bone autograft is collected as the implant is press-fit into place.
 
 ## Indications
 

@@ -1,0 +1,292 @@
+[
+  {
+    "device_family": "aspiration--medtronic--apro-aspiration-catheter",
+    "query_used": "APRO Aspiration Catheter",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00850014025274",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "APRO 55 Swift Catheter",
+      "companyName": "Alembic, LLC",
+      "deviceIdentifier": "c0b46793-3d88-4e83-848f-2e713dad1fd7",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "FG-01681-N25-AC"
+    },
+    "retrieved_at": "2026-04-15T10:18:40+00:00",
+    "source_id": "accessgudid:00850014025274",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/c0b46793-3d88-4e83-848f-2e713dad1fd7",
+    "title": "APRO 55 Swift Catheter (Alembic, LLC)"
+  },
+  {
+    "device_family": "aspiration--medtronic--apro-aspiration-catheter",
+    "query_used": "APRO Aspiration Catheter",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00850014025281",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "APRO 55 Intermediate Catheter",
+      "companyName": "Alembic, LLC",
+      "deviceIdentifier": "c260d77f-980d-44c8-97d2-ea5f8ccbac88",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "17846",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Vascular guide-catheter, single-use"
+        }
+      ],
+      "modelNumber": "FG-01681-N37-IC"
+    },
+    "retrieved_at": "2026-04-15T10:18:40+00:00",
+    "source_id": "accessgudid:00850014025281",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/c260d77f-980d-44c8-97d2-ea5f8ccbac88",
+    "title": "APRO 55 Intermediate Catheter (Alembic, LLC)"
+  },
+  {
+    "device_family": "aspiration--medtronic--apro-aspiration-catheter",
+    "query_used": "APRO Aspiration Catheter",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00850014025243",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "APRO 55 Intermediate Catheter",
+      "companyName": "Alembic, LLC",
+      "deviceIdentifier": "a8fefc5f-b9e1-4e90-9b42-2a86e0ce7faa",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "17846",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Vascular guide-catheter, single-use"
+        }
+      ],
+      "modelNumber": "FG-01681-N25-IC"
+    },
+    "retrieved_at": "2026-04-15T10:18:40+00:00",
+    "source_id": "accessgudid:00850014025243",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/a8fefc5f-b9e1-4e90-9b42-2a86e0ce7faa",
+    "title": "APRO 55 Intermediate Catheter (Alembic, LLC)"
+  },
+  {
+    "device_family": "aspiration--medtronic--apro-aspiration-catheter",
+    "query_used": "APRO Aspiration Catheter",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00850014025236",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "APRO 55 Swift Catheter",
+      "companyName": "Alembic, LLC",
+      "deviceIdentifier": "46c69240-58cb-411c-891d-86d02a80320e",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "FG-01681-N37-AC"
+    },
+    "retrieved_at": "2026-04-15T10:18:40+00:00",
+    "source_id": "accessgudid:00850014025236",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/46c69240-58cb-411c-891d-86d02a80320e",
+    "title": "APRO 55 Swift Catheter (Alembic, LLC)"
+  },
+  {
+    "device_family": "aspiration--medtronic--apro-aspiration-catheter",
+    "query_used": "APRO Aspiration Catheter",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00850014025212",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "APRO 45 Swift Catheter",
+      "companyName": "Alembic, LLC",
+      "deviceIdentifier": "eaf44c2e-d4f2-45fb-9ce1-be1acb851508",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "FG-02273-160-AC"
+    },
+    "retrieved_at": "2026-04-15T10:18:40+00:00",
+    "source_id": "accessgudid:00850014025212",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/eaf44c2e-d4f2-45fb-9ce1-be1acb851508",
+    "title": "APRO 45 Swift Catheter (Alembic, LLC)"
+  },
+  {
+    "device_family": "aspiration--medtronic--apro-aspiration-catheter",
+    "query_used": "APRO Aspiration Catheter",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00850014025205",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "APRO 45 Swift Catheter",
+      "companyName": "Alembic, LLC",
+      "deviceIdentifier": "f267a99e-a59a-4b4e-9d41-2d677d4e63e5",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "FG-02273-146-AC"
+    },
+    "retrieved_at": "2026-04-15T10:18:40+00:00",
+    "source_id": "accessgudid:00850014025205",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/f267a99e-a59a-4b4e-9d41-2d677d4e63e5",
+    "title": "APRO 45 Swift Catheter (Alembic, LLC)"
+  },
+  {
+    "device_family": "aspiration--medtronic--apro-aspiration-catheter",
+    "query_used": "APRO Aspiration Catheter",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00850014025199",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "APRO 45 Swift Catheter",
+      "companyName": "Alembic, LLC",
+      "deviceIdentifier": "c56c87a6-8f7e-47e5-93b9-fe94c2ee1376",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "FG-02273-125-AC"
+    },
+    "retrieved_at": "2026-04-15T10:18:40+00:00",
+    "source_id": "accessgudid:00850014025199",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/c56c87a6-8f7e-47e5-93b9-fe94c2ee1376",
+    "title": "APRO 45 Swift Catheter (Alembic, LLC)"
+  },
+  {
+    "device_family": "aspiration--medtronic--apro-aspiration-catheter",
+    "query_used": "APRO Aspiration Catheter",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00850014025182",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "APRO 45 Swift Catheter",
+      "companyName": "Alembic, LLC",
+      "deviceIdentifier": "6dbe974d-cb3b-4980-812f-3f8df9f199bc",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "FG-02273-115-AC"
+    },
+    "retrieved_at": "2026-04-15T10:18:40+00:00",
+    "source_id": "accessgudid:00850014025182",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/6dbe974d-cb3b-4980-812f-3f8df9f199bc",
+    "title": "APRO 45 Swift Catheter (Alembic, LLC)"
+  },
+  {
+    "device_family": "aspiration--medtronic--apro-aspiration-catheter",
+    "query_used": "APRO Aspiration Catheter",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00850014025427",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "APRO 45 Intermediate Catheter",
+      "companyName": "Alembic, LLC",
+      "deviceIdentifier": "e8fcfefa-206b-41d4-ab91-e9b8cad70fa9",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "17846",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Vascular guide-catheter, single-use"
+        }
+      ],
+      "modelNumber": "FG-02273-160-IC"
+    },
+    "retrieved_at": "2026-04-15T10:18:40+00:00",
+    "source_id": "accessgudid:00850014025427",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/e8fcfefa-206b-41d4-ab91-e9b8cad70fa9",
+    "title": "APRO 45 Intermediate Catheter (Alembic, LLC)"
+  },
+  {
+    "device_family": "aspiration--medtronic--apro-aspiration-catheter",
+    "query_used": "APRO Aspiration Catheter",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00850014025410",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "APRO 45 Intermediate Catheter",
+      "companyName": "Alembic, LLC",
+      "deviceIdentifier": "85179274-d18a-4441-a084-80795206f516",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "17846",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Vascular guide-catheter, single-use"
+        }
+      ],
+      "modelNumber": "FG-02273-146-IC"
+    },
+    "retrieved_at": "2026-04-15T10:18:40+00:00",
+    "source_id": "accessgudid:00850014025410",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/85179274-d18a-4441-a084-80795206f516",
+    "title": "APRO 45 Intermediate Catheter (Alembic, LLC)"
+  }
+]

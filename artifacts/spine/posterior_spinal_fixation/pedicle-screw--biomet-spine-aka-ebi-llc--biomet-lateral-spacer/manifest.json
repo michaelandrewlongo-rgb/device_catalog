@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--biomet-spine-aka-ebi-llc--biomet-lateral-spacer",
+  "artifact_folder": "pedicle-screw--biomet-spine-aka-ebi-llc--biomet-lateral-spacer",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2894,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--biomet-spine-aka-ebi-llc--biomet-lateral-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--biomet-spine-aka-ebi-llc--biomet-lateral-spacer/enriched/pedicle-screw--biomet-spine-aka-ebi-llc--biomet-lateral-spacer.json",
+        "bytes": 1432
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K122989.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--biomet-spine-aka-ebi-llc--biomet-lateral-spacer/fda_raw/MAX/K122989.json",
+        "bytes": 611
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--biomet-spine-aka-ebi-llc--biomet-lateral-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--biomet-spine-aka-ebi-llc--biomet-lateral-spacer/merged/pedicle-screw--biomet-spine-aka-ebi-llc--biomet-lateral-spacer.json",
+        "bytes": 851
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

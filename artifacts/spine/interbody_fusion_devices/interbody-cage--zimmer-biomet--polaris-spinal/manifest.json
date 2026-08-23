@@ -1,0 +1,47 @@
+{
+  "device_slug": "interbody-cage--zimmer-biomet--polaris-spinal",
+  "artifact_folder": "interbody-cage--zimmer-biomet--polaris-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 4693,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--zimmer-biomet--polaris-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--zimmer-biomet--polaris-spinal/enriched/interbody-cage--zimmer-biomet--polaris-spinal.json",
+        "bytes": 2191
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--zimmer-biomet--polaris-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--zimmer-biomet--polaris-spinal/extracted/fda_structured/interbody-cage--zimmer-biomet--polaris-spinal.json",
+        "bytes": 555
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K151974.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--zimmer-biomet--polaris-spinal/fda_raw/NKB/K151974.json",
+        "bytes": 562
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K210275.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--zimmer-biomet--polaris-spinal/fda_raw/NKB/K210275.json",
+        "bytes": 575
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--zimmer-biomet--polaris-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--zimmer-biomet--polaris-spinal/merged/interbody-cage--zimmer-biomet--polaris-spinal.json",
+        "bytes": 810
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

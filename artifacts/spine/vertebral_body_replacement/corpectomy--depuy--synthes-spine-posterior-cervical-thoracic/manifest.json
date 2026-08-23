@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--depuy--synthes-spine-posterior-cervical-thoracic",
+  "artifact_folder": "corpectomy--depuy--synthes-spine-posterior-cervical-thoracic",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3113,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--depuy--synthes-spine-posterior-cervical-thoracic.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--synthes-spine-posterior-cervical-thoracic/enriched/corpectomy--depuy--synthes-spine-posterior-cervical-thoracic.json",
+        "bytes": 1626
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K980358.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--synthes-spine-posterior-cervical-thoracic/fda_raw/KWP/K980358.json",
+        "bytes": 602
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--depuy--synthes-spine-posterior-cervical-thoracic.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--synthes-spine-posterior-cervical-thoracic/merged/corpectomy--depuy--synthes-spine-posterior-cervical-thoracic.json",
+        "bytes": 885
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

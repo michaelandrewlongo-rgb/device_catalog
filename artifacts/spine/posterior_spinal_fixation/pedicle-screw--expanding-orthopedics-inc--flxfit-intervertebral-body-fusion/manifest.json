@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--expanding-orthopedics-inc--flxfit-intervertebral-body-fusion",
+  "artifact_folder": "pedicle-screw--expanding-orthopedics-inc--flxfit-intervertebral-body-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2996,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--expanding-orthopedics-inc--flxfit-intervertebral-body-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--expanding-orthopedics-inc--flxfit-intervertebral-body-fusion/enriched/pedicle-screw--expanding-orthopedics-inc--flxfit-intervertebral-body-fusion.json",
+        "bytes": 1470
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K133813.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--expanding-orthopedics-inc--flxfit-intervertebral-body-fusion/fda_raw/MAX/K133813.json",
+        "bytes": 637
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--expanding-orthopedics-inc--flxfit-intervertebral-body-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--expanding-orthopedics-inc--flxfit-intervertebral-body-fusion/merged/pedicle-screw--expanding-orthopedics-inc--flxfit-intervertebral-body-fusion.json",
+        "bytes": 889
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

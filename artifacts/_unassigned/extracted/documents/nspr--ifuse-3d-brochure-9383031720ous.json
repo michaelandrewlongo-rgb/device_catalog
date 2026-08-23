@@ -1,0 +1,24 @@
+{
+  "source_pdf": "ifuse-3d-brochure-9383031720ous.pdf",
+  "source_path": "C:\\Users\\Michael\\Documents\\device_catalog\\pipeline\\data\\extracted\\nspr\\pdfs\\ifuse-3d-brochure-9383031720ous.pdf",
+  "device_name": "Ifuse 3D Brochure 9383031720Ous",
+  "manufacturer": "unknown",
+  "doc_type": "technique_guide",
+  "extraction_method": "pdfplumber_deepseek",
+  "extraction_source": "nspr_pdf",
+  "fields": {
+    "what_it_is": "The iFuse-3D™ is intended for sacroiliac joint fusion. The iFuse-3D implant is specifically designed to stabilize and fuse the SI joint. The titanium implant provides an interference fit between the implant and the adjacent osseous walls. The unique triangular-shaped implant profile minimizes rotation and stabilizes the joint while the porous surface area supports long-term fusion. 3D-Printed Trabecular Surface mimics native cancellous bone and enhances osteointegration. iFuse-3D is designed to allow for ongrowth, ingrowth and through growth. Self-Harvesting Technology: iFuse-3D™ captures bone during implantation. Fenestrated structure may be pre-packed with autograft or allograft, 1-3cc depending on implant size.",
+    "sizing_specs": null,
+    "indications": "The iFuse Implant System® is intended for sacroiliac joint fusion.",
+    "contraindications": null,
+    "compatible_with": null,
+    "use_notes": "iFuse Surgical Technique\n1. Skin Mark & Incision 2. Pin Insertion 3. Place Soft Tissue Protector\n4. Measure Depth 5. Drill 6. Broach\n7. Insert Implant 8. Repeat",
+    "also_known_as": "iFuse-3D™, iFuse Implant System®"
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "indications": 0.7,
+    "use_notes": 0.7,
+    "also_known_as": 0.7
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "device_slug": "interbody-cage--next-orthosurgical--vertiform-posterior-fixation",
+  "artifact_folder": "interbody-cage--next-orthosurgical--vertiform-posterior-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3517,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--next-orthosurgical--vertiform-posterior-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--next-orthosurgical--vertiform-posterior-fixation/enriched/interbody-cage--next-orthosurgical--vertiform-posterior-fixation.json",
+        "bytes": 1443
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K141291.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--next-orthosurgical--vertiform-posterior-fixation/fda_raw/NKB/K141291.json",
+        "bytes": 606
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K161499.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--next-orthosurgical--vertiform-posterior-fixation/fda_raw/NKB/K161499.json",
+        "bytes": 606
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--next-orthosurgical--vertiform-posterior-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--next-orthosurgical--vertiform-posterior-fixation/merged/interbody-cage--next-orthosurgical--vertiform-posterior-fixation.json",
+        "bytes": 862
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

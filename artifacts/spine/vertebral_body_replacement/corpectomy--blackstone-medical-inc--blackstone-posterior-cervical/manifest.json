@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--blackstone-medical-inc--blackstone-posterior-cervical",
+  "artifact_folder": "corpectomy--blackstone-medical-inc--blackstone-posterior-cervical",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2925,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--blackstone-medical-inc--blackstone-posterior-cervical.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--blackstone-medical-inc--blackstone-posterior-cervical/enriched/corpectomy--blackstone-medical-inc--blackstone-posterior-cervical.json",
+        "bytes": 1446
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K030197.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--blackstone-medical-inc--blackstone-posterior-cervical/fda_raw/KWP/K030197.json",
+        "bytes": 614
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--blackstone-medical-inc--blackstone-posterior-cervical.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--blackstone-medical-inc--blackstone-posterior-cervical/merged/corpectomy--blackstone-medical-inc--blackstone-posterior-cervical.json",
+        "bytes": 865
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

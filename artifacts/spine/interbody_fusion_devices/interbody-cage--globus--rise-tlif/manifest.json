@@ -1,0 +1,33 @@
+{
+  "device_slug": "interbody-cage--globus--rise-tlif",
+  "artifact_folder": "interbody-cage--globus--rise-tlif",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 7069331,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/interbody-cage--globus--rise-tlif--knowledge.md",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--globus--rise-tlif/data_by_device/interbody-cage--globus--rise-tlif--knowledge.md",
+        "bytes": 10874
+      },
+      {
+        "source": "pipeline/data/data_by_device/interbody-cage--globus--rise-tlif--technique.pdf",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--globus--rise-tlif/data_by_device/interbody-cage--globus--rise-tlif--technique.pdf",
+        "bytes": 7052685
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/documents/interbody-cage--globus--rise-tlif--technique.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--globus--rise-tlif/extracted/documents/interbody-cage--globus--rise-tlif--technique.json",
+        "bytes": 5772
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

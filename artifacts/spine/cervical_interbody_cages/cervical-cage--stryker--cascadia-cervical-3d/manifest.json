@@ -1,0 +1,21 @@
+{
+  "device_slug": "cervical-cage--stryker--cascadia-cervical-3d",
+  "artifact_folder": "cervical-cage--stryker--cascadia-cervical-3d",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 2812,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/cervical-cage--stryker--cascadia-cervical-3d--knowledge.md",
+        "artifact": "artifacts/spine/cervical_interbody_cages/cervical-cage--stryker--cascadia-cervical-3d/data_by_device/cervical-cage--stryker--cascadia-cervical-3d--knowledge.md",
+        "bytes": 2812
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "cervical_interbody_cages",
+    "label": "ACDF/ACCF Cages"
+  }
+}

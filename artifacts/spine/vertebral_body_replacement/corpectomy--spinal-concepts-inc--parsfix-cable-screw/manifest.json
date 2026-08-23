@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--spinal-concepts-inc--parsfix-cable-screw",
+  "artifact_folder": "corpectomy--spinal-concepts-inc--parsfix-cable-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3162,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--spinal-concepts-inc--parsfix-cable-screw.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--spinal-concepts-inc--parsfix-cable-screw/enriched/corpectomy--spinal-concepts-inc--parsfix-cable-screw.json",
+        "bytes": 1748
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K003351.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--spinal-concepts-inc--parsfix-cable-screw/fda_raw/KWP/K003351.json",
+        "bytes": 585
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--spinal-concepts-inc--parsfix-cable-screw.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--spinal-concepts-inc--parsfix-cable-screw/merged/corpectomy--spinal-concepts-inc--parsfix-cable-screw.json",
+        "bytes": 829
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--signature-orthopaedics-pty-ltd--c-zero-pedicle-screw-freedom",
+  "artifact_folder": "interbody-cage--signature-orthopaedics-pty-ltd--c-zero-pedicle-screw-freedom",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3107,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--signature-orthopaedics-pty-ltd--c-zero-pedicle-screw-freedom.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--signature-orthopaedics-pty-ltd--c-zero-pedicle-screw-freedom/enriched/interbody-cage--signature-orthopaedics-pty-ltd--c-zero-pedicle-screw-freedom.json",
+        "bytes": 1511
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K180754.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--signature-orthopaedics-pty-ltd--c-zero-pedicle-screw-freedom/fda_raw/NKB/K180754.json",
+        "bytes": 666
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--signature-orthopaedics-pty-ltd--c-zero-pedicle-screw-freedom.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--signature-orthopaedics-pty-ltd--c-zero-pedicle-screw-freedom/merged/interbody-cage--signature-orthopaedics-pty-ltd--c-zero-pedicle-screw-freedom.json",
+        "bytes": 930
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

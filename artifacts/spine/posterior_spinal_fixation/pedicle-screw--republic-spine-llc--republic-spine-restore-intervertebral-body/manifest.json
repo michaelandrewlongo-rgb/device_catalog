@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--republic-spine-llc--republic-spine-restore-intervertebral-body",
+  "artifact_folder": "pedicle-screw--republic-spine-llc--republic-spine-restore-intervertebral-body",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3053,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--republic-spine-llc--republic-spine-restore-intervertebral-body.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--republic-spine-llc--republic-spine-restore-intervertebral-body/enriched/pedicle-screw--republic-spine-llc--republic-spine-restore-intervertebral-body.json",
+        "bytes": 1497
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K190398.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--republic-spine-llc--republic-spine-restore-intervertebral-body/fda_raw/MAX/K190398.json",
+        "bytes": 640
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--republic-spine-llc--republic-spine-restore-intervertebral-body.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--republic-spine-llc--republic-spine-restore-intervertebral-body/merged/pedicle-screw--republic-spine-llc--republic-spine-restore-intervertebral-body.json",
+        "bytes": 916
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

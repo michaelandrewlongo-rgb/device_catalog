@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--shanghai-sanyou-medical-co-ltd--halis-lumbar-cage-lydia-anterior",
+  "artifact_folder": "pedicle-screw--shanghai-sanyou-medical-co-ltd--halis-lumbar-cage-lydia-anterior",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3527,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--shanghai-sanyou-medical-co-ltd--halis-lumbar-cage-lydia-anterior.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--shanghai-sanyou-medical-co-ltd--halis-lumbar-cage-lydia-anterior/enriched/pedicle-screw--shanghai-sanyou-medical-co-ltd--halis-lumbar-cage-lydia-anterior.json",
+        "bytes": 1669
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K230872.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--shanghai-sanyou-medical-co-ltd--halis-lumbar-cage-lydia-anterior/fda_raw/MAX/K230872.json",
+        "bytes": 746
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--shanghai-sanyou-medical-co-ltd--halis-lumbar-cage-lydia-anterior.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--shanghai-sanyou-medical-co-ltd--halis-lumbar-cage-lydia-anterior/merged/pedicle-screw--shanghai-sanyou-medical-co-ltd--halis-lumbar-cage-lydia-anterior.json",
+        "bytes": 1112
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

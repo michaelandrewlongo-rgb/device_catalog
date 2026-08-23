@@ -1,0 +1,47 @@
+{
+  "device_slug": "csf-shunt--btg-international-inc--ekos-ultrasound-evd-evd-control",
+  "artifact_folder": "csf-shunt--btg-international-inc--ekos-ultrasound-evd-evd-control",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 86732,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/csf-shunt/parsed/fda_summaries/csf-shunt--btg-international-inc--ekos-ultrasound-evd-evd-control--510k.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--btg-international-inc--ekos-ultrasound-evd-evd-control/510k/csf-shunt/parsed/fda_summaries/csf-shunt--btg-international-inc--ekos-ultrasound-evd-evd-control--510k.json",
+        "bytes": 3465
+      },
+      {
+        "source": "pipeline/data/510k/csf-shunt/pdfs/csf-shunt--btg-international-inc--ekos-ultrasound-evd-evd-control--510k.pdf",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--btg-international-inc--ekos-ultrasound-evd-evd-control/510k/csf-shunt/pdfs/csf-shunt--btg-international-inc--ekos-ultrasound-evd-evd-control--510k.pdf",
+        "bytes": 78794
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--btg-international-inc--ekos-ultrasound-evd-evd-control.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--btg-international-inc--ekos-ultrasound-evd-evd-control/enriched/csf-shunt--btg-international-inc--ekos-ultrasound-evd-evd-control.json",
+        "bytes": 2976
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K172035.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--btg-international-inc--ekos-ultrasound-evd-evd-control/fda_raw/JXG/K172035.json",
+        "bytes": 618
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--btg-international-inc--ekos-ultrasound-evd-evd-control.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--btg-international-inc--ekos-ultrasound-evd-evd-control/merged/csf-shunt--btg-international-inc--ekos-ultrasound-evd-evd-control.json",
+        "bytes": 879
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

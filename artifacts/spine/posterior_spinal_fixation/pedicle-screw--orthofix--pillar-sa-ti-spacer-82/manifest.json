@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--orthofix--pillar-sa-ti-spacer-82",
+  "artifact_folder": "pedicle-screw--orthofix--pillar-sa-ti-spacer-82",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2823,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--orthofix--pillar-sa-ti-spacer-82.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--orthofix--pillar-sa-ti-spacer-82/enriched/pedicle-screw--orthofix--pillar-sa-ti-spacer-82.json",
+        "bytes": 1415
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K240749.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--orthofix--pillar-sa-ti-spacer-82/fda_raw/MAX/K240749.json",
+        "bytes": 574
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--orthofix--pillar-sa-ti-spacer-82.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--orthofix--pillar-sa-ti-spacer-82/merged/pedicle-screw--orthofix--pillar-sa-ti-spacer-82.json",
+        "bytes": 834
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

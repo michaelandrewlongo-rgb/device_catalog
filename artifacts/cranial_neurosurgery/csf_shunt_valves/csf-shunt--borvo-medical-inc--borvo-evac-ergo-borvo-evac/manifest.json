@@ -1,0 +1,47 @@
+{
+  "device_slug": "csf-shunt--borvo-medical-inc--borvo-evac-ergo-borvo-evac",
+  "artifact_folder": "csf-shunt--borvo-medical-inc--borvo-evac-ergo-borvo-evac",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 2729014,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/csf-shunt/parsed/fda_summaries/csf-shunt--borvo-medical-inc--borvo-evac-ergo-borvo-evac--510k.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--borvo-medical-inc--borvo-evac-ergo-borvo-evac/510k/csf-shunt/parsed/fda_summaries/csf-shunt--borvo-medical-inc--borvo-evac-ergo-borvo-evac--510k.json",
+        "bytes": 12205
+      },
+      {
+        "source": "pipeline/data/510k/csf-shunt/pdfs/csf-shunt--borvo-medical-inc--borvo-evac-ergo-borvo-evac--510k.pdf",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--borvo-medical-inc--borvo-evac-ergo-borvo-evac/510k/csf-shunt/pdfs/csf-shunt--borvo-medical-inc--borvo-evac-ergo-borvo-evac--510k.pdf",
+        "bytes": 2710369
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--borvo-medical-inc--borvo-evac-ergo-borvo-evac.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--borvo-medical-inc--borvo-evac-ergo-borvo-evac/enriched/csf-shunt--borvo-medical-inc--borvo-evac-ergo-borvo-evac.json",
+        "bytes": 4946
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K241458.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--borvo-medical-inc--borvo-evac-ergo-borvo-evac/fda_raw/JXG/K241458.json",
+        "bytes": 610
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--borvo-medical-inc--borvo-evac-ergo-borvo-evac.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--borvo-medical-inc--borvo-evac-ergo-borvo-evac/merged/csf-shunt--borvo-medical-inc--borvo-evac-ergo-borvo-evac.json",
+        "bytes": 884
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

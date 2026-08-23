@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--neoortho-produtos-ortopedicos-s-a--peek-cage-for-the-vertebral",
+  "artifact_folder": "pedicle-screw--neoortho-produtos-ortopedicos-s-a--peek-cage-for-the-vertebral",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2997,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--neoortho-produtos-ortopedicos-s-a--peek-cage-for-the-vertebral.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--neoortho-produtos-ortopedicos-s-a--peek-cage-for-the-vertebral/enriched/pedicle-screw--neoortho-produtos-ortopedicos-s-a--peek-cage-for-the-vertebral.json",
+        "bytes": 1466
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K132852.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--neoortho-produtos-ortopedicos-s-a--peek-cage-for-the-vertebral/fda_raw/MAX/K132852.json",
+        "bytes": 646
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--neoortho-produtos-ortopedicos-s-a--peek-cage-for-the-vertebral.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--neoortho-produtos-ortopedicos-s-a--peek-cage-for-the-vertebral/merged/pedicle-screw--neoortho-produtos-ortopedicos-s-a--peek-cage-for-the-vertebral.json",
+        "bytes": 885
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

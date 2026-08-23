@@ -1,0 +1,40 @@
+{
+  "device_slug": "dural-substitute--collagen-matrix-inc--duramatrix-collagen-dura-substitute-membrane",
+  "artifact_folder": "dural-substitute--collagen-matrix-inc--duramatrix-collagen-dura-substitute-membrane",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 4213,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/dural-substitute--collagen-matrix-inc--duramatrix-collagen-dura-substitute-membrane.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--collagen-matrix-inc--duramatrix-collagen-dura-substitute-membrane/enriched/dural-substitute--collagen-matrix-inc--duramatrix-collagen-dura-substitute-membrane.json",
+        "bytes": 1967
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/GXQ/K040888.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--collagen-matrix-inc--duramatrix-collagen-dura-substitute-membrane/fda_raw/GXQ/K040888.json",
+        "bytes": 639
+      },
+      {
+        "source": "pipeline/data/fda_raw/GXQ/K061487.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--collagen-matrix-inc--duramatrix-collagen-dura-substitute-membrane/fda_raw/GXQ/K061487.json",
+        "bytes": 661
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/dural-substitute--collagen-matrix-inc--duramatrix-collagen-dura-substitute-membrane.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--collagen-matrix-inc--duramatrix-collagen-dura-substitute-membrane/merged/dural-substitute--collagen-matrix-inc--duramatrix-collagen-dura-substitute-membrane.json",
+        "bytes": 946
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "dural-substitute",
+    "label": "Outside listed seed registries"
+  }
+}

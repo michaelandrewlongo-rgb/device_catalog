@@ -1,0 +1,52 @@
+{
+  "device_slug": "pedicle-screw--medos-international-sarl--concorde-lift",
+  "artifact_folder": "pedicle-screw--medos-international-sarl--concorde-lift",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 4892,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--medos-international-sarl--concorde-lift.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medos-international-sarl--concorde-lift/enriched/pedicle-screw--medos-international-sarl--concorde-lift.json",
+        "bytes": 1692
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/pedicle-screw--medos-international-sarl--concorde-lift.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medos-international-sarl--concorde-lift/extracted/fda_structured/pedicle-screw--medos-international-sarl--concorde-lift.json",
+        "bytes": 630
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K171425.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medos-international-sarl--concorde-lift/fda_raw/MAX/K171425.json",
+        "bytes": 585
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K173537.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medos-international-sarl--concorde-lift/fda_raw/MAX/K173537.json",
+        "bytes": 587
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K182349.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medos-international-sarl--concorde-lift/fda_raw/MAX/K182349.json",
+        "bytes": 585
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--medos-international-sarl--concorde-lift.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medos-international-sarl--concorde-lift/merged/pedicle-screw--medos-international-sarl--concorde-lift.json",
+        "bytes": 813
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

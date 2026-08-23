@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--buckman-co-inc--acromed-iliac-screw",
+  "artifact_folder": "corpectomy--buckman-co-inc--acromed-iliac-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2755,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--buckman-co-inc--acromed-iliac-screw.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--buckman-co-inc--acromed-iliac-screw/enriched/corpectomy--buckman-co-inc--acromed-iliac-screw.json",
+        "bytes": 1386
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K884161.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--buckman-co-inc--acromed-iliac-screw/fda_raw/KWP/K884161.json",
+        "bytes": 564
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--buckman-co-inc--acromed-iliac-screw.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--buckman-co-inc--acromed-iliac-screw/merged/corpectomy--buckman-co-inc--acromed-iliac-screw.json",
+        "bytes": 805
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--coalign-innovations-inc--acculif-tl-peek-cage",
+  "artifact_folder": "pedicle-screw--coalign-innovations-inc--acculif-tl-peek-cage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2843,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--coalign-innovations-inc--acculif-tl-peek-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--coalign-innovations-inc--acculif-tl-peek-cage/enriched/pedicle-screw--coalign-innovations-inc--acculif-tl-peek-cage.json",
+        "bytes": 1413
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K123281.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--coalign-innovations-inc--acculif-tl-peek-cage/fda_raw/MAX/K123281.json",
+        "bytes": 598
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--coalign-innovations-inc--acculif-tl-peek-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--coalign-innovations-inc--acculif-tl-peek-cage/merged/pedicle-screw--coalign-innovations-inc--acculif-tl-peek-cage.json",
+        "bytes": 832
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

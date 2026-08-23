@@ -1,0 +1,47 @@
+{
+  "device_slug": "interbody-cage--ebi-l-p--polaris-spinal",
+  "artifact_folder": "interbody-cage--ebi-l-p--polaris-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 4085,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--ebi-l-p--polaris-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--ebi-l-p--polaris-spinal/enriched/interbody-cage--ebi-l-p--polaris-spinal.json",
+        "bytes": 1638
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--ebi-l-p--polaris-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--ebi-l-p--polaris-spinal/extracted/fda_structured/interbody-cage--ebi-l-p--polaris-spinal.json",
+        "bytes": 555
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K090523.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--ebi-l-p--polaris-spinal/fda_raw/NKB/K090523.json",
+        "bytes": 547
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K100220.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--ebi-l-p--polaris-spinal/fda_raw/NKB/K100220.json",
+        "bytes": 547
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--ebi-l-p--polaris-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--ebi-l-p--polaris-spinal/merged/interbody-cage--ebi-l-p--polaris-spinal.json",
+        "bytes": 798
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

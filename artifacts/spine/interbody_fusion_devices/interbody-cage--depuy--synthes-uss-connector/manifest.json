@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--depuy--synthes-uss-connector",
+  "artifact_folder": "interbody-cage--depuy--synthes-uss-connector",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3270,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--depuy--synthes-uss-connector.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--synthes-uss-connector/enriched/interbody-cage--depuy--synthes-uss-connector.json",
+        "bytes": 1915
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K120571.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--synthes-uss-connector/fda_raw/NKB/K120571.json",
+        "bytes": 554
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--depuy--synthes-uss-connector.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--synthes-uss-connector/merged/interbody-cage--depuy--synthes-uss-connector.json",
+        "bytes": 801
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

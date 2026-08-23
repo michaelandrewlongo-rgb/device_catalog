@@ -11,7 +11,7 @@
   "product_code": "HCG",
   "what_it_is": null,
   "sizing_specs": null,
-  "indications": null,
+  "indications": "Indications for Use\n51 0(k) Number (if known): K1 03305\nDevice Name: Penumbra Coil System / Penumbra Coil 400TM\nIndications For Use:\nThe Penumbra Coil System is indicated for the embolization of:.\n\" Intracranial aneurysms\n\" Other neurovascular abnormalities such as arteriovenous malformations and arteriovenous\nfistulae\n\" Arterial and venous embolizations in the peripheral vasculature\nPrescription Use ____ AND/OR Over-The-Counter Use\n___\n(Part 21 CFR 801 Su~bpart D) (21 CFR 801 Subpart C)\n(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF\nNEEDED)\nConcurrence of CDRH, Office of Device Evaluation (ODE)\n(Divfsion Sign-ofl)\nDivision of Ophthalmic, Neurological and Ear,\nNose and Throat Devices Page 1 of\n__\n510(k) NumbklO oS",
   "contraindications": null,
   "compatible_with": null,
   "use_notes": "[FDA RECALL] 1 active recall(s).\n  - The diameter of a component of the device is out of tolerance specification; the Delivery Pusher pull wire which secures the coil in place can prolapse and allow premature detachment of the coil.",
@@ -35,8 +35,8 @@
       "confidence": 0
     },
     "indications": {
-      "source": "none",
-      "confidence": 0
+      "source": "fda_summary",
+      "confidence": 0.95
     },
     "contraindications": {
       "source": "none",

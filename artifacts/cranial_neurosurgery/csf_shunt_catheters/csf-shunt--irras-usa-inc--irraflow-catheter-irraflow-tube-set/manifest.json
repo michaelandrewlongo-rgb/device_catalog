@@ -1,0 +1,47 @@
+{
+  "device_slug": "csf-shunt--irras-usa-inc--irraflow-catheter-irraflow-tube-set",
+  "artifact_folder": "csf-shunt--irras-usa-inc--irraflow-catheter-irraflow-tube-set",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 578481,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/csf-shunt/parsed/fda_summaries/csf-shunt--irras-usa-inc--irraflow-catheter-irraflow-tube-set--510k.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--irras-usa-inc--irraflow-catheter-irraflow-tube-set/510k/csf-shunt/parsed/fda_summaries/csf-shunt--irras-usa-inc--irraflow-catheter-irraflow-tube-set--510k.json",
+        "bytes": 35121
+      },
+      {
+        "source": "pipeline/data/510k/csf-shunt/pdfs/csf-shunt--irras-usa-inc--irraflow-catheter-irraflow-tube-set--510k.pdf",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--irras-usa-inc--irraflow-catheter-irraflow-tube-set/510k/csf-shunt/pdfs/csf-shunt--irras-usa-inc--irraflow-catheter-irraflow-tube-set--510k.pdf",
+        "bytes": 535459
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--irras-usa-inc--irraflow-catheter-irraflow-tube-set.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--irras-usa-inc--irraflow-catheter-irraflow-tube-set/enriched/csf-shunt--irras-usa-inc--irraflow-catheter-irraflow-tube-set.json",
+        "bytes": 6391
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K200807.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--irras-usa-inc--irraflow-catheter-irraflow-tube-set/fda_raw/JXG/K200807.json",
+        "bytes": 613
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--irras-usa-inc--irraflow-catheter-irraflow-tube-set.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--irras-usa-inc--irraflow-catheter-irraflow-tube-set/merged/csf-shunt--irras-usa-inc--irraflow-catheter-irraflow-tube-set.json",
+        "bytes": 897
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

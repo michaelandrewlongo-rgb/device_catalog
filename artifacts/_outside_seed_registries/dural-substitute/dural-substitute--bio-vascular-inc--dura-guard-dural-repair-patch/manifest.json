@@ -1,0 +1,52 @@
+{
+  "device_slug": "dural-substitute--bio-vascular-inc--dura-guard-dural-repair-patch",
+  "artifact_folder": "dural-substitute--bio-vascular-inc--dura-guard-dural-repair-patch",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 5967,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/dural-substitute--bio-vascular-inc--dura-guard-dural-repair-patch.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--bio-vascular-inc--dura-guard-dural-repair-patch/enriched/dural-substitute--bio-vascular-inc--dura-guard-dural-repair-patch.json",
+        "bytes": 2184
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/dural-substitute--bio-vascular-inc--dura-guard-dural-repair-patch.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--bio-vascular-inc--dura-guard-dural-repair-patch/extracted/fda_structured/dural-substitute--bio-vascular-inc--dura-guard-dural-repair-patch.json",
+        "bytes": 1098
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/GXQ/K950956.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--bio-vascular-inc--dura-guard-dural-repair-patch/fda_raw/GXQ/K950956.json",
+        "bytes": 628
+      },
+      {
+        "source": "pipeline/data/fda_raw/GXQ/K973706.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--bio-vascular-inc--dura-guard-dural-repair-patch/fda_raw/GXQ/K973706.json",
+        "bytes": 600
+      },
+      {
+        "source": "pipeline/data/fda_raw/GXQ/K982282.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--bio-vascular-inc--dura-guard-dural-repair-patch/fda_raw/GXQ/K982282.json",
+        "bytes": 602
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/dural-substitute--bio-vascular-inc--dura-guard-dural-repair-patch.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--bio-vascular-inc--dura-guard-dural-repair-patch/merged/dural-substitute--bio-vascular-inc--dura-guard-dural-repair-patch.json",
+        "bytes": 855
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "dural-substitute",
+    "label": "Outside listed seed registries"
+  }
+}

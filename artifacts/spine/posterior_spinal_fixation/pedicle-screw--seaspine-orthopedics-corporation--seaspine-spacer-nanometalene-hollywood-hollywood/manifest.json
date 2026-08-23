@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--seaspine-orthopedics-corporation--seaspine-spacer-nanometalene-hollywood-hollywood",
+  "artifact_folder": "pedicle-screw--seaspine-orthopedics-corporation--seaspine-spacer-nanometalene-hollywood-hollywood",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3776,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--seaspine-orthopedics-corporation--seaspine-spacer-nanometalene-hollywood-hollywood.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--seaspine-orthopedics-corporation--seaspine-spacer-nanometalene-hollywood-hollywood/enriched/pedicle-screw--seaspine-orthopedics-corporation--seaspine-spacer-nanometalene-hollywood-hollywood.json",
+        "bytes": 1771
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K173260.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--seaspine-orthopedics-corporation--seaspine-spacer-nanometalene-hollywood-hollywood/fda_raw/MAX/K173260.json",
+        "bytes": 807
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--seaspine-orthopedics-corporation--seaspine-spacer-nanometalene-hollywood-hollywood.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--seaspine-orthopedics-corporation--seaspine-spacer-nanometalene-hollywood-hollywood/merged/pedicle-screw--seaspine-orthopedics-corporation--seaspine-spacer-nanometalene-hollywood-hollywood.json",
+        "bytes": 1198
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

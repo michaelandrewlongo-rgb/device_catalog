@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--4-web-spine-llc--alif-spinal-truss-interbody-fusion",
+  "artifact_folder": "pedicle-screw--4-web-spine-llc--alif-spinal-truss-interbody-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2933,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--4-web-spine-llc--alif-spinal-truss-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--4-web-spine-llc--alif-spinal-truss-interbody-fusion/enriched/pedicle-screw--4-web-spine-llc--alif-spinal-truss-interbody-fusion.json",
+        "bytes": 1453
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K083894.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--4-web-spine-llc--alif-spinal-truss-interbody-fusion/fda_raw/MAX/K083894.json",
+        "bytes": 608
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--4-web-spine-llc--alif-spinal-truss-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--4-web-spine-llc--alif-spinal-truss-interbody-fusion/merged/pedicle-screw--4-web-spine-llc--alif-spinal-truss-interbody-fusion.json",
+        "bytes": 872
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

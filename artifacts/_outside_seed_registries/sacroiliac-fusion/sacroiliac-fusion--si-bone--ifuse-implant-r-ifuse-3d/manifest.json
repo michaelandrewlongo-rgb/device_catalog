@@ -1,0 +1,21 @@
+{
+  "device_slug": "sacroiliac-fusion--si-bone--ifuse-implant-r-ifuse-3d",
+  "artifact_folder": "sacroiliac-fusion--si-bone--ifuse-implant-r-ifuse-3d",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 586,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/OUR/K162733.json",
+        "artifact": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--si-bone--ifuse-implant-r-ifuse-3d/fda_raw/OUR/K162733.json",
+        "bytes": 586
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "sacroiliac-fusion",
+    "label": "Outside listed seed registries"
+  }
+}

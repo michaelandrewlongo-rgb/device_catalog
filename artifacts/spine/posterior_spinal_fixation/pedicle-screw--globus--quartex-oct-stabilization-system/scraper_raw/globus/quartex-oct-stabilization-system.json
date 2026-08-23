@@ -1,0 +1,13 @@
+{
+  "device_name": "QUARTEX OCT Stabilization System",
+  "manufacturer": "globus",
+  "category_hint": "pedicle-screw",
+  "source_url": "https://www.globusmedical.com/healthcare-professionals/spine/procedures/deformity/",
+  "what_it_is": "Occipito-cervico-thoracic stabilization system with threaded drivers and streamlined reduction tools. QUARTEX MIS variant for percutaneous approach with ExcelsiusGPS.",
+  "indications": "Posterior OCT fusion.",
+  "compatible_with": "ExcelsiusGPS.",
+  "also_known_as": [
+    "QUARTEX",
+    "QUARTEX MIS"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--silony-medical-gmbh--favo-s-tlif",
+  "artifact_folder": "pedicle-screw--silony-medical-gmbh--favo-s-tlif",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2741,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--silony-medical-gmbh--favo-s-tlif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--silony-medical-gmbh--favo-s-tlif/enriched/pedicle-screw--silony-medical-gmbh--favo-s-tlif.json",
+        "bytes": 1378
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K190680.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--silony-medical-gmbh--favo-s-tlif/fda_raw/MAX/K190680.json",
+        "bytes": 566
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--silony-medical-gmbh--favo-s-tlif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--silony-medical-gmbh--favo-s-tlif/merged/pedicle-screw--silony-medical-gmbh--favo-s-tlif.json",
+        "bytes": 797
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

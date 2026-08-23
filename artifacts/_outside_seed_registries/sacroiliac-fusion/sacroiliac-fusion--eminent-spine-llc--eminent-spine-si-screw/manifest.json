@@ -1,0 +1,21 @@
+{
+  "device_slug": "sacroiliac-fusion--eminent-spine-llc--eminent-spine-si-screw",
+  "artifact_folder": "sacroiliac-fusion--eminent-spine-llc--eminent-spine-si-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 598,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/OUR/K240505.json",
+        "artifact": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--eminent-spine-llc--eminent-spine-si-screw/fda_raw/OUR/K240505.json",
+        "bytes": 598
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "sacroiliac-fusion",
+    "label": "Outside listed seed registries"
+  }
+}

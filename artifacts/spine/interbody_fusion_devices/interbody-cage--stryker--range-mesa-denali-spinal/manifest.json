@@ -1,0 +1,40 @@
+{
+  "device_slug": "interbody-cage--stryker--range-mesa-denali-spinal",
+  "artifact_folder": "interbody-cage--stryker--range-mesa-denali-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3853,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--stryker--range-mesa-denali-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker--range-mesa-denali-spinal/enriched/interbody-cage--stryker--range-mesa-denali-spinal.json",
+        "bytes": 1891
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K140765.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker--range-mesa-denali-spinal/fda_raw/NKB/K140765.json",
+        "bytes": 567
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K141873.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker--range-mesa-denali-spinal/fda_raw/NKB/K141873.json",
+        "bytes": 567
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--stryker--range-mesa-denali-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker--range-mesa-denali-spinal/merged/interbody-cage--stryker--range-mesa-denali-spinal.json",
+        "bytes": 828
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

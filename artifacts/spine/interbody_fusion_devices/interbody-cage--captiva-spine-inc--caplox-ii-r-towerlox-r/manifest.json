@@ -1,0 +1,40 @@
+{
+  "device_slug": "interbody-cage--captiva-spine-inc--caplox-ii-r-towerlox-r",
+  "artifact_folder": "interbody-cage--captiva-spine-inc--caplox-ii-r-towerlox-r",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3577,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--captiva-spine-inc--caplox-ii-r-towerlox-r.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--captiva-spine-inc--caplox-ii-r-towerlox-r/enriched/interbody-cage--captiva-spine-inc--caplox-ii-r-towerlox-r.json",
+        "bytes": 1459
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K180475.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--captiva-spine-inc--caplox-ii-r-towerlox-r/fda_raw/NKB/K180475.json",
+        "bytes": 613
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K193270.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--captiva-spine-inc--caplox-ii-r-towerlox-r/fda_raw/NKB/K193270.json",
+        "bytes": 611
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--captiva-spine-inc--caplox-ii-r-towerlox-r.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--captiva-spine-inc--caplox-ii-r-towerlox-r/merged/interbody-cage--captiva-spine-inc--caplox-ii-r-towerlox-r.json",
+        "bytes": 894
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

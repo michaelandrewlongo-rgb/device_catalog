@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K760502",
+  "clearance_date": "1976-08-30",
+  "device_class": 2,
+  "manufacturer_canonical": "joe-w-utt",
+  "manufacturer_raw": "Joe W. Utt",
+  "catalog_category": "csf-shunt",
+  "device_name_fda": "VALVE, ANTI-SYPHON MODEL PUDENZE FLUSH.",
+  "product_code": "JXG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "csf-shunt--joe-w-utt--valve-anti-syphon-model-pudenze",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf76/K760502.pdf"
+}

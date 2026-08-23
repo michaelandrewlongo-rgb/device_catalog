@@ -1,0 +1,64 @@
+{
+  "device_slug": "dural-substitute--medtronic--durepair-dura-regeneration-matrix",
+  "artifact_folder": "dural-substitute--medtronic--durepair-dura-regeneration-matrix",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 8,
+  "bytes": 265168,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/dural-substitute/parsed/fda_summaries/dural-substitute--medtronic--durepair-dura-regeneration-matrix--510k.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--medtronic--durepair-dura-regeneration-matrix/510k/dural-substitute/parsed/fda_summaries/dural-substitute--medtronic--durepair-dura-regeneration-matrix--510k.json",
+        "bytes": 53829
+      },
+      {
+        "source": "pipeline/data/510k/dural-substitute/pdfs/dural-substitute--medtronic--durepair-dura-regeneration-matrix--510k.pdf",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--medtronic--durepair-dura-regeneration-matrix/510k/dural-substitute/pdfs/dural-substitute--medtronic--durepair-dura-regeneration-matrix--510k.pdf",
+        "bytes": 135856
+      }
+    ],
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/dural-substitute--medtronic--durepair-dura-regeneration-matrix--knowledge.md",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--medtronic--durepair-dura-regeneration-matrix/data_by_device/dural-substitute--medtronic--durepair-dura-regeneration-matrix--knowledge.md",
+        "bytes": 36226
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/dural-substitute--medtronic--durepair-dura-regeneration-matrix.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--medtronic--durepair-dura-regeneration-matrix/enriched/dural-substitute--medtronic--durepair-dura-regeneration-matrix.json",
+        "bytes": 36614
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/GXQ/K041000.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--medtronic--durepair-dura-regeneration-matrix/fda_raw/GXQ/K041000.json",
+        "bytes": 598
+      },
+      {
+        "source": "pipeline/data/fda_raw/GXQ/K052211.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--medtronic--durepair-dura-regeneration-matrix/fda_raw/GXQ/K052211.json",
+        "bytes": 598
+      },
+      {
+        "source": "pipeline/data/fda_raw/GXQ/K161370.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--medtronic--durepair-dura-regeneration-matrix/fda_raw/GXQ/K161370.json",
+        "bytes": 598
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/dural-substitute--medtronic--durepair-dura-regeneration-matrix.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--medtronic--durepair-dura-regeneration-matrix/merged/dural-substitute--medtronic--durepair-dura-regeneration-matrix.json",
+        "bytes": 849
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "dural-substitute",
+    "label": "Outside listed seed registries"
+  }
+}

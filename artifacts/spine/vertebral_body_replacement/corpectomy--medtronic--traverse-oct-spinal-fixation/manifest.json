@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--medtronic--traverse-oct-spinal-fixation",
+  "artifact_folder": "corpectomy--medtronic--traverse-oct-spinal-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3314,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--medtronic--traverse-oct-spinal-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--traverse-oct-spinal-fixation/enriched/corpectomy--medtronic--traverse-oct-spinal-fixation.json",
+        "bytes": 1887
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K062447.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--traverse-oct-spinal-fixation/fda_raw/KWP/K062447.json",
+        "bytes": 591
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--medtronic--traverse-oct-spinal-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--traverse-oct-spinal-fixation/merged/corpectomy--medtronic--traverse-oct-spinal-fixation.json",
+        "bytes": 836
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

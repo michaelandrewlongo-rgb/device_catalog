@@ -1,0 +1,26 @@
+{
+  "source_pdf": "gmtgd265-quartexaddition-c-techniqueguide-reva.pdf",
+  "source_path": "C:\\Users\\Michael\\Documents\\device_catalog\\pipeline\\data\\extracted\\nspr\\pdfs\\gmtgd265-quartexaddition-c-techniqueguide-reva.pdf",
+  "device_name": "Gmtgd265 Quartexaddition C Techniqueguide Reva",
+  "manufacturer": "unknown",
+  "doc_type": "technique_guide",
+  "extraction_method": "pdfplumber_deepseek",
+  "extraction_source": "nspr_pdf",
+  "fields": {
+    "what_it_is": "QUARTEX® ADDITION®-C offers an unparalleled portfolio of adapters to facilitate revision, deformity, and complex cervico-thoracic surgeries. QUARTEX® ADDITION®-C accommodates hardware from 3.2-6.35mm rod systems to fit individual patient needs. Designed with a robust grip, the QUARTEX® ADDITION®-C inserters securely hold the implant for complete control during difficult revision and complex deformity surgeries. The inserters feature angled handles for easy maneuvering within deep muscular walls and to keep out of the way during locking cap insertion.",
+    "sizing_specs": "| Implant Color | Rod Sizes Accepted (mm) |\n| --- | --- |\n| Purple | 3.2-4.0 |\n| Light Blue | 4.5-5.0 |\n| Light Blue (Headed) | 4.5-4.75 |\n| Medium Green | 5.5-6.0 |\n| Gold | 5.5-6.35 |",
+    "indications": "The QUARTEX® Occipito-Cervico-Thoracic Spinal System implants are intended to provide immobilization and stabilization of spinal segments as an adjunct to fusion for the following acute and chronic instabilities of the craniocervical junction, the cervical spine (C1-C7) and the thoracic spine (T1-T3): traumatic spinal fractures and/or traumatic dislocations; instability or deformity; failed previous fusions (e.g. pseudoarthrosis); tumors involving the cervical/thoracic spine; and degenerative disease, including intractable radiculopathy and/or myelopathy, neck and/or arm pain of discogenic origin as confirmed by radiographic studies, and degenerative disease of the facets with instability. These implants are also intended to restore the integrity of the spinal column even in the absence of fusion for a limited time period in patients with advanced stage tumors involving the cervical spine in whom life expectancy is of insufficient duration to permit achievement of fusion.",
+    "contraindications": "Certain degenerative diseases or underlying physiological conditions such as diabetes, rheumatoid arthritis, or osteoporosis may alter the healing process, thereby increasing the risk of implant breakage or spinal fracture. Mental or physical impairment which compromises a patient’s ability to comply with necessary limitations or precautions may place that patient at a particular risk during postoperative rehabilitation. Factors such as the patient’s weight, activity level, and adherence to weight bearing or load bearing instructions have an effect on the stresses to which the implant is subjected.",
+    "compatible_with": "QUARTEX® ADDITION®-C implants are used in conjunction with QUARTEX®, CREO®, REVERE®, or ELLIPSE® screws and rods. QUARTEX® constructs may be connected to stabilization systems including ELLIPSE®, PROTEX® CT, PROTEX®, CREO®, REVERE®, or BEACON® Systems using corresponding connectors.",
+    "use_notes": "A posterior approach is used to implant QUARTEX ADDITION-C implants. STEP 1 PREPARATION: Remove any interfering bone. Expose the rod and levels planned for surgery. STEP 2 IMPLANT SELECTION: QUARTEX® ADDITION®-C offers multiple options for hardware connection. Implant selection depends on the following: • Rod diameter • Revision approach (e.g., inline, lateral), if applicable • Number of levels • Available rod spacing • Surgeon preference. STEP 3 IMPLANT INSERTION: A pin-style or threaded-style inserter may be used to insert the implants. All QUARTEX® ADDITION®-C adapters have either a T-slot or vertical slot feature in the central portion of the implant. The Inserter, Pin can be inserted into the T-slot either vertically or horizontally, and into the vertical slot vertically. To release the inserter from the implant, open the forceps. The Inserter, Threaded is used to connect with a QUARTEX® head. To load, align the prongs in the rod slots of the QUARTEX® head and rotate the knurled knob clockwise until finger-tight. Multiple drive features on the knob may be used to tighten and release the inserter from the implant, including the #15 hexalobe, #25 hexalobe, #27 hexalobe, and 8mm hex. Do not overtighten the knurled knob to avoid damaging the threads. The Adapter Reducer may be used to reduce rods ranging from 3.2-6.35mm into a headed-style implant. Insert the distal pin into the rod reduction groove on the Headed connector. Compress the grip handle to reduce. Note that the reducer is designed to seat the rod into the screw, not to bend the rod. Ensure the rod is properly contoured prior to reduction. STEP 4 FINAL TIGHTENING: For final tightening, attach the corresponding driver and torque-limiting handle, as listed in the table below. Insert the driver into the locking cap (or set screw) and rotate the assembly until it reaches the torque limit.",
+    "also_known_as": null
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "sizing_specs": 0.7,
+    "indications": 0.7,
+    "contraindications": 0.7,
+    "compatible_with": 0.7,
+    "use_notes": 0.7
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "device_slug": "pedicle-screw--stryker--learn-more",
+  "artifact_folder": "pedicle-screw--stryker--learn-more",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 2,
+  "bytes": 2120,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--stryker--learn-more.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--learn-more/enriched/pedicle-screw--stryker--learn-more.json",
+        "bytes": 1353
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--stryker--learn-more.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--learn-more/merged/pedicle-screw--stryker--learn-more.json",
+        "bytes": 767
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

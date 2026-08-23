@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--curiteva-inc--curiteva-porous-peek-lumbar-interbody",
+  "artifact_folder": "pedicle-screw--curiteva-inc--curiteva-porous-peek-lumbar-interbody",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2972,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--curiteva-inc--curiteva-porous-peek-lumbar-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--curiteva-inc--curiteva-porous-peek-lumbar-interbody/enriched/pedicle-screw--curiteva-inc--curiteva-porous-peek-lumbar-interbody.json",
+        "bytes": 1470
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K233744.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--curiteva-inc--curiteva-porous-peek-lumbar-interbody/fda_raw/MAX/K233744.json",
+        "bytes": 613
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--curiteva-inc--curiteva-porous-peek-lumbar-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--curiteva-inc--curiteva-porous-peek-lumbar-interbody/merged/pedicle-screw--curiteva-inc--curiteva-porous-peek-lumbar-interbody.json",
+        "bytes": 889
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

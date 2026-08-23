@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--sofamor-danek-mfg-inc--augment-posterior-spinal-fixation",
+  "artifact_folder": "corpectomy--sofamor-danek-mfg-inc--augment-posterior-spinal-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2951,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--sofamor-danek-mfg-inc--augment-posterior-spinal-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sofamor-danek-mfg-inc--augment-posterior-spinal-fixation/enriched/corpectomy--sofamor-danek-mfg-inc--augment-posterior-spinal-fixation.json",
+        "bytes": 1456
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K922672.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sofamor-danek-mfg-inc--augment-posterior-spinal-fixation/fda_raw/KWP/K922672.json",
+        "bytes": 620
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--sofamor-danek-mfg-inc--augment-posterior-spinal-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sofamor-danek-mfg-inc--augment-posterior-spinal-fixation/merged/corpectomy--sofamor-danek-mfg-inc--augment-posterior-spinal-fixation.json",
+        "bytes": 875
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

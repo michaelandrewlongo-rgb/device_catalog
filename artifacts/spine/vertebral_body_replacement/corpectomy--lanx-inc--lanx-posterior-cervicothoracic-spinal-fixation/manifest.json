@@ -1,0 +1,40 @@
+{
+  "device_slug": "corpectomy--lanx-inc--lanx-posterior-cervicothoracic-spinal-fixation",
+  "artifact_folder": "corpectomy--lanx-inc--lanx-posterior-cervicothoracic-spinal-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3604,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--lanx-inc--lanx-posterior-cervicothoracic-spinal-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--lanx-inc--lanx-posterior-cervicothoracic-spinal-fixation/enriched/corpectomy--lanx-inc--lanx-posterior-cervicothoracic-spinal-fixation.json",
+        "bytes": 1483
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K092656.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--lanx-inc--lanx-posterior-cervicothoracic-spinal-fixation/fda_raw/KWP/K092656.json",
+        "bytes": 606
+      },
+      {
+        "source": "pipeline/data/fda_raw/KWP/K100191.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--lanx-inc--lanx-posterior-cervicothoracic-spinal-fixation/fda_raw/KWP/K100191.json",
+        "bytes": 613
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--lanx-inc--lanx-posterior-cervicothoracic-spinal-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--lanx-inc--lanx-posterior-cervicothoracic-spinal-fixation/merged/corpectomy--lanx-inc--lanx-posterior-cervicothoracic-spinal-fixation.json",
+        "bytes": 902
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

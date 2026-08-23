@@ -1,0 +1,42 @@
+{
+  "device_slug": "corpectomy--depuy--uss-vas",
+  "artifact_folder": "corpectomy--depuy--uss-vas",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3645,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--depuy--uss-vas.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--uss-vas/enriched/corpectomy--depuy--uss-vas.json",
+        "bytes": 1774
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/corpectomy--depuy--uss-vas.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--uss-vas/extracted/fda_structured/corpectomy--depuy--uss-vas.json",
+        "bytes": 602
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K002517.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--uss-vas/fda_raw/KWP/K002517.json",
+        "bytes": 518
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--depuy--uss-vas.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--uss-vas/merged/corpectomy--depuy--uss-vas.json",
+        "bytes": 751
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

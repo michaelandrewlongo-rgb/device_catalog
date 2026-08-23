@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--acromed-corp--isola-slotted-connect-angled-slotted",
+  "artifact_folder": "corpectomy--acromed-corp--isola-slotted-connect-angled-slotted",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2925,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--acromed-corp--isola-slotted-connect-angled-slotted.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--acromed-corp--isola-slotted-connect-angled-slotted/enriched/corpectomy--acromed-corp--isola-slotted-connect-angled-slotted.json",
+        "bytes": 1453
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K905826.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--acromed-corp--isola-slotted-connect-angled-slotted/fda_raw/KWP/K905826.json",
+        "bytes": 600
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--acromed-corp--isola-slotted-connect-angled-slotted.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--acromed-corp--isola-slotted-connect-angled-slotted/merged/corpectomy--acromed-corp--isola-slotted-connect-angled-slotted.json",
+        "bytes": 872
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "device_slug": "interbody-cage--endius-inc--endius-minit-posterior-cervical-and",
+  "artifact_folder": "interbody-cage--endius-inc--endius-minit-posterior-cervical-and",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3655,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--endius-inc--endius-minit-posterior-cervical-and.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--endius-inc--endius-minit-posterior-cervical-and/enriched/interbody-cage--endius-inc--endius-minit-posterior-cervical-and.json",
+        "bytes": 1496
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K070282.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--endius-inc--endius-minit-posterior-cervical-and/fda_raw/NKB/K070282.json",
+        "bytes": 622
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K073267.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--endius-inc--endius-minit-posterior-cervical-and/fda_raw/NKB/K073267.json",
+        "bytes": 622
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--endius-inc--endius-minit-posterior-cervical-and.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--endius-inc--endius-minit-posterior-cervical-and/merged/interbody-cage--endius-inc--endius-minit-posterior-cervical-and.json",
+        "bytes": 915
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--carbofix-orthopedics-ltd--carboclear-r-pedicle-screw-carboclear",
+  "artifact_folder": "interbody-cage--carbofix-orthopedics-ltd--carboclear-r-pedicle-screw-carboclear",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3179,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--carbofix-orthopedics-ltd--carboclear-r-pedicle-screw-carboclear.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--carbofix-orthopedics-ltd--carboclear-r-pedicle-screw-carboclear/enriched/interbody-cage--carbofix-orthopedics-ltd--carboclear-r-pedicle-screw-carboclear.json",
+        "bytes": 1536
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K201926.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--carbofix-orthopedics-ltd--carboclear-r-pedicle-screw-carboclear/fda_raw/NKB/K201926.json",
+        "bytes": 672
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--carbofix-orthopedics-ltd--carboclear-r-pedicle-screw-carboclear.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--carbofix-orthopedics-ltd--carboclear-r-pedicle-screw-carboclear/merged/interbody-cage--carbofix-orthopedics-ltd--carboclear-r-pedicle-screw-carboclear.json",
+        "bytes": 971
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

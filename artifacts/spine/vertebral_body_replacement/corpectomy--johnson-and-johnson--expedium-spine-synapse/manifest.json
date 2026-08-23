@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--johnson-and-johnson--expedium-spine-synapse",
+  "artifact_folder": "corpectomy--johnson-and-johnson--expedium-spine-synapse",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2881,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--johnson-and-johnson--expedium-spine-synapse.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--johnson-and-johnson--expedium-spine-synapse/enriched/corpectomy--johnson-and-johnson--expedium-spine-synapse.json",
+        "bytes": 1433
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K142460.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--johnson-and-johnson--expedium-spine-synapse/fda_raw/KWP/K142460.json",
+        "bytes": 596
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--johnson-and-johnson--expedium-spine-synapse.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--johnson-and-johnson--expedium-spine-synapse/merged/corpectomy--johnson-and-johnson--expedium-spine-synapse.json",
+        "bytes": 852
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

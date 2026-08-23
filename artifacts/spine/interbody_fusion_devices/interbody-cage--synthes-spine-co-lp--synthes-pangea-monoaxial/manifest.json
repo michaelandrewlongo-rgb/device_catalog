@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--synthes-spine-co-lp--synthes-pangea-monoaxial",
+  "artifact_folder": "interbody-cage--synthes-spine-co-lp--synthes-pangea-monoaxial",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2886,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--synthes-spine-co-lp--synthes-pangea-monoaxial.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--synthes-spine-co-lp--synthes-pangea-monoaxial/enriched/interbody-cage--synthes-spine-co-lp--synthes-pangea-monoaxial.json",
+        "bytes": 1433
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K052151.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--synthes-spine-co-lp--synthes-pangea-monoaxial/fda_raw/NKB/K052151.json",
+        "bytes": 601
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--synthes-spine-co-lp--synthes-pangea-monoaxial.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--synthes-spine-co-lp--synthes-pangea-monoaxial/merged/interbody-cage--synthes-spine-co-lp--synthes-pangea-monoaxial.json",
+        "bytes": 852
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

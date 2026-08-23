@@ -1,0 +1,21 @@
+{
+  "device_slug": "sacroiliac-fusion--nexxt-spine--nexxt-matrixx-r-si",
+  "artifact_folder": "sacroiliac-fusion--nexxt-spine--nexxt-matrixx-r-si",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 571,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/OUR/K243838.json",
+        "artifact": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--nexxt-spine--nexxt-matrixx-r-si/fda_raw/OUR/K243838.json",
+        "bytes": 571
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "sacroiliac-fusion",
+    "label": "Outside listed seed registries"
+  }
+}

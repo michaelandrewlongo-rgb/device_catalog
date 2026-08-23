@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--stryker--mesa-and-range-spinal-s",
+  "artifact_folder": "corpectomy--stryker--mesa-and-range-spinal-s",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3031,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--stryker--mesa-and-range-spinal-s.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--stryker--mesa-and-range-spinal-s/enriched/corpectomy--stryker--mesa-and-range-spinal-s.json",
+        "bytes": 1660
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K082769.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--stryker--mesa-and-range-spinal-s/fda_raw/KWP/K082769.json",
+        "bytes": 556
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--stryker--mesa-and-range-spinal-s.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--stryker--mesa-and-range-spinal-s/merged/corpectomy--stryker--mesa-and-range-spinal-s.json",
+        "bytes": 815
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

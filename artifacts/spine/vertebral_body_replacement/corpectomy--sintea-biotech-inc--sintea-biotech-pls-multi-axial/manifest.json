@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--sintea-biotech-inc--sintea-biotech-pls-multi-axial",
+  "artifact_folder": "corpectomy--sintea-biotech-inc--sintea-biotech-pls-multi-axial",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3000,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--sintea-biotech-inc--sintea-biotech-pls-multi-axial.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sintea-biotech-inc--sintea-biotech-pls-multi-axial/enriched/corpectomy--sintea-biotech-inc--sintea-biotech-pls-multi-axial.json",
+        "bytes": 1479
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K060513.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sintea-biotech-inc--sintea-biotech-pls-multi-axial/fda_raw/KWP/K060513.json",
+        "bytes": 623
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--sintea-biotech-inc--sintea-biotech-pls-multi-axial.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sintea-biotech-inc--sintea-biotech-pls-multi-axial/merged/corpectomy--sintea-biotech-inc--sintea-biotech-pls-multi-axial.json",
+        "bytes": 898
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

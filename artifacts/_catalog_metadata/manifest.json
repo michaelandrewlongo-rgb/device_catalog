@@ -1,0 +1,35 @@
+{
+  "device_slug": "_catalog_metadata",
+  "artifact_folder": "_catalog_metadata",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 1602839,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/.ncbi_keys.txt",
+        "artifact": "artifacts/_catalog_metadata/data_by_device/.ncbi_keys.txt",
+        "bytes": 102
+      },
+      {
+        "source": "pipeline/data/data_by_device/CATALOG_INDEX.md",
+        "artifact": "artifacts/_catalog_metadata/data_by_device/CATALOG_INDEX.md",
+        "bytes": 26693
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/skipped.json",
+        "artifact": "artifacts/_catalog_metadata/extracted/skipped.json",
+        "bytes": 515
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/discovery_report.json",
+        "artifact": "artifacts/_catalog_metadata/fda_raw/discovery_report.json",
+        "bytes": 1575529
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "device_slug": "pedicle-screw--corelink-llc--corelink-foundation-3d-anterior-lumbar-recalls",
+  "artifact_folder": "pedicle-screw--corelink-llc--corelink-foundation-3d-anterior-lumbar-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 318,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/pedicle-screw--corelink-llc--corelink-foundation-3d-anterior-lumbar-recalls.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--corelink-llc--corelink-foundation-3d-anterior-lumbar-recalls/extracted/fda_safety/pedicle-screw--corelink-llc--corelink-foundation-3d-anterior-lumbar-recalls.json",
+        "bytes": 318
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

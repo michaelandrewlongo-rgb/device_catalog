@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--intelligent-implant-systems-llc--marauder-cervical-thoracic-spinal-fixation",
+  "artifact_folder": "corpectomy--intelligent-implant-systems-llc--marauder-cervical-thoracic-spinal-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3091,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--intelligent-implant-systems-llc--marauder-cervical-thoracic-spinal-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--intelligent-implant-systems-llc--marauder-cervical-thoracic-spinal-fixation/enriched/corpectomy--intelligent-implant-systems-llc--marauder-cervical-thoracic-spinal-fixation.json",
+        "bytes": 1503
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K132900.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--intelligent-implant-systems-llc--marauder-cervical-thoracic-spinal-fixation/fda_raw/KWP/K132900.json",
+        "bytes": 666
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--intelligent-implant-systems-llc--marauder-cervical-thoracic-spinal-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--intelligent-implant-systems-llc--marauder-cervical-thoracic-spinal-fixation/merged/corpectomy--intelligent-implant-systems-llc--marauder-cervical-thoracic-spinal-fixation.json",
+        "bytes": 922
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

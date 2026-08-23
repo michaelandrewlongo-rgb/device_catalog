@@ -1,0 +1,40 @@
+{
+  "device_slug": "pedicle-screw--spine-smith-partners-l-p--spinesmith-cynch-spinal",
+  "artifact_folder": "pedicle-screw--spine-smith-partners-l-p--spinesmith-cynch-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3521,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--spine-smith-partners-l-p--spinesmith-cynch-spinal.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spine-smith-partners-l-p--spinesmith-cynch-spinal/enriched/pedicle-screw--spine-smith-partners-l-p--spinesmith-cynch-spinal.json",
+        "bytes": 1438
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K090376.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spine-smith-partners-l-p--spinesmith-cynch-spinal/fda_raw/MAX/K090376.json",
+        "bytes": 613
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K101085.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spine-smith-partners-l-p--spinesmith-cynch-spinal/fda_raw/MAX/K101085.json",
+        "bytes": 613
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--spine-smith-partners-l-p--spinesmith-cynch-spinal.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spine-smith-partners-l-p--spinesmith-cynch-spinal/merged/pedicle-screw--spine-smith-partners-l-p--spinesmith-cynch-spinal.json",
+        "bytes": 857
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

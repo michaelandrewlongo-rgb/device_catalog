@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--custom-spine--pathway-model-07xxxx",
+  "artifact_folder": "pedicle-screw--custom-spine--pathway-model-07xxxx",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2764,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--custom-spine--pathway-model-07xxxx.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--custom-spine--pathway-model-07xxxx/enriched/pedicle-screw--custom-spine--pathway-model-07xxxx.json",
+        "bytes": 1391
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K111774.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--custom-spine--pathway-model-07xxxx/fda_raw/MAX/K111774.json",
+        "bytes": 563
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--custom-spine--pathway-model-07xxxx.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--custom-spine--pathway-model-07xxxx/merged/pedicle-screw--custom-spine--pathway-model-07xxxx.json",
+        "bytes": 810
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

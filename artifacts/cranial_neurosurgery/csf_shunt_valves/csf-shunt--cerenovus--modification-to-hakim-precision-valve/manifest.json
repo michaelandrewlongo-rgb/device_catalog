@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--cerenovus--modification-to-hakim-precision-valve",
+  "artifact_folder": "csf-shunt--cerenovus--modification-to-hakim-precision-valve",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3284,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--cerenovus--modification-to-hakim-precision-valve.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cerenovus--modification-to-hakim-precision-valve/enriched/csf-shunt--cerenovus--modification-to-hakim-precision-valve.json",
+        "bytes": 1594
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K041296.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cerenovus--modification-to-hakim-precision-valve/fda_raw/JXG/K041296.json",
+        "bytes": 677
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--cerenovus--modification-to-hakim-precision-valve.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cerenovus--modification-to-hakim-precision-valve/merged/csf-shunt--cerenovus--modification-to-hakim-precision-valve.json",
+        "bytes": 1013
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

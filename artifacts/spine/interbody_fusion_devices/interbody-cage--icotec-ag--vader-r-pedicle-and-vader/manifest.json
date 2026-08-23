@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--icotec-ag--vader-r-pedicle-and-vader",
+  "artifact_folder": "interbody-cage--icotec-ag--vader-r-pedicle-and-vader",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3266,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--icotec-ag--vader-r-pedicle-and-vader.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--icotec-ag--vader-r-pedicle-and-vader/enriched/interbody-cage--icotec-ag--vader-r-pedicle-and-vader.json",
+        "bytes": 1782
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K242900.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--icotec-ag--vader-r-pedicle-and-vader/fda_raw/NKB/K242900.json",
+        "bytes": 593
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--icotec-ag--vader-r-pedicle-and-vader.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--icotec-ag--vader-r-pedicle-and-vader/merged/interbody-cage--icotec-ag--vader-r-pedicle-and-vader.json",
+        "bytes": 891
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

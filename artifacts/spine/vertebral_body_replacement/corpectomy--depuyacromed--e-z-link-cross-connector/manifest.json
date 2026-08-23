@@ -1,0 +1,40 @@
+{
+  "device_slug": "corpectomy--depuyacromed--e-z-link-cross-connector",
+  "artifact_folder": "corpectomy--depuyacromed--e-z-link-cross-connector",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3343,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--depuyacromed--e-z-link-cross-connector.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuyacromed--e-z-link-cross-connector/enriched/corpectomy--depuyacromed--e-z-link-cross-connector.json",
+        "bytes": 1397
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K001372.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuyacromed--e-z-link-cross-connector/fda_raw/KWP/K001372.json",
+        "bytes": 565
+      },
+      {
+        "source": "pipeline/data/fda_raw/KWP/K001470.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuyacromed--e-z-link-cross-connector/fda_raw/KWP/K001470.json",
+        "bytes": 565
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--depuyacromed--e-z-link-cross-connector.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuyacromed--e-z-link-cross-connector/merged/corpectomy--depuyacromed--e-z-link-cross-connector.json",
+        "bytes": 816
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

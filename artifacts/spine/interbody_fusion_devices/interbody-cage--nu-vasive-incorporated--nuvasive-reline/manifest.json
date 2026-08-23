@@ -1,0 +1,45 @@
+{
+  "device_slug": "interbody-cage--nu-vasive-incorporated--nuvasive-reline",
+  "artifact_folder": "interbody-cage--nu-vasive-incorporated--nuvasive-reline",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 4022,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--nu-vasive-incorporated--nuvasive-reline.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--nu-vasive-incorporated--nuvasive-reline/enriched/interbody-cage--nu-vasive-incorporated--nuvasive-reline.json",
+        "bytes": 1412
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K143684.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--nu-vasive-incorporated--nuvasive-reline/fda_raw/NKB/K143684.json",
+        "bytes": 593
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K182974.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--nu-vasive-incorporated--nuvasive-reline/fda_raw/NKB/K182974.json",
+        "bytes": 593
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K223181.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--nu-vasive-incorporated--nuvasive-reline/fda_raw/NKB/K223181.json",
+        "bytes": 593
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--nu-vasive-incorporated--nuvasive-reline.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--nu-vasive-incorporated--nuvasive-reline/merged/interbody-cage--nu-vasive-incorporated--nuvasive-reline.json",
+        "bytes": 831
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--genesys-spine--tilock-modular-spinal",
+  "artifact_folder": "interbody-cage--genesys-spine--tilock-modular-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2820,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--genesys-spine--tilock-modular-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--genesys-spine--tilock-modular-spinal/enriched/interbody-cage--genesys-spine--tilock-modular-spinal.json",
+        "bytes": 1412
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K172469.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--genesys-spine--tilock-modular-spinal/fda_raw/NKB/K172469.json",
+        "bytes": 577
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--genesys-spine--tilock-modular-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--genesys-spine--tilock-modular-spinal/merged/interbody-cage--genesys-spine--tilock-modular-spinal.json",
+        "bytes": 831
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

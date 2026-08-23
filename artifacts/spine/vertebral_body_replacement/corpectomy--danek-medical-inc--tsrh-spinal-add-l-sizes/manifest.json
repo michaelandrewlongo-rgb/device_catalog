@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--danek-medical-inc--tsrh-spinal-add-l-sizes",
+  "artifact_folder": "corpectomy--danek-medical-inc--tsrh-spinal-add-l-sizes",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2897,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--danek-medical-inc--tsrh-spinal-add-l-sizes.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--danek-medical-inc--tsrh-spinal-add-l-sizes/enriched/corpectomy--danek-medical-inc--tsrh-spinal-add-l-sizes.json",
+        "bytes": 1440
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K901005.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--danek-medical-inc--tsrh-spinal-add-l-sizes/fda_raw/KWP/K901005.json",
+        "bytes": 598
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--danek-medical-inc--tsrh-spinal-add-l-sizes.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--danek-medical-inc--tsrh-spinal-add-l-sizes/merged/corpectomy--danek-medical-inc--tsrh-spinal-add-l-sizes.json",
+        "bytes": 859
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

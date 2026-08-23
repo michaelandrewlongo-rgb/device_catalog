@@ -1,0 +1,41 @@
+{
+  "source": "nspr",
+  "nspr_url": "https://neurospineproductreview.com/altera-articulating-expandable-tlif-banana-spacer",
+  "device_name": "ALTERA articulating  Expandable TLIF Banana Spacer",
+  "manufacturer": "Globus Medical",
+  "specs": {
+    "Product Category": "Spinal Implants",
+    "By Product Type": "Interbody Device",
+    "Cage Type": "Interbody Cage/Lumbar",
+    "Expansion": "Expandable",
+    "Expansion Type/Lordosis": "Parallel expansion (Fixed Lordosis)",
+    "Cage Approach": "Posterior",
+    "Configuration": "Cage Alone",
+    "By Material": "Titanium (Solid)",
+    "By Location/Approach": "Posterior Lumbar",
+    "By Procedure Type": "TLIF",
+    "By System Type": "Degenerative"
+  },
+  "description": "The ALTERA Expandable TLIF articulating spacer by Globus Medical is a titanium expandable spacer for use in the TLIF approach.",
+  "features": [
+    "4mm expansion",
+    "Backfilled via funnel",
+    "Articulating insertion",
+    "Footprint options:",
+    "10x26mm",
+    "10x31mm",
+    "10x36mm",
+    "Lordosis Options:",
+    "8 degree",
+    "15 degree",
+    "Expansion Ranges:",
+    "8-12mm",
+    "9-13mm",
+    "10-14mm",
+    "12-16mm"
+  ],
+  "pdfs": [
+    "https://neurospineproductreview.com/storage/products/pdfs/globus-altera-articulating-tlif-expanding-spacer.pdf"
+  ],
+  "mfr_link": ""
+}

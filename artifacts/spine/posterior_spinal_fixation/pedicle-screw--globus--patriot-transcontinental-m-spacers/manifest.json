@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--globus--patriot-transcontinental-m-spacers",
+  "artifact_folder": "pedicle-screw--globus--patriot-transcontinental-m-spacers",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3323,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--globus--patriot-transcontinental-m-spacers.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--globus--patriot-transcontinental-m-spacers/enriched/pedicle-screw--globus--patriot-transcontinental-m-spacers.json",
+        "bytes": 1896
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K102313.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--globus--patriot-transcontinental-m-spacers/fda_raw/MAX/K102313.json",
+        "bytes": 587
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--globus--patriot-transcontinental-m-spacers.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--globus--patriot-transcontinental-m-spacers/merged/pedicle-screw--globus--patriot-transcontinental-m-spacers.json",
+        "bytes": 840
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

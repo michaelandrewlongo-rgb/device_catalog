@@ -1,0 +1,42 @@
+{
+  "device_slug": "interbody-cage--clariance--erisma-lp",
+  "artifact_folder": "interbody-cage--clariance--erisma-lp",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3711,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--clariance--erisma-lp.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--clariance--erisma-lp/enriched/interbody-cage--clariance--erisma-lp.json",
+        "bytes": 1817
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--clariance--erisma-lp.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--clariance--erisma-lp/extracted/fda_structured/interbody-cage--clariance--erisma-lp.json",
+        "bytes": 587
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K120469.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--clariance--erisma-lp/fda_raw/NKB/K120469.json",
+        "bytes": 534
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--clariance--erisma-lp.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--clariance--erisma-lp/merged/interbody-cage--clariance--erisma-lp.json",
+        "bytes": 773
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

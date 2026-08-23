@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K033698",
+  "clearance_date": "2003-12-17",
+  "device_class": 2,
+  "manufacturer_canonical": "integra",
+  "manufacturer_raw": "Integra Neurosciences Implants S.A.",
+  "catalog_category": "csf-shunt",
+  "device_name_fda": "CONTOUR-FLEX VALVE AND SHUNT SYSTEM",
+  "product_code": "JXG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "csf-shunt--integra--contour-flex-valve-and-shunt",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf03/K033698.pdf"
+}

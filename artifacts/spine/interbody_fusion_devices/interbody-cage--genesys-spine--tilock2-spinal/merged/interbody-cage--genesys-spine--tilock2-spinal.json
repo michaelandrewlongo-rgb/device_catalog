@@ -1,0 +1,28 @@
+{
+  "device_name": "TiLock2 Spinal System",
+  "manufacturer": "genesys-spine",
+  "catalog_category": "interbody-cage",
+  "filename_stem": "interbody-cage--genesys-spine--tilock2-spinal",
+  "clearance_type": "510k",
+  "clearance_number": "K171838",
+  "clearance_date": "2017-07-19",
+  "device_class": 2,
+  "device_name_fda": "TiLock2 Spinal System",
+  "product_code": "NKB",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf17/K171838.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

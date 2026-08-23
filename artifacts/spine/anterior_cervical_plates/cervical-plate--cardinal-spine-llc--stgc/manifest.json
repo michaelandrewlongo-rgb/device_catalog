@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--cardinal-spine-llc--stgc",
+  "artifact_folder": "cervical-plate--cardinal-spine-llc--stgc",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2685,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--cardinal-spine-llc--stgc.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--cardinal-spine-llc--stgc/enriched/cervical-plate--cardinal-spine-llc--stgc.json",
+        "bytes": 1357
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K121176.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--cardinal-spine-llc--stgc/fda_raw/MQP/K121176.json",
+        "bytes": 552
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--cardinal-spine-llc--stgc.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--cardinal-spine-llc--stgc/merged/cervical-plate--cardinal-spine-llc--stgc.json",
+        "bytes": 776
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

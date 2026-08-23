@@ -1,0 +1,28 @@
+{
+  "device_name": "NuVasive\u00ae Reline\u00ae System",
+  "manufacturer": "nu-vasive-incorporated",
+  "catalog_category": "interbody-cage",
+  "filename_stem": "interbody-cage--nu-vasive-incorporated--nuvasive-r-reline-r",
+  "clearance_type": "510k",
+  "clearance_number": "K161014",
+  "clearance_date": "2016-09-28",
+  "device_class": 2,
+  "device_name_fda": "NuVasive\u00ae Reline\u00ae System",
+  "product_code": "NKB",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf16/K161014.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

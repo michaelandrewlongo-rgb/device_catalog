@@ -1,0 +1,21 @@
+{
+  "device_slug": "pedicle-screw--neo-medical--neo",
+  "artifact_folder": "pedicle-screw--neo-medical--neo",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 5703,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/pedicle-screw--neo-medical--neo--knowledge.md",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--neo-medical--neo/data_by_device/pedicle-screw--neo-medical--neo--knowledge.md",
+        "bytes": 5703
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "device_name": "BIODESIGN ONLAY DURAL GRAFT OR BIODESIGN DURAPLASTY GRAFT",
+  "manufacturer": "cook-biotech-inc",
+  "catalog_category": "dural-substitute",
+  "filename_stem": "dural-substitute--cook-biotech-inc--biodesign-onlay-dural-graft-or",
+  "clearance_type": "510k",
+  "clearance_number": "K131015",
+  "clearance_date": "2013-10-08",
+  "device_class": 2,
+  "device_name_fda": "BIODESIGN ONLAY DURAL GRAFT OR BIODESIGN DURAPLASTY GRAFT",
+  "product_code": "GXQ",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf13/K131015.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

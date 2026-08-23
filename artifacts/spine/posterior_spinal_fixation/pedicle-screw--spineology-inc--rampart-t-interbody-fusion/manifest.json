@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--spineology-inc--rampart-t-interbody-fusion",
+  "artifact_folder": "pedicle-screw--spineology-inc--rampart-t-interbody-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2863,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--spineology-inc--rampart-t-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spineology-inc--rampart-t-interbody-fusion/enriched/pedicle-screw--spineology-inc--rampart-t-interbody-fusion.json",
+        "bytes": 1427
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K151020.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spineology-inc--rampart-t-interbody-fusion/fda_raw/MAX/K151020.json",
+        "bytes": 590
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--spineology-inc--rampart-t-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spineology-inc--rampart-t-interbody-fusion/merged/pedicle-screw--spineology-inc--rampart-t-interbody-fusion.json",
+        "bytes": 846
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

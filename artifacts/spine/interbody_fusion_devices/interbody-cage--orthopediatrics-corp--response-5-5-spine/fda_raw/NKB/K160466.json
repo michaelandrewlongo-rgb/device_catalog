@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K160466",
+  "clearance_date": "2016-03-23",
+  "device_class": 2,
+  "manufacturer_canonical": "orthopediatrics-corp",
+  "manufacturer_raw": "OrthoPediatrics Corp.",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "Response 5.5 Spine System",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--orthopediatrics-corp--response-5-5-spine",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf16/K160466.pdf"
+}

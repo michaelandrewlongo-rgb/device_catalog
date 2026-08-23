@@ -1,0 +1,31 @@
+{
+  "device_name": "COLONIAL Cervical Interbody Spacer",
+  "manufacturer": "globus",
+  "catalog_category": "cervical-cage",
+  "filename_stem": "cervical-cage--globus--colonial-cervical-interbody-spacer",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "PEEK anterior cervical interbody spacer. COLONIAL TPS variant adds titanium plasma spray on endplate surfaces. Numerous footprints, heights, and sagittal profiles.",
+  "sizing_specs": null,
+  "indications": "ACDF.",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [
+    "COLONIAL",
+    "COLONIAL TPS"
+  ],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.globusmedical.com/healthcare-professionals/spine/procedures/acdf/",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ]
+}

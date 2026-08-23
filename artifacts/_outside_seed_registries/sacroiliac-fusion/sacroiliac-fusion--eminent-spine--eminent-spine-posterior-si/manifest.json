@@ -1,0 +1,21 @@
+{
+  "device_slug": "sacroiliac-fusion--eminent-spine--eminent-spine-posterior-si",
+  "artifact_folder": "sacroiliac-fusion--eminent-spine--eminent-spine-posterior-si",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 593,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/OUR/K250894.json",
+        "artifact": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--eminent-spine--eminent-spine-posterior-si/fda_raw/OUR/K250894.json",
+        "bytes": 593
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "sacroiliac-fusion",
+    "label": "Outside listed seed registries"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--depuy-inc--depuy-acromed-moss-and-moss",
+  "artifact_folder": "corpectomy--depuy-inc--depuy-acromed-moss-and-moss",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2888,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--depuy-inc--depuy-acromed-moss-and-moss.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy-inc--depuy-acromed-moss-and-moss/enriched/corpectomy--depuy-inc--depuy-acromed-moss-and-moss.json",
+        "bytes": 1442
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K983583.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy-inc--depuy-acromed-moss-and-moss/fda_raw/KWP/K983583.json",
+        "bytes": 585
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--depuy-inc--depuy-acromed-moss-and-moss.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy-inc--depuy-acromed-moss-and-moss/merged/corpectomy--depuy-inc--depuy-acromed-moss-and-moss.json",
+        "bytes": 861
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

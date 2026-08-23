@@ -1,0 +1,42 @@
+{
+  "device_slug": "pedicle-screw--difusion-technologies--xiphos",
+  "artifact_folder": "pedicle-screw--difusion-technologies--xiphos",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3524,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--difusion-technologies--xiphos.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--difusion-technologies--xiphos/enriched/pedicle-screw--difusion-technologies--xiphos.json",
+        "bytes": 1609
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/pedicle-screw--difusion-technologies--xiphos.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--difusion-technologies--xiphos/extracted/fda_structured/pedicle-screw--difusion-technologies--xiphos.json",
+        "bytes": 567
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K123969.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--difusion-technologies--xiphos/fda_raw/MAX/K123969.json",
+        "bytes": 562
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--difusion-technologies--xiphos.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--difusion-technologies--xiphos/merged/pedicle-screw--difusion-technologies--xiphos.json",
+        "bytes": 786
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

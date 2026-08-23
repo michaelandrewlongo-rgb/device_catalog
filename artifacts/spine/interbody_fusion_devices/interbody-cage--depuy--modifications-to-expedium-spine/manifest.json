@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--depuy--modifications-to-expedium-spine",
+  "artifact_folder": "interbody-cage--depuy--modifications-to-expedium-spine",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3389,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--depuy--modifications-to-expedium-spine.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--modifications-to-expedium-spine/enriched/interbody-cage--depuy--modifications-to-expedium-spine.json",
+        "bytes": 1959
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K082195.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--modifications-to-expedium-spine/fda_raw/NKB/K082195.json",
+        "bytes": 585
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--depuy--modifications-to-expedium-spine.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--modifications-to-expedium-spine/merged/interbody-cage--depuy--modifications-to-expedium-spine.json",
+        "bytes": 845
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

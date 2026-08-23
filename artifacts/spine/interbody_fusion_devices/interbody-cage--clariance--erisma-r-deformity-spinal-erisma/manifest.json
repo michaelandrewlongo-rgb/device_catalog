@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--clariance--erisma-r-deformity-spinal-erisma",
+  "artifact_folder": "interbody-cage--clariance--erisma-r-deformity-spinal-erisma",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3239,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--clariance--erisma-r-deformity-spinal-erisma.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--clariance--erisma-r-deformity-spinal-erisma/enriched/interbody-cage--clariance--erisma-r-deformity-spinal-erisma.json",
+        "bytes": 1693
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K240872.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--clariance--erisma-r-deformity-spinal-erisma/fda_raw/NKB/K240872.json",
+        "bytes": 616
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--clariance--erisma-r-deformity-spinal-erisma.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--clariance--erisma-r-deformity-spinal-erisma/merged/interbody-cage--clariance--erisma-r-deformity-spinal-erisma.json",
+        "bytes": 930
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

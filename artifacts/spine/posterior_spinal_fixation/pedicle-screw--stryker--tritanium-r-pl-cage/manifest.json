@@ -1,0 +1,40 @@
+{
+  "device_slug": "pedicle-screw--stryker--tritanium-r-pl-cage",
+  "artifact_folder": "pedicle-screw--stryker--tritanium-r-pl-cage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3275,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--stryker--tritanium-r-pl-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--tritanium-r-pl-cage/enriched/pedicle-screw--stryker--tritanium-r-pl-cage.json",
+        "bytes": 1378
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K160955.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--tritanium-r-pl-cage/fda_raw/MAX/K160955.json",
+        "bytes": 546
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K162262.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--tritanium-r-pl-cage/fda_raw/MAX/K162262.json",
+        "bytes": 546
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--stryker--tritanium-r-pl-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--tritanium-r-pl-cage/merged/pedicle-screw--stryker--tritanium-r-pl-cage.json",
+        "bytes": 805
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

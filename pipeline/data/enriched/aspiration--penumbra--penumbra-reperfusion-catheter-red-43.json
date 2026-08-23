@@ -11,12 +11,29 @@
   "product_code": "NRY",
   "what_it_is": null,
   "sizing_specs": "Sheath Compatibility (F): 6 (RED 72, RED 72 with SENDit Technology, RED 68, RED 62, RED 43, and Penumbra JET D require 8-F short sheath or 6-F long sheath)\nWorking Length (cm): 132–160",
-  "indications": "As part of the Penumbra system, the Reperfusion catheters and separators are indicated for use in the revascularization of patients with acute ischemic stroke secondary to intracranial large vessel occlusive disease (within the internal carotid, middle cerebral—M1 and M2 segments, basilar, and vertebral arteries) within 8 hours of symptom onset. Patients who are ineligible for intravenous tissue plasminogen activator (IV t-PA) or who fail IV t-PA therapy are candidates for treatment\n\nAs part of the Penumbra system, the Reperfusion catheters and separators are indicated for use in the revascularization of patients with acute ischemic stroke secondary to intracranial large vessel occlusive disease (within the internal carotid, middle cerebral—M1 and M2 segments, basilar, and vertebral arteries) within 8 hours of symptom onset. Patients who are ineligible for thrombolytic drug therapy or who failed thrombolytic drug therapy are candidates for treatment",
+  "indications": "Indications for Use See PRA Statement below.\n510(k) Number (if known)\nK222808\nDevice Name\nPenumbra System® (Reperfusion Catheter RED™ 43)\nIndications for Use (Describe)\nPenumbra Reperfusion Catheters and Separators\nAs part of the Penumbra System, the Reperfusion Catheters and Separators are indicated for use in the revascularization of\npatients with acute ischemic stroke secondary to intracranial large vessel occlusive disease (within the internal carotid,\nmiddle cerebral – M1 and M2 segments, basilar, and vertebral arteries) within 8 hours of symptom onset. Patients who are\nineligible for intravenous tissue plasminogen activator (IV t-PA) or who fail IV t-PA therapy are candidates for treatment.\nPenumbra 3D Revascularization Device\nAs part of the Penumbra System, the Penumbra 3D Revascularization Device is indicated for use in the revascularization\nof patients with acute ischemic stroke secondary to intracranial large vessel occlusive disease (within the internal carotid,\nmiddle cerebral – M1 and M2 segments) within 8 hours of symptom onset. Patients who are ineligible for intravenous\ntissue plasminogen activator (IV t-PA) or who fail IV t-PA therapy are candidates for treatment.\nPenumbra Aspiration Tubing\nAs part of the Penumbra System, the Penumbra Sterile Aspiration Tubing is indicated to connect the Penumbra\nReperfusion Catheters to the Penumbra Aspiration Pump.\nPenumbra Aspiration Pump\nThe Penumbra Aspiration Pump is indicated as a vacuum source for Penumbra Aspiration Systems.\nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)\nCONTINUE ON A SEPARATE PAGE IF NEEDED.\nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the\ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any other aspect\nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of\ninformation unless it displays a currently valid OMB number.”\nFORM FDA 3881 (6/20) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF\n\nK222808\n1 510(k) Summary\n(as required by 21 CFR 807.92)\nPursuant to Section 12, Part (a)(i)(3A) of the Safe Medical Devices Act of 1990,\nPenumbra, Inc. is providing the summary of Substantial Equivalence for the subject\nPenumbra System (Reperfusion Catheter RED 43).\n1.1 Submitter\nPenumbra, Inc.\nOne Penumbra Place\nAlameda, CA 94502 USA\nContact Person:\nMicaela Victoria\nRegulatory Affairs Program Manager\nTel: (510) 995-2082\nFax: (510) 217-6414\nE-mail: mvictoria@penumbrainc.com\nDate of Preparation:\nDecember 19, 2022\n1.2 Subject Device\nPenumbra System (Reperfusion Catheter RED 43)\nRegulatory Class: II\nClassification Panel: Neurology\nClassification Name: Percutaneous Catheter\nRegulation Number: 21 CFR 870.1250\nProduct Code: NRY\n1.3 Predicate/References Devices\nName of\n510(k) Number Name of Device\nManufacturer",
   "contraindications": null,
   "compatible_with": null,
   "use_notes": "Mode of Operation: Direct aspiration clot removal with Penumbra Engine aspiration source\n\n[FDA RECALL] 6 active recall(s).\n  - Reperfusion catheter may fail at the mid-shaft joint and may break off.  If the segment cannot be removed, it may result in blocked blood flow, requiring emergency medical treatment.\n  - The catheter may become susceptible to distal tip damage during use.  Distal tip damage in conjunction with pressurization of contrast injection may result in potential vessel damage, and subsequent p",
   "deployment_steps": null,
-  "also_known_as": [],
+  "also_known_as": [
+    "K203440",
+    "K072718",
+    "K203440",
+    "K072718",
+    "K222808",
+    "K222808",
+    "K203440",
+    "K072718",
+    "K222808",
+    "K203440",
+    "K072718",
+    "K222808",
+    "K222808",
+    "K222808",
+    "K222808",
+    "K222808"
+  ],
   "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K222808.pdf",
   "ifu_pdf_url": null,
   "source_url": "",
@@ -35,8 +52,8 @@
       "confidence": 0.8
     },
     "indications": {
-      "source": "evtoday",
-      "confidence": 0.8
+      "source": "fda_summary",
+      "confidence": 0.95
     },
     "contraindications": {
       "source": "none",
@@ -51,8 +68,8 @@
       "confidence": 0.8
     },
     "also_known_as": {
-      "source": "none",
-      "confidence": 0
+      "source": "fda_summary",
+      "confidence": 0.3
     },
     "_safety": {
       "source": "fda_maude+recalls",

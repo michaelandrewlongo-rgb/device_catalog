@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--alphatec-spine-inc--zodiac-polyaxial-spinal-fixation",
+  "artifact_folder": "corpectomy--alphatec-spine-inc--zodiac-polyaxial-spinal-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3409,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--alphatec-spine-inc--zodiac-polyaxial-spinal-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--alphatec-spine-inc--zodiac-polyaxial-spinal-fixation/enriched/corpectomy--alphatec-spine-inc--zodiac-polyaxial-spinal-fixation.json",
+        "bytes": 1935
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K100685.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--alphatec-spine-inc--zodiac-polyaxial-spinal-fixation/fda_raw/KWP/K100685.json",
+        "bytes": 608
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--alphatec-spine-inc--zodiac-polyaxial-spinal-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--alphatec-spine-inc--zodiac-polyaxial-spinal-fixation/merged/corpectomy--alphatec-spine-inc--zodiac-polyaxial-spinal-fixation.json",
+        "bytes": 866
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

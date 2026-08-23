@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--cg-bio-co-ltd--colonnade-posterior-screw-fixation",
+  "artifact_folder": "interbody-cage--cg-bio-co-ltd--colonnade-posterior-screw-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2927,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--cg-bio-co-ltd--colonnade-posterior-screw-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--cg-bio-co-ltd--colonnade-posterior-screw-fixation/enriched/interbody-cage--cg-bio-co-ltd--colonnade-posterior-screw-fixation.json",
+        "bytes": 1451
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K250582.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--cg-bio-co-ltd--colonnade-posterior-screw-fixation/fda_raw/NKB/K250582.json",
+        "bytes": 606
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--cg-bio-co-ltd--colonnade-posterior-screw-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--cg-bio-co-ltd--colonnade-posterior-screw-fixation/merged/interbody-cage--cg-bio-co-ltd--colonnade-posterior-screw-fixation.json",
+        "bytes": 870
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

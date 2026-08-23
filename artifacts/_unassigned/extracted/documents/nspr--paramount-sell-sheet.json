@@ -1,0 +1,24 @@
+{
+  "source_pdf": "paramount-sell-sheet.pdf",
+  "source_path": "C:\\Users\\Michael\\Documents\\device_catalog\\pipeline\\data\\extracted\\nspr\\pdfs\\paramount-sell-sheet.pdf",
+  "device_name": "Paramount Sell Sheet",
+  "manufacturer": "unknown",
+  "doc_type": "technique_guide",
+  "extraction_method": "pdfplumber_deepseek",
+  "extraction_source": "nspr_pdf",
+  "fields": {
+    "what_it_is": "Controlled Plate Deployment Zero Profile Less Invasive device with threaded deployment that avoids aggressive impaction of Anchor Plates in the cervical spine. Both Anchor Plates deploy simultaneously. Anchor Plates provide engagement without instrumentation protruding anterior of the vertebral bodies. Self-contained Anchor Plates are deployed in the same plane as the disc space.",
+    "sizing_specs": "|  |  |\n| --- | --- |\n|  |  |",
+    "indications": null,
+    "contraindications": null,
+    "compatible_with": null,
+    "use_notes": "Threaded deployment avoids aggressive impaction of Anchor Plates in the cervical spine. Both Anchor Plates deploy simultaneously, simplifying the procedure. Anchor Plates provide engagement without instrumentation protruding anterior of the vertebral bodies. Self-contained Anchor Plates are deployed in the same plane as the disc space, minimizing the exposure.",
+    "also_known_as": "Paramount Sell Sheet"
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "sizing_specs": 0.7,
+    "use_notes": 0.7,
+    "also_known_as": 0.7
+  }
+}

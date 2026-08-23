@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--pioneer-surgical-technology--pioneer-vertebral-spacer-vertebral-spacer",
+  "artifact_folder": "cervical-plate--pioneer-surgical-technology--pioneer-vertebral-spacer-vertebral-spacer",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3053,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--pioneer-surgical-technology--pioneer-vertebral-spacer-vertebral-spacer.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--pioneer-surgical-technology--pioneer-vertebral-spacer-vertebral-spacer/enriched/cervical-plate--pioneer-surgical-technology--pioneer-vertebral-spacer-vertebral-spacer.json",
+        "bytes": 1490
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K061151.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--pioneer-surgical-technology--pioneer-vertebral-spacer-vertebral-spacer/fda_raw/MQP/K061151.json",
+        "bytes": 654
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--pioneer-surgical-technology--pioneer-vertebral-spacer-vertebral-spacer.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--pioneer-surgical-technology--pioneer-vertebral-spacer-vertebral-spacer/merged/cervical-plate--pioneer-surgical-technology--pioneer-vertebral-spacer-vertebral-spacer.json",
+        "bytes": 909
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--zimmer-biomet--vitality-r-spinal-fixation-vitality",
+  "artifact_folder": "interbody-cage--zimmer-biomet--vitality-r-spinal-fixation-vitality",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3635,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--zimmer-biomet--vitality-r-spinal-fixation-vitality.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--zimmer-biomet--vitality-r-spinal-fixation-vitality/enriched/interbody-cage--zimmer-biomet--vitality-r-spinal-fixation-vitality.json",
+        "bytes": 2045
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K172275.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--zimmer-biomet--vitality-r-spinal-fixation-vitality/fda_raw/NKB/K172275.json",
+        "bytes": 645
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--zimmer-biomet--vitality-r-spinal-fixation-vitality.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--zimmer-biomet--vitality-r-spinal-fixation-vitality/merged/interbody-cage--zimmer-biomet--vitality-r-spinal-fixation-vitality.json",
+        "bytes": 945
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

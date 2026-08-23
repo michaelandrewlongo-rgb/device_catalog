@@ -1,0 +1,45 @@
+{
+  "device_slug": "pedicle-screw--keos--keos-lumbar-ibfd",
+  "artifact_folder": "pedicle-screw--keos--keos-lumbar-ibfd",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 3738,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--keos--keos-lumbar-ibfd.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--keos--keos-lumbar-ibfd/enriched/pedicle-screw--keos--keos-lumbar-ibfd.json",
+        "bytes": 1363
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K160631.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--keos--keos-lumbar-ibfd/fda_raw/MAX/K160631.json",
+        "bytes": 531
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K163386.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--keos--keos-lumbar-ibfd/fda_raw/MAX/K163386.json",
+        "bytes": 531
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K193174.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--keos--keos-lumbar-ibfd/fda_raw/MAX/K193174.json",
+        "bytes": 531
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--keos--keos-lumbar-ibfd.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--keos--keos-lumbar-ibfd/merged/pedicle-screw--keos--keos-lumbar-ibfd.json",
+        "bytes": 782
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

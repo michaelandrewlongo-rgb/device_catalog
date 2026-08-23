@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--stryker--vlift-s-vertebral-body-replacement",
+  "artifact_folder": "cervical-plate--stryker--vlift-s-vertebral-body-replacement",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3123,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--stryker--vlift-s-vertebral-body-replacement.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--stryker--vlift-s-vertebral-body-replacement/enriched/cervical-plate--stryker--vlift-s-vertebral-body-replacement.json",
+        "bytes": 1533
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K091946.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--stryker--vlift-s-vertebral-body-replacement/fda_raw/MQP/K091946.json",
+        "bytes": 638
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--stryker--vlift-s-vertebral-body-replacement.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--stryker--vlift-s-vertebral-body-replacement/merged/cervical-plate--stryker--vlift-s-vertebral-body-replacement.json",
+        "bytes": 952
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

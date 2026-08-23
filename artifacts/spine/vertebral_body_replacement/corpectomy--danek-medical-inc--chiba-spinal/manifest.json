@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--danek-medical-inc--chiba-spinal",
+  "artifact_folder": "corpectomy--danek-medical-inc--chiba-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2754,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--danek-medical-inc--chiba-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--danek-medical-inc--chiba-spinal/enriched/corpectomy--danek-medical-inc--chiba-spinal.json",
+        "bytes": 1385
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K895978.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--danek-medical-inc--chiba-spinal/fda_raw/KWP/K895978.json",
+        "bytes": 565
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--danek-medical-inc--chiba-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--danek-medical-inc--chiba-spinal/merged/corpectomy--danek-medical-inc--chiba-spinal.json",
+        "bytes": 804
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

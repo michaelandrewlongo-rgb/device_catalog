@@ -1,7 +1,7 @@
 # Catalyft PL Expandable Interbody System
 
 **Manufacturer:** Medtronic
-**Category:** Pedicle screw system
+**Category:** Interbody cage / TLIF system
 510(k) K210425 | Class 2 | 2021-05-24
 
 ## What It Is

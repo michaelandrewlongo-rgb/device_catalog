@@ -1,0 +1,42 @@
+{
+  "device_slug": "interbody-cage--camber-spine--orthros-posterior-stabilization",
+  "artifact_folder": "interbody-cage--camber-spine--orthros-posterior-stabilization",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3814,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--camber-spine--orthros-posterior-stabilization.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--camber-spine--orthros-posterior-stabilization/enriched/interbody-cage--camber-spine--orthros-posterior-stabilization.json",
+        "bytes": 1722
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--camber-spine--orthros-posterior-stabilization.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--camber-spine--orthros-posterior-stabilization/extracted/fda_structured/interbody-cage--camber-spine--orthros-posterior-stabilization.json",
+        "bytes": 639
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K133366.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--camber-spine--orthros-posterior-stabilization/fda_raw/NKB/K133366.json",
+        "bytes": 594
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--camber-spine--orthros-posterior-stabilization.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--camber-spine--orthros-posterior-stabilization/merged/interbody-cage--camber-spine--orthros-posterior-stabilization.json",
+        "bytes": 859
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

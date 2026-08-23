@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--nanovis-llc--adaptix-peek-interbody-with-nanotechnology",
+  "artifact_folder": "pedicle-screw--nanovis-llc--adaptix-peek-interbody-with-nanotechnology",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3290,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--nanovis-llc--adaptix-peek-interbody-with-nanotechnology.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nanovis-llc--adaptix-peek-interbody-with-nanotechnology/enriched/pedicle-screw--nanovis-llc--adaptix-peek-interbody-with-nanotechnology.json",
+        "bytes": 1591
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K241605.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nanovis-llc--adaptix-peek-interbody-with-nanotechnology/fda_raw/MAX/K241605.json",
+        "bytes": 673
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--nanovis-llc--adaptix-peek-interbody-with-nanotechnology.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nanovis-llc--adaptix-peek-interbody-with-nanotechnology/merged/pedicle-screw--nanovis-llc--adaptix-peek-interbody-with-nanotechnology.json",
+        "bytes": 1026
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

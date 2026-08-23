@@ -1,0 +1,42 @@
+{
+  "device_slug": "pedicle-screw--eisertech-llc--plif-cage",
+  "artifact_folder": "pedicle-screw--eisertech-llc--plif-cage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3572,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--eisertech-llc--plif-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--eisertech-llc--plif-cage/enriched/pedicle-screw--eisertech-llc--plif-cage.json",
+        "bytes": 1640
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/pedicle-screw--eisertech-llc--plif-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--eisertech-llc--plif-cage/extracted/fda_structured/pedicle-screw--eisertech-llc--plif-cage.json",
+        "bytes": 608
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K113478.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--eisertech-llc--plif-cage/fda_raw/MAX/K113478.json",
+        "bytes": 545
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--eisertech-llc--plif-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--eisertech-llc--plif-cage/merged/pedicle-screw--eisertech-llc--plif-cage.json",
+        "bytes": 779
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

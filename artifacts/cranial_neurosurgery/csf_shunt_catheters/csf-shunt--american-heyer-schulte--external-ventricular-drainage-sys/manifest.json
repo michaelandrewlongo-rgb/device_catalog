@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--american-heyer-schulte--external-ventricular-drainage-sys",
+  "artifact_folder": "csf-shunt--american-heyer-schulte--external-ventricular-drainage-sys",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2918,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--american-heyer-schulte--external-ventricular-drainage-sys.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--american-heyer-schulte--external-ventricular-drainage-sys/enriched/csf-shunt--american-heyer-schulte--external-ventricular-drainage-sys.json",
+        "bytes": 1444
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K820247.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--american-heyer-schulte--external-ventricular-drainage-sys/fda_raw/JXG/K820247.json",
+        "bytes": 611
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--american-heyer-schulte--external-ventricular-drainage-sys.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--american-heyer-schulte--external-ventricular-drainage-sys/merged/csf-shunt--american-heyer-schulte--external-ventricular-drainage-sys.json",
+        "bytes": 863
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

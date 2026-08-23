@@ -9,9 +9,9 @@
   "device_class": 2,
   "device_name_fda": "BOSS 8F Balloon Guide Catheter",
   "product_code": "QJP",
-  "what_it_is": null,
-  "sizing_specs": null,
-  "indications": null,
+  "what_it_is": "DEVICE DESCRIPTION [807.92(a)(4)]\nThe BOSS 8F Balloon Guide Catheter system is a sterile, single-use intravascular catheter. The BOSS 8F\nBalloon Guide Catheter is an 85 and 95 cm long, variable stiffness catheter utilizing a bifurcated dual\nport luer hub on the proximal end and a radiopaque marker band at the tip distal to the balloon. The\ncatheter shaft has an annular inflation lumen and a coaxial central lumen with stainless steel coil and is\nbraid reinforced. The hub central port leads to the central lumen to facilitate introduction of\ninterventional devices through the central lumen. The inflation port is positioned at an angle to the\ncentral port, connecting to the annular inflation lumen, and is used to facilitate inflating and deflating\nthe balloon with a syringe. The BOSS 8F Balloon Guide Catheter uses a distal hydrophilic coating to\nprovide lubricity and reduce friction between the catheter shaft and the vessel wall. The BOSS 8F\nBalloon Guide Catheter is packaged with the 6F dilator to facilitate the option of direct access into the\nblood vessel without the use of an introducer sheath.",
+  "sizing_specs": "DEVICE DESCRIPTION [807.92(a)(4)]\nThe BOSS 8F Balloon Guide Catheter system is a sterile, single-use intravascular catheter. The BOSS 8F\nBalloon Guide Catheter is an 85 and 95 cm long, variable stiffness catheter utilizing a bifurcated dual\nport luer hub on the proximal end and a radiopaque marker band at the tip distal to the balloon. The\ncatheter shaft has an annular inflation lumen and a coaxial central lumen with stainless steel coil and is\nbraid reinforced. The hub central port leads to the central lumen to facilitate introduction of\ninterventional devices through the central lumen. The inflation port is positioned at an angle to the\ncentral port, connecting to the annular inflation lumen, and is used to facilitate inflating and deflating\nthe balloon with a syringe. The BOSS 8F Balloon Guide Catheter uses a distal hydrophilic coating to\nprovide lubricity and reduce friction between the catheter shaft and the vessel wall. The BOSS 8F\nBalloon Guide Catheter is packaged with the 6F dilator to facilitate the option of direct access into the\nblood vessel without the use of an introducer sheath.",
+  "indications": "INDICATION FOR USE [807.92(a)(5)]\nThe BOSS 8F Balloon Guide Catheter is indicated for use in facilitating the insertion and guidance of an\nintravascular catheter into a selected blood vessel in the peripheral and neurovascular systems. The balloon\nprovides temporary vascular occlusion during these procedures. The balloon guide catheter is also\nindicated for use as a conduit for retrieval devices.",
   "contraindications": null,
   "compatible_with": null,
   "use_notes": null,
@@ -27,16 +27,16 @@
   ],
   "_enrichment": {
     "what_it_is": {
-      "source": "none",
-      "confidence": 0
+      "source": "fda_summary",
+      "confidence": 0.9
     },
     "sizing_specs": {
-      "source": "none",
-      "confidence": 0
+      "source": "fda_summary",
+      "confidence": 0.3
     },
     "indications": {
-      "source": "none",
-      "confidence": 0
+      "source": "fda_summary",
+      "confidence": 0.95
     },
     "contraindications": {
       "source": "none",

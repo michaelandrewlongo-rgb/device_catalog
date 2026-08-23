@@ -1,0 +1,292 @@
+[
+  {
+    "device_family": "aspiration--penumbra--penumbra-reperfusion-catheter-red-62",
+    "query_used": "Penumbra System (Reperfusion Catheter RED 62)",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00815948029972",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "RED 72",
+      "companyName": "PENUMBRA, INC.",
+      "deviceIdentifier": "cb14e778-6e0b-4cd7-b6a6-0b3ea1bb7415",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "RED72-C"
+    },
+    "retrieved_at": "2026-04-15T10:18:52+00:00",
+    "source_id": "accessgudid:00815948029972",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/cb14e778-6e0b-4cd7-b6a6-0b3ea1bb7415",
+    "title": "RED 72 (PENUMBRA, INC.)"
+  },
+  {
+    "device_family": "aspiration--penumbra--penumbra-reperfusion-catheter-red-62",
+    "query_used": "Penumbra System (Reperfusion Catheter RED 62)",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00815948024106",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "RED 68",
+      "companyName": "PENUMBRA, INC.",
+      "deviceIdentifier": "509c9880-540d-48ca-92d2-632f33160b4e",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "RED68-R"
+    },
+    "retrieved_at": "2026-04-15T10:18:52+00:00",
+    "source_id": "accessgudid:00815948024106",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/509c9880-540d-48ca-92d2-632f33160b4e",
+    "title": "RED 68 (PENUMBRA, INC.)"
+  },
+  {
+    "device_family": "aspiration--penumbra--penumbra-reperfusion-catheter-red-62",
+    "query_used": "Penumbra System (Reperfusion Catheter RED 62)",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00815948023918",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "RED 72",
+      "companyName": "PENUMBRA, INC.",
+      "deviceIdentifier": "857f1eba-8a4b-4bf8-8da0-fdbb8027ad4d",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "RED72-A"
+    },
+    "retrieved_at": "2026-04-15T10:18:52+00:00",
+    "source_id": "accessgudid:00815948023918",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/857f1eba-8a4b-4bf8-8da0-fdbb8027ad4d",
+    "title": "RED 72 (PENUMBRA, INC.)"
+  },
+  {
+    "device_family": "aspiration--penumbra--penumbra-reperfusion-catheter-red-62",
+    "query_used": "Penumbra System (Reperfusion Catheter RED 62)",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00815948023871",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "RED 68",
+      "companyName": "PENUMBRA, INC.",
+      "deviceIdentifier": "810353cf-a1a0-492f-8173-1fa9602bfa59",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "RED68-A"
+    },
+    "retrieved_at": "2026-04-15T10:18:52+00:00",
+    "source_id": "accessgudid:00815948023871",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/810353cf-a1a0-492f-8173-1fa9602bfa59",
+    "title": "RED 68 (PENUMBRA, INC.)"
+  },
+  {
+    "device_family": "aspiration--penumbra--penumbra-reperfusion-catheter-red-62",
+    "query_used": "Penumbra System (Reperfusion Catheter RED 62)",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00815948029989",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "RED 72",
+      "companyName": "PENUMBRA, INC.",
+      "deviceIdentifier": "cad05ef6-7a38-4782-a125-0d3f671eb89b",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "RED72KIT-C"
+    },
+    "retrieved_at": "2026-04-15T10:18:52+00:00",
+    "source_id": "accessgudid:00815948029989",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/cad05ef6-7a38-4782-a125-0d3f671eb89b",
+    "title": "RED 72 (PENUMBRA, INC.)"
+  },
+  {
+    "device_family": "aspiration--penumbra--penumbra-reperfusion-catheter-red-62",
+    "query_used": "Penumbra System (Reperfusion Catheter RED 62)",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00815948024137",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "RED 68",
+      "companyName": "PENUMBRA, INC.",
+      "deviceIdentifier": "34f087dc-9bf6-4b40-954f-c7a15eb57414",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "RED68HFKIT-A"
+    },
+    "retrieved_at": "2026-04-15T10:18:52+00:00",
+    "source_id": "accessgudid:00815948024137",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/34f087dc-9bf6-4b40-954f-c7a15eb57414",
+    "title": "RED 68 (PENUMBRA, INC.)"
+  },
+  {
+    "device_family": "aspiration--penumbra--penumbra-reperfusion-catheter-red-62",
+    "query_used": "Penumbra System (Reperfusion Catheter RED 62)",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00815948024113",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "RED 68",
+      "companyName": "PENUMBRA, INC.",
+      "deviceIdentifier": "3e99e527-9efa-4965-8137-9049435d98ce",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "RED68KIT-R"
+    },
+    "retrieved_at": "2026-04-15T10:18:52+00:00",
+    "source_id": "accessgudid:00815948024113",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/3e99e527-9efa-4965-8137-9049435d98ce",
+    "title": "RED 68 (PENUMBRA, INC.)"
+  },
+  {
+    "device_family": "aspiration--penumbra--penumbra-reperfusion-catheter-red-62",
+    "query_used": "Penumbra System (Reperfusion Catheter RED 62)",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00815948024090",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "RED 68",
+      "companyName": "PENUMBRA, INC.",
+      "deviceIdentifier": "9fb5e0cc-0845-402e-9cbe-612068a8a1a1",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "RED68-S"
+    },
+    "retrieved_at": "2026-04-15T10:18:52+00:00",
+    "source_id": "accessgudid:00815948024090",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/9fb5e0cc-0845-402e-9cbe-612068a8a1a1",
+    "title": "RED 68 (PENUMBRA, INC.)"
+  },
+  {
+    "device_family": "aspiration--penumbra--penumbra-reperfusion-catheter-red-62",
+    "query_used": "Penumbra System (Reperfusion Catheter RED 62)",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00815948023932",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "RED 72",
+      "companyName": "PENUMBRA, INC.",
+      "deviceIdentifier": "d24018c8-9662-4c36-9c46-cfa4a0a6d5cc",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "RED72KIT-A"
+    },
+    "retrieved_at": "2026-04-15T10:18:52+00:00",
+    "source_id": "accessgudid:00815948023932",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/d24018c8-9662-4c36-9c46-cfa4a0a6d5cc",
+    "title": "RED 72 (PENUMBRA, INC.)"
+  },
+  {
+    "device_family": "aspiration--penumbra--penumbra-reperfusion-catheter-red-62",
+    "query_used": "Penumbra System (Reperfusion Catheter RED 62)",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00815948023895",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "RED 68",
+      "companyName": "PENUMBRA, INC.",
+      "deviceIdentifier": "51df063f-8727-46e3-ac9b-ab40da10d31e",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "RED68KIT-A"
+    },
+    "retrieved_at": "2026-04-15T10:18:52+00:00",
+    "source_id": "accessgudid:00815948023895",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/51df063f-8727-46e3-ac9b-ab40da10d31e",
+    "title": "RED 68 (PENUMBRA, INC.)"
+  }
+]

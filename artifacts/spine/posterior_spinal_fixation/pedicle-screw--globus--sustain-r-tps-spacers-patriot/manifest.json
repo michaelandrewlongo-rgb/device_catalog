@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--globus--sustain-r-tps-spacers-patriot",
+  "artifact_folder": "pedicle-screw--globus--sustain-r-tps-spacers-patriot",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 4333,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--globus--sustain-r-tps-spacers-patriot.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--globus--sustain-r-tps-spacers-patriot/enriched/pedicle-screw--globus--sustain-r-tps-spacers-patriot.json",
+        "bytes": 2301
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K143578.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--globus--sustain-r-tps-spacers-patriot/fda_raw/MAX/K143578.json",
+        "bytes": 787
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--globus--sustain-r-tps-spacers-patriot.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--globus--sustain-r-tps-spacers-patriot/merged/pedicle-screw--globus--sustain-r-tps-spacers-patriot.json",
+        "bytes": 1245
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

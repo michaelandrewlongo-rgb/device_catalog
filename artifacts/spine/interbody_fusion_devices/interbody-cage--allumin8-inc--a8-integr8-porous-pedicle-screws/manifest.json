@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--allumin8-inc--a8-integr8-porous-pedicle-screws",
+  "artifact_folder": "interbody-cage--allumin8-inc--a8-integr8-porous-pedicle-screws",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2886,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--allumin8-inc--a8-integr8-porous-pedicle-screws.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--allumin8-inc--a8-integr8-porous-pedicle-screws/enriched/interbody-cage--allumin8-inc--a8-integr8-porous-pedicle-screws.json",
+        "bytes": 1433
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K242827.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--allumin8-inc--a8-integr8-porous-pedicle-screws/fda_raw/NKB/K242827.json",
+        "bytes": 593
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--allumin8-inc--a8-integr8-porous-pedicle-screws.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--allumin8-inc--a8-integr8-porous-pedicle-screws/merged/interbody-cage--allumin8-inc--a8-integr8-porous-pedicle-screws.json",
+        "bytes": 860
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

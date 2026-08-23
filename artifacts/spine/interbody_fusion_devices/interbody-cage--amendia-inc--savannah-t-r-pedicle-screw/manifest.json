@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--amendia-inc--savannah-t-r-pedicle-screw",
+  "artifact_folder": "interbody-cage--amendia-inc--savannah-t-r-pedicle-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3107,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--amendia-inc--savannah-t-r-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--amendia-inc--savannah-t-r-pedicle-screw/enriched/interbody-cage--amendia-inc--savannah-t-r-pedicle-screw.json",
+        "bytes": 1674
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K152920.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--amendia-inc--savannah-t-r-pedicle-screw/fda_raw/NKB/K152920.json",
+        "bytes": 583
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--amendia-inc--savannah-t-r-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--amendia-inc--savannah-t-r-pedicle-screw/merged/interbody-cage--amendia-inc--savannah-t-r-pedicle-screw.json",
+        "bytes": 850
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

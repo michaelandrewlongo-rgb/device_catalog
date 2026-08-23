@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--theken-surgical-llc--theken-reveal-vbr",
+  "artifact_folder": "cervical-plate--theken-surgical-llc--theken-reveal-vbr",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2830,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--theken-surgical-llc--theken-reveal-vbr.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--theken-surgical-llc--theken-reveal-vbr/enriched/cervical-plate--theken-surgical-llc--theken-reveal-vbr.json",
+        "bytes": 1412
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K050058.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--theken-surgical-llc--theken-reveal-vbr/fda_raw/MQP/K050058.json",
+        "bytes": 587
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--theken-surgical-llc--theken-reveal-vbr.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--theken-surgical-llc--theken-reveal-vbr/merged/cervical-plate--theken-surgical-llc--theken-reveal-vbr.json",
+        "bytes": 831
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

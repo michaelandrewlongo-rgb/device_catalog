@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--orthofix-us-llc--forza-xp-expandable-spacer",
+  "artifact_folder": "pedicle-screw--orthofix-us-llc--forza-xp-expandable-spacer",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2869,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--orthofix-us-llc--forza-xp-expandable-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--orthofix-us-llc--forza-xp-expandable-spacer/enriched/pedicle-screw--orthofix-us-llc--forza-xp-expandable-spacer.json",
+        "bytes": 1429
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K213951.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--orthofix-us-llc--forza-xp-expandable-spacer/fda_raw/MAX/K213951.json",
+        "bytes": 592
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--orthofix-us-llc--forza-xp-expandable-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--orthofix-us-llc--forza-xp-expandable-spacer/merged/pedicle-screw--orthofix-us-llc--forza-xp-expandable-spacer.json",
+        "bytes": 848
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

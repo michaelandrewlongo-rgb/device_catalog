@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--united-states-surgical-a-division-of-tyco-healthc--surgical-dynamics-mesh-cage",
+  "artifact_folder": "cervical-plate--united-states-surgical-a-division-of-tyco-healthc--surgical-dynamics-mesh-cage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3121,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--united-states-surgical-a-division-of-tyco-healthc--surgical-dynamics-mesh-cage.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--united-states-surgical-a-division-of-tyco-healthc--surgical-dynamics-mesh-cage/enriched/cervical-plate--united-states-surgical-a-division-of-tyco-healthc--surgical-dynamics-mesh-cage.json",
+        "bytes": 1502
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K003709.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--united-states-surgical-a-division-of-tyco-healthc--surgical-dynamics-mesh-cage/fda_raw/MQP/K003709.json",
+        "bytes": 698
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--united-states-surgical-a-division-of-tyco-healthc--surgical-dynamics-mesh-cage.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--united-states-surgical-a-division-of-tyco-healthc--surgical-dynamics-mesh-cage/merged/cervical-plate--united-states-surgical-a-division-of-tyco-healthc--surgical-dynamics-mesh-cage.json",
+        "bytes": 921
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

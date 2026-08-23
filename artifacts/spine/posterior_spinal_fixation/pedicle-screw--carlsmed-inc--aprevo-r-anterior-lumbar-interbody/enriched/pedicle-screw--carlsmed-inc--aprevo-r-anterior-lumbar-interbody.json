@@ -1,0 +1,58 @@
+{
+  "device_name": "aprevo® anterior lumbar interbody fusion device; aprevo® lateral lumbar interbody fusion device; aprevo® anterior lumbar interbody fusion device with interfixation; aprevo® transforaminal lumbar interbody fusion device; aprevo® TLIF-CA Articulating System; aprevo® Cervical ACDF; aprevo® Cervical ACDF-X; aprevo® Cervical ACDF-X No Cams",
+  "manufacturer": "carlsmed-inc",
+  "catalog_category": "pedicle-screw",
+  "filename_stem": "pedicle-screw--carlsmed-inc--aprevo-r-anterior-lumbar-interbody",
+  "clearance_type": "510k",
+  "clearance_number": "K250827",
+  "clearance_date": "2025-07-07",
+  "device_class": 2,
+  "device_name_fda": "aprevo® anterior lumbar interbody fusion device; aprevo® lateral lumbar interbody fusion device; aprevo® anterior lumbar interbody fusion device with interfixation; aprevo® transforaminal lumbar interbody fusion device; aprevo® TLIF-CA Articulating System; aprevo® Cervical ACDF; aprevo® Cervical ACDF-X; aprevo® Cervical ACDF-X No Cams",
+  "product_code": "MAX",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf25/K250827.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "none",
+      "confidence": 0
+    },
+    "sizing_specs": {
+      "source": "none",
+      "confidence": 0
+    },
+    "indications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "none",
+      "confidence": 0
+    },
+    "also_known_as": {
+      "source": "none",
+      "confidence": 0
+    }
+  }
+}

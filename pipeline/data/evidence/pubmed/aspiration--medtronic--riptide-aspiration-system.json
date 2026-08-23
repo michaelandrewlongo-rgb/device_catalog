@@ -1,0 +1,22 @@
+[
+  {
+    "device_family": "aspiration--medtronic--riptide-aspiration-system",
+    "query_used": "\"Riptide Aspiration System\" OR \"Riptide\"",
+    "raw": {
+      "abstract": "Rationally sequencing and combining PD-1/L1-and MAPK-targeted therapies may overcome innate and acquired resistance. Since increased clinical benefit of MAPK inhibitors (MAPKi) is associated with previous immune checkpoint therapy, we compare the efficacies of sequential and/or combinatorial regimens in subcutaneous murine models of melanoma driven by BrafV600, Nras, or Nf1 mutations as well as colorectal and pancreatic carcinoma driven by KrasG12C. Anti-PD-1/L1 lead-in preceding MAPKi combination optimizes response durability by promoting pro-inflammatory polarization of macrophages and clonal expansion of interferon-γhi, and CD8+ cytotoxic and proliferative (versus CD4+ regulatory) T cells that highly express activation genes. Since therapeutic resistance of melanoma brain metastasis (MBM) limits patient survival, we demonstrate that sequencing anti-PD-1/L1 therapy before MAPKi combination suppresses MBM and improves mouse survival with robust T cell clonal expansion in both intracranial and extracranial metastatic sites. We propose clinically testing brief anti-PD-1/L1 (± anti-CTLA-4) dosing before MAPKi co-treatment to suppress therapeutic resistance.",
+      "doi": "10.1016/j.ccell.2021.07.023",
+      "journal": "Cancer cell",
+      "matched_device_family": "aspiration--medtronic--riptide-aspiration-system",
+      "pmid": "34416167",
+      "publication_date": "2021-Oct-11",
+      "query_used": "\"Riptide Aspiration System\" OR \"Riptide\"",
+      "source_retrieved_at": "2026-04-15T10:17:19+00:00",
+      "title": "Anti-PD-1/L1 lead-in before MAPK inhibitor combination maximizes antitumor immunity and efficacy."
+    },
+    "retrieved_at": "2026-04-15T10:17:19+00:00",
+    "source_id": "pubmed:34416167",
+    "source_type": "pubmed",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/34416167/",
+    "title": "Anti-PD-1/L1 lead-in before MAPK inhibitor combination maximizes antitumor immunity and efficacy."
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--precision-spine-inc--reform-r-midline-cortical-screw",
+  "artifact_folder": "interbody-cage--precision-spine-inc--reform-r-midline-cortical-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2952,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--precision-spine-inc--reform-r-midline-cortical-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--precision-spine-inc--reform-r-midline-cortical-screw/enriched/interbody-cage--precision-spine-inc--reform-r-midline-cortical-screw.json",
+        "bytes": 1454
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K173130.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--precision-spine-inc--reform-r-midline-cortical-screw/fda_raw/NKB/K173130.json",
+        "bytes": 617
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--precision-spine-inc--reform-r-midline-cortical-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--precision-spine-inc--reform-r-midline-cortical-screw/merged/interbody-cage--precision-spine-inc--reform-r-midline-cortical-screw.json",
+        "bytes": 881
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "device_slug": "interbody-cage--s-m-a-i-o--kheiron-r-spinal-fixation",
+  "artifact_folder": "interbody-cage--s-m-a-i-o--kheiron-r-spinal-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3405,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--s-m-a-i-o--kheiron-r-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--s-m-a-i-o--kheiron-r-spinal-fixation/enriched/interbody-cage--s-m-a-i-o--kheiron-r-spinal-fixation.json",
+        "bytes": 1416
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K201659.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--s-m-a-i-o--kheiron-r-spinal-fixation/fda_raw/NKB/K201659.json",
+        "bytes": 573
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K211981.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--s-m-a-i-o--kheiron-r-spinal-fixation/fda_raw/NKB/K211981.json",
+        "bytes": 573
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--s-m-a-i-o--kheiron-r-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--s-m-a-i-o--kheiron-r-spinal-fixation/merged/interbody-cage--s-m-a-i-o--kheiron-r-spinal-fixation.json",
+        "bytes": 843
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

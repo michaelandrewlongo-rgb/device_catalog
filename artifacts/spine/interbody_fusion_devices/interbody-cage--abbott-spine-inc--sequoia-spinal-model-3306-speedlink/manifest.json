@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--abbott-spine-inc--sequoia-spinal-model-3306-speedlink",
+  "artifact_folder": "interbody-cage--abbott-spine-inc--sequoia-spinal-model-3306-speedlink",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3205,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--abbott-spine-inc--sequoia-spinal-model-3306-speedlink.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--abbott-spine-inc--sequoia-spinal-model-3306-speedlink/enriched/interbody-cage--abbott-spine-inc--sequoia-spinal-model-3306-speedlink.json",
+        "bytes": 1560
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K082032.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--abbott-spine-inc--sequoia-spinal-model-3306-speedlink/fda_raw/NKB/K082032.json",
+        "bytes": 666
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--abbott-spine-inc--sequoia-spinal-model-3306-speedlink.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--abbott-spine-inc--sequoia-spinal-model-3306-speedlink/merged/interbody-cage--abbott-spine-inc--sequoia-spinal-model-3306-speedlink.json",
+        "bytes": 979
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

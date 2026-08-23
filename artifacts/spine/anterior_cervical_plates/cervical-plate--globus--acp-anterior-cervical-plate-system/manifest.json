@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--globus--acp-anterior-cervical-plate-system",
+  "artifact_folder": "cervical-plate--globus--acp-anterior-cervical-plate-system",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3317,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--globus--acp-anterior-cervical-plate-system.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--globus--acp-anterior-cervical-plate-system/enriched/cervical-plate--globus--acp-anterior-cervical-plate-system.json",
+        "bytes": 1785
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--globus--acp-anterior-cervical-plate-system.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--globus--acp-anterior-cervical-plate-system/merged/cervical-plate--globus--acp-anterior-cervical-plate-system.json",
+        "bytes": 1022
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/globus/acp-anterior-cervical-plate-system.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--globus--acp-anterior-cervical-plate-system/scraper_raw/globus/acp-anterior-cervical-plate-system.json",
+        "bytes": 510
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

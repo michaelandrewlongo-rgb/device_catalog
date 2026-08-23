@@ -1,0 +1,57 @@
+{
+  "device_slug": "pedicle-screw--life-spine--plateau-spacer",
+  "artifact_folder": "pedicle-screw--life-spine--plateau-spacer",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 7,
+  "bytes": 5345,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--life-spine--plateau-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--life-spine--plateau-spacer/enriched/pedicle-screw--life-spine--plateau-spacer.json",
+        "bytes": 1689
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/pedicle-screw--life-spine--plateau-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--life-spine--plateau-spacer/extracted/fda_structured/pedicle-screw--life-spine--plateau-spacer.json",
+        "bytes": 646
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K080411.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--life-spine--plateau-spacer/fda_raw/MAX/K080411.json",
+        "bytes": 552
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K111569.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--life-spine--plateau-spacer/fda_raw/MAX/K111569.json",
+        "bytes": 552
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K121116.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--life-spine--plateau-spacer/fda_raw/MAX/K121116.json",
+        "bytes": 552
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K182470.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--life-spine--plateau-spacer/fda_raw/MAX/K182470.json",
+        "bytes": 552
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--life-spine--plateau-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--life-spine--plateau-spacer/merged/pedicle-screw--life-spine--plateau-spacer.json",
+        "bytes": 802
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

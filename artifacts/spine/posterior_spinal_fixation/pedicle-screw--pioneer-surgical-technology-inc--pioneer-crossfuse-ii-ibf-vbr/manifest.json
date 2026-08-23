@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--pioneer-surgical-technology-inc--pioneer-crossfuse-ii-ibf-vbr",
+  "artifact_folder": "pedicle-screw--pioneer-surgical-technology-inc--pioneer-crossfuse-ii-ibf-vbr",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2998,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--pioneer-surgical-technology-inc--pioneer-crossfuse-ii-ibf-vbr.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--pioneer-surgical-technology-inc--pioneer-crossfuse-ii-ibf-vbr/enriched/pedicle-screw--pioneer-surgical-technology-inc--pioneer-crossfuse-ii-ibf-vbr.json",
+        "bytes": 1467
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K112496.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--pioneer-surgical-technology-inc--pioneer-crossfuse-ii-ibf-vbr/fda_raw/MAX/K112496.json",
+        "bytes": 645
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--pioneer-surgical-technology-inc--pioneer-crossfuse-ii-ibf-vbr.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--pioneer-surgical-technology-inc--pioneer-crossfuse-ii-ibf-vbr/merged/pedicle-screw--pioneer-surgical-technology-inc--pioneer-crossfuse-ii-ibf-vbr.json",
+        "bytes": 886
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

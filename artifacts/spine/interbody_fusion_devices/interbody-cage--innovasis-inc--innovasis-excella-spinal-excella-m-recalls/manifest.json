@@ -1,0 +1,21 @@
+{
+  "device_slug": "interbody-cage--innovasis-inc--innovasis-excella-spinal-excella-m-recalls",
+  "artifact_folder": "interbody-cage--innovasis-inc--innovasis-excella-spinal-excella-m-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 1400,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/interbody-cage--innovasis-inc--innovasis-excella-spinal-excella-m-recalls.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--innovasis-inc--innovasis-excella-spinal-excella-m-recalls/extracted/fda_safety/interbody-cage--innovasis-inc--innovasis-excella-spinal-excella-m-recalls.json",
+        "bytes": 1400
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

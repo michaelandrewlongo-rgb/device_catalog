@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--spinal-alignment-solutions-inc--spinal-alignment-solutions-pelvic-incidence",
+  "artifact_folder": "interbody-cage--spinal-alignment-solutions-inc--spinal-alignment-solutions-pelvic-incidence",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3162,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--spinal-alignment-solutions-inc--spinal-alignment-solutions-pelvic-incidence.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spinal-alignment-solutions-inc--spinal-alignment-solutions-pelvic-incidence/enriched/interbody-cage--spinal-alignment-solutions-inc--spinal-alignment-solutions-pelvic-incidence.json",
+        "bytes": 1530
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K242350.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spinal-alignment-solutions-inc--spinal-alignment-solutions-pelvic-incidence/fda_raw/NKB/K242350.json",
+        "bytes": 683
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--spinal-alignment-solutions-inc--spinal-alignment-solutions-pelvic-incidence.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spinal-alignment-solutions-inc--spinal-alignment-solutions-pelvic-incidence/merged/interbody-cage--spinal-alignment-solutions-inc--spinal-alignment-solutions-pelvic-incidence.json",
+        "bytes": 949
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

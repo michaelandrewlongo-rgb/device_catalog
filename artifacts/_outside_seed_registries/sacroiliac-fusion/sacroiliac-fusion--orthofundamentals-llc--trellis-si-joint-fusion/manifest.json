@@ -1,0 +1,21 @@
+{
+  "device_slug": "sacroiliac-fusion--orthofundamentals-llc--trellis-si-joint-fusion",
+  "artifact_folder": "sacroiliac-fusion--orthofundamentals-llc--trellis-si-joint-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 614,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/OUR/K212962.json",
+        "artifact": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--orthofundamentals-llc--trellis-si-joint-fusion/fda_raw/OUR/K212962.json",
+        "bytes": 614
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "sacroiliac-fusion",
+    "label": "Outside listed seed registries"
+  }
+}

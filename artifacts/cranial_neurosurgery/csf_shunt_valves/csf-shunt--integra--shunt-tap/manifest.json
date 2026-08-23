@@ -1,0 +1,21 @@
+{
+  "device_slug": "csf-shunt--integra--shunt-tap",
+  "artifact_folder": "csf-shunt--integra--shunt-tap",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 531,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K963802.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--shunt-tap/fda_raw/JXG/K963802.json",
+        "bytes": 531
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

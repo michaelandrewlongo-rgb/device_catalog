@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--stryker--tritanium-r-x-tl-expandable",
+  "artifact_folder": "pedicle-screw--stryker--tritanium-r-x-tl-expandable",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3472,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--stryker--tritanium-r-x-tl-expandable.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--tritanium-r-x-tl-expandable/enriched/pedicle-screw--stryker--tritanium-r-x-tl-expandable.json",
+        "bytes": 1982
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K200613.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--tritanium-r-x-tl-expandable/fda_raw/MAX/K200613.json",
+        "bytes": 603
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--stryker--tritanium-r-x-tl-expandable.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--tritanium-r-x-tl-expandable/merged/pedicle-screw--stryker--tritanium-r-x-tl-expandable.json",
+        "bytes": 887
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

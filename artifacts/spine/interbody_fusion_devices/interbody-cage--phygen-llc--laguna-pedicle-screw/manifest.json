@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--phygen-llc--laguna-pedicle-screw",
+  "artifact_folder": "interbody-cage--phygen-llc--laguna-pedicle-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2792,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--phygen-llc--laguna-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--phygen-llc--laguna-pedicle-screw/enriched/interbody-cage--phygen-llc--laguna-pedicle-screw.json",
+        "bytes": 1403
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K103748.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--phygen-llc--laguna-pedicle-screw/fda_raw/NKB/K103748.json",
+        "bytes": 567
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--phygen-llc--laguna-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--phygen-llc--laguna-pedicle-screw/merged/interbody-cage--phygen-llc--laguna-pedicle-screw.json",
+        "bytes": 822
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

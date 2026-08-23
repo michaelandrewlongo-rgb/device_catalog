@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--interventional-spine-inc--opticage-r-expandable-interbody-fusion",
+  "artifact_folder": "pedicle-screw--interventional-spine-inc--opticage-r-expandable-interbody-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3354,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--interventional-spine-inc--opticage-r-expandable-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--interventional-spine-inc--opticage-r-expandable-interbody-fusion/enriched/pedicle-screw--interventional-spine-inc--opticage-r-expandable-interbody-fusion.json",
+        "bytes": 1805
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K160464.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--interventional-spine-inc--opticage-r-expandable-interbody-fusion/fda_raw/MAX/K160464.json",
+        "bytes": 645
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--interventional-spine-inc--opticage-r-expandable-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--interventional-spine-inc--opticage-r-expandable-interbody-fusion/merged/pedicle-screw--interventional-spine-inc--opticage-r-expandable-interbody-fusion.json",
+        "bytes": 904
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

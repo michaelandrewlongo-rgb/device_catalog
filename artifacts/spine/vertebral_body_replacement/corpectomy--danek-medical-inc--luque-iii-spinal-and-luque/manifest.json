@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--danek-medical-inc--luque-iii-spinal-and-luque",
+  "artifact_folder": "corpectomy--danek-medical-inc--luque-iii-spinal-and-luque",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2911,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--danek-medical-inc--luque-iii-spinal-and-luque.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--danek-medical-inc--luque-iii-spinal-and-luque/enriched/corpectomy--danek-medical-inc--luque-iii-spinal-and-luque.json",
+        "bytes": 1445
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K890192.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--danek-medical-inc--luque-iii-spinal-and-luque/fda_raw/KWP/K890192.json",
+        "bytes": 602
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--danek-medical-inc--luque-iii-spinal-and-luque.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--danek-medical-inc--luque-iii-spinal-and-luque/merged/corpectomy--danek-medical-inc--luque-iii-spinal-and-luque.json",
+        "bytes": 864
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

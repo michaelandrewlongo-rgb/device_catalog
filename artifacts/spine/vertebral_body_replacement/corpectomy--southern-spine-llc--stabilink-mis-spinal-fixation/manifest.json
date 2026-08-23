@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--southern-spine-llc--stabilink-mis-spinal-fixation",
+  "artifact_folder": "corpectomy--southern-spine-llc--stabilink-mis-spinal-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2896,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--southern-spine-llc--stabilink-mis-spinal-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--southern-spine-llc--stabilink-mis-spinal-fixation/enriched/corpectomy--southern-spine-llc--stabilink-mis-spinal-fixation.json",
+        "bytes": 1438
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K123093.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--southern-spine-llc--stabilink-mis-spinal-fixation/fda_raw/KWP/K123093.json",
+        "bytes": 601
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--southern-spine-llc--stabilink-mis-spinal-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--southern-spine-llc--stabilink-mis-spinal-fixation/merged/corpectomy--southern-spine-llc--stabilink-mis-spinal-fixation.json",
+        "bytes": 857
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

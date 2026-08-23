@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K200666",
+  "clearance_date": "2020-04-23",
+  "device_class": 2,
+  "manufacturer_canonical": "stryker",
+  "manufacturer_raw": "Stryker Spine",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "Stryker Xia 3 Power Adaptor",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": true,
+  "suggested_filename_stem": "interbody-cage--stryker--stryker-xia-3-power-adaptor",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K200666.pdf"
+}

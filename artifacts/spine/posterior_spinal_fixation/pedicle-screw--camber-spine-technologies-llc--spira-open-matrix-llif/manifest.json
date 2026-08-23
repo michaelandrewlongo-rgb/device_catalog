@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--camber-spine-technologies-llc--spira-open-matrix-llif",
+  "artifact_folder": "pedicle-screw--camber-spine-technologies-llc--spira-open-matrix-llif",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2900,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--camber-spine-technologies-llc--spira-open-matrix-llif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--camber-spine-technologies-llc--spira-open-matrix-llif/enriched/pedicle-screw--camber-spine-technologies-llc--spira-open-matrix-llif.json",
+        "bytes": 1431
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K180724.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--camber-spine-technologies-llc--spira-open-matrix-llif/fda_raw/MAX/K180724.json",
+        "bytes": 619
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--camber-spine-technologies-llc--spira-open-matrix-llif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--camber-spine-technologies-llc--spira-open-matrix-llif/merged/pedicle-screw--camber-spine-technologies-llc--spira-open-matrix-llif.json",
+        "bytes": 850
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

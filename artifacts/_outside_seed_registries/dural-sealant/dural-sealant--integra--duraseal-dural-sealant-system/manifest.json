@@ -1,0 +1,21 @@
+{
+  "device_slug": "dural-sealant--integra--duraseal-dural-sealant-system",
+  "artifact_folder": "dural-sealant--integra--duraseal-dural-sealant-system",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 535,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/pma/P040034--duraseal-dural-sealant-system.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-sealant/dural-sealant--integra--duraseal-dural-sealant-system/fda_raw/pma/P040034--duraseal-dural-sealant-system.json",
+        "bytes": 535
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "dural-sealant",
+    "label": "Outside listed seed registries"
+  }
+}

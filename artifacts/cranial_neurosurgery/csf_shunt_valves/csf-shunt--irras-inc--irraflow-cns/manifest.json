@@ -1,0 +1,47 @@
+{
+  "device_slug": "csf-shunt--irras-inc--irraflow-cns",
+  "artifact_folder": "csf-shunt--irras-inc--irraflow-cns",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 321753,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/csf-shunt/parsed/fda_summaries/csf-shunt--irras-inc--irraflow-cns--510k.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--irras-inc--irraflow-cns/510k/csf-shunt/parsed/fda_summaries/csf-shunt--irras-inc--irraflow-cns--510k.json",
+        "bytes": 38308
+      },
+      {
+        "source": "pipeline/data/510k/csf-shunt/pdfs/csf-shunt--irras-inc--irraflow-cns--510k.pdf",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--irras-inc--irraflow-cns/510k/csf-shunt/pdfs/csf-shunt--irras-inc--irraflow-cns--510k.pdf",
+        "bytes": 276123
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--irras-inc--irraflow-cns.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--irras-inc--irraflow-cns/enriched/csf-shunt--irras-inc--irraflow-cns.json",
+        "bytes": 5998
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K171880.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--irras-inc--irraflow-cns/fda_raw/JXG/K171880.json",
+        "bytes": 538
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--irras-inc--irraflow-cns.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--irras-inc--irraflow-cns/merged/csf-shunt--irras-inc--irraflow-cns.json",
+        "bytes": 786
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

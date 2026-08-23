@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--howmedica-osteonics-corp--osteonics-spinal-versatile-cross-connector",
+  "artifact_folder": "corpectomy--howmedica-osteonics-corp--osteonics-spinal-versatile-cross-connector",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3042,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--howmedica-osteonics-corp--osteonics-spinal-versatile-cross-connector.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--howmedica-osteonics-corp--osteonics-spinal-versatile-cross-connector/enriched/corpectomy--howmedica-osteonics-corp--osteonics-spinal-versatile-cross-connector.json",
+        "bytes": 1489
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K990922.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--howmedica-osteonics-corp--osteonics-spinal-versatile-cross-connector/fda_raw/KWP/K990922.json",
+        "bytes": 645
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--howmedica-osteonics-corp--osteonics-spinal-versatile-cross-connector.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--howmedica-osteonics-corp--osteonics-spinal-versatile-cross-connector/merged/corpectomy--howmedica-osteonics-corp--osteonics-spinal-versatile-cross-connector.json",
+        "bytes": 908
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

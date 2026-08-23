@@ -1,0 +1,28 @@
+{
+  "device_slug": "reference--viktors-notes--neuronavigation--chapter",
+  "artifact_folder": "reference--viktors-notes--neuronavigation--chapter",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 2,
+  "bytes": 4110216,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/reference--viktors-notes--neuronavigation--chapter.pdf",
+        "artifact": "artifacts/_outside_seed_registries/reference/reference--viktors-notes--neuronavigation--chapter/data_by_device/reference--viktors-notes--neuronavigation--chapter.pdf",
+        "bytes": 4105740
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/documents/reference--viktors-notes--neuronavigation--chapter.json",
+        "artifact": "artifacts/_outside_seed_registries/reference/reference--viktors-notes--neuronavigation--chapter/extracted/documents/reference--viktors-notes--neuronavigation--chapter.json",
+        "bytes": 4476
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "reference",
+    "label": "Outside listed seed registries"
+  }
+}

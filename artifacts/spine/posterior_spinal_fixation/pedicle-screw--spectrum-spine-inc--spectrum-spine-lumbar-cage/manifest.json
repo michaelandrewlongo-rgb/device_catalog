@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--spectrum-spine-inc--spectrum-spine-lumbar-cage",
+  "artifact_folder": "pedicle-screw--spectrum-spine-inc--spectrum-spine-lumbar-cage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2891,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--spectrum-spine-inc--spectrum-spine-lumbar-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spectrum-spine-inc--spectrum-spine-lumbar-cage/enriched/pedicle-screw--spectrum-spine-inc--spectrum-spine-lumbar-cage.json",
+        "bytes": 1435
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K243074.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spectrum-spine-inc--spectrum-spine-lumbar-cage/fda_raw/MAX/K243074.json",
+        "bytes": 602
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--spectrum-spine-inc--spectrum-spine-lumbar-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spectrum-spine-inc--spectrum-spine-lumbar-cage/merged/pedicle-screw--spectrum-spine-inc--spectrum-spine-lumbar-cage.json",
+        "bytes": 854
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

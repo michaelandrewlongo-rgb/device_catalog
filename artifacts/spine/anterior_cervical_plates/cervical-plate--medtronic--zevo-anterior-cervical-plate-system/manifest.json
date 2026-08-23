@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--medtronic--zevo-anterior-cervical-plate-system",
+  "artifact_folder": "cervical-plate--medtronic--zevo-anterior-cervical-plate-system",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3299,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--medtronic--zevo-anterior-cervical-plate-system.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--zevo-anterior-cervical-plate-system/enriched/cervical-plate--medtronic--zevo-anterior-cervical-plate-system.json",
+        "bytes": 2007
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--medtronic--zevo-anterior-cervical-plate-system.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--zevo-anterior-cervical-plate-system/merged/cervical-plate--medtronic--zevo-anterior-cervical-plate-system.json",
+        "bytes": 904
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/medtronic/zevo-anterior-cervical-plate-system.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--zevo-anterior-cervical-plate-system/scraper_raw/medtronic/zevo-anterior-cervical-plate-system.json",
+        "bytes": 388
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

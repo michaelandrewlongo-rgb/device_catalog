@@ -1,0 +1,40 @@
+{
+  "device_slug": "interbody-cage--medtronic--cd-horizon-spinal-medtronic-navigated",
+  "artifact_folder": "interbody-cage--medtronic--cd-horizon-spinal-medtronic-navigated",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 5148,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--medtronic--cd-horizon-spinal-medtronic-navigated.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--cd-horizon-spinal-medtronic-navigated/enriched/interbody-cage--medtronic--cd-horizon-spinal-medtronic-navigated.json",
+        "bytes": 2731
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K143375.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--cd-horizon-spinal-medtronic-navigated/fda_raw/NKB/K143375.json",
+        "bytes": 643
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K153442.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--cd-horizon-spinal-medtronic-navigated/fda_raw/NKB/K153442.json",
+        "bytes": 859
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--medtronic--cd-horizon-spinal-medtronic-navigated.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--cd-horizon-spinal-medtronic-navigated/merged/interbody-cage--medtronic--cd-horizon-spinal-medtronic-navigated.json",
+        "bytes": 915
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

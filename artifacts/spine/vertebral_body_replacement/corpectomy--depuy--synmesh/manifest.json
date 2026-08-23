@@ -1,0 +1,33 @@
+{
+  "device_slug": "corpectomy--depuy--synmesh",
+  "artifact_folder": "corpectomy--depuy--synmesh",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2145796,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/corpectomy--depuy--synmesh--knowledge.md",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--synmesh/data_by_device/corpectomy--depuy--synmesh--knowledge.md",
+        "bytes": 13985
+      },
+      {
+        "source": "pipeline/data/data_by_device/corpectomy--depuy--synmesh--technique.pdf",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--synmesh/data_by_device/corpectomy--depuy--synmesh--technique.pdf",
+        "bytes": 2125122
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/documents/corpectomy--depuy--synmesh--technique.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--synmesh/extracted/documents/corpectomy--depuy--synmesh--technique.json",
+        "bytes": 6689
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

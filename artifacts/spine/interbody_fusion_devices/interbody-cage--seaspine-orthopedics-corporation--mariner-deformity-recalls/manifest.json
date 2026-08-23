@@ -1,0 +1,21 @@
+{
+  "device_slug": "interbody-cage--seaspine-orthopedics-corporation--mariner-deformity-recalls",
+  "artifact_folder": "interbody-cage--seaspine-orthopedics-corporation--mariner-deformity-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 1951,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/interbody-cage--seaspine-orthopedics-corporation--mariner-deformity-recalls.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--seaspine-orthopedics-corporation--mariner-deformity-recalls/extracted/fda_safety/interbody-cage--seaspine-orthopedics-corporation--mariner-deformity-recalls.json",
+        "bytes": 1951
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

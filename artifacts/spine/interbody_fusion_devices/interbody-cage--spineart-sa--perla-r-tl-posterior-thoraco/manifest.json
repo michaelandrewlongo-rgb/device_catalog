@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--spineart-sa--perla-r-tl-posterior-thoraco",
+  "artifact_folder": "interbody-cage--spineart-sa--perla-r-tl-posterior-thoraco",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3386,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--spineart-sa--perla-r-tl-posterior-thoraco.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spineart-sa--perla-r-tl-posterior-thoraco/enriched/interbody-cage--spineart-sa--perla-r-tl-posterior-thoraco.json",
+        "bytes": 1897
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K231069.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spineart-sa--perla-r-tl-posterior-thoraco/fda_raw/NKB/K231069.json",
+        "bytes": 601
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--spineart-sa--perla-r-tl-posterior-thoraco.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spineart-sa--perla-r-tl-posterior-thoraco/merged/interbody-cage--spineart-sa--perla-r-tl-posterior-thoraco.json",
+        "bytes": 888
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "device_family": "flow-diverter--stryker--surpass-streamline",
+    "query_used": "\"Surpass Streamline Flow Diverter -- Stryker Neurovascular\" OR \"Surpass Streamline\" OR \"Surpass Flow Diverter\" OR \"Intracranial Aneurysm Flow Diverter\"",
+    "raw": {
+      "abstract": "Recurrent intracranial aneurysm carries a risk of rupture and retreatment is often necessary. However, there is no consensus on the best retreatment modality of choice. Flow diverter has emerged as a promising option for this population in recent years. Given its high cost, patient selection to optimize outcomes is very important.\nTo identify patient factors predisposing to failure of flow diverter retreatment.\nWe conducted a systematic search on PubMed, Cochrane Library, Embase, Ovid/Medline, and ClinicalTrial.gov from 2000 to 2021. Studies regarding flow diverter retreatment of recurrent aneurysms were analyzed if they meet the inclusion criteria.\nA total of twenty-six studies were identified. Among 374 patients retreated with flow diverters, about 0.86 [0.81; 0.92] were successfully occluded and only 0.06 [0.02; 0.10] had unfavorable neurological outcomes. Major complications included intracranial hemorrhage (n = 7), ischemic stroke or thromboembolic event (n = 12), and death (n = 2). In-stent stenosis was reported in 10 of the cases. Saccular aneurysms are associated with a higher occlusion rate while aneurysm location, size, status, and prior treatment modality have no significant impact on retreatment efficacy.\nWe demonstrated that flow diverter is an effective retreatment strategy except in patients with non-saccular aneurysms. It should be considered as a first-line option for patients with recurrent intracranial aneurysm.",
+      "doi": "10.1177/15910199221095972",
+      "journal": "Interventional neuroradiology : journal of peritherapeutic neuroradiology, surgical procedures and related neurosciences",
+      "matched_device_family": "flow-diverter--stryker--surpass-streamline",
+      "pmid": "35505615",
+      "publication_date": "2024-Feb",
+      "query_used": "\"Surpass Streamline Flow Diverter -- Stryker Neurovascular\" OR \"Surpass Streamline\" OR \"Surpass Flow Diverter\" OR \"Intracranial Aneurysm Flow Diverter\"",
+      "source_retrieved_at": "2026-04-15T10:11:01+00:00",
+      "title": "Flow diverter retreatment for intracranial aneurysms: A meta-analysis of efficacy and feasibility."
+    },
+    "retrieved_at": "2026-04-15T10:11:01+00:00",
+    "source_id": "pubmed:35505615",
+    "source_type": "pubmed",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/35505615/",
+    "title": "Flow diverter retreatment for intracranial aneurysms: A meta-analysis of efficacy and feasibility."
+  },
+  {
+    "device_family": "flow-diverter--stryker--surpass-streamline",
+    "query_used": "\"Surpass Streamline Flow Diverter -- Stryker Neurovascular\" OR \"Surpass Streamline\" OR \"Surpass Flow Diverter\" OR \"Intracranial Aneurysm Flow Diverter\"",
+    "raw": {
+      "abstract": "The clinical use of flow diverters for the treatment of intracranial aneurysms has rapidly grown. Consequently, the market and technology for these devices has also grown. Clinical performance characteristics of the flow diverter are well-known to the clinician. However, the engineering design principles behind how these devices achieve ideal clinical performance are less understood. This primer will summarize flow diverter design parameters for neurointerventionalists with the aim of promoting collaboration between clinicians and engineers.",
+      "doi": "10.3174/ajnr.A8076",
+      "journal": "AJNR. American journal of neuroradiology",
+      "matched_device_family": "flow-diverter--stryker--surpass-streamline",
+      "pmid": "38164542",
+      "publication_date": "2024-Apr-08",
+      "query_used": "\"Surpass Streamline Flow Diverter -- Stryker Neurovascular\" OR \"Surpass Streamline\" OR \"Surpass Flow Diverter\" OR \"Intracranial Aneurysm Flow Diverter\"",
+      "source_retrieved_at": "2026-04-15T10:11:01+00:00",
+      "title": "Intraluminal Flow Diverter Design Primer for Neurointerventionalists."
+    },
+    "retrieved_at": "2026-04-15T10:11:01+00:00",
+    "source_id": "pubmed:38164542",
+    "source_type": "pubmed",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/38164542/",
+    "title": "Intraluminal Flow Diverter Design Primer for Neurointerventionalists."
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--flospine--flospine-pedicle-screw",
+  "artifact_folder": "interbody-cage--flospine--flospine-pedicle-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2793,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--flospine--flospine-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--flospine--flospine-pedicle-screw/enriched/interbody-cage--flospine--flospine-pedicle-screw.json",
+        "bytes": 1405
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K141850.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--flospine--flospine-pedicle-screw/fda_raw/NKB/K141850.json",
+        "bytes": 564
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--flospine--flospine-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--flospine--flospine-pedicle-screw/merged/interbody-cage--flospine--flospine-pedicle-screw.json",
+        "bytes": 824
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

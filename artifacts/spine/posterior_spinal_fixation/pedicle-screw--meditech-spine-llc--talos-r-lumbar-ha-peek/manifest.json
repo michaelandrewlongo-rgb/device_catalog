@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--meditech-spine-llc--talos-r-lumbar-ha-peek",
+  "artifact_folder": "pedicle-screw--meditech-spine-llc--talos-r-lumbar-ha-peek",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2901,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--meditech-spine-llc--talos-r-lumbar-ha-peek.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--meditech-spine-llc--talos-r-lumbar-ha-peek/enriched/pedicle-screw--meditech-spine-llc--talos-r-lumbar-ha-peek.json",
+        "bytes": 1437
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K170395.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--meditech-spine-llc--talos-r-lumbar-ha-peek/fda_raw/MAX/K170395.json",
+        "bytes": 600
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--meditech-spine-llc--talos-r-lumbar-ha-peek.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--meditech-spine-llc--talos-r-lumbar-ha-peek/merged/pedicle-screw--meditech-spine-llc--talos-r-lumbar-ha-peek.json",
+        "bytes": 864
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

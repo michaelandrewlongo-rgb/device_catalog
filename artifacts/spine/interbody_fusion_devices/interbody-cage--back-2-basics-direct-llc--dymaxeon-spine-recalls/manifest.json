@@ -1,0 +1,21 @@
+{
+  "device_slug": "interbody-cage--back-2-basics-direct-llc--dymaxeon-spine-recalls",
+  "artifact_folder": "interbody-cage--back-2-basics-direct-llc--dymaxeon-spine-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 880,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/interbody-cage--back-2-basics-direct-llc--dymaxeon-spine-recalls.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--back-2-basics-direct-llc--dymaxeon-spine-recalls/extracted/fda_safety/interbody-cage--back-2-basics-direct-llc--dymaxeon-spine-recalls.json",
+        "bytes": 880
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

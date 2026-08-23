@@ -1,0 +1,25 @@
+{
+  "source_pdf": "precept-technique-guide.PDF",
+  "source_path": "C:\\Users\\Michael\\Documents\\device_catalog\\pipeline\\data\\extracted\\nspr\\pdfs\\precept-technique-guide.PDF",
+  "device_name": "Precept Technique Guide",
+  "manufacturer": "unknown",
+  "doc_type": "technique_guide",
+  "extraction_method": "pdfplumber_deepseek",
+  "extraction_source": "nspr_pdf",
+  "fields": {
+    "what_it_is": "Precept® is the next evolution in posterior pedicle screw fixation. It is designed to be simple and consistent for all users. This comprehensive instrumentation set and implant options delivers the very latest in tissue-sparing technology.",
+    "sizing_specs": "| DESCRIPTION | CATALOG # | QUANTITY |\n| --- | --- | --- |\n| Threaded Stainless Steel K-wire | 8801000 | 14 |\n| Threaded Nitinol K-wire | 8801068 | 14 |\n| Bevel/Blunt Nitinol K-wire | 8801069 | 10 |\n| K-wire Driver | 8801002 | 1 |\n| Fascial Splitter Handle | 8801070 | 1 |\n| Primary Dilator | 8801203 | 1 |\n| Tap Insulator | 8801204 | 1 |\n| Screw Insulator | 8801205 | 1 |\n| Tap-Dilator Combo | 8801211 | 2 |\n| Tap 4.5mm | 8801345 | 1 |\n| Tap 5.5mm | 8801355 | 1 |\n| Tap 6.5mm | 8801365 | 1 |\n| Tap 7.5mm | 8801375 | 1 |\n| Ratcheting Teardrop Handle | 8801021 | 1 |\n| Quick-Connect Straight Handle, Short | 8801020 | 2 |\n| Facet Tube Dilator | 8801275 | 1 |\n| Facet Tube | 8801277 | 1 |\n| Standard Guide | 8801208 | 8 |\n| Slip-on Guide | 8801210 | 1 |\n| Guide Adjuster | 8801212 | 1 |\n| Guide Locking Cap | 8801213 | 2 |\n| Polyaxial Screwdrivers | 8801215 | 2 |\n| Screw Adjuster | 8801222 | 1 |\n| Slip-on Guide Removal Tool | 8801261 | 1 |\n| Rod Measurement Tool | 8801223 | 1 |\n| Curved Tissue Dissector | 8801224 | 1 |\n| Obtuse Rod Inserter | 8801229 | 1 |\n| Acute Rod Inserter | 8801232 | 1 |\n| Adjustable Rod Inserter | 8801280 | 1 |\n| Inserter Driver | 8801281 | 1 |\n| Rod Holder | 8801034 | 1 |\n\n| DESCRIPTION | CATALOG # | QUANTITY |\n| --- | --- | --- |\n| Threaded Rod Pusher | 8801235 | 2 |\n| Rod Pusher | 8801236 | 1 |\n| “Pile Driver” | 8801238 | 2 |\n| Reduction Attachment | 8801239 | 1 |\n| Lock Screw Attachment | 8801240 | 1 |\n| “Pistol” Grip Reducer | 8801242 | 1 |\n| Standard Lock Screw Starter | 8801243 | 2 |\n| Multi-Load Lock Screw Starter | 8801245 | 1 |\n| Open Rocker | 8801064 | 1 |\n| Single-Level Reducer | 8801066 | 2 |\n| Lock Screw Driver | 8801244 | 1 |\n| Reattachment Tool | 8801256 | 1 |\n| Torque T-handle | 8801057 | 1 |\n| Bulldozer | 8801074 | 2 |\n| Reduction T-handle | 8801075 | 1 |\n| Guide Counter-Torque | 8801258 | 1 |\n| Rack Compressor Distractor | 8801046 | 1 |\n| Fulcrum “Pistol” Grip Compressor | 8801249 | 1 |\n| Compressor Final Driver | 8801250 | 1 |\n| Compressor Left Arm, Short | 8801052 | 1 |\n| Compressor Left Arm, Long | 8801053 | 1 |\n| Compressor Right Arm, Short | 8801054 | 1 |\n| Compressor Right Arm, Long | 8801055 | 1 |\n| French Bender | 8801026 | 1 |\n| Precept IFU | 9401385 | 1 |",
+    "indications": null,
+    "contraindications": null,
+    "compatible_with": "NVM5® System, I-PASTM III Needle, C-Arm Fluoroscope, Radiolucent Surgical Table",
+    "use_notes": "EQUIPMENT REQUIREMENTS: • C-Arm Fluoroscope • I-PASTM III Needle • Radiolucent Surgical Table • NVM5® System • Precept® Spinal System. STEP 1: PATIENT POSITIONING AND O.R. SETUP: Place the patient on the operating table in a prone position. Prepare and drape in a conventional manner. The fluoroscope should have easy access to the surgical field for both A/P and lateral views. Uniplanar or biplanar fluoroscopy may be used. Fluoroscopic monitors and the NVM5 unit should be placed in clear view. For a complete list of intended uses, indications, device NVM5 description, contraindications, warnings, and precautions, please refer to the Instructions for Use (IFU) in the back of this technique guide.",
+    "also_known_as": "MAXIMUM ACCESS SURGICAL PLATFORM"
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "sizing_specs": 0.7,
+    "compatible_with": 0.7,
+    "use_notes": 0.7,
+    "also_known_as": 0.7
+  }
+}

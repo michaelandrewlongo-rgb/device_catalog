@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--zimmer-biomet--small-stature-spacers",
+  "artifact_folder": "cervical-plate--zimmer-biomet--small-stature-spacers",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2784,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--zimmer-biomet--small-stature-spacers.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--zimmer-biomet--small-stature-spacers/enriched/cervical-plate--zimmer-biomet--small-stature-spacers.json",
+        "bytes": 1398
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K063393.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--zimmer-biomet--small-stature-spacers/fda_raw/MQP/K063393.json",
+        "bytes": 569
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--zimmer-biomet--small-stature-spacers.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--zimmer-biomet--small-stature-spacers/merged/cervical-plate--zimmer-biomet--small-stature-spacers.json",
+        "bytes": 817
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "device_slug": "csf-shunt--integra--certas-plus-valve",
+  "artifact_folder": "csf-shunt--integra--certas-plus-valve",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 139553,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/csf-shunt/parsed/documents/csf-shunt--integra--certas-plus-valve--510k.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--certas-plus-valve/510k/csf-shunt/parsed/documents/csf-shunt--integra--certas-plus-valve--510k.json",
+        "bytes": 5046
+      },
+      {
+        "source": "pipeline/data/510k/csf-shunt/pdfs/csf-shunt--integra--certas-plus-valve--510k.pdf",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--certas-plus-valve/510k/csf-shunt/pdfs/csf-shunt--integra--certas-plus-valve--510k.pdf",
+        "bytes": 128177
+      }
+    ],
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/csf-shunt--integra--certas-plus-valve--knowledge.md",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--certas-plus-valve/data_by_device/csf-shunt--integra--certas-plus-valve--knowledge.md",
+        "bytes": 6330
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "device_slug": "pedicle-screw--eit-emerging-implant-technologies-gmbh--eit-cellular-titanium-cervical-cage",
+  "artifact_folder": "pedicle-screw--eit-emerging-implant-technologies-gmbh--eit-cellular-titanium-cervical-cage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 4513,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--eit-emerging-implant-technologies-gmbh--eit-cellular-titanium-cervical-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--eit-emerging-implant-technologies-gmbh--eit-cellular-titanium-cervical-cage/enriched/pedicle-screw--eit-emerging-implant-technologies-gmbh--eit-cellular-titanium-cervical-cage.json",
+        "bytes": 1756
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K170503.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--eit-emerging-implant-technologies-gmbh--eit-cellular-titanium-cervical-cage/fda_raw/MAX/K170503.json",
+        "bytes": 777
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K201605.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--eit-emerging-implant-technologies-gmbh--eit-cellular-titanium-cervical-cage/fda_raw/MAX/K201605.json",
+        "bytes": 805
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--eit-emerging-implant-technologies-gmbh--eit-cellular-titanium-cervical-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--eit-emerging-implant-technologies-gmbh--eit-cellular-titanium-cervical-cage/merged/pedicle-screw--eit-emerging-implant-technologies-gmbh--eit-cellular-titanium-cervical-cage.json",
+        "bytes": 1175
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

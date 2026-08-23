@@ -1,0 +1,23 @@
+{
+  "source_pdf": "cascadia-an-lordotic-oblique-sell-sheet.pdf",
+  "source_path": "C:\\Users\\Michael\\Documents\\device_catalog\\pipeline\\data\\extracted\\nspr\\pdfs\\cascadia-an-lordotic-oblique-sell-sheet.pdf",
+  "device_name": "Cascadia An Lordotic Oblique Sell Sheet",
+  "manufacturer": "unknown",
+  "doc_type": "technique_guide",
+  "extraction_method": "pdfplumber_deepseek",
+  "extraction_source": "nspr_pdf",
+  "fields": {
+    "what_it_is": "Cascadia AN Lordotic-Oblique 3D Interbody System includes a full range of unique and anatomically designed interbodies for multiple spinal applications. This system is designed to offer a comprehensive solution for the restoration and maintenance of disc height to facilitate sagittal balance in the lumbar spine. Lamellar 3D Titanium Technology incorporates 300-500 µm longitudinal channels, which in conjunction with transverse windows, create an interconnected lattice designed to allow for bony integration. Angled posterior wall. Roughened titanium surfaces have been shown to demonstrate increased protein expression in contrast to smooth titanium surfaces. Convex design resembles anatomic structure of endplates. 35º angled posterior wall designed to accommodate vertebral anatomy.",
+    "sizing_specs": "| Footprint | Lordotic Angles | Posterior Heights |\n|-----------|-----------------|-------------------|\n| 10 x 28mm | 6°, 12°, 18°    | 4–12mm            |\n| 10 x 32mm | 6°, 12°, 18°    | 4–12mm            |",
+    "indications": null,
+    "contraindications": null,
+    "compatible_with": null,
+    "use_notes": "Two unique Inserter options to facilitate both MI implant insertion and in-situ rotation.",
+    "also_known_as": null
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "sizing_specs": 0.7,
+    "use_notes": 0.7
+  }
+}

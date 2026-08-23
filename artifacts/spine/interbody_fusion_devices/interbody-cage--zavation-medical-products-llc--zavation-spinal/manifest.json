@@ -1,0 +1,50 @@
+{
+  "device_slug": "interbody-cage--zavation-medical-products-llc--zavation-spinal",
+  "artifact_folder": "interbody-cage--zavation-medical-products-llc--zavation-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 4727,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--zavation-medical-products-llc--zavation-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--zavation-medical-products-llc--zavation-spinal/enriched/interbody-cage--zavation-medical-products-llc--zavation-spinal.json",
+        "bytes": 1426
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K190317.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--zavation-medical-products-llc--zavation-spinal/fda_raw/NKB/K190317.json",
+        "bytes": 614
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K190361.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--zavation-medical-products-llc--zavation-spinal/fda_raw/NKB/K190361.json",
+        "bytes": 614
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K211113.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--zavation-medical-products-llc--zavation-spinal/fda_raw/NKB/K211113.json",
+        "bytes": 614
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K222614.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--zavation-medical-products-llc--zavation-spinal/fda_raw/NKB/K222614.json",
+        "bytes": 614
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--zavation-medical-products-llc--zavation-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--zavation-medical-products-llc--zavation-spinal/merged/interbody-cage--zavation-medical-products-llc--zavation-spinal.json",
+        "bytes": 845
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

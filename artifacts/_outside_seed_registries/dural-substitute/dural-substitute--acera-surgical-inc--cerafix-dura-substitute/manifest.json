@@ -1,0 +1,57 @@
+{
+  "device_slug": "dural-substitute--acera-surgical-inc--cerafix-dura-substitute",
+  "artifact_folder": "dural-substitute--acera-surgical-inc--cerafix-dura-substitute",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 7,
+  "bytes": 782090,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/dural-substitute/parsed/fda_summaries/dural-substitute--acera-surgical-inc--cerafix-dura-substitute--510k.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--acera-surgical-inc--cerafix-dura-substitute/510k/dural-substitute/parsed/fda_summaries/dural-substitute--acera-surgical-inc--cerafix-dura-substitute--510k.json",
+        "bytes": 19195
+      },
+      {
+        "source": "pipeline/data/510k/dural-substitute/pdfs/dural-substitute--acera-surgical-inc--cerafix-dura-substitute--510k.pdf",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--acera-surgical-inc--cerafix-dura-substitute/510k/dural-substitute/pdfs/dural-substitute--acera-surgical-inc--cerafix-dura-substitute--510k.pdf",
+        "bytes": 752441
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/dural-substitute--acera-surgical-inc--cerafix-dura-substitute.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--acera-surgical-inc--cerafix-dura-substitute/enriched/dural-substitute--acera-surgical-inc--cerafix-dura-substitute.json",
+        "bytes": 7835
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/GXQ/K153613.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--acera-surgical-inc--cerafix-dura-substitute/fda_raw/GXQ/K153613.json",
+        "bytes": 594
+      },
+      {
+        "source": "pipeline/data/fda_raw/GXQ/K161278.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--acera-surgical-inc--cerafix-dura-substitute/fda_raw/GXQ/K161278.json",
+        "bytes": 594
+      },
+      {
+        "source": "pipeline/data/fda_raw/GXQ/K172603.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--acera-surgical-inc--cerafix-dura-substitute/fda_raw/GXQ/K172603.json",
+        "bytes": 594
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/dural-substitute--acera-surgical-inc--cerafix-dura-substitute.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--acera-surgical-inc--cerafix-dura-substitute/merged/dural-substitute--acera-surgical-inc--cerafix-dura-substitute.json",
+        "bytes": 837
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "dural-substitute",
+    "label": "Outside listed seed registries"
+  }
+}

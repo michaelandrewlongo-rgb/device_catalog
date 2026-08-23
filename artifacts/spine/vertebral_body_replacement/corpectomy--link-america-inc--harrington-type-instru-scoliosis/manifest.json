@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--link-america-inc--harrington-type-instru-scoliosis",
+  "artifact_folder": "corpectomy--link-america-inc--harrington-type-instru-scoliosis",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2872,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--link-america-inc--harrington-type-instru-scoliosis.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--link-america-inc--harrington-type-instru-scoliosis/enriched/corpectomy--link-america-inc--harrington-type-instru-scoliosis.json",
+        "bytes": 1429
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K840423.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--link-america-inc--harrington-type-instru-scoliosis/fda_raw/KWP/K840423.json",
+        "bytes": 595
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--link-america-inc--harrington-type-instru-scoliosis.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--link-america-inc--harrington-type-instru-scoliosis/merged/corpectomy--link-america-inc--harrington-type-instru-scoliosis.json",
+        "bytes": 848
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

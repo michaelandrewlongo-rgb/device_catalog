@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--vertebron-inc--vertebron-pss-pedicle-screw",
+  "artifact_folder": "corpectomy--vertebron-inc--vertebron-pss-pedicle-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2846,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--vertebron-inc--vertebron-pss-pedicle-screw.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--vertebron-inc--vertebron-pss-pedicle-screw/enriched/corpectomy--vertebron-inc--vertebron-pss-pedicle-screw.json",
+        "bytes": 1422
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K051716.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--vertebron-inc--vertebron-pss-pedicle-screw/fda_raw/KWP/K051716.json",
+        "bytes": 583
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--vertebron-inc--vertebron-pss-pedicle-screw.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--vertebron-inc--vertebron-pss-pedicle-screw/merged/corpectomy--vertebron-inc--vertebron-pss-pedicle-screw.json",
+        "bytes": 841
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

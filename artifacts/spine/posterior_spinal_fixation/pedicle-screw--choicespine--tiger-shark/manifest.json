@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--choicespine--tiger-shark",
+  "artifact_folder": "pedicle-screw--choicespine--tiger-shark",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2742,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--choicespine--tiger-shark.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--choicespine--tiger-shark/enriched/pedicle-screw--choicespine--tiger-shark.json",
+        "bytes": 1380
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K172816.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--choicespine--tiger-shark/fda_raw/MAX/K172816.json",
+        "bytes": 555
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--choicespine--tiger-shark.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--choicespine--tiger-shark/merged/pedicle-screw--choicespine--tiger-shark.json",
+        "bytes": 807
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

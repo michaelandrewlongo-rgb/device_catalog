@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--amendia-inc--rectangular-corpectomy-cage",
+  "artifact_folder": "cervical-plate--amendia-inc--rectangular-corpectomy-cage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2821,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--amendia-inc--rectangular-corpectomy-cage.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--amendia-inc--rectangular-corpectomy-cage/enriched/cervical-plate--amendia-inc--rectangular-corpectomy-cage.json",
+        "bytes": 1412
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K152460.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--amendia-inc--rectangular-corpectomy-cage/fda_raw/MQP/K152460.json",
+        "bytes": 578
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--amendia-inc--rectangular-corpectomy-cage.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--amendia-inc--rectangular-corpectomy-cage/merged/cervical-plate--amendia-inc--rectangular-corpectomy-cage.json",
+        "bytes": 831
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

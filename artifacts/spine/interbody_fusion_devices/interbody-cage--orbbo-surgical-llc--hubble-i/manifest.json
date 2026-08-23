@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--orbbo-surgical-llc--hubble-i",
+  "artifact_folder": "interbody-cage--orbbo-surgical-llc--hubble-i",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2752,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--orbbo-surgical-llc--hubble-i.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--orbbo-surgical-llc--hubble-i/enriched/interbody-cage--orbbo-surgical-llc--hubble-i.json",
+        "bytes": 1383
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K163566.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--orbbo-surgical-llc--hubble-i/fda_raw/NKB/K163566.json",
+        "bytes": 567
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--orbbo-surgical-llc--hubble-i.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--orbbo-surgical-llc--hubble-i/merged/interbody-cage--orbbo-surgical-llc--hubble-i.json",
+        "bytes": 802
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

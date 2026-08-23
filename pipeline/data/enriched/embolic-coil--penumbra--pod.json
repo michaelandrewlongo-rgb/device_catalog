@@ -9,9 +9,9 @@
   "device_class": 2,
   "device_name_fda": "POD SYSTEM",
   "product_code": "HCG",
-  "what_it_is": null,
+  "what_it_is": "Device Description\nThe POD System functions to selectively embolize targeted segments of the vasculature\nby packing a sufficient quantity of soft platinum coils to achieve occlusion in an\nequivalent fashion to existing bare-platinum embolization coils. The POD System\n\nconsists of three components: a Coil Implant attached toa Detachment Pusher and a\nDetachment Handle.\nIntended Use\nThe POD System ig indicated for the embolization of:\n* Intracranial aneurysms\n\" Other neurovascular abnormalities such as arteriovenous malformations and\narteriovenous fistulae\n* Arterial and venous embolizations in the peripheral vasculature\nSummary of Non-Clinical Data\nAs required under Section 12, Part (a)(i)(3A) of the Safe Medical Devices Act of 1990, a\nsummary of any information regarding safety and effectiveness of the device follows.\nIncluded in this section are descriptions of the testing's, which substantiates the safe and\neffective performance of the POD System as well as its substantial equivalence to the",
   "sizing_specs": "Model: MS15007",
-  "indications": null,
+  "indications": "Indications for Use (Describe)\nThe POD System is indicated for the embolization of:\nIntracranial aneurysms\nOther neurovascular abnormalities such as arteriovenous malformations and\narteriovenous fistulae\nArterial and venous embolizations in the peripheral vasculature\nType of Use (Select one or both, as applicable)\n0Prescription Use (Part 21 CER 801 Subpart D) El Over-The-Counter Use (21 CFR 801 Subpart C)\nPLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON A SEPARATE PAGE IF NEEDED.\nFOR FDA USE ONLY\nConcurrence of Center for Devices and Radiological Health (CDRH) (Signature)\ns\nFelipe AAgri~eiall Date: 2014.07.03 12:31 :39\nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.,\nThe burden time for this collection of information is estimated to average 79 hours per response, including the\ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any other aspect\nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Heahth and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStafffda.hhs.gov\n\"An agency may not conduct or sponsor, and a person is not required to respond to, a collection of\ninformation unless it displays a currently valid OMB number.\"\nFORM FDA 3881 (1114) Page I of 1 mw\"CmOI) ~.'.~.*. ...E.F",
   "contraindications": null,
   "compatible_with": null,
   "use_notes": "MRI: Labeling does not contain MRI Safety Information. Pre-sterilized. Single-use\n\n[FDA RECALL] 1 active recall(s).\n  - The diameter of a component of the device is out of tolerance specification; the Delivery Pusher pull wire which secures the coil in place can prolapse and allow premature detachment of the coil.",
@@ -30,16 +30,16 @@
   ],
   "_enrichment": {
     "what_it_is": {
-      "source": "none",
-      "confidence": 0
+      "source": "fda_summary",
+      "confidence": 0.9
     },
     "sizing_specs": {
       "source": "fda_udi",
       "confidence": 0.85
     },
     "indications": {
-      "source": "none",
-      "confidence": 0
+      "source": "fda_summary",
+      "confidence": 0.95
     },
     "contraindications": {
       "source": "none",

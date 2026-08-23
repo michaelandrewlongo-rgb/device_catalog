@@ -1,0 +1,35 @@
+{
+  "device_slug": "unknown--penumbra--ruby-embolization",
+  "artifact_folder": "unknown--penumbra--ruby-embolization",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2632,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/unknown--penumbra--ruby-embolization.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--penumbra--ruby-embolization/enriched/unknown--penumbra--ruby-embolization.json",
+        "bytes": 1328
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/unknown--penumbra--ruby-embolization.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--penumbra--ruby-embolization/merged/unknown--penumbra--ruby-embolization.json",
+        "bytes": 747
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/penumbra/ruby-embolization.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--penumbra--ruby-embolization/scraper_raw/penumbra/ruby-embolization.json",
+        "bytes": 557
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "unknown",
+    "label": "Outside listed seed registries"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "device_slug": "interbody-cage--pioneer-surgical-technology-inc--streamline-mis-spinal-fixation",
+  "artifact_folder": "interbody-cage--pioneer-surgical-technology-inc--streamline-mis-spinal-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 4764,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--pioneer-surgical-technology-inc--streamline-mis-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--pioneer-surgical-technology-inc--streamline-mis-spinal-fixation/enriched/interbody-cage--pioneer-surgical-technology-inc--streamline-mis-spinal-fixation.json",
+        "bytes": 1955
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--pioneer-surgical-technology-inc--streamline-mis-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--pioneer-surgical-technology-inc--streamline-mis-spinal-fixation/extracted/fda_structured/interbody-cage--pioneer-surgical-technology-inc--streamline-mis-spinal-fixation.json",
+        "bytes": 613
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K130286.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--pioneer-surgical-technology-inc--streamline-mis-spinal-fixation/fda_raw/NKB/K130286.json",
+        "bytes": 651
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K192396.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--pioneer-surgical-technology-inc--streamline-mis-spinal-fixation/fda_raw/NKB/K192396.json",
+        "bytes": 651
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--pioneer-surgical-technology-inc--streamline-mis-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--pioneer-surgical-technology-inc--streamline-mis-spinal-fixation/merged/interbody-cage--pioneer-surgical-technology-inc--streamline-mis-spinal-fixation.json",
+        "bytes": 894
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

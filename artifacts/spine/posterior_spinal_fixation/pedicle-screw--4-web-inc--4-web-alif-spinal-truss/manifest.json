@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--4-web-inc--4-web-alif-spinal-truss",
+  "artifact_folder": "pedicle-screw--4-web-inc--4-web-alif-spinal-truss",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2834,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--4-web-inc--4-web-alif-spinal-truss.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--4-web-inc--4-web-alif-spinal-truss/enriched/pedicle-screw--4-web-inc--4-web-alif-spinal-truss.json",
+        "bytes": 1420
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K112316.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--4-web-inc--4-web-alif-spinal-truss/fda_raw/MAX/K112316.json",
+        "bytes": 575
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--4-web-inc--4-web-alif-spinal-truss.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--4-web-inc--4-web-alif-spinal-truss/merged/pedicle-screw--4-web-inc--4-web-alif-spinal-truss.json",
+        "bytes": 839
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

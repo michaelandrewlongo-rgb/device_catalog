@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--globus--revere-crosstop",
+  "artifact_folder": "interbody-cage--globus--revere-crosstop",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2702,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--globus--revere-crosstop.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--globus--revere-crosstop/enriched/interbody-cage--globus--revere-crosstop.json",
+        "bytes": 1366
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K111479.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--globus--revere-crosstop/fda_raw/NKB/K111479.json",
+        "bytes": 551
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--globus--revere-crosstop.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--globus--revere-crosstop/merged/interbody-cage--globus--revere-crosstop.json",
+        "bytes": 785
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

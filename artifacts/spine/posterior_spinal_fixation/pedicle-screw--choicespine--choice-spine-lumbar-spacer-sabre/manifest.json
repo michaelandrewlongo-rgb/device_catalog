@@ -1,0 +1,45 @@
+{
+  "device_slug": "pedicle-screw--choicespine--choice-spine-lumbar-spacer-sabre",
+  "artifact_folder": "pedicle-screw--choicespine--choice-spine-lumbar-spacer-sabre",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 5009,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--choicespine--choice-spine-lumbar-spacer-sabre.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--choicespine--choice-spine-lumbar-spacer-sabre/enriched/pedicle-screw--choicespine--choice-spine-lumbar-spacer-sabre.json",
+        "bytes": 1727
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K140142.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--choicespine--choice-spine-lumbar-spacer-sabre/fda_raw/MAX/K140142.json",
+        "bytes": 621
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K153107.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--choicespine--choice-spine-lumbar-spacer-sabre/fda_raw/MAX/K153107.json",
+        "bytes": 728
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K162103.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--choicespine--choice-spine-lumbar-spacer-sabre/fda_raw/MAX/K162103.json",
+        "bytes": 739
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--choicespine--choice-spine-lumbar-spacer-sabre.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--choicespine--choice-spine-lumbar-spacer-sabre/merged/pedicle-screw--choicespine--choice-spine-lumbar-spacer-sabre.json",
+        "bytes": 1194
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

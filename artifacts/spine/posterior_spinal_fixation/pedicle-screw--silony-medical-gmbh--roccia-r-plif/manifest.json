@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--silony-medical-gmbh--roccia-r-plif",
+  "artifact_folder": "pedicle-screw--silony-medical-gmbh--roccia-r-plif",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2765,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--silony-medical-gmbh--roccia-r-plif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--silony-medical-gmbh--roccia-r-plif/enriched/pedicle-screw--silony-medical-gmbh--roccia-r-plif.json",
+        "bytes": 1384
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K181899.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--silony-medical-gmbh--roccia-r-plif/fda_raw/MAX/K181899.json",
+        "bytes": 570
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--silony-medical-gmbh--roccia-r-plif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--silony-medical-gmbh--roccia-r-plif/merged/pedicle-screw--silony-medical-gmbh--roccia-r-plif.json",
+        "bytes": 811
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

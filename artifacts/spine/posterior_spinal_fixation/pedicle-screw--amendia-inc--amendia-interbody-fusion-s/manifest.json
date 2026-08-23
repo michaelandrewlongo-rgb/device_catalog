@@ -1,0 +1,45 @@
+{
+  "device_slug": "pedicle-screw--amendia-inc--amendia-interbody-fusion-s",
+  "artifact_folder": "pedicle-screw--amendia-inc--amendia-interbody-fusion-s",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 4323,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--amendia-inc--amendia-interbody-fusion-s.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--amendia-inc--amendia-interbody-fusion-s/enriched/pedicle-screw--amendia-inc--amendia-interbody-fusion-s.json",
+        "bytes": 1745
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K151310.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--amendia-inc--amendia-interbody-fusion-s/fda_raw/MAX/K151310.json",
+        "bytes": 580
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K151322.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--amendia-inc--amendia-interbody-fusion-s/fda_raw/MAX/K151322.json",
+        "bytes": 580
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K160924.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--amendia-inc--amendia-interbody-fusion-s/fda_raw/MAX/K160924.json",
+        "bytes": 580
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--amendia-inc--amendia-interbody-fusion-s.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--amendia-inc--amendia-interbody-fusion-s/merged/pedicle-screw--amendia-inc--amendia-interbody-fusion-s.json",
+        "bytes": 838
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

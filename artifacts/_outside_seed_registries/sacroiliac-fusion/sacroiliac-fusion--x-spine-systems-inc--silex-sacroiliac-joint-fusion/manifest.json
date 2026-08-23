@@ -1,0 +1,26 @@
+{
+  "device_slug": "sacroiliac-fusion--x-spine-systems-inc--silex-sacroiliac-joint-fusion",
+  "artifact_folder": "sacroiliac-fusion--x-spine-systems-inc--silex-sacroiliac-joint-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 2,
+  "bytes": 1238,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/OUR/K123702.json",
+        "artifact": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--x-spine-systems-inc--silex-sacroiliac-joint-fusion/fda_raw/OUR/K123702.json",
+        "bytes": 619
+      },
+      {
+        "source": "pipeline/data/fda_raw/OUR/K140079.json",
+        "artifact": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--x-spine-systems-inc--silex-sacroiliac-joint-fusion/fda_raw/OUR/K140079.json",
+        "bytes": 619
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "sacroiliac-fusion",
+    "label": "Outside listed seed registries"
+  }
+}

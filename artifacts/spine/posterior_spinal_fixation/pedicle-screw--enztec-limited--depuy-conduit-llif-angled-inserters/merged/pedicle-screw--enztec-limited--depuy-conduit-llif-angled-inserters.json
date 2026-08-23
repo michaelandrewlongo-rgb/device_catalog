@@ -1,0 +1,28 @@
+{
+  "device_name": "DePuy CONDUIT LLIF Angled Inserters",
+  "manufacturer": "enztec-limited",
+  "catalog_category": "pedicle-screw",
+  "filename_stem": "pedicle-screw--enztec-limited--depuy-conduit-llif-angled-inserters",
+  "clearance_type": "510k",
+  "clearance_number": "K212823",
+  "clearance_date": "2021-11-01",
+  "device_class": 2,
+  "device_name_fda": "DePuy CONDUIT LLIF Angled Inserters",
+  "product_code": "MAX",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K212823.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

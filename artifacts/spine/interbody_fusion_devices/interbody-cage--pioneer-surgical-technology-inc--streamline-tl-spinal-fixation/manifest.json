@@ -1,0 +1,42 @@
+{
+  "device_slug": "interbody-cage--pioneer-surgical-technology-inc--streamline-tl-spinal-fixation",
+  "artifact_folder": "interbody-cage--pioneer-surgical-technology-inc--streamline-tl-spinal-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 4100,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--pioneer-surgical-technology-inc--streamline-tl-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--pioneer-surgical-technology-inc--streamline-tl-spinal-fixation/enriched/interbody-cage--pioneer-surgical-technology-inc--streamline-tl-spinal-fixation.json",
+        "bytes": 1950
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--pioneer-surgical-technology-inc--streamline-tl-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--pioneer-surgical-technology-inc--streamline-tl-spinal-fixation/extracted/fda_structured/interbody-cage--pioneer-surgical-technology-inc--streamline-tl-spinal-fixation.json",
+        "bytes": 610
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K140696.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--pioneer-surgical-technology-inc--streamline-tl-spinal-fixation/fda_raw/NKB/K140696.json",
+        "bytes": 649
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--pioneer-surgical-technology-inc--streamline-tl-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--pioneer-surgical-technology-inc--streamline-tl-spinal-fixation/merged/interbody-cage--pioneer-surgical-technology-inc--streamline-tl-spinal-fixation.json",
+        "bytes": 891
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

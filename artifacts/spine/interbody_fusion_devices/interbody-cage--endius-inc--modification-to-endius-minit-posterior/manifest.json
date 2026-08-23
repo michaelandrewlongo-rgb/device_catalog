@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--endius-inc--modification-to-endius-minit-posterior",
+  "artifact_folder": "interbody-cage--endius-inc--modification-to-endius-minit-posterior",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3122,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--endius-inc--modification-to-endius-minit-posterior.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--endius-inc--modification-to-endius-minit-posterior/enriched/interbody-cage--endius-inc--modification-to-endius-minit-posterior.json",
+        "bytes": 1531
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K080258.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--endius-inc--modification-to-endius-minit-posterior/fda_raw/NKB/K080258.json",
+        "bytes": 641
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--endius-inc--modification-to-endius-minit-posterior.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--endius-inc--modification-to-endius-minit-posterior/merged/interbody-cage--endius-inc--modification-to-endius-minit-posterior.json",
+        "bytes": 950
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

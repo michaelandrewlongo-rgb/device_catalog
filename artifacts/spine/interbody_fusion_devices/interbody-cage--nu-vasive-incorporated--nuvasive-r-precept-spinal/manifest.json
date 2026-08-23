@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--nu-vasive-incorporated--nuvasive-r-precept-spinal",
+  "artifact_folder": "interbody-cage--nu-vasive-incorporated--nuvasive-r-precept-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2942,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--nu-vasive-incorporated--nuvasive-r-precept-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--nu-vasive-incorporated--nuvasive-r-precept-spinal/enriched/interbody-cage--nu-vasive-incorporated--nuvasive-r-precept-spinal.json",
+        "bytes": 1446
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K171894.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--nu-vasive-incorporated--nuvasive-r-precept-spinal/fda_raw/NKB/K171894.json",
+        "bytes": 615
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--nu-vasive-incorporated--nuvasive-r-precept-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--nu-vasive-incorporated--nuvasive-r-precept-spinal/merged/interbody-cage--nu-vasive-incorporated--nuvasive-r-precept-spinal.json",
+        "bytes": 881
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

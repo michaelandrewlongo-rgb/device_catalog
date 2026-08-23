@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--cerenovus--codman-hakim-micro-ii-valve",
+  "artifact_folder": "csf-shunt--cerenovus--codman-hakim-micro-ii-valve",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2789,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--cerenovus--codman-hakim-micro-ii-valve.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cerenovus--codman-hakim-micro-ii-valve/enriched/csf-shunt--cerenovus--codman-hakim-micro-ii-valve.json",
+        "bytes": 1398
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K091346.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cerenovus--codman-hakim-micro-ii-valve/fda_raw/JXG/K091346.json",
+        "bytes": 574
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--cerenovus--codman-hakim-micro-ii-valve.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cerenovus--codman-hakim-micro-ii-valve/merged/csf-shunt--cerenovus--codman-hakim-micro-ii-valve.json",
+        "bytes": 817
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

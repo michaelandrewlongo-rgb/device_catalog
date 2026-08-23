@@ -1,0 +1,42 @@
+{
+  "device_slug": "interbody-cage--ortho-development-corporation--pisces-spinal",
+  "artifact_folder": "interbody-cage--ortho-development-corporation--pisces-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3701,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--ortho-development-corporation--pisces-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--ortho-development-corporation--pisces-spinal/enriched/interbody-cage--ortho-development-corporation--pisces-spinal.json",
+        "bytes": 1667
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--ortho-development-corporation--pisces-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--ortho-development-corporation--pisces-spinal/extracted/fda_structured/interbody-cage--ortho-development-corporation--pisces-spinal.json",
+        "bytes": 586
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K203023.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--ortho-development-corporation--pisces-spinal/fda_raw/NKB/K203023.json",
+        "bytes": 609
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--ortho-development-corporation--pisces-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--ortho-development-corporation--pisces-spinal/merged/interbody-cage--ortho-development-corporation--pisces-spinal.json",
+        "bytes": 839
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--warsaw-orthopedic-inc--tsrh-h-m-hook-eyebolt",
+  "artifact_folder": "corpectomy--warsaw-orthopedic-inc--tsrh-h-m-hook-eyebolt",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3261,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--warsaw-orthopedic-inc--tsrh-h-m-hook-eyebolt.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--warsaw-orthopedic-inc--tsrh-h-m-hook-eyebolt/enriched/corpectomy--warsaw-orthopedic-inc--tsrh-h-m-hook-eyebolt.json",
+        "bytes": 1761
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K880215.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--warsaw-orthopedic-inc--tsrh-h-m-hook-eyebolt/fda_raw/KWP/K880215.json",
+        "bytes": 617
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--warsaw-orthopedic-inc--tsrh-h-m-hook-eyebolt.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--warsaw-orthopedic-inc--tsrh-h-m-hook-eyebolt/merged/corpectomy--warsaw-orthopedic-inc--tsrh-h-m-hook-eyebolt.json",
+        "bytes": 883
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

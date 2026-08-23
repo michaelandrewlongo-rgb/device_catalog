@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--mirus-llc--mirus-3d-printed-lumbar-interbody",
+  "artifact_folder": "pedicle-screw--mirus-llc--mirus-3d-printed-lumbar-interbody",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3538,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--mirus-llc--mirus-3d-printed-lumbar-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--mirus-llc--mirus-3d-printed-lumbar-interbody/enriched/pedicle-screw--mirus-llc--mirus-3d-printed-lumbar-interbody.json",
+        "bytes": 1700
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K191906.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--mirus-llc--mirus-3d-printed-lumbar-interbody/fda_raw/MAX/K191906.json",
+        "bytes": 719
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--mirus-llc--mirus-3d-printed-lumbar-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--mirus-llc--mirus-3d-printed-lumbar-interbody/merged/pedicle-screw--mirus-llc--mirus-3d-printed-lumbar-interbody.json",
+        "bytes": 1119
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--medtronic--spinal-mesh",
+  "artifact_folder": "cervical-plate--medtronic--spinal-mesh",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2732,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--medtronic--spinal-mesh.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--spinal-mesh/enriched/cervical-plate--medtronic--spinal-mesh.json",
+        "bytes": 1374
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K011406.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--spinal-mesh/fda_raw/MQP/K011406.json",
+        "bytes": 565
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--medtronic--spinal-mesh.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--spinal-mesh/merged/cervical-plate--medtronic--spinal-mesh.json",
+        "bytes": 793
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

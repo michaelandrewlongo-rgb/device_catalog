@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--depuy-motech-acromed--stackable-cage",
+  "artifact_folder": "cervical-plate--depuy-motech-acromed--stackable-cage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2813,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--depuy-motech-acromed--stackable-cage.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuy-motech-acromed--stackable-cage/enriched/cervical-plate--depuy-motech-acromed--stackable-cage.json",
+        "bytes": 1405
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K990148.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuy-motech-acromed--stackable-cage/fda_raw/MQP/K990148.json",
+        "bytes": 584
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--depuy-motech-acromed--stackable-cage.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuy-motech-acromed--stackable-cage/merged/cervical-plate--depuy-motech-acromed--stackable-cage.json",
+        "bytes": 824
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

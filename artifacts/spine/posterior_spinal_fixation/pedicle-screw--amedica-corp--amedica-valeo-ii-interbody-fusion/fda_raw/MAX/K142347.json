@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K142347",
+  "clearance_date": "2014-11-18",
+  "device_class": 2,
+  "manufacturer_canonical": "amedica-corp",
+  "manufacturer_raw": "Amedica Corp.",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "Amedica Valeo II Interbody Fusion Device",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--amedica-corp--amedica-valeo-ii-interbody-fusion",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf14/K142347.pdf"
+}

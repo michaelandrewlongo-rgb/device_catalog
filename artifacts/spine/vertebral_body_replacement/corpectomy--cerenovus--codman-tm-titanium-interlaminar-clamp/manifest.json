@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--cerenovus--codman-tm-titanium-interlaminar-clamp",
+  "artifact_folder": "corpectomy--cerenovus--codman-tm-titanium-interlaminar-clamp",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2901,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--cerenovus--codman-tm-titanium-interlaminar-clamp.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--cerenovus--codman-tm-titanium-interlaminar-clamp/enriched/corpectomy--cerenovus--codman-tm-titanium-interlaminar-clamp.json",
+        "bytes": 1440
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K924142.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--cerenovus--codman-tm-titanium-interlaminar-clamp/fda_raw/KWP/K924142.json",
+        "bytes": 602
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--cerenovus--codman-tm-titanium-interlaminar-clamp.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--cerenovus--codman-tm-titanium-interlaminar-clamp/merged/corpectomy--cerenovus--codman-tm-titanium-interlaminar-clamp.json",
+        "bytes": 859
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

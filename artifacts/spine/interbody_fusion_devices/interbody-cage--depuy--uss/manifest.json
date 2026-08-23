@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--depuy--uss",
+  "artifact_folder": "interbody-cage--depuy--uss",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3173,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--depuy--uss.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--uss/enriched/interbody-cage--depuy--uss.json",
+        "bytes": 1875
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K170654.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--uss/fda_raw/NKB/K170654.json",
+        "bytes": 537
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--depuy--uss.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--uss/merged/interbody-cage--depuy--uss.json",
+        "bytes": 761
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "device_slug": "pedicle-screw--l-k-biomed-co-ltd--venus-lumbar-intervertebral-body-fusion",
+  "artifact_folder": "pedicle-screw--l-k-biomed-co-ltd--venus-lumbar-intervertebral-body-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3649,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--l-k-biomed-co-ltd--venus-lumbar-intervertebral-body-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--l-k-biomed-co-ltd--venus-lumbar-intervertebral-body-fusion/enriched/pedicle-screw--l-k-biomed-co-ltd--venus-lumbar-intervertebral-body-fusion.json",
+        "bytes": 1482
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K120063.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--l-k-biomed-co-ltd--venus-lumbar-intervertebral-body-fusion/fda_raw/MAX/K120063.json",
+        "bytes": 633
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K121096.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--l-k-biomed-co-ltd--venus-lumbar-intervertebral-body-fusion/fda_raw/MAX/K121096.json",
+        "bytes": 633
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--l-k-biomed-co-ltd--venus-lumbar-intervertebral-body-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--l-k-biomed-co-ltd--venus-lumbar-intervertebral-body-fusion/merged/pedicle-screw--l-k-biomed-co-ltd--venus-lumbar-intervertebral-body-fusion.json",
+        "bytes": 901
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "device_slug": "sacroiliac-fusion--aegis-spine-inc--zespin-si-joint-fusion-paeon",
+  "artifact_folder": "sacroiliac-fusion--aegis-spine-inc--zespin-si-joint-fusion-paeon",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 708,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/OUR/K221050.json",
+        "artifact": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--aegis-spine-inc--zespin-si-joint-fusion-paeon/fda_raw/OUR/K221050.json",
+        "bytes": 708
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "sacroiliac-fusion",
+    "label": "Outside listed seed registries"
+  }
+}

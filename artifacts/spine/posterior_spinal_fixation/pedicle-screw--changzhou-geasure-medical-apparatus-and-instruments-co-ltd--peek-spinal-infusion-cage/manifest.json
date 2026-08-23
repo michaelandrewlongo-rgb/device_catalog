@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--changzhou-geasure-medical-apparatus-and-instruments-co-ltd--peek-spinal-infusion-cage",
+  "artifact_folder": "pedicle-screw--changzhou-geasure-medical-apparatus-and-instruments-co-ltd--peek-spinal-infusion-cage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3129,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--changzhou-geasure-medical-apparatus-and-instruments-co-ltd--peek-spinal-infusion-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--changzhou-geasure-medical-apparatus-and-instruments-co-ltd--peek-spinal-infusion-cage/enriched/pedicle-screw--changzhou-geasure-medical-apparatus-and-instruments-co-ltd--peek-spinal-infusion-cage.json",
+        "bytes": 1498
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K223776.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--changzhou-geasure-medical-apparatus-and-instruments-co-ltd--peek-spinal-infusion-cage/fda_raw/MAX/K223776.json",
+        "bytes": 714
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--changzhou-geasure-medical-apparatus-and-instruments-co-ltd--peek-spinal-infusion-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--changzhou-geasure-medical-apparatus-and-instruments-co-ltd--peek-spinal-infusion-cage/merged/pedicle-screw--changzhou-geasure-medical-apparatus-and-instruments-co-ltd--peek-spinal-infusion-cage.json",
+        "bytes": 917
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "device_slug": "flow-diverter--microvention--fred-x-system-recalls",
+  "artifact_folder": "flow-diverter--microvention--fred-x-system-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 1788,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/flow-diverter--microvention--fred-x-system-recalls.json",
+        "artifact": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--microvention--fred-x-system-recalls/extracted/fda_safety/flow-diverter--microvention--fred-x-system-recalls.json",
+        "bytes": 1788
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "flow-diverter",
+    "label": "Flow diverters noted as separate exemplar"
+  }
+}

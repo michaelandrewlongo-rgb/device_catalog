@@ -1,0 +1,21 @@
+{
+  "device_slug": "pedicle-screw--amendia-inc--amendia-interbody-fusion-s-recalls",
+  "artifact_folder": "pedicle-screw--amendia-inc--amendia-interbody-fusion-s-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 400,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/pedicle-screw--amendia-inc--amendia-interbody-fusion-s-recalls.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--amendia-inc--amendia-interbody-fusion-s-recalls/extracted/fda_safety/pedicle-screw--amendia-inc--amendia-interbody-fusion-s-recalls.json",
+        "bytes": 400
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

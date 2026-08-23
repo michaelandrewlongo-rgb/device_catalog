@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--amendia-inc--syzygy-stabilization",
+  "artifact_folder": "interbody-cage--amendia-inc--syzygy-stabilization",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3051,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--amendia-inc--syzygy-stabilization.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--amendia-inc--syzygy-stabilization/enriched/interbody-cage--amendia-inc--syzygy-stabilization.json",
+        "bytes": 1656
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K153152.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--amendia-inc--syzygy-stabilization/fda_raw/NKB/K153152.json",
+        "bytes": 571
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--amendia-inc--syzygy-stabilization.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--amendia-inc--syzygy-stabilization/merged/interbody-cage--amendia-inc--syzygy-stabilization.json",
+        "bytes": 824
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

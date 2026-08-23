@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--johnson-johnson--concorde-curve",
+  "artifact_folder": "pedicle-screw--johnson-johnson--concorde-curve",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2774,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--johnson-johnson--concorde-curve.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--johnson-johnson--concorde-curve/enriched/pedicle-screw--johnson-johnson--concorde-curve.json",
+        "bytes": 1393
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K103743.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--johnson-johnson--concorde-curve/fda_raw/MAX/K103743.json",
+        "bytes": 569
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--johnson-johnson--concorde-curve.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--johnson-johnson--concorde-curve/merged/pedicle-screw--johnson-johnson--concorde-curve.json",
+        "bytes": 812
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

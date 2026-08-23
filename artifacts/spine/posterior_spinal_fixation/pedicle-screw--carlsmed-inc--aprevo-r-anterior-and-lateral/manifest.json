@@ -1,0 +1,50 @@
+{
+  "device_slug": "pedicle-screw--carlsmed-inc--aprevo-r-anterior-and-lateral",
+  "artifact_folder": "pedicle-screw--carlsmed-inc--aprevo-r-anterior-and-lateral",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 5756,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--carlsmed-inc--aprevo-r-anterior-and-lateral.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--carlsmed-inc--aprevo-r-anterior-and-lateral/enriched/pedicle-screw--carlsmed-inc--aprevo-r-anterior-and-lateral.json",
+        "bytes": 1732
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K222082.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--carlsmed-inc--aprevo-r-anterior-and-lateral/fda_raw/MAX/K222082.json",
+        "bytes": 672
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K232282.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--carlsmed-inc--aprevo-r-anterior-and-lateral/fda_raw/MAX/K232282.json",
+        "bytes": 670
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K241328.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--carlsmed-inc--aprevo-r-anterior-and-lateral/fda_raw/MAX/K241328.json",
+        "bytes": 767
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K241332.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--carlsmed-inc--aprevo-r-anterior-and-lateral/fda_raw/MAX/K241332.json",
+        "bytes": 740
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--carlsmed-inc--aprevo-r-anterior-and-lateral.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--carlsmed-inc--aprevo-r-anterior-and-lateral/merged/pedicle-screw--carlsmed-inc--aprevo-r-anterior-and-lateral.json",
+        "bytes": 1175
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

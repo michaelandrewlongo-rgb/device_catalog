@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K203233",
+  "clearance_date": "2022-06-01",
+  "device_class": 2,
+  "manufacturer_canonical": "solco-biomedical-co-ltd",
+  "manufacturer_raw": "Solco Biomedical Co., Ltd.",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "4CIS Chiron Spinal Fixation System",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--solco-biomedical-co-ltd--4cis-chiron-spinal-fixation",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K203233.pdf"
+}

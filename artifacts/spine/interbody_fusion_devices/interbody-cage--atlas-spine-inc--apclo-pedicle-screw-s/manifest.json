@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--atlas-spine-inc--apclo-pedicle-screw-s",
+  "artifact_folder": "interbody-cage--atlas-spine-inc--apclo-pedicle-screw-s",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3157,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--atlas-spine-inc--apclo-pedicle-screw-s.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--atlas-spine-inc--apclo-pedicle-screw-s/enriched/interbody-cage--atlas-spine-inc--apclo-pedicle-screw-s.json",
+        "bytes": 1740
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K112759.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--atlas-spine-inc--apclo-pedicle-screw-s/fda_raw/NKB/K112759.json",
+        "bytes": 584
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--atlas-spine-inc--apclo-pedicle-screw-s.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--atlas-spine-inc--apclo-pedicle-screw-s/merged/interbody-cage--atlas-spine-inc--apclo-pedicle-screw-s.json",
+        "bytes": 833
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

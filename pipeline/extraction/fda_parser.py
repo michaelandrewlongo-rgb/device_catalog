@@ -11,7 +11,7 @@ import logging
 import re
 from pathlib import Path
 
-from ..config import DATA_DIR, EXTRACTED_DIR
+from ..config import EXTRACTED_DIR, FDA_510K_DIR
 from .pdf_utils import pdf_to_text, validate_pdf
 
 logger = logging.getLogger(__name__)
@@ -76,16 +76,16 @@ def extract_fda_summary(pdf_path: Path) -> dict | None:
 
 
 def extract_all_fda_summaries() -> list[dict]:
-    """Extract from all PDFs in the pdfs/ directory."""
+    """Extract from all PDFs in the categorized 510k directory."""
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
     results = []
     skipped = []
 
     # Collect all PDFs, deduplicate by name
-    pdfs_dir = DATA_DIR / "pdfs"
+    pdfs_dir = FDA_510K_DIR
     if not pdfs_dir.exists():
-        logger.warning("No pdfs/ directory found")
+        logger.warning("No FDA 510k directory found: %s", pdfs_dir)
         return []
 
     seen: set[str] = set()
@@ -109,7 +109,8 @@ def extract_all_fda_summaries() -> list[dict]:
             skipped.append({"file": pdf_path.name, "reason": "no_fields_extracted"})
             continue
 
-        out_file = OUTPUT_DIR / f"{pdf_path.stem}.json"
+        out_file = _parsed_output_dir(pdf_path) / f"{pdf_path.stem}.json"
+        out_file.parent.mkdir(parents=True, exist_ok=True)
         out_file.write_text(
             json.dumps(result, indent=2, ensure_ascii=False), encoding="utf-8"
         )
@@ -126,6 +127,16 @@ def extract_all_fda_summaries() -> list[dict]:
         len(results), len(skipped),
     )
     return results
+
+
+def _parsed_output_dir(pdf_path: Path) -> Path:
+    """Return the category-local parsed output directory for a 510(k) PDF."""
+    try:
+        relative = pdf_path.relative_to(FDA_510K_DIR)
+    except ValueError:
+        return OUTPUT_DIR
+    category = relative.parts[0] if relative.parts else "_uncategorized"
+    return FDA_510K_DIR / category / "parsed" / "fda_summaries"
 
 
 def _find_sections(text: str) -> dict[str, str]:

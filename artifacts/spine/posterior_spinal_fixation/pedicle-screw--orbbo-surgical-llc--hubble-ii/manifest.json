@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--orbbo-surgical-llc--hubble-ii",
+  "artifact_folder": "pedicle-screw--orbbo-surgical-llc--hubble-ii",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2719,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--orbbo-surgical-llc--hubble-ii.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--orbbo-surgical-llc--hubble-ii/enriched/pedicle-screw--orbbo-surgical-llc--hubble-ii.json",
+        "bytes": 1370
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K163180.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--orbbo-surgical-llc--hubble-ii/fda_raw/MAX/K163180.json",
+        "bytes": 560
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--orbbo-surgical-llc--hubble-ii.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--orbbo-surgical-llc--hubble-ii/merged/pedicle-screw--orbbo-surgical-llc--hubble-ii.json",
+        "bytes": 789
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

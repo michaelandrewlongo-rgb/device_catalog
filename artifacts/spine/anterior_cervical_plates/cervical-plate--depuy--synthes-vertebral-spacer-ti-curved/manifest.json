@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--depuy--synthes-vertebral-spacer-ti-curved",
+  "artifact_folder": "cervical-plate--depuy--synthes-vertebral-spacer-ti-curved",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2906,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--depuy--synthes-vertebral-spacer-ti-curved.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuy--synthes-vertebral-spacer-ti-curved/enriched/cervical-plate--depuy--synthes-vertebral-spacer-ti-curved.json",
+        "bytes": 1447
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K024364.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuy--synthes-vertebral-spacer-ti-curved/fda_raw/MQP/K024364.json",
+        "bytes": 593
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--depuy--synthes-vertebral-spacer-ti-curved.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuy--synthes-vertebral-spacer-ti-curved/merged/cervical-plate--depuy--synthes-vertebral-spacer-ti-curved.json",
+        "bytes": 866
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

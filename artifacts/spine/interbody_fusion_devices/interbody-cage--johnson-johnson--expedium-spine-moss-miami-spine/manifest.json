@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--johnson-johnson--expedium-spine-moss-miami-spine",
+  "artifact_folder": "interbody-cage--johnson-johnson--expedium-spine-moss-miami-spine",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2956,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--johnson-johnson--expedium-spine-moss-miami-spine.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--johnson-johnson--expedium-spine-moss-miami-spine/enriched/interbody-cage--johnson-johnson--expedium-spine-moss-miami-spine.json",
+        "bytes": 1462
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K103490.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--johnson-johnson--expedium-spine-moss-miami-spine/fda_raw/NKB/K103490.json",
+        "bytes": 613
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--johnson-johnson--expedium-spine-moss-miami-spine.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--johnson-johnson--expedium-spine-moss-miami-spine/merged/interbody-cage--johnson-johnson--expedium-spine-moss-miami-spine.json",
+        "bytes": 881
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

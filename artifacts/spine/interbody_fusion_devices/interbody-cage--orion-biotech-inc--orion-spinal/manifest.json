@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--orion-biotech-inc--orion-spinal",
+  "artifact_folder": "interbody-cage--orion-biotech-inc--orion-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2778,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--orion-biotech-inc--orion-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--orion-biotech-inc--orion-spinal/enriched/interbody-cage--orion-biotech-inc--orion-spinal.json",
+        "bytes": 1393
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K190600.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--orion-biotech-inc--orion-spinal/fda_raw/NKB/K190600.json",
+        "bytes": 573
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--orion-biotech-inc--orion-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--orion-biotech-inc--orion-spinal/merged/interbody-cage--orion-biotech-inc--orion-spinal.json",
+        "bytes": 812
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

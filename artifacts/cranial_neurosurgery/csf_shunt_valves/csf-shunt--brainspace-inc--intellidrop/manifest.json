@@ -1,0 +1,47 @@
+{
+  "device_slug": "csf-shunt--brainspace-inc--intellidrop",
+  "artifact_folder": "csf-shunt--brainspace-inc--intellidrop",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 1253659,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/csf-shunt/parsed/fda_summaries/csf-shunt--brainspace-inc--intellidrop--510k.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--brainspace-inc--intellidrop/510k/csf-shunt/parsed/fda_summaries/csf-shunt--brainspace-inc--intellidrop--510k.json",
+        "bytes": 13438
+      },
+      {
+        "source": "pipeline/data/510k/csf-shunt/pdfs/csf-shunt--brainspace-inc--intellidrop--510k.pdf",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--brainspace-inc--intellidrop/510k/csf-shunt/pdfs/csf-shunt--brainspace-inc--intellidrop--510k.pdf",
+        "bytes": 1236290
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--brainspace-inc--intellidrop.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--brainspace-inc--intellidrop/enriched/csf-shunt--brainspace-inc--intellidrop.json",
+        "bytes": 2608
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K251598.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--brainspace-inc--intellidrop/fda_raw/JXG/K251598.json",
+        "bytes": 544
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--brainspace-inc--intellidrop.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--brainspace-inc--intellidrop/merged/csf-shunt--brainspace-inc--intellidrop.json",
+        "bytes": 779
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

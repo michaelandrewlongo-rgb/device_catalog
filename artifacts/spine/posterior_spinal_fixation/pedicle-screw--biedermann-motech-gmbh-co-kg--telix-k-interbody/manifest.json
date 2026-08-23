@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--biedermann-motech-gmbh-co-kg--telix-k-interbody",
+  "artifact_folder": "pedicle-screw--biedermann-motech-gmbh-co-kg--telix-k-interbody",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2890,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--biedermann-motech-gmbh-co-kg--telix-k-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--biedermann-motech-gmbh-co-kg--telix-k-interbody/enriched/pedicle-screw--biedermann-motech-gmbh-co-kg--telix-k-interbody.json",
+        "bytes": 1428
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K170890.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--biedermann-motech-gmbh-co-kg--telix-k-interbody/fda_raw/MAX/K170890.json",
+        "bytes": 615
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--biedermann-motech-gmbh-co-kg--telix-k-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--biedermann-motech-gmbh-co-kg--telix-k-interbody/merged/pedicle-screw--biedermann-motech-gmbh-co-kg--telix-k-interbody.json",
+        "bytes": 847
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

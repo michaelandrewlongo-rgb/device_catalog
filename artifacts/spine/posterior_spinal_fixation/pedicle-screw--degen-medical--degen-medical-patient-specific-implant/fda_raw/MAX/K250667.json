@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K250667",
+  "clearance_date": "2025-04-04",
+  "device_class": 2,
+  "manufacturer_canonical": "degen-medical",
+  "manufacturer_raw": "Degen Medical",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "DeGen Medical Patient Specific Implant (PSI) System",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--degen-medical--degen-medical-patient-specific-implant",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf25/K250667.pdf"
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--signus-medical-llc--tetris-spinal-implant",
+  "artifact_folder": "cervical-plate--signus-medical-llc--tetris-spinal-implant",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2821,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--signus-medical-llc--tetris-spinal-implant.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--signus-medical-llc--tetris-spinal-implant/enriched/cervical-plate--signus-medical-llc--tetris-spinal-implant.json",
+        "bytes": 1408
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K022793.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--signus-medical-llc--tetris-spinal-implant/fda_raw/MQP/K022793.json",
+        "bytes": 586
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--signus-medical-llc--tetris-spinal-implant.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--signus-medical-llc--tetris-spinal-implant/merged/cervical-plate--signus-medical-llc--tetris-spinal-implant.json",
+        "bytes": 827
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

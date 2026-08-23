@@ -1,0 +1,33 @@
+{
+  "device_slug": "interbody-cage--medtronic--elevate-expandable",
+  "artifact_folder": "interbody-cage--medtronic--elevate-expandable",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 4493028,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/interbody-cage--medtronic--elevate-expandable--knowledge.md",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--elevate-expandable/data_by_device/interbody-cage--medtronic--elevate-expandable--knowledge.md",
+        "bytes": 13452
+      },
+      {
+        "source": "pipeline/data/data_by_device/interbody-cage--medtronic--elevate-expandable--technique.pdf",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--elevate-expandable/data_by_device/interbody-cage--medtronic--elevate-expandable--technique.pdf",
+        "bytes": 4470663
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/documents/interbody-cage--medtronic--elevate-expandable--technique.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--elevate-expandable/extracted/documents/interbody-cage--medtronic--elevate-expandable--technique.json",
+        "bytes": 8913
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--medtronic--lift-vb-spinal",
+  "artifact_folder": "cervical-plate--medtronic--lift-vb-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2756,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--medtronic--lift-vb-spinal.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--lift-vb-spinal/enriched/cervical-plate--medtronic--lift-vb-spinal.json",
+        "bytes": 1383
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K010930.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--lift-vb-spinal/fda_raw/MQP/K010930.json",
+        "bytes": 571
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--medtronic--lift-vb-spinal.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--lift-vb-spinal/merged/cervical-plate--medtronic--lift-vb-spinal.json",
+        "bytes": 802
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

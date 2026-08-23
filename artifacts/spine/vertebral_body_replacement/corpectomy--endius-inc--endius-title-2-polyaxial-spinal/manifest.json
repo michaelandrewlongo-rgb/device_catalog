@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--endius-inc--endius-title-2-polyaxial-spinal",
+  "artifact_folder": "corpectomy--endius-inc--endius-title-2-polyaxial-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2857,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--endius-inc--endius-title-2-polyaxial-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--endius-inc--endius-title-2-polyaxial-spinal/enriched/corpectomy--endius-inc--endius-title-2-polyaxial-spinal.json",
+        "bytes": 1428
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K041808.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--endius-inc--endius-title-2-polyaxial-spinal/fda_raw/KWP/K041808.json",
+        "bytes": 582
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--endius-inc--endius-title-2-polyaxial-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--endius-inc--endius-title-2-polyaxial-spinal/merged/corpectomy--endius-inc--endius-title-2-polyaxial-spinal.json",
+        "bytes": 847
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "unknown--penumbra--products",
+  "artifact_folder": "unknown--penumbra--products",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2493,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/unknown--penumbra--products.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--penumbra--products/enriched/unknown--penumbra--products.json",
+        "bytes": 1286
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/unknown--penumbra--products.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--penumbra--products/merged/unknown--penumbra--products.json",
+        "bytes": 705
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/penumbra/products.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--penumbra--products/scraper_raw/penumbra/products.json",
+        "bytes": 502
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "unknown",
+    "label": "Outside listed seed registries"
+  }
+}

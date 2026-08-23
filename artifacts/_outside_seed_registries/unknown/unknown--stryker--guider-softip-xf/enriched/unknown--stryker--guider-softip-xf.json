@@ -1,0 +1,58 @@
+{
+  "device_name": "Guider Softip XF",
+  "manufacturer": "stryker",
+  "catalog_category": "unknown",
+  "filename_stem": "unknown--stryker--guider-softip-xf",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "Read Now",
+  "sizing_specs": "Size (F): 5, 6, 7, 8\nLength (cm): 90, 100\nInternal Diameter (inch): 0.053, 0.064, 0.073, 0.086",
+  "indications": "Boston Scientific Guider Softip XF Guide Catheters are\nintended to facilitate the placement of interventional\ndevices into the neurovascular system.",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "Type: Braided",
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.stryker.com/us/en/neurovascular/products/guider-softip-xf.html",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "sizing_specs": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "indications": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "also_known_as": {
+      "source": "none",
+      "confidence": 0
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--stryker--trio-trauma-spinal",
+  "artifact_folder": "interbody-cage--stryker--trio-trauma-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3248,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--stryker--trio-trauma-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker--trio-trauma-spinal/enriched/interbody-cage--stryker--trio-trauma-spinal.json",
+        "bytes": 1873
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K103292.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker--trio-trauma-spinal/fda_raw/NKB/K103292.json",
+        "bytes": 565
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--stryker--trio-trauma-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker--trio-trauma-spinal/merged/interbody-cage--stryker--trio-trauma-spinal.json",
+        "bytes": 810
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

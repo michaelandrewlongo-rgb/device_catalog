@@ -1,0 +1,17 @@
+{
+  "source_pdf": "reference--viktors-notes--thoracolumbosacral-spine--chapter.pdf",
+  "device_name": "thoracolumbosacral-spine",
+  "manufacturer": "viktors-notes",
+  "doc_type": "chapter",
+  "extraction_method": "pdf_deepseek",
+  "fields": {
+    "what_it_is": null,
+    "sizing_specs": null,
+    "indications": null,
+    "contraindications": null,
+    "compatible_with": null,
+    "use_notes": null,
+    "also_known_as": null
+  },
+  "confidence": {}
+}

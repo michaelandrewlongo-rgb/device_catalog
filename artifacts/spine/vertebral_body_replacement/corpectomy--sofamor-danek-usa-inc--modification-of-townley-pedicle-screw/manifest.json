@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--sofamor-danek-usa-inc--modification-of-townley-pedicle-screw",
+  "artifact_folder": "corpectomy--sofamor-danek-usa-inc--modification-of-townley-pedicle-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3453,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--sofamor-danek-usa-inc--modification-of-townley-pedicle-screw.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sofamor-danek-usa-inc--modification-of-townley-pedicle-screw/enriched/corpectomy--sofamor-danek-usa-inc--modification-of-townley-pedicle-screw.json",
+        "bytes": 1916
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K983706.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sofamor-danek-usa-inc--modification-of-townley-pedicle-screw/fda_raw/KWP/K983706.json",
+        "bytes": 634
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--sofamor-danek-usa-inc--modification-of-townley-pedicle-screw.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sofamor-danek-usa-inc--modification-of-townley-pedicle-screw/merged/corpectomy--sofamor-danek-usa-inc--modification-of-townley-pedicle-screw.json",
+        "bytes": 903
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

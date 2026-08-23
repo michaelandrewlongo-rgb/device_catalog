@@ -1,0 +1,42 @@
+{
+  "device_slug": "sacroiliac-fusion--si-bone--ifuse-3d",
+  "artifact_folder": "sacroiliac-fusion--si-bone--ifuse-3d",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 7544,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/sacroiliac-fusion--si-bone--ifuse-3d--knowledge.md",
+        "artifact": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--si-bone--ifuse-3d/data_by_device/sacroiliac-fusion--si-bone--ifuse-3d--knowledge.md",
+        "bytes": 2546
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/sacroiliac-fusion--si-bone--ifuse-3d.json",
+        "artifact": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--si-bone--ifuse-3d/enriched/sacroiliac-fusion--si-bone--ifuse-3d.json",
+        "bytes": 2206
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/sacroiliac-fusion--si-bone--ifuse-3d.json",
+        "artifact": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--si-bone--ifuse-3d/merged/sacroiliac-fusion--si-bone--ifuse-3d.json",
+        "bytes": 1509
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/si-bone/ifuse-3d.json",
+        "artifact": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--si-bone--ifuse-3d/scraper_raw/si-bone/ifuse-3d.json",
+        "bytes": 1283
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "sacroiliac-fusion",
+    "label": "Outside listed seed registries"
+  }
+}

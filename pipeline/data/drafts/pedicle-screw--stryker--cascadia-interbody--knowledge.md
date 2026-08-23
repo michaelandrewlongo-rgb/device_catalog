@@ -1,7 +1,7 @@
 # Cascadia Cervical 3D Interbody System
 
 **Manufacturer:** Stryker
-**Category:** Pedicle screw system
+**Category:** Interbody cage / Cervical
 510(k) K160547 | Class 2 | 2016-03-24
 
 ## What It Is

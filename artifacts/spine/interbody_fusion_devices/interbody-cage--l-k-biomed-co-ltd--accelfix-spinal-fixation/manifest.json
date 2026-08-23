@@ -1,0 +1,47 @@
+{
+  "device_slug": "interbody-cage--l-k-biomed-co-ltd--accelfix-spinal-fixation",
+  "artifact_folder": "interbody-cage--l-k-biomed-co-ltd--accelfix-spinal-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 4413,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--l-k-biomed-co-ltd--accelfix-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--l-k-biomed-co-ltd--accelfix-spinal-fixation/enriched/interbody-cage--l-k-biomed-co-ltd--accelfix-spinal-fixation.json",
+        "bytes": 1722
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--l-k-biomed-co-ltd--accelfix-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--l-k-biomed-co-ltd--accelfix-spinal-fixation/extracted/fda_structured/interbody-cage--l-k-biomed-co-ltd--accelfix-spinal-fixation.json",
+        "bytes": 643
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K182544.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--l-k-biomed-co-ltd--accelfix-spinal-fixation/fda_raw/NKB/K182544.json",
+        "bytes": 600
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K200794.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--l-k-biomed-co-ltd--accelfix-spinal-fixation/fda_raw/NKB/K200794.json",
+        "bytes": 600
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--l-k-biomed-co-ltd--accelfix-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--l-k-biomed-co-ltd--accelfix-spinal-fixation/merged/interbody-cage--l-k-biomed-co-ltd--accelfix-spinal-fixation.json",
+        "bytes": 848
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

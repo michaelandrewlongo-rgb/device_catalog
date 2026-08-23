@@ -1,0 +1,42 @@
+{
+  "device_slug": "pedicle-screw--centinel-spine--stalif-midline",
+  "artifact_folder": "pedicle-screw--centinel-spine--stalif-midline",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3413,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--centinel-spine--stalif-midline.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--centinel-spine--stalif-midline/enriched/pedicle-screw--centinel-spine--stalif-midline.json",
+        "bytes": 1574
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/pedicle-screw--centinel-spine--stalif-midline.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--centinel-spine--stalif-midline/extracted/fda_structured/pedicle-screw--centinel-spine--stalif-midline.json",
+        "bytes": 486
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K101301.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--centinel-spine--stalif-midline/fda_raw/MAX/K101301.json",
+        "bytes": 557
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--centinel-spine--stalif-midline.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--centinel-spine--stalif-midline/merged/pedicle-screw--centinel-spine--stalif-midline.json",
+        "bytes": 796
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "device_family": "aspiration--penumbra--artemis-neuro-evacuation-device",
+    "query_used": "\"Artemis Neuro Evacuation Device\" OR \"[NEEDS CONTENT - alternate names\" OR \"abbreviations\" OR \"legacy product names]\"",
+    "raw": {
+      "abstract": "Abbreviations are unavoidable yet critical parts of the medical text. Using abbreviations, especially in clinical patient notes, can save time and space, protect sensitive information, and help avoid repetitions. However, most abbreviations might have multiple senses, and the lack of a standardized mapping system makes disambiguating abbreviations a difficult and time-consuming task. The main objective of this study is to examine the feasibility of sequence labeling methods for medical abbreviation disambiguation. Specifically, we explore the capability of sequence labeling methods to deal with multiple unique abbreviations in a single text. We use two public datasets to compare and contrast the performance of several transformer models pre-trained on different scientific and medical corpora. Our proposed sequence labeling approach outperforms the more commonly used text classification models for the abbreviation disambiguation task. In particular, the SciBERT model shows a strong performance for both sequence labeling and text classification tasks over the two considered datasets. Furthermore, we find that abbreviation disambiguation performance for the text classification models becomes comparable to that of sequence labeling only when postprocessing is applied to their predictions, which involves filtering possible labels for an abbreviation based on the training data.",
+      "doi": "10.1007/s41666-023-00146-1",
+      "journal": "Journal of healthcare informatics research",
+      "matched_device_family": "aspiration--penumbra--artemis-neuro-evacuation-device",
+      "pmid": "37927372",
+      "publication_date": "2023-Dec",
+      "query_used": "\"Artemis Neuro Evacuation Device\" OR \"[NEEDS CONTENT - alternate names\" OR \"abbreviations\" OR \"legacy product names]\"",
+      "source_retrieved_at": "2026-04-15T10:17:20+00:00",
+      "title": "Sequence Labeling for Disambiguating Medical Abbreviations."
+    },
+    "retrieved_at": "2026-04-15T10:17:20+00:00",
+    "source_id": "pubmed:37927372",
+    "source_type": "pubmed",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/37927372/",
+    "title": "Sequence Labeling for Disambiguating Medical Abbreviations."
+  }
+]

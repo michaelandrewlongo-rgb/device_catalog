@@ -1,0 +1,30 @@
+{
+  "device_name": "iFuse INTRA",
+  "manufacturer": "si-bone",
+  "catalog_category": "sacroiliac-fusion",
+  "filename_stem": "sacroiliac-fusion--si-bone--ifuse-intra",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "Triangular allograft implant for minimally invasive SI joint stabilization and fusion. Designed for intra-articular placement with procedural decortication. Decreases SI joint motion. Allograft-based (bone graft, not titanium).",
+  "sizing_specs": null,
+  "indications": "Minimally invasive SI joint stabilization and fusion.",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "Simple technique designed for reproducible placement. Compared favorably vs competitor rectangular ridged allograft in biomechanical testing (Technical Study 301310-TS). Increases biomechanical stabilization.",
+  "deployment_steps": null,
+  "also_known_as": [
+    "iFuse INTRA Allograft Implant System"
+  ],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://si-bone.com/providers/solutions/si-joint-dysfunction/ifuse-intra",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ]
+}

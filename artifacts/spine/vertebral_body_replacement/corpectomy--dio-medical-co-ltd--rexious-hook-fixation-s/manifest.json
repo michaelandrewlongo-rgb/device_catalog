@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--dio-medical-co-ltd--rexious-hook-fixation-s",
+  "artifact_folder": "corpectomy--dio-medical-co-ltd--rexious-hook-fixation-s",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2845,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--dio-medical-co-ltd--rexious-hook-fixation-s.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--dio-medical-co-ltd--rexious-hook-fixation-s/enriched/corpectomy--dio-medical-co-ltd--rexious-hook-fixation-s.json",
+        "bytes": 1418
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K113324.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--dio-medical-co-ltd--rexious-hook-fixation-s/fda_raw/KWP/K113324.json",
+        "bytes": 590
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--dio-medical-co-ltd--rexious-hook-fixation-s.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--dio-medical-co-ltd--rexious-hook-fixation-s/merged/corpectomy--dio-medical-co-ltd--rexious-hook-fixation-s.json",
+        "bytes": 837
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

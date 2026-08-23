@@ -1,0 +1,40 @@
+{
+  "device_slug": "cervical-plate--zimmer-biomet--ldr-spine-roi-c-implant",
+  "artifact_folder": "cervical-plate--zimmer-biomet--ldr-spine-roi-c-implant",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3375,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--zimmer-biomet--ldr-spine-roi-c-implant.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--zimmer-biomet--ldr-spine-roi-c-implant/enriched/cervical-plate--zimmer-biomet--ldr-spine-roi-c-implant.json",
+        "bytes": 1404
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K080728.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--zimmer-biomet--ldr-spine-roi-c-implant/fda_raw/MQP/K080728.json",
+        "bytes": 574
+      },
+      {
+        "source": "pipeline/data/fda_raw/MQP/K083857.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--zimmer-biomet--ldr-spine-roi-c-implant/fda_raw/MQP/K083857.json",
+        "bytes": 574
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--zimmer-biomet--ldr-spine-roi-c-implant.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--zimmer-biomet--ldr-spine-roi-c-implant/merged/cervical-plate--zimmer-biomet--ldr-spine-roi-c-implant.json",
+        "bytes": 823
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

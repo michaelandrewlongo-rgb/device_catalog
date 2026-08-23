@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--medos-international-sarl--cougar-r-ls-lateral-cage",
+  "artifact_folder": "pedicle-screw--medos-international-sarl--cougar-r-ls-lateral-cage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3031,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--medos-international-sarl--cougar-r-ls-lateral-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medos-international-sarl--cougar-r-ls-lateral-cage/enriched/pedicle-screw--medos-international-sarl--cougar-r-ls-lateral-cage.json",
+        "bytes": 1481
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K162327.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medos-international-sarl--cougar-r-ls-lateral-cage/fda_raw/MAX/K162327.json",
+        "bytes": 634
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--medos-international-sarl--cougar-r-ls-lateral-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medos-international-sarl--cougar-r-ls-lateral-cage/merged/pedicle-screw--medos-international-sarl--cougar-r-ls-lateral-cage.json",
+        "bytes": 916
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

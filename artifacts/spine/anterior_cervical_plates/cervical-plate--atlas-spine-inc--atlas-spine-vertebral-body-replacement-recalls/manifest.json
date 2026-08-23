@@ -1,0 +1,21 @@
+{
+  "device_slug": "cervical-plate--atlas-spine-inc--atlas-spine-vertebral-body-replacement-recalls",
+  "artifact_folder": "cervical-plate--atlas-spine-inc--atlas-spine-vertebral-body-replacement-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 332,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/cervical-plate--atlas-spine-inc--atlas-spine-vertebral-body-replacement-recalls.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--atlas-spine-inc--atlas-spine-vertebral-body-replacement-recalls/extracted/fda_safety/cervical-plate--atlas-spine-inc--atlas-spine-vertebral-body-replacement-recalls.json",
+        "bytes": 332
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

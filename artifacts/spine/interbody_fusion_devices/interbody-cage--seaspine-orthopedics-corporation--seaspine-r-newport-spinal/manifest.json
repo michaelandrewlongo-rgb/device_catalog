@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--seaspine-orthopedics-corporation--seaspine-r-newport-spinal",
+  "artifact_folder": "interbody-cage--seaspine-orthopedics-corporation--seaspine-r-newport-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3345,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--seaspine-orthopedics-corporation--seaspine-r-newport-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--seaspine-orthopedics-corporation--seaspine-r-newport-spinal/enriched/interbody-cage--seaspine-orthopedics-corporation--seaspine-r-newport-spinal.json",
+        "bytes": 1800
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K161535.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--seaspine-orthopedics-corporation--seaspine-r-newport-spinal/fda_raw/NKB/K161535.json",
+        "bytes": 644
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--seaspine-orthopedics-corporation--seaspine-r-newport-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--seaspine-orthopedics-corporation--seaspine-r-newport-spinal/merged/interbody-cage--seaspine-orthopedics-corporation--seaspine-r-newport-spinal.json",
+        "bytes": 901
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

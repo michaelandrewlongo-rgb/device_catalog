@@ -1,0 +1,33 @@
+{
+  "device_slug": "pedicle-screw--stryker--xia3-deformity",
+  "artifact_folder": "pedicle-screw--stryker--xia3-deformity",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2724540,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/pedicle-screw--stryker--xia3-deformity--knowledge.md",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--xia3-deformity/data_by_device/pedicle-screw--stryker--xia3-deformity--knowledge.md",
+        "bytes": 17045
+      },
+      {
+        "source": "pipeline/data/data_by_device/pedicle-screw--stryker--xia3-deformity--technique.pdf",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--xia3-deformity/data_by_device/pedicle-screw--stryker--xia3-deformity--technique.pdf",
+        "bytes": 2699636
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/documents/pedicle-screw--stryker--xia3-deformity--technique.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--xia3-deformity/extracted/documents/pedicle-screw--stryker--xia3-deformity--technique.json",
+        "bytes": 7859
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

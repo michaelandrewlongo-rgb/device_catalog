@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--depuy--synthes-6-0-cocr-and",
+  "artifact_folder": "interbody-cage--depuy--synthes-6-0-cocr-and",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3332,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--depuy--synthes-6-0-cocr-and.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--synthes-6-0-cocr-and/enriched/interbody-cage--depuy--synthes-6-0-cocr-and.json",
+        "bytes": 1940
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K103287.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--synthes-6-0-cocr-and/fda_raw/NKB/K103287.json",
+        "bytes": 566
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--depuy--synthes-6-0-cocr-and.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--synthes-6-0-cocr-and/merged/interbody-cage--depuy--synthes-6-0-cocr-and.json",
+        "bytes": 826
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

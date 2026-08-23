@@ -1,0 +1,50 @@
+{
+  "device_slug": "pedicle-screw--reliance-medical-systems-llc--reliance-lumbar-ibf",
+  "artifact_folder": "pedicle-screw--reliance-medical-systems-llc--reliance-lumbar-ibf",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 4755,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--reliance-medical-systems-llc--reliance-lumbar-ibf.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--reliance-medical-systems-llc--reliance-lumbar-ibf/enriched/pedicle-screw--reliance-medical-systems-llc--reliance-lumbar-ibf.json",
+        "bytes": 1434
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K113540.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--reliance-medical-systems-llc--reliance-lumbar-ibf/fda_raw/MAX/K113540.json",
+        "bytes": 617
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K160463.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--reliance-medical-systems-llc--reliance-lumbar-ibf/fda_raw/MAX/K160463.json",
+        "bytes": 617
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K173283.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--reliance-medical-systems-llc--reliance-lumbar-ibf/fda_raw/MAX/K173283.json",
+        "bytes": 617
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K183049.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--reliance-medical-systems-llc--reliance-lumbar-ibf/fda_raw/MAX/K183049.json",
+        "bytes": 617
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--reliance-medical-systems-llc--reliance-lumbar-ibf.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--reliance-medical-systems-llc--reliance-lumbar-ibf/merged/pedicle-screw--reliance-medical-systems-llc--reliance-lumbar-ibf.json",
+        "bytes": 853
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

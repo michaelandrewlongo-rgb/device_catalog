@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--degen-medical--degen-impulse-am",
+  "artifact_folder": "pedicle-screw--degen-medical--degen-impulse-am",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2792,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--degen-medical--degen-impulse-am.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--degen-medical--degen-impulse-am/enriched/pedicle-screw--degen-medical--degen-impulse-am.json",
+        "bytes": 1399
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K223418.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--degen-medical--degen-impulse-am/fda_raw/MAX/K223418.json",
+        "bytes": 567
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--degen-medical--degen-impulse-am.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--degen-medical--degen-impulse-am/merged/pedicle-screw--degen-medical--degen-impulse-am.json",
+        "bytes": 826
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

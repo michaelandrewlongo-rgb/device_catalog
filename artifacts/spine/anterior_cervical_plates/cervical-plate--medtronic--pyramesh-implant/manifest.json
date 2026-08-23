@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--medtronic--pyramesh-implant",
+  "artifact_folder": "cervical-plate--medtronic--pyramesh-implant",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2794,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--medtronic--pyramesh-implant.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--pyramesh-implant/enriched/cervical-plate--medtronic--pyramesh-implant.json",
+        "bytes": 1393
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K183197.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--pyramesh-implant/fda_raw/MQP/K183197.json",
+        "bytes": 581
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--medtronic--pyramesh-implant.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--pyramesh-implant/merged/cervical-plate--medtronic--pyramesh-implant.json",
+        "bytes": 820
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

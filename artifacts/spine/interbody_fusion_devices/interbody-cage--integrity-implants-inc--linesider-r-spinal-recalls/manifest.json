@@ -1,0 +1,21 @@
+{
+  "device_slug": "interbody-cage--integrity-implants-inc--linesider-r-spinal-recalls",
+  "artifact_folder": "interbody-cage--integrity-implants-inc--linesider-r-spinal-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 4064,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/interbody-cage--integrity-implants-inc--linesider-r-spinal-recalls.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--integrity-implants-inc--linesider-r-spinal-recalls/extracted/fda_safety/interbody-cage--integrity-implants-inc--linesider-r-spinal-recalls.json",
+        "bytes": 4064
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

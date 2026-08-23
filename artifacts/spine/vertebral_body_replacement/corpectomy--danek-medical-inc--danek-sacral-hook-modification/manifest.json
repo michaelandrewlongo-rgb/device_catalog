@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--danek-medical-inc--danek-sacral-hook-modification",
+  "artifact_folder": "corpectomy--danek-medical-inc--danek-sacral-hook-modification",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2868,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--danek-medical-inc--danek-sacral-hook-modification.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--danek-medical-inc--danek-sacral-hook-modification/enriched/corpectomy--danek-medical-inc--danek-sacral-hook-modification.json",
+        "bytes": 1427
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K911379.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--danek-medical-inc--danek-sacral-hook-modification/fda_raw/KWP/K911379.json",
+        "bytes": 595
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--danek-medical-inc--danek-sacral-hook-modification.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--danek-medical-inc--danek-sacral-hook-modification/merged/corpectomy--danek-medical-inc--danek-sacral-hook-modification.json",
+        "bytes": 846
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

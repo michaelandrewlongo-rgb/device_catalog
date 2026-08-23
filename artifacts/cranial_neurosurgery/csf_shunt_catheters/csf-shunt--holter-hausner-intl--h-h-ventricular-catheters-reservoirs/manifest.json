@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--holter-hausner-intl--h-h-ventricular-catheters-reservoirs",
+  "artifact_folder": "csf-shunt--holter-hausner-intl--h-h-ventricular-catheters-reservoirs",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2927,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--holter-hausner-intl--h-h-ventricular-catheters-reservoirs.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--holter-hausner-intl--h-h-ventricular-catheters-reservoirs/enriched/csf-shunt--holter-hausner-intl--h-h-ventricular-catheters-reservoirs.json",
+        "bytes": 1449
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K853361.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--holter-hausner-intl--h-h-ventricular-catheters-reservoirs/fda_raw/JXG/K853361.json",
+        "bytes": 610
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--holter-hausner-intl--h-h-ventricular-catheters-reservoirs.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--holter-hausner-intl--h-h-ventricular-catheters-reservoirs/merged/csf-shunt--holter-hausner-intl--h-h-ventricular-catheters-reservoirs.json",
+        "bytes": 868
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

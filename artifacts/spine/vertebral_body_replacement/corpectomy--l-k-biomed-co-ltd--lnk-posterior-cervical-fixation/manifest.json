@@ -1,0 +1,42 @@
+{
+  "device_slug": "corpectomy--l-k-biomed-co-ltd--lnk-posterior-cervical-fixation",
+  "artifact_folder": "corpectomy--l-k-biomed-co-ltd--lnk-posterior-cervical-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3906,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--l-k-biomed-co-ltd--lnk-posterior-cervical-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--l-k-biomed-co-ltd--lnk-posterior-cervical-fixation/enriched/corpectomy--l-k-biomed-co-ltd--lnk-posterior-cervical-fixation.json",
+        "bytes": 1762
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/corpectomy--l-k-biomed-co-ltd--lnk-posterior-cervical-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--l-k-biomed-co-ltd--lnk-posterior-cervical-fixation/extracted/fda_structured/corpectomy--l-k-biomed-co-ltd--lnk-posterior-cervical-fixation.json",
+        "bytes": 677
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K143278.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--l-k-biomed-co-ltd--lnk-posterior-cervical-fixation/fda_raw/KWP/K143278.json",
+        "bytes": 606
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--l-k-biomed-co-ltd--lnk-posterior-cervical-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--l-k-biomed-co-ltd--lnk-posterior-cervical-fixation/merged/corpectomy--l-k-biomed-co-ltd--lnk-posterior-cervical-fixation.json",
+        "bytes": 861
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

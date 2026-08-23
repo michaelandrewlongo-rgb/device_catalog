@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--spineology-inc--spineology-peek-bullet-lumbar-interbody",
+  "artifact_folder": "pedicle-screw--spineology-inc--spineology-peek-bullet-lumbar-interbody",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3002,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--spineology-inc--spineology-peek-bullet-lumbar-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spineology-inc--spineology-peek-bullet-lumbar-interbody/enriched/pedicle-screw--spineology-inc--spineology-peek-bullet-lumbar-interbody.json",
+        "bytes": 1480
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K113030.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spineology-inc--spineology-peek-bullet-lumbar-interbody/fda_raw/MAX/K113030.json",
+        "bytes": 623
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--spineology-inc--spineology-peek-bullet-lumbar-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spineology-inc--spineology-peek-bullet-lumbar-interbody/merged/pedicle-screw--spineology-inc--spineology-peek-bullet-lumbar-interbody.json",
+        "bytes": 899
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

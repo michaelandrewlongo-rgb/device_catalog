@@ -1,0 +1,35 @@
+{
+  "device_slug": "unknown--integra--acclarent-navwire-sinus-navigation-guidewire",
+  "artifact_folder": "unknown--integra--acclarent-navwire-sinus-navigation-guidewire",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2880,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/unknown--integra--acclarent-navwire-sinus-navigation-guidewire.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--integra--acclarent-navwire-sinus-navigation-guidewire/enriched/unknown--integra--acclarent-navwire-sinus-navigation-guidewire.json",
+        "bytes": 1449
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/unknown--integra--acclarent-navwire-sinus-navigation-guidewire.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--integra--acclarent-navwire-sinus-navigation-guidewire/merged/unknown--integra--acclarent-navwire-sinus-navigation-guidewire.json",
+        "bytes": 868
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/integra/acclarent-navwire-sinus-navigation-guidewire.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--integra--acclarent-navwire-sinus-navigation-guidewire/scraper_raw/integra/acclarent-navwire-sinus-navigation-guidewire.json",
+        "bytes": 563
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "unknown",
+    "label": "Outside listed seed registries"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--alphatec-spine-inc--kodiak-spinal-fixation",
+  "artifact_folder": "interbody-cage--alphatec-spine-inc--kodiak-spinal-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3347,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--alphatec-spine-inc--kodiak-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--alphatec-spine-inc--kodiak-spinal-fixation/enriched/interbody-cage--alphatec-spine-inc--kodiak-spinal-fixation.json",
+        "bytes": 1907
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K181677.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--alphatec-spine-inc--kodiak-spinal-fixation/fda_raw/NKB/K181677.json",
+        "bytes": 596
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--alphatec-spine-inc--kodiak-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--alphatec-spine-inc--kodiak-spinal-fixation/merged/interbody-cage--alphatec-spine-inc--kodiak-spinal-fixation.json",
+        "bytes": 844
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

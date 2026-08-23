@@ -1,0 +1,20 @@
+{
+  "device_name": "iFuse TORQ TNT",
+  "manufacturer": "si-bone",
+  "category_hint": "sacroiliac-fusion",
+  "source_url": "https://si-bone.com/providers/solutions/pelvic-trauma/ifuse-torq-tnt",
+  "what_it_is": "First 3D-printed porous threaded implant with lengths capable of spanning the posterior pelvis (through and through - TNT), passing through ipsilateral ilium, sacrum, and contralateral ilium. FDA Breakthrough Device Designation. Pelvis-specific 8.7 mm diameter fits 95% of S1 corridors suitable for a 7.3 mm transsacral screw. 150% stronger in bending vs 7.3 mm stainless steel screw. FuSIon 3D porous lattice surface for osseointegration. TORQLock hooked thread profile to reduce toggle. Variable thread heights and leads tailored to the posterior pelvis.",
+  "sizing_specs": "8.7 mm diameter. Lengths capable of spanning full posterior pelvis (transsacral).",
+  "indications": "Pelvic fragility fractures. Sacral insufficiency fractures with bilateral SI joint involvement.",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "FDA Breakthrough Device Designation: FDA determined it has potential to provide more effective fixation of pelvic fragility fractures than standard cannulated screws. Designed to reduce loosening through pelvis-specific fixation. Use cases include sacral fracture with bilateral SI joint involvement following low-energy falls.",
+  "also_known_as": [
+    "TORQ TNT",
+    "Through and Through"
+  ],
+  "ifu_pdf_url": null,
+  "other_pdf_urls": {
+    "brochure": "https://assets.si-bone.com/doc/iFuse-TORQ-TNT-Brochure-11568-091024.pdf"
+  }
+}

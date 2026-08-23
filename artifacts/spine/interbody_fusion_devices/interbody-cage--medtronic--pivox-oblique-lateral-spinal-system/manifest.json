@@ -1,0 +1,21 @@
+{
+  "device_slug": "interbody-cage--medtronic--pivox-oblique-lateral-spinal-system",
+  "artifact_folder": "interbody-cage--medtronic--pivox-oblique-lateral-spinal-system",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 477,
+  "sources": {
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/medtronic/pivox-oblique-lateral-spinal-system.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--pivox-oblique-lateral-spinal-system/scraper_raw/medtronic/pivox-oblique-lateral-spinal-system.json",
+        "bytes": 477
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

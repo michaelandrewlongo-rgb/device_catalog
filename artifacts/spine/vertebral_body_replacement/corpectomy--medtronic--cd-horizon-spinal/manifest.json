@@ -1,0 +1,67 @@
+{
+  "device_slug": "corpectomy--medtronic--cd-horizon-spinal",
+  "artifact_folder": "corpectomy--medtronic--cd-horizon-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 9,
+  "bytes": 6918,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--medtronic--cd-horizon-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--cd-horizon-spinal/enriched/corpectomy--medtronic--cd-horizon-spinal.json",
+        "bytes": 2111
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/corpectomy--medtronic--cd-horizon-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--cd-horizon-spinal/extracted/fda_structured/corpectomy--medtronic--cd-horizon-spinal.json",
+        "bytes": 594
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K011508.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--cd-horizon-spinal/fda_raw/KWP/K011508.json",
+        "bytes": 569
+      },
+      {
+        "source": "pipeline/data/fda_raw/KWP/K014296.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--cd-horizon-spinal/fda_raw/KWP/K014296.json",
+        "bytes": 563
+      },
+      {
+        "source": "pipeline/data/fda_raw/KWP/K041862.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--cd-horizon-spinal/fda_raw/KWP/K041862.json",
+        "bytes": 563
+      },
+      {
+        "source": "pipeline/data/fda_raw/KWP/K050079.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--cd-horizon-spinal/fda_raw/KWP/K050079.json",
+        "bytes": 573
+      },
+      {
+        "source": "pipeline/data/fda_raw/KWP/K050809.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--cd-horizon-spinal/fda_raw/KWP/K050809.json",
+        "bytes": 573
+      },
+      {
+        "source": "pipeline/data/fda_raw/KWP/K102886.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--cd-horizon-spinal/fda_raw/KWP/K102886.json",
+        "bytes": 569
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--medtronic--cd-horizon-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--cd-horizon-spinal/merged/corpectomy--medtronic--cd-horizon-spinal.json",
+        "bytes": 803
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

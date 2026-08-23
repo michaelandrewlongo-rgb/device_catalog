@@ -1,0 +1,21 @@
+{
+  "device_slug": "sacroiliac-fusion--osteocentric-technologies--integrity-si-fusion",
+  "artifact_folder": "sacroiliac-fusion--osteocentric-technologies--integrity-si-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 615,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/OUR/K222512.json",
+        "artifact": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--osteocentric-technologies--integrity-si-fusion/fda_raw/OUR/K222512.json",
+        "bytes": 615
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "sacroiliac-fusion",
+    "label": "Outside listed seed registries"
+  }
+}

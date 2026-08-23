@@ -1,0 +1,40 @@
+{
+  "device_slug": "corpectomy--depuyacromed--summit-occipito-cervico-thoracic-oct",
+  "artifact_folder": "corpectomy--depuyacromed--summit-occipito-cervico-thoracic-oct",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3559,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--depuyacromed--summit-occipito-cervico-thoracic-oct.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuyacromed--summit-occipito-cervico-thoracic-oct/enriched/corpectomy--depuyacromed--summit-occipito-cervico-thoracic-oct.json",
+        "bytes": 1465
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K002733.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuyacromed--summit-occipito-cervico-thoracic-oct/fda_raw/KWP/K002733.json",
+        "bytes": 605
+      },
+      {
+        "source": "pipeline/data/fda_raw/KWP/K010681.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuyacromed--summit-occipito-cervico-thoracic-oct/fda_raw/KWP/K010681.json",
+        "bytes": 605
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--depuyacromed--summit-occipito-cervico-thoracic-oct.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuyacromed--summit-occipito-cervico-thoracic-oct/merged/corpectomy--depuyacromed--summit-occipito-cervico-thoracic-oct.json",
+        "bytes": 884
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

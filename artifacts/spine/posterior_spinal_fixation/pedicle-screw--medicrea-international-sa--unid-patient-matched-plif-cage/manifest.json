@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--medicrea-international-sa--unid-patient-matched-plif-cage",
+  "artifact_folder": "pedicle-screw--medicrea-international-sa--unid-patient-matched-plif-cage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2935,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--medicrea-international-sa--unid-patient-matched-plif-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medicrea-international-sa--unid-patient-matched-plif-cage/enriched/pedicle-screw--medicrea-international-sa--unid-patient-matched-plif-cage.json",
+        "bytes": 1447
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K182158.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medicrea-international-sa--unid-patient-matched-plif-cage/fda_raw/MAX/K182158.json",
+        "bytes": 622
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--medicrea-international-sa--unid-patient-matched-plif-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medicrea-international-sa--unid-patient-matched-plif-cage/merged/pedicle-screw--medicrea-international-sa--unid-patient-matched-plif-cage.json",
+        "bytes": 866
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

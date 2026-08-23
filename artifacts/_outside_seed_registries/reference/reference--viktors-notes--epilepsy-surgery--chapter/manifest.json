@@ -1,0 +1,28 @@
+{
+  "device_slug": "reference--viktors-notes--epilepsy-surgery--chapter",
+  "artifact_folder": "reference--viktors-notes--epilepsy-surgery--chapter",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 2,
+  "bytes": 8350269,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/reference--viktors-notes--epilepsy-surgery--chapter.pdf",
+        "artifact": "artifacts/_outside_seed_registries/reference/reference--viktors-notes--epilepsy-surgery--chapter/data_by_device/reference--viktors-notes--epilepsy-surgery--chapter.pdf",
+        "bytes": 8348277
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/documents/reference--viktors-notes--epilepsy-surgery--chapter.json",
+        "artifact": "artifacts/_outside_seed_registries/reference/reference--viktors-notes--epilepsy-surgery--chapter/extracted/documents/reference--viktors-notes--epilepsy-surgery--chapter.json",
+        "bytes": 1992
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "reference",
+    "label": "Outside listed seed registries"
+  }
+}

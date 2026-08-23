@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--pioneer-surgical-technology-inc--crossfuse-ii-coronal-taper-crossfuse",
+  "artifact_folder": "pedicle-screw--pioneer-surgical-technology-inc--crossfuse-ii-coronal-taper-crossfuse",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3117,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--pioneer-surgical-technology-inc--crossfuse-ii-coronal-taper-crossfuse.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--pioneer-surgical-technology-inc--crossfuse-ii-coronal-taper-crossfuse/enriched/pedicle-screw--pioneer-surgical-technology-inc--crossfuse-ii-coronal-taper-crossfuse.json",
+        "bytes": 1513
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K133455.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--pioneer-surgical-technology-inc--crossfuse-ii-coronal-taper-crossfuse/fda_raw/MAX/K133455.json",
+        "bytes": 672
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--pioneer-surgical-technology-inc--crossfuse-ii-coronal-taper-crossfuse.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--pioneer-surgical-technology-inc--crossfuse-ii-coronal-taper-crossfuse/merged/pedicle-screw--pioneer-surgical-technology-inc--crossfuse-ii-coronal-taper-crossfuse.json",
+        "bytes": 932
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

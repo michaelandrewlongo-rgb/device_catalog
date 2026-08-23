@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--4web-inc--plif-sts-tlif-sts-olif",
+  "artifact_folder": "pedicle-screw--4web-inc--plif-sts-tlif-sts-olif",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2894,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--4web-inc--plif-sts-tlif-sts-olif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--4web-inc--plif-sts-tlif-sts-olif/enriched/pedicle-screw--4web-inc--plif-sts-tlif-sts-olif.json",
+        "bytes": 1445
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K143258.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--4web-inc--plif-sts-tlif-sts-olif/fda_raw/MAX/K143258.json",
+        "bytes": 585
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--4web-inc--plif-sts-tlif-sts-olif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--4web-inc--plif-sts-tlif-sts-olif/merged/pedicle-screw--4web-inc--plif-sts-tlif-sts-olif.json",
+        "bytes": 864
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

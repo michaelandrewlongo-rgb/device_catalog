@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K932769",
+  "clearance_date": "1995-03-30",
+  "device_class": 2,
+  "manufacturer_canonical": "camino-laboratories-inc",
+  "manufacturer_raw": "Camino Laboratories, Inc.",
+  "catalog_category": "csf-shunt",
+  "device_name_fda": "CAMINO VENTRICULAR DRAINAGE SYSTEM",
+  "product_code": "JXG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "csf-shunt--camino-laboratories-inc--camino-ventricular-drainage",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf93/K932769.pdf"
+}

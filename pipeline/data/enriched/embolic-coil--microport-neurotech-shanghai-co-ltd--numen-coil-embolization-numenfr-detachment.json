@@ -11,12 +11,24 @@
   "product_code": "HCG",
   "what_it_is": null,
   "sizing_specs": null,
-  "indications": null,
+  "indications": "Indications for Use See PRA Statement below.\nSubmission Number (if known)\nK242154\nI\nDevice Name\nNumenTr Coil Embolization System; NumenFRT \" Detachment System\nIndications for Use (Describe)\nNumen Coil Embolization System is intended to endovascularly obstruct or occlude blood flow in\nTM\nvascular abnormalities of the neurovascular and peripheral vessels.\nNumen Coil Embolization System is indicated for endovascular embolization of:\nTM\n|** Intracranial aneurysms\nOther neurovascular abnormalities such as arteriovenous malformations and arteriovenous\nfistulae\nI Arterial and venous embolizations in the peripheral vasculature *\nNumenFRTM Detachment System is intended for use with MicroPort NeuroTech NumenTM Coil\nEmbolization System in the embolization of intracranial aneurysms and other vascular abnormalities\nof the neuro and peripheral vasculature.\nType of Use (Select one or both, as applicable)\n[ Prescription Use (Part 21 CFR 801 Subpart D) [Over-The-Counter Use (21 CFR 801 Subpart C)\nCONTINUE ON A SEPARATE PAGE IF NEEDED.\nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the\ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any other aspect\nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n\"An agency may not conduct or sponsor, and a person is not required to respond to, a collection of\ninformation unless it displays a currently valid OMB number.\"\n\nK242154\nMicroPort NeuroTech (Shanghai) Co., Ltd.\n510(k) Summary\nK242154\nSubject Device:\nNumen™ Coil Embolization System\nNumenFR™ Detachment System\nThis 510(k) Summary is being submitted in accordance with the requirements of 21CFR §\n807.92.\nMicroPort NeuroTech (Shanghai) Co., Ltd.\nSubmitter Name and\nBuilding 16, Guangdan Road 222, Pudong New District,\nAddress\nShanghai, China\nName: Yuying Chen\nContact Person Email: YuYing.Chen@microport.com\nPhone:+86 13311583098\nDate Prepared September 14, 2024\nNumen™ Coil Embolization System\nTrade Name\nNumenFR™ Detachment System\nCommon Name Detachable Coil\nNeurovascular Embolization Device (HCG);\nClassification Name\nDevice, Vascular, for Promoting Embolization (KRD)\nRegulation Number 21 CFR 882.5950 (HCG); 21 CFR 870.3300 (KRD)\nProduct Code(s) HCG, KRD\nClassification II\nReview Panel Neurology (HCG); Cardiovascular (KRD)\nUse Prescription Use Only\nLegally Marketed Numen™ Coil Embolization System; NumenFR™",
   "contraindications": null,
   "compatible_with": null,
   "use_notes": null,
   "deployment_steps": null,
-  "also_known_as": [],
+  "also_known_as": [
+    "K232955",
+    "K232955",
+    "K242154",
+    "K242154",
+    "K232955",
+    "K232955",
+    "K242154",
+    "K232955",
+    "K232955",
+    "K242154",
+    "K242154"
+  ],
   "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K232955.pdf",
   "ifu_pdf_url": null,
   "source_url": "",
@@ -35,8 +47,8 @@
       "confidence": 0
     },
     "indications": {
-      "source": "none",
-      "confidence": 0
+      "source": "fda_summary",
+      "confidence": 0.95
     },
     "contraindications": {
       "source": "none",
@@ -51,8 +63,8 @@
       "confidence": 0
     },
     "also_known_as": {
-      "source": "none",
-      "confidence": 0
+      "source": "fda_summary",
+      "confidence": 0.3
     }
   }
 }

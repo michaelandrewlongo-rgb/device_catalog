@@ -1,0 +1,21 @@
+{
+  "device_slug": "interbody-cage--icotec-ag--icotec-pedicle-recalls",
+  "artifact_folder": "interbody-cage--icotec-ag--icotec-pedicle-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 432,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/interbody-cage--icotec-ag--icotec-pedicle-recalls.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--icotec-ag--icotec-pedicle-recalls/extracted/fda_safety/interbody-cage--icotec-ag--icotec-pedicle-recalls.json",
+        "bytes": 432
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "device_slug": "interbody-cage--seaspine-inc--newport-spinal-recalls",
+  "artifact_folder": "interbody-cage--seaspine-inc--newport-spinal-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 1675,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/interbody-cage--seaspine-inc--newport-spinal-recalls.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--seaspine-inc--newport-spinal-recalls/extracted/fda_safety/interbody-cage--seaspine-inc--newport-spinal-recalls.json",
+        "bytes": 1675
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

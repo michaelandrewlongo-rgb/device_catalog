@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K161605",
+  "clearance_date": "2016-10-27",
+  "device_class": 2,
+  "manufacturer_canonical": "aqueduct-critical-care-inc",
+  "manufacturer_raw": "Aqueduct Critical Care, Inc.",
+  "catalog_category": "csf-shunt",
+  "device_name_fda": "Smart External Drain (SED) System",
+  "product_code": "JXG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "csf-shunt--aqueduct-critical-care-inc--smart-external-drain-sed",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf16/K161605.pdf"
+}

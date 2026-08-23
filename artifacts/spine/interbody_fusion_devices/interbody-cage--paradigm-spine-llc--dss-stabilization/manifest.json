@@ -1,0 +1,40 @@
+{
+  "device_slug": "interbody-cage--paradigm-spine-llc--dss-stabilization",
+  "artifact_folder": "interbody-cage--paradigm-spine-llc--dss-stabilization",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3409,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--paradigm-spine-llc--dss-stabilization.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--paradigm-spine-llc--dss-stabilization/enriched/interbody-cage--paradigm-spine-llc--dss-stabilization.json",
+        "bytes": 1410
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K090099.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--paradigm-spine-llc--dss-stabilization/fda_raw/NKB/K090099.json",
+        "bytes": 585
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K113625.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--paradigm-spine-llc--dss-stabilization/fda_raw/NKB/K113625.json",
+        "bytes": 585
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--paradigm-spine-llc--dss-stabilization.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--paradigm-spine-llc--dss-stabilization/merged/interbody-cage--paradigm-spine-llc--dss-stabilization.json",
+        "bytes": 829
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

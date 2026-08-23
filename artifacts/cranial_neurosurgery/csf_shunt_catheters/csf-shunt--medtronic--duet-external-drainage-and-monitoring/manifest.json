@@ -1,0 +1,47 @@
+{
+  "device_slug": "csf-shunt--medtronic--duet-external-drainage-and-monitoring",
+  "artifact_folder": "csf-shunt--medtronic--duet-external-drainage-and-monitoring",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 3365926,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/csf-shunt/parsed/fda_summaries/csf-shunt--medtronic--duet-external-drainage-and-monitoring--510k.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--medtronic--duet-external-drainage-and-monitoring/510k/csf-shunt/parsed/fda_summaries/csf-shunt--medtronic--duet-external-drainage-and-monitoring--510k.json",
+        "bytes": 26560
+      },
+      {
+        "source": "pipeline/data/510k/csf-shunt/pdfs/csf-shunt--medtronic--duet-external-drainage-and-monitoring--510k.pdf",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--medtronic--duet-external-drainage-and-monitoring/510k/csf-shunt/pdfs/csf-shunt--medtronic--duet-external-drainage-and-monitoring--510k.pdf",
+        "bytes": 3332820
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--medtronic--duet-external-drainage-and-monitoring.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--medtronic--duet-external-drainage-and-monitoring/enriched/csf-shunt--medtronic--duet-external-drainage-and-monitoring.json",
+        "bytes": 5065
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K243676.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--medtronic--duet-external-drainage-and-monitoring/fda_raw/JXG/K243676.json",
+        "bytes": 606
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--medtronic--duet-external-drainage-and-monitoring.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--medtronic--duet-external-drainage-and-monitoring/merged/csf-shunt--medtronic--duet-external-drainage-and-monitoring.json",
+        "bytes": 875
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

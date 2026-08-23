@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--advanced-medical-technologies-ag--shell-cage-wave-cage-loop",
+  "artifact_folder": "pedicle-screw--advanced-medical-technologies-ag--shell-cage-wave-cage-loop",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2979,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--advanced-medical-technologies-ag--shell-cage-wave-cage-loop.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--advanced-medical-technologies-ag--shell-cage-wave-cage-loop/enriched/pedicle-screw--advanced-medical-technologies-ag--shell-cage-wave-cage-loop.json",
+        "bytes": 1460
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K080401.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--advanced-medical-technologies-ag--shell-cage-wave-cage-loop/fda_raw/MAX/K080401.json",
+        "bytes": 640
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--advanced-medical-technologies-ag--shell-cage-wave-cage-loop.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--advanced-medical-technologies-ag--shell-cage-wave-cage-loop/merged/pedicle-screw--advanced-medical-technologies-ag--shell-cage-wave-cage-loop.json",
+        "bytes": 879
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

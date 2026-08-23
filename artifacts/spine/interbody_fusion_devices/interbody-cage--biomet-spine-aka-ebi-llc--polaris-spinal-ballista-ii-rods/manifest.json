@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--biomet-spine-aka-ebi-llc--polaris-spinal-ballista-ii-rods",
+  "artifact_folder": "interbody-cage--biomet-spine-aka-ebi-llc--polaris-spinal-ballista-ii-rods",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2990,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--biomet-spine-aka-ebi-llc--polaris-spinal-ballista-ii-rods.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--biomet-spine-aka-ebi-llc--polaris-spinal-ballista-ii-rods/enriched/interbody-cage--biomet-spine-aka-ebi-llc--polaris-spinal-ballista-ii-rods.json",
+        "bytes": 1468
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K123451.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--biomet-spine-aka-ebi-llc--polaris-spinal-ballista-ii-rods/fda_raw/NKB/K123451.json",
+        "bytes": 635
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--biomet-spine-aka-ebi-llc--polaris-spinal-ballista-ii-rods.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--biomet-spine-aka-ebi-llc--polaris-spinal-ballista-ii-rods/merged/interbody-cage--biomet-spine-aka-ebi-llc--polaris-spinal-ballista-ii-rods.json",
+        "bytes": 887
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

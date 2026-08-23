@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--medical-concepts-inc--medical-concepts-interbody-fusion",
+  "artifact_folder": "pedicle-screw--medical-concepts-inc--medical-concepts-interbody-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2961,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--medical-concepts-inc--medical-concepts-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medical-concepts-inc--medical-concepts-interbody-fusion/enriched/pedicle-screw--medical-concepts-inc--medical-concepts-interbody-fusion.json",
+        "bytes": 1460
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K110659.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medical-concepts-inc--medical-concepts-interbody-fusion/fda_raw/MAX/K110659.json",
+        "bytes": 622
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--medical-concepts-inc--medical-concepts-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medical-concepts-inc--medical-concepts-interbody-fusion/merged/pedicle-screw--medical-concepts-inc--medical-concepts-interbody-fusion.json",
+        "bytes": 879
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

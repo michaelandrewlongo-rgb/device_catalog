@@ -1,0 +1,42 @@
+{
+  "device_slug": "csf-shunt--integra--external-drainage-set",
+  "artifact_folder": "csf-shunt--integra--external-drainage-set",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 4222,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--integra--external-drainage-set.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--external-drainage-set/enriched/csf-shunt--integra--external-drainage-set.json",
+        "bytes": 2193
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/csf-shunt--integra--external-drainage-set.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--external-drainage-set/extracted/fda_structured/csf-shunt--integra--external-drainage-set.json",
+        "bytes": 665
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K032817.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--external-drainage-set/fda_raw/JXG/K032817.json",
+        "bytes": 569
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--integra--external-drainage-set.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--external-drainage-set/merged/csf-shunt--integra--external-drainage-set.json",
+        "bytes": 795
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

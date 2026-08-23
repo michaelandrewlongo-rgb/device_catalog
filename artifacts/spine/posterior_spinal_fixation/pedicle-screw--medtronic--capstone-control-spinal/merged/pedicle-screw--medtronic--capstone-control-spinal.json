@@ -1,0 +1,28 @@
+{
+  "device_name": "Capstone Control\u0099 Spinal System",
+  "manufacturer": "medtronic",
+  "catalog_category": "pedicle-screw",
+  "filename_stem": "pedicle-screw--medtronic--capstone-control-spinal",
+  "clearance_type": "510k",
+  "clearance_number": "K190165",
+  "clearance_date": "2019-05-06",
+  "device_class": 2,
+  "device_name_fda": "Capstone Control\u0099 Spinal System",
+  "product_code": "MAX",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf19/K190165.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

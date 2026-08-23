@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--l-k-biomed-co-ltd--focus-mis",
+  "artifact_folder": "interbody-cage--l-k-biomed-co-ltd--focus-mis",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2757,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--l-k-biomed-co-ltd--focus-mis.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--l-k-biomed-co-ltd--focus-mis/enriched/interbody-cage--l-k-biomed-co-ltd--focus-mis.json",
+        "bytes": 1384
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K112643.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--l-k-biomed-co-ltd--focus-mis/fda_raw/NKB/K112643.json",
+        "bytes": 570
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--l-k-biomed-co-ltd--focus-mis.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--l-k-biomed-co-ltd--focus-mis/merged/interbody-cage--l-k-biomed-co-ltd--focus-mis.json",
+        "bytes": 803
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

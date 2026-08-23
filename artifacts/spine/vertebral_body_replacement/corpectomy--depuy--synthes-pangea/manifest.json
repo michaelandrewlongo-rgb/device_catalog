@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--depuy--synthes-pangea",
+  "artifact_folder": "corpectomy--depuy--synthes-pangea",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2852,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--depuy--synthes-pangea.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--synthes-pangea/enriched/corpectomy--depuy--synthes-pangea.json",
+        "bytes": 1527
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K052123.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--synthes-pangea/fda_raw/KWP/K052123.json",
+        "bytes": 539
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--depuy--synthes-pangea.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--synthes-pangea/merged/corpectomy--depuy--synthes-pangea.json",
+        "bytes": 786
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

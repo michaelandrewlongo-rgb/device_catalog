@@ -1,0 +1,292 @@
+[
+  {
+    "device_family": "aspiration--medtronic--riptide-aspiration-react-68-catheter",
+    "query_used": "Riptide Aspiration System React 68 Catheter",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00818075011025",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Socrates",
+      "companyName": "SCIENTIA VASCULAR LLC",
+      "deviceIdentifier": "b203ad4a-2d9a-44d3-8925-88ac073ecb63",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "SC038-127-001"
+    },
+    "retrieved_at": "2026-04-15T10:18:43+00:00",
+    "source_id": "accessgudid:00818075011025",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/b203ad4a-2d9a-44d3-8925-88ac073ecb63",
+    "title": "Socrates (SCIENTIA VASCULAR LLC)"
+  },
+  {
+    "device_family": "aspiration--medtronic--riptide-aspiration-react-68-catheter",
+    "query_used": "Riptide Aspiration System React 68 Catheter",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00818075010776",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Socrates",
+      "companyName": "SCIENTIA VASCULAR LLC",
+      "deviceIdentifier": "9d606e99-d97c-46a4-959d-36b770841ddf",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "SC038-156-001"
+    },
+    "retrieved_at": "2026-04-15T10:18:43+00:00",
+    "source_id": "accessgudid:00818075010776",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/9d606e99-d97c-46a4-959d-36b770841ddf",
+    "title": "Socrates (SCIENTIA VASCULAR LLC)"
+  },
+  {
+    "device_family": "aspiration--medtronic--riptide-aspiration-react-68-catheter",
+    "query_used": "Riptide Aspiration System React 68 Catheter",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00850041053073",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Malibu Aspiration Catheter System",
+      "companyName": "Innova Vascular, Inc.",
+      "deviceIdentifier": "e8e9b137-74a3-45f9-8165-fe69992e5569",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "66971",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheterization kit"
+        }
+      ],
+      "modelNumber": "MALIBU24-001"
+    },
+    "retrieved_at": "2026-04-15T10:18:43+00:00",
+    "source_id": "accessgudid:00850041053073",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/e8e9b137-74a3-45f9-8165-fe69992e5569",
+    "title": "Malibu Aspiration Catheter System (Innova Vascular, Inc.)"
+  },
+  {
+    "device_family": "aspiration--medtronic--riptide-aspiration-react-68-catheter",
+    "query_used": "Riptide Aspiration System React 68 Catheter",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00850041053066",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Malibu Aspiration Catheter System",
+      "companyName": "Innova Vascular, Inc.",
+      "deviceIdentifier": "3c7b00ef-94c1-4feb-83bb-48810e220fad",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "66971",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheterization kit"
+        }
+      ],
+      "modelNumber": "MALIBU20-001"
+    },
+    "retrieved_at": "2026-04-15T10:18:43+00:00",
+    "source_id": "accessgudid:00850041053066",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/3c7b00ef-94c1-4feb-83bb-48810e220fad",
+    "title": "Malibu Aspiration Catheter System (Innova Vascular, Inc.)"
+  },
+  {
+    "device_family": "aspiration--medtronic--riptide-aspiration-react-68-catheter",
+    "query_used": "Riptide Aspiration System React 68 Catheter",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00850041053059",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Malibu Aspiration Catheter System",
+      "companyName": "Innova Vascular, Inc.",
+      "deviceIdentifier": "56b5a680-b68a-4958-893d-d2e7e9e05a3d",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "66971",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheterization kit"
+        }
+      ],
+      "modelNumber": "MALIBU16-001"
+    },
+    "retrieved_at": "2026-04-15T10:18:43+00:00",
+    "source_id": "accessgudid:00850041053059",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/56b5a680-b68a-4958-893d-d2e7e9e05a3d",
+    "title": "Malibu Aspiration Catheter System (Innova Vascular, Inc.)"
+  },
+  {
+    "device_family": "aspiration--medtronic--riptide-aspiration-react-68-catheter",
+    "query_used": "Riptide Aspiration System React 68 Catheter",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00850041053042",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Malibu Aspiration Catheter System",
+      "companyName": "Innova Vascular, Inc.",
+      "deviceIdentifier": "4a324183-2df8-4a0c-a2df-2f4b9740bc9d",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "66971",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheterization kit"
+        }
+      ],
+      "modelNumber": "MALIBU12-001"
+    },
+    "retrieved_at": "2026-04-15T10:18:43+00:00",
+    "source_id": "accessgudid:00850041053042",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/4a324183-2df8-4a0c-a2df-2f4b9740bc9d",
+    "title": "Malibu Aspiration Catheter System (Innova Vascular, Inc.)"
+  },
+  {
+    "device_family": "aspiration--medtronic--riptide-aspiration-react-68-catheter",
+    "query_used": "Riptide Aspiration System React 68 Catheter",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00850041053035",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Malibu Aspiration Catheter System",
+      "companyName": "Innova Vascular, Inc.",
+      "deviceIdentifier": "e442cc3b-0fcf-4113-86f7-bc7aeb5276f5",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "66971",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheterization kit"
+        }
+      ],
+      "modelNumber": "MALIBU12A-001"
+    },
+    "retrieved_at": "2026-04-15T10:18:43+00:00",
+    "source_id": "accessgudid:00850041053035",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/e442cc3b-0fcf-4113-86f7-bc7aeb5276f5",
+    "title": "Malibu Aspiration Catheter System (Innova Vascular, Inc.)"
+  },
+  {
+    "device_family": "aspiration--medtronic--riptide-aspiration-react-68-catheter",
+    "query_used": "Riptide Aspiration System React 68 Catheter",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00850041053028",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Malibu Aspiration Catheter System",
+      "companyName": "Innova Vascular, Inc.",
+      "deviceIdentifier": "17476583-6b5c-424e-bb62-0ca7aa6a0265",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "66971",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheterization kit"
+        }
+      ],
+      "modelNumber": "MALIBU16A-001"
+    },
+    "retrieved_at": "2026-04-15T10:18:43+00:00",
+    "source_id": "accessgudid:00850041053028",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/17476583-6b5c-424e-bb62-0ca7aa6a0265",
+    "title": "Malibu Aspiration Catheter System (Innova Vascular, Inc.)"
+  },
+  {
+    "device_family": "aspiration--medtronic--riptide-aspiration-react-68-catheter",
+    "query_used": "Riptide Aspiration System React 68 Catheter",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00850041053011",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Malibu Aspiration Catheter System",
+      "companyName": "Innova Vascular, Inc.",
+      "deviceIdentifier": "475981a2-f6b9-49c6-a010-96f5e4546e2e",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "66971",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheterization kit"
+        }
+      ],
+      "modelNumber": "MALIBU20A-001"
+    },
+    "retrieved_at": "2026-04-15T10:18:43+00:00",
+    "source_id": "accessgudid:00850041053011",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/475981a2-f6b9-49c6-a010-96f5e4546e2e",
+    "title": "Malibu Aspiration Catheter System (Innova Vascular, Inc.)"
+  },
+  {
+    "device_family": "aspiration--medtronic--riptide-aspiration-react-68-catheter",
+    "query_used": "Riptide Aspiration System React 68 Catheter",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00850041053004",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Malibu Aspiration Catheter System",
+      "companyName": "Innova Vascular, Inc.",
+      "deviceIdentifier": "d120a588-53c2-4afa-a1ec-0ba5fb37c528",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "66971",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheterization kit"
+        }
+      ],
+      "modelNumber": "MALIBU24A-001"
+    },
+    "retrieved_at": "2026-04-15T10:18:43+00:00",
+    "source_id": "accessgudid:00850041053004",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/d120a588-53c2-4afa-a1ec-0ba5fb37c528",
+    "title": "Malibu Aspiration Catheter System (Innova Vascular, Inc.)"
+  }
+]

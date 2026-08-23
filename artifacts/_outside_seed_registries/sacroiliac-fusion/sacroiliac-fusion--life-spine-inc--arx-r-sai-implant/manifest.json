@@ -1,0 +1,21 @@
+{
+  "device_slug": "sacroiliac-fusion--life-spine-inc--arx-r-sai-implant",
+  "artifact_folder": "sacroiliac-fusion--life-spine-inc--arx-r-sai-implant",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 580,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/OUR/K241464.json",
+        "artifact": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--life-spine-inc--arx-r-sai-implant/fda_raw/OUR/K241464.json",
+        "bytes": 580
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "sacroiliac-fusion",
+    "label": "Outside listed seed registries"
+  }
+}

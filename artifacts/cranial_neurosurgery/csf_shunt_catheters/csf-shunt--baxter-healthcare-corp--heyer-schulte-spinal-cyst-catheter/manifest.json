@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--baxter-healthcare-corp--heyer-schulte-spinal-cyst-catheter",
+  "artifact_folder": "csf-shunt--baxter-healthcare-corp--heyer-schulte-spinal-cyst-catheter",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2986,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--baxter-healthcare-corp--heyer-schulte-spinal-cyst-catheter.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--baxter-healthcare-corp--heyer-schulte-spinal-cyst-catheter/enriched/csf-shunt--baxter-healthcare-corp--heyer-schulte-spinal-cyst-catheter.json",
+        "bytes": 1471
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K905860.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--baxter-healthcare-corp--heyer-schulte-spinal-cyst-catheter/fda_raw/JXG/K905860.json",
+        "bytes": 625
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--baxter-healthcare-corp--heyer-schulte-spinal-cyst-catheter.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--baxter-healthcare-corp--heyer-schulte-spinal-cyst-catheter/merged/csf-shunt--baxter-healthcare-corp--heyer-schulte-spinal-cyst-catheter.json",
+        "bytes": 890
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

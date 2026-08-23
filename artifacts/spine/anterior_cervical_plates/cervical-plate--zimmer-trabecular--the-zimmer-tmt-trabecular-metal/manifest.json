@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--zimmer-trabecular--the-zimmer-tmt-trabecular-metal",
+  "artifact_folder": "cervical-plate--zimmer-trabecular--the-zimmer-tmt-trabecular-metal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3063,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--zimmer-trabecular--the-zimmer-tmt-trabecular-metal.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--zimmer-trabecular--the-zimmer-tmt-trabecular-metal/enriched/cervical-plate--zimmer-trabecular--the-zimmer-tmt-trabecular-metal.json",
+        "bytes": 1504
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K052950.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--zimmer-trabecular--the-zimmer-tmt-trabecular-metal/fda_raw/MQP/K052950.json",
+        "bytes": 636
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--zimmer-trabecular--the-zimmer-tmt-trabecular-metal.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--zimmer-trabecular--the-zimmer-tmt-trabecular-metal/merged/cervical-plate--zimmer-trabecular--the-zimmer-tmt-trabecular-metal.json",
+        "bytes": 923
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

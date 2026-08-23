@@ -1,0 +1,21 @@
+{
+  "device_slug": "sacroiliac-fusion--promethean-restorative-llc--dynamis-implant",
+  "artifact_folder": "sacroiliac-fusion--promethean-restorative-llc--dynamis-implant",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 613,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/OUR/K251075.json",
+        "artifact": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--promethean-restorative-llc--dynamis-implant/fda_raw/OUR/K251075.json",
+        "bytes": 613
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "sacroiliac-fusion",
+    "label": "Outside listed seed registries"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "source": "fda_udi",
+  "brand_name": "Auxein Brand Vertaux 5.5 mm Pedicle Screw System",
+  "extraction_method": "fda_udi_api",
+  "fields": {
+    "what_it_is": "VERTAUX - Rod, Ø5.5mm x Length 150mm, Titanium",
+    "sizing_specs": "Model: SP-334",
+    "use_notes": "MRI: Labeling does not contain MRI Safety Information. Sterilized: Moist Heat or Steam Sterilization. Single-use",
+    "also_known_as": [
+      "Auxein Brand Vertaux 5.5 mm Pedicle Screw System",
+      "Bone-screw internal spinal fixation system, non-sterile"
+    ]
+  },
+  "confidence": {
+    "what_it_is": 0.85,
+    "sizing_specs": 0.85,
+    "use_notes": 0.85,
+    "also_known_as": 0.85
+  }
+}

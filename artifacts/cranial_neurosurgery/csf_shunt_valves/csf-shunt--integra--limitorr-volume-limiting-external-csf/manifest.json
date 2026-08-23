@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--integra--limitorr-volume-limiting-external-csf",
+  "artifact_folder": "csf-shunt--integra--limitorr-volume-limiting-external-csf",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3631,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--integra--limitorr-volume-limiting-external-csf.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--limitorr-volume-limiting-external-csf/enriched/csf-shunt--integra--limitorr-volume-limiting-external-csf.json",
+        "bytes": 2022
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K072929.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--limitorr-volume-limiting-external-csf/fda_raw/JXG/K072929.json",
+        "bytes": 654
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--integra--limitorr-volume-limiting-external-csf.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--limitorr-volume-limiting-external-csf/merged/csf-shunt--integra--limitorr-volume-limiting-external-csf.json",
+        "bytes": 955
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

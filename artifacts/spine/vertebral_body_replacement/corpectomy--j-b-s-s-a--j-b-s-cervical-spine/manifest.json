@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--j-b-s-s-a--j-b-s-cervical-spine",
+  "artifact_folder": "corpectomy--j-b-s-s-a--j-b-s-cervical-spine",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2768,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--j-b-s-s-a--j-b-s-cervical-spine.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--j-b-s-s-a--j-b-s-cervical-spine/enriched/corpectomy--j-b-s-s-a--j-b-s-cervical-spine.json",
+        "bytes": 1395
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K942432.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--j-b-s-s-a--j-b-s-cervical-spine/fda_raw/KWP/K942432.json",
+        "bytes": 559
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--j-b-s-s-a--j-b-s-cervical-spine.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--j-b-s-s-a--j-b-s-cervical-spine/merged/corpectomy--j-b-s-s-a--j-b-s-cervical-spine.json",
+        "bytes": 814
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

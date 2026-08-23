@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--innovasis-inc--innovasis-excella-spinal-excella-m",
+  "artifact_folder": "interbody-cage--innovasis-inc--innovasis-excella-spinal-excella-m",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3479,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--innovasis-inc--innovasis-excella-spinal-excella-m.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--innovasis-inc--innovasis-excella-spinal-excella-m/enriched/interbody-cage--innovasis-inc--innovasis-excella-spinal-excella-m.json",
+        "bytes": 1854
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K071921.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--innovasis-inc--innovasis-excella-spinal-excella-m/fda_raw/NKB/K071921.json",
+        "bytes": 655
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--innovasis-inc--innovasis-excella-spinal-excella-m.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--innovasis-inc--innovasis-excella-spinal-excella-m/merged/interbody-cage--innovasis-inc--innovasis-excella-spinal-excella-m.json",
+        "bytes": 970
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

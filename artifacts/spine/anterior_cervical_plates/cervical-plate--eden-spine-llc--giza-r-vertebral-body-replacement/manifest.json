@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--eden-spine-llc--giza-r-vertebral-body-replacement",
+  "artifact_folder": "cervical-plate--eden-spine-llc--giza-r-vertebral-body-replacement",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2894,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--eden-spine-llc--giza-r-vertebral-body-replacement.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--eden-spine-llc--giza-r-vertebral-body-replacement/enriched/cervical-plate--eden-spine-llc--giza-r-vertebral-body-replacement.json",
+        "bytes": 1438
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K112429.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--eden-spine-llc--giza-r-vertebral-body-replacement/fda_raw/MQP/K112429.json",
+        "bytes": 599
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--eden-spine-llc--giza-r-vertebral-body-replacement.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--eden-spine-llc--giza-r-vertebral-body-replacement/merged/cervical-plate--eden-spine-llc--giza-r-vertebral-body-replacement.json",
+        "bytes": 857
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

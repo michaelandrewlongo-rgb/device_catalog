@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K240201",
+  "clearance_date": "2024-02-23",
+  "device_class": 2,
+  "manufacturer_canonical": "l-k-biomed-co-ltd",
+  "manufacturer_raw": "L & K Biomed Co., Ltd.",
+  "catalog_category": "sacroiliac-fusion",
+  "device_name_fda": "PathLoc SI Joint Fusion System",
+  "product_code": "OUR",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "sacroiliac-fusion--l-k-biomed-co-ltd--pathloc-si-joint-fusion",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K240201.pdf"
+}

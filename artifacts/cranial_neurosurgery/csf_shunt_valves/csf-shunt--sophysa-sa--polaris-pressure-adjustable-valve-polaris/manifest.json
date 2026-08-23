@@ -1,0 +1,47 @@
+{
+  "device_slug": "csf-shunt--sophysa-sa--polaris-pressure-adjustable-valve-polaris",
+  "artifact_folder": "csf-shunt--sophysa-sa--polaris-pressure-adjustable-valve-polaris",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 72076,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/csf-shunt/parsed/fda_summaries/csf-shunt--sophysa-sa--polaris-pressure-adjustable-valve-polaris--510k.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--sophysa-sa--polaris-pressure-adjustable-valve-polaris/510k/csf-shunt/parsed/fda_summaries/csf-shunt--sophysa-sa--polaris-pressure-adjustable-valve-polaris--510k.json",
+        "bytes": 3604
+      },
+      {
+        "source": "pipeline/data/510k/csf-shunt/pdfs/csf-shunt--sophysa-sa--polaris-pressure-adjustable-valve-polaris--510k.pdf",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--sophysa-sa--polaris-pressure-adjustable-valve-polaris/510k/csf-shunt/pdfs/csf-shunt--sophysa-sa--polaris-pressure-adjustable-valve-polaris--510k.pdf",
+        "bytes": 63808
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--sophysa-sa--polaris-pressure-adjustable-valve-polaris.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--sophysa-sa--polaris-pressure-adjustable-valve-polaris/enriched/csf-shunt--sophysa-sa--polaris-pressure-adjustable-valve-polaris.json",
+        "bytes": 3102
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K141227.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--sophysa-sa--polaris-pressure-adjustable-valve-polaris/fda_raw/JXG/K141227.json",
+        "bytes": 627
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--sophysa-sa--polaris-pressure-adjustable-valve-polaris.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--sophysa-sa--polaris-pressure-adjustable-valve-polaris/merged/csf-shunt--sophysa-sa--polaris-pressure-adjustable-valve-polaris.json",
+        "bytes": 935
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

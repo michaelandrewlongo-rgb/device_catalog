@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--stryker--denali-deformity",
+  "artifact_folder": "corpectomy--stryker--denali-deformity",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2979,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--stryker--denali-deformity.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--stryker--denali-deformity/enriched/corpectomy--stryker--denali-deformity.json",
+        "bytes": 1641
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K052404.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--stryker--denali-deformity/fda_raw/KWP/K052404.json",
+        "bytes": 542
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--stryker--denali-deformity.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--stryker--denali-deformity/merged/corpectomy--stryker--denali-deformity.json",
+        "bytes": 796
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

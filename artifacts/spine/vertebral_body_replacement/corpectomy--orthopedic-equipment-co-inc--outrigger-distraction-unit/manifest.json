@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--orthopedic-equipment-co-inc--outrigger-distraction-unit",
+  "artifact_folder": "corpectomy--orthopedic-equipment-co-inc--outrigger-distraction-unit",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2902,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--orthopedic-equipment-co-inc--outrigger-distraction-unit.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--orthopedic-equipment-co-inc--outrigger-distraction-unit/enriched/corpectomy--orthopedic-equipment-co-inc--outrigger-distraction-unit.json",
+        "bytes": 1433
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K781444.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--orthopedic-equipment-co-inc--outrigger-distraction-unit/fda_raw/KWP/K781444.json",
+        "bytes": 617
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--orthopedic-equipment-co-inc--outrigger-distraction-unit.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--orthopedic-equipment-co-inc--outrigger-distraction-unit/merged/corpectomy--orthopedic-equipment-co-inc--outrigger-distraction-unit.json",
+        "bytes": 852
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

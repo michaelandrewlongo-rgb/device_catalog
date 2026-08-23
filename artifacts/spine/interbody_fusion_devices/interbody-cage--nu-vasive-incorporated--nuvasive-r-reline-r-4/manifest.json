@@ -1,0 +1,40 @@
+{
+  "device_slug": "interbody-cage--nu-vasive-incorporated--nuvasive-r-reline-r-4",
+  "artifact_folder": "interbody-cage--nu-vasive-incorporated--nuvasive-r-reline-r-4",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3541,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--nu-vasive-incorporated--nuvasive-r-reline-r-4.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--nu-vasive-incorporated--nuvasive-r-reline-r-4/enriched/interbody-cage--nu-vasive-incorporated--nuvasive-r-reline-r-4.json",
+        "bytes": 1442
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K170126.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--nu-vasive-incorporated--nuvasive-r-reline-r-4/fda_raw/NKB/K170126.json",
+        "bytes": 611
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K190636.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--nu-vasive-incorporated--nuvasive-r-reline-r-4/fda_raw/NKB/K190636.json",
+        "bytes": 611
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--nu-vasive-incorporated--nuvasive-r-reline-r-4.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--nu-vasive-incorporated--nuvasive-r-reline-r-4/merged/interbody-cage--nu-vasive-incorporated--nuvasive-r-reline-r-4.json",
+        "bytes": 877
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

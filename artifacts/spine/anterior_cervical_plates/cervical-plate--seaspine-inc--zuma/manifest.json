@@ -1,0 +1,42 @@
+{
+  "device_slug": "cervical-plate--seaspine-inc--zuma",
+  "artifact_folder": "cervical-plate--seaspine-inc--zuma",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3463,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--seaspine-inc--zuma.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--seaspine-inc--zuma/enriched/cervical-plate--seaspine-inc--zuma.json",
+        "bytes": 1593
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/cervical-plate--seaspine-inc--zuma.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--seaspine-inc--zuma/extracted/fda_structured/cervical-plate--seaspine-inc--zuma.json",
+        "bytes": 571
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K071726.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--seaspine-inc--zuma/fda_raw/MQP/K071726.json",
+        "bytes": 535
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--seaspine-inc--zuma.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--seaspine-inc--zuma/merged/cervical-plate--seaspine-inc--zuma.json",
+        "bytes": 764
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

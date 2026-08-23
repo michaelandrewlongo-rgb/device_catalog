@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--gpc-medical-limited--gpc-brand-posterior-non-cervical",
+  "artifact_folder": "interbody-cage--gpc-medical-limited--gpc-brand-posterior-non-cervical",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3060,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--gpc-medical-limited--gpc-brand-posterior-non-cervical.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--gpc-medical-limited--gpc-brand-posterior-non-cervical/enriched/interbody-cage--gpc-medical-limited--gpc-brand-posterior-non-cervical.json",
+        "bytes": 1501
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K163096.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--gpc-medical-limited--gpc-brand-posterior-non-cervical/fda_raw/NKB/K163096.json",
+        "bytes": 639
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--gpc-medical-limited--gpc-brand-posterior-non-cervical.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--gpc-medical-limited--gpc-brand-posterior-non-cervical/merged/interbody-cage--gpc-medical-limited--gpc-brand-posterior-non-cervical.json",
+        "bytes": 920
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

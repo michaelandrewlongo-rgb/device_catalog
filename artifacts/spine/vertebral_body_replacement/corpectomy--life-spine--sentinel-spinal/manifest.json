@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--life-spine--sentinel-spinal",
+  "artifact_folder": "corpectomy--life-spine--sentinel-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2727,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--life-spine--sentinel-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--life-spine--sentinel-spinal/enriched/corpectomy--life-spine--sentinel-spinal.json",
+        "bytes": 1380
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K090343.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--life-spine--sentinel-spinal/fda_raw/KWP/K090343.json",
+        "bytes": 548
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--life-spine--sentinel-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--life-spine--sentinel-spinal/merged/corpectomy--life-spine--sentinel-spinal.json",
+        "bytes": 799
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

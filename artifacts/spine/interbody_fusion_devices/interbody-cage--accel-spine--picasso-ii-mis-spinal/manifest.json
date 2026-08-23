@@ -1,0 +1,42 @@
+{
+  "device_slug": "interbody-cage--accel-spine--picasso-ii-mis-spinal",
+  "artifact_folder": "interbody-cage--accel-spine--picasso-ii-mis-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3767,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--accel-spine--picasso-ii-mis-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--accel-spine--picasso-ii-mis-spinal/enriched/interbody-cage--accel-spine--picasso-ii-mis-spinal.json",
+        "bytes": 1715
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--accel-spine--picasso-ii-mis-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--accel-spine--picasso-ii-mis-spinal/extracted/fda_structured/interbody-cage--accel-spine--picasso-ii-mis-spinal.json",
+        "bytes": 654
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K140219.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--accel-spine--picasso-ii-mis-spinal/fda_raw/NKB/K140219.json",
+        "bytes": 571
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--accel-spine--picasso-ii-mis-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--accel-spine--picasso-ii-mis-spinal/merged/interbody-cage--accel-spine--picasso-ii-mis-spinal.json",
+        "bytes": 827
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--gbs-commonwealth-co-ltd--the-jasper-spinal-fixation-ii",
+  "artifact_folder": "interbody-cage--gbs-commonwealth-co-ltd--the-jasper-spinal-fixation-ii",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2957,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--gbs-commonwealth-co-ltd--the-jasper-spinal-fixation-ii.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--gbs-commonwealth-co-ltd--the-jasper-spinal-fixation-ii/enriched/interbody-cage--gbs-commonwealth-co-ltd--the-jasper-spinal-fixation-ii.json",
+        "bytes": 1456
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K190762.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--gbs-commonwealth-co-ltd--the-jasper-spinal-fixation-ii/fda_raw/NKB/K190762.json",
+        "bytes": 626
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--gbs-commonwealth-co-ltd--the-jasper-spinal-fixation-ii.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--gbs-commonwealth-co-ltd--the-jasper-spinal-fixation-ii/merged/interbody-cage--gbs-commonwealth-co-ltd--the-jasper-spinal-fixation-ii.json",
+        "bytes": 875
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

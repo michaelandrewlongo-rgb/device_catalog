@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--aesculap-implant-system-inc--s4-cervical-occipital-plate-spinal",
+  "artifact_folder": "interbody-cage--aesculap-implant-system-inc--s4-cervical-occipital-plate-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3024,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--aesculap-implant-system-inc--s4-cervical-occipital-plate-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--aesculap-implant-system-inc--s4-cervical-occipital-plate-spinal/enriched/interbody-cage--aesculap-implant-system-inc--s4-cervical-occipital-plate-spinal.json",
+        "bytes": 1479
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K100147.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--aesculap-implant-system-inc--s4-cervical-occipital-plate-spinal/fda_raw/NKB/K100147.json",
+        "bytes": 647
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--aesculap-implant-system-inc--s4-cervical-occipital-plate-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--aesculap-implant-system-inc--s4-cervical-occipital-plate-spinal/merged/interbody-cage--aesculap-implant-system-inc--s4-cervical-occipital-plate-spinal.json",
+        "bytes": 898
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

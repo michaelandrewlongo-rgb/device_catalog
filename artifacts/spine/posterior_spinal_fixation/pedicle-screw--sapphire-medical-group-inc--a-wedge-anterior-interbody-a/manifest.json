@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--sapphire-medical-group-inc--a-wedge-anterior-interbody-a",
+  "artifact_folder": "pedicle-screw--sapphire-medical-group-inc--a-wedge-anterior-interbody-a",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3023,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--sapphire-medical-group-inc--a-wedge-anterior-interbody-a.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--sapphire-medical-group-inc--a-wedge-anterior-interbody-a/enriched/pedicle-screw--sapphire-medical-group-inc--a-wedge-anterior-interbody-a.json",
+        "bytes": 1481
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K121693.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--sapphire-medical-group-inc--a-wedge-anterior-interbody-a/fda_raw/MAX/K121693.json",
+        "bytes": 642
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--sapphire-medical-group-inc--a-wedge-anterior-interbody-a.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--sapphire-medical-group-inc--a-wedge-anterior-interbody-a/merged/pedicle-screw--sapphire-medical-group-inc--a-wedge-anterior-interbody-a.json",
+        "bytes": 900
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

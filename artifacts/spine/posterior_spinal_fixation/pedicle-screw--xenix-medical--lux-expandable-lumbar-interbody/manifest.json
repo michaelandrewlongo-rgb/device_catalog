@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--xenix-medical--lux-expandable-lumbar-interbody",
+  "artifact_folder": "pedicle-screw--xenix-medical--lux-expandable-lumbar-interbody",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2894,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--xenix-medical--lux-expandable-lumbar-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--xenix-medical--lux-expandable-lumbar-interbody/enriched/pedicle-screw--xenix-medical--lux-expandable-lumbar-interbody.json",
+        "bytes": 1440
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K253583.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--xenix-medical--lux-expandable-lumbar-interbody/fda_raw/MAX/K253583.json",
+        "bytes": 595
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--xenix-medical--lux-expandable-lumbar-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--xenix-medical--lux-expandable-lumbar-interbody/merged/pedicle-screw--xenix-medical--lux-expandable-lumbar-interbody.json",
+        "bytes": 859
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

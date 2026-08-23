@@ -1,0 +1,22 @@
+[
+  {
+    "device_family": "aspiration--medtronic--riptide-aspiration-react-68-catheter",
+    "query_used": "\"Riptide Aspiration System React 68 Catheter\" OR \"React 68 Catheter\" OR \"Riptide React 68\" OR \"Riptide Aspiration System (React 68 Catheter)\" OR \"React 68\"",
+    "raw": {
+      "abstract": "We describe our initial experience with the React 68 catheter (Medtronic, Dublin, Ireland), an FDA-approved catheter designed for aspiration in cases of emergent large vessel occlusion, as compared with the ACE 68 catheter (Penumbra, Alameda, CA).\nThis observational study followed consecutive patients treated with the React catheter over a seven-month period at a comprehensive stroke center. Use of the device was per discretion of the operator. Patient demographics, thrombectomy technique, reperfusion scoring, and disposition were assessed. Performance was compared with patients treated with the ACE 68 catheter over a comparable period.\nWe treated 47 patients using the React 68 catheter using either aspiration alone or a combination of aspiration and stent retriever technique. The catheter was used in a variety of circumstances including proximal and distal occlusions involving the anterior and posterior circulation. Modified TICI 2b-3 was achieved in 45 of the 47 patients. The React 68 was comparable to the ACE 68 by all performance measures.\nThe React 68 catheter is a large-bore reperfusion catheter with trackability suitable for use in direct aspiration for recanalization of emergent large vessel occlusion.",
+      "doi": "10.1177/1591019919898923",
+      "journal": "Interventional neuroradiology : journal of peritherapeutic neuroradiology, surgical procedures and related neurosciences",
+      "matched_device_family": "aspiration--medtronic--riptide-aspiration-react-68-catheter",
+      "pmid": "31969073",
+      "publication_date": "2020-Jun",
+      "query_used": "\"Riptide Aspiration System React 68 Catheter\" OR \"React 68 Catheter\" OR \"Riptide React 68\" OR \"Riptide Aspiration System (React 68 Catheter)\" OR \"React 68\"",
+      "source_retrieved_at": "2026-04-15T10:17:18+00:00",
+      "title": "Initial experience with React 68 aspiration catheter."
+    },
+    "retrieved_at": "2026-04-15T10:17:18+00:00",
+    "source_id": "pubmed:31969073",
+    "source_type": "pubmed",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/31969073/",
+    "title": "Initial experience with React 68 aspiration catheter."
+  }
+]

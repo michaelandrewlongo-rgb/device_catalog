@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--clinical-neuro-systems-llc--clinical-neuro-syst-monitorr-ext",
+  "artifact_folder": "csf-shunt--clinical-neuro-systems-llc--clinical-neuro-syst-monitorr-ext",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3024,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--clinical-neuro-systems-llc--clinical-neuro-syst-monitorr-ext.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--clinical-neuro-systems-llc--clinical-neuro-syst-monitorr-ext/enriched/csf-shunt--clinical-neuro-systems-llc--clinical-neuro-syst-monitorr-ext.json",
+        "bytes": 1483
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K920156.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--clinical-neuro-systems-llc--clinical-neuro-syst-monitorr-ext/fda_raw/JXG/K920156.json",
+        "bytes": 639
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--clinical-neuro-systems-llc--clinical-neuro-syst-monitorr-ext.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--clinical-neuro-systems-llc--clinical-neuro-syst-monitorr-ext/merged/csf-shunt--clinical-neuro-systems-llc--clinical-neuro-syst-monitorr-ext.json",
+        "bytes": 902
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

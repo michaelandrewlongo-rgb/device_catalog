@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--phoenix-biomedical-corp--lumboperitoneal-shunt",
+  "artifact_folder": "csf-shunt--phoenix-biomedical-corp--lumboperitoneal-shunt",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2860,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--phoenix-biomedical-corp--lumboperitoneal-shunt.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--phoenix-biomedical-corp--lumboperitoneal-shunt/enriched/csf-shunt--phoenix-biomedical-corp--lumboperitoneal-shunt.json",
+        "bytes": 1422
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K002476.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--phoenix-biomedical-corp--lumboperitoneal-shunt/fda_raw/JXG/K002476.json",
+        "bytes": 597
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--phoenix-biomedical-corp--lumboperitoneal-shunt.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--phoenix-biomedical-corp--lumboperitoneal-shunt/merged/csf-shunt--phoenix-biomedical-corp--lumboperitoneal-shunt.json",
+        "bytes": 841
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

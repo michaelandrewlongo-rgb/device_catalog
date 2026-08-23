@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--next-orthosurgical--interform-interbody-cage",
+  "artifact_folder": "pedicle-screw--next-orthosurgical--interform-interbody-cage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2873,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--next-orthosurgical--interform-interbody-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--next-orthosurgical--interform-interbody-cage/enriched/pedicle-screw--next-orthosurgical--interform-interbody-cage.json",
+        "bytes": 1429
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K131082.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--next-orthosurgical--interform-interbody-cage/fda_raw/MAX/K131082.json",
+        "bytes": 596
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--next-orthosurgical--interform-interbody-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--next-orthosurgical--interform-interbody-cage/merged/pedicle-screw--next-orthosurgical--interform-interbody-cage.json",
+        "bytes": 848
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

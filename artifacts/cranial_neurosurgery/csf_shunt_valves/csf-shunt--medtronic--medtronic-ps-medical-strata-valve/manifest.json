@@ -1,0 +1,26 @@
+{
+  "device_slug": "csf-shunt--medtronic--medtronic-ps-medical-strata-valve",
+  "artifact_folder": "csf-shunt--medtronic--medtronic-ps-medical-strata-valve",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 2,
+  "bytes": 1199,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K012052.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medtronic--medtronic-ps-medical-strata-valve/fda_raw/JXG/K012052.json",
+        "bytes": 616
+      },
+      {
+        "source": "pipeline/data/fda_raw/JXG/K040943.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medtronic--medtronic-ps-medical-strata-valve/fda_raw/JXG/K040943.json",
+        "bytes": 583
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

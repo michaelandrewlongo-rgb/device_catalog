@@ -1,0 +1,40 @@
+{
+  "device_slug": "cervical-plate--implex-corp--hedrocel-vertebral-body-replacement-model",
+  "artifact_folder": "cervical-plate--implex-corp--hedrocel-vertebral-body-replacement-model",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3620,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--implex-corp--hedrocel-vertebral-body-replacement-model.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--implex-corp--hedrocel-vertebral-body-replacement-model/enriched/cervical-plate--implex-corp--hedrocel-vertebral-body-replacement-model.json",
+        "bytes": 1482
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K010378.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--implex-corp--hedrocel-vertebral-body-replacement-model/fda_raw/MQP/K010378.json",
+        "bytes": 618
+      },
+      {
+        "source": "pipeline/data/fda_raw/MQP/K031823.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--implex-corp--hedrocel-vertebral-body-replacement-model/fda_raw/MQP/K031823.json",
+        "bytes": 619
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--implex-corp--hedrocel-vertebral-body-replacement-model.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--implex-corp--hedrocel-vertebral-body-replacement-model/merged/cervical-plate--implex-corp--hedrocel-vertebral-body-replacement-model.json",
+        "bytes": 901
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

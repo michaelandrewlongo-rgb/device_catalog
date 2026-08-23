@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--aesculap-inc--aesculap-meithke-progav-programmable-valve",
+  "artifact_folder": "csf-shunt--aesculap-inc--aesculap-meithke-progav-programmable-valve",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3559,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--aesculap-inc--aesculap-meithke-progav-programmable-valve.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aesculap-inc--aesculap-meithke-progav-programmable-valve/enriched/csf-shunt--aesculap-inc--aesculap-meithke-progav-programmable-valve.json",
+        "bytes": 2025
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K062009.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aesculap-inc--aesculap-meithke-progav-programmable-valve/fda_raw/JXG/K062009.json",
+        "bytes": 622
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--aesculap-inc--aesculap-meithke-progav-programmable-valve.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aesculap-inc--aesculap-meithke-progav-programmable-valve/merged/csf-shunt--aesculap-inc--aesculap-meithke-progav-programmable-valve.json",
+        "bytes": 912
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

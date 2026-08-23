@@ -1,0 +1,60 @@
+{
+  "device_name": "Prestige LP Cervical Disc",
+  "manufacturer": "medtronic",
+  "catalog_category": "cervical-disc",
+  "filename_stem": "cervical-disc--medtronic--prestige-lp-cervical-disc",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "Two-piece articulating metal-on-metal artificial cervical disc. First FDA-approved one- and two-level cervical disc with 10-year IDE study data. Proprietary titanium ceramic composite, no nickel/cobalt/chromium.",
+  "sizing_specs": "One- or two-level disc replacement C3-C7.",
+  "indications": "Reconstruction of disc C3-C7 following discectomy for radiculopathy or myelopathy.",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "10yr data: 4.3%% reoperation vs 14.4%% ACDF (two-level). MR Conditional 1.5/4T. PMA P060018.",
+  "deployment_steps": null,
+  "also_known_as": [
+    "Prestige LP"
+  ],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.medtronic.com/en-us/healthcare-professionals/products/spinal-orthopedic/cervical-spine/artificial-discs/prestige-lp-cervical-disc.html",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "sizing_specs": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "indications": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "also_known_as": {
+      "source": "scraper",
+      "confidence": 0.5
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--carlsmed-inc--aprevo-transforaminal-ibf",
+  "artifact_folder": "pedicle-screw--carlsmed-inc--aprevo-transforaminal-ibf",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2806,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--carlsmed-inc--aprevo-transforaminal-ibf.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--carlsmed-inc--aprevo-transforaminal-ibf/enriched/pedicle-screw--carlsmed-inc--aprevo-transforaminal-ibf.json",
+        "bytes": 1406
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K210542.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--carlsmed-inc--aprevo-transforaminal-ibf/fda_raw/MAX/K210542.json",
+        "bytes": 575
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--carlsmed-inc--aprevo-transforaminal-ibf.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--carlsmed-inc--aprevo-transforaminal-ibf/merged/pedicle-screw--carlsmed-inc--aprevo-transforaminal-ibf.json",
+        "bytes": 825
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

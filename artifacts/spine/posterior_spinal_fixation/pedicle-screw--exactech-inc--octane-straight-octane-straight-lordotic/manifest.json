@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--exactech-inc--octane-straight-octane-straight-lordotic",
+  "artifact_folder": "pedicle-screw--exactech-inc--octane-straight-octane-straight-lordotic",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3206,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--exactech-inc--octane-straight-octane-straight-lordotic.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--exactech-inc--octane-straight-octane-straight-lordotic/enriched/pedicle-screw--exactech-inc--octane-straight-octane-straight-lordotic.json",
+        "bytes": 1563
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K130434.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--exactech-inc--octane-straight-octane-straight-lordotic/fda_raw/MAX/K130434.json",
+        "bytes": 661
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--exactech-inc--octane-straight-octane-straight-lordotic.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--exactech-inc--octane-straight-octane-straight-lordotic/merged/pedicle-screw--exactech-inc--octane-straight-octane-straight-lordotic.json",
+        "bytes": 982
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

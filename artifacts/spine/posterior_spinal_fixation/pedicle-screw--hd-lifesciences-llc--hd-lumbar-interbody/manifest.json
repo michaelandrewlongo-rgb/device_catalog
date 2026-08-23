@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--hd-lifesciences-llc--hd-lumbar-interbody",
+  "artifact_folder": "pedicle-screw--hd-lifesciences-llc--hd-lumbar-interbody",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2841,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--hd-lifesciences-llc--hd-lumbar-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--hd-lifesciences-llc--hd-lumbar-interbody/enriched/pedicle-screw--hd-lifesciences-llc--hd-lumbar-interbody.json",
+        "bytes": 1416
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K170676.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--hd-lifesciences-llc--hd-lumbar-interbody/fda_raw/MAX/K170676.json",
+        "bytes": 590
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--hd-lifesciences-llc--hd-lumbar-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--hd-lifesciences-llc--hd-lumbar-interbody/merged/pedicle-screw--hd-lifesciences-llc--hd-lumbar-interbody.json",
+        "bytes": 835
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

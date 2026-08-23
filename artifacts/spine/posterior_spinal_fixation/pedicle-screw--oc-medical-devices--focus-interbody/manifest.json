@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--oc-medical-devices--focus-interbody",
+  "artifact_folder": "pedicle-screw--oc-medical-devices--focus-interbody",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2801,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--oc-medical-devices--focus-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--oc-medical-devices--focus-interbody/enriched/pedicle-screw--oc-medical-devices--focus-interbody.json",
+        "bytes": 1402
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K221172.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--oc-medical-devices--focus-interbody/fda_raw/MAX/K221172.json",
+        "bytes": 578
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--oc-medical-devices--focus-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--oc-medical-devices--focus-interbody/merged/pedicle-screw--oc-medical-devices--focus-interbody.json",
+        "bytes": 821
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

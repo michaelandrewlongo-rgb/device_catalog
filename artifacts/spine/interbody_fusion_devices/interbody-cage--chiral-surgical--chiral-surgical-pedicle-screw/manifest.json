@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--chiral-surgical--chiral-surgical-pedicle-screw",
+  "artifact_folder": "interbody-cage--chiral-surgical--chiral-surgical-pedicle-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2898,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--chiral-surgical--chiral-surgical-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--chiral-surgical--chiral-surgical-pedicle-screw/enriched/interbody-cage--chiral-surgical--chiral-surgical-pedicle-screw.json",
+        "bytes": 1440
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K181995.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--chiral-surgical--chiral-surgical-pedicle-screw/fda_raw/NKB/K181995.json",
+        "bytes": 599
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--chiral-surgical--chiral-surgical-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--chiral-surgical--chiral-surgical-pedicle-screw/merged/interbody-cage--chiral-surgical--chiral-surgical-pedicle-screw.json",
+        "bytes": 859
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

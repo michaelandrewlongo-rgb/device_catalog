@@ -1,0 +1,50 @@
+{
+  "device_slug": "corpectomy--depuy--synthes-cervifix",
+  "artifact_folder": "corpectomy--depuy--synthes-cervifix",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 4497,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--depuy--synthes-cervifix.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--synthes-cervifix/enriched/corpectomy--depuy--synthes-cervifix.json",
+        "bytes": 1533
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K011969.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--synthes-cervifix/fda_raw/KWP/K011969.json",
+        "bytes": 543
+      },
+      {
+        "source": "pipeline/data/fda_raw/KWP/K990965.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--synthes-cervifix/fda_raw/KWP/K990965.json",
+        "bytes": 543
+      },
+      {
+        "source": "pipeline/data/fda_raw/KWP/K991089.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--synthes-cervifix/fda_raw/KWP/K991089.json",
+        "bytes": 543
+      },
+      {
+        "source": "pipeline/data/fda_raw/KWP/K994187.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--synthes-cervifix/fda_raw/KWP/K994187.json",
+        "bytes": 543
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--depuy--synthes-cervifix.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--synthes-cervifix/merged/corpectomy--depuy--synthes-cervifix.json",
+        "bytes": 792
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

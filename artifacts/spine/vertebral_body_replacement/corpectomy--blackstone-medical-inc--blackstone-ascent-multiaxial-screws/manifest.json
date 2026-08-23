@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--blackstone-medical-inc--blackstone-ascent-multiaxial-screws",
+  "artifact_folder": "corpectomy--blackstone-medical-inc--blackstone-ascent-multiaxial-screws",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2938,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--blackstone-medical-inc--blackstone-ascent-multiaxial-screws.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--blackstone-medical-inc--blackstone-ascent-multiaxial-screws/enriched/corpectomy--blackstone-medical-inc--blackstone-ascent-multiaxial-screws.json",
+        "bytes": 1450
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K073420.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--blackstone-medical-inc--blackstone-ascent-multiaxial-screws/fda_raw/KWP/K073420.json",
+        "bytes": 619
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--blackstone-medical-inc--blackstone-ascent-multiaxial-screws.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--blackstone-medical-inc--blackstone-ascent-multiaxial-screws/merged/corpectomy--blackstone-medical-inc--blackstone-ascent-multiaxial-screws.json",
+        "bytes": 869
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

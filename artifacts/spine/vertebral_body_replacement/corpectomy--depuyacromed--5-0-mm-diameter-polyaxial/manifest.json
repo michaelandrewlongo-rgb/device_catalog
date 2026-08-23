@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--depuyacromed--5-0-mm-diameter-polyaxial",
+  "artifact_folder": "corpectomy--depuyacromed--5-0-mm-diameter-polyaxial",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2956,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--depuyacromed--5-0-mm-diameter-polyaxial.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuyacromed--5-0-mm-diameter-polyaxial/enriched/corpectomy--depuyacromed--5-0-mm-diameter-polyaxial.json",
+        "bytes": 1468
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K022623.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuyacromed--5-0-mm-diameter-polyaxial/fda_raw/KWP/K022623.json",
+        "bytes": 601
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--depuyacromed--5-0-mm-diameter-polyaxial.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuyacromed--5-0-mm-diameter-polyaxial/merged/corpectomy--depuyacromed--5-0-mm-diameter-polyaxial.json",
+        "bytes": 887
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "device_slug": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+  "artifact_folder": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 6631,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology.json",
+        "artifact": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology/enriched/flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology.json",
+        "bytes": 2495
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/pma/P100018--pipeline-flex-embolization-device-with-shield-technology.json",
+        "artifact": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology/fda_raw/pma/P100018--pipeline-flex-embolization-device-with-shield-technology.json",
+        "bytes": 630
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology.json",
+        "artifact": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology/merged/flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology.json",
+        "bytes": 1889
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/medtronic/pipeline-flex-embolization-device-with-shield-technology.json",
+        "artifact": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology/scraper_raw/medtronic/pipeline-flex-embolization-device-with-shield-technology.json",
+        "bytes": 1617
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "flow-diverter",
+    "label": "Flow diverters noted as separate exemplar"
+  }
+}

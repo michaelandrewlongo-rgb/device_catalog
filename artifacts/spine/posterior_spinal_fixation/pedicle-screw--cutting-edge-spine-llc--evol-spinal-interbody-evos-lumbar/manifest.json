@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--cutting-edge-spine-llc--evol-spinal-interbody-evos-lumbar",
+  "artifact_folder": "pedicle-screw--cutting-edge-spine-llc--evol-spinal-interbody-evos-lumbar",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3064,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--cutting-edge-spine-llc--evol-spinal-interbody-evos-lumbar.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--cutting-edge-spine-llc--evol-spinal-interbody-evos-lumbar/enriched/pedicle-screw--cutting-edge-spine-llc--evol-spinal-interbody-evos-lumbar.json",
+        "bytes": 1500
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K180891.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--cutting-edge-spine-llc--evol-spinal-interbody-evos-lumbar/fda_raw/MAX/K180891.json",
+        "bytes": 645
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--cutting-edge-spine-llc--evol-spinal-interbody-evos-lumbar.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--cutting-edge-spine-llc--evol-spinal-interbody-evos-lumbar/merged/pedicle-screw--cutting-edge-spine-llc--evol-spinal-interbody-evos-lumbar.json",
+        "bytes": 919
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

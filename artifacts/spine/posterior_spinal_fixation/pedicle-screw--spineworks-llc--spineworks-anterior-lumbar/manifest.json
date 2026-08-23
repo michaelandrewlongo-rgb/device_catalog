@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--spineworks-llc--spineworks-anterior-lumbar",
+  "artifact_folder": "pedicle-screw--spineworks-llc--spineworks-anterior-lumbar",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2862,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--spineworks-llc--spineworks-anterior-lumbar.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spineworks-llc--spineworks-anterior-lumbar/enriched/pedicle-screw--spineworks-llc--spineworks-anterior-lumbar.json",
+        "bytes": 1427
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K133340.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spineworks-llc--spineworks-anterior-lumbar/fda_raw/MAX/K133340.json",
+        "bytes": 589
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--spineworks-llc--spineworks-anterior-lumbar.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spineworks-llc--spineworks-anterior-lumbar/merged/pedicle-screw--spineworks-llc--spineworks-anterior-lumbar.json",
+        "bytes": 846
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

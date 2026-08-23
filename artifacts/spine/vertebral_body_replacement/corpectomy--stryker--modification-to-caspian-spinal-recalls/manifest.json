@@ -1,0 +1,21 @@
+{
+  "device_slug": "corpectomy--stryker--modification-to-caspian-spinal-recalls",
+  "artifact_folder": "corpectomy--stryker--modification-to-caspian-spinal-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 406,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/corpectomy--stryker--modification-to-caspian-spinal-recalls.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--stryker--modification-to-caspian-spinal-recalls/extracted/fda_safety/corpectomy--stryker--modification-to-caspian-spinal-recalls.json",
+        "bytes": 406
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K082608",
+  "clearance_date": "2008-10-07",
+  "device_class": 2,
+  "manufacturer_canonical": "stryker",
+  "manufacturer_raw": "Stryker Spine",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "RADIUS SPINAL SYSTEM, VITALLIUM ROD #486613601",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--stryker--radius-spinal-vitallium-rod-486613601",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf08/K082608.pdf"
+}

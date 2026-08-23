@@ -1,0 +1,28 @@
+{
+  "device_name": "GIBRALT  OCCIPITAL PLATE SCREWS, SET SCREW, GIBRALT OCCIPITAL SYSTEM ARTICULATING ROD, GIBRALT OCCIPITAL PLATES",
+  "manufacturer": "exactech-inc",
+  "catalog_category": "corpectomy",
+  "filename_stem": "corpectomy--exactech-inc--gibralt-occipital-plate-screws-set",
+  "clearance_type": "510k",
+  "clearance_number": "K121877",
+  "clearance_date": "2013-02-12",
+  "device_class": 2,
+  "device_name_fda": "GIBRALT  OCCIPITAL PLATE SCREWS, SET SCREW, GIBRALT OCCIPITAL SYSTEM ARTICULATING ROD, GIBRALT OCCIPITAL PLATES",
+  "product_code": "KWP",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf12/K121877.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

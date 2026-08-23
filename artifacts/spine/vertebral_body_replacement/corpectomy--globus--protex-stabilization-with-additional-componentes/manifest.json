@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--globus--protex-stabilization-with-additional-componentes",
+  "artifact_folder": "corpectomy--globus--protex-stabilization-with-additional-componentes",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2977,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--globus--protex-stabilization-with-additional-componentes.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--globus--protex-stabilization-with-additional-componentes/enriched/corpectomy--globus--protex-stabilization-with-additional-componentes.json",
+        "bytes": 1471
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K052069.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--globus--protex-stabilization-with-additional-componentes/fda_raw/KWP/K052069.json",
+        "bytes": 616
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--globus--protex-stabilization-with-additional-componentes.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--globus--protex-stabilization-with-additional-componentes/merged/corpectomy--globus--protex-stabilization-with-additional-componentes.json",
+        "bytes": 890
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

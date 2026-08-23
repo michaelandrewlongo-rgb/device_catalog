@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--alphatec-spine-inc--guided-lateral-interbody-fusion-glif",
+  "artifact_folder": "pedicle-screw--alphatec-spine-inc--guided-lateral-interbody-fusion-glif",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3387,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--alphatec-spine-inc--guided-lateral-interbody-fusion-glif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--alphatec-spine-inc--guided-lateral-interbody-fusion-glif/enriched/pedicle-screw--alphatec-spine-inc--guided-lateral-interbody-fusion-glif.json",
+        "bytes": 1875
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K090425.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--alphatec-spine-inc--guided-lateral-interbody-fusion-glif/fda_raw/MAX/K090425.json",
+        "bytes": 624
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--alphatec-spine-inc--guided-lateral-interbody-fusion-glif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--alphatec-spine-inc--guided-lateral-interbody-fusion-glif/merged/pedicle-screw--alphatec-spine-inc--guided-lateral-interbody-fusion-glif.json",
+        "bytes": 888
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--getset-surgical-sa--golif-lumbar-interbody-fusion",
+  "artifact_folder": "pedicle-screw--getset-surgical-sa--golif-lumbar-interbody-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2919,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--getset-surgical-sa--golif-lumbar-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--getset-surgical-sa--golif-lumbar-interbody-fusion/enriched/pedicle-screw--getset-surgical-sa--golif-lumbar-interbody-fusion.json",
+        "bytes": 1446
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K250186.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--getset-surgical-sa--golif-lumbar-interbody-fusion/fda_raw/MAX/K250186.json",
+        "bytes": 608
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--getset-surgical-sa--golif-lumbar-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--getset-surgical-sa--golif-lumbar-interbody-fusion/merged/pedicle-screw--getset-surgical-sa--golif-lumbar-interbody-fusion.json",
+        "bytes": 865
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

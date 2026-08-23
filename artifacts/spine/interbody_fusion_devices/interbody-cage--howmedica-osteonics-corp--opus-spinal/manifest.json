@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--howmedica-osteonics-corp--opus-spinal",
+  "artifact_folder": "interbody-cage--howmedica-osteonics-corp--opus-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3144,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--howmedica-osteonics-corp--opus-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--howmedica-osteonics-corp--opus-spinal/enriched/interbody-cage--howmedica-osteonics-corp--opus-spinal.json",
+        "bytes": 1730
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K030369.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--howmedica-osteonics-corp--opus-spinal/fda_raw/NKB/K030369.json",
+        "bytes": 591
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--howmedica-osteonics-corp--opus-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--howmedica-osteonics-corp--opus-spinal/merged/interbody-cage--howmedica-osteonics-corp--opus-spinal.json",
+        "bytes": 823
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

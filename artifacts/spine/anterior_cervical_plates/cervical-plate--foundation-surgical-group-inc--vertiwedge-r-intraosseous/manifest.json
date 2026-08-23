@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--foundation-surgical-group-inc--vertiwedge-r-intraosseous",
+  "artifact_folder": "cervical-plate--foundation-surgical-group-inc--vertiwedge-r-intraosseous",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2974,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--foundation-surgical-group-inc--vertiwedge-r-intraosseous.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--foundation-surgical-group-inc--vertiwedge-r-intraosseous/enriched/cervical-plate--foundation-surgical-group-inc--vertiwedge-r-intraosseous.json",
+        "bytes": 1456
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K241468.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--foundation-surgical-group-inc--vertiwedge-r-intraosseous/fda_raw/MQP/K241468.json",
+        "bytes": 635
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--foundation-surgical-group-inc--vertiwedge-r-intraosseous.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--foundation-surgical-group-inc--vertiwedge-r-intraosseous/merged/cervical-plate--foundation-surgical-group-inc--vertiwedge-r-intraosseous.json",
+        "bytes": 883
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

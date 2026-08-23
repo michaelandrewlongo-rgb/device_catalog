@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--omni-surgical-l-p--stingray-cervical-cage-shark-implant",
+  "artifact_folder": "pedicle-screw--omni-surgical-l-p--stingray-cervical-cage-shark-implant",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3349,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--omni-surgical-l-p--stingray-cervical-cage-shark-implant.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--omni-surgical-l-p--stingray-cervical-cage-shark-implant/enriched/pedicle-screw--omni-surgical-l-p--stingray-cervical-cage-shark-implant.json",
+        "bytes": 1617
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K102322.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--omni-surgical-l-p--stingray-cervical-cage-shark-implant/fda_raw/MAX/K102322.json",
+        "bytes": 696
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--omni-surgical-l-p--stingray-cervical-cage-shark-implant.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--omni-surgical-l-p--stingray-cervical-cage-shark-implant/merged/pedicle-screw--omni-surgical-l-p--stingray-cervical-cage-shark-implant.json",
+        "bytes": 1036
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

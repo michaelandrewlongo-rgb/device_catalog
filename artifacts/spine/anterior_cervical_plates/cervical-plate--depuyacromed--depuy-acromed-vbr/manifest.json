@@ -1,0 +1,40 @@
+{
+  "device_slug": "cervical-plate--depuyacromed--depuy-acromed-vbr",
+  "artifact_folder": "cervical-plate--depuyacromed--depuy-acromed-vbr",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3347,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--depuyacromed--depuy-acromed-vbr.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuyacromed--depuy-acromed-vbr/enriched/cervical-plate--depuyacromed--depuy-acromed-vbr.json",
+        "bytes": 1398
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K030833.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuyacromed--depuy-acromed-vbr/fda_raw/MQP/K030833.json",
+        "bytes": 566
+      },
+      {
+        "source": "pipeline/data/fda_raw/MQP/K031635.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuyacromed--depuy-acromed-vbr/fda_raw/MQP/K031635.json",
+        "bytes": 566
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--depuyacromed--depuy-acromed-vbr.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuyacromed--depuy-acromed-vbr/merged/cervical-plate--depuyacromed--depuy-acromed-vbr.json",
+        "bytes": 817
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

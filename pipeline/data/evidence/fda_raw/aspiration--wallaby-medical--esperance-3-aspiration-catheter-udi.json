@@ -1,0 +1,80 @@
+[
+  {
+    "device_family": "aspiration--wallaby-medical--esperance-3-aspiration-catheter",
+    "query_used": "brand_name:\"Esperance 3+ Aspiration Catheter System\" OR brand_name:\"Wallaby Esperance 3+\"",
+    "raw": {
+      "brand_name": "Esperance 3+ Aspiration Catheter System",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "company_name": "Shanghai Wallaby Medical Technologies Co., Inc.",
+      "device_count_in_base_package": "1",
+      "device_description": "The Esperance® 3+ Aspiration Catheter is a single-use, vascular catheter consisting of a single lumen, variable stiffness, composite catheter.",
+      "gmdn_terms": [
+        {
+          "code": "58173",
+          "code_status": "Active",
+          "definition": "A flexible or semi-flexible tube designed for the percutaneous, transluminal disruption and removal of clotted blood (i.e., a thrombus or thromboembolus) or other formed elements causing vascular obstruction in native/stented blood vessels, native/synthetic bypass grafts, and/or haemodialysis access grafts, through suction (aspiration) in conjunction with a syringe or dedicated suction pump system (pump not included). It may additionally be intended for infusion of fluids and/or used as a guide-catheter to facilitate introduction of a thrombectomy wire-net (not included) to remove residual thrombus. Collection containers may be included with the catheter. This is a single-use device.",
+          "implantable": "false",
+          "name": "Thrombectomy suction catheter"
+        }
+      ],
+      "has_donation_id_number": "false",
+      "has_expiration_date": "true",
+      "has_lot_or_batch_number": "true",
+      "has_manufacturing_date": "false",
+      "has_serial_number": "false",
+      "identifiers": [
+        {
+          "id": "06970908212932",
+          "issuing_agency": "GS1",
+          "type": "Primary"
+        }
+      ],
+      "is_combination_product": "false",
+      "is_direct_marking_exempt": "false",
+      "is_hct_p": "false",
+      "is_kit": "false",
+      "is_labeled_as_no_nrl": "false",
+      "is_labeled_as_nrl": "false",
+      "is_otc": "false",
+      "is_pm_exempt": "false",
+      "is_rx": "false",
+      "is_single_use": "true",
+      "labeler_duns_number": "544535295",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "premarket_submissions": [
+        {
+          "submission_number": "K240917",
+          "supplement_number": "000"
+        }
+      ],
+      "product_codes": [
+        {
+          "code": "NRY",
+          "name": "Catheter, Thrombus Retriever",
+          "openfda": {
+            "device_class": "2",
+            "device_name": "Catheter, Thrombus Retriever",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.1250"
+          }
+        }
+      ],
+      "public_device_record_key": "e64107a8-dcfa-4241-8975-a6d951bd828f",
+      "public_version_date": "2024-11-19",
+      "public_version_number": "1",
+      "public_version_status": "New",
+      "publish_date": "2024-11-11",
+      "record_status": "Published",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "version_or_model_number": "ASP3F160KIT"
+    },
+    "retrieved_at": "2026-04-15T10:18:38+00:00",
+    "source_id": "fda:udi:record-1",
+    "source_type": "fda",
+    "source_url": "https://api.fda.gov/device/udi.json?search=brand_name%3A%22Esperance%203%2B%20Aspiration%20Catheter%20System%22%20OR%20brand_name%3A%22Wallaby%20Esperance%203%2B%22",
+    "title": "Esperance 3+ Aspiration Catheter System"
+  }
+]

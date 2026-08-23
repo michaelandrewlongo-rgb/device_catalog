@@ -1,0 +1,28 @@
+{
+  "device_slug": "flow-diverter--stryker--surpass-streamline--ssed",
+  "artifact_folder": "flow-diverter--stryker--surpass-streamline--ssed",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 2,
+  "bytes": 709676,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/flow-diverter--stryker--surpass-streamline--ssed.pdf",
+        "artifact": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--stryker--surpass-streamline--ssed/data_by_device/flow-diverter--stryker--surpass-streamline--ssed.pdf",
+        "bytes": 704438
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/documents/flow-diverter--stryker--surpass-streamline--ssed.json",
+        "artifact": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--stryker--surpass-streamline--ssed/extracted/documents/flow-diverter--stryker--surpass-streamline--ssed.json",
+        "bytes": 5238
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "flow-diverter",
+    "label": "Flow diverters noted as separate exemplar"
+  }
+}

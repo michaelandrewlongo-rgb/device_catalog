@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K081107",
+  "clearance_date": "2008-10-10",
+  "device_class": 2,
+  "manufacturer_canonical": "stryker",
+  "manufacturer_raw": "K2m, Inc.",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "CASPIAN SPINAL SYSTEM, SCREWS, RODS, HOOKS, ROD CONNECTORS",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--stryker--caspian-spinal-screws-rods-hooks",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf08/K081107.pdf"
+}

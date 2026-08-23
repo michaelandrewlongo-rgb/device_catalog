@@ -1,0 +1,40 @@
+{
+  "device_slug": "pedicle-screw--medtronic--anteralign-spinal-with-titan-nanolock",
+  "artifact_folder": "pedicle-screw--medtronic--anteralign-spinal-with-titan-nanolock",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3665,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--medtronic--anteralign-spinal-with-titan-nanolock.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--anteralign-spinal-with-titan-nanolock/enriched/pedicle-screw--medtronic--anteralign-spinal-with-titan-nanolock.json",
+        "bytes": 1488
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K212524.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--anteralign-spinal-with-titan-nanolock/fda_raw/MAX/K212524.json",
+        "bytes": 638
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K214010.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--anteralign-spinal-with-titan-nanolock/fda_raw/MAX/K214010.json",
+        "bytes": 632
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--medtronic--anteralign-spinal-with-titan-nanolock.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--anteralign-spinal-with-titan-nanolock/merged/pedicle-screw--medtronic--anteralign-spinal-with-titan-nanolock.json",
+        "bytes": 907
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

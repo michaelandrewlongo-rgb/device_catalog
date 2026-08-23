@@ -1,0 +1,21 @@
+{
+  "device_slug": "cervical-plate--spinal-concepts-inc--spinal-concepts-inc-infix-recalls",
+  "artifact_folder": "cervical-plate--spinal-concepts-inc--spinal-concepts-inc-infix-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 459,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/cervical-plate--spinal-concepts-inc--spinal-concepts-inc-infix-recalls.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--spinal-concepts-inc--spinal-concepts-inc-infix-recalls/extracted/fda_safety/cervical-plate--spinal-concepts-inc--spinal-concepts-inc-infix-recalls.json",
+        "bytes": 459
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

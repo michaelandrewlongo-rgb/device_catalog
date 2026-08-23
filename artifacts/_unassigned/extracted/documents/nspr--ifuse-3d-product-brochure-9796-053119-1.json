@@ -1,0 +1,23 @@
+{
+  "source_pdf": "ifuse-3d-product-brochure-9796-053119-1.pdf",
+  "source_path": "C:\\Users\\Michael\\Documents\\device_catalog\\pipeline\\data\\extracted\\nspr\\pdfs\\ifuse-3d-product-brochure-9796-053119-1.pdf",
+  "device_name": "Ifuse 3D Product Brochure 9796 053119 1",
+  "manufacturer": "unknown",
+  "doc_type": "technique_guide",
+  "extraction_method": "pdfplumber_deepseek",
+  "extraction_source": "nspr_pdf",
+  "fields": {
+    "what_it_is": "iFuse-3D, The SI Joint Implant Allowing Bone Ingrowth, Ongrowth and Through Growth. 3D-Printed “Bone-Like” Surface may enhance osteointegration. Self-Harvesting Bone Technology: iFuse-3D captures bone during implantation that may be deposited into the implant. Surgeons can pack the implant with autograft or allograft material, 1-3 cc depending on implant size. Triangular design has 6X more rotational resistance than screws.",
+    "sizing_specs": "|  |  | 7.0 mm Diameter |\n| --- | --- | --- |\n|  | 35 | 7035M-90 |\n|  | 40 | 7040M-90 |\n| )mm( htgneL tnalp | 45 | 7045M-90 |\n|  | 50 | 7050M-90 |\n|  | 55 | 7055M-90 |\n|  | 60 | 7060M-90 |\n|  | 65 | 7065M-90 |\n|  | 70 | 7070M-90 |\n| mI | 75 | 7075M-90 |\n|  | 80 | 7080M-90 |\n|  | 85 | 7085M-90 |\n|  | 90 |  |",
+    "indications": "The iFuse Implant System® is intended for sacroiliac fusion for conditions including sacroiliac joint dysfunction that is a direct result of sacroiliac joint disruption and degenerative sacroiliitis. This includes conditions whose symptoms began during pregnancy or in the peripartum period and have persisted postpartum for more than 6 months. The iFuse Implant System is also intended for sacroiliac fusion to augment immobilization and stabilization of the sacroiliac joint in skeletally mature patients undergoing sacropelvic fixation as a part of a lumbar or thoracolumbar fusion.",
+    "contraindications": null,
+    "compatible_with": null,
+    "use_notes": null,
+    "also_known_as": null
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "sizing_specs": 0.7,
+    "indications": 0.7
+  }
+}

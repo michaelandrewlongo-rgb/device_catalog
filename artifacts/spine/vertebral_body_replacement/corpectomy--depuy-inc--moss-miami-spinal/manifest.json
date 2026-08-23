@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--depuy-inc--moss-miami-spinal",
+  "artifact_folder": "corpectomy--depuy-inc--moss-miami-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2738,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--depuy-inc--moss-miami-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy-inc--moss-miami-spinal/enriched/corpectomy--depuy-inc--moss-miami-spinal.json",
+        "bytes": 1384
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K962628.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy-inc--moss-miami-spinal/fda_raw/KWP/K962628.json",
+        "bytes": 551
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--depuy-inc--moss-miami-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy-inc--moss-miami-spinal/merged/corpectomy--depuy-inc--moss-miami-spinal.json",
+        "bytes": 803
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--baxano-surgical-inc--baxano-surgical-mis-spinal",
+  "artifact_folder": "interbody-cage--baxano-surgical-inc--baxano-surgical-mis-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2904,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--baxano-surgical-inc--baxano-surgical-mis-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--baxano-surgical-inc--baxano-surgical-mis-spinal/enriched/interbody-cage--baxano-surgical-inc--baxano-surgical-mis-spinal.json",
+        "bytes": 1439
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K133743.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--baxano-surgical-inc--baxano-surgical-mis-spinal/fda_raw/NKB/K133743.json",
+        "bytes": 607
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--baxano-surgical-inc--baxano-surgical-mis-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--baxano-surgical-inc--baxano-surgical-mis-spinal/merged/interbody-cage--baxano-surgical-inc--baxano-surgical-mis-spinal.json",
+        "bytes": 858
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

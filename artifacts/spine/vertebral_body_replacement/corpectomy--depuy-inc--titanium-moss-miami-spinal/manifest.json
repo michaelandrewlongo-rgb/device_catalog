@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--depuy-inc--titanium-moss-miami-spinal",
+  "artifact_folder": "corpectomy--depuy-inc--titanium-moss-miami-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2810,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--depuy-inc--titanium-moss-miami-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy-inc--titanium-moss-miami-spinal/enriched/corpectomy--depuy-inc--titanium-moss-miami-spinal.json",
+        "bytes": 1411
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K955348.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy-inc--titanium-moss-miami-spinal/fda_raw/KWP/K955348.json",
+        "bytes": 569
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--depuy-inc--titanium-moss-miami-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy-inc--titanium-moss-miami-spinal/merged/corpectomy--depuy-inc--titanium-moss-miami-spinal.json",
+        "bytes": 830
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

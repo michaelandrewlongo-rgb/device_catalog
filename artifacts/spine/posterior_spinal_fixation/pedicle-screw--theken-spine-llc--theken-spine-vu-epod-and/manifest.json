@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--theken-spine-llc--theken-spine-vu-epod-and",
+  "artifact_folder": "pedicle-screw--theken-spine-llc--theken-spine-vu-epod-and",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2900,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--theken-spine-llc--theken-spine-vu-epod-and.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--theken-spine-llc--theken-spine-vu-epod-and/enriched/pedicle-screw--theken-spine-llc--theken-spine-vu-epod-and.json",
+        "bytes": 1441
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K082712.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--theken-spine-llc--theken-spine-vu-epod-and/fda_raw/MAX/K082712.json",
+        "bytes": 599
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--theken-spine-llc--theken-spine-vu-epod-and.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--theken-spine-llc--theken-spine-vu-epod-and/merged/pedicle-screw--theken-spine-llc--theken-spine-vu-epod-and.json",
+        "bytes": 860
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

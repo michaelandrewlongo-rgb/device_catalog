@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K071377",
+  "clearance_date": "2007-08-06",
+  "device_class": 2,
+  "manufacturer_canonical": "zimmer-biomet",
+  "manufacturer_raw": "Biomet Spine",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "POLARIS BE RODS",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--zimmer-biomet--polaris-be-rods",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf07/K071377.pdf"
+}

@@ -1,0 +1,40 @@
+{
+  "device_slug": "pedicle-screw--nexus-spine-llc--tranquil-l-interbody",
+  "artifact_folder": "pedicle-screw--nexus-spine-llc--tranquil-l-interbody",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3401,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--nexus-spine-llc--tranquil-l-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nexus-spine-llc--tranquil-l-interbody/enriched/pedicle-screw--nexus-spine-llc--tranquil-l-interbody.json",
+        "bytes": 1411
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K181702.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nexus-spine-llc--tranquil-l-interbody/fda_raw/MAX/K181702.json",
+        "bytes": 580
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K233375.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nexus-spine-llc--tranquil-l-interbody/fda_raw/MAX/K233375.json",
+        "bytes": 580
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--nexus-spine-llc--tranquil-l-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nexus-spine-llc--tranquil-l-interbody/merged/pedicle-screw--nexus-spine-llc--tranquil-l-interbody.json",
+        "bytes": 830
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

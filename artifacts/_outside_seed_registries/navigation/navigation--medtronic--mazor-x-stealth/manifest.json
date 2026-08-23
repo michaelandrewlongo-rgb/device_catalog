@@ -1,0 +1,21 @@
+{
+  "device_slug": "navigation--medtronic--mazor-x-stealth",
+  "artifact_folder": "navigation--medtronic--mazor-x-stealth",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 8848,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/navigation--medtronic--mazor-x-stealth--knowledge.md",
+        "artifact": "artifacts/_outside_seed_registries/navigation/navigation--medtronic--mazor-x-stealth/data_by_device/navigation--medtronic--mazor-x-stealth--knowledge.md",
+        "bytes": 8848
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "navigation",
+    "label": "Outside listed seed registries"
+  }
+}

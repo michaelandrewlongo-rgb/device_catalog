@@ -1,0 +1,42 @@
+{
+  "device_slug": "corpectomy--medicrea--passmed-spinal",
+  "artifact_folder": "corpectomy--medicrea--passmed-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3629,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--medicrea--passmed-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medicrea--passmed-spinal/enriched/corpectomy--medicrea--passmed-spinal.json",
+        "bytes": 1665
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/corpectomy--medicrea--passmed-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medicrea--passmed-spinal/extracted/fda_structured/corpectomy--medicrea--passmed-spinal.json",
+        "bytes": 632
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K032094.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medicrea--passmed-spinal/fda_raw/KWP/K032094.json",
+        "bytes": 540
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--medicrea--passmed-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medicrea--passmed-spinal/merged/corpectomy--medicrea--passmed-spinal.json",
+        "bytes": 792
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

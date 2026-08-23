@@ -1,0 +1,28 @@
+{
+  "device_name": "CAPSTONE Spinal System, CLYDESDALE PTC  Spinal System, CRESCENT Spinal System, CRESCENT  Spinal System Titanium, DIVERGENCE-L Anterior/Oblique Lumbar Fusion System",
+  "manufacturer": "medtronic",
+  "catalog_category": "pedicle-screw",
+  "filename_stem": "pedicle-screw--medtronic--capstone-spinal-clydesdale-ptc-spinal",
+  "clearance_type": "510k",
+  "clearance_number": "K191788",
+  "clearance_date": "2020-03-23",
+  "device_class": 2,
+  "device_name_fda": "CAPSTONE Spinal System, CLYDESDALE PTC  Spinal System, CRESCENT Spinal System, CRESCENT  Spinal System Titanium, DIVERGENCE-L Anterior/Oblique Lumbar Fusion System",
+  "product_code": "MAX",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf19/K191788.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

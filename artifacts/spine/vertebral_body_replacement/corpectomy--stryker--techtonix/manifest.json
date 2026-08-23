@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--stryker--techtonix",
+  "artifact_folder": "corpectomy--stryker--techtonix",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2928,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--stryker--techtonix.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--stryker--techtonix/enriched/corpectomy--stryker--techtonix.json",
+        "bytes": 1620
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K050189.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--stryker--techtonix/fda_raw/KWP/K050189.json",
+        "bytes": 533
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--stryker--techtonix.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--stryker--techtonix/merged/corpectomy--stryker--techtonix.json",
+        "bytes": 775
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

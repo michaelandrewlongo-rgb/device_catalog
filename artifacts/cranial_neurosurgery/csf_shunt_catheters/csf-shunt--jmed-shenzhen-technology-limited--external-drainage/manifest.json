@@ -1,0 +1,47 @@
+{
+  "device_slug": "csf-shunt--jmed-shenzhen-technology-limited--external-drainage",
+  "artifact_folder": "csf-shunt--jmed-shenzhen-technology-limited--external-drainage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 2721341,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/csf-shunt/parsed/fda_summaries/csf-shunt--jmed-shenzhen-technology-limited--external-drainage--510k.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--jmed-shenzhen-technology-limited--external-drainage/510k/csf-shunt/parsed/fda_summaries/csf-shunt--jmed-shenzhen-technology-limited--external-drainage--510k.json",
+        "bytes": 32048
+      },
+      {
+        "source": "pipeline/data/510k/csf-shunt/pdfs/csf-shunt--jmed-shenzhen-technology-limited--external-drainage--510k.pdf",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--jmed-shenzhen-technology-limited--external-drainage/510k/csf-shunt/pdfs/csf-shunt--jmed-shenzhen-technology-limited--external-drainage--510k.pdf",
+        "bytes": 2670593
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--jmed-shenzhen-technology-limited--external-drainage.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--jmed-shenzhen-technology-limited--external-drainage/enriched/csf-shunt--jmed-shenzhen-technology-limited--external-drainage.json",
+        "bytes": 17237
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K221694.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--jmed-shenzhen-technology-limited--external-drainage/fda_raw/JXG/K221694.json",
+        "bytes": 616
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--jmed-shenzhen-technology-limited--external-drainage.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--jmed-shenzhen-technology-limited--external-drainage/merged/csf-shunt--jmed-shenzhen-technology-limited--external-drainage.json",
+        "bytes": 847
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

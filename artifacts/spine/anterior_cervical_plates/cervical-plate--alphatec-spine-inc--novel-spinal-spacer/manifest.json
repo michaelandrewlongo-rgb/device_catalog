@@ -1,0 +1,42 @@
+{
+  "device_slug": "cervical-plate--alphatec-spine-inc--novel-spinal-spacer",
+  "artifact_folder": "cervical-plate--alphatec-spine-inc--novel-spinal-spacer",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 4250,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--alphatec-spine-inc--novel-spinal-spacer.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--alphatec-spine-inc--novel-spinal-spacer/enriched/cervical-plate--alphatec-spine-inc--novel-spinal-spacer.json",
+        "bytes": 2217
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/cervical-plate--alphatec-spine-inc--novel-spinal-spacer.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--alphatec-spine-inc--novel-spinal-spacer/extracted/fda_structured/cervical-plate--alphatec-spine-inc--novel-spinal-spacer.json",
+        "bytes": 608
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K080699.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--alphatec-spine-inc--novel-spinal-spacer/fda_raw/MQP/K080699.json",
+        "bytes": 590
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--alphatec-spine-inc--novel-spinal-spacer.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--alphatec-spine-inc--novel-spinal-spacer/merged/cervical-plate--alphatec-spine-inc--novel-spinal-spacer.json",
+        "bytes": 835
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

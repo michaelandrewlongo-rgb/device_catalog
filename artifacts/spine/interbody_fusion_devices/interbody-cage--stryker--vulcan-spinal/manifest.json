@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--stryker--vulcan-spinal",
+  "artifact_folder": "interbody-cage--stryker--vulcan-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3198,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--stryker--vulcan-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker--vulcan-spinal/enriched/interbody-cage--stryker--vulcan-spinal.json",
+        "bytes": 1858
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K253545.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker--vulcan-spinal/fda_raw/NKB/K253545.json",
+        "bytes": 545
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--stryker--vulcan-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker--vulcan-spinal/merged/interbody-cage--stryker--vulcan-spinal.json",
+        "bytes": 795
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

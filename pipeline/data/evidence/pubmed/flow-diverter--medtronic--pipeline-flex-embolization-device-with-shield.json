@@ -1,0 +1,42 @@
+[
+  {
+    "device_family": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield",
+    "query_used": "\"Pipeline Flex Embolization Device with Shield Technology\" OR \"Pipeline Flex\" OR \"Pipeline Embolization Device\" OR \"Pipeline Shield\"",
+    "raw": {
+      "abstract": "The Pipeline Flex Embolization Device with Shield technology (PED-Shield [Medtronic, Dublin, Ireland]) is a third-generation flow diverter. Surface modification of the mesh with phosphorylcholine covalently bound to the metal struts aims to reduce thrombogenicity. In the present study, we report the results from the first U.S. series of patients with intracranial aneurysms treated with the PED-Shield and a comprehensive systematic literature review.\nWe retrospectively collected the patient demographics, aneurysm characteristics, procedural details, and periprocedural complications from our prospectively maintained endovascular database (April 2021 to July 2021). Our literature review encompassed 3 databases (PubMed, Embase, and MEDLINE).\nTen patients with 11 anterior circulation unruptured wide-necked aneurysms (10 saccular, 1 fusiform) were included. The average patient age was 64.7 years (range, 45-86 years), and 9 were women. One device demonstrated insufficient distal opening. No other technical issues or intraprocedural complications had occurred. After the procedure, 1 patient had developed a groin hematoma and 1 had experienced a small intracranial hemorrhage, with no clinical repercussions. All patients were discharged with dual-antiplatelet therapy. In the review, we identified 15 studies. Most had been conducted in Europe and South America and 3 were U.S. case reports of compassionate use of the device.\nIn our initial periprocedural experience with the PED-Shield for intracranial aneurysm treatment, the device demonstrated an excellent performance and no major complications. Further studies are required to evaluate the long-term follow-up results and the safety of different antiplatelet regimens.",
+      "doi": "10.1016/j.wneu.2021.12.031",
+      "journal": "World neurosurgery",
+      "matched_device_family": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield",
+      "pmid": "34920157",
+      "publication_date": "2022-Mar",
+      "query_used": "\"Pipeline Flex Embolization Device with Shield Technology\" OR \"Pipeline Flex\" OR \"Pipeline Embolization Device\" OR \"Pipeline Shield\"",
+      "source_retrieved_at": "2026-04-15T10:10:57+00:00",
+      "title": "First U.S. Experience Using the Pipeline Flex Embolization Device with Shield Technology for Treatment of Intracranial Aneurysms."
+    },
+    "retrieved_at": "2026-04-15T10:10:57+00:00",
+    "source_id": "pubmed:34920157",
+    "source_type": "pubmed",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/34920157/",
+    "title": "First U.S. Experience Using the Pipeline Flex Embolization Device with Shield Technology for Treatment of Intracranial Aneurysms."
+  },
+  {
+    "device_family": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield",
+    "query_used": "\"Pipeline Flex Embolization Device with Shield Technology\" OR \"Pipeline Flex\" OR \"Pipeline Embolization Device\" OR \"Pipeline Shield\"",
+    "raw": {
+      "abstract": "Ruptured blister, dissecting, and iatrogenic pseudoaneurysms are rare pathologies that pose significant challenges from a treatment standpoint. Endovascular treatment via flow diversion represents an increasingly popular option; however, drawbacks include the requirement for dual antiplatelet therapy and the potential for thromboembolic complications, particularly acute complications in the ruptured setting. The Pipeline Flex embolization device with Shield Technology (PED-Shield) offers reduced material thrombogenicity, which may aid in the treatment of ruptured internal carotid artery pseudoaneurysms.\nThe authors conducted a multi-institution, retrospective case series to determine the safety and efficacy of PED-Shield for the treatment of ruptured blister, dissecting, and iatrogenic pseudoaneurysms of the internal carotid artery. Clinical, radiographic, treatment, and outcomes data were collected.\nThirty-three patients were included in the final analysis. Seventeen underwent placement of a single device, and 16 underwent placement of two devices. No thromboembolic complications occurred. Four patients were maintained on aspirin alone, and all others were treated with long-term dual antiplatelet therapy. Among patients with 3-month follow-up, 93.8% had a modified Rankin Scale score of 0-2. Complete occlusion at follow-up was observed in 82.6% of patients.\nPED-Shield represents a new option for the treatment of ruptured blister, dissecting, and iatrogenic pseudoaneurysms of the internal carotid artery. The reduced material thrombogenicity appeared to improve the safety of the PED-Shield device, as this series demonstrated no thromboembolic complications even among patients treated with only single antiplatelet therapy. The efficacy of PED-Shield reported in this series, particularly with placement of two devices, demonstrates its potential as a first-line treatment option for these pathologies.",
+      "doi": "10.3171/2023.2.FOCUS233",
+      "journal": "Neurosurgical focus",
+      "matched_device_family": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield",
+      "pmid": "37127036",
+      "publication_date": "2023-May",
+      "query_used": "\"Pipeline Flex Embolization Device with Shield Technology\" OR \"Pipeline Flex\" OR \"Pipeline Embolization Device\" OR \"Pipeline Shield\"",
+      "source_retrieved_at": "2026-04-15T10:10:57+00:00",
+      "title": "Safety and efficacy of the Pipeline Flex embolization device with Shield Technology for the acute treatment of ruptured internal carotid artery pseudoaneurysms: a multi-institution case series."
+    },
+    "retrieved_at": "2026-04-15T10:10:57+00:00",
+    "source_id": "pubmed:37127036",
+    "source_type": "pubmed",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/37127036/",
+    "title": "Safety and efficacy of the Pipeline Flex embolization device with Shield Technology for the acute treatment of ruptured internal carotid artery pseudoaneurysms: a multi-institution case series."
+  }
+]

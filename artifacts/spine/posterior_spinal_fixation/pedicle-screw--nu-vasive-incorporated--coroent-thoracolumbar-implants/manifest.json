@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--nu-vasive-incorporated--coroent-thoracolumbar-implants",
+  "artifact_folder": "pedicle-screw--nu-vasive-incorporated--coroent-thoracolumbar-implants",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2915,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--nu-vasive-incorporated--coroent-thoracolumbar-implants.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nu-vasive-incorporated--coroent-thoracolumbar-implants/enriched/pedicle-screw--nu-vasive-incorporated--coroent-thoracolumbar-implants.json",
+        "bytes": 1441
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K140659.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nu-vasive-incorporated--coroent-thoracolumbar-implants/fda_raw/MAX/K140659.json",
+        "bytes": 614
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--nu-vasive-incorporated--coroent-thoracolumbar-implants.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nu-vasive-incorporated--coroent-thoracolumbar-implants/merged/pedicle-screw--nu-vasive-incorporated--coroent-thoracolumbar-implants.json",
+        "bytes": 860
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

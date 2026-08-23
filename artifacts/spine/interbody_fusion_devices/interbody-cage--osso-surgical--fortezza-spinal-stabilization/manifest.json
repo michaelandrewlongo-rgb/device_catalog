@@ -1,0 +1,42 @@
+{
+  "device_slug": "interbody-cage--osso-surgical--fortezza-spinal-stabilization",
+  "artifact_folder": "interbody-cage--osso-surgical--fortezza-spinal-stabilization",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3821,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--osso-surgical--fortezza-spinal-stabilization.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--osso-surgical--fortezza-spinal-stabilization/enriched/interbody-cage--osso-surgical--fortezza-spinal-stabilization.json",
+        "bytes": 1727
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--osso-surgical--fortezza-spinal-stabilization.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--osso-surgical--fortezza-spinal-stabilization/extracted/fda_structured/interbody-cage--osso-surgical--fortezza-spinal-stabilization.json",
+        "bytes": 646
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K162576.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--osso-surgical--fortezza-spinal-stabilization/fda_raw/NKB/K162576.json",
+        "bytes": 593
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--osso-surgical--fortezza-spinal-stabilization.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--osso-surgical--fortezza-spinal-stabilization/merged/interbody-cage--osso-surgical--fortezza-spinal-stabilization.json",
+        "bytes": 855
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

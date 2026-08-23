@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--zimmer-biomet--5-5-polaris-spinal",
+  "artifact_folder": "interbody-cage--zimmer-biomet--5-5-polaris-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3330,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--zimmer-biomet--5-5-polaris-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--zimmer-biomet--5-5-polaris-spinal/enriched/interbody-cage--zimmer-biomet--5-5-polaris-spinal.json",
+        "bytes": 1938
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K091067.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--zimmer-biomet--5-5-polaris-spinal/fda_raw/NKB/K091067.json",
+        "bytes": 570
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--zimmer-biomet--5-5-polaris-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--zimmer-biomet--5-5-polaris-spinal/merged/interbody-cage--zimmer-biomet--5-5-polaris-spinal.json",
+        "bytes": 822
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "device_slug": "interbody-cage--orthocircle-spine--orthocircle-spine-pedicle-screw",
+  "artifact_folder": "interbody-cage--orthocircle-spine--orthocircle-spine-pedicle-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3821,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--orthocircle-spine--orthocircle-spine-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--orthocircle-spine--orthocircle-spine-pedicle-screw/enriched/interbody-cage--orthocircle-spine--orthocircle-spine-pedicle-screw.json",
+        "bytes": 1718
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--orthocircle-spine--orthocircle-spine-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--orthocircle-spine--orthocircle-spine-pedicle-screw/extracted/fda_structured/interbody-cage--orthocircle-spine--orthocircle-spine-pedicle-screw.json",
+        "bytes": 625
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K193472.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--orthocircle-spine--orthocircle-spine-pedicle-screw/fda_raw/NKB/K193472.json",
+        "bytes": 609
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--orthocircle-spine--orthocircle-spine-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--orthocircle-spine--orthocircle-spine-pedicle-screw/merged/interbody-cage--orthocircle-spine--orthocircle-spine-pedicle-screw.json",
+        "bytes": 869
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

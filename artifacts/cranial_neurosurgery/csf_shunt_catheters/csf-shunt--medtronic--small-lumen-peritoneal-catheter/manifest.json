@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--medtronic--small-lumen-peritoneal-catheter",
+  "artifact_folder": "csf-shunt--medtronic--small-lumen-peritoneal-catheter",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3304,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--medtronic--small-lumen-peritoneal-catheter.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--medtronic--small-lumen-peritoneal-catheter/enriched/csf-shunt--medtronic--small-lumen-peritoneal-catheter.json",
+        "bytes": 1895
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K073139.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--medtronic--small-lumen-peritoneal-catheter/fda_raw/JXG/K073139.json",
+        "bytes": 580
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--medtronic--small-lumen-peritoneal-catheter.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--medtronic--small-lumen-peritoneal-catheter/merged/csf-shunt--medtronic--small-lumen-peritoneal-catheter.json",
+        "bytes": 829
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

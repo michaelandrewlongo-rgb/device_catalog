@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--reliance-medical-systems--reliance-lumber-ibf",
+  "artifact_folder": "pedicle-screw--reliance-medical-systems--reliance-lumber-ibf",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2875,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--reliance-medical-systems--reliance-lumber-ibf.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--reliance-medical-systems--reliance-lumber-ibf/enriched/pedicle-screw--reliance-medical-systems--reliance-lumber-ibf.json",
+        "bytes": 1426
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K180687.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--reliance-medical-systems--reliance-lumber-ibf/fda_raw/MAX/K180687.json",
+        "bytes": 604
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--reliance-medical-systems--reliance-lumber-ibf.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--reliance-medical-systems--reliance-lumber-ibf/merged/pedicle-screw--reliance-medical-systems--reliance-lumber-ibf.json",
+        "bytes": 845
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "device_slug": "csf-shunt--integra--osv-ii",
+  "artifact_folder": "csf-shunt--integra--osv-ii",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3783,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--integra--osv-ii.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--osv-ii/enriched/csf-shunt--integra--osv-ii.json",
+        "bytes": 1996
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/csf-shunt--integra--osv-ii.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--osv-ii/extracted/fda_structured/csf-shunt--integra--osv-ii.json",
+        "bytes": 498
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K081773.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--osv-ii/fda_raw/JXG/K081773.json",
+        "bytes": 539
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--integra--osv-ii.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--osv-ii/merged/csf-shunt--integra--osv-ii.json",
+        "bytes": 750
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

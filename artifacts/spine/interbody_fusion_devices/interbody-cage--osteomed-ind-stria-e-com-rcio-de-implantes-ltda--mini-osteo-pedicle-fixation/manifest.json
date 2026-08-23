@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--osteomed-ind-stria-e-com-rcio-de-implantes-ltda--mini-osteo-pedicle-fixation",
+  "artifact_folder": "interbody-cage--osteomed-ind-stria-e-com-rcio-de-implantes-ltda--mini-osteo-pedicle-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3108,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--osteomed-ind-stria-e-com-rcio-de-implantes-ltda--mini-osteo-pedicle-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--osteomed-ind-stria-e-com-rcio-de-implantes-ltda--mini-osteo-pedicle-fixation/enriched/interbody-cage--osteomed-ind-stria-e-com-rcio-de-implantes-ltda--mini-osteo-pedicle-fixation.json",
+        "bytes": 1498
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K231443.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--osteomed-ind-stria-e-com-rcio-de-implantes-ltda--mini-osteo-pedicle-fixation/fda_raw/NKB/K231443.json",
+        "bytes": 693
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--osteomed-ind-stria-e-com-rcio-de-implantes-ltda--mini-osteo-pedicle-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--osteomed-ind-stria-e-com-rcio-de-implantes-ltda--mini-osteo-pedicle-fixation/merged/interbody-cage--osteomed-ind-stria-e-com-rcio-de-implantes-ltda--mini-osteo-pedicle-fixation.json",
+        "bytes": 917
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

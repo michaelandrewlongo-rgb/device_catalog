@@ -1,0 +1,52 @@
+{
+  "device_slug": "interbody-cage--spineology-inc--threshold-pedicular-fixation",
+  "artifact_folder": "interbody-cage--spineology-inc--threshold-pedicular-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 4913,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--spineology-inc--threshold-pedicular-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spineology-inc--threshold-pedicular-fixation/enriched/interbody-cage--spineology-inc--threshold-pedicular-fixation.json",
+        "bytes": 1674
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--spineology-inc--threshold-pedicular-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spineology-inc--threshold-pedicular-fixation/extracted/fda_structured/interbody-cage--spineology-inc--threshold-pedicular-fixation.json",
+        "bytes": 593
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K143403.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spineology-inc--threshold-pedicular-fixation/fda_raw/NKB/K143403.json",
+        "bytes": 596
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K161694.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spineology-inc--threshold-pedicular-fixation/fda_raw/NKB/K161694.json",
+        "bytes": 598
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K170251.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spineology-inc--threshold-pedicular-fixation/fda_raw/NKB/K170251.json",
+        "bytes": 598
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--spineology-inc--threshold-pedicular-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spineology-inc--threshold-pedicular-fixation/merged/interbody-cage--spineology-inc--threshold-pedicular-fixation.json",
+        "bytes": 854
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

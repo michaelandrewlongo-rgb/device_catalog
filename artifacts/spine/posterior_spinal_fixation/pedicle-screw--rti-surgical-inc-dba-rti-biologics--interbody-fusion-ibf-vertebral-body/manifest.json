@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--rti-surgical-inc-dba-rti-biologics--interbody-fusion-ibf-vertebral-body",
+  "artifact_folder": "pedicle-screw--rti-surgical-inc-dba-rti-biologics--interbody-fusion-ibf-vertebral-body",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3175,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--rti-surgical-inc-dba-rti-biologics--interbody-fusion-ibf-vertebral-body.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--rti-surgical-inc-dba-rti-biologics--interbody-fusion-ibf-vertebral-body/enriched/pedicle-screw--rti-surgical-inc-dba-rti-biologics--interbody-fusion-ibf-vertebral-body.json",
+        "bytes": 1534
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K170643.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--rti-surgical-inc-dba-rti-biologics--interbody-fusion-ibf-vertebral-body/fda_raw/MAX/K170643.json",
+        "bytes": 688
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--rti-surgical-inc-dba-rti-biologics--interbody-fusion-ibf-vertebral-body.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--rti-surgical-inc-dba-rti-biologics--interbody-fusion-ibf-vertebral-body/merged/pedicle-screw--rti-surgical-inc-dba-rti-biologics--interbody-fusion-ibf-vertebral-body.json",
+        "bytes": 953
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

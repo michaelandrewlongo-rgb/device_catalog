@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--innvotec-surgical-inc--sec-vbr",
+  "artifact_folder": "cervical-plate--innvotec-surgical-inc--sec-vbr",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2731,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--innvotec-surgical-inc--sec-vbr.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--innvotec-surgical-inc--sec-vbr/enriched/cervical-plate--innvotec-surgical-inc--sec-vbr.json",
+        "bytes": 1372
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K091743.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--innvotec-surgical-inc--sec-vbr/fda_raw/MQP/K091743.json",
+        "bytes": 568
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--innvotec-surgical-inc--sec-vbr.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--innvotec-surgical-inc--sec-vbr/merged/cervical-plate--innvotec-surgical-inc--sec-vbr.json",
+        "bytes": 791
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

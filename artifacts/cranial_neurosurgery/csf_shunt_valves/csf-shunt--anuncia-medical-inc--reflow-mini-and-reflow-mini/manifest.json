@@ -1,0 +1,47 @@
+{
+  "device_slug": "csf-shunt--anuncia-medical-inc--reflow-mini-and-reflow-mini",
+  "artifact_folder": "csf-shunt--anuncia-medical-inc--reflow-mini-and-reflow-mini",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 1233976,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/csf-shunt/parsed/fda_summaries/csf-shunt--anuncia-medical-inc--reflow-mini-and-reflow-mini--510k.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--anuncia-medical-inc--reflow-mini-and-reflow-mini/510k/csf-shunt/parsed/fda_summaries/csf-shunt--anuncia-medical-inc--reflow-mini-and-reflow-mini--510k.json",
+        "bytes": 50659
+      },
+      {
+        "source": "pipeline/data/510k/csf-shunt/pdfs/csf-shunt--anuncia-medical-inc--reflow-mini-and-reflow-mini--510k.pdf",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--anuncia-medical-inc--reflow-mini-and-reflow-mini/510k/csf-shunt/pdfs/csf-shunt--anuncia-medical-inc--reflow-mini-and-reflow-mini--510k.pdf",
+        "bytes": 1155321
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--anuncia-medical-inc--reflow-mini-and-reflow-mini.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--anuncia-medical-inc--reflow-mini-and-reflow-mini/enriched/csf-shunt--anuncia-medical-inc--reflow-mini-and-reflow-mini.json",
+        "bytes": 26523
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K223603.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--anuncia-medical-inc--reflow-mini-and-reflow-mini/fda_raw/JXG/K223603.json",
+        "bytes": 606
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--anuncia-medical-inc--reflow-mini-and-reflow-mini.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--anuncia-medical-inc--reflow-mini-and-reflow-mini/merged/csf-shunt--anuncia-medical-inc--reflow-mini-and-reflow-mini.json",
+        "bytes": 867
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

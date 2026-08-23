@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--globus--fortify-tm-and-fortify-tm",
+  "artifact_folder": "cervical-plate--globus--fortify-tm-and-fortify-tm",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2897,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--globus--fortify-tm-and-fortify-tm.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--globus--fortify-tm-and-fortify-tm/enriched/cervical-plate--globus--fortify-tm-and-fortify-tm.json",
+        "bytes": 1442
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K112756.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--globus--fortify-tm-and-fortify-tm/fda_raw/MQP/K112756.json",
+        "bytes": 594
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--globus--fortify-tm-and-fortify-tm.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--globus--fortify-tm-and-fortify-tm/merged/cervical-plate--globus--fortify-tm-and-fortify-tm.json",
+        "bytes": 861
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

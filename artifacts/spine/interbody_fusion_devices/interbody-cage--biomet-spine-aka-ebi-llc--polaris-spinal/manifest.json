@@ -1,0 +1,42 @@
+{
+  "device_slug": "interbody-cage--biomet-spine-aka-ebi-llc--polaris-spinal",
+  "artifact_folder": "interbody-cage--biomet-spine-aka-ebi-llc--polaris-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3658,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--biomet-spine-aka-ebi-llc--polaris-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--biomet-spine-aka-ebi-llc--polaris-spinal/enriched/interbody-cage--biomet-spine-aka-ebi-llc--polaris-spinal.json",
+        "bytes": 1672
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--biomet-spine-aka-ebi-llc--polaris-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--biomet-spine-aka-ebi-llc--polaris-spinal/extracted/fda_structured/interbody-cage--biomet-spine-aka-ebi-llc--polaris-spinal.json",
+        "bytes": 555
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K133746.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--biomet-spine-aka-ebi-llc--polaris-spinal/fda_raw/NKB/K133746.json",
+        "bytes": 599
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--biomet-spine-aka-ebi-llc--polaris-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--biomet-spine-aka-ebi-llc--polaris-spinal/merged/interbody-cage--biomet-spine-aka-ebi-llc--polaris-spinal.json",
+        "bytes": 832
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

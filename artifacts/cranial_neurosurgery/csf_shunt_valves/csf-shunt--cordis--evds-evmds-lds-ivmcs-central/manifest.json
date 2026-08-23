@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--cordis--evds-evmds-lds-ivmcs-central",
+  "artifact_folder": "csf-shunt--cordis--evds-evmds-lds-ivmcs-central",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2877,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--cordis--evds-evmds-lds-ivmcs-central.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cordis--evds-evmds-lds-ivmcs-central/enriched/csf-shunt--cordis--evds-evmds-lds-ivmcs-central.json",
+        "bytes": 1439
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K855058.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cordis--evds-evmds-lds-ivmcs-central/fda_raw/JXG/K855058.json",
+        "bytes": 580
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--cordis--evds-evmds-lds-ivmcs-central.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cordis--evds-evmds-lds-ivmcs-central/merged/csf-shunt--cordis--evds-evmds-lds-ivmcs-central.json",
+        "bytes": 858
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

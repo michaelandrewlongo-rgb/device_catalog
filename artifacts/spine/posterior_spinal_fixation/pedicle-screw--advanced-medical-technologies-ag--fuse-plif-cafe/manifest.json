@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--advanced-medical-technologies-ag--fuse-plif-cafe",
+  "artifact_folder": "pedicle-screw--advanced-medical-technologies-ag--fuse-plif-cafe",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2856,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--advanced-medical-technologies-ag--fuse-plif-cafe.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--advanced-medical-technologies-ag--fuse-plif-cafe/enriched/pedicle-screw--advanced-medical-technologies-ag--fuse-plif-cafe.json",
+        "bytes": 1413
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K100945.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--advanced-medical-technologies-ag--fuse-plif-cafe/fda_raw/MAX/K100945.json",
+        "bytes": 611
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--advanced-medical-technologies-ag--fuse-plif-cafe.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--advanced-medical-technologies-ag--fuse-plif-cafe/merged/pedicle-screw--advanced-medical-technologies-ag--fuse-plif-cafe.json",
+        "bytes": 832
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

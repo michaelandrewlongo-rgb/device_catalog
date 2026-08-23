@@ -1,0 +1,28 @@
+{
+  "device_name": "MOBIS II ST SPINAL IMPLANT",
+  "manufacturer": "signus-medizintechnik-gmbh",
+  "catalog_category": "pedicle-screw",
+  "filename_stem": "pedicle-screw--signus-medizintechnik-gmbh--mobis-ii-st-spinal-implant",
+  "clearance_type": "510k",
+  "clearance_number": "K141405",
+  "clearance_date": "2014-09-16",
+  "device_class": 2,
+  "device_name_fda": "MOBIS II ST SPINAL IMPLANT",
+  "product_code": "MAX",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf14/K141405.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

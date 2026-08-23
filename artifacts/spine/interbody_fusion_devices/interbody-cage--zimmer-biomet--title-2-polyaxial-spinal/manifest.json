@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--zimmer-biomet--title-2-polyaxial-spinal",
+  "artifact_folder": "interbody-cage--zimmer-biomet--title-2-polyaxial-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3384,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--zimmer-biomet--title-2-polyaxial-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--zimmer-biomet--title-2-polyaxial-spinal/enriched/interbody-cage--zimmer-biomet--title-2-polyaxial-spinal.json",
+        "bytes": 1956
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K133086.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--zimmer-biomet--title-2-polyaxial-spinal/fda_raw/NKB/K133086.json",
+        "bytes": 588
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--zimmer-biomet--title-2-polyaxial-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--zimmer-biomet--title-2-polyaxial-spinal/merged/interbody-cage--zimmer-biomet--title-2-polyaxial-spinal.json",
+        "bytes": 840
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

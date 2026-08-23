@@ -1,0 +1,21 @@
+{
+  "device_slug": "sacroiliac-fusion--medtronic--the-rialto-si-fusion",
+  "artifact_folder": "sacroiliac-fusion--medtronic--the-rialto-si-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 595,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/OUR/K251395.json",
+        "artifact": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--medtronic--the-rialto-si-fusion/fda_raw/OUR/K251395.json",
+        "bytes": 595
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "sacroiliac-fusion",
+    "label": "Outside listed seed registries"
+  }
+}

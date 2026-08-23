@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--seaspine-inc--integra-expandable-interverebral-body-fusion",
+  "artifact_folder": "pedicle-screw--seaspine-inc--integra-expandable-interverebral-body-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3058,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--seaspine-inc--integra-expandable-interverebral-body-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--seaspine-inc--integra-expandable-interverebral-body-fusion/enriched/pedicle-screw--seaspine-inc--integra-expandable-interverebral-body-fusion.json",
+        "bytes": 1503
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K133418.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--seaspine-inc--integra-expandable-interverebral-body-fusion/fda_raw/MAX/K133418.json",
+        "bytes": 633
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--seaspine-inc--integra-expandable-interverebral-body-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--seaspine-inc--integra-expandable-interverebral-body-fusion/merged/pedicle-screw--seaspine-inc--integra-expandable-interverebral-body-fusion.json",
+        "bytes": 922
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

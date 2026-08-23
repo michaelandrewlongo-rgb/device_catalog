@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--qualgenix--mont-blanc-pedicle-screw-s",
+  "artifact_folder": "interbody-cage--qualgenix--mont-blanc-pedicle-screw-s",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2827,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--qualgenix--mont-blanc-pedicle-screw-s.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--qualgenix--mont-blanc-pedicle-screw-s/enriched/interbody-cage--qualgenix--mont-blanc-pedicle-screw-s.json",
+        "bytes": 1417
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K112684.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--qualgenix--mont-blanc-pedicle-screw-s/fda_raw/NKB/K112684.json",
+        "bytes": 574
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--qualgenix--mont-blanc-pedicle-screw-s.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--qualgenix--mont-blanc-pedicle-screw-s/merged/interbody-cage--qualgenix--mont-blanc-pedicle-screw-s.json",
+        "bytes": 836
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

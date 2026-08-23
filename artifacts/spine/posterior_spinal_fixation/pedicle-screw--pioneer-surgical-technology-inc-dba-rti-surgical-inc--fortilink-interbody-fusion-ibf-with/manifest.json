@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--pioneer-surgical-technology-inc-dba-rti-surgical-inc--fortilink-interbody-fusion-ibf-with",
+  "artifact_folder": "pedicle-screw--pioneer-surgical-technology-inc-dba-rti-surgical-inc--fortilink-interbody-fusion-ibf-with",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3334,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--pioneer-surgical-technology-inc-dba-rti-surgical-inc--fortilink-interbody-fusion-ibf-with.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--pioneer-surgical-technology-inc-dba-rti-surgical-inc--fortilink-interbody-fusion-ibf-with/enriched/pedicle-screw--pioneer-surgical-technology-inc-dba-rti-surgical-inc--fortilink-interbody-fusion-ibf-with.json",
+        "bytes": 1582
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K192718.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--pioneer-surgical-technology-inc-dba-rti-surgical-inc--fortilink-interbody-fusion-ibf-with/fda_raw/MAX/K192718.json",
+        "bytes": 751
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--pioneer-surgical-technology-inc-dba-rti-surgical-inc--fortilink-interbody-fusion-ibf-with.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--pioneer-surgical-technology-inc-dba-rti-surgical-inc--fortilink-interbody-fusion-ibf-with/merged/pedicle-screw--pioneer-surgical-technology-inc-dba-rti-surgical-inc--fortilink-interbody-fusion-ibf-with.json",
+        "bytes": 1001
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

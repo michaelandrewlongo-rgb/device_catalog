@@ -1,0 +1,47 @@
+{
+  "device_slug": "csf-shunt--integra--hakim-programmable-valves-hakim-precision",
+  "artifact_folder": "csf-shunt--integra--hakim-programmable-valves-hakim-precision",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 995039,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/csf-shunt/parsed/fda_summaries/csf-shunt--integra--hakim-programmable-valves-hakim-precision--510k.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--hakim-programmable-valves-hakim-precision/510k/csf-shunt/parsed/fda_summaries/csf-shunt--integra--hakim-programmable-valves-hakim-precision--510k.json",
+        "bytes": 20127
+      },
+      {
+        "source": "pipeline/data/510k/csf-shunt/pdfs/csf-shunt--integra--hakim-programmable-valves-hakim-precision--510k.pdf",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--hakim-programmable-valves-hakim-precision/510k/csf-shunt/pdfs/csf-shunt--integra--hakim-programmable-valves-hakim-precision--510k.pdf",
+        "bytes": 968628
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--integra--hakim-programmable-valves-hakim-precision.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--hakim-programmable-valves-hakim-precision/enriched/csf-shunt--integra--hakim-programmable-valves-hakim-precision.json",
+        "bytes": 4743
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K221840.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--hakim-programmable-valves-hakim-precision/fda_raw/JXG/K221840.json",
+        "bytes": 640
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--integra--hakim-programmable-valves-hakim-precision.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--hakim-programmable-valves-hakim-precision/merged/csf-shunt--integra--hakim-programmable-valves-hakim-precision.json",
+        "bytes": 901
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

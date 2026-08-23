@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--baxter-healthcare-corp--optyx",
+  "artifact_folder": "csf-shunt--baxter-healthcare-corp--optyx",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2689,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--baxter-healthcare-corp--optyx.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--baxter-healthcare-corp--optyx/enriched/csf-shunt--baxter-healthcare-corp--optyx.json",
+        "bytes": 1358
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K904883.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--baxter-healthcare-corp--optyx/fda_raw/JXG/K904883.json",
+        "bytes": 554
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--baxter-healthcare-corp--optyx.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--baxter-healthcare-corp--optyx/merged/csf-shunt--baxter-healthcare-corp--optyx.json",
+        "bytes": 777
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

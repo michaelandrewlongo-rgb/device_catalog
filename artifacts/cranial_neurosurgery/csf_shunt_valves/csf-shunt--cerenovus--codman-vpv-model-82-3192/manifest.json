@@ -1,0 +1,40 @@
+{
+  "device_slug": "csf-shunt--cerenovus--codman-vpv-model-82-3192",
+  "artifact_folder": "csf-shunt--cerenovus--codman-vpv-model-82-3192",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3381,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--cerenovus--codman-vpv-model-82-3192.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cerenovus--codman-vpv-model-82-3192/enriched/csf-shunt--cerenovus--codman-vpv-model-82-3192.json",
+        "bytes": 1405
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K050739.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cerenovus--codman-vpv-model-82-3192/fda_raw/JXG/K050739.json",
+        "bytes": 576
+      },
+      {
+        "source": "pipeline/data/fda_raw/JXG/K061876.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cerenovus--codman-vpv-model-82-3192/fda_raw/JXG/K061876.json",
+        "bytes": 576
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--cerenovus--codman-vpv-model-82-3192.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cerenovus--codman-vpv-model-82-3192/merged/csf-shunt--cerenovus--codman-vpv-model-82-3192.json",
+        "bytes": 824
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

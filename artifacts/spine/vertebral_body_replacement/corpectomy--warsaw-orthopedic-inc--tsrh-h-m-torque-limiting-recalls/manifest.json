@@ -1,0 +1,21 @@
+{
+  "device_slug": "corpectomy--warsaw-orthopedic-inc--tsrh-h-m-torque-limiting-recalls",
+  "artifact_folder": "corpectomy--warsaw-orthopedic-inc--tsrh-h-m-torque-limiting-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 417,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/corpectomy--warsaw-orthopedic-inc--tsrh-h-m-torque-limiting-recalls.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--warsaw-orthopedic-inc--tsrh-h-m-torque-limiting-recalls/extracted/fda_safety/corpectomy--warsaw-orthopedic-inc--tsrh-h-m-torque-limiting-recalls.json",
+        "bytes": 417
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

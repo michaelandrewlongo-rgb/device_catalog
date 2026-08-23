@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--interpore-cross-intl--ti-fenestrated-plate",
+  "artifact_folder": "corpectomy--interpore-cross-intl--ti-fenestrated-plate",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2803,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--interpore-cross-intl--ti-fenestrated-plate.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--interpore-cross-intl--ti-fenestrated-plate/enriched/corpectomy--interpore-cross-intl--ti-fenestrated-plate.json",
+        "bytes": 1401
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K031772.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--interpore-cross-intl--ti-fenestrated-plate/fda_raw/KWP/K031772.json",
+        "bytes": 582
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--interpore-cross-intl--ti-fenestrated-plate.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--interpore-cross-intl--ti-fenestrated-plate/merged/corpectomy--interpore-cross-intl--ti-fenestrated-plate.json",
+        "bytes": 820
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

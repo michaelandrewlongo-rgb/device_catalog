@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--seaspine-inc--seaspine-vbr",
+  "artifact_folder": "cervical-plate--seaspine-inc--seaspine-vbr",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2743,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--seaspine-inc--seaspine-vbr.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--seaspine-inc--seaspine-vbr/enriched/cervical-plate--seaspine-inc--seaspine-vbr.json",
+        "bytes": 1383
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K052170.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--seaspine-inc--seaspine-vbr/fda_raw/MQP/K052170.json",
+        "bytes": 558
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--seaspine-inc--seaspine-vbr.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--seaspine-inc--seaspine-vbr/merged/cervical-plate--seaspine-inc--seaspine-vbr.json",
+        "bytes": 802
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

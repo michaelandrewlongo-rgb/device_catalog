@@ -1,0 +1,28 @@
+{
+  "device_name": "JULIET\u00ae LL Lateral Lumbar Cage",
+  "manufacturer": "spineart",
+  "catalog_category": "pedicle-screw",
+  "filename_stem": "pedicle-screw--spineart--juliet-r-ll-lateral-lumbar",
+  "clearance_type": "510k",
+  "clearance_number": "K161888",
+  "clearance_date": "2016-09-12",
+  "device_class": 2,
+  "device_name_fda": "JULIET\u00ae LL Lateral Lumbar Cage",
+  "product_code": "MAX",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf16/K161888.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

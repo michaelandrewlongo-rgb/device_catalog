@@ -4,6 +4,7 @@ Maps FDA product codes to catalog categories, normalizes manufacturer names,
 and tracks which devices already exist in the catalog.
 """
 
+import os
 from pathlib import Path
 import re
 
@@ -14,18 +15,23 @@ CATALOG_ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = Path(__file__).resolve().parent / "data"
 EXTRACTED_DIR = DATA_DIR / "extracted"
 ENRICHED_DIR = DATA_DIR / "enriched"
+FDA_510K_DIR = DATA_DIR / "510k"
 
 def _load_env_key(filename: str, key: str) -> str | None:
     """Load a key from a simple KEY=VALUE env file."""
+    if os.environ.get(key):
+        return os.environ[key].strip()
     path = Path.home() / "Desktop" / filename
     if not path.exists():
         return None
+    value = None
     for line in path.read_text(encoding="utf-8").splitlines():
         if line.startswith(f"{key}="):
-            return line.split("=", 1)[1].strip()
-    return None
+            value = line.split("=", 1)[1].strip()
+    return value
 
 DEEPSEEK_API_KEY: str | None = _load_env_key("master_env.txt", "DEEPSEEK_API_KEY")
+OPENROUTER_API_KEY: str | None = _load_env_key("master_env.txt", "OPENROUTER_API_KEY")
 
 # --------------------------------------------------------------------------
 # FDA product code -> catalog category

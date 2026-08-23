@@ -1,0 +1,47 @@
+{
+  "device_slug": "csf-shunt--aesculap-inc--progav-programmable-shunt-progav-2",
+  "artifact_folder": "csf-shunt--aesculap-inc--progav-programmable-shunt-progav-2",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 166418,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/csf-shunt/parsed/fda_summaries/csf-shunt--aesculap-inc--progav-programmable-shunt-progav-2--510k.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aesculap-inc--progav-programmable-shunt-progav-2/510k/csf-shunt/parsed/fda_summaries/csf-shunt--aesculap-inc--progav-programmable-shunt-progav-2--510k.json",
+        "bytes": 28021
+      },
+      {
+        "source": "pipeline/data/510k/csf-shunt/pdfs/csf-shunt--aesculap-inc--progav-programmable-shunt-progav-2--510k.pdf",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aesculap-inc--progav-programmable-shunt-progav-2/510k/csf-shunt/pdfs/csf-shunt--aesculap-inc--progav-programmable-shunt-progav-2--510k.pdf",
+        "bytes": 130933
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--aesculap-inc--progav-programmable-shunt-progav-2.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aesculap-inc--progav-programmable-shunt-progav-2/enriched/csf-shunt--aesculap-inc--progav-programmable-shunt-progav-2.json",
+        "bytes": 5841
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K161853.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aesculap-inc--progav-programmable-shunt-progav-2/fda_raw/JXG/K161853.json",
+        "bytes": 649
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--aesculap-inc--progav-programmable-shunt-progav-2.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aesculap-inc--progav-programmable-shunt-progav-2/merged/csf-shunt--aesculap-inc--progav-programmable-shunt-progav-2.json",
+        "bytes": 974
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

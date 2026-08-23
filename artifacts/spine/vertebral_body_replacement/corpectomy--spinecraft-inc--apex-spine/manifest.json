@@ -1,0 +1,42 @@
+{
+  "device_slug": "corpectomy--spinecraft-inc--apex-spine",
+  "artifact_folder": "corpectomy--spinecraft-inc--apex-spine",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3587,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--spinecraft-inc--apex-spine.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--spinecraft-inc--apex-spine/enriched/corpectomy--spinecraft-inc--apex-spine.json",
+        "bytes": 1640
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/corpectomy--spinecraft-inc--apex-spine.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--spinecraft-inc--apex-spine/extracted/fda_structured/corpectomy--spinecraft-inc--apex-spine.json",
+        "bytes": 603
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K062513.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--spinecraft-inc--apex-spine/fda_raw/KWP/K062513.json",
+        "bytes": 552
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--spinecraft-inc--apex-spine.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--spinecraft-inc--apex-spine/merged/corpectomy--spinecraft-inc--apex-spine.json",
+        "bytes": 792
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

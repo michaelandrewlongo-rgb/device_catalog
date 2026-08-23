@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--zimmer-biomet--ldr-spine-usa-spine-tune",
+  "artifact_folder": "interbody-cage--zimmer-biomet--ldr-spine-usa-spine-tune",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3830,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--zimmer-biomet--ldr-spine-usa-spine-tune.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--zimmer-biomet--ldr-spine-usa-spine-tune/enriched/interbody-cage--zimmer-biomet--ldr-spine-usa-spine-tune.json",
+        "bytes": 2134
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K121103.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--zimmer-biomet--ldr-spine-usa-spine-tune/fda_raw/NKB/K121103.json",
+        "bytes": 678
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--zimmer-biomet--ldr-spine-usa-spine-tune.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--zimmer-biomet--ldr-spine-usa-spine-tune/merged/interbody-cage--zimmer-biomet--ldr-spine-usa-spine-tune.json",
+        "bytes": 1018
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

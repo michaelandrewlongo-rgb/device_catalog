@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--osteonics-corp--osteonics-long-arm-containment-ring",
+  "artifact_folder": "corpectomy--osteonics-corp--osteonics-long-arm-containment-ring",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2881,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--osteonics-corp--osteonics-long-arm-containment-ring.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--osteonics-corp--osteonics-long-arm-containment-ring/enriched/corpectomy--osteonics-corp--osteonics-long-arm-containment-ring.json",
+        "bytes": 1434
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K981452.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--osteonics-corp--osteonics-long-arm-containment-ring/fda_raw/KWP/K981452.json",
+        "bytes": 594
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--osteonics-corp--osteonics-long-arm-containment-ring.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--osteonics-corp--osteonics-long-arm-containment-ring/merged/corpectomy--osteonics-corp--osteonics-long-arm-containment-ring.json",
+        "bytes": 853
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

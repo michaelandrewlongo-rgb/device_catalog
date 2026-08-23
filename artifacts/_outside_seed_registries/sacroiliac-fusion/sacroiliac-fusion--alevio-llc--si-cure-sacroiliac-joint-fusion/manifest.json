@@ -1,0 +1,26 @@
+{
+  "device_slug": "sacroiliac-fusion--alevio-llc--si-cure-sacroiliac-joint-fusion",
+  "artifact_folder": "sacroiliac-fusion--alevio-llc--si-cure-sacroiliac-joint-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 2,
+  "bytes": 1190,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/OUR/K223819.json",
+        "artifact": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--alevio-llc--si-cure-sacroiliac-joint-fusion/fda_raw/OUR/K223819.json",
+        "bytes": 595
+      },
+      {
+        "source": "pipeline/data/fda_raw/OUR/K231951.json",
+        "artifact": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--alevio-llc--si-cure-sacroiliac-joint-fusion/fda_raw/OUR/K231951.json",
+        "bytes": 595
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "sacroiliac-fusion",
+    "label": "Outside listed seed registries"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--spintech-inc--leaplaza-frame",
+  "artifact_folder": "corpectomy--spintech-inc--leaplaza-frame",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2700,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--spintech-inc--leaplaza-frame.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--spintech-inc--leaplaza-frame/enriched/corpectomy--spintech-inc--leaplaza-frame.json",
+        "bytes": 1367
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K922238.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--spintech-inc--leaplaza-frame/fda_raw/KWP/K922238.json",
+        "bytes": 547
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--spintech-inc--leaplaza-frame.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--spintech-inc--leaplaza-frame/merged/corpectomy--spintech-inc--leaplaza-frame.json",
+        "bytes": 786
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--ortho-tec-llc--oria-spinal-clip-sacral-connector",
+  "artifact_folder": "corpectomy--ortho-tec-llc--oria-spinal-clip-sacral-connector",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3008,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--ortho-tec-llc--oria-spinal-clip-sacral-connector.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--ortho-tec-llc--oria-spinal-clip-sacral-connector/enriched/corpectomy--ortho-tec-llc--oria-spinal-clip-sacral-connector.json",
+        "bytes": 1486
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K031452.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--ortho-tec-llc--oria-spinal-clip-sacral-connector/fda_raw/KWP/K031452.json",
+        "bytes": 617
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--ortho-tec-llc--oria-spinal-clip-sacral-connector.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--ortho-tec-llc--oria-spinal-clip-sacral-connector/merged/corpectomy--ortho-tec-llc--oria-spinal-clip-sacral-connector.json",
+        "bytes": 905
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

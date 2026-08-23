@@ -1,0 +1,42 @@
+{
+  "device_slug": "pedicle-screw--l-k-biomed-co-ltd--bluex-lumbar-expandable-cage",
+  "artifact_folder": "pedicle-screw--l-k-biomed-co-ltd--bluex-lumbar-expandable-cage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3741,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--l-k-biomed-co-ltd--bluex-lumbar-expandable-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--l-k-biomed-co-ltd--bluex-lumbar-expandable-cage/enriched/pedicle-screw--l-k-biomed-co-ltd--bluex-lumbar-expandable-cage.json",
+        "bytes": 1681
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/pedicle-screw--l-k-biomed-co-ltd--bluex-lumbar-expandable-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--l-k-biomed-co-ltd--bluex-lumbar-expandable-cage/extracted/fda_structured/pedicle-screw--l-k-biomed-co-ltd--bluex-lumbar-expandable-cage.json",
+        "bytes": 596
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K242829.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--l-k-biomed-co-ltd--bluex-lumbar-expandable-cage/fda_raw/MAX/K242829.json",
+        "bytes": 606
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--l-k-biomed-co-ltd--bluex-lumbar-expandable-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--l-k-biomed-co-ltd--bluex-lumbar-expandable-cage/merged/pedicle-screw--l-k-biomed-co-ltd--bluex-lumbar-expandable-cage.json",
+        "bytes": 858
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

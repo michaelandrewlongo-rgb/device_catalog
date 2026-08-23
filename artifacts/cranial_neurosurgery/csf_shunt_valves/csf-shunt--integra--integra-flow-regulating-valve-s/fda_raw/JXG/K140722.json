@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K140722",
+  "clearance_date": "2015-01-06",
+  "device_class": 2,
+  "manufacturer_canonical": "integra",
+  "manufacturer_raw": "Integra LifeSciences Corporation",
+  "catalog_category": "csf-shunt",
+  "device_name_fda": "INTEGRA FLOW REGULATING VALVE SYSTEMS OSV II MODELS AND INTEGRA FLOW REGULATING VALVE LOW FLOW MODELS",
+  "product_code": "JXG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": true,
+  "suggested_filename_stem": "csf-shunt--integra--integra-flow-regulating-valve-s",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf14/K140722.pdf"
+}

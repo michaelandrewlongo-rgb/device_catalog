@@ -1,0 +1,21 @@
+{
+  "device_slug": "csf-shunt--medtronic--medtronic-stratavarius",
+  "artifact_folder": "csf-shunt--medtronic--medtronic-stratavarius",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 561,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K041992.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medtronic--medtronic-stratavarius/fda_raw/JXG/K041992.json",
+        "bytes": 561
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

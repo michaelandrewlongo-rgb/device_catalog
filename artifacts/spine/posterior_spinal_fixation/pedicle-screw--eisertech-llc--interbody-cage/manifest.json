@@ -1,0 +1,42 @@
+{
+  "device_slug": "pedicle-screw--eisertech-llc--interbody-cage",
+  "artifact_folder": "pedicle-screw--eisertech-llc--interbody-cage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3613,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--eisertech-llc--interbody-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--eisertech-llc--interbody-cage/enriched/pedicle-screw--eisertech-llc--interbody-cage.json",
+        "bytes": 1653
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/pedicle-screw--eisertech-llc--interbody-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--eisertech-llc--interbody-cage/extracted/fda_structured/pedicle-screw--eisertech-llc--interbody-cage.json",
+        "bytes": 611
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K140348.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--eisertech-llc--interbody-cage/fda_raw/MAX/K140348.json",
+        "bytes": 555
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--eisertech-llc--interbody-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--eisertech-llc--interbody-cage/merged/pedicle-screw--eisertech-llc--interbody-cage.json",
+        "bytes": 794
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

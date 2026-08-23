@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--spineart-sa--scarlet-r-al-t",
+  "artifact_folder": "pedicle-screw--spineart-sa--scarlet-r-al-t",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2717,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--spineart-sa--scarlet-r-al-t.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spineart-sa--scarlet-r-al-t/enriched/pedicle-screw--spineart-sa--scarlet-r-al-t.json",
+        "bytes": 1371
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K242589.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spineart-sa--scarlet-r-al-t/fda_raw/MAX/K242589.json",
+        "bytes": 548
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--spineart-sa--scarlet-r-al-t.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spineart-sa--scarlet-r-al-t/merged/pedicle-screw--spineart-sa--scarlet-r-al-t.json",
+        "bytes": 798
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

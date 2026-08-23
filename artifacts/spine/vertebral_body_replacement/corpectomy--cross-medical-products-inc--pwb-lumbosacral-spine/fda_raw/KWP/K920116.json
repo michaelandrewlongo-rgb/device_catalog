@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K920116",
+  "clearance_date": "1992-04-10",
+  "device_class": 2,
+  "manufacturer_canonical": "cross-medical-products-inc",
+  "manufacturer_raw": "Cross Medical Products, Inc.",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "PWB LUMBOSACRAL SPINE SYSTEM",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--cross-medical-products-inc--pwb-lumbosacral-spine",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf92/K920116.pdf"
+}

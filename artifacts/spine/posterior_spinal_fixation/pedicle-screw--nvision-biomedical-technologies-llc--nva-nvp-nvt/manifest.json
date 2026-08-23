@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--nvision-biomedical-technologies-llc--nva-nvp-nvt",
+  "artifact_folder": "pedicle-screw--nvision-biomedical-technologies-llc--nva-nvp-nvt",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2864,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--nvision-biomedical-technologies-llc--nva-nvp-nvt.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nvision-biomedical-technologies-llc--nva-nvp-nvt/enriched/pedicle-screw--nvision-biomedical-technologies-llc--nva-nvp-nvt.json",
+        "bytes": 1414
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K142594.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nvision-biomedical-technologies-llc--nva-nvp-nvt/fda_raw/MAX/K142594.json",
+        "bytes": 617
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--nvision-biomedical-technologies-llc--nva-nvp-nvt.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nvision-biomedical-technologies-llc--nva-nvp-nvt/merged/pedicle-screw--nvision-biomedical-technologies-llc--nva-nvp-nvt.json",
+        "bytes": 833
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "device_slug": "interbody-cage--vy-spine-llc--vylink-spinal-screw",
+  "artifact_folder": "interbody-cage--vy-spine-llc--vylink-spinal-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3389,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--vy-spine-llc--vylink-spinal-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--vy-spine-llc--vylink-spinal-screw/enriched/interbody-cage--vy-spine-llc--vylink-spinal-screw.json",
+        "bytes": 1408
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K213750.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--vy-spine-llc--vylink-spinal-screw/fda_raw/NKB/K213750.json",
+        "bytes": 573
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K231744.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--vy-spine-llc--vylink-spinal-screw/fda_raw/NKB/K231744.json",
+        "bytes": 573
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--vy-spine-llc--vylink-spinal-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--vy-spine-llc--vylink-spinal-screw/merged/interbody-cage--vy-spine-llc--vylink-spinal-screw.json",
+        "bytes": 835
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

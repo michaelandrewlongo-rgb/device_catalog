@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--zimmer-trabecular-metal-technology--vista-s",
+  "artifact_folder": "cervical-plate--zimmer-trabecular-metal-technology--vista-s",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2860,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--zimmer-trabecular-metal-technology--vista-s.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--zimmer-trabecular-metal-technology--vista-s/enriched/cervical-plate--zimmer-trabecular-metal-technology--vista-s.json",
+        "bytes": 1414
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K070382.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--zimmer-trabecular-metal-technology--vista-s/fda_raw/MQP/K070382.json",
+        "bytes": 613
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--zimmer-trabecular-metal-technology--vista-s.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--zimmer-trabecular-metal-technology--vista-s/merged/cervical-plate--zimmer-trabecular-metal-technology--vista-s.json",
+        "bytes": 833
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

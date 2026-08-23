@@ -1,0 +1,21 @@
+{
+  "device_slug": "corpectomy--medtronic--t2-stratosphere-corpectomy-system",
+  "artifact_folder": "corpectomy--medtronic--t2-stratosphere-corpectomy-system",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 463,
+  "sources": {
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/medtronic/t2-stratosphere-corpectomy-system.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--t2-stratosphere-corpectomy-system/scraper_raw/medtronic/t2-stratosphere-corpectomy-system.json",
+        "bytes": 463
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

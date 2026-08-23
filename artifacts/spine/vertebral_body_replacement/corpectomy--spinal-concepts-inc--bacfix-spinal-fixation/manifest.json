@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--spinal-concepts-inc--bacfix-spinal-fixation",
+  "artifact_folder": "corpectomy--spinal-concepts-inc--bacfix-spinal-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3186,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--spinal-concepts-inc--bacfix-spinal-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--spinal-concepts-inc--bacfix-spinal-fixation/enriched/corpectomy--spinal-concepts-inc--bacfix-spinal-fixation.json",
+        "bytes": 1757
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K964404.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--spinal-concepts-inc--bacfix-spinal-fixation/fda_raw/KWP/K964404.json",
+        "bytes": 591
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--spinal-concepts-inc--bacfix-spinal-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--spinal-concepts-inc--bacfix-spinal-fixation/merged/corpectomy--spinal-concepts-inc--bacfix-spinal-fixation.json",
+        "bytes": 838
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

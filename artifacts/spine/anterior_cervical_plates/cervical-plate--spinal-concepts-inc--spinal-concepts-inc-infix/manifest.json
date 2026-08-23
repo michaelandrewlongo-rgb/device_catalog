@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--spinal-concepts-inc--spinal-concepts-inc-infix",
+  "artifact_folder": "cervical-plate--spinal-concepts-inc--spinal-concepts-inc-infix",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3072,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--spinal-concepts-inc--spinal-concepts-inc-infix.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--spinal-concepts-inc--spinal-concepts-inc-infix/enriched/cervical-plate--spinal-concepts-inc--spinal-concepts-inc-infix.json",
+        "bytes": 1606
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K031672.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--spinal-concepts-inc--spinal-concepts-inc-infix/fda_raw/MQP/K031672.json",
+        "bytes": 607
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--spinal-concepts-inc--spinal-concepts-inc-infix.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--spinal-concepts-inc--spinal-concepts-inc-infix/merged/cervical-plate--spinal-concepts-inc--spinal-concepts-inc-infix.json",
+        "bytes": 859
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "device_family": "aspiration--q-apel-medical-inc--072-aspiration",
+    "query_used": "\"072 Aspiration System\" OR \"Thrombectomy suction catheter\"",
+    "raw": {
+      "abstract": "Pulmonary aspiration of gastric contents is associated with significant perioperative morbidity and mortality. Previous studies have investigated the validity, reliability, and possible clinical impact of gastric ultrasound for the assessment of gastric content at the bedside. In the present study, we examined the accuracy (evaluated as sensitivity, specificity, and likelihood ratios) of point-of-care gastric ultrasound to detect a \"full stomach\" in a simulated scenario of clinical equipoise.\nAfter a minimum fasting period of 8 hours, 40 healthy volunteers were randomized in a 1:1 ratio to either remain fasted or ingest a standardized quantity of clear fluid or solid. Each subject was randomized twice on 2 independent study sessions at least 24 hours apart. A gastric ultrasound examination was performed by a blinded sonographer following a standardized scanning protocol. Using a combination of qualitative and quantitative findings, the result was summarized in a dichotomous manner as positive (any solid or >1.5 mL/kg of clear fluid) or negative (no solid and ≤1.5 mL/kg of clear fluid) for full stomach.\nData from 80 study sessions were analyzed. In this simulated clinical scenario with a pretest probability of 50%, point-of-care gastric ultrasound had a sensitivity of 1.0 (95% confidence interval [CI], 0.925-1.0), a specificity of 0.975 (95% CI, 0.95-1.0), a positive likelihood ratio of 40.0 (95% CI, 10.33-∞), a negative likelihood ratio of 0 (95% CI, 0-0.072), a positive predictive value of 0.976 (95% CI, 0.878-1.0), and a negative predictive value of 1.0 (95% CI, 0.92-1.0).\nOur results suggest that bedside gastric ultrasound is highly sensitive and specific to detect or rule out a full stomach in clinical scenarios in which the presence of gastric content is uncertain.",
+      "doi": "10.1213/ANE.0000000000003372",
+      "journal": "Anesthesia and analgesia",
+      "matched_device_family": "aspiration--q-apel-medical-inc--072-aspiration",
+      "pmid": "29624530",
+      "publication_date": "2019-Jan",
+      "query_used": "\"072 Aspiration System\" OR \"Thrombectomy suction catheter\"",
+      "source_retrieved_at": "2026-04-15T10:17:24+00:00",
+      "title": "Diagnostic Accuracy of Point-of-Care Gastric Ultrasound."
+    },
+    "retrieved_at": "2026-04-15T10:17:24+00:00",
+    "source_id": "pubmed:29624530",
+    "source_type": "pubmed",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/29624530/",
+    "title": "Diagnostic Accuracy of Point-of-Care Gastric Ultrasound."
+  }
+]

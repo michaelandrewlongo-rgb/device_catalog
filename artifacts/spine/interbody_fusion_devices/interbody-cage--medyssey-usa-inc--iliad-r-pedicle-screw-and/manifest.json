@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--medyssey-usa-inc--iliad-r-pedicle-screw-and",
+  "artifact_folder": "interbody-cage--medyssey-usa-inc--iliad-r-pedicle-screw-and",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3041,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--medyssey-usa-inc--iliad-r-pedicle-screw-and.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medyssey-usa-inc--iliad-r-pedicle-screw-and/enriched/interbody-cage--medyssey-usa-inc--iliad-r-pedicle-screw-and.json",
+        "bytes": 1490
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K171509.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medyssey-usa-inc--iliad-r-pedicle-screw-and/fda_raw/NKB/K171509.json",
+        "bytes": 626
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--medyssey-usa-inc--iliad-r-pedicle-screw-and.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medyssey-usa-inc--iliad-r-pedicle-screw-and/merged/interbody-cage--medyssey-usa-inc--iliad-r-pedicle-screw-and.json",
+        "bytes": 925
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

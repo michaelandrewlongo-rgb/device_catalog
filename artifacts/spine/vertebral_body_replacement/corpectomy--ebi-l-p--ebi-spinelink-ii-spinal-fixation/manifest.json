@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--ebi-l-p--ebi-spinelink-ii-spinal-fixation",
+  "artifact_folder": "corpectomy--ebi-l-p--ebi-spinelink-ii-spinal-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2854,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--ebi-l-p--ebi-spinelink-ii-spinal-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--ebi-l-p--ebi-spinelink-ii-spinal-fixation/enriched/corpectomy--ebi-l-p--ebi-spinelink-ii-spinal-fixation.json",
+        "bytes": 1429
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K012516.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--ebi-l-p--ebi-spinelink-ii-spinal-fixation/fda_raw/KWP/K012516.json",
+        "bytes": 577
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--ebi-l-p--ebi-spinelink-ii-spinal-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--ebi-l-p--ebi-spinelink-ii-spinal-fixation/merged/corpectomy--ebi-l-p--ebi-spinelink-ii-spinal-fixation.json",
+        "bytes": 848
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--lanx-llc--lanx-deformity",
+  "artifact_folder": "corpectomy--lanx-llc--lanx-deformity",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2706,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--lanx-llc--lanx-deformity.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--lanx-llc--lanx-deformity/enriched/corpectomy--lanx-llc--lanx-deformity.json",
+        "bytes": 1373
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K071633.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--lanx-llc--lanx-deformity/fda_raw/KWP/K071633.json",
+        "bytes": 541
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--lanx-llc--lanx-deformity.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--lanx-llc--lanx-deformity/merged/corpectomy--lanx-llc--lanx-deformity.json",
+        "bytes": 792
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

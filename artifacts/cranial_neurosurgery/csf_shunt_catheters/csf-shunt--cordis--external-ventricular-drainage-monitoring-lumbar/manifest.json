@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--cordis--external-ventricular-drainage-monitoring-lumbar",
+  "artifact_folder": "csf-shunt--cordis--external-ventricular-drainage-monitoring-lumbar",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2934,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--cordis--external-ventricular-drainage-monitoring-lumbar.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cordis--external-ventricular-drainage-monitoring-lumbar/enriched/csf-shunt--cordis--external-ventricular-drainage-monitoring-lumbar.json",
+        "bytes": 1458
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K854474.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cordis--external-ventricular-drainage-monitoring-lumbar/fda_raw/JXG/K854474.json",
+        "bytes": 599
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--cordis--external-ventricular-drainage-monitoring-lumbar.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cordis--external-ventricular-drainage-monitoring-lumbar/merged/csf-shunt--cordis--external-ventricular-drainage-monitoring-lumbar.json",
+        "bytes": 877
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

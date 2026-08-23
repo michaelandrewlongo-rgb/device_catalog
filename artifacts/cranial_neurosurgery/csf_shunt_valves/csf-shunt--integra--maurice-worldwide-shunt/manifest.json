@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--integra--maurice-worldwide-shunt",
+  "artifact_folder": "csf-shunt--integra--maurice-worldwide-shunt",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3264,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--integra--maurice-worldwide-shunt.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--maurice-worldwide-shunt/enriched/csf-shunt--integra--maurice-worldwide-shunt.json",
+        "bytes": 1882
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K973525.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--maurice-worldwide-shunt/fda_raw/JXG/K973525.json",
+        "bytes": 567
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--integra--maurice-worldwide-shunt.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--maurice-worldwide-shunt/merged/csf-shunt--integra--maurice-worldwide-shunt.json",
+        "bytes": 815
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

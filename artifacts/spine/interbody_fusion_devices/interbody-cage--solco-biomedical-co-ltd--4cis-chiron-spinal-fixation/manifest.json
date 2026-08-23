@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--solco-biomedical-co-ltd--4cis-chiron-spinal-fixation",
+  "artifact_folder": "interbody-cage--solco-biomedical-co-ltd--4cis-chiron-spinal-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2941,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--solco-biomedical-co-ltd--4cis-chiron-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--solco-biomedical-co-ltd--4cis-chiron-spinal-fixation/enriched/interbody-cage--solco-biomedical-co-ltd--4cis-chiron-spinal-fixation.json",
+        "bytes": 1450
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K203233.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--solco-biomedical-co-ltd--4cis-chiron-spinal-fixation/fda_raw/NKB/K203233.json",
+        "bytes": 622
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--solco-biomedical-co-ltd--4cis-chiron-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--solco-biomedical-co-ltd--4cis-chiron-spinal-fixation/merged/interbody-cage--solco-biomedical-co-ltd--4cis-chiron-spinal-fixation.json",
+        "bytes": 869
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

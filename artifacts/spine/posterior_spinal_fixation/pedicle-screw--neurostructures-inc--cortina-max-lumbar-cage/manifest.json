@@ -1,0 +1,40 @@
+{
+  "device_slug": "pedicle-screw--neurostructures-inc--cortina-max-lumbar-cage",
+  "artifact_folder": "pedicle-screw--neurostructures-inc--cortina-max-lumbar-cage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3487,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--neurostructures-inc--cortina-max-lumbar-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--neurostructures-inc--cortina-max-lumbar-cage/enriched/pedicle-screw--neurostructures-inc--cortina-max-lumbar-cage.json",
+        "bytes": 1432
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K180431.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--neurostructures-inc--cortina-max-lumbar-cage/fda_raw/MAX/K180431.json",
+        "bytes": 601
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K192248.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--neurostructures-inc--cortina-max-lumbar-cage/fda_raw/MAX/K192248.json",
+        "bytes": 603
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--neurostructures-inc--cortina-max-lumbar-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--neurostructures-inc--cortina-max-lumbar-cage/merged/pedicle-screw--neurostructures-inc--cortina-max-lumbar-cage.json",
+        "bytes": 851
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

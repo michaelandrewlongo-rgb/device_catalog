@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--terray-corp--terray-stainless-steel-rod-straight",
+  "artifact_folder": "corpectomy--terray-corp--terray-stainless-steel-rod-straight",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2940,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--terray-corp--terray-stainless-steel-rod-straight.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--terray-corp--terray-stainless-steel-rod-straight/enriched/corpectomy--terray-corp--terray-stainless-steel-rod-straight.json",
+        "bytes": 1460
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K003911.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--terray-corp--terray-stainless-steel-rod-straight/fda_raw/KWP/K003911.json",
+        "bytes": 601
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--terray-corp--terray-stainless-steel-rod-straight.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--terray-corp--terray-stainless-steel-rod-straight/merged/corpectomy--terray-corp--terray-stainless-steel-rod-straight.json",
+        "bytes": 879
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

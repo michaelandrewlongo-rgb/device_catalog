@@ -1,0 +1,21 @@
+{
+  "device_slug": "corpectomy--spinal-concepts-inc--octafix-occipital-cervical-plating-recalls",
+  "artifact_folder": "corpectomy--spinal-concepts-inc--octafix-occipital-cervical-plating-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 886,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/corpectomy--spinal-concepts-inc--octafix-occipital-cervical-plating-recalls.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--spinal-concepts-inc--octafix-occipital-cervical-plating-recalls/extracted/fda_safety/corpectomy--spinal-concepts-inc--octafix-occipital-cervical-plating-recalls.json",
+        "bytes": 886
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

@@ -1,0 +1,352 @@
+[
+  {
+    "device_family": "aspiration--balt--hybrid",
+    "query_used": "Hybrid",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "50833224001196",
+          "type": "Package"
+        },
+        {
+          "deviceId": "00833224001191",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Hybrid",
+      "companyName": "Innomed Technologies Inc",
+      "deviceIdentifier": "8ded44bd-4c96-4f6f-bc3e-fae34274ee46",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "57816",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "CPAP/BPAP oral mask"
+        }
+      ],
+      "modelNumber": "HYB535"
+    },
+    "retrieved_at": "2026-04-15T10:18:39+00:00",
+    "source_id": "accessgudid:00833224001191",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/8ded44bd-4c96-4f6f-bc3e-fae34274ee46",
+    "title": "Hybrid (Innomed Technologies Inc)"
+  },
+  {
+    "device_family": "aspiration--balt--hybrid",
+    "query_used": "Hybrid",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "50833224001189",
+          "type": "Package"
+        },
+        {
+          "deviceId": "00833224001184",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Hybrid",
+      "companyName": "Innomed Technologies Inc",
+      "deviceIdentifier": "5fbe3cc2-0f2e-4b8e-bd0b-1fbc6e8786d0",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "57816",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "CPAP/BPAP oral mask"
+        }
+      ],
+      "modelNumber": "HYB533"
+    },
+    "retrieved_at": "2026-04-15T10:18:39+00:00",
+    "source_id": "accessgudid:00833224001184",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/5fbe3cc2-0f2e-4b8e-bd0b-1fbc6e8786d0",
+    "title": "Hybrid (Innomed Technologies Inc)"
+  },
+  {
+    "device_family": "aspiration--balt--hybrid",
+    "query_used": "Hybrid",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "50833224001172",
+          "type": "Package"
+        },
+        {
+          "deviceId": "00833224001177",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Hybrid",
+      "companyName": "Innomed Technologies Inc",
+      "deviceIdentifier": "ce945fdd-7862-42e7-b285-5e1f3311cfee",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "57816",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "CPAP/BPAP oral mask"
+        }
+      ],
+      "modelNumber": "HYB531"
+    },
+    "retrieved_at": "2026-04-15T10:18:39+00:00",
+    "source_id": "accessgudid:00833224001177",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/ce945fdd-7862-42e7-b285-5e1f3311cfee",
+    "title": "Hybrid (Innomed Technologies Inc)"
+  },
+  {
+    "device_family": "aspiration--balt--hybrid",
+    "query_used": "Hybrid",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "50833224001165",
+          "type": "Package"
+        },
+        {
+          "deviceId": "00833224001160",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Hybrid",
+      "companyName": "Innomed Technologies Inc",
+      "deviceIdentifier": "f36867b9-62a7-494f-b203-3a5aae6c120a",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "57816",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "CPAP/BPAP oral mask"
+        }
+      ],
+      "modelNumber": "HYB510"
+    },
+    "retrieved_at": "2026-04-15T10:18:39+00:00",
+    "source_id": "accessgudid:00833224001160",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/f36867b9-62a7-494f-b203-3a5aae6c120a",
+    "title": "Hybrid (Innomed Technologies Inc)"
+  },
+  {
+    "device_family": "aspiration--balt--hybrid",
+    "query_used": "Hybrid",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "50833224000236",
+          "type": "Package"
+        },
+        {
+          "deviceId": "00833224000231",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Hybrid",
+      "companyName": "Innomed Technologies Inc",
+      "deviceIdentifier": "ee3d266c-a674-4da0-8e0e-135605774238",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "57816",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "CPAP/BPAP oral mask"
+        }
+      ],
+      "modelNumber": "HYB540"
+    },
+    "retrieved_at": "2026-04-15T10:18:39+00:00",
+    "source_id": "accessgudid:00833224000231",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/ee3d266c-a674-4da0-8e0e-135605774238",
+    "title": "Hybrid (Innomed Technologies Inc)"
+  },
+  {
+    "device_family": "aspiration--balt--hybrid",
+    "query_used": "Hybrid",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "50833224000212",
+          "type": "Package"
+        },
+        {
+          "deviceId": "00833224000217",
+          "type": "Primary"
+        },
+        {
+          "deviceId": "M694HYB5211",
+          "type": "Secondary"
+        }
+      ],
+      "brandName": "Hybrid",
+      "companyName": "Innomed Technologies Inc",
+      "deviceIdentifier": "14d4885a-a93a-43c2-845f-9d3beb9aa656",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "57816",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "CPAP/BPAP oral mask"
+        }
+      ],
+      "modelNumber": "HYB521"
+    },
+    "retrieved_at": "2026-04-15T10:18:39+00:00",
+    "source_id": "accessgudid:00833224000217",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/14d4885a-a93a-43c2-845f-9d3beb9aa656",
+    "title": "Hybrid (Innomed Technologies Inc)"
+  },
+  {
+    "device_family": "aspiration--balt--hybrid",
+    "query_used": "Hybrid",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "50833224000205",
+          "type": "Package"
+        },
+        {
+          "deviceId": "00833224000200",
+          "type": "Primary"
+        },
+        {
+          "deviceId": "M694HYB5231",
+          "type": "Secondary"
+        }
+      ],
+      "brandName": "Hybrid",
+      "companyName": "Innomed Technologies Inc",
+      "deviceIdentifier": "67f126ca-7040-44f4-9521-a8f649eb9b5d",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "57816",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "CPAP/BPAP oral mask"
+        }
+      ],
+      "modelNumber": "HYB523"
+    },
+    "retrieved_at": "2026-04-15T10:18:39+00:00",
+    "source_id": "accessgudid:00833224000200",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/67f126ca-7040-44f4-9521-a8f649eb9b5d",
+    "title": "Hybrid (Innomed Technologies Inc)"
+  },
+  {
+    "device_family": "aspiration--balt--hybrid",
+    "query_used": "Hybrid",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "50833224000199",
+          "type": "Package"
+        },
+        {
+          "deviceId": "00833224000194",
+          "type": "Primary"
+        },
+        {
+          "deviceId": "M694HYB5251",
+          "type": "Secondary"
+        }
+      ],
+      "brandName": "Hybrid",
+      "companyName": "Innomed Technologies Inc",
+      "deviceIdentifier": "7c4f42a9-bc28-49c7-8431-357e1a730c87",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "57816",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "CPAP/BPAP oral mask"
+        }
+      ],
+      "modelNumber": "HYB525"
+    },
+    "retrieved_at": "2026-04-15T10:18:39+00:00",
+    "source_id": "accessgudid:00833224000194",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/7c4f42a9-bc28-49c7-8431-357e1a730c87",
+    "title": "Hybrid (Innomed Technologies Inc)"
+  },
+  {
+    "device_family": "aspiration--balt--hybrid",
+    "query_used": "Hybrid",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "50833224000182",
+          "type": "Package"
+        },
+        {
+          "deviceId": "00833224000187",
+          "type": "Primary"
+        },
+        {
+          "deviceId": "M694HYB5111",
+          "type": "Secondary"
+        }
+      ],
+      "brandName": "Hybrid",
+      "companyName": "Innomed Technologies Inc",
+      "deviceIdentifier": "ff571b34-4530-4560-940e-6c6354330ccd",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "57816",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "CPAP/BPAP oral mask"
+        }
+      ],
+      "modelNumber": "HYB511"
+    },
+    "retrieved_at": "2026-04-15T10:18:39+00:00",
+    "source_id": "accessgudid:00833224000187",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/ff571b34-4530-4560-940e-6c6354330ccd",
+    "title": "Hybrid (Innomed Technologies Inc)"
+  },
+  {
+    "device_family": "aspiration--balt--hybrid",
+    "query_used": "Hybrid",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "50833224000175",
+          "type": "Package"
+        },
+        {
+          "deviceId": "00833224000170",
+          "type": "Primary"
+        },
+        {
+          "deviceId": "M694HYB5131",
+          "type": "Secondary"
+        }
+      ],
+      "brandName": "Hybrid",
+      "companyName": "Innomed Technologies Inc",
+      "deviceIdentifier": "4f7eef69-651f-4a06-8a64-5fe678b607cd",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "57816",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "CPAP/BPAP oral mask"
+        }
+      ],
+      "modelNumber": "HYB513"
+    },
+    "retrieved_at": "2026-04-15T10:18:39+00:00",
+    "source_id": "accessgudid:00833224000170",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/4f7eef69-651f-4a06-8a64-5fe678b607cd",
+    "title": "Hybrid (Innomed Technologies Inc)"
+  }
+]

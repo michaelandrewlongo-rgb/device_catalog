@@ -1,0 +1,21 @@
+{
+  "device_slug": "corpectomy--depuy--synthes-spine-occipital-cervical-plate-recalls",
+  "artifact_folder": "corpectomy--depuy--synthes-spine-occipital-cervical-plate-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 453,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/corpectomy--depuy--synthes-spine-occipital-cervical-plate-recalls.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--synthes-spine-occipital-cervical-plate-recalls/extracted/fda_safety/corpectomy--depuy--synthes-spine-occipital-cervical-plate-recalls.json",
+        "bytes": 453
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

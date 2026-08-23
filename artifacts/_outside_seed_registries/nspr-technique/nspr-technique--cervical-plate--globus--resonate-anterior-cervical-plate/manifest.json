@@ -1,0 +1,21 @@
+{
+  "device_slug": "nspr-technique--cervical-plate--globus--resonate-anterior-cervical-plate",
+  "artifact_folder": "nspr-technique--cervical-plate--globus--resonate-anterior-cervical-plate",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 12622,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/documents/nspr-technique--cervical-plate--globus--resonate-anterior-cervical-plate.json",
+        "artifact": "artifacts/_outside_seed_registries/nspr-technique/nspr-technique--cervical-plate--globus--resonate-anterior-cervical-plate/extracted/documents/nspr-technique--cervical-plate--globus--resonate-anterior-cervical-plate.json",
+        "bytes": 12622
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "nspr-technique",
+    "label": "Outside listed seed registries"
+  }
+}

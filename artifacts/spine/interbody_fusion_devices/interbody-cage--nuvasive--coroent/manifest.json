@@ -1,0 +1,21 @@
+{
+  "device_slug": "interbody-cage--nuvasive--coroent",
+  "artifact_folder": "interbody-cage--nuvasive--coroent",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 8817,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/interbody-cage--nuvasive--coroent--knowledge.md",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--nuvasive--coroent/data_by_device/interbody-cage--nuvasive--coroent--knowledge.md",
+        "bytes": 8817
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

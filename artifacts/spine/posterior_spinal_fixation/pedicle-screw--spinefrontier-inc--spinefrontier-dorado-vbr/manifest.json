@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--spinefrontier-inc--spinefrontier-dorado-vbr",
+  "artifact_folder": "pedicle-screw--spinefrontier-inc--spinefrontier-dorado-vbr",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2833,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--spinefrontier-inc--spinefrontier-dorado-vbr.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinefrontier-inc--spinefrontier-dorado-vbr/enriched/pedicle-screw--spinefrontier-inc--spinefrontier-dorado-vbr.json",
+        "bytes": 1413
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K072289.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinefrontier-inc--spinefrontier-dorado-vbr/fda_raw/MAX/K072289.json",
+        "bytes": 588
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--spinefrontier-inc--spinefrontier-dorado-vbr.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinefrontier-inc--spinefrontier-dorado-vbr/merged/pedicle-screw--spinefrontier-inc--spinefrontier-dorado-vbr.json",
+        "bytes": 832
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

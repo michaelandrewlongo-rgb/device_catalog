@@ -1,0 +1,42 @@
+{
+  "device_slug": "interbody-cage--gm-dos-reis-industria-e-comerico-ltda--pedimax-ii-pedicular-screw-spinal",
+  "artifact_folder": "interbody-cage--gm-dos-reis-industria-e-comerico-ltda--pedimax-ii-pedicular-screw-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 4076,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--gm-dos-reis-industria-e-comerico-ltda--pedimax-ii-pedicular-screw-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--gm-dos-reis-industria-e-comerico-ltda--pedimax-ii-pedicular-screw-spinal/enriched/interbody-cage--gm-dos-reis-industria-e-comerico-ltda--pedimax-ii-pedicular-screw-spinal.json",
+        "bytes": 1810
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--gm-dos-reis-industria-e-comerico-ltda--pedimax-ii-pedicular-screw-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--gm-dos-reis-industria-e-comerico-ltda--pedimax-ii-pedicular-screw-spinal/extracted/fda_structured/interbody-cage--gm-dos-reis-industria-e-comerico-ltda--pedimax-ii-pedicular-screw-spinal.json",
+        "bytes": 671
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K180626.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--gm-dos-reis-industria-e-comerico-ltda--pedimax-ii-pedicular-screw-spinal/fda_raw/NKB/K180626.json",
+        "bytes": 676
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--gm-dos-reis-industria-e-comerico-ltda--pedimax-ii-pedicular-screw-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--gm-dos-reis-industria-e-comerico-ltda--pedimax-ii-pedicular-screw-spinal/merged/interbody-cage--gm-dos-reis-industria-e-comerico-ltda--pedimax-ii-pedicular-screw-spinal.json",
+        "bytes": 919
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

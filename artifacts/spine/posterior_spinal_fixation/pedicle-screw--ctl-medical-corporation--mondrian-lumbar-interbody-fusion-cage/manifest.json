@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--ctl-medical-corporation--mondrian-lumbar-interbody-fusion-cage",
+  "artifact_folder": "pedicle-screw--ctl-medical-corporation--mondrian-lumbar-interbody-fusion-cage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3262,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--ctl-medical-corporation--mondrian-lumbar-interbody-fusion-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--ctl-medical-corporation--mondrian-lumbar-interbody-fusion-cage/enriched/pedicle-screw--ctl-medical-corporation--mondrian-lumbar-interbody-fusion-cage.json",
+        "bytes": 1728
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K192863.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--ctl-medical-corporation--mondrian-lumbar-interbody-fusion-cage/fda_raw/MAX/K192863.json",
+        "bytes": 637
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--ctl-medical-corporation--mondrian-lumbar-interbody-fusion-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--ctl-medical-corporation--mondrian-lumbar-interbody-fusion-cage/merged/pedicle-screw--ctl-medical-corporation--mondrian-lumbar-interbody-fusion-cage.json",
+        "bytes": 897
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

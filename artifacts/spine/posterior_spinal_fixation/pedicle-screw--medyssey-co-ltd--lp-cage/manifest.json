@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--medyssey-co-ltd--lp-cage",
+  "artifact_folder": "pedicle-screw--medyssey-co-ltd--lp-cage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2683,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--medyssey-co-ltd--lp-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medyssey-co-ltd--lp-cage/enriched/pedicle-screw--medyssey-co-ltd--lp-cage.json",
+        "bytes": 1358
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K110067.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medyssey-co-ltd--lp-cage/fda_raw/MAX/K110067.json",
+        "bytes": 548
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--medyssey-co-ltd--lp-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medyssey-co-ltd--lp-cage/merged/pedicle-screw--medyssey-co-ltd--lp-cage.json",
+        "bytes": 777
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

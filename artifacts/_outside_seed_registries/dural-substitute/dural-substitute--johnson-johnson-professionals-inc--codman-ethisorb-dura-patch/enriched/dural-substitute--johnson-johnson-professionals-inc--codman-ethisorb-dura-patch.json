@@ -1,0 +1,58 @@
+{
+  "device_name": "CODMAN ETHISORB DURA PATCH",
+  "manufacturer": "johnson-johnson-professionals-inc",
+  "catalog_category": "dural-substitute",
+  "filename_stem": "dural-substitute--johnson-johnson-professionals-inc--codman-ethisorb-dura-patch",
+  "clearance_type": "510k",
+  "clearance_number": "K991413",
+  "clearance_date": "2000-03-13",
+  "device_class": 2,
+  "device_name_fda": "CODMAN ETHISORB DURA PATCH",
+  "product_code": "GXQ",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf99/K991413.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "none",
+      "confidence": 0
+    },
+    "sizing_specs": {
+      "source": "none",
+      "confidence": 0
+    },
+    "indications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "none",
+      "confidence": 0
+    },
+    "also_known_as": {
+      "source": "none",
+      "confidence": 0
+    }
+  }
+}

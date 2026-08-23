@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--ebi-l-p--ebi-array-spinal-fixation-and",
+  "artifact_folder": "interbody-cage--ebi-l-p--ebi-array-spinal-fixation-and",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3024,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--ebi-l-p--ebi-array-spinal-fixation-and.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--ebi-l-p--ebi-array-spinal-fixation-and/enriched/interbody-cage--ebi-l-p--ebi-array-spinal-fixation-and.json",
+        "bytes": 1496
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K042772.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--ebi-l-p--ebi-array-spinal-fixation-and/fda_raw/NKB/K042772.json",
+        "bytes": 613
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--ebi-l-p--ebi-array-spinal-fixation-and.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--ebi-l-p--ebi-array-spinal-fixation-and/merged/interbody-cage--ebi-l-p--ebi-array-spinal-fixation-and.json",
+        "bytes": 915
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

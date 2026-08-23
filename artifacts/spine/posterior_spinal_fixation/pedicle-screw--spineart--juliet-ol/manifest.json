@@ -1,0 +1,40 @@
+{
+  "device_slug": "pedicle-screw--spineart--juliet-ol",
+  "artifact_folder": "pedicle-screw--spineart--juliet-ol",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3177,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--spineart--juliet-ol.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spineart--juliet-ol/enriched/pedicle-screw--spineart--juliet-ol.json",
+        "bytes": 1350
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K101720.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spineart--juliet-ol/fda_raw/MAX/K101720.json",
+        "bytes": 529
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K140474.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spineart--juliet-ol/fda_raw/MAX/K140474.json",
+        "bytes": 529
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--spineart--juliet-ol.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spineart--juliet-ol/merged/pedicle-screw--spineart--juliet-ol.json",
+        "bytes": 769
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

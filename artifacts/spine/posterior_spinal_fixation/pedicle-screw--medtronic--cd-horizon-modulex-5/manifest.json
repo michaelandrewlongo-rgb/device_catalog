@@ -1,0 +1,21 @@
+{
+  "device_slug": "pedicle-screw--medtronic--cd-horizon-modulex-5",
+  "artifact_folder": "pedicle-screw--medtronic--cd-horizon-modulex-5",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 524,
+  "sources": {
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/medtronic/cd-horizon-modulex-5-5-spinal-system.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--cd-horizon-modulex-5/scraper_raw/medtronic/cd-horizon-modulex-5-5-spinal-system.json",
+        "bytes": 524
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "device_name": "CD Horizon ModuLeX 5.5 Spinal System",
+  "manufacturer": "medtronic",
+  "category_hint": "pedicle-screw",
+  "source_url": "https://www.medtronicacademy.com/en-us/content/disc-prep---system-access/Spine-Biologics",
+  "what_it_is": "Modular pedicle screw system for thoracolumbar fixation. 5.5mm rod. Pedicle and cortical trajectory. MIDLF, TLIF, open degeneration/deformity.",
+  "compatible_with": "Space-D, Mazor Robotic Guidance, Navigated disc prep.",
+  "also_known_as": [
+    "ModuLeX"
+  ]
+}

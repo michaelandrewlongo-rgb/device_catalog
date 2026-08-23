@@ -1,0 +1,40 @@
+{
+  "device_slug": "pedicle-screw--spinal-elements-inc--lucent",
+  "artifact_folder": "pedicle-screw--spinal-elements-inc--lucent",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3261,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--spinal-elements-inc--lucent.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinal-elements-inc--lucent/enriched/pedicle-screw--spinal-elements-inc--lucent.json",
+        "bytes": 1363
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K071724.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinal-elements-inc--lucent/fda_raw/MAX/K071724.json",
+        "bytes": 558
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K122967.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinal-elements-inc--lucent/fda_raw/MAX/K122967.json",
+        "bytes": 558
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--spinal-elements-inc--lucent.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinal-elements-inc--lucent/merged/pedicle-screw--spinal-elements-inc--lucent.json",
+        "bytes": 782
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

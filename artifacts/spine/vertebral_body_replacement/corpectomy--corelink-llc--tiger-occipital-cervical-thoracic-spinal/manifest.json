@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--corelink-llc--tiger-occipital-cervical-thoracic-spinal",
+  "artifact_folder": "corpectomy--corelink-llc--tiger-occipital-cervical-thoracic-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2987,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--corelink-llc--tiger-occipital-cervical-thoracic-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--corelink-llc--tiger-occipital-cervical-thoracic-spinal/enriched/corpectomy--corelink-llc--tiger-occipital-cervical-thoracic-spinal.json",
+        "bytes": 1477
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K132504.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--corelink-llc--tiger-occipital-cervical-thoracic-spinal/fda_raw/KWP/K132504.json",
+        "bytes": 614
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--corelink-llc--tiger-occipital-cervical-thoracic-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--corelink-llc--tiger-occipital-cervical-thoracic-spinal/merged/corpectomy--corelink-llc--tiger-occipital-cervical-thoracic-spinal.json",
+        "bytes": 896
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

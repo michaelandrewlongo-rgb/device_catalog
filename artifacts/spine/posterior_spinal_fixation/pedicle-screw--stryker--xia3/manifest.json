@@ -1,0 +1,26 @@
+{
+  "device_slug": "pedicle-screw--stryker--xia3",
+  "artifact_folder": "pedicle-screw--stryker--xia3",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 2,
+  "bytes": 280368,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/pedicle-screw/parsed/documents/pedicle-screw--stryker--xia3--510k.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--xia3/510k/pedicle-screw/parsed/documents/pedicle-screw--stryker--xia3--510k.json",
+        "bytes": 2790
+      },
+      {
+        "source": "pipeline/data/510k/pedicle-screw/pdfs/pedicle-screw--stryker--xia3--510k.pdf",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--xia3/510k/pedicle-screw/pdfs/pedicle-screw--stryker--xia3--510k.pdf",
+        "bytes": 277578
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

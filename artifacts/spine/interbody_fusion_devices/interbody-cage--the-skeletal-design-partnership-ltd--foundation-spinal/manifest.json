@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--the-skeletal-design-partnership-ltd--foundation-spinal",
+  "artifact_folder": "interbody-cage--the-skeletal-design-partnership-ltd--foundation-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2945,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--the-skeletal-design-partnership-ltd--foundation-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--the-skeletal-design-partnership-ltd--foundation-spinal/enriched/interbody-cage--the-skeletal-design-partnership-ltd--foundation-spinal.json",
+        "bytes": 1444
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K120074.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--the-skeletal-design-partnership-ltd--foundation-spinal/fda_raw/NKB/K120074.json",
+        "bytes": 638
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--the-skeletal-design-partnership-ltd--foundation-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--the-skeletal-design-partnership-ltd--foundation-spinal/merged/interbody-cage--the-skeletal-design-partnership-ltd--foundation-spinal.json",
+        "bytes": 863
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

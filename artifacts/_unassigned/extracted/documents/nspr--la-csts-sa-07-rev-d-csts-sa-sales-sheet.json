@@ -1,0 +1,23 @@
+{
+  "source_pdf": "la-csts-sa-07-rev-d-csts-sa-sales-sheet.pdf",
+  "source_path": "C:\\Users\\Michael\\Documents\\device_catalog\\pipeline\\data\\extracted\\nspr\\pdfs\\la-csts-sa-07-rev-d-csts-sa-sales-sheet.pdf",
+  "device_name": "La Csts Sa 07 Rev D Csts Sa Sales Sheet",
+  "manufacturer": "unknown",
+  "doc_type": "technique_guide",
+  "extraction_method": "pdfplumber_deepseek",
+  "extraction_source": "nspr_pdf",
+  "fields": {
+    "what_it_is": "STAND ALONE CERVICAL SPINE TRUSS SYSTEM™ INTERBODY FUSION DEVICE. CSTS-SA has an Advanced Structural Design that incorporates 4WEB Medical’s proprietary Truss Implant Technology™. Under normal loading conditions the struts in the truss implant transfer strain to adjacent cellular material which stimulates a mechanobiologic response. Novel Truss Implant TechnologyTM provides a Snow Shoe Interface that distributes load across the endplate minimizing point loading and reducing the risk of subsidence.* Hierarchical surface roughness spans from the macro to nano scale. These surface features have been shown to stimulate increased gene expression of certain osteogenic markers when compared to other interbody surfaces and materials.1 Open architecture design allows for greater graft volume and bone growth throughout the entire construct.*",
+    "sizing_specs": "| HEIGHT H DEPT | CSTSSA IMPLANT SPECIFICATIONS WIDTH | PRODUCT CATALOG LENGTH LENGTH | CATALOG # FOOTPRINT (D, W, H) LORDOSIS |\n| --- | --- | --- | --- |\n| 0 DEGREE | | | |\n| CSTSSASM0005SP | 12 x 15 x 5mm | 0˚ |\n| CSTSSASM0006SP | 12 x 15 x 6mm | 0˚ |\n| CSTSSASM0007SP | 12 x 15 x 7mm | 0˚ |\n| CSTSSASM0008SP | 12 x 15 x 8mm | 0˚ |\n| CSTSSASM0009SP | 12 x 15 x 9mm | 0˚ |\n| CSTSSASM0010SP | 12 x 15 x 10mm | 0˚ |\n| * CSTSSASM0011SP | 12 x 15 x 11mm | 0˚ |\n| * CSTSSASM0012SP | 12 x 15 x 12mm | 0˚ |\n| CSTSSAMD0005SP | 14 x 17 x 5mm | 0˚ |\n| CSTSSAMD0006SP | 14 x 17 x 6mm | 0˚ |\n| CSTSSAMD0007SP | 14 x 17 x 7mm | 0˚ |\n| CSTSSAMD0008SP | 14 x 17 x 8mm | 0˚ |\n| CSTSSAMD0009SP | 14 x 17 x 9mm | 0˚ |\n| CSTSSAMD0010SP | 14 x 17 x 10mm | 0˚ |\n| * CSTSSAMD0011SP | 14 x 17 x11mm | 0˚ |\n| * CSTSSAMD0012SP | 14 x 17 x 12mm | 0˚ |\n| 7 DEGREE | | | |\n| CSTSSASM0705SP | 12 x 15 x 5mm | 7˚ |\n| CSTSSASM0706SP | 12 x 15 x 6mm | 7˚ |\n| CSTSSASM0707SP | 12 x 15 x 7mm | 7˚ |\n| CSTSSASM0708SP | 12 x 15 x 8mm | 7˚ |\n| CSTSSASM0709SP | 12 x 15 x 9mm | 7˚ |\n| CSTSSASM0710SP | 12 x 15 x 10mm | 7˚ |\n| * CSTSSASM0711SP | 12 x 15 x 11mm | 7˚ |\n| * CSTSSASM0712SP | 12 x 15 x 12mm | 7˚ |\n| CSTSSAMD0705SP | 14 x 17 x 5mm | 7˚ |\n| CSTSSAMD0706SP | 14 x 17 x 6mm | 7˚ |\n| CSTSSAMD0707SP | 14 x 17 x 7mm | 7˚ |\n| CSTSSAMD0708SP | 14 x 17 x 8mm | 7˚ |\n| CSTSSAMD0709SP | 14 x 17 x 9mm | 7˚ |\n| CSTSSAMD0710SP | 14 x 17 x 10mm | 7˚ |\n| * CSTSSAMD0711SP | 14 x 17 x 11mm | 7˚ |\n| * CSTSSAMD0712SP | 14 x 17 x 12mm | 7˚ |\n| *By Request Only |\n\n| SELFDRILLING SCREW SPECIFICATIONS | | |\n| --- | --- | --- |\n| SCREW DIAMETER | LENGTH | |\n| 3.5mm | 12, 14, 16mm | PRIMARY SCREW |\n| 3.8mm | 12, 14, 16mm | RESCUE SCREW |\n| CATALOG # | DIAMETER, LENGTH | |\n| CSCR3512SDSP | Ø3.5mm, L 12mm | |\n| CSCR3514SDSP | Ø3.5mm, L 14mm | |\n| CSCR3516SDSP | Ø3.5mm, L 16mm | |\n| CSCR3812SDSP | Ø3.8mm, L 12mm | |\n| CSCR3814SDSP | Ø3.8mm, L 14mm | |\n| CSCR3816SDSP | Ø3.8mm, L 16mm | |\n\n| FIXATION ANCHOR SPECIFICATIONS | | |\n| --- | --- | --- |\n| ANCHOR DIAMETER | LENGTH | |\n| 3.5mm | 11, 12mm | PRIMARY ANCHOR |\n| CATALOG # | DIAMETER, LENGTH | FITS WITH INTERBODY |\n| CSTSSAACSM05SP | Ø3.5mm, L 11mm | Small, 5mm |\n| CSTSSAACSM06SP | Ø3.5mm, L 11mm | Small, 6mm |\n| CSTSSAACSM07SP | Ø3.5mm, L 11mm | Small, 7mm |\n| CSTSSAACSM08SP | Ø3.5mm, L 11mm | Small, 8mm |\n| CSTSSAACSM09SP | Ø3.5mm, L 11mm | Small, 9mm |\n| CSTSSAACSM10SP | Ø3.5mm, L 11mm | Small, 10mm |\n| CSTSSAACMD05SP | Ø3.5mm, L 12mm | Medium, 5mm |\n| CSTSSAACMD06SP | Ø3.5mm, L 12mm | Medium, 6mm |\n| CSTSSAACMD07SP | Ø3.5mm, L 12mm | Medium, 7mm |\n| CSTSSAACMD08SP | Ø3.5mm, L 12mm | Medium, 8mm |\n| CSTSSAACMD09SP | Ø3.5mm, L 12mm | Medium, 9mm |\n| CSTSSAACMD10SP | Ø3.5mm, L 12mm | Medium, 10mm |",
+    "indications": null,
+    "contraindications": null,
+    "compatible_with": null,
+    "use_notes": "Zero-profile Intuitive instrumentation Single-step Sterile packed for Screw and anchor stand alone available for guided and locking hospital efficiency fixation options construct freehand surgical techniques mechanism",
+    "also_known_as": null
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "sizing_specs": 0.7,
+    "use_notes": 0.7
+  }
+}

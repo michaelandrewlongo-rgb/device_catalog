@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--advanced-spine-fixation-systems-inc--low-profile-mid-cross-bracing",
+  "artifact_folder": "corpectomy--advanced-spine-fixation-systems-inc--low-profile-mid-cross-bracing",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2981,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--advanced-spine-fixation-systems-inc--low-profile-mid-cross-bracing.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--advanced-spine-fixation-systems-inc--low-profile-mid-cross-bracing/enriched/corpectomy--advanced-spine-fixation-systems-inc--low-profile-mid-cross-bracing.json",
+        "bytes": 1458
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K931225.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--advanced-spine-fixation-systems-inc--low-profile-mid-cross-bracing/fda_raw/KWP/K931225.json",
+        "bytes": 646
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--advanced-spine-fixation-systems-inc--low-profile-mid-cross-bracing.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--advanced-spine-fixation-systems-inc--low-profile-mid-cross-bracing/merged/corpectomy--advanced-spine-fixation-systems-inc--low-profile-mid-cross-bracing.json",
+        "bytes": 877
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

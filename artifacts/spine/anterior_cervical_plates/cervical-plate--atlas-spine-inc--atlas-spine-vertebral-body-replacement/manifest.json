@@ -1,0 +1,40 @@
+{
+  "device_slug": "cervical-plate--atlas-spine-inc--atlas-spine-vertebral-body-replacement",
+  "artifact_folder": "cervical-plate--atlas-spine-inc--atlas-spine-vertebral-body-replacement",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3789,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--atlas-spine-inc--atlas-spine-vertebral-body-replacement.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--atlas-spine-inc--atlas-spine-vertebral-body-replacement/enriched/cervical-plate--atlas-spine-inc--atlas-spine-vertebral-body-replacement.json",
+        "bytes": 1693
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K063464.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--atlas-spine-inc--atlas-spine-vertebral-body-replacement/fda_raw/MQP/K063464.json",
+        "bytes": 612
+      },
+      {
+        "source": "pipeline/data/fda_raw/MQP/K071497.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--atlas-spine-inc--atlas-spine-vertebral-body-replacement/fda_raw/MQP/K071497.json",
+        "bytes": 612
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--atlas-spine-inc--atlas-spine-vertebral-body-replacement.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--atlas-spine-inc--atlas-spine-vertebral-body-replacement/merged/cervical-plate--atlas-spine-inc--atlas-spine-vertebral-body-replacement.json",
+        "bytes": 872
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

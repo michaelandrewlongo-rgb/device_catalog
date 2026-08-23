@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--johnson-johnson-professionals-inc--codman-hakim-micro-precision-valve",
+  "artifact_folder": "csf-shunt--johnson-johnson-professionals-inc--codman-hakim-micro-precision-valve",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3002,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--johnson-johnson-professionals-inc--codman-hakim-micro-precision-valve.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--johnson-johnson-professionals-inc--codman-hakim-micro-precision-valve/enriched/csf-shunt--johnson-johnson-professionals-inc--codman-hakim-micro-precision-valve.json",
+        "bytes": 1467
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K973774.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--johnson-johnson-professionals-inc--codman-hakim-micro-precision-valve/fda_raw/JXG/K973774.json",
+        "bytes": 649
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--johnson-johnson-professionals-inc--codman-hakim-micro-precision-valve.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--johnson-johnson-professionals-inc--codman-hakim-micro-precision-valve/merged/csf-shunt--johnson-johnson-professionals-inc--codman-hakim-micro-precision-valve.json",
+        "bytes": 886
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

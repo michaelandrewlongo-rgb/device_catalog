@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K242042",
+  "clearance_date": "2024-09-09",
+  "device_class": 2,
+  "manufacturer_canonical": "medos-international-sarl",
+  "manufacturer_raw": "Medos International SARL",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "TriALTIS Spine System",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--medos-international-sarl--trialtis-spine",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K242042.pdf"
+}

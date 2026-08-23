@@ -1,0 +1,47 @@
+{
+  "device_slug": "csf-shunt--moller-medical-gmbh--liquoguard-7-liquoguard-7-drainage",
+  "artifact_folder": "csf-shunt--moller-medical-gmbh--liquoguard-7-liquoguard-7-drainage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 219222,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/csf-shunt/parsed/fda_summaries/csf-shunt--moller-medical-gmbh--liquoguard-7-liquoguard-7-drainage--510k.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--moller-medical-gmbh--liquoguard-7-liquoguard-7-drainage/510k/csf-shunt/parsed/fda_summaries/csf-shunt--moller-medical-gmbh--liquoguard-7-liquoguard-7-drainage--510k.json",
+        "bytes": 45269
+      },
+      {
+        "source": "pipeline/data/510k/csf-shunt/pdfs/csf-shunt--moller-medical-gmbh--liquoguard-7-liquoguard-7-drainage--510k.pdf",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--moller-medical-gmbh--liquoguard-7-liquoguard-7-drainage/510k/csf-shunt/pdfs/csf-shunt--moller-medical-gmbh--liquoguard-7-liquoguard-7-drainage--510k.pdf",
+        "bytes": 165226
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--moller-medical-gmbh--liquoguard-7-liquoguard-7-drainage.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--moller-medical-gmbh--liquoguard-7-liquoguard-7-drainage/enriched/csf-shunt--moller-medical-gmbh--liquoguard-7-liquoguard-7-drainage.json",
+        "bytes": 7206
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K150898.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--moller-medical-gmbh--liquoguard-7-liquoguard-7-drainage/fda_raw/JXG/K150898.json",
+        "bytes": 623
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--moller-medical-gmbh--liquoguard-7-liquoguard-7-drainage.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--moller-medical-gmbh--liquoguard-7-liquoguard-7-drainage/merged/csf-shunt--moller-medical-gmbh--liquoguard-7-liquoguard-7-drainage.json",
+        "bytes": 898
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

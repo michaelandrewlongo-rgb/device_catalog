@@ -1,0 +1,47 @@
+{
+  "device_slug": "csf-shunt--integra--codman-libertis-1-5-mm",
+  "artifact_folder": "csf-shunt--integra--codman-libertis-1-5-mm",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 462441,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/csf-shunt/parsed/fda_summaries/csf-shunt--integra--codman-libertis-1-5-mm--510k.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--codman-libertis-1-5-mm/510k/csf-shunt/parsed/fda_summaries/csf-shunt--integra--codman-libertis-1-5-mm--510k.json",
+        "bytes": 27368
+      },
+      {
+        "source": "pipeline/data/510k/csf-shunt/pdfs/csf-shunt--integra--codman-libertis-1-5-mm--510k.pdf",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--codman-libertis-1-5-mm/510k/csf-shunt/pdfs/csf-shunt--integra--codman-libertis-1-5-mm--510k.pdf",
+        "bytes": 428024
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--integra--codman-libertis-1-5-mm.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--codman-libertis-1-5-mm/enriched/csf-shunt--integra--codman-libertis-1-5-mm.json",
+        "bytes": 5014
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K243552.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--codman-libertis-1-5-mm/fda_raw/JXG/K243552.json",
+        "bytes": 777
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--integra--codman-libertis-1-5-mm.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--codman-libertis-1-5-mm/merged/csf-shunt--integra--codman-libertis-1-5-mm.json",
+        "bytes": 1258
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

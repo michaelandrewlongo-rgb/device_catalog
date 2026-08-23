@@ -1,0 +1,1488 @@
+{
+  "device_slug": "_unassigned",
+  "artifact_folder": "_unassigned",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 295,
+  "bytes": 520455380,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/nspr_extract.log",
+        "artifact": "artifacts/_unassigned/data_by_device/nspr_extract.log",
+        "bytes": 61068
+      },
+      {
+        "source": "pipeline/data/data_by_device/PRODUCT_GOAL.md",
+        "artifact": "artifacts/_unassigned/data_by_device/PRODUCT_GOAL.md",
+        "bytes": 4882
+      },
+      {
+        "source": "pipeline/data/data_by_device/run_full_pipeline.bat",
+        "artifact": "artifacts/_unassigned/data_by_device/run_full_pipeline.bat",
+        "bytes": 513
+      },
+      {
+        "source": "pipeline/data/data_by_device/run_nspr_extract.py",
+        "artifact": "artifacts/_unassigned/data_by_device/run_nspr_extract.py",
+        "bytes": 865
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/documents/nspr--300223-us-d-ifuse-c-arm-stm.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--300223-us-d-ifuse-c-arm-stm.json",
+        "bytes": 6826
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--300867-us-l2c-ifuse-torq2c-stm-1.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--300867-us-l2c-ifuse-torq2c-stm-1.json",
+        "bytes": 6389
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--300961-us-rev-h-ifuse-bedrock-granite-close-head-stm.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--300961-us-rev-h-ifuse-bedrock-granite-close-head-stm.json",
+        "bytes": 33672
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--301081-us-e-ifuse-torq-bedrock-stm.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--301081-us-e-ifuse-torq-bedrock-stm.json",
+        "bytes": 5675
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--303015-us-rev-b-ifuse-torq-tnt-stm.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--303015-us-rev-b-ifuse-torq-tnt-stm.json",
+        "bytes": 2712
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--303016-us-rev-b-ifuse-torq-tnt-nav-stm.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--303016-us-rev-b-ifuse-torq-tnt-nav-stm.json",
+        "bytes": 5728
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--capstone-peek-technique-guide-1.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--capstone-peek-technique-guide-1.json",
+        "bytes": 6903
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--capstone-peek-technique-guide.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--capstone-peek-technique-guide.json",
+        "bytes": 6443
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--cascadia-an-lordotic-oblique-sell-sheet.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--cascadia-an-lordotic-oblique-sell-sheet.json",
+        "bytes": 1829
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--cascadia-cervical-3d-surgical-technique-global-version.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--cascadia-cervical-3d-surgical-technique-global-version.json",
+        "bytes": 9234
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--cascadia-tl-sell-sheet.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--cascadia-tl-sell-sheet.json",
+        "bytes": 1416
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--clydesdale-surgical-technique-1.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--clydesdale-surgical-technique-1.json",
+        "bytes": 9209
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--coroent-small-interlock-2-technique-guide.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--coroent-small-interlock-2-technique-guide.json",
+        "bytes": 9530
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--coroent-small-interlock-technique-guide.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--coroent-small-interlock-technique-guide.json",
+        "bytes": 7462
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--coroent-xl-f-technique-guide.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--coroent-xl-f-technique-guide.json",
+        "bytes": 17820
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--dakota-acdf-lbl-fb-139-rev-c.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--dakota-acdf-lbl-fb-139-rev-c.json",
+        "bytes": 811
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--dakota-lbl-stg-047-revd.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--dakota-lbl-stg-047-revd.json",
+        "bytes": 929
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--depuy-synthes-concorde-lift-expandable-tlif-plif-spacer-sales-sheet-depuysynthes-2.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--depuy-synthes-concorde-lift-expandable-tlif-plif-spacer-sales-sheet-depuysynthes-2.json",
+        "bytes": 3374
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--depuy-synthes-concorde-lift-technique-guide-sgt-depuysynthes.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--depuy-synthes-concorde-lift-technique-guide-sgt-depuysynthes.json",
+        "bytes": 7894
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--divergence-l-data-sheet.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--divergence-l-data-sheet.json",
+        "bytes": 7555
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--divergence-stand-alone-technique-guide.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--divergence-stand-alone-technique-guide.json",
+        "bytes": 9117
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--global-cascadia-lateral-3d-sell-sheet-smacc-approved-2.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--global-cascadia-lateral-3d-sell-sheet-smacc-approved-2.json",
+        "bytes": 1503
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--globus-altera-articulating-tlif-expanding-spacer.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--globus-altera-articulating-tlif-expanding-spacer.json",
+        "bytes": 8708
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--globus-coalition-agx-standalone-acdf-spacer-plate-technique-guide-reve-1.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--globus-coalition-agx-standalone-acdf-spacer-plate-technique-guide-reve-1.json",
+        "bytes": 10802
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--globus-coalition-agx-standalone-acdf-spacer-plate-technique-guide-reve.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--globus-coalition-agx-standalone-acdf-spacer-plate-technique-guide-reve.json",
+        "bytes": 11604
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--globus-coalition-mis-peek-acdf-spacer-technique-guide-revf-1.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--globus-coalition-mis-peek-acdf-spacer-technique-guide-revf-1.json",
+        "bytes": 19417
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--globus-coalition-mis-peek-acdf-spacer-technique-guide-revf.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--globus-coalition-mis-peek-acdf-spacer-technique-guide-revf.json",
+        "bytes": 15747
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--globus-colonial-colonial-tps-acdf-spacer-techniqueguide-reve-2.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--globus-colonial-colonial-tps-acdf-spacer-techniqueguide-reve-2.json",
+        "bytes": 13099
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--globus-creo-addition-technique-guide-revc.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--globus-creo-addition-technique-guide-revc.json",
+        "bytes": 11476
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--globus-creo-amp-threaded-thoracolumbar-pedicle-screw-technique-guide-revb.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--globus-creo-amp-threaded-thoracolumbar-pedicle-screw-technique-guide-revb.json",
+        "bytes": 10887
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--globus-creo-dlx-large-diameter-technique-guide-revc.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--globus-creo-dlx-large-diameter-technique-guide-revc.json",
+        "bytes": 25062
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--globus-creo-fenestrated-pedicle-screw-surgeon-brochure-revb.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--globus-creo-fenestrated-pedicle-screw-surgeon-brochure-revb.json",
+        "bytes": 2664
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--globus-creo-linx-single-level-pedicle-screw-connector-reva.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--globus-creo-linx-single-level-pedicle-screw-connector-reva.json",
+        "bytes": 7894
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--globus-creo-mcs-medial-cortical-screw-modular-pedicle-techniqueguide-reve.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--globus-creo-mcs-medial-cortical-screw-modular-pedicle-techniqueguide-reve.json",
+        "bytes": 11622
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--globus-creo-mis-pedicle-screw-technique-guide-revc-1.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--globus-creo-mis-pedicle-screw-technique-guide-revc-1.json",
+        "bytes": 11094
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--globus-creo-mis-pedicle-screw-technique-guide-revc.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--globus-creo-mis-pedicle-screw-technique-guide-revc.json",
+        "bytes": 17202
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--globus-creo-nxt-cobalt-chrome-deformity-system-technique-guide-reva.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--globus-creo-nxt-cobalt-chrome-deformity-system-technique-guide-reva.json",
+        "bytes": 18450
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--globus-creo-side-loading-pedicle-screw-system-technique-guide-revd.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--globus-creo-side-loading-pedicle-screw-system-technique-guide-revd.json",
+        "bytes": 22372
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--globus-quartex-oct-posterior-fusion-system-technique-guide-revd-1.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--globus-quartex-oct-posterior-fusion-system-technique-guide-revd-1.json",
+        "bytes": 22559
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--globus-resonate-anterior-cervical-plating-system-technique-guide-revc.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--globus-resonate-anterior-cervical-plating-system-technique-guide-revc.json",
+        "bytes": 12622
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--globus-rise-expandable-tlif-spacer-technique-guide-revd.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--globus-rise-expandable-tlif-spacer-technique-guide-revd.json",
+        "bytes": 19134
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--globus-rise-intralif-expandable-spacer-technique-guide-revc.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--globus-rise-intralif-expandable-spacer-technique-guide-revc.json",
+        "bytes": 13405
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--globus-rise-l-expandable-lateral-lumbar-interbody-technique-guide-revf.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--globus-rise-l-expandable-lateral-lumbar-interbody-technique-guide-revf.json",
+        "bytes": 19571
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--globus-sable-expandable-tlif-plif-spacer-technique-guide-revc-1.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--globus-sable-expandable-tlif-plif-spacer-technique-guide-revc-1.json",
+        "bytes": 14845
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--gmtgd265-quartexaddition-c-techniqueguide-reva.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--gmtgd265-quartexaddition-c-techniqueguide-reva.json",
+        "bytes": 5368
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--gmtgd27-colonialandcolonialtps-techniqueguide-reve.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--gmtgd27-colonialandcolonialtps-techniqueguide-reve.json",
+        "bytes": 12425
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--ifuse-3d-brochure-9383031720ous.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--ifuse-3d-brochure-9383031720ous.json",
+        "bytes": 1721
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--ifuse-3d-brochure-app-pdf-9796-100621-2-1.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--ifuse-3d-brochure-app-pdf-9796-100621-2-1.json",
+        "bytes": 2160
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--ifuse-3d-product-brochure-9796-053119-1.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--ifuse-3d-product-brochure-9796-053119-1.json",
+        "bytes": 2069
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--ifuse-torq-brochure-10902-030421.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--ifuse-torq-brochure-10902-030421.json",
+        "bytes": 1890
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--ifuse-torq-lateral-sijf-brochure-11421-092923.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--ifuse-torq-lateral-sijf-brochure-11421-092923.json",
+        "bytes": 3183
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--ifuse-torq-sijf-claims-sheet.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--ifuse-torq-sijf-claims-sheet.json",
+        "bytes": 3284
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--irix-a-brochure-fm-c-mrk-31-c.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--irix-a-brochure-fm-c-mrk-31-c.json",
+        "bytes": 2014
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--irix-a-techniqueguide-fm-c-mrk-67-1.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--irix-a-techniqueguide-fm-c-mrk-67-1.json",
+        "bytes": 9077
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--la-csts-sa-07-rev-d-csts-sa-sales-sheet.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--la-csts-sa-07-rev-d-csts-sa-sales-sheet.json",
+        "bytes": 5093
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--la-csts-saa-07-rev-a-csts-sa-anchor-fixation-sales-sheet-1-securepdf.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--la-csts-saa-07-rev-a-csts-sa-anchor-fixation-sales-sheet-1-securepdf.json",
+        "bytes": 4611
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--lit0057-rev-d-hive-standalone-cervical-system-sell-sheet-english.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--lit0057-rev-d-hive-standalone-cervical-system-sell-sheet-english.json",
+        "bytes": 2328
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--modulex-brochure.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--modulex-brochure.json",
+        "bytes": 8628
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--modulex-nanolock-shank.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--modulex-nanolock-shank.json",
+        "bytes": 4840
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--modulex-surgical-technique-1.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--modulex-surgical-technique-1.json",
+        "bytes": 3334
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--paramount-sell-sheet.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--paramount-sell-sheet.json",
+        "bytes": 1492
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--paramount-surgical-technqiue-modular.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--paramount-surgical-technqiue-modular.json",
+        "bytes": 13422
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--pivox-surgical-technique.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--pivox-surgical-technique.json",
+        "bytes": 14042
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--precept-technique-guide.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--precept-technique-guide.json",
+        "bytes": 4103
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--prestige-lp-technique-guide.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--prestige-lp-technique-guide.json",
+        "bytes": 13987
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--reline-cervical-technique-guide.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--reline-cervical-technique-guide.json",
+        "bytes": 9630
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--reline-fenestrated-technique-guide-1.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--reline-fenestrated-technique-guide-1.json",
+        "bytes": 3820
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--reline-small-stature-technique-guide.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--reline-small-stature-technique-guide.json",
+        "bytes": 17494
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--reline-technique-guide.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--reline-technique-guide.json",
+        "bytes": 8633
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--sacrixproductbrochure.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--sacrixproductbrochure.json",
+        "bytes": 2358
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--shoreline-acs-sales-brochure.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--shoreline-acs-sales-brochure.json",
+        "bytes": 2183
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--si-bone-ifuse-intra-x-allograft-cortical-si-joint-dowel.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--si-bone-ifuse-intra-x-allograft-cortical-si-joint-dowel.json",
+        "bytes": 13731
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--solera-tq.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--solera-tq.json",
+        "bytes": 7267
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--st-42-00002revisacrofusesurgicaltechnique-2.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--st-42-00002revisacrofusesurgicaltechnique-2.json",
+        "bytes": 10241
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--st-cd-horizonr-solerar-surgical-technique.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--st-cd-horizonr-solerar-surgical-technique.json",
+        "bytes": 6699
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--st-csts-sa-01-rev-e-csts-sa-surgical-technique.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--st-csts-sa-01-rev-e-csts-sa-surgical-technique.json",
+        "bytes": 14412
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--st-csts-saa-01-rev-b-csts-saa-surgical-technique-securepdf.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--st-csts-saa-01-rev-b-csts-saa-surgical-technique-securepdf.json",
+        "bytes": 8093
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--styker-tritanium-c.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--styker-tritanium-c.json",
+        "bytes": 3106
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--technique-guide-alif-stand-alone.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--technique-guide-alif-stand-alone.json",
+        "bytes": 11233
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--tritanium-c-sell-sheet.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--tritanium-c-sell-sheet.json",
+        "bytes": 1399
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--vault-c-ss-revc.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--vault-c-ss-revc.json",
+        "bytes": 2417
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--vault-c-stg-revg.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--vault-c-stg-revg.json",
+        "bytes": 590
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--vertu-cervicalbrochure-spinal-elements-2.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--vertu-cervicalbrochure-spinal-elements-2.json",
+        "bytes": 1792
+      },
+      {
+        "source": "pipeline/data/extracted/documents/nspr--zevo-technique-guide.json",
+        "artifact": "artifacts/_unassigned/extracted/documents/nspr--zevo-technique-guide.json",
+        "bytes": 14930
+      },
+      {
+        "source": "pipeline/data/extracted/evtoday/cerebral-coils.json",
+        "artifact": "artifacts/_unassigned/extracted/evtoday/cerebral-coils.json",
+        "bytes": 21907
+      },
+      {
+        "source": "pipeline/data/extracted/evtoday/cerebral-stents.json",
+        "artifact": "artifacts/_unassigned/extracted/evtoday/cerebral-stents.json",
+        "bytes": 3271
+      },
+      {
+        "source": "pipeline/data/extracted/evtoday/flow-diverters.json",
+        "artifact": "artifacts/_unassigned/extracted/evtoday/flow-diverters.json",
+        "bytes": 1462
+      },
+      {
+        "source": "pipeline/data/extracted/evtoday/guiding-catheters.json",
+        "artifact": "artifacts/_unassigned/extracted/evtoday/guiding-catheters.json",
+        "bytes": 23268
+      },
+      {
+        "source": "pipeline/data/extracted/evtoday/intrasaccular-flow-disruptor-1.json",
+        "artifact": "artifacts/_unassigned/extracted/evtoday/intrasaccular-flow-disruptor-1.json",
+        "bytes": 858
+      },
+      {
+        "source": "pipeline/data/extracted/evtoday/mechanical-thrombectomythrombolysis-neurovascular.json",
+        "artifact": "artifacts/_unassigned/extracted/evtoday/mechanical-thrombectomythrombolysis-neurovascular.json",
+        "bytes": 21380
+      },
+      {
+        "source": "pipeline/data/extracted/evtoday/microcatheters-4.json",
+        "artifact": "artifacts/_unassigned/extracted/evtoday/microcatheters-4.json",
+        "bytes": 74184
+      },
+      {
+        "source": "pipeline/data/extracted/evtoday/neurovascular-liquid-embolics.json",
+        "artifact": "artifacts/_unassigned/extracted/evtoday/neurovascular-liquid-embolics.json",
+        "bytes": 2927
+      },
+      {
+        "source": "pipeline/data/extracted/evtoday/specialty-balloons-neuro.json",
+        "artifact": "artifacts/_unassigned/extracted/evtoday/specialty-balloons-neuro.json",
+        "bytes": 5310
+      },
+      {
+        "source": "pipeline/data/extracted/evtoday/thrombus-aspiration-devices.json",
+        "artifact": "artifacts/_unassigned/extracted/evtoday/thrombus-aspiration-devices.json",
+        "bytes": 13335
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/_priority_detail_slugs.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/_priority_detail_slugs.json",
+        "bytes": 18160
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/_slugs.txt",
+        "artifact": "artifacts/_unassigned/extracted/nspr/_slugs.txt",
+        "bytes": 4120
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/admiral-acp-anterior-cervical-plate.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/admiral-acp-anterior-cervical-plate.json",
+        "bytes": 448
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/ais-c-zero-profile-stand-alone-peek-and-titanium-acdf.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/ais-c-zero-profile-stand-alone-peek-and-titanium-acdf.json",
+        "bytes": 1203
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/altera-articulating-expandable-tlif-banana-spacer.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/altera-articulating-expandable-tlif-banana-spacer.json",
+        "bytes": 1356
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/antares-3dr-stand-alone-zero-profile-alif-3d-titanium.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/antares-3dr-stand-alone-zero-profile-alif-3d-titanium.json",
+        "bytes": 1622
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/anterior-lumbar-zero-profile-stand-alone-3d-printed-titanium-alif-spacer.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/anterior-lumbar-zero-profile-stand-alone-3d-printed-titanium-alif-spacer.json",
+        "bytes": 1522
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/capstone-peek-tlif-plif-interbody-spacer.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/capstone-peek-tlif-plif-interbody-spacer.json",
+        "bytes": 1427
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/capstone-ptc-peek-coated-titanium-plif-tlif-interbody-spacer.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/capstone-ptc-peek-coated-titanium-plif-tlif-interbody-spacer.json",
+        "bytes": 1619
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/cascadia-al-3d-printed-titanium-anterior-lumbar-spacer.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/cascadia-al-3d-printed-titanium-anterior-lumbar-spacer.json",
+        "bytes": 1221
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/cascadia-an-3d-printed-titanium-plif-spacer.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/cascadia-an-3d-printed-titanium-plif-spacer.json",
+        "bytes": 1266
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/cascadia-an-3d-titanium-lordotic-oblique-plif-tlif-spacer.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/cascadia-an-3d-titanium-lordotic-oblique-plif-tlif-spacer.json",
+        "bytes": 1301
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/cascadia-cervical-3d-acdf-interbody-spacer.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/cascadia-cervical-3d-acdf-interbody-spacer.json",
+        "bytes": 1157
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/cascadia-lateral-3d-titanium-lumbar-interbody-spacer.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/cascadia-lateral-3d-titanium-lumbar-interbody-spacer.json",
+        "bytes": 1454
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/cascadia-tl-3d-tlif-banana-spacer.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/cascadia-tl-3d-tlif-banana-spacer.json",
+        "bytes": 1253
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/cd-horizon-modulex-55-spinal-system-with-nanolock.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/cd-horizon-modulex-55-spinal-system-with-nanolock.json",
+        "bytes": 2028
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/cd-horizon-solera-475-5560mm-thoracolumbar-fixation-system.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/cd-horizon-solera-475-5560mm-thoracolumbar-fixation-system.json",
+        "bytes": 273
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/cd-horizon-solera-475mm-5560mm-thoracolumbar-fixation-system.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/cd-horizon-solera-475mm-5560mm-thoracolumbar-fixation-system.json",
+        "bytes": 2143
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/clydesdale-peek-ptc-olif-llif-interbody-spacer.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/clydesdale-peek-ptc-olif-llif-interbody-spacer.json",
+        "bytes": 1312
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/coalition-agx-anterior-cervical-plate-for-acdf.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/coalition-agx-anterior-cervical-plate-for-acdf.json",
+        "bytes": 1563
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/coalition-agx-peek-cortical-allograft-spacer.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/coalition-agx-peek-cortical-allograft-spacer.json",
+        "bytes": 1816
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/coalition-mis-acdf-spacer-peek.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/coalition-mis-acdf-spacer-peek.json",
+        "bytes": 1420
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/coalition-mis-titanium-acdf-spacer.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/coalition-mis-titanium-acdf-spacer.json",
+        "bytes": 1525
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/coalition-peektitanium-3d-printed-alif-spacer.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/coalition-peektitanium-3d-printed-alif-spacer.json",
+        "bytes": 280
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/colonial-peek-acdf-spacer.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/colonial-peek-acdf-spacer.json",
+        "bytes": 1444
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/colonial-tps-acdf-spacer.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/colonial-tps-acdf-spacer.json",
+        "bytes": 1479
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/concorde-lift-expandable-tlif-plif-spacer.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/concorde-lift-expandable-tlif-plif-spacer.json",
+        "bytes": 1744
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/coroent-oblique-tlif-spacer.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/coroent-oblique-tlif-spacer.json",
+        "bytes": 1004
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/coroent-small-interlock-2-titanium-plasma-sprayed-peek-acdf-spacer.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/coroent-small-interlock-2-titanium-plasma-sprayed-peek-acdf-spacer.json",
+        "bytes": 1727
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/coroent-small-interlock-peek-acdf-spacer.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/coroent-small-interlock-peek-acdf-spacer.json",
+        "bytes": 1355
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/coroent-xl-f-peek-xlif-spacer.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/coroent-xl-f-peek-xlif-spacer.json",
+        "bytes": 1374
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/corpectomy-cage/_listing.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/corpectomy-cage/_listing.json",
+        "bytes": 20897
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/creo-55-small-diameter-low-profile-system.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/creo-55-small-diameter-low-profile-system.json",
+        "bytes": 994
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/creo-addition-fusion-extension-system.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/creo-addition-fusion-extension-system.json",
+        "bytes": 1260
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/creo-amp-modular-thoracolumbar-pedicle-screw-system.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/creo-amp-modular-thoracolumbar-pedicle-screw-system.json",
+        "bytes": 2093
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/creo-cocr-cobalt-chrome-pedicle-screw-system.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/creo-cocr-cobalt-chrome-pedicle-screw-system.json",
+        "bytes": 1211
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/creo-dlx-large-diameter-rod-system.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/creo-dlx-large-diameter-rod-system.json",
+        "bytes": 1604
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/creo-fenestrated-pedicle-screw-system.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/creo-fenestrated-pedicle-screw-system.json",
+        "bytes": 1565
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/creo-linx-pedicle-screw-connector.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/creo-linx-pedicle-screw-connector.json",
+        "bytes": 1171
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/creo-mcs-midline-cortical-screw-system.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/creo-mcs-midline-cortical-screw-system.json",
+        "bytes": 1630
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/creo-mis-percutaneous-pedicle-screw-system.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/creo-mis-percutaneous-pedicle-screw-system.json",
+        "bytes": 1241
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/creo-nxt-cobalt-chrome-deformity-system.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/creo-nxt-cobalt-chrome-deformity-system.json",
+        "bytes": 1556
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/creo-one-robotic-screw-system.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/creo-one-robotic-screw-system.json",
+        "bytes": 1173
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/creo-s2ai-s2-alar-si-screw.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/creo-s2ai-s2-alar-si-screw.json",
+        "bytes": 1032
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/creo-side-loading-pedicle-screw-system.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/creo-side-loading-pedicle-screw-system.json",
+        "bytes": 2197
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/creo-stabilization-system.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/creo-stabilization-system.json",
+        "bytes": 260
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/csf-management/_listing.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/csf-management/_listing.json",
+        "bytes": 13508
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/cure-20-acp-anterior-cervical-plate.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/cure-20-acp-anterior-cervical-plate.json",
+        "bytes": 540
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/dakota-stand-alone-zero-profile-peektitanium-acdf-spacer.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/dakota-stand-alone-zero-profile-peektitanium-acdf-spacer.json",
+        "bytes": 1793
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/disc-replacement-artificial-disc/_listing.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/disc-replacement-artificial-disc/_listing.json",
+        "bytes": 5111
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/divergence-l-alif-olif-peek-spacer.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/divergence-l-alif-olif-peek-spacer.json",
+        "bytes": 1646
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/divergence-peek-standalone-acdf-spacer-integrated-screws.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/divergence-peek-standalone-acdf-spacer-integrated-screws.json",
+        "bytes": 1394
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/es2-mis-pedicle-screw-system.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/es2-mis-pedicle-screw-system.json",
+        "bytes": 263
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/es2-percutaneous-thoracolumbar-pedicle-screw-set.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/es2-percutaneous-thoracolumbar-pedicle-screw-set.json",
+        "bytes": 1331
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/everest-thoracolumbar-spinal-deformity-set.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/everest-thoracolumbar-spinal-deformity-set.json",
+        "bytes": 1596
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/expandable-vertebral-body-replacement-exvbr-system.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/expandable-vertebral-body-replacement-exvbr-system.json",
+        "bytes": 285
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/helix-acp-anterior-cervical-plate.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/helix-acp-anterior-cervical-plate.json",
+        "bytes": 442
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/hive-stand-alone-cervical-acdf-zero-profile.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/hive-stand-alone-cervical-acdf-zero-profile.json",
+        "bytes": 2166
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/ifuse-3d-porous-titanium-si-dowell.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/ifuse-3d-porous-titanium-si-dowell.json",
+        "bytes": 1807
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/ifuse-bedrock-granite-sacroiliac-fusion-system.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/ifuse-bedrock-granite-sacroiliac-fusion-system.json",
+        "bytes": 1587
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/ifuse-bedrock-granite.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/ifuse-bedrock-granite.json",
+        "bytes": 256
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/ifuse-intra-sacroiliac-joint-fusion-system.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/ifuse-intra-sacroiliac-joint-fusion-system.json",
+        "bytes": 277
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/ifuse-intra-ti-3d-titanium-posterior-si-joint-implant.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/ifuse-intra-ti-3d-titanium-posterior-si-joint-implant.json",
+        "bytes": 1327
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/ifuse-intra-triangular-allograft-cortical-dowel.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/ifuse-intra-triangular-allograft-cortical-dowel.json",
+        "bytes": 998
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/ifuse-intra-x-allograft-cortical-si-joint-dowell.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/ifuse-intra-x-allograft-cortical-si-joint-dowell.json",
+        "bytes": 1156
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/ifuse-intra-x-sacroiliac-joint-fusion-system.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/ifuse-intra-x-sacroiliac-joint-fusion-system.json",
+        "bytes": 279
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/ifuse-torq-3d-printed-porous-titanium-si-screw.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/ifuse-torq-3d-printed-porous-titanium-si-screw.json",
+        "bytes": 2035
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/ifuse-torq-sacroiliac-joint-fusion-system.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/ifuse-torq-sacroiliac-joint-fusion-system.json",
+        "bytes": 276
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/ifuse-torq-tnt-3d-titanium-porous-through-and-through-bolt.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/ifuse-torq-tnt-3d-titanium-porous-through-and-through-bolt.json",
+        "bytes": 1469
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/ifuse-torq-tnt-sacroiliac-joint-fusion-system.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/ifuse-torq-tnt-sacroiliac-joint-fusion-system.json",
+        "bytes": 280
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/intervertebral-cages/_listing.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/intervertebral-cages/_listing.json",
+        "bytes": 271346
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/irix-a-standalone-zero-profile-titanium-plasma-coated-peek-alif-spacer.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/irix-a-standalone-zero-profile-titanium-plasma-coated-peek-alif-spacer.json",
+        "bytes": 2138
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/mojave-pl-3d-expandable-interbody-plif-tlif-spacer-3d-printed.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/mojave-pl-3d-expandable-interbody-plif-tlif-spacer-3d-printed.json",
+        "bytes": 1674
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/nuvasive-acp-anterior-cervical-plate.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/nuvasive-acp-anterior-cervical-plate.json",
+        "bytes": 720
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/paramount-etched-titanium-zero-profile-acdf-spacer.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/paramount-etched-titanium-zero-profile-acdf-spacer.json",
+        "bytes": 2427
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs_index.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs_index.json",
+        "bytes": 27820
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/300223-us-d-ifuse-c-arm-stm.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/300223-us-d-ifuse-c-arm-stm.pdf",
+        "bytes": 14000904
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/300867-us-l2c-ifuse-torq2c-stm-1.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/300867-us-l2c-ifuse-torq2c-stm-1.pdf",
+        "bytes": 11011027
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/300961-us-rev-h-ifuse-bedrock-granite-close-head-stm.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/300961-us-rev-h-ifuse-bedrock-granite-close-head-stm.pdf",
+        "bytes": 10448561
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/301081-us-e-ifuse-torq-bedrock-stm.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/301081-us-e-ifuse-torq-bedrock-stm.pdf",
+        "bytes": 7053283
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/303015-us-rev-b-ifuse-torq-tnt-stm.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/303015-us-rev-b-ifuse-torq-tnt-stm.pdf",
+        "bytes": 3749988
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/303016-us-rev-b-ifuse-torq-tnt-nav-stm.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/303016-us-rev-b-ifuse-torq-tnt-nav-stm.pdf",
+        "bytes": 4865974
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/capstone-peek-technique-guide-1.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/capstone-peek-technique-guide-1.pdf",
+        "bytes": 1874296
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/capstone-peek-technique-guide.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/capstone-peek-technique-guide.pdf",
+        "bytes": 1874296
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/cascadia-an-lordotic-oblique-sell-sheet.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/cascadia-an-lordotic-oblique-sell-sheet.pdf",
+        "bytes": 1069992
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/cascadia-cervical-3d-surgical-technique-global-version.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/cascadia-cervical-3d-surgical-technique-global-version.pdf",
+        "bytes": 7951658
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/cascadia-tl-sell-sheet.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/cascadia-tl-sell-sheet.pdf",
+        "bytes": 1547058
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/clydesdale-surgical-technique-1.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/clydesdale-surgical-technique-1.pdf",
+        "bytes": 2534266
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/coroent-small-interlock-2-technique-guide.PDF",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/coroent-small-interlock-2-technique-guide.PDF",
+        "bytes": 8774942
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/coroent-small-interlock-technique-guide.PDF",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/coroent-small-interlock-technique-guide.PDF",
+        "bytes": 14050129
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/coroent-xl-f-technique-guide.PDF",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/coroent-xl-f-technique-guide.PDF",
+        "bytes": 23721789
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/dakota-acdf-lbl-fb-139-rev-c.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/dakota-acdf-lbl-fb-139-rev-c.pdf",
+        "bytes": 785132
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/dakota-lbl-stg-047-revd.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/dakota-lbl-stg-047-revd.pdf",
+        "bytes": 3917166
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/depuy-synthes-concorde-lift-expandable-tlif-plif-spacer-sales-sheet-depuysynthes-2.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/depuy-synthes-concorde-lift-expandable-tlif-plif-spacer-sales-sheet-depuysynthes-2.pdf",
+        "bytes": 444340
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/depuy-synthes-concorde-lift-technique-guide-sgt-depuysynthes.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/depuy-synthes-concorde-lift-technique-guide-sgt-depuysynthes.pdf",
+        "bytes": 2108999
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/divergence-l-data-sheet.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/divergence-l-data-sheet.pdf",
+        "bytes": 670540
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/divergence-stand-alone-technique-guide.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/divergence-stand-alone-technique-guide.pdf",
+        "bytes": 1349139
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/global-cascadia-lateral-3d-sell-sheet-smacc-approved-2.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/global-cascadia-lateral-3d-sell-sheet-smacc-approved-2.pdf",
+        "bytes": 1159556
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/globus-altera-articulating-tlif-expanding-spacer.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/globus-altera-articulating-tlif-expanding-spacer.pdf",
+        "bytes": 10635301
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/globus-coalition-agx-standalone-acdf-spacer-plate-technique-guide-reve-1.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/globus-coalition-agx-standalone-acdf-spacer-plate-technique-guide-reve-1.pdf",
+        "bytes": 7954236
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/globus-coalition-agx-standalone-acdf-spacer-plate-technique-guide-reve.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/globus-coalition-agx-standalone-acdf-spacer-plate-technique-guide-reve.pdf",
+        "bytes": 7954236
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/globus-coalition-mis-peek-acdf-spacer-technique-guide-revf-1.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/globus-coalition-mis-peek-acdf-spacer-technique-guide-revf-1.pdf",
+        "bytes": 7114350
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/globus-coalition-mis-peek-acdf-spacer-technique-guide-revf.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/globus-coalition-mis-peek-acdf-spacer-technique-guide-revf.pdf",
+        "bytes": 7114350
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/globus-colonial-colonial-tps-acdf-spacer-techniqueguide-reve-2.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/globus-colonial-colonial-tps-acdf-spacer-techniqueguide-reve-2.pdf",
+        "bytes": 5752048
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/globus-creo-addition-technique-guide-revc.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/globus-creo-addition-technique-guide-revc.pdf",
+        "bytes": 4490017
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/globus-creo-amp-threaded-thoracolumbar-pedicle-screw-technique-guide-revb.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/globus-creo-amp-threaded-thoracolumbar-pedicle-screw-technique-guide-revb.pdf",
+        "bytes": 7301384
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/globus-creo-dlx-large-diameter-technique-guide-revc.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/globus-creo-dlx-large-diameter-technique-guide-revc.pdf",
+        "bytes": 6386017
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/globus-creo-fenestrated-pedicle-screw-surgeon-brochure-revb.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/globus-creo-fenestrated-pedicle-screw-surgeon-brochure-revb.pdf",
+        "bytes": 3285785
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/globus-creo-linx-single-level-pedicle-screw-connector-reva.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/globus-creo-linx-single-level-pedicle-screw-connector-reva.pdf",
+        "bytes": 5614201
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/globus-creo-mcs-medial-cortical-screw-modular-pedicle-techniqueguide-reve.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/globus-creo-mcs-medial-cortical-screw-modular-pedicle-techniqueguide-reve.pdf",
+        "bytes": 5584501
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/globus-creo-mis-pedicle-screw-technique-guide-revc-1.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/globus-creo-mis-pedicle-screw-technique-guide-revc-1.pdf",
+        "bytes": 5327385
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/globus-creo-mis-pedicle-screw-technique-guide-revc.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/globus-creo-mis-pedicle-screw-technique-guide-revc.pdf",
+        "bytes": 5327385
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/globus-creo-nxt-cobalt-chrome-deformity-system-technique-guide-reva.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/globus-creo-nxt-cobalt-chrome-deformity-system-technique-guide-reva.pdf",
+        "bytes": 9060974
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/globus-creo-side-loading-pedicle-screw-system-technique-guide-revd.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/globus-creo-side-loading-pedicle-screw-system-technique-guide-revd.pdf",
+        "bytes": 4776779
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/globus-quartex-oct-posterior-fusion-system-technique-guide-revd-1.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/globus-quartex-oct-posterior-fusion-system-technique-guide-revd-1.pdf",
+        "bytes": 6145022
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/globus-resonate-anterior-cervical-plating-system-technique-guide-revc.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/globus-resonate-anterior-cervical-plating-system-technique-guide-revc.pdf",
+        "bytes": 4828877
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/globus-rise-expandable-tlif-spacer-technique-guide-revd.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/globus-rise-expandable-tlif-spacer-technique-guide-revd.pdf",
+        "bytes": 7052685
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/globus-rise-intralif-expandable-spacer-technique-guide-revc.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/globus-rise-intralif-expandable-spacer-technique-guide-revc.pdf",
+        "bytes": 3977058
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/globus-rise-l-expandable-lateral-lumbar-interbody-technique-guide-revf.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/globus-rise-l-expandable-lateral-lumbar-interbody-technique-guide-revf.pdf",
+        "bytes": 9635434
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/globus-sable-expandable-tlif-plif-spacer-technique-guide-revc-1.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/globus-sable-expandable-tlif-plif-spacer-technique-guide-revc-1.pdf",
+        "bytes": 5971979
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/gmtgd265-quartexaddition-c-techniqueguide-reva.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/gmtgd265-quartexaddition-c-techniqueguide-reva.pdf",
+        "bytes": 3535373
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/gmtgd27-colonialandcolonialtps-techniqueguide-reve.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/gmtgd27-colonialandcolonialtps-techniqueguide-reve.pdf",
+        "bytes": 5752048
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/ifuse-3d-brochure-9383031720ous.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/ifuse-3d-brochure-9383031720ous.pdf",
+        "bytes": 2683285
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/ifuse-3d-brochure-app-pdf-9796-100621-2-1.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/ifuse-3d-brochure-app-pdf-9796-100621-2-1.pdf",
+        "bytes": 4876349
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/ifuse-3d-product-brochure-9796-053119-1.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/ifuse-3d-product-brochure-9796-053119-1.pdf",
+        "bytes": 4111069
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/ifuse-torq-brochure-10902-030421.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/ifuse-torq-brochure-10902-030421.pdf",
+        "bytes": 3995116
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/ifuse-torq-lateral-sijf-brochure-11421-092923.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/ifuse-torq-lateral-sijf-brochure-11421-092923.pdf",
+        "bytes": 10971872
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/ifuse-torq-sijf-claims-sheet.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/ifuse-torq-sijf-claims-sheet.pdf",
+        "bytes": 395126
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/irix-a-brochure-fm-c-mrk-31-c.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/irix-a-brochure-fm-c-mrk-31-c.pdf",
+        "bytes": 3087520
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/irix-a-techniqueguide-fm-c-mrk-67-1.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/irix-a-techniqueguide-fm-c-mrk-67-1.pdf",
+        "bytes": 7548517
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/la-csts-sa-07-rev-d-csts-sa-sales-sheet.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/la-csts-sa-07-rev-d-csts-sa-sales-sheet.pdf",
+        "bytes": 1806097
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/la-csts-saa-07-rev-a-csts-sa-anchor-fixation-sales-sheet-1-securepdf.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/la-csts-saa-07-rev-a-csts-sa-anchor-fixation-sales-sheet-1-securepdf.pdf",
+        "bytes": 1625701
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/lit0057-rev-d-hive-standalone-cervical-system-sell-sheet-english.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/lit0057-rev-d-hive-standalone-cervical-system-sell-sheet-english.pdf",
+        "bytes": 4502212
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/modulex-brochure.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/modulex-brochure.pdf",
+        "bytes": 2276196
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/modulex-nanolock-shank.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/modulex-nanolock-shank.pdf",
+        "bytes": 1099742
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/modulex-surgical-technique-1.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/modulex-surgical-technique-1.pdf",
+        "bytes": 21531690
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/paramount-sell-sheet.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/paramount-sell-sheet.pdf",
+        "bytes": 577068
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/paramount-surgical-technqiue-modular.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/paramount-surgical-technqiue-modular.pdf",
+        "bytes": 2964919
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/pivox-surgical-technique.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/pivox-surgical-technique.pdf",
+        "bytes": 5328355
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/precept-technique-guide.PDF",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/precept-technique-guide.PDF",
+        "bytes": 38650553
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/prestige-lp-technique-guide.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/prestige-lp-technique-guide.pdf",
+        "bytes": 3491932
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/reline-cervical-technique-guide.PDF",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/reline-cervical-technique-guide.PDF",
+        "bytes": 25238500
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/reline-fenestrated-technique-guide-1.PDF",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/reline-fenestrated-technique-guide-1.PDF",
+        "bytes": 2518198
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/reline-small-stature-technique-guide.PDF",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/reline-small-stature-technique-guide.PDF",
+        "bytes": 4076763
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/reline-technique-guide.PDF",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/reline-technique-guide.PDF",
+        "bytes": 13689164
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/sacrixproductbrochure.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/sacrixproductbrochure.pdf",
+        "bytes": 2142496
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/shoreline-acs-sales-brochure.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/shoreline-acs-sales-brochure.pdf",
+        "bytes": 2038206
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/si-bone-ifuse-intra-x-allograft-cortical-si-joint-dowel.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/si-bone-ifuse-intra-x-allograft-cortical-si-joint-dowel.pdf",
+        "bytes": 1643615
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/solera-tq.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/solera-tq.pdf",
+        "bytes": 7955809
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/st-42-00002revisacrofusesurgicaltechnique-2.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/st-42-00002revisacrofusesurgicaltechnique-2.pdf",
+        "bytes": 8670230
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/st-cd-horizonr-solerar-surgical-technique.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/st-cd-horizonr-solerar-surgical-technique.pdf",
+        "bytes": 9201849
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/st-csts-sa-01-rev-e-csts-sa-surgical-technique.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/st-csts-sa-01-rev-e-csts-sa-surgical-technique.pdf",
+        "bytes": 3761908
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/st-csts-saa-01-rev-b-csts-saa-surgical-technique-securepdf.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/st-csts-saa-01-rev-b-csts-saa-surgical-technique-securepdf.pdf",
+        "bytes": 3977121
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/styker-tritanium-c.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/styker-tritanium-c.pdf",
+        "bytes": 6429741
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/technique-guide-alif-stand-alone.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/technique-guide-alif-stand-alone.pdf",
+        "bytes": 20369443
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/tritanium-c-sell-sheet.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/tritanium-c-sell-sheet.pdf",
+        "bytes": 765518
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/vault-c-ss-revc.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/vault-c-ss-revc.pdf",
+        "bytes": 820750
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/vault-c-stg-revg.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/vault-c-stg-revg.pdf",
+        "bytes": 4212970
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/vertu-cervicalbrochure-spinal-elements-2.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/vertu-cervicalbrochure-spinal-elements-2.pdf",
+        "bytes": 524491
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pdfs/zevo-technique-guide.pdf",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pdfs/zevo-technique-guide.pdf",
+        "bytes": 3669111
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/pivox-oblique-lumbar-interbody-spacer.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/pivox-oblique-lumbar-interbody-spacer.json",
+        "bytes": 1645
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/plates/_listing.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/plates/_listing.json",
+        "bytes": 87130
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/precept-posterior-spinal-fixation-system.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/precept-posterior-spinal-fixation-system.json",
+        "bytes": 1268
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/prestige-lp-cervical-artificial-disc.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/prestige-lp-cervical-artificial-disc.json",
+        "bytes": 1313
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/quartex-addition-c-complex-and-revision-cervico-thoracic-fusion.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/quartex-addition-c-complex-and-revision-cervico-thoracic-fusion.json",
+        "bytes": 1421
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/reline-cervical-system.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/reline-cervical-system.json",
+        "bytes": 878
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/reline-fenestrated-screw-system.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/reline-fenestrated-screw-system.json",
+        "bytes": 1149
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/reline-open-fixation-system.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/reline-open-fixation-system.json",
+        "bytes": 262
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/reline-posterior-fixation-systems.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/reline-posterior-fixation-systems.json",
+        "bytes": 1320
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/reline-small-stature-posterior-thoracic-fixation-system.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/reline-small-stature-posterior-thoracic-fixation-system.json",
+        "bytes": 1349
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/resonate-anterior-cervical-plate.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/resonate-anterior-cervical-plate.json",
+        "bytes": 1121
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/rise-expandable-intralif-spacer.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/rise-expandable-intralif-spacer.json",
+        "bytes": 1295
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/rise-expandable-tlif-plif-spacer.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/rise-expandable-tlif-plif-spacer.json",
+        "bytes": 247
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/rise-expandable-tlifplif-spacer.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/rise-expandable-tlifplif-spacer.json",
+        "bytes": 1722
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/rise-l-expandable-titanium-lateral-interbody-spacer.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/rise-l-expandable-titanium-lateral-interbody-spacer.json",
+        "bytes": 1594
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/sable-expandable-lumbar-interbody-spacer.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/sable-expandable-lumbar-interbody-spacer.json",
+        "bytes": 1907
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/sacrix-sacrofuse-posterior-lateral-si-joint-fusion-screw.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/sacrix-sacrofuse-posterior-lateral-si-joint-fusion-screw.json",
+        "bytes": 1919
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/screws/_listing.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/screws/_listing.json",
+        "bytes": 104486
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/serrato-pedicle-screw-system.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/serrato-pedicle-screw-system.json",
+        "bytes": 263
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/serrato-thoraco-lumbar-pedicle-screw-system.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/serrato-thoraco-lumbar-pedicle-screw-system.json",
+        "bytes": 1847
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/shoreline-acs-low-profile-and-0-profile-titanium-coated-peek-acdf-spacer.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/shoreline-acs-low-profile-and-0-profile-titanium-coated-peek-acdf-spacer.json",
+        "bytes": 2207
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/shoreline-rt-reef-topography-acdf-spacer-titanium-coated-peek.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/shoreline-rt-reef-topography-acdf-spacer-titanium-coated-peek.json",
+        "bytes": 1490
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/si-joint/_listing.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/si-joint/_listing.json",
+        "bytes": 23412
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/spider-acp-anterior-cervical-plate.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/spider-acp-anterior-cervical-plate.json",
+        "bytes": 952
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/tritanium-c-anterior-cervical-acdf-3d-titanium-spacer.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/tritanium-c-anterior-cervical-acdf-3d-titanium-spacer.json",
+        "bytes": 1345
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/tritanium-pl-3d-printed-titanium-plif-spacer.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/tritanium-pl-3d-printed-titanium-plif-spacer.json",
+        "bytes": 1239
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/tritanium-r-tl-curved-posterior-lumbar-cage.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/tritanium-r-tl-curved-posterior-lumbar-cage.json",
+        "bytes": 278
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/tritanium-tl-curved-3d-tlif-spacer-3d-printed-titanium.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/tritanium-tl-curved-3d-tlif-spacer-3d-printed-titanium.json",
+        "bytes": 1330
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/vault-c-zero-profile-modular-peektitanium-plate-stand-alone-acdf-spacer.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/vault-c-zero-profile-modular-peektitanium-plate-stand-alone-acdf-spacer.json",
+        "bytes": 1786
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/velox-acp-anterior-cervical-plate.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/velox-acp-anterior-cervical-plate.json",
+        "bytes": 638
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/vertu-ti-bond-zero-profile-stand-alone-acdf.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/vertu-ti-bond-zero-profile-stand-alone-acdf.json",
+        "bytes": 1683
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/vyplate-acp-anterior-cervical-plate.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/vyplate-acp-anterior-cervical-plate.json",
+        "bytes": 1040
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/xia-3-ais-thoracolumbar-fusion-set.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/xia-3-ais-thoracolumbar-fusion-set.json",
+        "bytes": 2249
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/xia-45-ct-cortical-trajectory-pedicle-screw.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/xia-45-ct-cortical-trajectory-pedicle-screw.json",
+        "bytes": 1151
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/xia-45-deformity-thoraco-lumbar-pedicle-screw-system.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/xia-45-deformity-thoraco-lumbar-pedicle-screw-system.json",
+        "bytes": 1403
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/zero-profile-cervical-spine-truss-system-stand-alone-acdf.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/zero-profile-cervical-spine-truss-system-stand-alone-acdf.json",
+        "bytes": 1937
+      },
+      {
+        "source": "pipeline/data/extracted/nspr/zevo-anterior-cervical-plating-system.json",
+        "artifact": "artifacts/_unassigned/extracted/nspr/zevo-anterior-cervical-plating-system.json",
+        "bytes": 1399
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--life-spine-inc--modular-spinal-fixation",
+  "artifact_folder": "interbody-cage--life-spine-inc--modular-spinal-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2845,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--life-spine-inc--modular-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--life-spine-inc--modular-spinal-fixation/enriched/interbody-cage--life-spine-inc--modular-spinal-fixation.json",
+        "bytes": 1420
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K183430.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--life-spine-inc--modular-spinal-fixation/fda_raw/NKB/K183430.json",
+        "bytes": 586
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--life-spine-inc--modular-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--life-spine-inc--modular-spinal-fixation/merged/interbody-cage--life-spine-inc--modular-spinal-fixation.json",
+        "bytes": 839
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

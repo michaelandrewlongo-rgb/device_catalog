@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--interpore-cross-intl--titanium-mesh-implant",
+  "artifact_folder": "cervical-plate--interpore-cross-intl--titanium-mesh-implant",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2835,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--interpore-cross-intl--titanium-mesh-implant.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--interpore-cross-intl--titanium-mesh-implant/enriched/cervical-plate--interpore-cross-intl--titanium-mesh-implant.json",
+        "bytes": 1412
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K041407.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--interpore-cross-intl--titanium-mesh-implant/fda_raw/MQP/K041407.json",
+        "bytes": 592
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--interpore-cross-intl--titanium-mesh-implant.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--interpore-cross-intl--titanium-mesh-implant/merged/cervical-plate--interpore-cross-intl--titanium-mesh-implant.json",
+        "bytes": 831
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

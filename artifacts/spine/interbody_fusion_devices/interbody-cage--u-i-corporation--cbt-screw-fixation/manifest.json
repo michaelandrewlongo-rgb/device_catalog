@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--u-i-corporation--cbt-screw-fixation",
+  "artifact_folder": "interbody-cage--u-i-corporation--cbt-screw-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2810,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--u-i-corporation--cbt-screw-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--u-i-corporation--cbt-screw-fixation/enriched/interbody-cage--u-i-corporation--cbt-screw-fixation.json",
+        "bytes": 1407
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K181824.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--u-i-corporation--cbt-screw-fixation/fda_raw/NKB/K181824.json",
+        "bytes": 577
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--u-i-corporation--cbt-screw-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--u-i-corporation--cbt-screw-fixation/merged/interbody-cage--u-i-corporation--cbt-screw-fixation.json",
+        "bytes": 826
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

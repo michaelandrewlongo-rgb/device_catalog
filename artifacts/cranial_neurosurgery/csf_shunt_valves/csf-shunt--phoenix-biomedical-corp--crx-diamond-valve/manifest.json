@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--phoenix-biomedical-corp--crx-diamond-valve",
+  "artifact_folder": "csf-shunt--phoenix-biomedical-corp--crx-diamond-valve",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2793,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--phoenix-biomedical-corp--crx-diamond-valve.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--phoenix-biomedical-corp--crx-diamond-valve/enriched/csf-shunt--phoenix-biomedical-corp--crx-diamond-valve.json",
+        "bytes": 1396
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K974096.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--phoenix-biomedical-corp--crx-diamond-valve/fda_raw/JXG/K974096.json",
+        "bytes": 582
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--phoenix-biomedical-corp--crx-diamond-valve.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--phoenix-biomedical-corp--crx-diamond-valve/merged/csf-shunt--phoenix-biomedical-corp--crx-diamond-valve.json",
+        "bytes": 815
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

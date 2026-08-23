@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--theken-spine-llc--modification-to-coral-spinal",
+  "artifact_folder": "interbody-cage--theken-spine-llc--modification-to-coral-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2898,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--theken-spine-llc--modification-to-coral-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--theken-spine-llc--modification-to-coral-spinal/enriched/interbody-cage--theken-spine-llc--modification-to-coral-spinal.json",
+        "bytes": 1439
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K081414.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--theken-spine-llc--modification-to-coral-spinal/fda_raw/NKB/K081414.json",
+        "bytes": 601
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--theken-spine-llc--modification-to-coral-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--theken-spine-llc--modification-to-coral-spinal/merged/interbody-cage--theken-spine-llc--modification-to-coral-spinal.json",
+        "bytes": 858
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

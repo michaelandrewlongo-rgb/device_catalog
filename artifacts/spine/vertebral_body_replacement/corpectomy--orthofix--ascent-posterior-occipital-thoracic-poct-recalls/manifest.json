@@ -1,0 +1,21 @@
+{
+  "device_slug": "corpectomy--orthofix--ascent-posterior-occipital-thoracic-poct-recalls",
+  "artifact_folder": "corpectomy--orthofix--ascent-posterior-occipital-thoracic-poct-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 1507,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/corpectomy--orthofix--ascent-posterior-occipital-thoracic-poct-recalls.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--orthofix--ascent-posterior-occipital-thoracic-poct-recalls/extracted/fda_safety/corpectomy--orthofix--ascent-posterior-occipital-thoracic-poct-recalls.json",
+        "bytes": 1507
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "dural-substitute--medtronic--modification-to-durepair-dura-regeneration",
+  "artifact_folder": "dural-substitute--medtronic--modification-to-durepair-dura-regeneration",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3310,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/dural-substitute--medtronic--modification-to-durepair-dura-regeneration.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--medtronic--modification-to-durepair-dura-regeneration/enriched/dural-substitute--medtronic--modification-to-durepair-dura-regeneration.json",
+        "bytes": 1797
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/GXQ/K063117.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--medtronic--modification-to-durepair-dura-regeneration/fda_raw/GXQ/K063117.json",
+        "bytes": 623
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/dural-substitute--medtronic--modification-to-durepair-dura-regeneration.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--medtronic--modification-to-durepair-dura-regeneration/merged/dural-substitute--medtronic--modification-to-durepair-dura-regeneration.json",
+        "bytes": 890
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "dural-substitute",
+    "label": "Outside listed seed registries"
+  }
+}

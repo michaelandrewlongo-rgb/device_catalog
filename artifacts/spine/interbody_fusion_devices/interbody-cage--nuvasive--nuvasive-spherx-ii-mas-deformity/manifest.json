@@ -1,0 +1,21 @@
+{
+  "device_slug": "interbody-cage--nuvasive--nuvasive-spherx-ii-mas-deformity",
+  "artifact_folder": "interbody-cage--nuvasive--nuvasive-spherx-ii-mas-deformity",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 597,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K102514.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--nuvasive--nuvasive-spherx-ii-mas-deformity/fda_raw/NKB/K102514.json",
+        "bytes": 597
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

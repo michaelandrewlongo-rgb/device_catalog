@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--astura-medical--dominion-expandable-corpectomy",
+  "artifact_folder": "cervical-plate--astura-medical--dominion-expandable-corpectomy",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2899,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--astura-medical--dominion-expandable-corpectomy.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--astura-medical--dominion-expandable-corpectomy/enriched/cervical-plate--astura-medical--dominion-expandable-corpectomy.json",
+        "bytes": 1441
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K233359.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--astura-medical--dominion-expandable-corpectomy/fda_raw/MQP/K233359.json",
+        "bytes": 598
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--astura-medical--dominion-expandable-corpectomy.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--astura-medical--dominion-expandable-corpectomy/merged/cervical-plate--astura-medical--dominion-expandable-corpectomy.json",
+        "bytes": 860
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

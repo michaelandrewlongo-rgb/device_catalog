@@ -1,0 +1,292 @@
+[
+  {
+    "device_family": "aspiration--vesalio-inc--nevasc-aspiration",
+    "query_used": "NeVasc Aspiration System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00851279008996",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "NeVasc .070 Aspiration Catheter, 125 cm",
+      "companyName": "Vesalio",
+      "deviceIdentifier": "d4a69a77-9855-4ca2-bcd3-bf0840aa6fee",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "VC-070-125"
+    },
+    "retrieved_at": "2026-04-15T10:19:06+00:00",
+    "source_id": "accessgudid:00851279008996",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/d4a69a77-9855-4ca2-bcd3-bf0840aa6fee",
+    "title": "NeVasc .070 Aspiration Catheter, 125 cm (Vesalio)"
+  },
+  {
+    "device_family": "aspiration--vesalio-inc--nevasc-aspiration",
+    "query_used": "NeVasc Aspiration System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00851279008989",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "NeVasc .070 Aspiration Catheter, 132 cm",
+      "companyName": "Vesalio",
+      "deviceIdentifier": "81472fb2-4819-4ae0-8f84-77ef85d0a291",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "VC-070-132"
+    },
+    "retrieved_at": "2026-04-15T10:19:06+00:00",
+    "source_id": "accessgudid:00851279008989",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/81472fb2-4819-4ae0-8f84-77ef85d0a291",
+    "title": "NeVasc .070 Aspiration Catheter, 132 cm (Vesalio)"
+  },
+  {
+    "device_family": "aspiration--vesalio-inc--nevasc-aspiration",
+    "query_used": "NeVasc Aspiration System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00851279008972",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "NeVasc .070 Aspiration Catheter, 140 cm",
+      "companyName": "Vesalio",
+      "deviceIdentifier": "42d3e265-37c2-4d7c-8fef-b883fa231cc9",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "VC-070-140"
+    },
+    "retrieved_at": "2026-04-15T10:19:06+00:00",
+    "source_id": "accessgudid:00851279008972",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/42d3e265-37c2-4d7c-8fef-b883fa231cc9",
+    "title": "NeVasc .070 Aspiration Catheter, 140 cm (Vesalio)"
+  },
+  {
+    "device_family": "aspiration--vesalio-inc--nevasc-aspiration",
+    "query_used": "NeVasc Aspiration System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00850083646004",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "NeVasc .070 Aspiration Catheter, 115 cm",
+      "companyName": "Vesalio",
+      "deviceIdentifier": "2dee210b-415e-45cc-82bb-56ef3a1f55e7",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "VC-070-115"
+    },
+    "retrieved_at": "2026-04-15T10:19:06+00:00",
+    "source_id": "accessgudid:00850083646004",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/2dee210b-415e-45cc-82bb-56ef3a1f55e7",
+    "title": "NeVasc .070 Aspiration Catheter, 115 cm (Vesalio)"
+  },
+  {
+    "device_family": "aspiration--vesalio-inc--nevasc-aspiration",
+    "query_used": "NeVasc Aspiration System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00818075010790",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Socrates",
+      "companyName": "SCIENTIA VASCULAR LLC",
+      "deviceIdentifier": "6221dfce-7ff2-46dc-ab10-2ae980e7825c",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "TS-254-110"
+    },
+    "retrieved_at": "2026-04-15T10:19:06+00:00",
+    "source_id": "accessgudid:00818075010790",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/6221dfce-7ff2-46dc-ab10-2ae980e7825c",
+    "title": "Socrates (SCIENTIA VASCULAR LLC)"
+  },
+  {
+    "device_family": "aspiration--vesalio-inc--nevasc-aspiration",
+    "query_used": "NeVasc Aspiration System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00857545008127",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "072 Aspiration System",
+      "companyName": "Q'APEL MEDICAL LLC",
+      "deviceIdentifier": "6b29f966-a6ab-49fb-ac7b-366cc4870544",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "FG 01252"
+    },
+    "retrieved_at": "2026-04-15T10:19:06+00:00",
+    "source_id": "accessgudid:00857545008127",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/6b29f966-a6ab-49fb-ac7b-366cc4870544",
+    "title": "072 Aspiration System (Q'APEL MEDICAL LLC)"
+  },
+  {
+    "device_family": "aspiration--vesalio-inc--nevasc-aspiration",
+    "query_used": "NeVasc Aspiration System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00818075011025",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Socrates",
+      "companyName": "SCIENTIA VASCULAR LLC",
+      "deviceIdentifier": "b203ad4a-2d9a-44d3-8925-88ac073ecb63",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "SC038-127-001"
+    },
+    "retrieved_at": "2026-04-15T10:19:06+00:00",
+    "source_id": "accessgudid:00818075011025",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/b203ad4a-2d9a-44d3-8925-88ac073ecb63",
+    "title": "Socrates (SCIENTIA VASCULAR LLC)"
+  },
+  {
+    "device_family": "aspiration--vesalio-inc--nevasc-aspiration",
+    "query_used": "NeVasc Aspiration System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00818075010776",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Socrates",
+      "companyName": "SCIENTIA VASCULAR LLC",
+      "deviceIdentifier": "9d606e99-d97c-46a4-959d-36b770841ddf",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "SC038-156-001"
+    },
+    "retrieved_at": "2026-04-15T10:19:06+00:00",
+    "source_id": "accessgudid:00818075010776",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/9d606e99-d97c-46a4-959d-36b770841ddf",
+    "title": "Socrates (SCIENTIA VASCULAR LLC)"
+  },
+  {
+    "device_family": "aspiration--vesalio-inc--nevasc-aspiration",
+    "query_used": "NeVasc Aspiration System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00855208005049",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "BNX",
+      "companyName": "Covidien LP",
+      "deviceIdentifier": "4cc23afe-6e1e-43d2-820b-f15be03a17b2",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "38825",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "General-purpose endoscopic needle, single-use"
+        }
+      ],
+      "modelNumber": "DSN-25-02"
+    },
+    "retrieved_at": "2026-04-15T10:19:06+00:00",
+    "source_id": "accessgudid:00855208005049",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/4cc23afe-6e1e-43d2-820b-f15be03a17b2",
+    "title": "BNX (Covidien LP)"
+  },
+  {
+    "device_family": "aspiration--vesalio-inc--nevasc-aspiration",
+    "query_used": "NeVasc Aspiration System",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00855208005032",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Beacon",
+      "companyName": "Covidien LP",
+      "deviceIdentifier": "5edaf0d6-678e-45ee-bd9a-bb5b9ef2d325",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "38825",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "General-purpose endoscopic needle, single-use"
+        }
+      ],
+      "modelNumber": "DSN-25-01"
+    },
+    "retrieved_at": "2026-04-15T10:19:06+00:00",
+    "source_id": "accessgudid:00855208005032",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/5edaf0d6-678e-45ee-bd9a-bb5b9ef2d325",
+    "title": "Beacon (Covidien LP)"
+  }
+]

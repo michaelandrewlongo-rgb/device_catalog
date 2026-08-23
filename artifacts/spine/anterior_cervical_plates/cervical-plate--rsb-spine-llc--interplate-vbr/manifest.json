@@ -1,0 +1,40 @@
+{
+  "device_slug": "cervical-plate--rsb-spine-llc--interplate-vbr",
+  "artifact_folder": "cervical-plate--rsb-spine-llc--interplate-vbr",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3329,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--rsb-spine-llc--interplate-vbr.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--rsb-spine-llc--interplate-vbr/enriched/cervical-plate--rsb-spine-llc--interplate-vbr.json",
+        "bytes": 1391
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K061401.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--rsb-spine-llc--interplate-vbr/fda_raw/MQP/K061401.json",
+        "bytes": 564
+      },
+      {
+        "source": "pipeline/data/fda_raw/MQP/K070316.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--rsb-spine-llc--interplate-vbr/fda_raw/MQP/K070316.json",
+        "bytes": 564
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--rsb-spine-llc--interplate-vbr.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--rsb-spine-llc--interplate-vbr/merged/cervical-plate--rsb-spine-llc--interplate-vbr.json",
+        "bytes": 810
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

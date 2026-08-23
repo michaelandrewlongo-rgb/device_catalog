@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--zimmer-biomet--zyston-straight-spacer",
+  "artifact_folder": "pedicle-screw--zimmer-biomet--zyston-straight-spacer",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2821,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--zimmer-biomet--zyston-straight-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--zimmer-biomet--zyston-straight-spacer/enriched/pedicle-screw--zimmer-biomet--zyston-straight-spacer.json",
+        "bytes": 1413
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K112014.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--zimmer-biomet--zyston-straight-spacer/fda_raw/MAX/K112014.json",
+        "bytes": 576
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--zimmer-biomet--zyston-straight-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--zimmer-biomet--zyston-straight-spacer/merged/pedicle-screw--zimmer-biomet--zyston-straight-spacer.json",
+        "bytes": 832
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

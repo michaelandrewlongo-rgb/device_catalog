@@ -1,0 +1,35 @@
+{
+  "device_slug": "unknown--penumbra--neuro-thrombectomy",
+  "artifact_folder": "unknown--penumbra--neuro-thrombectomy",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2622,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/unknown--penumbra--neuro-thrombectomy.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--penumbra--neuro-thrombectomy/enriched/unknown--penumbra--neuro-thrombectomy.json",
+        "bytes": 1325
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/unknown--penumbra--neuro-thrombectomy.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--penumbra--neuro-thrombectomy/merged/unknown--penumbra--neuro-thrombectomy.json",
+        "bytes": 744
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/penumbra/neuro-thrombectomy.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--penumbra--neuro-thrombectomy/scraper_raw/penumbra/neuro-thrombectomy.json",
+        "bytes": 553
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "unknown",
+    "label": "Outside listed seed registries"
+  }
+}

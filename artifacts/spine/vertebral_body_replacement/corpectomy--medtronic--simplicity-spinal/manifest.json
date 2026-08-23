@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--medtronic--simplicity-spinal",
+  "artifact_folder": "corpectomy--medtronic--simplicity-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3230,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--medtronic--simplicity-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--simplicity-spinal/enriched/corpectomy--medtronic--simplicity-spinal.json",
+        "bytes": 1854
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K002103.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--simplicity-spinal/fda_raw/KWP/K002103.json",
+        "bytes": 573
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--medtronic--simplicity-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--simplicity-spinal/merged/corpectomy--medtronic--simplicity-spinal.json",
+        "bytes": 803
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

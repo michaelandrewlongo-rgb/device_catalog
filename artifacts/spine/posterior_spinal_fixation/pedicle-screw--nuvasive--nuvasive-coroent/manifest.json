@@ -1,0 +1,26 @@
+{
+  "device_slug": "pedicle-screw--nuvasive--nuvasive-coroent",
+  "artifact_folder": "pedicle-screw--nuvasive--nuvasive-coroent",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 2,
+  "bytes": 1110,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K071795.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nuvasive--nuvasive-coroent/fda_raw/MAX/K071795.json",
+        "bytes": 555
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K141665.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nuvasive--nuvasive-coroent/fda_raw/MAX/K141665.json",
+        "bytes": 555
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--encore-medical-l-p--titanium-mesh",
+  "artifact_folder": "cervical-plate--encore-medical-l-p--titanium-mesh",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2793,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--encore-medical-l-p--titanium-mesh.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--encore-medical-l-p--titanium-mesh/enriched/cervical-plate--encore-medical-l-p--titanium-mesh.json",
+        "bytes": 1398
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K032371.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--encore-medical-l-p--titanium-mesh/fda_raw/MQP/K032371.json",
+        "bytes": 578
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--encore-medical-l-p--titanium-mesh.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--encore-medical-l-p--titanium-mesh/merged/cervical-plate--encore-medical-l-p--titanium-mesh.json",
+        "bytes": 817
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

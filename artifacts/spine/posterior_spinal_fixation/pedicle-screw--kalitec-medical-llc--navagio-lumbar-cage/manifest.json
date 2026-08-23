@@ -1,0 +1,42 @@
+{
+  "device_slug": "pedicle-screw--kalitec-medical-llc--navagio-lumbar-cage",
+  "artifact_folder": "pedicle-screw--kalitec-medical-llc--navagio-lumbar-cage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3708,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--kalitec-medical-llc--navagio-lumbar-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--kalitec-medical-llc--navagio-lumbar-cage/enriched/pedicle-screw--kalitec-medical-llc--navagio-lumbar-cage.json",
+        "bytes": 1684
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/pedicle-screw--kalitec-medical-llc--navagio-lumbar-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--kalitec-medical-llc--navagio-lumbar-cage/extracted/fda_structured/pedicle-screw--kalitec-medical-llc--navagio-lumbar-cage.json",
+        "bytes": 620
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K220902.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--kalitec-medical-llc--navagio-lumbar-cage/fda_raw/MAX/K220902.json",
+        "bytes": 583
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--kalitec-medical-llc--navagio-lumbar-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--kalitec-medical-llc--navagio-lumbar-cage/merged/pedicle-screw--kalitec-medical-llc--navagio-lumbar-cage.json",
+        "bytes": 821
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

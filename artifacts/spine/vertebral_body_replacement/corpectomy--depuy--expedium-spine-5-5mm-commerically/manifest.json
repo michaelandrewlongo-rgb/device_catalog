@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--depuy--expedium-spine-5-5mm-commerically",
+  "artifact_folder": "corpectomy--depuy--expedium-spine-5-5mm-commerically",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3138,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--depuy--expedium-spine-5-5mm-commerically.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--expedium-spine-5-5mm-commerically/enriched/corpectomy--depuy--expedium-spine-5-5mm-commerically.json",
+        "bytes": 1636
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K052131.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--expedium-spine-5-5mm-commerically/fda_raw/KWP/K052131.json",
+        "bytes": 607
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--depuy--expedium-spine-5-5mm-commerically.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--expedium-spine-5-5mm-commerically/merged/corpectomy--depuy--expedium-spine-5-5mm-commerically.json",
+        "bytes": 895
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

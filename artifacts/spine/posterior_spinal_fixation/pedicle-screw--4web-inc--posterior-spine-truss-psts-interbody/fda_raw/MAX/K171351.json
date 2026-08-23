@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K171351",
+  "clearance_date": "2017-09-08",
+  "device_class": 2,
+  "manufacturer_canonical": "4web-inc",
+  "manufacturer_raw": "4Web, Inc.",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "Posterior Spine Truss System (PSTS) Interbody Fusion Device",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--4web-inc--posterior-spine-truss-psts-interbody",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf17/K171351.pdf"
+}

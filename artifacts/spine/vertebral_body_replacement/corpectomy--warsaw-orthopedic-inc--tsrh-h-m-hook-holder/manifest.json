@@ -1,0 +1,40 @@
+{
+  "device_slug": "corpectomy--warsaw-orthopedic-inc--tsrh-h-m-hook-holder",
+  "artifact_folder": "corpectomy--warsaw-orthopedic-inc--tsrh-h-m-hook-holder",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3706,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--warsaw-orthopedic-inc--tsrh-h-m-hook-holder.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--warsaw-orthopedic-inc--tsrh-h-m-hook-holder/enriched/corpectomy--warsaw-orthopedic-inc--tsrh-h-m-hook-holder.json",
+        "bytes": 1700
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K880211.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--warsaw-orthopedic-inc--tsrh-h-m-hook-holder/fda_raw/KWP/K880211.json",
+        "bytes": 586
+      },
+      {
+        "source": "pipeline/data/fda_raw/KWP/K880212.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--warsaw-orthopedic-inc--tsrh-h-m-hook-holder/fda_raw/KWP/K880212.json",
+        "bytes": 598
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--warsaw-orthopedic-inc--tsrh-h-m-hook-holder.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--warsaw-orthopedic-inc--tsrh-h-m-hook-holder/merged/corpectomy--warsaw-orthopedic-inc--tsrh-h-m-hook-holder.json",
+        "bytes": 822
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

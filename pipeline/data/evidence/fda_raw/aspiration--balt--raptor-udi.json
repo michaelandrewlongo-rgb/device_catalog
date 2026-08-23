@@ -1,0 +1,120 @@
+[
+  {
+    "device_family": "aspiration--balt--raptor",
+    "query_used": "brand_name:\"Raptor\" OR brand_name:\"Raptor Aspiration Catheter\" OR brand_name:\"Thrombectomy suction catheter\"",
+    "raw": {
+      "brand_name": "Raptor Rongeur",
+      "catalog_number": "7359-87",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "company_name": "KOROS U.S.A., INC.",
+      "customer_contacts": [
+        {
+          "email": "customerservice@korosUSA.com",
+          "phone": "1-805-529-0825"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "device_description": "Bayonet Raptor Rongeur Up-Angled 3mm x 15.5cm",
+      "device_sizes": [
+        {
+          "text": "3mm tip",
+          "type": "Device Size Text, specify"
+        }
+      ],
+      "gmdn_terms": [
+        {
+          "code": "33442",
+          "code_status": "Active",
+          "definition": "A hand-held manual surgical instrument with sharp, scoop-shaped jaws designed for cutting tough tissues (cartilage, sinew) or bone, through a cutting/biting action, during surgery involving the cranium and/or face (e.g., craniotomy, ethmoidectomy, mastoidectomy, rhinoplasty); it is not dedicated to dental surgery. It is typically made of metal and designed to withstand the forces required to bite over tough/hard tissue. This is a reusable device.",
+          "implantable": "false",
+          "name": "Craniofacial rongeur, reusable"
+        },
+        {
+          "code": "32853",
+          "code_status": "Active",
+          "definition": "A hand-held manual surgical instrument designed to remove bone during an orthopaedic intervention of the limbs/joints; it is not primarily intended for nasal, spinal, or cranial use and is not a dedicated rib rongeur. It is a heavy-duty metallic instrument that has a forceps- or pliers-like design and terminates at the distal end with sharp-edged, scoop-shaped jaws attached to strong, sprung (self-opening), pivoted or multi-pivoted handles that, when squeezed together, close the jaws to bite (cut) through the bone. This is a reusable device.",
+          "implantable": "false",
+          "name": "Orthopaedic joint/limb rongeur"
+        },
+        {
+          "code": "35317",
+          "code_status": "Active",
+          "definition": "A hand-held manual surgical instrument with sharp, scoop-shaped jaws designed to cut and shorten rib bones, and round the rib stumps, during a surgical intervention. It is typically made of metal with a forceps- or pliers-like design, is and designed to withstand the forces required to bite over tough/hard tissue. It is not intended for endoscopic access. This is a reusable device.",
+          "implantable": "false",
+          "name": "Rib rongeur"
+        },
+        {
+          "code": "35541",
+          "code_status": "Active",
+          "definition": "A hand-held manual surgical instrument with sharp, scoop-shaped jaws designed for cutting tough tissues (intervertebral disk) or bone, through a cutting/biting action, during open spinal surgery (e.g., laminectomy, discectomy). It is typically made of metal and designed to withstand the forces required to bite over tough tissue. It is not intended for endoscopic access. This is a reusable device.",
+          "implantable": "false",
+          "name": "Spinal rongeur"
+        }
+      ],
+      "has_donation_id_number": "false",
+      "has_expiration_date": "false",
+      "has_lot_or_batch_number": "true",
+      "has_manufacturing_date": "false",
+      "has_serial_number": "true",
+      "identifiers": [
+        {
+          "id": "00840199518289",
+          "issuing_agency": "GS1",
+          "type": "Direct Marking"
+        },
+        {
+          "id": "10840199518286",
+          "issuing_agency": "GS1",
+          "type": "Primary"
+        }
+      ],
+      "is_combination_product": "false",
+      "is_direct_marking_exempt": "false",
+      "is_hct_p": "false",
+      "is_kit": "false",
+      "is_labeled_as_no_nrl": "false",
+      "is_labeled_as_nrl": "false",
+      "is_otc": "false",
+      "is_pm_exempt": "true",
+      "is_rx": "true",
+      "is_single_use": "false",
+      "labeler_duns_number": "007928633",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "product_codes": [
+        {
+          "code": "HTX",
+          "name": "Rongeur",
+          "openfda": {
+            "device_class": "1",
+            "device_name": "Rongeur",
+            "medical_specialty_description": "Orthopedic",
+            "regulation_number": "888.4540"
+          }
+        }
+      ],
+      "public_device_record_key": "77364cd2-a5a4-4cdd-b9f5-70a2355aac5d",
+      "public_version_date": "2021-10-11",
+      "public_version_number": "1",
+      "public_version_status": "New",
+      "publish_date": "2021-10-01",
+      "record_status": "Published",
+      "sterilization": {
+        "is_sterile": "false",
+        "is_sterilization_prior_use": "true",
+        "sterilization_methods": "Moist Heat or Steam Sterilization"
+      },
+      "storage": [
+        {
+          "special_conditions": "Store in dry place at room temperature",
+          "type": "Special Storage Condition, Specify"
+        }
+      ],
+      "version_or_model_number": "7359-87"
+    },
+    "retrieved_at": "2026-04-15T10:18:01+00:00",
+    "source_id": "fda:udi:record-1",
+    "source_type": "fda",
+    "source_url": "https://api.fda.gov/device/udi.json?search=brand_name%3A%22Raptor%22%20OR%20brand_name%3A%22Raptor%20Aspiration%20Catheter%22%20OR%20brand_name%3A%22Thrombectomy%20suction%20catheter%22",
+    "title": "Raptor Rongeur"
+  }
+]

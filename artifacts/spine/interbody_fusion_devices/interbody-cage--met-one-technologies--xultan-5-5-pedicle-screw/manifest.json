@@ -1,0 +1,42 @@
+{
+  "device_slug": "interbody-cage--met-one-technologies--xultan-5-5-pedicle-screw",
+  "artifact_folder": "interbody-cage--met-one-technologies--xultan-5-5-pedicle-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 4387,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--met-one-technologies--xultan-5-5-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--met-one-technologies--xultan-5-5-pedicle-screw/enriched/interbody-cage--met-one-technologies--xultan-5-5-pedicle-screw.json",
+        "bytes": 2007
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--met-one-technologies--xultan-5-5-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--met-one-technologies--xultan-5-5-pedicle-screw/extracted/fda_structured/interbody-cage--met-one-technologies--xultan-5-5-pedicle-screw.json",
+        "bytes": 922
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K170108.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--met-one-technologies--xultan-5-5-pedicle-screw/fda_raw/NKB/K170108.json",
+        "bytes": 604
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--met-one-technologies--xultan-5-5-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--met-one-technologies--xultan-5-5-pedicle-screw/merged/interbody-cage--met-one-technologies--xultan-5-5-pedicle-screw.json",
+        "bytes": 854
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

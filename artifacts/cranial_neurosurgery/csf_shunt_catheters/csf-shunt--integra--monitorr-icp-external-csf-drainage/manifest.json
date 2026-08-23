@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--integra--monitorr-icp-external-csf-drainage",
+  "artifact_folder": "csf-shunt--integra--monitorr-icp-external-csf-drainage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3426,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--integra--monitorr-icp-external-csf-drainage.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--monitorr-icp-external-csf-drainage/enriched/csf-shunt--integra--monitorr-icp-external-csf-drainage.json",
+        "bytes": 1945
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K022554.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--monitorr-icp-external-csf-drainage/fda_raw/JXG/K022554.json",
+        "bytes": 603
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--integra--monitorr-icp-external-csf-drainage.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--monitorr-icp-external-csf-drainage/merged/csf-shunt--integra--monitorr-icp-external-csf-drainage.json",
+        "bytes": 878
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

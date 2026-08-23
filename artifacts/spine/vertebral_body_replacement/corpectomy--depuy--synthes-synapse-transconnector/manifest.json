@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--depuy--synthes-synapse-transconnector",
+  "artifact_folder": "corpectomy--depuy--synthes-synapse-transconnector",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2945,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--depuy--synthes-synapse-transconnector.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--synthes-synapse-transconnector/enriched/corpectomy--depuy--synthes-synapse-transconnector.json",
+        "bytes": 1561
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K090549.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--synthes-synapse-transconnector/fda_raw/KWP/K090549.json",
+        "bytes": 564
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--depuy--synthes-synapse-transconnector.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--synthes-synapse-transconnector/merged/corpectomy--depuy--synthes-synapse-transconnector.json",
+        "bytes": 820
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

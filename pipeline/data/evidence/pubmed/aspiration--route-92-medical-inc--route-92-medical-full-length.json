@@ -1,0 +1,22 @@
+[
+  {
+    "device_family": "aspiration--route-92-medical-inc--route-92-medical-full-length",
+    "query_used": "\"Route 92 Medical Full Length 054 Reperfusion System and Aspiration Tubing Set\" OR \"Route 92 Medical Full Length 070 Reperfusion System (predicate system\" OR \"K223530)\" OR \"Route 92 Medical Aspiration System\"",
+    "raw": {
+      "abstract": "Mechanical thrombectomy is the standard of care for large vessel occlusion (LVO) stroke, yet most device trials focus on individual technologies rather than complete systems.\nTo evaluate the safety and efficacy of the Zoom Reperfusion System compared with performance goals derived from a meta-analysis of trials using established thrombectomy technologies.\nProspective, multicenter, non-randomized, investigational device exemption trial conducted across 26 United States centers from October 2021 to March 2024. Adults with anterior circulation LVO stroke within 8 hours of onset were treated using the Zoom System, which includes aspiration catheters ranging from 0.035″ to 0.071″, and a novel 0.088″ intracranial guide/aspiration catheter. The primary efficacy endpoint was successful reperfusion (modified Thrombolysis in Cerebral Infarction (mTICI) 2b-3) within three passes using Zoom-only components, adjudicated by an independent core laboratory. The primary safety endpoint was symptomatic intracranial hemorrhage (sICH). Secondary outcomes included final reperfusion, first-pass success, time to reperfusion, 90-day modified Rankin Scale (mRS), and mortality.\nAmong 260 patients (median age 68 years; median National Institutes of Health Stroke Scale (NIHSS) 15), successful reperfusion within three passes was achieved in 83% (216/259; 95% CI: 78% to 89%), exceeding the performance goal (p<0.001). Final reperfusion was 92%, with 5.5% requiring rescue devices. First-pass mTICI 2b-3 success was 57%. Median puncture-to-reperfusion time was 19 min. At 90 days, 55% achieved mRS 0-2. The sICH rate was 1.9%, and 90-day mortality was 12.7%.\nThe Zoom Reperfusion System demonstrated a safety and efficacy profile exceeding prespecified contemporary performance metrics with potential to significantly shorten reperfusion times and reduce the need for rescue therapy.\nClinicalTrials.gov--Identifier:NCT04129125.",
+      "doi": "10.1136/jnis-2025-023719",
+      "journal": "Journal of neurointerventional surgery",
+      "matched_device_family": "aspiration--route-92-medical-inc--route-92-medical-full-length",
+      "pmid": "40695608",
+      "publication_date": "2025-Jul-22",
+      "query_used": "\"Route 92 Medical Full Length 054 Reperfusion System and Aspiration Tubing Set\" OR \"Route 92 Medical Full Length 070 Reperfusion System (predicate system\" OR \"K223530)\" OR \"Route 92 Medical Aspiration System\"",
+      "source_retrieved_at": "2026-04-15T10:17:25+00:00",
+      "title": "Stroke thrombectomy with a novel reperfusion system including a 0.088'' aspiration catheter: the Imperative Trial."
+    },
+    "retrieved_at": "2026-04-15T10:17:25+00:00",
+    "source_id": "pubmed:40695608",
+    "source_type": "pubmed",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/40695608/",
+    "title": "Stroke thrombectomy with a novel reperfusion system including a 0.088'' aspiration catheter: the Imperative Trial."
+  }
+]

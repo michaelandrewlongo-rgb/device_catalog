@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--adcura-inc--adcura-r-sagittae-r-lateral",
+  "artifact_folder": "pedicle-screw--adcura-inc--adcura-r-sagittae-r-lateral",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2984,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--adcura-inc--adcura-r-sagittae-r-lateral.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--adcura-inc--adcura-r-sagittae-r-lateral/enriched/pedicle-screw--adcura-inc--adcura-r-sagittae-r-lateral.json",
+        "bytes": 1472
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K223065.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--adcura-inc--adcura-r-sagittae-r-lateral/fda_raw/MAX/K223065.json",
+        "bytes": 605
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--adcura-inc--adcura-r-sagittae-r-lateral.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--adcura-inc--adcura-r-sagittae-r-lateral/merged/pedicle-screw--adcura-inc--adcura-r-sagittae-r-lateral.json",
+        "bytes": 907
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--acromed-corp--isola-spine-plate-rod-combination",
+  "artifact_folder": "corpectomy--acromed-corp--isola-spine-plate-rod-combination",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2891,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--acromed-corp--isola-spine-plate-rod-combination.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--acromed-corp--isola-spine-plate-rod-combination/enriched/corpectomy--acromed-corp--isola-spine-plate-rod-combination.json",
+        "bytes": 1440
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K920392.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--acromed-corp--isola-spine-plate-rod-combination/fda_raw/KWP/K920392.json",
+        "bytes": 592
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--acromed-corp--isola-spine-plate-rod-combination.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--acromed-corp--isola-spine-plate-rod-combination/merged/corpectomy--acromed-corp--isola-spine-plate-rod-combination.json",
+        "bytes": 859
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

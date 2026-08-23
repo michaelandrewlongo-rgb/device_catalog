@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--osteomed-lp--primalif-tm-llif-unitary-peek",
+  "artifact_folder": "pedicle-screw--osteomed-lp--primalif-tm-llif-unitary-peek",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3024,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--osteomed-lp--primalif-tm-llif-unitary-peek.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--osteomed-lp--primalif-tm-llif-unitary-peek/enriched/pedicle-screw--osteomed-lp--primalif-tm-llif-unitary-peek.json",
+        "bytes": 1494
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K123207.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--osteomed-lp--primalif-tm-llif-unitary-peek/fda_raw/MAX/K123207.json",
+        "bytes": 617
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--osteomed-lp--primalif-tm-llif-unitary-peek.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--osteomed-lp--primalif-tm-llif-unitary-peek/merged/pedicle-screw--osteomed-lp--primalif-tm-llif-unitary-peek.json",
+        "bytes": 913
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "domain": "spine",
+  "registry": "cervical_interbody_cages",
+  "label": "ACDF/ACCF Cages",
+  "path": "artifacts/spine/cervical_interbody_cages",
+  "devices": [
+    {
+      "slug": "cervical-cage--depuy--zero-p",
+      "artifact_folder": "cervical-cage--depuy--zero-p",
+      "path": "artifacts/spine/cervical_interbody_cages/cervical-cage--depuy--zero-p",
+      "file_count": 3,
+      "source_counts": {
+        "data_by_device": 2,
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "cervical-cage--globus--coalition",
+      "artifact_folder": "cervical-cage--globus--coalition",
+      "path": "artifacts/spine/cervical_interbody_cages/cervical-cage--globus--coalition",
+      "file_count": 1,
+      "source_counts": {
+        "data_by_device": 1
+      }
+    },
+    {
+      "slug": "cervical-cage--globus--coalition-cervical-interbody-system",
+      "artifact_folder": "cervical-cage--globus--coalition-cervical-interbody-system",
+      "path": "artifacts/spine/cervical_interbody_cages/cervical-cage--globus--coalition-cervical-interbody-system",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "cervical-cage--globus--colonial-cervical-interbody-spacer",
+      "artifact_folder": "cervical-cage--globus--colonial-cervical-interbody-spacer",
+      "path": "artifacts/spine/cervical_interbody_cages/cervical-cage--globus--colonial-cervical-interbody-spacer",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "cervical-cage--medtronic--capstone",
+      "artifact_folder": "cervical-cage--medtronic--capstone",
+      "path": "artifacts/spine/cervical_interbody_cages/cervical-cage--medtronic--capstone",
+      "file_count": 1,
+      "source_counts": {
+        "data_by_device": 1
+      }
+    },
+    {
+      "slug": "cervical-cage--medtronic--capstone-ptc-spinal-system",
+      "artifact_folder": "cervical-cage--medtronic--capstone-ptc-spinal-system",
+      "path": "artifacts/spine/cervical_interbody_cages/cervical-cage--medtronic--capstone-ptc-spinal-system",
+      "file_count": 1,
+      "source_counts": {
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "cervical-cage--medtronic--divergence-anterior-cervical-stand-alone-cage",
+      "artifact_folder": "cervical-cage--medtronic--divergence-anterior-cervical-stand-alone-cage",
+      "path": "artifacts/spine/cervical_interbody_cages/cervical-cage--medtronic--divergence-anterior-cervical-stand-alone-cage",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "cervical-cage--medtronic--titan-endoskeleton-tc-interbody-system",
+      "artifact_folder": "cervical-cage--medtronic--titan-endoskeleton-tc-interbody-system",
+      "path": "artifacts/spine/cervical_interbody_cages/cervical-cage--medtronic--titan-endoskeleton-tc-interbody-system",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "cervical-cage--stryker--cascadia-cervical-3d",
+      "artifact_folder": "cervical-cage--stryker--cascadia-cervical-3d",
+      "path": "artifacts/spine/cervical_interbody_cages/cervical-cage--stryker--cascadia-cervical-3d",
+      "file_count": 1,
+      "source_counts": {
+        "data_by_device": 1
+      }
+    },
+    {
+      "slug": "cervical-cage--stryker--cascadia-cervical-3d-interbody-system",
+      "artifact_folder": "cervical-cage--stryker--cascadia-cervical-3d-interbody-system",
+      "path": "artifacts/spine/cervical_interbody_cages/cervical-cage--stryker--cascadia-cervical-3d-interbody-system",
+      "file_count": 1,
+      "source_counts": {
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "cervical-cage--stryker--tritanium-c",
+      "artifact_folder": "cervical-cage--stryker--tritanium-c",
+      "path": "artifacts/spine/cervical_interbody_cages/cervical-cage--stryker--tritanium-c",
+      "file_count": 3,
+      "source_counts": {
+        "data_by_device": 2,
+        "extracted": 1
+      }
+    }
+  ],
+  "device_count": 11
+}

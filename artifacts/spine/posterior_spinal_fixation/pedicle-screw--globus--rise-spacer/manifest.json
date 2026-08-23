@@ -1,0 +1,42 @@
+{
+  "device_slug": "pedicle-screw--globus--rise-spacer",
+  "artifact_folder": "pedicle-screw--globus--rise-spacer",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 6403,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/pedicle-screw--globus--rise-spacer--knowledge.md",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--globus--rise-spacer/data_by_device/pedicle-screw--globus--rise-spacer--knowledge.md",
+        "bytes": 2333
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--globus--rise-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--globus--rise-spacer/enriched/pedicle-screw--globus--rise-spacer.json",
+        "bytes": 2309
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K113447.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--globus--rise-spacer/fda_raw/MAX/K113447.json",
+        "bytes": 541
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--globus--rise-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--globus--rise-spacer/merged/pedicle-screw--globus--rise-spacer.json",
+        "bytes": 1220
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

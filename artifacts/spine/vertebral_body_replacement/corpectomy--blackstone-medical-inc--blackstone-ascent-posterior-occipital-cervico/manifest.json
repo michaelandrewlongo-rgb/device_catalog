@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--blackstone-medical-inc--blackstone-ascent-posterior-occipital-cervico",
+  "artifact_folder": "corpectomy--blackstone-medical-inc--blackstone-ascent-posterior-occipital-cervico",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3133,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--blackstone-medical-inc--blackstone-ascent-posterior-occipital-cervico.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--blackstone-medical-inc--blackstone-ascent-posterior-occipital-cervico/enriched/corpectomy--blackstone-medical-inc--blackstone-ascent-posterior-occipital-cervico.json",
+        "bytes": 1526
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K080394.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--blackstone-medical-inc--blackstone-ascent-posterior-occipital-cervico/fda_raw/KWP/K080394.json",
+        "bytes": 662
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--blackstone-medical-inc--blackstone-ascent-posterior-occipital-cervico.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--blackstone-medical-inc--blackstone-ascent-posterior-occipital-cervico/merged/corpectomy--blackstone-medical-inc--blackstone-ascent-posterior-occipital-cervico.json",
+        "bytes": 945
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

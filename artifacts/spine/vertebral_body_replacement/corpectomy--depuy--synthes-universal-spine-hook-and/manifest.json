@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--depuy--synthes-universal-spine-hook-and",
+  "artifact_folder": "corpectomy--depuy--synthes-universal-spine-hook-and",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3051,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--depuy--synthes-universal-spine-hook-and.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--synthes-universal-spine-hook-and/enriched/corpectomy--depuy--synthes-universal-spine-hook-and.json",
+        "bytes": 1603
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K921948.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--synthes-universal-spine-hook-and/fda_raw/KWP/K921948.json",
+        "bytes": 586
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--depuy--synthes-universal-spine-hook-and.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--synthes-universal-spine-hook-and/merged/corpectomy--depuy--synthes-universal-spine-hook-and.json",
+        "bytes": 862
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

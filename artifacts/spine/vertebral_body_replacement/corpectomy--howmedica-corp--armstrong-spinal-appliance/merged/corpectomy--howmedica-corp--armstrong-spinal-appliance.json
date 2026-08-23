@@ -1,0 +1,28 @@
+{
+  "device_name": "ARMSTRONG SPINAL APPLIANCE",
+  "manufacturer": "howmedica-corp",
+  "catalog_category": "corpectomy",
+  "filename_stem": "corpectomy--howmedica-corp--armstrong-spinal-appliance",
+  "clearance_type": "510k",
+  "clearance_number": "K810224",
+  "clearance_date": "1981-02-10",
+  "device_class": 2,
+  "device_name_fda": "ARMSTRONG SPINAL APPLIANCE",
+  "product_code": "KWP",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf81/K810224.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

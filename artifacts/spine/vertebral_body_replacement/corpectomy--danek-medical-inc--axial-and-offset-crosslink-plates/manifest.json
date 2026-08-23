@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--danek-medical-inc--axial-and-offset-crosslink-plates",
+  "artifact_folder": "corpectomy--danek-medical-inc--axial-and-offset-crosslink-plates",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2887,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--danek-medical-inc--axial-and-offset-crosslink-plates.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--danek-medical-inc--axial-and-offset-crosslink-plates/enriched/corpectomy--danek-medical-inc--axial-and-offset-crosslink-plates.json",
+        "bytes": 1434
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K896740.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--danek-medical-inc--axial-and-offset-crosslink-plates/fda_raw/KWP/K896740.json",
+        "bytes": 600
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--danek-medical-inc--axial-and-offset-crosslink-plates.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--danek-medical-inc--axial-and-offset-crosslink-plates/merged/corpectomy--danek-medical-inc--axial-and-offset-crosslink-plates.json",
+        "bytes": 853
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

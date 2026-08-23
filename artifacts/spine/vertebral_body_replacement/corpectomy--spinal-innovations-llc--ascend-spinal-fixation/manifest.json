@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--spinal-innovations-llc--ascend-spinal-fixation",
+  "artifact_folder": "corpectomy--spinal-innovations-llc--ascend-spinal-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2868,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--spinal-innovations-llc--ascend-spinal-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--spinal-innovations-llc--ascend-spinal-fixation/enriched/corpectomy--spinal-innovations-llc--ascend-spinal-fixation.json",
+        "bytes": 1425
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K002069.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--spinal-innovations-llc--ascend-spinal-fixation/fda_raw/KWP/K002069.json",
+        "bytes": 599
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--spinal-innovations-llc--ascend-spinal-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--spinal-innovations-llc--ascend-spinal-fixation/merged/corpectomy--spinal-innovations-llc--ascend-spinal-fixation.json",
+        "bytes": 844
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

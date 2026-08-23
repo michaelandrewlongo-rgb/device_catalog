@@ -1,0 +1,24 @@
+{
+  "source_pdf": "embolic-coil--boston-scientific--inzone-detachment--510k.pdf",
+  "device_name": "inzone-detachment",
+  "manufacturer": "boston-scientific",
+  "doc_type": "510k",
+  "extraction_method": "pdf_deepseek",
+  "fields": {
+    "what_it_is": "Boston Scientific's InZoneTM Detachment System is a sterile, handheld, single-patient use device designed for use with Boston Scientific Detachable Coils. The device consists of an enclosure with a detachment button, five LED indicator lamps, a funnel inset at its distal end, and a cable connection port. The device comes pre-loaded with two AAAA (1.5 VDC) batteries.",
+    "sizing_specs": "**Size:** 14.0 x 5.8 x 2.8 cm (5.5 x 2.3 x 1.1 inch)\n**Weight:** 80 g (2.8 oz)\n**Power:** 3V\n**Power Source:** Two 1.5 V (AAAA) DC batteries (in series)\n**CPU Operating Voltage:** 3.3 V DC\n**Max Current:** When detaching GDC and Matrix2 Coils: 1.0 mA\nWhen detaching Target Detachable Coils: 1.8 mA\n**Power Switch:** Inserting coil delivery wire turns unit on. Removing delivery wire turns unit off. Unit turns off after 2 minutes if unit detects no activity\n**Safety Features:** At start up: Memory integrity (checksum assessment); calibration validity\nDuring detachment: Over-current / over-voltage (at least 10x/sec)\nSoftware consistently running (at least 100x/sec)\n**Delivery Wire Interface:** InZone slides over proximal 6.5 cm of coil delivery wire\n**Attachment to Patient Return Electrode (PRE):** InZone slides over proximal 6.5 cm of coil delivery wire\n**Cable Socket Type:** When detaching GDC and Matrix2 Coils: Black cable with minigrabber attached to PRE.\nWhen detaching Target Detachable Coils: Not applicable; return is integral to the device.\n**Sterilization Method:** Ethylene Oxide Gas\n**Sterile Barrier:** PETG tray with Tyvek® lid\n**Packaging:** Carton with Directions for Use\n**User Serviceable Parts:** No user serviceable parts\n**User Required Maintenance:** No user required maintenance\n**Calibration:** Done at factory\n**Number of Detachments:** Minimum of 20 detachments\n\n**Table 1 - Compatibility between Boston Scientific's InZone Detachment System and Detachable Coils**\n\n|                                            | Types of Coils that can be used                                                 |\n|--------------------------------------------|---------------------------------------------------------------------------------|\n| InZone Detachment System<br>(M00345100940) | GDC Detachable Coils<br>Matrix2 Detachable Coils<br>Target Detachable Coils 2 |",
+    "indications": "The InZone Detachment System is intended for use with all Boston Scientific Detachable Coils in the embolization of intracranial aneurysms and other vascular malformations of the neuro and peripheral vasculature.",
+    "contraindications": null,
+    "compatible_with": "Boston Scientific Detachable Coils (GDC Detachable Coils, Matrix2 Detachable Coils, Target Detachable Coils 2). For coil detachment with GDC and Matrix2 Detachable Coils, requires use of Boston Scientific's IZDS Connecting Cable (M00345110250) with the InZone Detachment System. For Target Detachable Coils, no cable required for coil detachment.",
+    "use_notes": "During a procedure, a physician will assess the target lesion to determine the type, size and number of coils to use. After prepping the patient and preparing the coil according to the instructions for use, the coil is delivered through the microcatheter to the site of the lesion. The delivery wire enables the physician to deploy, position, or reposition the coil until proper placement. Prior to detachment of the coil, the entire device (i.e., coil and delivery wire) may be withdrawn completely, if necessary (e.g., if the physician desires to use a different size or shape coil). After being placed at the site of the lesion, the coil is detached from its delivery wire through an electrolytic process using a Boston Scientific InZone Detachment System. Operation of the InZone Detachment System in the detachment of coils is governed by the InZone device's firmware first detecting the type of delivery wire which is inserted into the unit's funnel. When used with Boston Scientific's GDC or Matrix2 Detachable Coils, the InZone Detachment System operates at a maximum 12 VDC and a maximum current of 1.0 mA. For Target Detachable Coils, when the InZone Detachment System detects that a Target Detachable Coil delivery wire has been inserted into the unit's funnel, the device's firmware engages circuitry which operates the device at a maximum 28 VDC and 1.8 mA.",
+    "also_known_as": "InZone Detachment System, InZoneTM Detachment System"
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "sizing_specs": 0.7,
+    "indications": 0.7,
+    "compatible_with": 0.7,
+    "use_notes": 0.7,
+    "also_known_as": 0.7
+  }
+}

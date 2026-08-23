@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--pioneer-surgical-technology--pioneer-spinous-process-fusion-plate",
+  "artifact_folder": "corpectomy--pioneer-surgical-technology--pioneer-spinous-process-fusion-plate",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3431,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--pioneer-surgical-technology--pioneer-spinous-process-fusion-plate.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--pioneer-surgical-technology--pioneer-spinous-process-fusion-plate/enriched/corpectomy--pioneer-surgical-technology--pioneer-spinous-process-fusion-plate.json",
+        "bytes": 1915
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K101525.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--pioneer-surgical-technology--pioneer-spinous-process-fusion-plate/fda_raw/KWP/K101525.json",
+        "bytes": 634
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--pioneer-surgical-technology--pioneer-spinous-process-fusion-plate.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--pioneer-surgical-technology--pioneer-spinous-process-fusion-plate/merged/corpectomy--pioneer-surgical-technology--pioneer-spinous-process-fusion-plate.json",
+        "bytes": 882
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

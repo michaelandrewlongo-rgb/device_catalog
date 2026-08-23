@@ -1,0 +1,42 @@
+{
+  "device_slug": "pedicle-screw--innovasive-inc--dualx",
+  "artifact_folder": "pedicle-screw--innovasive-inc--dualx",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3540,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--innovasive-inc--dualx.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--innovasive-inc--dualx/enriched/pedicle-screw--innovasive-inc--dualx.json",
+        "bytes": 1628
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/pedicle-screw--innovasive-inc--dualx.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--innovasive-inc--dualx/extracted/fda_structured/pedicle-screw--innovasive-inc--dualx.json",
+        "bytes": 602
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K181397.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--innovasive-inc--dualx/fda_raw/MAX/K181397.json",
+        "bytes": 541
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--innovasive-inc--dualx.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--innovasive-inc--dualx/merged/pedicle-screw--innovasive-inc--dualx.json",
+        "bytes": 769
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

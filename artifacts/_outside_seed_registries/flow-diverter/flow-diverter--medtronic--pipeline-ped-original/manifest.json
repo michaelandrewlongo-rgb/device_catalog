@@ -1,0 +1,28 @@
+{
+  "device_slug": "flow-diverter--medtronic--pipeline-ped-original",
+  "artifact_folder": "flow-diverter--medtronic--pipeline-ped-original",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 2,
+  "bytes": 748906,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/flow-diverter--medtronic--pipeline-ped-original--ifu.pdf",
+        "artifact": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--medtronic--pipeline-ped-original/data_by_device/flow-diverter--medtronic--pipeline-ped-original--ifu.pdf",
+        "bytes": 740915
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/documents/flow-diverter--medtronic--pipeline-ped-original--ifu.json",
+        "artifact": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--medtronic--pipeline-ped-original/extracted/documents/flow-diverter--medtronic--pipeline-ped-original--ifu.json",
+        "bytes": 7991
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "flow-diverter",
+    "label": "Flow diverters noted as separate exemplar"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "source": "fda_udi",
+  "brand_name": "Xultan 5.5 Pedicle Screw System",
+  "extraction_method": "fda_udi_api",
+  "fields": {
+    "what_it_is": "THE XULTAN 5.5 PEDICLE SCREW SYSTEM IS AN IMPLANT DEVICE MANUFACTURED FROM TITANIUM AND SILICONE.  THE SCREWS ARE AVAILABLE CANNULATED OR NON-CANNULATED IN VARIOUS DIAMETERS AND LENGTHS TO ACCOMMODATE VARIOUS PATIENT ANATOMIES.  THE SYSTEM INCLUDES STRAIGHT RODS, CURVED RODS, CROSSLINKS, AND ASSOCIATED INSTRUMENTATION.",
+    "sizing_specs": "Catalog: 30290301; Model: 30290301",
+    "use_notes": "MRI: Labeling does not contain MRI Safety Information. Sterilized: Moist Heat or Steam Sterilization. Single-use",
+    "also_known_as": [
+      "XULTAN 5.5 PEDICLE SCREW SYSTEM",
+      "Spinal bone screw, non-bioabsorbable"
+    ]
+  },
+  "confidence": {
+    "what_it_is": 0.85,
+    "sizing_specs": 0.85,
+    "use_notes": 0.85,
+    "also_known_as": 0.85
+  }
+}

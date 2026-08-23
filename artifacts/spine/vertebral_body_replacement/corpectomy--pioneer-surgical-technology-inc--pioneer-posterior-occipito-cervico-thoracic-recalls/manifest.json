@@ -1,0 +1,21 @@
+{
+  "device_slug": "corpectomy--pioneer-surgical-technology-inc--pioneer-posterior-occipito-cervico-thoracic-recalls",
+  "artifact_folder": "corpectomy--pioneer-surgical-technology-inc--pioneer-posterior-occipito-cervico-thoracic-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 2671,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/corpectomy--pioneer-surgical-technology-inc--pioneer-posterior-occipito-cervico-thoracic-recalls.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--pioneer-surgical-technology-inc--pioneer-posterior-occipito-cervico-thoracic-recalls/extracted/fda_safety/corpectomy--pioneer-surgical-technology-inc--pioneer-posterior-occipito-cervico-thoracic-recalls.json",
+        "bytes": 2671
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

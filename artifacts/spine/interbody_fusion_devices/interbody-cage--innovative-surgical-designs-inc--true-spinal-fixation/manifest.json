@@ -1,0 +1,47 @@
+{
+  "device_slug": "interbody-cage--innovative-surgical-designs-inc--true-spinal-fixation",
+  "artifact_folder": "interbody-cage--innovative-surgical-designs-inc--true-spinal-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 4473,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--innovative-surgical-designs-inc--true-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--innovative-surgical-designs-inc--true-spinal-fixation/enriched/interbody-cage--innovative-surgical-designs-inc--true-spinal-fixation.json",
+        "bytes": 1723
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--innovative-surgical-designs-inc--true-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--innovative-surgical-designs-inc--true-spinal-fixation/extracted/fda_structured/interbody-cage--innovative-surgical-designs-inc--true-spinal-fixation.json",
+        "bytes": 624
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K170710.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--innovative-surgical-designs-inc--true-spinal-fixation/fda_raw/NKB/K170710.json",
+        "bytes": 631
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K171559.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--innovative-surgical-designs-inc--true-spinal-fixation/fda_raw/NKB/K171559.json",
+        "bytes": 631
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--innovative-surgical-designs-inc--true-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--innovative-surgical-designs-inc--true-spinal-fixation/merged/interbody-cage--innovative-surgical-designs-inc--true-spinal-fixation.json",
+        "bytes": 864
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

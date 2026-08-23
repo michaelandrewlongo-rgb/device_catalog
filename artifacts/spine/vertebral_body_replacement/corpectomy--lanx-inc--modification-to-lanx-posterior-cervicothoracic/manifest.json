@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--lanx-inc--modification-to-lanx-posterior-cervicothoracic",
+  "artifact_folder": "corpectomy--lanx-inc--modification-to-lanx-posterior-cervicothoracic",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3043,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--lanx-inc--modification-to-lanx-posterior-cervicothoracic.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--lanx-inc--modification-to-lanx-posterior-cervicothoracic/enriched/corpectomy--lanx-inc--modification-to-lanx-posterior-cervicothoracic.json",
+        "bytes": 1501
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K100888.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--lanx-inc--modification-to-lanx-posterior-cervicothoracic/fda_raw/KWP/K100888.json",
+        "bytes": 622
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--lanx-inc--modification-to-lanx-posterior-cervicothoracic.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--lanx-inc--modification-to-lanx-posterior-cervicothoracic/merged/corpectomy--lanx-inc--modification-to-lanx-posterior-cervicothoracic.json",
+        "bytes": 920
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

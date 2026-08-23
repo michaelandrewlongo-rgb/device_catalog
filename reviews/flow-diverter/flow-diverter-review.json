@@ -1,0 +1,2317 @@
+{
+  "category": "flow-diverter",
+  "devices": {
+    "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield": {
+      "source_count": 12,
+      "sources": [
+        {
+          "device_family": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield",
+          "query_used": "\"Pipeline Flex Embolization Device with Shield Technology\" OR \"Pipeline Flex\" OR \"Pipeline Embolization Device\" OR \"Pipeline Shield\"",
+          "raw": {
+            "abstract": "The Pipeline Flex Embolization Device with Shield technology (PED-Shield [Medtronic, Dublin, Ireland]) is a third-generation flow diverter. Surface modification of the mesh with phosphorylcholine covalently bound to the metal struts aims to reduce thrombogenicity. In the present study, we report the results from the first U.S. series of patients with intracranial aneurysms treated with the PED-Shield and a comprehensive systematic literature review.\nWe retrospectively collected the patient demographics, aneurysm characteristics, procedural details, and periprocedural complications from our prospectively maintained endovascular database (April 2021 to July 2021). Our literature review encompassed 3 databases (PubMed, Embase, and MEDLINE).\nTen patients with 11 anterior circulation unruptured wide-necked aneurysms (10 saccular, 1 fusiform) were included. The average patient age was 64.7 years (range, 45-86 years), and 9 were women. One device demonstrated insufficient distal opening. No other technical issues or intraprocedural complications had occurred. After the procedure, 1 patient had developed a groin hematoma and 1 had experienced a small intracranial hemorrhage, with no clinical repercussions. All patients were discharged with dual-antiplatelet therapy. In the review, we identified 15 studies. Most had been conducted in Europe and South America and 3 were U.S. case reports of compassionate use of the device.\nIn our initial periprocedural experience with the PED-Shield for intracranial aneurysm treatment, the device demonstrated an excellent performance and no major complications. Further studies are required to evaluate the long-term follow-up results and the safety of different antiplatelet regimens.",
+            "doi": "10.1016/j.wneu.2021.12.031",
+            "journal": "World neurosurgery",
+            "matched_device_family": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield",
+            "pmid": "34920157",
+            "publication_date": "2022-Mar",
+            "query_used": "\"Pipeline Flex Embolization Device with Shield Technology\" OR \"Pipeline Flex\" OR \"Pipeline Embolization Device\" OR \"Pipeline Shield\"",
+            "source_retrieved_at": "2026-04-15T10:10:57+00:00",
+            "title": "First U.S. Experience Using the Pipeline Flex Embolization Device with Shield Technology for Treatment of Intracranial Aneurysms."
+          },
+          "retrieved_at": "2026-04-15T10:10:57+00:00",
+          "source_id": "pubmed:34920157",
+          "source_type": "pubmed",
+          "source_url": "https://pubmed.ncbi.nlm.nih.gov/34920157/",
+          "title": "First U.S. Experience Using the Pipeline Flex Embolization Device with Shield Technology for Treatment of Intracranial Aneurysms."
+        },
+        {
+          "device_family": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield",
+          "query_used": "\"Pipeline Flex Embolization Device with Shield Technology\" OR \"Pipeline Flex\" OR \"Pipeline Embolization Device\" OR \"Pipeline Shield\"",
+          "raw": {
+            "abstract": "Ruptured blister, dissecting, and iatrogenic pseudoaneurysms are rare pathologies that pose significant challenges from a treatment standpoint. Endovascular treatment via flow diversion represents an increasingly popular option; however, drawbacks include the requirement for dual antiplatelet therapy and the potential for thromboembolic complications, particularly acute complications in the ruptured setting. The Pipeline Flex embolization device with Shield Technology (PED-Shield) offers reduced material thrombogenicity, which may aid in the treatment of ruptured internal carotid artery pseudoaneurysms.\nThe authors conducted a multi-institution, retrospective case series to determine the safety and efficacy of PED-Shield for the treatment of ruptured blister, dissecting, and iatrogenic pseudoaneurysms of the internal carotid artery. Clinical, radiographic, treatment, and outcomes data were collected.\nThirty-three patients were included in the final analysis. Seventeen underwent placement of a single device, and 16 underwent placement of two devices. No thromboembolic complications occurred. Four patients were maintained on aspirin alone, and all others were treated with long-term dual antiplatelet therapy. Among patients with 3-month follow-up, 93.8% had a modified Rankin Scale score of 0-2. Complete occlusion at follow-up was observed in 82.6% of patients.\nPED-Shield represents a new option for the treatment of ruptured blister, dissecting, and iatrogenic pseudoaneurysms of the internal carotid artery. The reduced material thrombogenicity appeared to improve the safety of the PED-Shield device, as this series demonstrated no thromboembolic complications even among patients treated with only single antiplatelet therapy. The efficacy of PED-Shield reported in this series, particularly with placement of two devices, demonstrates its potential as a first-line treatment option for these pathologies.",
+            "doi": "10.3171/2023.2.FOCUS233",
+            "journal": "Neurosurgical focus",
+            "matched_device_family": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield",
+            "pmid": "37127036",
+            "publication_date": "2023-May",
+            "query_used": "\"Pipeline Flex Embolization Device with Shield Technology\" OR \"Pipeline Flex\" OR \"Pipeline Embolization Device\" OR \"Pipeline Shield\"",
+            "source_retrieved_at": "2026-04-15T10:10:57+00:00",
+            "title": "Safety and efficacy of the Pipeline Flex embolization device with Shield Technology for the acute treatment of ruptured internal carotid artery pseudoaneurysms: a multi-institution case series."
+          },
+          "retrieved_at": "2026-04-15T10:10:57+00:00",
+          "source_id": "pubmed:37127036",
+          "source_type": "pubmed",
+          "source_url": "https://pubmed.ncbi.nlm.nih.gov/37127036/",
+          "title": "Safety and efficacy of the Pipeline Flex embolization device with Shield Technology for the acute treatment of ruptured internal carotid artery pseudoaneurysms: a multi-institution case series."
+        },
+        {
+          "device_family": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield",
+          "query_used": "Pipeline Flex Embolization Device with Shield Technology",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "00836462015937",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Pipeline",
+            "companyName": "Micro Therapeutics, Inc.",
+            "deviceIdentifier": "0ee934de-0bcc-49fd-95fd-487cc5c87e85",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "PED-500-35"
+          },
+          "retrieved_at": "2026-04-15T10:11:23+00:00",
+          "source_id": "accessgudid:00836462015937",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/0ee934de-0bcc-49fd-95fd-487cc5c87e85",
+          "title": "Pipeline (Micro Therapeutics, Inc.)"
+        },
+        {
+          "device_family": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield",
+          "query_used": "Pipeline Flex Embolization Device with Shield Technology",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "00836462015920",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Pipeline",
+            "companyName": "Micro Therapeutics, Inc.",
+            "deviceIdentifier": "5448e884-659e-4a87-a01e-9e261123d4f1",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "PED-500-30"
+          },
+          "retrieved_at": "2026-04-15T10:11:23+00:00",
+          "source_id": "accessgudid:00836462015920",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/5448e884-659e-4a87-a01e-9e261123d4f1",
+          "title": "Pipeline (Micro Therapeutics, Inc.)"
+        },
+        {
+          "device_family": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield",
+          "query_used": "Pipeline Flex Embolization Device with Shield Technology",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "00836462015913",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Pipeline",
+            "companyName": "Micro Therapeutics, Inc.",
+            "deviceIdentifier": "7650f321-f11c-4cf3-bf3d-b9adda89f344",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "PED-500-25"
+          },
+          "retrieved_at": "2026-04-15T10:11:23+00:00",
+          "source_id": "accessgudid:00836462015913",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/7650f321-f11c-4cf3-bf3d-b9adda89f344",
+          "title": "Pipeline (Micro Therapeutics, Inc.)"
+        },
+        {
+          "device_family": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield",
+          "query_used": "Pipeline Flex Embolization Device with Shield Technology",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "00836462015906",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Pipeline",
+            "companyName": "Micro Therapeutics, Inc.",
+            "deviceIdentifier": "6ec61208-1c5f-4147-aca8-7e48bf84e2e7",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "PED-475-35"
+          },
+          "retrieved_at": "2026-04-15T10:11:23+00:00",
+          "source_id": "accessgudid:00836462015906",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/6ec61208-1c5f-4147-aca8-7e48bf84e2e7",
+          "title": "Pipeline (Micro Therapeutics, Inc.)"
+        },
+        {
+          "device_family": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield",
+          "query_used": "Pipeline Flex Embolization Device with Shield Technology",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "00836462015890",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Pipeline",
+            "companyName": "Micro Therapeutics, Inc.",
+            "deviceIdentifier": "c16f77a7-dea9-4cbd-bc39-98aa4638c601",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "PED-475-30"
+          },
+          "retrieved_at": "2026-04-15T10:11:23+00:00",
+          "source_id": "accessgudid:00836462015890",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/c16f77a7-dea9-4cbd-bc39-98aa4638c601",
+          "title": "Pipeline (Micro Therapeutics, Inc.)"
+        },
+        {
+          "device_family": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield",
+          "query_used": "Pipeline Flex Embolization Device with Shield Technology",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "00836462015883",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Pipeline",
+            "companyName": "Micro Therapeutics, Inc.",
+            "deviceIdentifier": "25fb90a0-a979-45ab-978a-42d71eb508f9",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "PED-475-25"
+          },
+          "retrieved_at": "2026-04-15T10:11:23+00:00",
+          "source_id": "accessgudid:00836462015883",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/25fb90a0-a979-45ab-978a-42d71eb508f9",
+          "title": "Pipeline (Micro Therapeutics, Inc.)"
+        },
+        {
+          "device_family": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield",
+          "query_used": "Pipeline Flex Embolization Device with Shield Technology",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "00836462015876",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Pipeline",
+            "companyName": "Micro Therapeutics, Inc.",
+            "deviceIdentifier": "a4d02ab2-96e0-412d-ab35-4c9a78eba87e",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "PED-450-35"
+          },
+          "retrieved_at": "2026-04-15T10:11:23+00:00",
+          "source_id": "accessgudid:00836462015876",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/a4d02ab2-96e0-412d-ab35-4c9a78eba87e",
+          "title": "Pipeline (Micro Therapeutics, Inc.)"
+        },
+        {
+          "device_family": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield",
+          "query_used": "Pipeline Flex Embolization Device with Shield Technology",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "00836462015869",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Pipeline",
+            "companyName": "Micro Therapeutics, Inc.",
+            "deviceIdentifier": "d681c937-4352-45fb-9e92-816ab43187fd",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "PED-450-30"
+          },
+          "retrieved_at": "2026-04-15T10:11:23+00:00",
+          "source_id": "accessgudid:00836462015869",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/d681c937-4352-45fb-9e92-816ab43187fd",
+          "title": "Pipeline (Micro Therapeutics, Inc.)"
+        },
+        {
+          "device_family": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield",
+          "query_used": "Pipeline Flex Embolization Device with Shield Technology",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "00836462015852",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Pipeline",
+            "companyName": "Micro Therapeutics, Inc.",
+            "deviceIdentifier": "2f541d66-6f79-49b0-b572-525ee474f681",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "PED-450-25"
+          },
+          "retrieved_at": "2026-04-15T10:11:23+00:00",
+          "source_id": "accessgudid:00836462015852",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/2f541d66-6f79-49b0-b572-525ee474f681",
+          "title": "Pipeline (Micro Therapeutics, Inc.)"
+        },
+        {
+          "device_family": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield",
+          "query_used": "Pipeline Flex Embolization Device with Shield Technology",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "00836462015845",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Pipeline",
+            "companyName": "Micro Therapeutics, Inc.",
+            "deviceIdentifier": "9e09ebaa-76f8-49e8-a720-711de1cb9fce",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "PED-425-35"
+          },
+          "retrieved_at": "2026-04-15T10:11:23+00:00",
+          "source_id": "accessgudid:00836462015845",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/9e09ebaa-76f8-49e8-a720-711de1cb9fce",
+          "title": "Pipeline (Micro Therapeutics, Inc.)"
+        }
+      ]
+    },
+    "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology": {
+      "source_count": 12,
+      "sources": [
+        {
+          "device_family": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+          "query_used": "\"Pipeline Flex Embolization Device with Shield Technology\" OR \"Pipeline Flex\" OR \"Pipeline Embolization Device\" OR \"Pipeline Shield\"",
+          "raw": {
+            "abstract": "The Pipeline Flex Embolization Device with Shield technology (PED-Shield [Medtronic, Dublin, Ireland]) is a third-generation flow diverter. Surface modification of the mesh with phosphorylcholine covalently bound to the metal struts aims to reduce thrombogenicity. In the present study, we report the results from the first U.S. series of patients with intracranial aneurysms treated with the PED-Shield and a comprehensive systematic literature review.\nWe retrospectively collected the patient demographics, aneurysm characteristics, procedural details, and periprocedural complications from our prospectively maintained endovascular database (April 2021 to July 2021). Our literature review encompassed 3 databases (PubMed, Embase, and MEDLINE).\nTen patients with 11 anterior circulation unruptured wide-necked aneurysms (10 saccular, 1 fusiform) were included. The average patient age was 64.7 years (range, 45-86 years), and 9 were women. One device demonstrated insufficient distal opening. No other technical issues or intraprocedural complications had occurred. After the procedure, 1 patient had developed a groin hematoma and 1 had experienced a small intracranial hemorrhage, with no clinical repercussions. All patients were discharged with dual-antiplatelet therapy. In the review, we identified 15 studies. Most had been conducted in Europe and South America and 3 were U.S. case reports of compassionate use of the device.\nIn our initial periprocedural experience with the PED-Shield for intracranial aneurysm treatment, the device demonstrated an excellent performance and no major complications. Further studies are required to evaluate the long-term follow-up results and the safety of different antiplatelet regimens.",
+            "doi": "10.1016/j.wneu.2021.12.031",
+            "journal": "World neurosurgery",
+            "matched_device_family": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+            "pmid": "34920157",
+            "publication_date": "2022-Mar",
+            "query_used": "\"Pipeline Flex Embolization Device with Shield Technology\" OR \"Pipeline Flex\" OR \"Pipeline Embolization Device\" OR \"Pipeline Shield\"",
+            "source_retrieved_at": "2026-04-15T10:10:58+00:00",
+            "title": "First U.S. Experience Using the Pipeline Flex Embolization Device with Shield Technology for Treatment of Intracranial Aneurysms."
+          },
+          "retrieved_at": "2026-04-15T10:10:58+00:00",
+          "source_id": "pubmed:34920157",
+          "source_type": "pubmed",
+          "source_url": "https://pubmed.ncbi.nlm.nih.gov/34920157/",
+          "title": "First U.S. Experience Using the Pipeline Flex Embolization Device with Shield Technology for Treatment of Intracranial Aneurysms."
+        },
+        {
+          "device_family": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+          "query_used": "\"Pipeline Flex Embolization Device with Shield Technology\" OR \"Pipeline Flex\" OR \"Pipeline Embolization Device\" OR \"Pipeline Shield\"",
+          "raw": {
+            "abstract": "Ruptured blister, dissecting, and iatrogenic pseudoaneurysms are rare pathologies that pose significant challenges from a treatment standpoint. Endovascular treatment via flow diversion represents an increasingly popular option; however, drawbacks include the requirement for dual antiplatelet therapy and the potential for thromboembolic complications, particularly acute complications in the ruptured setting. The Pipeline Flex embolization device with Shield Technology (PED-Shield) offers reduced material thrombogenicity, which may aid in the treatment of ruptured internal carotid artery pseudoaneurysms.\nThe authors conducted a multi-institution, retrospective case series to determine the safety and efficacy of PED-Shield for the treatment of ruptured blister, dissecting, and iatrogenic pseudoaneurysms of the internal carotid artery. Clinical, radiographic, treatment, and outcomes data were collected.\nThirty-three patients were included in the final analysis. Seventeen underwent placement of a single device, and 16 underwent placement of two devices. No thromboembolic complications occurred. Four patients were maintained on aspirin alone, and all others were treated with long-term dual antiplatelet therapy. Among patients with 3-month follow-up, 93.8% had a modified Rankin Scale score of 0-2. Complete occlusion at follow-up was observed in 82.6% of patients.\nPED-Shield represents a new option for the treatment of ruptured blister, dissecting, and iatrogenic pseudoaneurysms of the internal carotid artery. The reduced material thrombogenicity appeared to improve the safety of the PED-Shield device, as this series demonstrated no thromboembolic complications even among patients treated with only single antiplatelet therapy. The efficacy of PED-Shield reported in this series, particularly with placement of two devices, demonstrates its potential as a first-line treatment option for these pathologies.",
+            "doi": "10.3171/2023.2.FOCUS233",
+            "journal": "Neurosurgical focus",
+            "matched_device_family": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+            "pmid": "37127036",
+            "publication_date": "2023-May",
+            "query_used": "\"Pipeline Flex Embolization Device with Shield Technology\" OR \"Pipeline Flex\" OR \"Pipeline Embolization Device\" OR \"Pipeline Shield\"",
+            "source_retrieved_at": "2026-04-15T10:10:58+00:00",
+            "title": "Safety and efficacy of the Pipeline Flex embolization device with Shield Technology for the acute treatment of ruptured internal carotid artery pseudoaneurysms: a multi-institution case series."
+          },
+          "retrieved_at": "2026-04-15T10:10:58+00:00",
+          "source_id": "pubmed:37127036",
+          "source_type": "pubmed",
+          "source_url": "https://pubmed.ncbi.nlm.nih.gov/37127036/",
+          "title": "Safety and efficacy of the Pipeline Flex embolization device with Shield Technology for the acute treatment of ruptured internal carotid artery pseudoaneurysms: a multi-institution case series."
+        },
+        {
+          "device_family": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+          "query_used": "Pipeline Flex Embolization Device with Shield Technology",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "00836462015937",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Pipeline",
+            "companyName": "Micro Therapeutics, Inc.",
+            "deviceIdentifier": "0ee934de-0bcc-49fd-95fd-487cc5c87e85",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "PED-500-35"
+          },
+          "retrieved_at": "2026-04-15T10:11:30+00:00",
+          "source_id": "accessgudid:00836462015937",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/0ee934de-0bcc-49fd-95fd-487cc5c87e85",
+          "title": "Pipeline (Micro Therapeutics, Inc.)"
+        },
+        {
+          "device_family": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+          "query_used": "Pipeline Flex Embolization Device with Shield Technology",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "00836462015920",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Pipeline",
+            "companyName": "Micro Therapeutics, Inc.",
+            "deviceIdentifier": "5448e884-659e-4a87-a01e-9e261123d4f1",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "PED-500-30"
+          },
+          "retrieved_at": "2026-04-15T10:11:30+00:00",
+          "source_id": "accessgudid:00836462015920",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/5448e884-659e-4a87-a01e-9e261123d4f1",
+          "title": "Pipeline (Micro Therapeutics, Inc.)"
+        },
+        {
+          "device_family": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+          "query_used": "Pipeline Flex Embolization Device with Shield Technology",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "00836462015913",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Pipeline",
+            "companyName": "Micro Therapeutics, Inc.",
+            "deviceIdentifier": "7650f321-f11c-4cf3-bf3d-b9adda89f344",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "PED-500-25"
+          },
+          "retrieved_at": "2026-04-15T10:11:30+00:00",
+          "source_id": "accessgudid:00836462015913",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/7650f321-f11c-4cf3-bf3d-b9adda89f344",
+          "title": "Pipeline (Micro Therapeutics, Inc.)"
+        },
+        {
+          "device_family": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+          "query_used": "Pipeline Flex Embolization Device with Shield Technology",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "00836462015906",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Pipeline",
+            "companyName": "Micro Therapeutics, Inc.",
+            "deviceIdentifier": "6ec61208-1c5f-4147-aca8-7e48bf84e2e7",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "PED-475-35"
+          },
+          "retrieved_at": "2026-04-15T10:11:30+00:00",
+          "source_id": "accessgudid:00836462015906",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/6ec61208-1c5f-4147-aca8-7e48bf84e2e7",
+          "title": "Pipeline (Micro Therapeutics, Inc.)"
+        },
+        {
+          "device_family": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+          "query_used": "Pipeline Flex Embolization Device with Shield Technology",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "00836462015890",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Pipeline",
+            "companyName": "Micro Therapeutics, Inc.",
+            "deviceIdentifier": "c16f77a7-dea9-4cbd-bc39-98aa4638c601",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "PED-475-30"
+          },
+          "retrieved_at": "2026-04-15T10:11:30+00:00",
+          "source_id": "accessgudid:00836462015890",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/c16f77a7-dea9-4cbd-bc39-98aa4638c601",
+          "title": "Pipeline (Micro Therapeutics, Inc.)"
+        },
+        {
+          "device_family": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+          "query_used": "Pipeline Flex Embolization Device with Shield Technology",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "00836462015883",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Pipeline",
+            "companyName": "Micro Therapeutics, Inc.",
+            "deviceIdentifier": "25fb90a0-a979-45ab-978a-42d71eb508f9",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "PED-475-25"
+          },
+          "retrieved_at": "2026-04-15T10:11:30+00:00",
+          "source_id": "accessgudid:00836462015883",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/25fb90a0-a979-45ab-978a-42d71eb508f9",
+          "title": "Pipeline (Micro Therapeutics, Inc.)"
+        },
+        {
+          "device_family": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+          "query_used": "Pipeline Flex Embolization Device with Shield Technology",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "00836462015876",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Pipeline",
+            "companyName": "Micro Therapeutics, Inc.",
+            "deviceIdentifier": "a4d02ab2-96e0-412d-ab35-4c9a78eba87e",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "PED-450-35"
+          },
+          "retrieved_at": "2026-04-15T10:11:30+00:00",
+          "source_id": "accessgudid:00836462015876",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/a4d02ab2-96e0-412d-ab35-4c9a78eba87e",
+          "title": "Pipeline (Micro Therapeutics, Inc.)"
+        },
+        {
+          "device_family": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+          "query_used": "Pipeline Flex Embolization Device with Shield Technology",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "00836462015869",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Pipeline",
+            "companyName": "Micro Therapeutics, Inc.",
+            "deviceIdentifier": "d681c937-4352-45fb-9e92-816ab43187fd",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "PED-450-30"
+          },
+          "retrieved_at": "2026-04-15T10:11:30+00:00",
+          "source_id": "accessgudid:00836462015869",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/d681c937-4352-45fb-9e92-816ab43187fd",
+          "title": "Pipeline (Micro Therapeutics, Inc.)"
+        },
+        {
+          "device_family": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+          "query_used": "Pipeline Flex Embolization Device with Shield Technology",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "00836462015852",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Pipeline",
+            "companyName": "Micro Therapeutics, Inc.",
+            "deviceIdentifier": "2f541d66-6f79-49b0-b572-525ee474f681",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "PED-450-25"
+          },
+          "retrieved_at": "2026-04-15T10:11:30+00:00",
+          "source_id": "accessgudid:00836462015852",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/2f541d66-6f79-49b0-b572-525ee474f681",
+          "title": "Pipeline (Micro Therapeutics, Inc.)"
+        },
+        {
+          "device_family": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+          "query_used": "Pipeline Flex Embolization Device with Shield Technology",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "00836462015845",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Pipeline",
+            "companyName": "Micro Therapeutics, Inc.",
+            "deviceIdentifier": "9e09ebaa-76f8-49e8-a720-711de1cb9fce",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "PED-425-35"
+          },
+          "retrieved_at": "2026-04-15T10:11:30+00:00",
+          "source_id": "accessgudid:00836462015845",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/9e09ebaa-76f8-49e8-a720-711de1cb9fce",
+          "title": "Pipeline (Micro Therapeutics, Inc.)"
+        }
+      ]
+    },
+    "flow-diverter--medtronic--pipeline-flex-shield": {
+      "source_count": 14,
+      "sources": [
+        {
+          "device_family": "flow-diverter--medtronic--pipeline-flex-shield",
+          "query_used": "\"Pipeline Flex Embolization Device\" OR \"Pipeline\" OR \"Pipeline Flex\" OR \"Pipeline Shield\" OR \"Pipeline Flex with Shield Technology\"",
+          "raw": {
+            "abstract": "The Pipeline Flex Embolization Device with Shield technology (PED-Shield [Medtronic, Dublin, Ireland]) is a third-generation flow diverter. Surface modification of the mesh with phosphorylcholine covalently bound to the metal struts aims to reduce thrombogenicity. In the present study, we report the results from the first U.S. series of patients with intracranial aneurysms treated with the PED-Shield and a comprehensive systematic literature review.\nWe retrospectively collected the patient demographics, aneurysm characteristics, procedural details, and periprocedural complications from our prospectively maintained endovascular database (April 2021 to July 2021). Our literature review encompassed 3 databases (PubMed, Embase, and MEDLINE).\nTen patients with 11 anterior circulation unruptured wide-necked aneurysms (10 saccular, 1 fusiform) were included. The average patient age was 64.7 years (range, 45-86 years), and 9 were women. One device demonstrated insufficient distal opening. No other technical issues or intraprocedural complications had occurred. After the procedure, 1 patient had developed a groin hematoma and 1 had experienced a small intracranial hemorrhage, with no clinical repercussions. All patients were discharged with dual-antiplatelet therapy. In the review, we identified 15 studies. Most had been conducted in Europe and South America and 3 were U.S. case reports of compassionate use of the device.\nIn our initial periprocedural experience with the PED-Shield for intracranial aneurysm treatment, the device demonstrated an excellent performance and no major complications. Further studies are required to evaluate the long-term follow-up results and the safety of different antiplatelet regimens.",
+            "doi": "10.1016/j.wneu.2021.12.031",
+            "journal": "World neurosurgery",
+            "matched_device_family": "flow-diverter--medtronic--pipeline-flex-shield",
+            "pmid": "34920157",
+            "publication_date": "2022-Mar",
+            "query_used": "\"Pipeline Flex Embolization Device\" OR \"Pipeline\" OR \"Pipeline Flex\" OR \"Pipeline Shield\" OR \"Pipeline Flex with Shield Technology\"",
+            "source_retrieved_at": "2026-04-15T10:10:59+00:00",
+            "title": "First U.S. Experience Using the Pipeline Flex Embolization Device with Shield Technology for Treatment of Intracranial Aneurysms."
+          },
+          "retrieved_at": "2026-04-15T10:10:59+00:00",
+          "source_id": "pubmed:34920157",
+          "source_type": "pubmed",
+          "source_url": "https://pubmed.ncbi.nlm.nih.gov/34920157/",
+          "title": "First U.S. Experience Using the Pipeline Flex Embolization Device with Shield Technology for Treatment of Intracranial Aneurysms."
+        },
+        {
+          "device_family": "flow-diverter--medtronic--pipeline-flex-shield",
+          "query_used": "\"Pipeline Flex Embolization Device\" OR \"Pipeline\" OR \"Pipeline Flex\" OR \"Pipeline Shield\" OR \"Pipeline Flex with Shield Technology\"",
+          "raw": {
+            "abstract": "Clinical trials for Alzheimer's disease (AD) must be registered on clinicaltrials.gov. The registry presents a variety of types of information related to the planned clinical trial. We assess clinicaltrials.gov to document and compare aspects of drug development across the AD pipeline. Currently, there are 138 drugs being assessed in 182 clinical trials in the AD pipeline. Biological disease-targeted therapies (DTTs) comprise 30% of the pipeline; small molecule DTTs account for 43% of the pipeline; drugs addressing cognitive enhancement account for 14% of the pipeline; and drugs aiming to ameliorate neuropsychiatric symptoms in participants with AD contribute 11% of the pipeline. Biomarkers are among the primary outcomes of 27% of active trials. Repurposed agents represent 33% of the pipeline agents. The pipeline has more trials and more drugs compared to the 2024 pipeline.\nThe 2025 Alzheimer's disease drug development pipeline hosts 182 trials and 138 novel drugs.The 2025 Alzheimer's disease drug development pipeline is diverse, with agents that address 15 basic disease processes.The 2025 Alzheimer's disease drug development pipeline has more trials and more drugs than the 2024 pipeline.Biomarkers play an important role in current trials to determine trial eligibility and as outcomes of trials.Repurposed agents comprise approximately one-third of the agents and trials in the 2025 Alzheimer's disease drug development pipeline.",
+            "doi": "10.1002/trc2.70098",
+            "journal": "Alzheimer's & dementia (New York, N. Y.)",
+            "matched_device_family": "flow-diverter--medtronic--pipeline-flex-shield",
+            "pmid": "40463637",
+            "publication_date": "2025",
+            "query_used": "\"Pipeline Flex Embolization Device\" OR \"Pipeline\" OR \"Pipeline Flex\" OR \"Pipeline Shield\" OR \"Pipeline Flex with Shield Technology\"",
+            "source_retrieved_at": "2026-04-15T10:10:59+00:00",
+            "title": "Alzheimer's disease drug development pipeline: 2025."
+          },
+          "retrieved_at": "2026-04-15T10:10:59+00:00",
+          "source_id": "pubmed:40463637",
+          "source_type": "pubmed",
+          "source_url": "https://pubmed.ncbi.nlm.nih.gov/40463637/",
+          "title": "Alzheimer's disease drug development pipeline: 2025."
+        },
+        {
+          "device_family": "flow-diverter--medtronic--pipeline-flex-shield",
+          "query_used": "brand_name:\"Pipeline Flex Embolization Device\" OR brand_name:\"Pipeline\" OR brand_name:\"Pipeline Flex\"",
+          "raw": {
+            "brand_name": "PIPELINE",
+            "catalog_number": "288210005",
+            "commercial_distribution_status": "In Commercial Distribution",
+            "company_name": "Medos International Sàrl",
+            "customer_contacts": [
+              {
+                "email": "xx@xx.xx",
+                "phone": "+1(800)255-2500"
+              }
+            ],
+            "device_count_in_base_package": "1",
+            "device_description": "PIPELINE ACCESS SYSTEM 5TH DILATOR 21mm",
+            "gmdn_terms": [
+              {
+                "code": "37151",
+                "code_status": "Active",
+                "definition": "A hollow dilator with a tapered distal end intended to enable the gentle insertion of a larger laparoscopic access cannula, necessary when significantly increasing the working access port's lumen, e.g., from 10 to 20 mm diameter. It is commonly used in minimally-invasive laparoscopic procedures. The dilator is entered over a guide rod, forcing a larger opening as the skin is pressed aside, thereby reducing the possible degree of damage. This is a reusable device.",
+                "implantable": "false",
+                "name": "Laparoscopic access cannula dilator"
+              }
+            ],
+            "has_donation_id_number": "false",
+            "has_expiration_date": "false",
+            "has_lot_or_batch_number": "true",
+            "has_manufacturing_date": "false",
+            "has_serial_number": "false",
+            "identifiers": [
+              {
+                "id": "10705034220628",
+                "issuing_agency": "GS1",
+                "type": "Primary"
+              }
+            ],
+            "is_combination_product": "false",
+            "is_direct_marking_exempt": "false",
+            "is_hct_p": "false",
+            "is_kit": "false",
+            "is_labeled_as_no_nrl": "false",
+            "is_labeled_as_nrl": "false",
+            "is_otc": "false",
+            "is_pm_exempt": "true",
+            "is_rx": "true",
+            "is_single_use": "false",
+            "labeler_duns_number": "482661753",
+            "mri_safety": "Labeling does not contain MRI Safety Information",
+            "product_codes": [
+              {
+                "code": "LXH",
+                "name": "ORTHOPEDIC MANUAL SURGICAL INSTRUMENT",
+                "openfda": {
+                  "device_class": "1",
+                  "device_name": "Orthopedic Manual Surgical Instrument",
+                  "medical_specialty_description": "Orthopedic",
+                  "regulation_number": "888.4540"
+                }
+              }
+            ],
+            "public_device_record_key": "4e2bf1de-07e4-45e3-afbf-0489f3de80d5",
+            "public_version_date": "2024-02-12",
+            "public_version_number": "3",
+            "public_version_status": "Update",
+            "publish_date": "2016-12-15",
+            "record_status": "Published",
+            "sterilization": {
+              "is_sterile": "false",
+              "is_sterilization_prior_use": "true",
+              "sterilization_methods": "Moist Heat or Steam Sterilization"
+            },
+            "version_or_model_number": "288210005"
+          },
+          "retrieved_at": "2026-04-15T10:11:11+00:00",
+          "source_id": "fda:udi:record-1",
+          "source_type": "fda",
+          "source_url": "https://api.fda.gov/device/udi.json?search=brand_name%3A%22Pipeline%20Flex%20Embolization%20Device%22%20OR%20brand_name%3A%22Pipeline%22%20OR%20brand_name%3A%22Pipeline%20Flex%22",
+          "title": "PIPELINE"
+        },
+        {
+          "device_family": "flow-diverter--medtronic--pipeline-flex-shield",
+          "query_used": "brand_name:\"Pipeline Flex Embolization Device\" OR brand_name:\"Pipeline\" OR brand_name:\"Pipeline Flex\"",
+          "raw": {
+            "brand_name": "PIPELINE",
+            "commercial_distribution_status": "In Commercial Distribution",
+            "company_name": "Micro Therapeutics, Inc.",
+            "customer_contacts": [
+              {
+                "email": "Corporate.UDI@medtronic.com",
+                "phone": "+1(800)633-8766"
+              }
+            ],
+            "device_count_in_base_package": "1",
+            "device_description": "FA-77350-10 PIPELINE EMB DEVICE",
+            "gmdn_terms": [
+              {
+                "code": "46352",
+                "code_status": "Active",
+                "definition": "A non-bioabsorbable tubular device typically intended to be implanted into the base or parent artery of an intracranial aneurysm (e.g., wide-neck aneurysm situated at the base of a bifurcation) to facilitate the delivery of embolics to fill the aneurysm, facilitate clotting within the aneurysm by slowing blood flow into it, and/or to provide support for a neurovascular embolization coil placed inside the aneurysm. It is made of uncoated metal [e.g., nickel-titanium alloy (Nitinol)] and self-expands after it is delivered to the site of implantation and released (e.g., from a dedicated delivery instrument). Disposable devices associated with implantation may be included.",
+                "implantable": "true",
+                "name": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "has_donation_id_number": "false",
+            "has_expiration_date": "false",
+            "has_lot_or_batch_number": "true",
+            "has_manufacturing_date": "false",
+            "has_serial_number": "false",
+            "identifiers": [
+              {
+                "id": "00847536011304",
+                "issuing_agency": "GS1",
+                "type": "Primary"
+              }
+            ],
+            "is_combination_product": "false",
+            "is_direct_marking_exempt": "false",
+            "is_hct_p": "false",
+            "is_kit": "false",
+            "is_labeled_as_no_nrl": "false",
+            "is_labeled_as_nrl": "false",
+            "is_otc": "false",
+            "is_pm_exempt": "false",
+            "is_rx": "true",
+            "is_single_use": "true",
+            "labeler_duns_number": "826110710",
+            "mri_safety": "MR Conditional",
+            "premarket_submissions": [
+              {
+                "submission_number": "P100018",
+                "supplement_number": "004"
+              }
+            ],
+            "product_codes": [
+              {
+                "code": "OUT",
+                "name": "Intracranial aneurysm flow diverter",
+                "openfda": {
+                  "device_class": "3",
+                  "device_name": "Intracranial Aneurysm Flow Diverter",
+                  "medical_specialty_description": "Unknown",
+                  "regulation_number": ""
+                }
+              }
+            ],
+            "public_device_record_key": "1da69c90-1d47-4084-9e3b-a1d971096c5c",
+            "public_version_date": "2021-02-05",
+            "public_version_number": "4",
+            "public_version_status": "Update",
+            "publish_date": "2015-04-17",
+            "record_status": "Published",
+            "sterilization": {
+              "is_sterile": "true",
+              "is_sterilization_prior_use": "false"
+            },
+            "version_or_model_number": "FA-77350-10"
+          },
+          "retrieved_at": "2026-04-15T10:11:11+00:00",
+          "source_id": "fda:udi:record-2",
+          "source_type": "fda",
+          "source_url": "https://api.fda.gov/device/udi.json?search=brand_name%3A%22Pipeline%20Flex%20Embolization%20Device%22%20OR%20brand_name%3A%22Pipeline%22%20OR%20brand_name%3A%22Pipeline%20Flex%22",
+          "title": "PIPELINE"
+        },
+        {
+          "device_family": "flow-diverter--medtronic--pipeline-flex-shield",
+          "query_used": "Pipeline Flex Embolization Device",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "00836462015937",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Pipeline",
+            "companyName": "Micro Therapeutics, Inc.",
+            "deviceIdentifier": "0ee934de-0bcc-49fd-95fd-487cc5c87e85",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "PED-500-35"
+          },
+          "retrieved_at": "2026-04-15T10:11:37+00:00",
+          "source_id": "accessgudid:00836462015937",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/0ee934de-0bcc-49fd-95fd-487cc5c87e85",
+          "title": "Pipeline (Micro Therapeutics, Inc.)"
+        },
+        {
+          "device_family": "flow-diverter--medtronic--pipeline-flex-shield",
+          "query_used": "Pipeline Flex Embolization Device",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "00836462015920",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Pipeline",
+            "companyName": "Micro Therapeutics, Inc.",
+            "deviceIdentifier": "5448e884-659e-4a87-a01e-9e261123d4f1",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "PED-500-30"
+          },
+          "retrieved_at": "2026-04-15T10:11:37+00:00",
+          "source_id": "accessgudid:00836462015920",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/5448e884-659e-4a87-a01e-9e261123d4f1",
+          "title": "Pipeline (Micro Therapeutics, Inc.)"
+        },
+        {
+          "device_family": "flow-diverter--medtronic--pipeline-flex-shield",
+          "query_used": "Pipeline Flex Embolization Device",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "00836462015913",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Pipeline",
+            "companyName": "Micro Therapeutics, Inc.",
+            "deviceIdentifier": "7650f321-f11c-4cf3-bf3d-b9adda89f344",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "PED-500-25"
+          },
+          "retrieved_at": "2026-04-15T10:11:37+00:00",
+          "source_id": "accessgudid:00836462015913",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/7650f321-f11c-4cf3-bf3d-b9adda89f344",
+          "title": "Pipeline (Micro Therapeutics, Inc.)"
+        },
+        {
+          "device_family": "flow-diverter--medtronic--pipeline-flex-shield",
+          "query_used": "Pipeline Flex Embolization Device",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "00836462015906",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Pipeline",
+            "companyName": "Micro Therapeutics, Inc.",
+            "deviceIdentifier": "6ec61208-1c5f-4147-aca8-7e48bf84e2e7",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "PED-475-35"
+          },
+          "retrieved_at": "2026-04-15T10:11:37+00:00",
+          "source_id": "accessgudid:00836462015906",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/6ec61208-1c5f-4147-aca8-7e48bf84e2e7",
+          "title": "Pipeline (Micro Therapeutics, Inc.)"
+        },
+        {
+          "device_family": "flow-diverter--medtronic--pipeline-flex-shield",
+          "query_used": "Pipeline Flex Embolization Device",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "00836462015890",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Pipeline",
+            "companyName": "Micro Therapeutics, Inc.",
+            "deviceIdentifier": "c16f77a7-dea9-4cbd-bc39-98aa4638c601",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "PED-475-30"
+          },
+          "retrieved_at": "2026-04-15T10:11:37+00:00",
+          "source_id": "accessgudid:00836462015890",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/c16f77a7-dea9-4cbd-bc39-98aa4638c601",
+          "title": "Pipeline (Micro Therapeutics, Inc.)"
+        },
+        {
+          "device_family": "flow-diverter--medtronic--pipeline-flex-shield",
+          "query_used": "Pipeline Flex Embolization Device",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "00836462015883",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Pipeline",
+            "companyName": "Micro Therapeutics, Inc.",
+            "deviceIdentifier": "25fb90a0-a979-45ab-978a-42d71eb508f9",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "PED-475-25"
+          },
+          "retrieved_at": "2026-04-15T10:11:37+00:00",
+          "source_id": "accessgudid:00836462015883",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/25fb90a0-a979-45ab-978a-42d71eb508f9",
+          "title": "Pipeline (Micro Therapeutics, Inc.)"
+        },
+        {
+          "device_family": "flow-diverter--medtronic--pipeline-flex-shield",
+          "query_used": "Pipeline Flex Embolization Device",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "00836462015876",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Pipeline",
+            "companyName": "Micro Therapeutics, Inc.",
+            "deviceIdentifier": "a4d02ab2-96e0-412d-ab35-4c9a78eba87e",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "PED-450-35"
+          },
+          "retrieved_at": "2026-04-15T10:11:37+00:00",
+          "source_id": "accessgudid:00836462015876",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/a4d02ab2-96e0-412d-ab35-4c9a78eba87e",
+          "title": "Pipeline (Micro Therapeutics, Inc.)"
+        },
+        {
+          "device_family": "flow-diverter--medtronic--pipeline-flex-shield",
+          "query_used": "Pipeline Flex Embolization Device",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "00836462015869",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Pipeline",
+            "companyName": "Micro Therapeutics, Inc.",
+            "deviceIdentifier": "d681c937-4352-45fb-9e92-816ab43187fd",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "PED-450-30"
+          },
+          "retrieved_at": "2026-04-15T10:11:37+00:00",
+          "source_id": "accessgudid:00836462015869",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/d681c937-4352-45fb-9e92-816ab43187fd",
+          "title": "Pipeline (Micro Therapeutics, Inc.)"
+        },
+        {
+          "device_family": "flow-diverter--medtronic--pipeline-flex-shield",
+          "query_used": "Pipeline Flex Embolization Device",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "00836462015852",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Pipeline",
+            "companyName": "Micro Therapeutics, Inc.",
+            "deviceIdentifier": "2f541d66-6f79-49b0-b572-525ee474f681",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "PED-450-25"
+          },
+          "retrieved_at": "2026-04-15T10:11:37+00:00",
+          "source_id": "accessgudid:00836462015852",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/2f541d66-6f79-49b0-b572-525ee474f681",
+          "title": "Pipeline (Micro Therapeutics, Inc.)"
+        },
+        {
+          "device_family": "flow-diverter--medtronic--pipeline-flex-shield",
+          "query_used": "Pipeline Flex Embolization Device",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "00836462015845",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Pipeline",
+            "companyName": "Micro Therapeutics, Inc.",
+            "deviceIdentifier": "9e09ebaa-76f8-49e8-a720-711de1cb9fce",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "PED-425-35"
+          },
+          "retrieved_at": "2026-04-15T10:11:37+00:00",
+          "source_id": "accessgudid:00836462015845",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/9e09ebaa-76f8-49e8-a720-711de1cb9fce",
+          "title": "Pipeline (Micro Therapeutics, Inc.)"
+        }
+      ]
+    },
+    "flow-diverter--microvention--fred": {
+      "source_count": 14,
+      "sources": [
+        {
+          "device_family": "flow-diverter--microvention--fred",
+          "query_used": "\"FRED Flow Diverter (MicroVention/Terumo)\" OR \"FRED\" OR \"FRED Flow Diverter\" OR \"Flow Re-Direction Endoluminal Device\" OR \"FRED-21 (2.5-3.0 mm sizes\"",
+          "raw": {
+            "abstract": "Flow-diverter devices (FDDs) are new-generation stents placed in the parent artery at the level of the aneurysm neck to disrupt the intra-aneurysmal flow thus favoring intra-aneurysmal thrombosis.\nThe objective of this review article is to define the indication and results of the treatment of intracranial aneurysms by FDD, reviewing 18 studies of endovascular treatment by FDDs for a total of 1704 aneurysms in 1483 patients.\nThe medical literature on FDDs for intracranial aneurysms was reviewed from 2009 to December 2014. The keywords used were: \"intracranial aneurysms,\" \"brain aneurysms,\" \"flow diverter,\" \"pipeline embolization device,\" \"silk flow diverter,\" \"surpass flow diverter\" and \"FRED flow diverter.\"\nThe use of these stents is advisable mainly for unruptured aneurysms, particularly those located at the internal carotid artery or vertebral and basilar arteries, for fusiform and dissecting aneurysms and for saccular aneurysms with large necks and low dome-to-neck ratio. The rate of aneurysm occlusion progressively increases during follow-up (81.5% overall rate in this review). The non-negligible rate of ischemic (mean 4.1%) and hemorrhagic (mean 2.9%) complications, the neurological morbidity (mean 3.5%) and the reported mortality (mean 3.4%) are the main limits of this technique.\nTreatment with FDDs is a feasible and effective technique for unruptured aneurysms with complex anatomy (fusiform, dissecting, large neck, bifurcation with side branches) where coiling and clipping are difficult or impossible. Patient selection is very important to avoid complications and reduce the risk of morbidity and mortality. Further studies with longer follow-up are necessary to define the rate of complete occlusion.",
+            "doi": "10.1177/1971400915602803",
+            "journal": "The neuroradiology journal",
+            "matched_device_family": "flow-diverter--microvention--fred",
+            "pmid": "26314872",
+            "publication_date": "2015-Aug",
+            "query_used": "\"FRED Flow Diverter (MicroVention/Terumo)\" OR \"FRED\" OR \"FRED Flow Diverter\" OR \"Flow Re-Direction Endoluminal Device\" OR \"FRED-21 (2.5-3.0 mm sizes\"",
+            "source_retrieved_at": "2026-04-15T10:11:00+00:00",
+            "title": "Endovascular treatment of cerebral aneurysms using flow-diverter devices: A systematic review."
+          },
+          "retrieved_at": "2026-04-15T10:11:00+00:00",
+          "source_id": "pubmed:26314872",
+          "source_type": "pubmed",
+          "source_url": "https://pubmed.ncbi.nlm.nih.gov/26314872/",
+          "title": "Endovascular treatment of cerebral aneurysms using flow-diverter devices: A systematic review."
+        },
+        {
+          "device_family": "flow-diverter--microvention--fred",
+          "query_used": "\"FRED Flow Diverter (MicroVention/Terumo)\" OR \"FRED\" OR \"FRED Flow Diverter\" OR \"Flow Re-Direction Endoluminal Device\" OR \"FRED-21 (2.5-3.0 mm sizes\"",
+          "raw": {
+            "abstract": "The Pipeline Embolization Device (PED; Medtronic Neurovascular, Irvine, California, USA) is designed for delivery through a 0.027″ microcatheter. Challenges with the second-generation PED Flex include limited support from the Marksman microcatheter for consistent resheathing and transmission of push forces for device delivery. The VIA27 (Sequent Medical/MicroVention Terumo, Tustin, California, USA) is an alternative 0.027″ microcatheter originally designed for intrasaccular flow diverter delivery. Here we describe our experience with the VIA27 in the delivery of PED Flex.\nWe retrospectively identified patients who underwent PED Flex treatment with the VIA27 microcatheter at our institution. Patient demographics, aneurysm characteristics, equipment utilized, and procedural details were documented.\nA total of 127 cases were completed using the VIA27 microcatheter for PED Flex implantation. Mean patient age was 56.8±12.4 years (range 21-86 years). All but one of the cases were treatments for intracranial aneurysms. Average aneurysm size was 6.5±6 mm (range 2-38 mm). Of the 127 cases, 120 (95%) were anterior circulation cases and 7 (6%) were posterior circulation cases. Significant cervical internal carotid artery (ICA) tortuosity was present in 33/120 cases (28%). Moderate to severe cavernous ICA tortuosity was present in 54/120 cases (45%). Mean fluoroscopy time was 34.1±22.7 min. Large diameter PED devices (4.5-5 mm) were used in 42/127 cases (33%). Balloon post-processing of the PED was used in 15/127 cases (12%) to improve vessel wall apposition of the PED.\nThe VIA27 is a microcatheter capable of successful PED Flex delivery in neurointervention. We have shown its utility in enhancing both resheathing and push for optimal PED Flex implantation. The VIA27 microcatheter may be a useful and safe adjunct to the traditional Marksman microcatheter in PED Flex treatment of the cerebrovasculature.",
+            "doi": "10.1136/neurintsurg-2016-012971",
+            "journal": "Journal of neurointerventional surgery",
+            "matched_device_family": "flow-diverter--microvention--fred",
+            "pmid": "28151413",
+            "publication_date": "2017-Jul",
+            "query_used": "\"FRED Flow Diverter (MicroVention/Terumo)\" OR \"FRED\" OR \"FRED Flow Diverter\" OR \"Flow Re-Direction Endoluminal Device\" OR \"FRED-21 (2.5-3.0 mm sizes\"",
+            "source_retrieved_at": "2026-04-15T10:11:00+00:00",
+            "title": "Use of the 0.027-inch VIA microcatheter for delivery of Pipeline Flex: a technical note."
+          },
+          "retrieved_at": "2026-04-15T10:11:00+00:00",
+          "source_id": "pubmed:28151413",
+          "source_type": "pubmed",
+          "source_url": "https://pubmed.ncbi.nlm.nih.gov/28151413/",
+          "title": "Use of the 0.027-inch VIA microcatheter for delivery of Pipeline Flex: a technical note."
+        },
+        {
+          "device_family": "flow-diverter--microvention--fred",
+          "query_used": "brand_name:\"FRED Flow Diverter (MicroVention/Terumo)\" OR brand_name:\"FRED\" OR brand_name:\"FRED Flow Diverter\"",
+          "raw": {
+            "brand_name": "Fred",
+            "commercial_distribution_status": "In Commercial Distribution",
+            "company_name": "Covidien LP",
+            "customer_contacts": [
+              {
+                "email": "covidien.udi@covidien.com",
+                "phone": "+1(508)261-8000"
+              }
+            ],
+            "device_count_in_base_package": "1",
+            "device_description": "Anti-Fog Kit",
+            "gmdn_terms": [
+              {
+                "code": "45225",
+                "code_status": "Active",
+                "definition": "A liquid substance intended to be used to prevent the occurrence of condensed vapour (fog) on the lens of an endoscopic instrument during treatment. It will typically be used on the lens of an endoscopic camera where the warmth from an enclosed body cavity creates the conditions to produce fog on the lens. This device will typically be contained in a spray can, bottle, or squeeze bottle. After application, this device cannot be reused.",
+                "implantable": "false",
+                "name": "Endoscope antifog solution"
+              }
+            ],
+            "has_donation_id_number": "false",
+            "has_expiration_date": "true",
+            "has_lot_or_batch_number": "true",
+            "has_manufacturing_date": "false",
+            "has_serial_number": "false",
+            "identifiers": [
+              {
+                "id": "20884521066493",
+                "issuing_agency": "GS1",
+                "package_status": "In Commercial Distribution",
+                "package_type": "CASE",
+                "quantity_per_package": "20",
+                "type": "Package",
+                "unit_of_use_id": "10884521066496"
+              },
+              {
+                "id": "10884521066496",
+                "issuing_agency": "GS1",
+                "type": "Primary"
+              }
+            ],
+            "is_combination_product": "false",
+            "is_direct_marking_exempt": "false",
+            "is_hct_p": "false",
+            "is_kit": "false",
+            "is_labeled_as_no_nrl": "false",
+            "is_labeled_as_nrl": "false",
+            "is_otc": "false",
+            "is_pm_exempt": "false",
+            "is_rx": "true",
+            "is_single_use": "true",
+            "labeler_duns_number": "058614483",
+            "mri_safety": "Labeling does not contain MRI Safety Information",
+            "premarket_submissions": [
+              {
+                "submission_number": "K923843",
+                "supplement_number": "000"
+              }
+            ],
+            "product_codes": [
+              {
+                "code": "HET",
+                "name": "LAPAROSCOPE, GYNECOLOGIC (AND ACCESSORIES)",
+                "openfda": {
+                  "device_class": "2",
+                  "device_name": "Laparoscope, Gynecologic (And Accessories)",
+                  "medical_specialty_description": "Obstetrics/Gynecology",
+                  "regulation_number": "884.1720"
+                }
+              }
+            ],
+            "public_device_record_key": "992952cd-48f6-4298-a675-4968691590f6",
+            "public_version_date": "2025-06-24",
+            "public_version_number": "7",
+            "public_version_status": "Update",
+            "publish_date": "2016-09-24",
+            "record_status": "Published",
+            "sterilization": {
+              "is_sterile": "true",
+              "is_sterilization_prior_use": "false"
+            },
+            "storage": [
+              {
+                "high": {
+                  "unit": "Degrees Fahrenheit",
+                  "value": "130"
+                },
+                "low": {
+                  "unit": "Degrees Fahrenheit"
+                },
+                "type": "Handling Environment Temperature"
+              }
+            ],
+            "version_or_model_number": "220-01"
+          },
+          "retrieved_at": "2026-04-15T10:11:13+00:00",
+          "source_id": "fda:udi:record-1",
+          "source_type": "fda",
+          "source_url": "https://api.fda.gov/device/udi.json?search=brand_name%3A%22FRED%20Flow%20Diverter%20%28MicroVention/Terumo%29%22%20OR%20brand_name%3A%22FRED%22%20OR%20brand_name%3A%22FRED%20Flow%20Diverter%22",
+          "title": "Fred"
+        },
+        {
+          "device_family": "flow-diverter--microvention--fred",
+          "query_used": "brand_name:\"FRED Flow Diverter (MicroVention/Terumo)\" OR brand_name:\"FRED\" OR brand_name:\"FRED Flow Diverter\"",
+          "raw": {
+            "brand_name": "Fred 2",
+            "commercial_distribution_status": "In Commercial Distribution",
+            "company_name": "Covidien LP",
+            "customer_contacts": [
+              {
+                "email": "covidien.udi@covidien.com",
+                "phone": "+1(508)261-8000"
+              }
+            ],
+            "device_count_in_base_package": "1",
+            "device_description": "Anti-Fog Kit",
+            "gmdn_terms": [
+              {
+                "code": "45225",
+                "code_status": "Active",
+                "definition": "A liquid substance intended to be used to prevent the occurrence of condensed vapour (fog) on the lens of an endoscopic instrument during treatment. It will typically be used on the lens of an endoscopic camera where the warmth from an enclosed body cavity creates the conditions to produce fog on the lens. This device will typically be contained in a spray can, bottle, or squeeze bottle. After application, this device cannot be reused.",
+                "implantable": "false",
+                "name": "Endoscope antifog solution"
+              }
+            ],
+            "has_donation_id_number": "false",
+            "has_expiration_date": "true",
+            "has_lot_or_batch_number": "true",
+            "has_manufacturing_date": "false",
+            "has_serial_number": "false",
+            "identifiers": [
+              {
+                "id": "10884521066540",
+                "issuing_agency": "GS1",
+                "package_status": "In Commercial Distribution",
+                "package_type": "CASE",
+                "quantity_per_package": "20",
+                "type": "Package",
+                "unit_of_use_id": "20884521066547"
+              },
+              {
+                "id": "20884521066547",
+                "issuing_agency": "GS1",
+                "type": "Primary"
+              }
+            ],
+            "is_combination_product": "false",
+            "is_direct_marking_exempt": "false",
+            "is_hct_p": "false",
+            "is_kit": "false",
+            "is_labeled_as_no_nrl": "false",
+            "is_labeled_as_nrl": "false",
+            "is_otc": "false",
+            "is_pm_exempt": "false",
+            "is_rx": "true",
+            "is_single_use": "true",
+            "labeler_duns_number": "058614483",
+            "mri_safety": "Labeling does not contain MRI Safety Information",
+            "premarket_submissions": [
+              {
+                "submission_number": "K923843",
+                "supplement_number": "000"
+              }
+            ],
+            "product_codes": [
+              {
+                "code": "HET",
+                "name": "LAPAROSCOPE, GYNECOLOGIC (AND ACCESSORIES)",
+                "openfda": {
+                  "device_class": "2",
+                  "device_name": "Laparoscope, Gynecologic (And Accessories)",
+                  "medical_specialty_description": "Obstetrics/Gynecology",
+                  "regulation_number": "884.1720"
+                }
+              }
+            ],
+            "public_device_record_key": "70239f4c-cc64-4e38-888f-ced088d464d7",
+            "public_version_date": "2025-08-21",
+            "public_version_number": "9",
+            "public_version_status": "Update",
+            "publish_date": "2016-09-24",
+            "record_status": "Published",
+            "sterilization": {
+              "is_sterile": "true",
+              "is_sterilization_prior_use": "false"
+            },
+            "storage": [
+              {
+                "high": {
+                  "unit": "Degrees Fahrenheit",
+                  "value": "130"
+                },
+                "low": {
+                  "unit": "Degrees Fahrenheit"
+                },
+                "type": "Handling Environment Temperature"
+              }
+            ],
+            "version_or_model_number": "220-50"
+          },
+          "retrieved_at": "2026-04-15T10:11:13+00:00",
+          "source_id": "fda:udi:record-2",
+          "source_type": "fda",
+          "source_url": "https://api.fda.gov/device/udi.json?search=brand_name%3A%22FRED%20Flow%20Diverter%20%28MicroVention/Terumo%29%22%20OR%20brand_name%3A%22FRED%22%20OR%20brand_name%3A%22FRED%20Flow%20Diverter%22",
+          "title": "Fred 2"
+        },
+        {
+          "device_family": "flow-diverter--microvention--fred",
+          "query_used": "FRED Flow Diverter (MicroVention/Terumo)",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "07613252648864",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Surpass Streamline",
+            "companyName": "Stryker Corporation",
+            "deviceIdentifier": "c8b4de3c-3b61-486b-9071-3e4fc266bd4c",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "M003SFD050400"
+          },
+          "retrieved_at": "2026-04-15T10:11:38+00:00",
+          "source_id": "accessgudid:07613252648864",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/c8b4de3c-3b61-486b-9071-3e4fc266bd4c",
+          "title": "Surpass Streamline (Stryker Corporation)"
+        },
+        {
+          "device_family": "flow-diverter--microvention--fred",
+          "query_used": "FRED Flow Diverter (MicroVention/Terumo)",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "07613252648857",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Surpass Streamline",
+            "companyName": "Stryker Corporation",
+            "deviceIdentifier": "88846fb2-2a46-48a3-babd-7ea7179a121a",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "M003SFD050250"
+          },
+          "retrieved_at": "2026-04-15T10:11:38+00:00",
+          "source_id": "accessgudid:07613252648857",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/88846fb2-2a46-48a3-babd-7ea7179a121a",
+          "title": "Surpass Streamline (Stryker Corporation)"
+        },
+        {
+          "device_family": "flow-diverter--microvention--fred",
+          "query_used": "FRED Flow Diverter (MicroVention/Terumo)",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "07613252648840",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Surpass Streamline",
+            "companyName": "Stryker Corporation",
+            "deviceIdentifier": "e0b2eed3-8181-44c2-aea7-6e478e8e09fe",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "M003SFD050500"
+          },
+          "retrieved_at": "2026-04-15T10:11:38+00:00",
+          "source_id": "accessgudid:07613252648840",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/e0b2eed3-8181-44c2-aea7-6e478e8e09fe",
+          "title": "Surpass Streamline (Stryker Corporation)"
+        },
+        {
+          "device_family": "flow-diverter--microvention--fred",
+          "query_used": "FRED Flow Diverter (MicroVention/Terumo)",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "07613252648833",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Surpass Streamline",
+            "companyName": "Stryker Corporation",
+            "deviceIdentifier": "77daf87e-ff54-4954-b0da-19962da1854c",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "M003SFD050300"
+          },
+          "retrieved_at": "2026-04-15T10:11:38+00:00",
+          "source_id": "accessgudid:07613252648833",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/77daf87e-ff54-4954-b0da-19962da1854c",
+          "title": "Surpass Streamline (Stryker Corporation)"
+        },
+        {
+          "device_family": "flow-diverter--microvention--fred",
+          "query_used": "FRED Flow Diverter (MicroVention/Terumo)",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "07613252648826",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Surpass Streamline",
+            "companyName": "Stryker Corporation",
+            "deviceIdentifier": "50114930-2411-4066-a5e9-300abff4afab",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "M003SFD040500"
+          },
+          "retrieved_at": "2026-04-15T10:11:38+00:00",
+          "source_id": "accessgudid:07613252648826",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/50114930-2411-4066-a5e9-300abff4afab",
+          "title": "Surpass Streamline (Stryker Corporation)"
+        },
+        {
+          "device_family": "flow-diverter--microvention--fred",
+          "query_used": "FRED Flow Diverter (MicroVention/Terumo)",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "07613252648819",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Surpass Streamline",
+            "companyName": "Stryker Corporation",
+            "deviceIdentifier": "858e6f63-b2c9-4a7d-948a-141fbbb3a194",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "M003SFD050200"
+          },
+          "retrieved_at": "2026-04-15T10:11:38+00:00",
+          "source_id": "accessgudid:07613252648819",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/858e6f63-b2c9-4a7d-948a-141fbbb3a194",
+          "title": "Surpass Streamline (Stryker Corporation)"
+        },
+        {
+          "device_family": "flow-diverter--microvention--fred",
+          "query_used": "FRED Flow Diverter (MicroVention/Terumo)",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "07613252648802",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Surpass Streamline",
+            "companyName": "Stryker Corporation",
+            "deviceIdentifier": "07d7a783-0b40-482f-ac02-89c0de8f640c",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "M003SFD040400"
+          },
+          "retrieved_at": "2026-04-15T10:11:38+00:00",
+          "source_id": "accessgudid:07613252648802",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/07d7a783-0b40-482f-ac02-89c0de8f640c",
+          "title": "Surpass Streamline (Stryker Corporation)"
+        },
+        {
+          "device_family": "flow-diverter--microvention--fred",
+          "query_used": "FRED Flow Diverter (MicroVention/Terumo)",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "07613252648796",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Surpass Streamline",
+            "companyName": "Stryker Corporation",
+            "deviceIdentifier": "bf27679b-38e1-4def-b282-e43181fd9ee7",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "M003SFD040300"
+          },
+          "retrieved_at": "2026-04-15T10:11:38+00:00",
+          "source_id": "accessgudid:07613252648796",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/bf27679b-38e1-4def-b282-e43181fd9ee7",
+          "title": "Surpass Streamline (Stryker Corporation)"
+        },
+        {
+          "device_family": "flow-diverter--microvention--fred",
+          "query_used": "FRED Flow Diverter (MicroVention/Terumo)",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "07613252648772",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Surpass Streamline",
+            "companyName": "Stryker Corporation",
+            "deviceIdentifier": "539c78a7-c9e4-4c2b-a3e1-f8c016016391",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "M003SFD030200"
+          },
+          "retrieved_at": "2026-04-15T10:11:38+00:00",
+          "source_id": "accessgudid:07613252648772",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/539c78a7-c9e4-4c2b-a3e1-f8c016016391",
+          "title": "Surpass Streamline (Stryker Corporation)"
+        },
+        {
+          "device_family": "flow-diverter--microvention--fred",
+          "query_used": "FRED Flow Diverter (MicroVention/Terumo)",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "07613252648741",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Surpass Streamline",
+            "companyName": "Stryker Corporation",
+            "deviceIdentifier": "060fea0b-f19e-45a2-b151-a9314cdbb9df",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "M003SFD040150"
+          },
+          "retrieved_at": "2026-04-15T10:11:38+00:00",
+          "source_id": "accessgudid:07613252648741",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/060fea0b-f19e-45a2-b151-a9314cdbb9df",
+          "title": "Surpass Streamline (Stryker Corporation)"
+        }
+      ]
+    },
+    "flow-diverter--stryker--surpass-streamline": {
+      "source_count": 14,
+      "sources": [
+        {
+          "device_family": "flow-diverter--stryker--surpass-streamline",
+          "query_used": "\"Surpass Streamline Flow Diverter -- Stryker Neurovascular\" OR \"Surpass Streamline\" OR \"Surpass Flow Diverter\" OR \"Intracranial Aneurysm Flow Diverter\"",
+          "raw": {
+            "abstract": "Recurrent intracranial aneurysm carries a risk of rupture and retreatment is often necessary. However, there is no consensus on the best retreatment modality of choice. Flow diverter has emerged as a promising option for this population in recent years. Given its high cost, patient selection to optimize outcomes is very important.\nTo identify patient factors predisposing to failure of flow diverter retreatment.\nWe conducted a systematic search on PubMed, Cochrane Library, Embase, Ovid/Medline, and ClinicalTrial.gov from 2000 to 2021. Studies regarding flow diverter retreatment of recurrent aneurysms were analyzed if they meet the inclusion criteria.\nA total of twenty-six studies were identified. Among 374 patients retreated with flow diverters, about 0.86 [0.81; 0.92] were successfully occluded and only 0.06 [0.02; 0.10] had unfavorable neurological outcomes. Major complications included intracranial hemorrhage (n = 7), ischemic stroke or thromboembolic event (n = 12), and death (n = 2). In-stent stenosis was reported in 10 of the cases. Saccular aneurysms are associated with a higher occlusion rate while aneurysm location, size, status, and prior treatment modality have no significant impact on retreatment efficacy.\nWe demonstrated that flow diverter is an effective retreatment strategy except in patients with non-saccular aneurysms. It should be considered as a first-line option for patients with recurrent intracranial aneurysm.",
+            "doi": "10.1177/15910199221095972",
+            "journal": "Interventional neuroradiology : journal of peritherapeutic neuroradiology, surgical procedures and related neurosciences",
+            "matched_device_family": "flow-diverter--stryker--surpass-streamline",
+            "pmid": "35505615",
+            "publication_date": "2024-Feb",
+            "query_used": "\"Surpass Streamline Flow Diverter -- Stryker Neurovascular\" OR \"Surpass Streamline\" OR \"Surpass Flow Diverter\" OR \"Intracranial Aneurysm Flow Diverter\"",
+            "source_retrieved_at": "2026-04-15T10:11:01+00:00",
+            "title": "Flow diverter retreatment for intracranial aneurysms: A meta-analysis of efficacy and feasibility."
+          },
+          "retrieved_at": "2026-04-15T10:11:01+00:00",
+          "source_id": "pubmed:35505615",
+          "source_type": "pubmed",
+          "source_url": "https://pubmed.ncbi.nlm.nih.gov/35505615/",
+          "title": "Flow diverter retreatment for intracranial aneurysms: A meta-analysis of efficacy and feasibility."
+        },
+        {
+          "device_family": "flow-diverter--stryker--surpass-streamline",
+          "query_used": "\"Surpass Streamline Flow Diverter -- Stryker Neurovascular\" OR \"Surpass Streamline\" OR \"Surpass Flow Diverter\" OR \"Intracranial Aneurysm Flow Diverter\"",
+          "raw": {
+            "abstract": "The clinical use of flow diverters for the treatment of intracranial aneurysms has rapidly grown. Consequently, the market and technology for these devices has also grown. Clinical performance characteristics of the flow diverter are well-known to the clinician. However, the engineering design principles behind how these devices achieve ideal clinical performance are less understood. This primer will summarize flow diverter design parameters for neurointerventionalists with the aim of promoting collaboration between clinicians and engineers.",
+            "doi": "10.3174/ajnr.A8076",
+            "journal": "AJNR. American journal of neuroradiology",
+            "matched_device_family": "flow-diverter--stryker--surpass-streamline",
+            "pmid": "38164542",
+            "publication_date": "2024-Apr-08",
+            "query_used": "\"Surpass Streamline Flow Diverter -- Stryker Neurovascular\" OR \"Surpass Streamline\" OR \"Surpass Flow Diverter\" OR \"Intracranial Aneurysm Flow Diverter\"",
+            "source_retrieved_at": "2026-04-15T10:11:01+00:00",
+            "title": "Intraluminal Flow Diverter Design Primer for Neurointerventionalists."
+          },
+          "retrieved_at": "2026-04-15T10:11:01+00:00",
+          "source_id": "pubmed:38164542",
+          "source_type": "pubmed",
+          "source_url": "https://pubmed.ncbi.nlm.nih.gov/38164542/",
+          "title": "Intraluminal Flow Diverter Design Primer for Neurointerventionalists."
+        },
+        {
+          "device_family": "flow-diverter--stryker--surpass-streamline",
+          "query_used": "brand_name:\"Surpass Streamline Flow Diverter -- Stryker Neurovascular\" OR brand_name:\"Surpass Streamline\" OR brand_name:\"Surpass Flow Diverter\"",
+          "raw": {
+            "brand_name": "Surpass Streamline",
+            "catalog_number": "115US",
+            "commercial_distribution_status": "In Commercial Distribution",
+            "company_name": "Stryker Corporation",
+            "customer_contacts": [
+              {
+                "email": "NVCustomerService@stryker.com",
+                "phone": "+1(855)916-3876"
+              }
+            ],
+            "device_count_in_base_package": "1",
+            "device_description": "Flow Diverter",
+            "device_sizes": [
+              {
+                "type": "Lumen/Inner Diameter",
+                "unit": "Millimeter",
+                "value": "4.0"
+              },
+              {
+                "type": "Length",
+                "unit": "Millimeter",
+                "value": "15.0"
+              }
+            ],
+            "gmdn_terms": [
+              {
+                "code": "46352",
+                "code_status": "Active",
+                "definition": "A non-bioabsorbable tubular device typically intended to be implanted into the base or parent artery of an intracranial aneurysm (e.g., wide-neck aneurysm situated at the base of a bifurcation) to facilitate the delivery of embolics to fill the aneurysm, facilitate clotting within the aneurysm by slowing blood flow into it, and/or to provide support for a neurovascular embolization coil placed inside the aneurysm. It is made of uncoated metal [e.g., nickel-titanium alloy (Nitinol)] and self-expands after it is delivered to the site of implantation and released (e.g., from a dedicated delivery instrument). Disposable devices associated with implantation may be included.",
+                "implantable": "true",
+                "name": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "has_donation_id_number": "false",
+            "has_expiration_date": "true",
+            "has_lot_or_batch_number": "true",
+            "has_manufacturing_date": "false",
+            "has_serial_number": "false",
+            "identifiers": [
+              {
+                "id": "07613252648741",
+                "issuing_agency": "GS1",
+                "type": "Primary"
+              }
+            ],
+            "is_combination_product": "false",
+            "is_direct_marking_exempt": "false",
+            "is_hct_p": "false",
+            "is_kit": "false",
+            "is_labeled_as_no_nrl": "false",
+            "is_labeled_as_nrl": "false",
+            "is_otc": "false",
+            "is_pm_exempt": "false",
+            "is_rx": "true",
+            "is_single_use": "true",
+            "labeler_duns_number": "042405446",
+            "mri_safety": "MR Conditional",
+            "product_codes": [
+              {
+                "code": "OUT",
+                "name": "Intracranial aneurysm flow diverter",
+                "openfda": {
+                  "device_class": "3",
+                  "device_name": "Intracranial Aneurysm Flow Diverter",
+                  "medical_specialty_description": "Unknown",
+                  "regulation_number": ""
+                }
+              }
+            ],
+            "public_device_record_key": "060fea0b-f19e-45a2-b151-a9314cdbb9df",
+            "public_version_date": "2024-11-11",
+            "public_version_number": "6",
+            "public_version_status": "Update",
+            "publish_date": "2018-11-09",
+            "record_status": "Published",
+            "sterilization": {
+              "is_sterile": "true",
+              "is_sterilization_prior_use": "false"
+            },
+            "storage": [
+              {
+                "special_conditions": "Store in cool, dry, dark place.",
+                "type": "Special Storage Condition, Specify"
+              }
+            ],
+            "version_or_model_number": "M003SFD040150"
+          },
+          "retrieved_at": "2026-04-15T10:11:16+00:00",
+          "source_id": "fda:udi:record-1",
+          "source_type": "fda",
+          "source_url": "https://api.fda.gov/device/udi.json?search=brand_name%3A%22Surpass%20Streamline%20Flow%20Diverter%20--%20Stryker%20Neurovascular%22%20OR%20brand_name%3A%22Surpass%20Streamline%22%20OR%20brand_name%3A%22Surpass%20Flow%20Diverter%22",
+          "title": "Surpass Streamline"
+        },
+        {
+          "device_family": "flow-diverter--stryker--surpass-streamline",
+          "query_used": "brand_name:\"Surpass Streamline Flow Diverter -- Stryker Neurovascular\" OR brand_name:\"Surpass Streamline\" OR brand_name:\"Surpass Flow Diverter\"",
+          "raw": {
+            "brand_name": "Surpass Streamline",
+            "catalog_number": "122US",
+            "commercial_distribution_status": "In Commercial Distribution",
+            "company_name": "Stryker Corporation",
+            "customer_contacts": [
+              {
+                "email": "NVCustomerService@stryker.com",
+                "phone": "+1(855)916-3876"
+              }
+            ],
+            "device_count_in_base_package": "1",
+            "device_description": "Flow Diverter",
+            "device_sizes": [
+              {
+                "type": "Length",
+                "unit": "Millimeter",
+                "value": "40.0"
+              },
+              {
+                "type": "Lumen/Inner Diameter",
+                "unit": "Millimeter",
+                "value": "5.0"
+              }
+            ],
+            "gmdn_terms": [
+              {
+                "code": "46352",
+                "code_status": "Active",
+                "definition": "A non-bioabsorbable tubular device typically intended to be implanted into the base or parent artery of an intracranial aneurysm (e.g., wide-neck aneurysm situated at the base of a bifurcation) to facilitate the delivery of embolics to fill the aneurysm, facilitate clotting within the aneurysm by slowing blood flow into it, and/or to provide support for a neurovascular embolization coil placed inside the aneurysm. It is made of uncoated metal [e.g., nickel-titanium alloy (Nitinol)] and self-expands after it is delivered to the site of implantation and released (e.g., from a dedicated delivery instrument). Disposable devices associated with implantation may be included.",
+                "implantable": "true",
+                "name": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "has_donation_id_number": "false",
+            "has_expiration_date": "true",
+            "has_lot_or_batch_number": "true",
+            "has_manufacturing_date": "false",
+            "has_serial_number": "false",
+            "identifiers": [
+              {
+                "id": "07613252648864",
+                "issuing_agency": "GS1",
+                "type": "Primary"
+              }
+            ],
+            "is_combination_product": "false",
+            "is_direct_marking_exempt": "false",
+            "is_hct_p": "false",
+            "is_kit": "false",
+            "is_labeled_as_no_nrl": "false",
+            "is_labeled_as_nrl": "false",
+            "is_otc": "false",
+            "is_pm_exempt": "false",
+            "is_rx": "true",
+            "is_single_use": "true",
+            "labeler_duns_number": "042405446",
+            "mri_safety": "MR Conditional",
+            "product_codes": [
+              {
+                "code": "OUT",
+                "name": "Intracranial aneurysm flow diverter",
+                "openfda": {
+                  "device_class": "3",
+                  "device_name": "Intracranial Aneurysm Flow Diverter",
+                  "medical_specialty_description": "Unknown",
+                  "regulation_number": ""
+                }
+              }
+            ],
+            "public_device_record_key": "c8b4de3c-3b61-486b-9071-3e4fc266bd4c",
+            "public_version_date": "2024-11-11",
+            "public_version_number": "6",
+            "public_version_status": "Update",
+            "publish_date": "2018-11-09",
+            "record_status": "Published",
+            "sterilization": {
+              "is_sterile": "true",
+              "is_sterilization_prior_use": "false"
+            },
+            "storage": [
+              {
+                "special_conditions": "Store in cool, dry, dark place.",
+                "type": "Special Storage Condition, Specify"
+              }
+            ],
+            "version_or_model_number": "M003SFD050400"
+          },
+          "retrieved_at": "2026-04-15T10:11:16+00:00",
+          "source_id": "fda:udi:record-2",
+          "source_type": "fda",
+          "source_url": "https://api.fda.gov/device/udi.json?search=brand_name%3A%22Surpass%20Streamline%20Flow%20Diverter%20--%20Stryker%20Neurovascular%22%20OR%20brand_name%3A%22Surpass%20Streamline%22%20OR%20brand_name%3A%22Surpass%20Flow%20Diverter%22",
+          "title": "Surpass Streamline"
+        },
+        {
+          "device_family": "flow-diverter--stryker--surpass-streamline",
+          "query_used": "Surpass Streamline Flow Diverter -- Stryker Neurovascular",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "07613252648864",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Surpass Streamline",
+            "companyName": "Stryker Corporation",
+            "deviceIdentifier": "c8b4de3c-3b61-486b-9071-3e4fc266bd4c",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "M003SFD050400"
+          },
+          "retrieved_at": "2026-04-15T10:11:38+00:00",
+          "source_id": "accessgudid:07613252648864",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/c8b4de3c-3b61-486b-9071-3e4fc266bd4c",
+          "title": "Surpass Streamline (Stryker Corporation)"
+        },
+        {
+          "device_family": "flow-diverter--stryker--surpass-streamline",
+          "query_used": "Surpass Streamline Flow Diverter -- Stryker Neurovascular",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "07613252648857",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Surpass Streamline",
+            "companyName": "Stryker Corporation",
+            "deviceIdentifier": "88846fb2-2a46-48a3-babd-7ea7179a121a",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "M003SFD050250"
+          },
+          "retrieved_at": "2026-04-15T10:11:38+00:00",
+          "source_id": "accessgudid:07613252648857",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/88846fb2-2a46-48a3-babd-7ea7179a121a",
+          "title": "Surpass Streamline (Stryker Corporation)"
+        },
+        {
+          "device_family": "flow-diverter--stryker--surpass-streamline",
+          "query_used": "Surpass Streamline Flow Diverter -- Stryker Neurovascular",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "07613252648833",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Surpass Streamline",
+            "companyName": "Stryker Corporation",
+            "deviceIdentifier": "77daf87e-ff54-4954-b0da-19962da1854c",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "M003SFD050300"
+          },
+          "retrieved_at": "2026-04-15T10:11:38+00:00",
+          "source_id": "accessgudid:07613252648833",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/77daf87e-ff54-4954-b0da-19962da1854c",
+          "title": "Surpass Streamline (Stryker Corporation)"
+        },
+        {
+          "device_family": "flow-diverter--stryker--surpass-streamline",
+          "query_used": "Surpass Streamline Flow Diverter -- Stryker Neurovascular",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "07613252648819",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Surpass Streamline",
+            "companyName": "Stryker Corporation",
+            "deviceIdentifier": "858e6f63-b2c9-4a7d-948a-141fbbb3a194",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "M003SFD050200"
+          },
+          "retrieved_at": "2026-04-15T10:11:38+00:00",
+          "source_id": "accessgudid:07613252648819",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/858e6f63-b2c9-4a7d-948a-141fbbb3a194",
+          "title": "Surpass Streamline (Stryker Corporation)"
+        },
+        {
+          "device_family": "flow-diverter--stryker--surpass-streamline",
+          "query_used": "Surpass Streamline Flow Diverter -- Stryker Neurovascular",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "07613252648802",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Surpass Streamline",
+            "companyName": "Stryker Corporation",
+            "deviceIdentifier": "07d7a783-0b40-482f-ac02-89c0de8f640c",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "M003SFD040400"
+          },
+          "retrieved_at": "2026-04-15T10:11:38+00:00",
+          "source_id": "accessgudid:07613252648802",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/07d7a783-0b40-482f-ac02-89c0de8f640c",
+          "title": "Surpass Streamline (Stryker Corporation)"
+        },
+        {
+          "device_family": "flow-diverter--stryker--surpass-streamline",
+          "query_used": "Surpass Streamline Flow Diverter -- Stryker Neurovascular",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "07613252648796",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Surpass Streamline",
+            "companyName": "Stryker Corporation",
+            "deviceIdentifier": "bf27679b-38e1-4def-b282-e43181fd9ee7",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "M003SFD040300"
+          },
+          "retrieved_at": "2026-04-15T10:11:38+00:00",
+          "source_id": "accessgudid:07613252648796",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/bf27679b-38e1-4def-b282-e43181fd9ee7",
+          "title": "Surpass Streamline (Stryker Corporation)"
+        },
+        {
+          "device_family": "flow-diverter--stryker--surpass-streamline",
+          "query_used": "Surpass Streamline Flow Diverter -- Stryker Neurovascular",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "07613252648789",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Surpass Streamline",
+            "companyName": "Stryker Corporation",
+            "deviceIdentifier": "adbf678d-d34b-49a4-826c-69494192621a",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "M003SFD040250"
+          },
+          "retrieved_at": "2026-04-15T10:11:38+00:00",
+          "source_id": "accessgudid:07613252648789",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/adbf678d-d34b-49a4-826c-69494192621a",
+          "title": "Surpass Streamline (Stryker Corporation)"
+        },
+        {
+          "device_family": "flow-diverter--stryker--surpass-streamline",
+          "query_used": "Surpass Streamline Flow Diverter -- Stryker Neurovascular",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "07613252648772",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Surpass Streamline",
+            "companyName": "Stryker Corporation",
+            "deviceIdentifier": "539c78a7-c9e4-4c2b-a3e1-f8c016016391",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "M003SFD030200"
+          },
+          "retrieved_at": "2026-04-15T10:11:38+00:00",
+          "source_id": "accessgudid:07613252648772",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/539c78a7-c9e4-4c2b-a3e1-f8c016016391",
+          "title": "Surpass Streamline (Stryker Corporation)"
+        },
+        {
+          "device_family": "flow-diverter--stryker--surpass-streamline",
+          "query_used": "Surpass Streamline Flow Diverter -- Stryker Neurovascular",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "07613252648758",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Surpass Streamline",
+            "companyName": "Stryker Corporation",
+            "deviceIdentifier": "40aeb771-9254-44a4-9aa1-9c3e62a83593",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "M003SFD030150"
+          },
+          "retrieved_at": "2026-04-15T10:11:38+00:00",
+          "source_id": "accessgudid:07613252648758",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/40aeb771-9254-44a4-9aa1-9c3e62a83593",
+          "title": "Surpass Streamline (Stryker Corporation)"
+        },
+        {
+          "device_family": "flow-diverter--stryker--surpass-streamline",
+          "query_used": "Surpass Streamline Flow Diverter -- Stryker Neurovascular",
+          "raw": {
+            "ID": [
+              {
+                "deviceId": "07613252648734",
+                "type": "Primary"
+              }
+            ],
+            "brandName": "Surpass Streamline",
+            "companyName": "Stryker Corporation",
+            "deviceIdentifier": "3df9213a-1002-47de-b3df-2bda744ea2e4",
+            "gmdnTerms": [
+              {
+                "gmdnCode": "46352",
+                "gmdnCodeStatus": "Active",
+                "implantable": "true",
+                "termName": "Bare-metal intracranial vascular stent"
+              }
+            ],
+            "modelNumber": "M003SFD040200"
+          },
+          "retrieved_at": "2026-04-15T10:11:38+00:00",
+          "source_id": "accessgudid:07613252648734",
+          "source_type": "accessgudid",
+          "source_url": "https://accessgudid.nlm.nih.gov/devices/3df9213a-1002-47de-b3df-2bda744ea2e4",
+          "title": "Surpass Streamline (Stryker Corporation)"
+        }
+      ]
+    }
+  },
+  "source_ids": [
+    "pubmed:34920157",
+    "pubmed:37127036",
+    "pubmed:34920157",
+    "pubmed:37127036",
+    "pubmed:34920157",
+    "pubmed:40463637",
+    "pubmed:26314872",
+    "pubmed:28151413",
+    "pubmed:35505615",
+    "pubmed:38164542",
+    "fda:udi:record-1",
+    "fda:udi:record-2",
+    "fda:udi:record-1",
+    "fda:udi:record-2",
+    "fda:udi:record-1",
+    "fda:udi:record-2",
+    "accessgudid:00836462015937",
+    "accessgudid:00836462015920",
+    "accessgudid:00836462015913",
+    "accessgudid:00836462015906",
+    "accessgudid:00836462015890",
+    "accessgudid:00836462015883",
+    "accessgudid:00836462015876",
+    "accessgudid:00836462015869",
+    "accessgudid:00836462015852",
+    "accessgudid:00836462015845",
+    "accessgudid:00836462015937",
+    "accessgudid:00836462015920",
+    "accessgudid:00836462015913",
+    "accessgudid:00836462015906",
+    "accessgudid:00836462015890",
+    "accessgudid:00836462015883",
+    "accessgudid:00836462015876",
+    "accessgudid:00836462015869",
+    "accessgudid:00836462015852",
+    "accessgudid:00836462015845",
+    "accessgudid:00836462015937",
+    "accessgudid:00836462015920",
+    "accessgudid:00836462015913",
+    "accessgudid:00836462015906",
+    "accessgudid:00836462015890",
+    "accessgudid:00836462015883",
+    "accessgudid:00836462015876",
+    "accessgudid:00836462015869",
+    "accessgudid:00836462015852",
+    "accessgudid:00836462015845",
+    "accessgudid:07613252648864",
+    "accessgudid:07613252648857",
+    "accessgudid:07613252648840",
+    "accessgudid:07613252648833",
+    "accessgudid:07613252648826",
+    "accessgudid:07613252648819",
+    "accessgudid:07613252648802",
+    "accessgudid:07613252648796",
+    "accessgudid:07613252648772",
+    "accessgudid:07613252648741",
+    "accessgudid:07613252648864",
+    "accessgudid:07613252648857",
+    "accessgudid:07613252648833",
+    "accessgudid:07613252648819",
+    "accessgudid:07613252648802",
+    "accessgudid:07613252648796",
+    "accessgudid:07613252648789",
+    "accessgudid:07613252648772",
+    "accessgudid:07613252648758",
+    "accessgudid:07613252648734"
+  ],
+  "status": "draft"
+}

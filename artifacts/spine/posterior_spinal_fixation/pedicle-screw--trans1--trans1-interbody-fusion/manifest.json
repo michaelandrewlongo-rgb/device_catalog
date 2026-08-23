@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--trans1--trans1-interbody-fusion",
+  "artifact_folder": "pedicle-screw--trans1--trans1-interbody-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2781,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--trans1--trans1-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--trans1--trans1-interbody-fusion/enriched/pedicle-screw--trans1--trans1-interbody-fusion.json",
+        "bytes": 1402
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K191791.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--trans1--trans1-interbody-fusion/fda_raw/MAX/K191791.json",
+        "bytes": 558
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--trans1--trans1-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--trans1--trans1-interbody-fusion/merged/pedicle-screw--trans1--trans1-interbody-fusion.json",
+        "bytes": 821
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

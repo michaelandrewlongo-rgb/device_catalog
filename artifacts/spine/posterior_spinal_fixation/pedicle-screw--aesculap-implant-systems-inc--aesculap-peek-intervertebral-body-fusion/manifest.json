@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--aesculap-implant-systems-inc--aesculap-peek-intervertebral-body-fusion",
+  "artifact_folder": "pedicle-screw--aesculap-implant-systems-inc--aesculap-peek-intervertebral-body-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3263,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--aesculap-implant-systems-inc--aesculap-peek-intervertebral-body-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--aesculap-implant-systems-inc--aesculap-peek-intervertebral-body-fusion/enriched/pedicle-screw--aesculap-implant-systems-inc--aesculap-peek-intervertebral-body-fusion.json",
+        "bytes": 1573
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K071983.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--aesculap-implant-systems-inc--aesculap-peek-intervertebral-body-fusion/fda_raw/MAX/K071983.json",
+        "bytes": 698
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--aesculap-implant-systems-inc--aesculap-peek-intervertebral-body-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--aesculap-implant-systems-inc--aesculap-peek-intervertebral-body-fusion/merged/pedicle-screw--aesculap-implant-systems-inc--aesculap-peek-intervertebral-body-fusion.json",
+        "bytes": 992
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

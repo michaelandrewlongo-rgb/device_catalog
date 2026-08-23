@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--surgicraft-ltd--titanium-hartshill",
+  "artifact_folder": "corpectomy--surgicraft-ltd--titanium-hartshill",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2782,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--surgicraft-ltd--titanium-hartshill.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--surgicraft-ltd--titanium-hartshill/enriched/corpectomy--surgicraft-ltd--titanium-hartshill.json",
+        "bytes": 1397
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K991662.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--surgicraft-ltd--titanium-hartshill/fda_raw/KWP/K991662.json",
+        "bytes": 569
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--surgicraft-ltd--titanium-hartshill.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--surgicraft-ltd--titanium-hartshill/merged/corpectomy--surgicraft-ltd--titanium-hartshill.json",
+        "bytes": 816
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

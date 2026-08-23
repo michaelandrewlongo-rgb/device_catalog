@@ -1,0 +1,1118 @@
+{
+  "domain": "cranial_neurosurgery",
+  "registry": "csf_shunt_catheters",
+  "label": "Ventricular/Peritoneal Catheters",
+  "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters",
+  "devices": [
+    {
+      "slug": "csf-shunt--aesculap-inc--ventricular-catheter",
+      "artifact_folder": "csf-shunt--aesculap-inc--ventricular-catheter",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--aesculap-inc--ventricular-catheter",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--aesculap-inc--ventricular-catheter-recalls",
+      "artifact_folder": "csf-shunt--aesculap-inc--ventricular-catheter-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--aesculap-inc--ventricular-catheter-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--aesculap-inc--xabo-ventricular-catheter-xabo-peritoneal",
+      "artifact_folder": "csf-shunt--aesculap-inc--xabo-ventricular-catheter-xabo-peritoneal",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--aesculap-inc--xabo-ventricular-catheter-xabo-peritoneal",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--aesculap-inc--xabo-ventricular-catheter-xabo-peritoneal-recalls",
+      "artifact_folder": "csf-shunt--aesculap-inc--xabo-ventricular-catheter-xabo-peritoneal-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--aesculap-inc--xabo-ventricular-catheter-xabo-peritoneal-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--alcyone-lifesciences-inc--alivio-ventricular-catheter-and-flusher",
+      "artifact_folder": "csf-shunt--alcyone-lifesciences-inc--alivio-ventricular-catheter-and-flusher",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--alcyone-lifesciences-inc--alivio-ventricular-catheter-and-flusher",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--american-heyer-schulte--external-ventricular-drainage-sys",
+      "artifact_folder": "csf-shunt--american-heyer-schulte--external-ventricular-drainage-sys",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--american-heyer-schulte--external-ventricular-drainage-sys",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--american-heyer-schulte--spetzler-lumbar-peritoneal",
+      "artifact_folder": "csf-shunt--american-heyer-schulte--spetzler-lumbar-peritoneal",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--american-heyer-schulte--spetzler-lumbar-peritoneal",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--american-v-mueller--heyer-schulte-spetzler-lumbar-peritoneal",
+      "artifact_folder": "csf-shunt--american-v-mueller--heyer-schulte-spetzler-lumbar-peritoneal",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--american-v-mueller--heyer-schulte-spetzler-lumbar-peritoneal",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--american-v-mueller--heyer-schulte-syringo-peritoneal-shunt",
+      "artifact_folder": "csf-shunt--american-v-mueller--heyer-schulte-syringo-peritoneal-shunt",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--american-v-mueller--heyer-schulte-syringo-peritoneal-shunt",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--arkis-biosciences-inc--sureflo-evd-catheter",
+      "artifact_folder": "csf-shunt--arkis-biosciences-inc--sureflo-evd-catheter",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--arkis-biosciences-inc--sureflo-evd-catheter",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--baxter-healthcare-corp--heyer-schulte-spinal-cyst-catheter",
+      "artifact_folder": "csf-shunt--baxter-healthcare-corp--heyer-schulte-spinal-cyst-catheter",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--baxter-healthcare-corp--heyer-schulte-spinal-cyst-catheter",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--camino-laboratories-inc--camino-csf-drainage-model-040",
+      "artifact_folder": "csf-shunt--camino-laboratories-inc--camino-csf-drainage-model-040",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--camino-laboratories-inc--camino-csf-drainage-model-040",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--camino-laboratories-inc--camino-ventricular-access",
+      "artifact_folder": "csf-shunt--camino-laboratories-inc--camino-ventricular-access",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--camino-laboratories-inc--camino-ventricular-access",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--camino-laboratories-inc--camino-ventricular-drainage",
+      "artifact_folder": "csf-shunt--camino-laboratories-inc--camino-ventricular-drainage",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--camino-laboratories-inc--camino-ventricular-drainage",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--cerenovus--codman-bactiseal-catheters-codman-bactiseal",
+      "artifact_folder": "csf-shunt--cerenovus--codman-bactiseal-catheters-codman-bactiseal",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cerenovus--codman-bactiseal-catheters-codman-bactiseal",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--cerenovus--codman-bactiseal-endoscopic-venticular-catheter",
+      "artifact_folder": "csf-shunt--cerenovus--codman-bactiseal-endoscopic-venticular-catheter",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cerenovus--codman-bactiseal-endoscopic-venticular-catheter",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--cerenovus--codman-bactiseal-evd-catheter-set",
+      "artifact_folder": "csf-shunt--cerenovus--codman-bactiseal-evd-catheter-set",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cerenovus--codman-bactiseal-evd-catheter-set",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--cerenovus--codman-eds3-csf-external-drainage",
+      "artifact_folder": "csf-shunt--cerenovus--codman-eds3-csf-external-drainage",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cerenovus--codman-eds3-csf-external-drainage",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--cerenovus--codman-external-drainage-ii-eds",
+      "artifact_folder": "csf-shunt--cerenovus--codman-external-drainage-ii-eds",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cerenovus--codman-external-drainage-ii-eds",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--cerenovus--codman-hydrocephalus-valves-catheters-accessories",
+      "artifact_folder": "csf-shunt--cerenovus--codman-hydrocephalus-valves-catheters-accessories",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cerenovus--codman-hydrocephalus-valves-catheters-accessories",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--cook-inc--ventricular-catheter-set",
+      "artifact_folder": "csf-shunt--cook-inc--ventricular-catheter-set",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cook-inc--ventricular-catheter-set",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--cordis--cordis-right-angle-catheter-guide",
+      "artifact_folder": "csf-shunt--cordis--cordis-right-angle-catheter-guide",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cordis--cordis-right-angle-catheter-guide",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--cordis--cordis-straight-ventricular-catheter",
+      "artifact_folder": "csf-shunt--cordis--cordis-straight-ventricular-catheter",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cordis--cordis-straight-ventricular-catheter",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--cordis--cordis-ventricular-antechamber-va",
+      "artifact_folder": "csf-shunt--cordis--cordis-ventricular-antechamber-va",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cordis--cordis-ventricular-antechamber-va",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--cordis--external-ventricular-drainage-monitoring-lumbar",
+      "artifact_folder": "csf-shunt--cordis--external-ventricular-drainage-monitoring-lumbar",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cordis--external-ventricular-drainage-monitoring-lumbar",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--cordis--external-ventricular-lumbar-drainage-sets",
+      "artifact_folder": "csf-shunt--cordis--external-ventricular-lumbar-drainage-sets",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cordis--external-ventricular-lumbar-drainage-sets",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--cordis--graduated-cylinder-of-external-drainage",
+      "artifact_folder": "csf-shunt--cordis--graduated-cylinder-of-external-drainage",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cordis--graduated-cylinder-of-external-drainage",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--cordis--integral-drainage-ventricular-lumbar-drainage",
+      "artifact_folder": "csf-shunt--cordis--integral-drainage-ventricular-lumbar-drainage",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cordis--integral-drainage-ventricular-lumbar-drainage",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--cordis--omnishunt-for-ventricular-shunting",
+      "artifact_folder": "csf-shunt--cordis--omnishunt-for-ventricular-shunting",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cordis--omnishunt-for-ventricular-shunting",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--cordis--orbis-sigma-valve-for-ventricular",
+      "artifact_folder": "csf-shunt--cordis--orbis-sigma-valve-for-ventricular",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cordis--orbis-sigma-valve-for-ventricular",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--cordis--right-angle-catheter-for-ventricular",
+      "artifact_folder": "csf-shunt--cordis--right-angle-catheter-for-ventricular",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cordis--right-angle-catheter-for-ventricular",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--elekta-implants-sa--subdural-drainage-catheter-kit-subdural",
+      "artifact_folder": "csf-shunt--elekta-implants-sa--subdural-drainage-catheter-kit-subdural",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--elekta-implants-sa--subdural-drainage-catheter-kit-subdural",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--holter-hausner-intl--catheters-h-h-atrial-and",
+      "artifact_folder": "csf-shunt--holter-hausner-intl--catheters-h-h-atrial-and",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--holter-hausner-intl--catheters-h-h-atrial-and",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--holter-hausner-intl--catheters-h-h-ventricular",
+      "artifact_folder": "csf-shunt--holter-hausner-intl--catheters-h-h-ventricular",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--holter-hausner-intl--catheters-h-h-ventricular",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--holter-hausner-intl--h-h-atrial-catheters-peritoneal",
+      "artifact_folder": "csf-shunt--holter-hausner-intl--h-h-atrial-catheters-peritoneal",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--holter-hausner-intl--h-h-atrial-catheters-peritoneal",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--holter-hausner-intl--h-h-burr-hole-catheter",
+      "artifact_folder": "csf-shunt--holter-hausner-intl--h-h-burr-hole-catheter",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--holter-hausner-intl--h-h-burr-hole-catheter",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--holter-hausner-intl--h-h-external-ventricular-drain",
+      "artifact_folder": "csf-shunt--holter-hausner-intl--h-h-external-ventricular-drain",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--holter-hausner-intl--h-h-external-ventricular-drain",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--holter-hausner-intl--h-h-external-ventricular-drainage",
+      "artifact_folder": "csf-shunt--holter-hausner-intl--h-h-external-ventricular-drainage",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--holter-hausner-intl--h-h-external-ventricular-drainage",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--holter-hausner-intl--h-h-slotted-catheter-reservoir",
+      "artifact_folder": "csf-shunt--holter-hausner-intl--h-h-slotted-catheter-reservoir",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--holter-hausner-intl--h-h-slotted-catheter-reservoir",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--holter-hausner-intl--h-h-slotted-ventricular-catheter",
+      "artifact_folder": "csf-shunt--holter-hausner-intl--h-h-slotted-ventricular-catheter",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--holter-hausner-intl--h-h-slotted-ventricular-catheter",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--holter-hausner-intl--h-h-ventricular-catheters-reservoirs",
+      "artifact_folder": "csf-shunt--holter-hausner-intl--h-h-ventricular-catheters-reservoirs",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--holter-hausner-intl--h-h-ventricular-catheters-reservoirs",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--accudrain-external-csf-drainage",
+      "artifact_folder": "csf-shunt--integra--accudrain-external-csf-drainage",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--accudrain-external-csf-drainage",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--accudrain-external-csf-drainage-recalls",
+      "artifact_folder": "csf-shunt--integra--accudrain-external-csf-drainage-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--accudrain-external-csf-drainage-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--bactiseal-catheters-bactiseal-barium-striped",
+      "artifact_folder": "csf-shunt--integra--bactiseal-catheters-bactiseal-barium-striped",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--bactiseal-catheters-bactiseal-barium-striped",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--bactiseal-catheters-bactiseal-barium-striped-recalls",
+      "artifact_folder": "csf-shunt--integra--bactiseal-catheters-bactiseal-barium-striped-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--bactiseal-catheters-bactiseal-barium-striped-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--bactiseal-evd-catheter-sets-bactiseal",
+      "artifact_folder": "csf-shunt--integra--bactiseal-evd-catheter-sets-bactiseal",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--bactiseal-evd-catheter-sets-bactiseal",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--bactiseal-evd-catheter-sets-bactiseal-recalls",
+      "artifact_folder": "csf-shunt--integra--bactiseal-evd-catheter-sets-bactiseal-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--bactiseal-evd-catheter-sets-bactiseal-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--codman-libertis-shunt-catheter-with",
+      "artifact_folder": "csf-shunt--integra--codman-libertis-shunt-catheter-with",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--codman-libertis-shunt-catheter-with",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--codman-libertis-shunt-catheter-with-recalls",
+      "artifact_folder": "csf-shunt--integra--codman-libertis-shunt-catheter-with-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--codman-libertis-shunt-catheter-with-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--endoscopic-ventricular-catheter",
+      "artifact_folder": "csf-shunt--integra--endoscopic-ventricular-catheter",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--endoscopic-ventricular-catheter",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--endoscopic-ventricular-catheter-recalls",
+      "artifact_folder": "csf-shunt--integra--endoscopic-ventricular-catheter-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--endoscopic-ventricular-catheter-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--external-csf-drainage-management-s",
+      "artifact_folder": "csf-shunt--integra--external-csf-drainage-management-s",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--external-csf-drainage-management-s",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--external-csf-drainage-management-s-recalls",
+      "artifact_folder": "csf-shunt--integra--external-csf-drainage-management-s-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--external-csf-drainage-management-s-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--external-drainage-set",
+      "artifact_folder": "csf-shunt--integra--external-drainage-set",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--external-drainage-set",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--external-drainage-set-recalls",
+      "artifact_folder": "csf-shunt--integra--external-drainage-set-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--external-drainage-set-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--hermetic-plus-external-csf-drainage",
+      "artifact_folder": "csf-shunt--integra--hermetic-plus-external-csf-drainage",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--hermetic-plus-external-csf-drainage",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--hermetic-plus-external-csf-drainage-recalls",
+      "artifact_folder": "csf-shunt--integra--hermetic-plus-external-csf-drainage-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--hermetic-plus-external-csf-drainage-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--lumbar-drainage-accessory-kit",
+      "artifact_folder": "csf-shunt--integra--lumbar-drainage-accessory-kit",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--lumbar-drainage-accessory-kit",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--lumbar-drainage-accessory-kit-recalls",
+      "artifact_folder": "csf-shunt--integra--lumbar-drainage-accessory-kit-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--lumbar-drainage-accessory-kit-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--monitorr-icp-external-csf-drainage",
+      "artifact_folder": "csf-shunt--integra--monitorr-icp-external-csf-drainage",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--monitorr-icp-external-csf-drainage",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--monitorr-icp-external-csf-drainage-recalls",
+      "artifact_folder": "csf-shunt--integra--monitorr-icp-external-csf-drainage-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--monitorr-icp-external-csf-drainage-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--monitorr-icp-external-drainage-and",
+      "artifact_folder": "csf-shunt--integra--monitorr-icp-external-drainage-and",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--monitorr-icp-external-drainage-and",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--monitorr-icp-external-drainage-and-recalls",
+      "artifact_folder": "csf-shunt--integra--monitorr-icp-external-drainage-and-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--monitorr-icp-external-drainage-and-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--peritoneal-cardiac-catheter",
+      "artifact_folder": "csf-shunt--integra--peritoneal-cardiac-catheter",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--peritoneal-cardiac-catheter",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--integra--peritoneal-cardiac-catheter-recalls",
+      "artifact_folder": "csf-shunt--integra--peritoneal-cardiac-catheter-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--integra--peritoneal-cardiac-catheter-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--irras-usa-inc--irraflow-catheter-irraflow-tube-set",
+      "artifact_folder": "csf-shunt--irras-usa-inc--irraflow-catheter-irraflow-tube-set",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--irras-usa-inc--irraflow-catheter-irraflow-tube-set",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--irras-usa-ltd--irraflow-catheter-irraflow-tube-set",
+      "artifact_folder": "csf-shunt--irras-usa-ltd--irraflow-catheter-irraflow-tube-set",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--irras-usa-ltd--irraflow-catheter-irraflow-tube-set",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--jmed-shenzhen-technology-limited--external-drainage",
+      "artifact_folder": "csf-shunt--jmed-shenzhen-technology-limited--external-drainage",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--jmed-shenzhen-technology-limited--external-drainage",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--johnson-johnson-professionals-inc--codman-lumbar-drainage-catheter-kit",
+      "artifact_folder": "csf-shunt--johnson-johnson-professionals-inc--codman-lumbar-drainage-catheter-kit",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--johnson-johnson-professionals-inc--codman-lumbar-drainage-catheter-kit",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--johnson-johnson-professionals-inc--external-drainage-eds-and-eds",
+      "artifact_folder": "csf-shunt--johnson-johnson-professionals-inc--external-drainage-eds-and-eds",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--johnson-johnson-professionals-inc--external-drainage-eds-and-eds",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--medtronic--becker-external-drainage-and-monitoring",
+      "artifact_folder": "csf-shunt--medtronic--becker-external-drainage-and-monitoring",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--medtronic--becker-external-drainage-and-monitoring",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--medtronic--becker-external-drainage-and-monitoring-recalls",
+      "artifact_folder": "csf-shunt--medtronic--becker-external-drainage-and-monitoring-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--medtronic--becker-external-drainage-and-monitoring-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--medtronic--duet-external-drainage-and-monitoring",
+      "artifact_folder": "csf-shunt--medtronic--duet-external-drainage-and-monitoring",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--medtronic--duet-external-drainage-and-monitoring",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--medtronic--duet-external-drainage-and-monitoring-recalls",
+      "artifact_folder": "csf-shunt--medtronic--duet-external-drainage-and-monitoring-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--medtronic--duet-external-drainage-and-monitoring-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--medtronic--medtronic-ares-antibiotic-impregnated-catheter",
+      "artifact_folder": "csf-shunt--medtronic--medtronic-ares-antibiotic-impregnated-catheter",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--medtronic--medtronic-ares-antibiotic-impregnated-catheter",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--medtronic--medtronic-ps-medical-external-drainage",
+      "artifact_folder": "csf-shunt--medtronic--medtronic-ps-medical-external-drainage",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--medtronic--medtronic-ps-medical-external-drainage",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--medtronic--medtronic-strata-nsc-lumboperitoneal-valve",
+      "artifact_folder": "csf-shunt--medtronic--medtronic-strata-nsc-lumboperitoneal-valve",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--medtronic--medtronic-strata-nsc-lumboperitoneal-valve",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--medtronic--ps-medical-strata-nsc-lumboperitoneal",
+      "artifact_folder": "csf-shunt--medtronic--ps-medical-strata-nsc-lumboperitoneal",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--medtronic--ps-medical-strata-nsc-lumboperitoneal",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--medtronic--ps-medical-strata-nsc-lumboperitoneal-recalls",
+      "artifact_folder": "csf-shunt--medtronic--ps-medical-strata-nsc-lumboperitoneal-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--medtronic--ps-medical-strata-nsc-lumboperitoneal-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--medtronic--rivulet-ventricular-and-snap-shunt",
+      "artifact_folder": "csf-shunt--medtronic--rivulet-ventricular-and-snap-shunt",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--medtronic--rivulet-ventricular-and-snap-shunt",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--medtronic--rivulet-ventricular-and-snap-shunt-recalls",
+      "artifact_folder": "csf-shunt--medtronic--rivulet-ventricular-and-snap-shunt-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--medtronic--rivulet-ventricular-and-snap-shunt-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--medtronic--small-lumen-peritoneal-catheter",
+      "artifact_folder": "csf-shunt--medtronic--small-lumen-peritoneal-catheter",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--medtronic--small-lumen-peritoneal-catheter",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--medtronic--small-lumen-peritoneal-catheter-recalls",
+      "artifact_folder": "csf-shunt--medtronic--small-lumen-peritoneal-catheter-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--medtronic--small-lumen-peritoneal-catheter-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--moller-medical-gmbh--liquoguard-7-liquoguard-7-drainage",
+      "artifact_folder": "csf-shunt--moller-medical-gmbh--liquoguard-7-liquoguard-7-drainage",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--moller-medical-gmbh--liquoguard-7-liquoguard-7-drainage",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--neurodynamics-inc--tri-flow-catheter",
+      "artifact_folder": "csf-shunt--neurodynamics-inc--tri-flow-catheter",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--neurodynamics-inc--tri-flow-catheter",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--phoenix-biomedical--phoenix-infusion-catheter",
+      "artifact_folder": "csf-shunt--phoenix-biomedical--phoenix-infusion-catheter",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--phoenix-biomedical--phoenix-infusion-catheter",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--phoenix-biomedical--phoenix-infusion-catheter-recalls",
+      "artifact_folder": "csf-shunt--phoenix-biomedical--phoenix-infusion-catheter-recalls",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--phoenix-biomedical--phoenix-infusion-catheter-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--phoenix-biomedical-corp--lumboperitoneal-shunt",
+      "artifact_folder": "csf-shunt--phoenix-biomedical-corp--lumboperitoneal-shunt",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--phoenix-biomedical-corp--lumboperitoneal-shunt",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--phoenix-biomedical-corp--rumbar-drainage",
+      "artifact_folder": "csf-shunt--phoenix-biomedical-corp--rumbar-drainage",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--phoenix-biomedical-corp--rumbar-drainage",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--pmt-corp--pmt-external-external-drainage-eds",
+      "artifact_folder": "csf-shunt--pmt-corp--pmt-external-external-drainage-eds",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--pmt-corp--pmt-external-external-drainage-eds",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--progress-mankind-technology--pmt-mankind-lumbar-peritoneal-shunt",
+      "artifact_folder": "csf-shunt--progress-mankind-technology--pmt-mankind-lumbar-peritoneal-shunt",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--progress-mankind-technology--pmt-mankind-lumbar-peritoneal-shunt",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--pudenz-schulte-medical-research-corp--becker-external-drainage-monitor-sys",
+      "artifact_folder": "csf-shunt--pudenz-schulte-medical-research-corp--becker-external-drainage-monitor-sys",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--pudenz-schulte-medical-research-corp--becker-external-drainage-monitor-sys",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--pudenz-schulte-medical-research-corp--csf-cardiac-peritoneal-catheter",
+      "artifact_folder": "csf-shunt--pudenz-schulte-medical-research-corp--csf-cardiac-peritoneal-catheter",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--pudenz-schulte-medical-research-corp--csf-cardiac-peritoneal-catheter",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--pudenz-schulte-medical-research-corp--csf-ventricular-catheter-standard-des",
+      "artifact_folder": "csf-shunt--pudenz-schulte-medical-research-corp--csf-ventricular-catheter-standard-des",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--pudenz-schulte-medical-research-corp--csf-ventricular-catheter-standard-des",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--pudenz-schulte-medical-research-corp--p-s-csf-ventricular-catheter",
+      "artifact_folder": "csf-shunt--pudenz-schulte-medical-research-corp--p-s-csf-ventricular-catheter",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--pudenz-schulte-medical-research-corp--p-s-csf-ventricular-catheter",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--pudenz-schulte-medical-research-corp--p-s-med-lumbo-peritoneal",
+      "artifact_folder": "csf-shunt--pudenz-schulte-medical-research-corp--p-s-med-lumbo-peritoneal",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--pudenz-schulte-medical-research-corp--p-s-med-lumbo-peritoneal",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--pudenz-schulte-medical-research-corp--p-s-medical-csf-lumboperitoneal",
+      "artifact_folder": "csf-shunt--pudenz-schulte-medical-research-corp--p-s-medical-csf-lumboperitoneal",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--pudenz-schulte-medical-research-corp--p-s-medical-csf-lumboperitoneal",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--radionics-inc--radionics-equi-flow-valve-ventricular",
+      "artifact_folder": "csf-shunt--radionics-inc--radionics-equi-flow-valve-ventricular",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--radionics-inc--radionics-equi-flow-valve-ventricular",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--radionics-inc--radionics-lumboperitoneal-shunt",
+      "artifact_folder": "csf-shunt--radionics-inc--radionics-lumboperitoneal-shunt",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--radionics-inc--radionics-lumboperitoneal-shunt",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--radionics-inc--radionics-xdc-external-ventricular-catheter",
+      "artifact_folder": "csf-shunt--radionics-inc--radionics-xdc-external-ventricular-catheter",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--radionics-inc--radionics-xdc-external-ventricular-catheter",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--radionics-inc--xds-external-csf-drainage-and",
+      "artifact_folder": "csf-shunt--radionics-inc--xds-external-csf-drainage-and",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--radionics-inc--xds-external-csf-drainage-and",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--sophysa--external-csf-drainage-ventricular-catheters",
+      "artifact_folder": "csf-shunt--sophysa--external-csf-drainage-ventricular-catheters",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--sophysa--external-csf-drainage-ventricular-catheters",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--vygon-us-llc--modification-to-lumbo-peritoneal-shunts",
+      "artifact_folder": "csf-shunt--vygon-us-llc--modification-to-lumbo-peritoneal-shunts",
+      "path": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--vygon-us-llc--modification-to-lumbo-peritoneal-shunts",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    }
+  ],
+  "device_count": 103
+}

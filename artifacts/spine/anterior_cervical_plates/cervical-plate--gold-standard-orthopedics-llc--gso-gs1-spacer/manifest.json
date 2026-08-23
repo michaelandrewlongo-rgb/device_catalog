@@ -1,0 +1,42 @@
+{
+  "device_slug": "cervical-plate--gold-standard-orthopedics-llc--gso-gs1-spacer",
+  "artifact_folder": "cervical-plate--gold-standard-orthopedics-llc--gso-gs1-spacer",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3619,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--gold-standard-orthopedics-llc--gso-gs1-spacer.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--gold-standard-orthopedics-llc--gso-gs1-spacer/enriched/cervical-plate--gold-standard-orthopedics-llc--gso-gs1-spacer.json",
+        "bytes": 1631
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/cervical-plate--gold-standard-orthopedics-llc--gso-gs1-spacer.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--gold-standard-orthopedics-llc--gso-gs1-spacer/extracted/fda_structured/cervical-plate--gold-standard-orthopedics-llc--gso-gs1-spacer.json",
+        "bytes": 555
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K071274.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--gold-standard-orthopedics-llc--gso-gs1-spacer/fda_raw/MQP/K071274.json",
+        "bytes": 605
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--gold-standard-orthopedics-llc--gso-gs1-spacer.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--gold-standard-orthopedics-llc--gso-gs1-spacer/merged/cervical-plate--gold-standard-orthopedics-llc--gso-gs1-spacer.json",
+        "bytes": 828
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

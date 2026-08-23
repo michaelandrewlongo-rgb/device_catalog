@@ -1,7 +1,7 @@
 # QUARTEX OCT Stabilization System
 
 **Manufacturer:** Globus Medical
-**Category:** Pedicle screw system
+**Category:** Pedicle screw system / OCT stabilization
 
 ## What It Is
 

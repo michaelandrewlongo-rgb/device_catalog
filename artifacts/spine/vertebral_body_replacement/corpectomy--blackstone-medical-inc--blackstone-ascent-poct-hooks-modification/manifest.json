@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--blackstone-medical-inc--blackstone-ascent-poct-hooks-modification",
+  "artifact_folder": "corpectomy--blackstone-medical-inc--blackstone-ascent-poct-hooks-modification",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3066,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--blackstone-medical-inc--blackstone-ascent-poct-hooks-modification.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--blackstone-medical-inc--blackstone-ascent-poct-hooks-modification/enriched/corpectomy--blackstone-medical-inc--blackstone-ascent-poct-hooks-modification.json",
+        "bytes": 1500
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K033980.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--blackstone-medical-inc--blackstone-ascent-poct-hooks-modification/fda_raw/KWP/K033980.json",
+        "bytes": 647
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--blackstone-medical-inc--blackstone-ascent-poct-hooks-modification.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--blackstone-medical-inc--blackstone-ascent-poct-hooks-modification/merged/corpectomy--blackstone-medical-inc--blackstone-ascent-poct-hooks-modification.json",
+        "bytes": 919
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--howmedica-osteonics-corp--stryker-spine-vertebral-body-support",
+  "artifact_folder": "cervical-plate--howmedica-osteonics-corp--stryker-spine-vertebral-body-support",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3018,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--howmedica-osteonics-corp--stryker-spine-vertebral-body-support.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--howmedica-osteonics-corp--stryker-spine-vertebral-body-support/enriched/cervical-plate--howmedica-osteonics-corp--stryker-spine-vertebral-body-support.json",
+        "bytes": 1479
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K033837.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--howmedica-osteonics-corp--stryker-spine-vertebral-body-support/fda_raw/MQP/K033837.json",
+        "bytes": 641
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--howmedica-osteonics-corp--stryker-spine-vertebral-body-support.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--howmedica-osteonics-corp--stryker-spine-vertebral-body-support/merged/cervical-plate--howmedica-osteonics-corp--stryker-spine-vertebral-body-support.json",
+        "bytes": 898
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

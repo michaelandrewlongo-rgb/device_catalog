@@ -1,0 +1,28 @@
+{
+  "device_name": "SINTEA BIOTECH POSTERIOR LUMBAR SYSTEM WITH POLYAXIAL AND RECOVERY SCREWS, MODEL PLS.01.T5.X",
+  "manufacturer": "sintea-biotech-inc",
+  "catalog_category": "corpectomy",
+  "filename_stem": "corpectomy--sintea-biotech-inc--sintea-biotech-posterior-lumbar-with",
+  "clearance_type": "510k",
+  "clearance_number": "K043355",
+  "clearance_date": "2004-12-17",
+  "device_class": 2,
+  "device_name_fda": "SINTEA BIOTECH POSTERIOR LUMBAR SYSTEM WITH POLYAXIAL AND RECOVERY SCREWS, MODEL PLS.01.T5.X",
+  "product_code": "KWP",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf04/K043355.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

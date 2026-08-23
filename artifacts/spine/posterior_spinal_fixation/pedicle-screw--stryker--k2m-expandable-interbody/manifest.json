@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--stryker--k2m-expandable-interbody",
+  "artifact_folder": "pedicle-screw--stryker--k2m-expandable-interbody",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2798,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--stryker--k2m-expandable-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--k2m-expandable-interbody/enriched/pedicle-screw--stryker--k2m-expandable-interbody.json",
+        "bytes": 1407
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K180777.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--k2m-expandable-interbody/fda_raw/MAX/K180777.json",
+        "bytes": 565
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--stryker--k2m-expandable-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--k2m-expandable-interbody/merged/pedicle-screw--stryker--k2m-expandable-interbody.json",
+        "bytes": 826
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

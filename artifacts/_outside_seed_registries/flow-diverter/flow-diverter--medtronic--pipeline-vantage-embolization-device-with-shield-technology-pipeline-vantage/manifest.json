@@ -1,0 +1,21 @@
+{
+  "device_slug": "flow-diverter--medtronic--pipeline-vantage-embolization-device-with-shield-technology-pipeline-vantage",
+  "artifact_folder": "flow-diverter--medtronic--pipeline-vantage-embolization-device-with-shield-technology-pipeline-vantage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 678,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/pma/P100018--pipeline-vantage-embolization-device-with-shield-technology-pipeline-vantage.json",
+        "artifact": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--medtronic--pipeline-vantage-embolization-device-with-shield-technology-pipeline-vantage/fda_raw/pma/P100018--pipeline-vantage-embolization-device-with-shield-technology-pipeline-vantage.json",
+        "bytes": 678
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "flow-diverter",
+    "label": "Flow diverters noted as separate exemplar"
+  }
+}

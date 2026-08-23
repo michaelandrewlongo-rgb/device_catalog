@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--advanced-spine-fixation-systems-inc--low-profile-sleave-nut-assembly",
+  "artifact_folder": "corpectomy--advanced-spine-fixation-systems-inc--low-profile-sleave-nut-assembly",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2997,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--advanced-spine-fixation-systems-inc--low-profile-sleave-nut-assembly.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--advanced-spine-fixation-systems-inc--low-profile-sleave-nut-assembly/enriched/corpectomy--advanced-spine-fixation-systems-inc--low-profile-sleave-nut-assembly.json",
+        "bytes": 1464
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K931208.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--advanced-spine-fixation-systems-inc--low-profile-sleave-nut-assembly/fda_raw/KWP/K931208.json",
+        "bytes": 650
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--advanced-spine-fixation-systems-inc--low-profile-sleave-nut-assembly.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--advanced-spine-fixation-systems-inc--low-profile-sleave-nut-assembly/merged/corpectomy--advanced-spine-fixation-systems-inc--low-profile-sleave-nut-assembly.json",
+        "bytes": 883
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

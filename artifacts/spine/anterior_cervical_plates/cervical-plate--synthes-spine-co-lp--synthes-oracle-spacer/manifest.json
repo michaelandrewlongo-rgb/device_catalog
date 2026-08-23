@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--synthes-spine-co-lp--synthes-oracle-spacer",
+  "artifact_folder": "cervical-plate--synthes-spine-co-lp--synthes-oracle-spacer",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2827,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--synthes-spine-co-lp--synthes-oracle-spacer.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--synthes-spine-co-lp--synthes-oracle-spacer/enriched/cervical-plate--synthes-spine-co-lp--synthes-oracle-spacer.json",
+        "bytes": 1410
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K062933.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--synthes-spine-co-lp--synthes-oracle-spacer/fda_raw/MQP/K062933.json",
+        "bytes": 588
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--synthes-spine-co-lp--synthes-oracle-spacer.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--synthes-spine-co-lp--synthes-oracle-spacer/merged/cervical-plate--synthes-spine-co-lp--synthes-oracle-spacer.json",
+        "bytes": 829
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--stryker--santorini-corpectomy-cage-capri-corpectomy",
+  "artifact_folder": "cervical-plate--stryker--santorini-corpectomy-cage-capri-corpectomy",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3012,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--stryker--santorini-corpectomy-cage-capri-corpectomy.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--stryker--santorini-corpectomy-cage-capri-corpectomy/enriched/cervical-plate--stryker--santorini-corpectomy-cage-capri-corpectomy.json",
+        "bytes": 1489
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K180665.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--stryker--santorini-corpectomy-cage-capri-corpectomy/fda_raw/MQP/K180665.json",
+        "bytes": 615
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--stryker--santorini-corpectomy-cage-capri-corpectomy.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--stryker--santorini-corpectomy-cage-capri-corpectomy/merged/cervical-plate--stryker--santorini-corpectomy-cage-capri-corpectomy.json",
+        "bytes": 908
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

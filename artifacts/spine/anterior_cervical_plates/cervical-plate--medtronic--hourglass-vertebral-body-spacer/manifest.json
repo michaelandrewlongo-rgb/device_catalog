@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--medtronic--hourglass-vertebral-body-spacer",
+  "artifact_folder": "cervical-plate--medtronic--hourglass-vertebral-body-spacer",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2851,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--medtronic--hourglass-vertebral-body-spacer.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--hourglass-vertebral-body-spacer/enriched/cervical-plate--medtronic--hourglass-vertebral-body-spacer.json",
+        "bytes": 1420
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K033926.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--hourglass-vertebral-body-spacer/fda_raw/MQP/K033926.json",
+        "bytes": 592
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--medtronic--hourglass-vertebral-body-spacer.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--hourglass-vertebral-body-spacer/merged/cervical-plate--medtronic--hourglass-vertebral-body-spacer.json",
+        "bytes": 839
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--shanghai-sanyou-medical-co-ltd--keystone-peek-cage",
+  "artifact_folder": "pedicle-screw--shanghai-sanyou-medical-co-ltd--keystone-peek-cage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2911,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--shanghai-sanyou-medical-co-ltd--keystone-peek-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--shanghai-sanyou-medical-co-ltd--keystone-peek-cage/enriched/pedicle-screw--shanghai-sanyou-medical-co-ltd--keystone-peek-cage.json",
+        "bytes": 1435
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K211689.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--shanghai-sanyou-medical-co-ltd--keystone-peek-cage/fda_raw/MAX/K211689.json",
+        "bytes": 622
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--shanghai-sanyou-medical-co-ltd--keystone-peek-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--shanghai-sanyou-medical-co-ltd--keystone-peek-cage/merged/pedicle-screw--shanghai-sanyou-medical-co-ltd--keystone-peek-cage.json",
+        "bytes": 854
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

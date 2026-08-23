@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--lanx-llc--lanx-intervertebral-body-fusion",
+  "artifact_folder": "pedicle-screw--lanx-llc--lanx-intervertebral-body-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2860,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--lanx-llc--lanx-intervertebral-body-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--lanx-llc--lanx-intervertebral-body-fusion/enriched/pedicle-screw--lanx-llc--lanx-intervertebral-body-fusion.json",
+        "bytes": 1430
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K073144.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--lanx-llc--lanx-intervertebral-body-fusion/fda_raw/MAX/K073144.json",
+        "bytes": 581
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--lanx-llc--lanx-intervertebral-body-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--lanx-llc--lanx-intervertebral-body-fusion/merged/pedicle-screw--lanx-llc--lanx-intervertebral-body-fusion.json",
+        "bytes": 849
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

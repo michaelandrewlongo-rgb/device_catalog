@@ -1,0 +1,23 @@
+{
+  "source_pdf": "embolic-coil--penumbra--penumbra-lp-coil--510k.pdf",
+  "device_name": "penumbra-lp-coil",
+  "manufacturer": "penumbra",
+  "doc_type": "510k",
+  "extraction_method": "pdf_deepseek",
+  "fields": {
+    "what_it_is": "The LP Coil consists of a Coil Implant attached to a Detachment Pusher, both contained within a Sheath. The Detachment Pusher comprises a shaft with a radiopaque positioning marker, a Distal Detachment Tip (DDT), and a pull wire. A Detachment Handle (packaged separately) is used to detach the Coil Implant from the Detachment Pusher. The LP Coil is designed for endovascular embolization in the neuro and peripheral vasculature. The LP Coil is a line extension to the Penumbra Smart Coil System that uses the existing Sheath, Detachment Pusher, and Detachment Handle from the Smart Coil. This line extension includes two configurations: Ruby LP, Finish LP.",
+    "sizing_specs": "| Attributes | Predicate Device | Reference Device | Subject Devices |\n|---------------------|-----------------------|-------------------|------------------------|\n| Coil Materials/Construction | 92% Platinum/8% Tungsten, 90% Platinum/10% Iridium, Stainless Steel, Adhesive, Titanium, Polymer | 92% Platinum/8% Tungsten, Adhesive, Titanium, Polymer | SAME as Reference |\n| Coil Secondary Shape | Complex, Helical | Complex, Helical, Finish | Complex, Finish |\n| Coil Length | 1-60 cm | SAME | SAME |\n| Coil Primary Diameter | 0.0105-0.0130 in. | 0.020 in. | 0.0135 in. |\n| Coil Secondary Diameter | 1-18 mm | 2-40 mm | 1-8 mm |\n| Sterilization | EO | SAME | SAME |\n| Sterilization assurance level (SAL) | ≥10^-6 | SAME | SAME |\n| Use | Single Use | SAME | SAME |\n| Shelf-life (coil implant & detachment pusher) | 5 Years | 8 Years | SAME as Predicate |\n| Shelf-life (detachment handle) | 5 Years | 3 Years | SAME as Predicate |\n| Device Packaging Materials and Dimensions | As specified in K143218 | As described in K173614 | SAME as Predicate |",
+    "indications": "The Penumbra LP Coil System is indicated for the embolization of: • Intracranial aneurysms • Other neurovascular abnormalities such as arteriovenous malformations and arteriovenous fistulae • Arterial and venous embolizations in the peripheral vasculature",
+    "contraindications": null,
+    "compatible_with": null,
+    "use_notes": "Intended users for this device are physicians who have received appropriate training in interventional radiology.",
+    "also_known_as": "LP Coil"
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "sizing_specs": 0.7,
+    "indications": 0.7,
+    "use_notes": 0.7,
+    "also_known_as": 0.7
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--medacta-inernational-sa--mectalif-transforaminal-tipeek",
+  "artifact_folder": "pedicle-screw--medacta-inernational-sa--mectalif-transforaminal-tipeek",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2921,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--medacta-inernational-sa--mectalif-transforaminal-tipeek.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medacta-inernational-sa--mectalif-transforaminal-tipeek/enriched/pedicle-screw--medacta-inernational-sa--mectalif-transforaminal-tipeek.json",
+        "bytes": 1443
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K200551.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medacta-inernational-sa--mectalif-transforaminal-tipeek/fda_raw/MAX/K200551.json",
+        "bytes": 616
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--medacta-inernational-sa--mectalif-transforaminal-tipeek.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medacta-inernational-sa--mectalif-transforaminal-tipeek/merged/pedicle-screw--medacta-inernational-sa--mectalif-transforaminal-tipeek.json",
+        "bytes": 862
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

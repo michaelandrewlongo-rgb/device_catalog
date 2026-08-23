@@ -1,0 +1,45 @@
+{
+  "device_slug": "interbody-cage--alphatec-spine-inc--invictus-spinal-fixation",
+  "artifact_folder": "interbody-cage--alphatec-spine-inc--invictus-spinal-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 4583,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--alphatec-spine-inc--invictus-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--alphatec-spine-inc--invictus-spinal-fixation/enriched/interbody-cage--alphatec-spine-inc--invictus-spinal-fixation.json",
+        "bytes": 1917
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K192938.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--alphatec-spine-inc--invictus-spinal-fixation/fda_raw/NKB/K192938.json",
+        "bytes": 602
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K203056.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--alphatec-spine-inc--invictus-spinal-fixation/fda_raw/NKB/K203056.json",
+        "bytes": 602
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K213460.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--alphatec-spine-inc--invictus-spinal-fixation/fda_raw/NKB/K213460.json",
+        "bytes": 600
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--alphatec-spine-inc--invictus-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--alphatec-spine-inc--invictus-spinal-fixation/merged/interbody-cage--alphatec-spine-inc--invictus-spinal-fixation.json",
+        "bytes": 862
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--neo-medical-sa--neo-cage-tm",
+  "artifact_folder": "pedicle-screw--neo-medical-sa--neo-cage-tm",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2741,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--neo-medical-sa--neo-cage-tm.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--neo-medical-sa--neo-cage-tm/enriched/pedicle-screw--neo-medical-sa--neo-cage-tm.json",
+        "bytes": 1382
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K181048.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--neo-medical-sa--neo-cage-tm/fda_raw/MAX/K181048.json",
+        "bytes": 558
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--neo-medical-sa--neo-cage-tm.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--neo-medical-sa--neo-cage-tm/merged/pedicle-screw--neo-medical-sa--neo-cage-tm.json",
+        "bytes": 801
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

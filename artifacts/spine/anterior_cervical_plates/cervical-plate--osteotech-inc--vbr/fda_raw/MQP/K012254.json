@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K012254",
+  "clearance_date": "2001-10-16",
+  "device_class": 2,
+  "manufacturer_canonical": "osteotech-inc",
+  "manufacturer_raw": "Osteotech, Inc.",
+  "catalog_category": "cervical-plate",
+  "device_name_fda": "VBR",
+  "product_code": "MQP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "cervical-plate--osteotech-inc--vbr",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf01/K012254.pdf"
+}

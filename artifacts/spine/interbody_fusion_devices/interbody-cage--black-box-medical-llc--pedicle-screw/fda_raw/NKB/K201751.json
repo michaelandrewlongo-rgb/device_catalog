@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K201751",
+  "clearance_date": "2020-07-22",
+  "device_class": 2,
+  "manufacturer_canonical": "black-box-medical-llc",
+  "manufacturer_raw": "Black Box Medical, LLC",
+  "catalog_category": "interbody-cage",
+  "device_name_fda": "Pedicle Screw System",
+  "product_code": "NKB",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "interbody-cage--black-box-medical-llc--pedicle-screw",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K201751.pdf"
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--life-spine-inc--arx-modular-spinal",
+  "artifact_folder": "interbody-cage--life-spine-inc--arx-modular-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2805,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--life-spine-inc--arx-modular-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--life-spine-inc--arx-modular-spinal/enriched/interbody-cage--life-spine-inc--arx-modular-spinal.json",
+        "bytes": 1405
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K220341.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--life-spine-inc--arx-modular-spinal/fda_raw/NKB/K220341.json",
+        "bytes": 576
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--life-spine-inc--arx-modular-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--life-spine-inc--arx-modular-spinal/merged/interbody-cage--life-spine-inc--arx-modular-spinal.json",
+        "bytes": 824
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--zimmer-trabecular-metal-technology--tm-ardis-interbody-tm-ardis",
+  "artifact_folder": "pedicle-screw--zimmer-trabecular-metal-technology--tm-ardis-interbody-tm-ardis",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3169,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--zimmer-trabecular-metal-technology--tm-ardis-interbody-tm-ardis.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--zimmer-trabecular-metal-technology--tm-ardis-interbody-tm-ardis/enriched/pedicle-screw--zimmer-trabecular-metal-technology--tm-ardis-interbody-tm-ardis.json",
+        "bytes": 1534
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K113561.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--zimmer-trabecular-metal-technology--tm-ardis-interbody-tm-ardis/fda_raw/MAX/K113561.json",
+        "bytes": 682
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--zimmer-trabecular-metal-technology--tm-ardis-interbody-tm-ardis.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--zimmer-trabecular-metal-technology--tm-ardis-interbody-tm-ardis/merged/pedicle-screw--zimmer-trabecular-metal-technology--tm-ardis-interbody-tm-ardis.json",
+        "bytes": 953
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

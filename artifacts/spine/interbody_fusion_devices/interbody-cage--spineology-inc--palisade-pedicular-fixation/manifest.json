@@ -1,0 +1,45 @@
+{
+  "device_slug": "interbody-cage--spineology-inc--palisade-pedicular-fixation",
+  "artifact_folder": "interbody-cage--spineology-inc--palisade-pedicular-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 4085,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--spineology-inc--palisade-pedicular-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spineology-inc--palisade-pedicular-fixation/enriched/interbody-cage--spineology-inc--palisade-pedicular-fixation.json",
+        "bytes": 1436
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K153323.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spineology-inc--palisade-pedicular-fixation/fda_raw/NKB/K153323.json",
+        "bytes": 594
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K170266.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spineology-inc--palisade-pedicular-fixation/fda_raw/NKB/K170266.json",
+        "bytes": 596
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K171438.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spineology-inc--palisade-pedicular-fixation/fda_raw/NKB/K171438.json",
+        "bytes": 596
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--spineology-inc--palisade-pedicular-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spineology-inc--palisade-pedicular-fixation/merged/interbody-cage--spineology-inc--palisade-pedicular-fixation.json",
+        "bytes": 863
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

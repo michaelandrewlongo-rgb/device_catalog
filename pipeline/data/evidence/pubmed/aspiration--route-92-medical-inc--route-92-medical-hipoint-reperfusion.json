@@ -1,0 +1,22 @@
+[
+  {
+    "device_family": "aspiration--route-92-medical-inc--route-92-medical-hipoint-reperfusion",
+    "query_used": "\"Route 92 Medical HiPoint Reperfusion System\" OR \"HiPoint Reperfusion System\" OR \"Route 92 HiPoint\" OR \"Route 92 Medical Aspiration System\"",
+    "raw": {
+      "abstract": "Rapid and complete recanalization is a primary goal in the endovascular treatment of large vessel occlusion stroke. The effectiveness and safety of super large bore aspiration catheters (0.088″ inner diameter) for the treatment of large vessel occlusion stroke have not been demonstrated in a randomized trial.\nSUMMIT MAX (A Prospective, Randomized, Controlled, Interventional Clinical Trial to Evaluate the Safety and Effectiveness of the Route 92 Medical MonoPoint Reperfusion System for Aspiration Embolectomy in Acute Ischemic Stroke Patients) was a prospective, randomized, controlled, open-label clinical trial of patients with internal carotid artery and middle cerebral artery M1 occlusions, comparing the super large bore HiPoint Reperfusion system (Route 92 Medical) to the Vecta Aspiration system (Stryker Neurovascular). We hypothesized that the effectiveness and safety of the HiPoint reperfusion system were noninferior (12.5% noninferiority margin) to the Vecta Aspiration system. The primary effectiveness end point was successful reperfusion, defined as modified Treatment in Cerebral Infarction≥2b as adjudicated by an independent core lab, using only the assigned study device, with any use of a nonstudy device before or after the use of study device defined as failure. The primary safety end point was symptomatic intracranial hemorrhage within 24 hours (-8/+24) post-procedure.\nThere were 250 patients enrolled of whom 166 met the criteria for the modified intent-to-treat population: 89 in HiPoint and 77 in Vecta. The median age was 69 years; 54.2% were female. Successful reperfusion with any adjunctive therapy counted as a failure was 77.5% (69/89) in the HiPoint group versus 50.6% (39/77) in the Vecta group (P<0.0001 for noninferiority). Symptomatic intracranial hemorrhage within 24 hours (-8/+24 hours) post-procedure was similar between groups (3.6% versus 2.7%, respectively). At 90 days, good clinical outcome (mRS score of ≤2) was achieved in 50.6% in the HiPoint group and 53.3% in the Vecta group (absolute difference, -2.8% [95% CI, -18.2% to 12.7%]; P=0.75).\nIn this randomized trial of patients with anterior large vessel occlusion, the super large bore HiPoint system was noninferior to the Vecta system in achieving successful reperfusion, with a similar safety profile. This study supports the super large bore HiPoint system for mechanical thrombectomy.\nURL: https://www.clinicaltrials.gov; Unique identifier: NCT05018650.",
+      "doi": "10.1161/STROKEAHA.125.051742",
+      "journal": "Stroke",
+      "matched_device_family": "aspiration--route-92-medical-inc--route-92-medical-hipoint-reperfusion",
+      "pmid": "40395106",
+      "publication_date": "2025-Aug",
+      "query_used": "\"Route 92 Medical HiPoint Reperfusion System\" OR \"HiPoint Reperfusion System\" OR \"Route 92 HiPoint\" OR \"Route 92 Medical Aspiration System\"",
+      "source_retrieved_at": "2026-04-15T10:17:27+00:00",
+      "title": "SUMMIT MAX: A Randomized Trial of the Super Large Bore HiPoint Reperfusion System Versus Vecta System for Aspiration Thrombectomy."
+    },
+    "retrieved_at": "2026-04-15T10:17:27+00:00",
+    "source_id": "pubmed:40395106",
+    "source_type": "pubmed",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/40395106/",
+    "title": "SUMMIT MAX: A Randomized Trial of the Super Large Bore HiPoint Reperfusion System Versus Vecta System for Aspiration Thrombectomy."
+  }
+]

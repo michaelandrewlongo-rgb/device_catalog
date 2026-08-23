@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--cutting-edge-spine-llc--evol-ha-d-lateral-interbody",
+  "artifact_folder": "pedicle-screw--cutting-edge-spine-llc--evol-ha-d-lateral-interbody",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2971,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--cutting-edge-spine-llc--evol-ha-d-lateral-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--cutting-edge-spine-llc--evol-ha-d-lateral-interbody/enriched/pedicle-screw--cutting-edge-spine-llc--evol-ha-d-lateral-interbody.json",
+        "bytes": 1464
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K192497.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--cutting-edge-spine-llc--evol-ha-d-lateral-interbody/fda_raw/MAX/K192497.json",
+        "bytes": 624
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--cutting-edge-spine-llc--evol-ha-d-lateral-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--cutting-edge-spine-llc--evol-ha-d-lateral-interbody/merged/pedicle-screw--cutting-edge-spine-llc--evol-ha-d-lateral-interbody.json",
+        "bytes": 883
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

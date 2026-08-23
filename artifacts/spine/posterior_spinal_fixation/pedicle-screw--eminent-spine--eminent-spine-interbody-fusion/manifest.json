@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--eminent-spine--eminent-spine-interbody-fusion",
+  "artifact_folder": "pedicle-screw--eminent-spine--eminent-spine-interbody-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2886,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--eminent-spine--eminent-spine-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--eminent-spine--eminent-spine-interbody-fusion/enriched/pedicle-screw--eminent-spine--eminent-spine-interbody-fusion.json",
+        "bytes": 1437
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K090064.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--eminent-spine--eminent-spine-interbody-fusion/fda_raw/MAX/K090064.json",
+        "bytes": 593
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--eminent-spine--eminent-spine-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--eminent-spine--eminent-spine-interbody-fusion/merged/pedicle-screw--eminent-spine--eminent-spine-interbody-fusion.json",
+        "bytes": 856
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

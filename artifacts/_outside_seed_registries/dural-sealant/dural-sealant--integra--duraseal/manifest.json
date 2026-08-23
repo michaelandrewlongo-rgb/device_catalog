@@ -1,0 +1,33 @@
+{
+  "device_slug": "dural-sealant--integra--duraseal",
+  "artifact_folder": "dural-sealant--integra--duraseal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 219725,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/dural-sealant--integra--duraseal--ifu.pdf",
+        "artifact": "artifacts/_outside_seed_registries/dural-sealant/dural-sealant--integra--duraseal/data_by_device/dural-sealant--integra--duraseal--ifu.pdf",
+        "bytes": 206296
+      },
+      {
+        "source": "pipeline/data/data_by_device/dural-sealant--integra--duraseal--knowledge.md",
+        "artifact": "artifacts/_outside_seed_registries/dural-sealant/dural-sealant--integra--duraseal/data_by_device/dural-sealant--integra--duraseal--knowledge.md",
+        "bytes": 8890
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/documents/dural-sealant--integra--duraseal--ifu.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-sealant/dural-sealant--integra--duraseal/extracted/documents/dural-sealant--integra--duraseal--ifu.json",
+        "bytes": 4539
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "dural-sealant",
+    "label": "Outside listed seed registries"
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "device_family": "aspiration--balt--ballast",
+    "query_used": "\"Ballast\" OR \"Ballast 088 Long Sheath\" OR \"Vascular guide-catheter\" OR \"single-use\"",
+    "raw": {
+      "abstract": "The VARIPULSE™ variable-loop circular catheter (VLCC) is a bidirectional, multielectrode catheter that can perform electrophysiological mapping and deliver pulsed field energy through the TRUPULSE™ Generator for the treatment of atrial fibrillation. This ablation system, including the CARTO 3™ three-dimensional electroanatomical mapping system, represents a fully integrated system.\nPulsed field ablation (PFA) is a novel, primarily cardiac tissue-selective ablation technology with a minimal thermal effect, potentially eliminating the collateral tissue damage associated with radiofrequency ablation or cryoablation. Integration of a mapping system may lead to shorter fluoroscopy times and improve the usability of the system, allowing tracking of energy density and placement to confirm no areas around the vein are left untreated.\nThis step-by-step review covers patient selection, mapping, the step-by-step ablation workflow, details on catheter repositioning and ensuring contact, considerations for ablation of specific anatomical variations, and discussion of ablation without fluoroscopy based on our initial clinical experience.\nThe VLCC is part of the fully integrated PFA system designed for pulmonary vein isolation, using mapping to guide catheter placement and lesion set creation. The current workflow, which is based on our initial clinical experience, may be further refined as the PFA system is used in real-world settings.",
+      "doi": "10.1111/jce.16366",
+      "journal": "Journal of cardiovascular electrophysiology",
+      "matched_device_family": "aspiration--balt--ballast",
+      "pmid": "39004800",
+      "publication_date": "2024-Sep",
+      "query_used": "\"Ballast\" OR \"Ballast 088 Long Sheath\" OR \"Vascular guide-catheter\" OR \"single-use\"",
+      "source_retrieved_at": "2026-04-15T10:17:10+00:00",
+      "title": "VARIPULSE: A step-by-step guide to pulmonary vein isolation."
+    },
+    "retrieved_at": "2026-04-15T10:17:10+00:00",
+    "source_id": "pubmed:39004800",
+    "source_type": "pubmed",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/39004800/",
+    "title": "VARIPULSE: A step-by-step guide to pulmonary vein isolation."
+  }
+]

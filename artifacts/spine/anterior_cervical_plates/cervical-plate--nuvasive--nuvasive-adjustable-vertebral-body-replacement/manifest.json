@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--nuvasive--nuvasive-adjustable-vertebral-body-replacement",
+  "artifact_folder": "cervical-plate--nuvasive--nuvasive-adjustable-vertebral-body-replacement",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3217,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--nuvasive--nuvasive-adjustable-vertebral-body-replacement.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--nuvasive--nuvasive-adjustable-vertebral-body-replacement/enriched/cervical-plate--nuvasive--nuvasive-adjustable-vertebral-body-replacement.json",
+        "bytes": 1703
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K090176.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--nuvasive--nuvasive-adjustable-vertebral-body-replacement/fda_raw/MQP/K090176.json",
+        "bytes": 618
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--nuvasive--nuvasive-adjustable-vertebral-body-replacement.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--nuvasive--nuvasive-adjustable-vertebral-body-replacement/merged/cervical-plate--nuvasive--nuvasive-adjustable-vertebral-body-replacement.json",
+        "bytes": 896
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

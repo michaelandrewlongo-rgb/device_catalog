@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K905860",
+  "clearance_date": "1991-09-10",
+  "device_class": 2,
+  "manufacturer_canonical": "baxter-healthcare-corp",
+  "manufacturer_raw": "Baxter Healthcare Corp",
+  "catalog_category": "csf-shunt",
+  "device_name_fda": "HEYER-SCHULTE SPINAL CYST CATHETER/MODIFICATION",
+  "product_code": "JXG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "csf-shunt--baxter-healthcare-corp--heyer-schulte-spinal-cyst-catheter",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf90/K905860.pdf"
+}

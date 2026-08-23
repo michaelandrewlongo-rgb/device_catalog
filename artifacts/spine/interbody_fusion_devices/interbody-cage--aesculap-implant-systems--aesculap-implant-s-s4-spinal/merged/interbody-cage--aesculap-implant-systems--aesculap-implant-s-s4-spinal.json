@@ -1,0 +1,28 @@
+{
+  "device_name": "AESCULAP IMPLANT SYSTEMS S4 SPINAL SYSTEM",
+  "manufacturer": "aesculap-implant-systems",
+  "catalog_category": "interbody-cage",
+  "filename_stem": "interbody-cage--aesculap-implant-systems--aesculap-implant-s-s4-spinal",
+  "clearance_type": "510k",
+  "clearance_number": "K100623",
+  "clearance_date": "2010-06-09",
+  "device_class": 2,
+  "device_name_fda": "AESCULAP IMPLANT SYSTEMS S4 SPINAL SYSTEM",
+  "product_code": "NKB",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf10/K100623.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

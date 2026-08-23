@@ -1,0 +1,22 @@
+{
+  "source_pdf": "vertu-cervicalbrochure-spinal-elements-2.pdf",
+  "source_path": "C:\\Users\\Michael\\Documents\\device_catalog\\pipeline\\data\\extracted\\nspr\\pdfs\\vertu-cervicalbrochure-spinal-elements-2.pdf",
+  "device_name": "Vertu Cervicalbrochure Spinal Elements 2",
+  "manufacturer": "unknown",
+  "doc_type": "technique_guide",
+  "extraction_method": "pdfplumber_deepseek",
+  "extraction_source": "nspr_pdf",
+  "fields": {
+    "what_it_is": "Vertu Stand-Alone, No Profile ACDF With Ti-Bond® Titanium Porous Coating. Advanced Design. Simplified Technique. Controlled Implant Placement. Advanced Locking Screw Technology. Multiple Footprint Options for Maximum Stability. Balanced Lag Screw Design for Graft Compression. Ti-Bond Titanium Porous Coating: Immediate Stability, Increased Surface Topography, Hydrophilic Properties. Microstructure: The porous titanium creates a microstructure that increases surface area of bony contact. Ti-Bond Titanium Porous Coating: Random, unconnected pores.",
+    "sizing_specs": "| Interbody |       |        |          |  |\n|-----------|-------|--------|----------|--|\n| Width     | Depth | Height | Lordosis |  |\n| 14        | 12    | 6-12*  | 0° & 7°  |  |\n| 16        | 14    | 6-12*  | 0° & 7°  |  |\n| 18        | 15    | 6-12*  | 0° & 7°  |  |\n\n|                 | Screws            |  |\n|-----------------|-------------------|--|\n| Diameter<br>4.0 | Length<br>10-16** |  |\n| 4.5             | 10-16**           |  |\n\nDimensions expressed in millimeters *1mm increments **2mm increments",
+    "indications": null,
+    "contraindications": null,
+    "compatible_with": null,
+    "use_notes": null,
+    "also_known_as": null
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "sizing_specs": 0.7
+  }
+}

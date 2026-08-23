@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--spinal-concepts-inc--fortitude-vue-vertebral-body-replacement",
+  "artifact_folder": "cervical-plate--spinal-concepts-inc--fortitude-vue-vertebral-body-replacement",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3182,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--spinal-concepts-inc--fortitude-vue-vertebral-body-replacement.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--spinal-concepts-inc--fortitude-vue-vertebral-body-replacement/enriched/cervical-plate--spinal-concepts-inc--fortitude-vue-vertebral-body-replacement.json",
+        "bytes": 1647
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K051000.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--spinal-concepts-inc--fortitude-vue-vertebral-body-replacement/fda_raw/MQP/K051000.json",
+        "bytes": 635
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--spinal-concepts-inc--fortitude-vue-vertebral-body-replacement.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--spinal-concepts-inc--fortitude-vue-vertebral-body-replacement/merged/cervical-plate--spinal-concepts-inc--fortitude-vue-vertebral-body-replacement.json",
+        "bytes": 900
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

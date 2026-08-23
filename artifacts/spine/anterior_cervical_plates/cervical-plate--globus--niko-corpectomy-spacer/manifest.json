@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--globus--niko-corpectomy-spacer",
+  "artifact_folder": "cervical-plate--globus--niko-corpectomy-spacer",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2758,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--globus--niko-corpectomy-spacer.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--globus--niko-corpectomy-spacer/enriched/cervical-plate--globus--niko-corpectomy-spacer.json",
+        "bytes": 1387
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K072465.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--globus--niko-corpectomy-spacer/fda_raw/MQP/K072465.json",
+        "bytes": 565
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--globus--niko-corpectomy-spacer.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--globus--niko-corpectomy-spacer/merged/cervical-plate--globus--niko-corpectomy-spacer.json",
+        "bytes": 806
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--joimax-gmbh--percusys-r-plus-pedicle-screw",
+  "artifact_folder": "interbody-cage--joimax-gmbh--percusys-r-plus-pedicle-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2878,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--joimax-gmbh--percusys-r-plus-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--joimax-gmbh--percusys-r-plus-pedicle-screw/enriched/interbody-cage--joimax-gmbh--percusys-r-plus-pedicle-screw.json",
+        "bytes": 1432
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K192680.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--joimax-gmbh--percusys-r-plus-pedicle-screw/fda_raw/NKB/K192680.json",
+        "bytes": 587
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--joimax-gmbh--percusys-r-plus-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--joimax-gmbh--percusys-r-plus-pedicle-screw/merged/interbody-cage--joimax-gmbh--percusys-r-plus-pedicle-screw.json",
+        "bytes": 859
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

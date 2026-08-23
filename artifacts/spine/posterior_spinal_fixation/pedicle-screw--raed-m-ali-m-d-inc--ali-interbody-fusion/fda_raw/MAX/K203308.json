@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K203308",
+  "clearance_date": "2021-01-15",
+  "device_class": 2,
+  "manufacturer_canonical": "raed-m-ali-m-d-inc",
+  "manufacturer_raw": "Raed M. Ali, M.D., Inc.",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "Ali Interbody Fusion System",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--raed-m-ali-m-d-inc--ali-interbody-fusion",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K203308.pdf"
+}

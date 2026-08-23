@@ -1,0 +1,47 @@
+{
+  "device_slug": "pedicle-screw--ht-medical-llc--neofuse-ha-enhanced-plif-tlif",
+  "artifact_folder": "pedicle-screw--ht-medical-llc--neofuse-ha-enhanced-plif-tlif",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 4237,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--ht-medical-llc--neofuse-ha-enhanced-plif-tlif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--ht-medical-llc--neofuse-ha-enhanced-plif-tlif/enriched/pedicle-screw--ht-medical-llc--neofuse-ha-enhanced-plif-tlif.json",
+        "bytes": 1647
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/pedicle-screw--ht-medical-llc--neofuse-ha-enhanced-plif-tlif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--ht-medical-llc--neofuse-ha-enhanced-plif-tlif/extracted/fda_structured/pedicle-screw--ht-medical-llc--neofuse-ha-enhanced-plif-tlif.json",
+        "bytes": 573
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K153615.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--ht-medical-llc--neofuse-ha-enhanced-plif-tlif/fda_raw/MAX/K153615.json",
+        "bytes": 588
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K170511.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--ht-medical-llc--neofuse-ha-enhanced-plif-tlif/fda_raw/MAX/K170511.json",
+        "bytes": 588
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--ht-medical-llc--neofuse-ha-enhanced-plif-tlif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--ht-medical-llc--neofuse-ha-enhanced-plif-tlif/merged/pedicle-screw--ht-medical-llc--neofuse-ha-enhanced-plif-tlif.json",
+        "bytes": 841
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

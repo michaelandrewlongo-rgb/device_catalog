@@ -1,0 +1,45 @@
+{
+  "device_slug": "pedicle-screw--zavation-medical-products-llc--zavation-ibf",
+  "artifact_folder": "pedicle-screw--zavation-medical-products-llc--zavation-ibf",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 4067,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--zavation-medical-products-llc--zavation-ibf.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--zavation-medical-products-llc--zavation-ibf/enriched/pedicle-screw--zavation-medical-products-llc--zavation-ibf.json",
+        "bytes": 1415
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K181246.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--zavation-medical-products-llc--zavation-ibf/fda_raw/MAX/K181246.json",
+        "bytes": 606
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K200084.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--zavation-medical-products-llc--zavation-ibf/fda_raw/MAX/K200084.json",
+        "bytes": 606
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K202305.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--zavation-medical-products-llc--zavation-ibf/fda_raw/MAX/K202305.json",
+        "bytes": 606
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--zavation-medical-products-llc--zavation-ibf.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--zavation-medical-products-llc--zavation-ibf/merged/pedicle-screw--zavation-medical-products-llc--zavation-ibf.json",
+        "bytes": 834
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--met-1-technologies-llc--virtu-lumbar-spacer",
+  "artifact_folder": "pedicle-screw--met-1-technologies-llc--virtu-lumbar-spacer",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2862,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--met-1-technologies-llc--virtu-lumbar-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--met-1-technologies-llc--virtu-lumbar-spacer/enriched/pedicle-screw--met-1-technologies-llc--virtu-lumbar-spacer.json",
+        "bytes": 1422
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K160699.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--met-1-technologies-llc--virtu-lumbar-spacer/fda_raw/MAX/K160699.json",
+        "bytes": 599
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--met-1-technologies-llc--virtu-lumbar-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--met-1-technologies-llc--virtu-lumbar-spacer/merged/pedicle-screw--met-1-technologies-llc--virtu-lumbar-spacer.json",
+        "bytes": 841
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

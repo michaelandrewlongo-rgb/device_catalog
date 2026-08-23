@@ -1,0 +1,21 @@
+{
+  "device_slug": "interbody-cage--stryker--cascadia-tl-3d-interbody-system",
+  "artifact_folder": "interbody-cage--stryker--cascadia-tl-3d-interbody-system",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 1055,
+  "sources": {
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/stryker/cascadia-tl-3d-interbody-system.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker--cascadia-tl-3d-interbody-system/scraper_raw/stryker/cascadia-tl-3d-interbody-system.json",
+        "bytes": 1055
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

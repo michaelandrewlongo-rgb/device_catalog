@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--spineway-sa--mont-blanc-and-mont-blanc",
+  "artifact_folder": "interbody-cage--spineway-sa--mont-blanc-and-mont-blanc",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2898,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--spineway-sa--mont-blanc-and-mont-blanc.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spineway-sa--mont-blanc-and-mont-blanc/enriched/interbody-cage--spineway-sa--mont-blanc-and-mont-blanc.json",
+        "bytes": 1444
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K161387.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spineway-sa--mont-blanc-and-mont-blanc/fda_raw/NKB/K161387.json",
+        "bytes": 591
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--spineway-sa--mont-blanc-and-mont-blanc.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spineway-sa--mont-blanc-and-mont-blanc/merged/interbody-cage--spineway-sa--mont-blanc-and-mont-blanc.json",
+        "bytes": 863
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

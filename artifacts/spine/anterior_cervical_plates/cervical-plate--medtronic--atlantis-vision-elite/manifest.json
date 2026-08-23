@@ -1,0 +1,33 @@
+{
+  "device_slug": "cervical-plate--medtronic--atlantis-vision-elite",
+  "artifact_folder": "cervical-plate--medtronic--atlantis-vision-elite",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2403100,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/cervical-plate--medtronic--atlantis-vision-elite--knowledge.md",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--atlantis-vision-elite/data_by_device/cervical-plate--medtronic--atlantis-vision-elite--knowledge.md",
+        "bytes": 13002
+      },
+      {
+        "source": "pipeline/data/data_by_device/cervical-plate--medtronic--atlantis-vision-elite--technique.pdf",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--atlantis-vision-elite/data_by_device/cervical-plate--medtronic--atlantis-vision-elite--technique.pdf",
+        "bytes": 2383482
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/documents/cervical-plate--medtronic--atlantis-vision-elite--technique.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--medtronic--atlantis-vision-elite/extracted/documents/cervical-plate--medtronic--atlantis-vision-elite--technique.json",
+        "bytes": 6616
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

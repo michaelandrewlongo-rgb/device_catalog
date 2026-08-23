@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--richards-medical-co-inc--rogozinski-spinal",
+  "artifact_folder": "corpectomy--richards-medical-co-inc--rogozinski-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2837,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--richards-medical-co-inc--rogozinski-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--richards-medical-co-inc--rogozinski-spinal/enriched/corpectomy--richards-medical-co-inc--rogozinski-spinal.json",
+        "bytes": 1412
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K884263.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--richards-medical-co-inc--rogozinski-spinal/fda_raw/KWP/K884263.json",
+        "bytes": 594
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--richards-medical-co-inc--rogozinski-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--richards-medical-co-inc--rogozinski-spinal/merged/corpectomy--richards-medical-co-inc--rogozinski-spinal.json",
+        "bytes": 831
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

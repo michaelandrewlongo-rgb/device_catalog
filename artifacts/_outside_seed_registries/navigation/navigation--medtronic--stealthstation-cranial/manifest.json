@@ -1,0 +1,21 @@
+{
+  "device_slug": "navigation--medtronic--stealthstation-cranial",
+  "artifact_folder": "navigation--medtronic--stealthstation-cranial",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 15027,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/navigation--medtronic--stealthstation-cranial--knowledge.md",
+        "artifact": "artifacts/_outside_seed_registries/navigation/navigation--medtronic--stealthstation-cranial/data_by_device/navigation--medtronic--stealthstation-cranial--knowledge.md",
+        "bytes": 15027
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "navigation",
+    "label": "Outside listed seed registries"
+  }
+}

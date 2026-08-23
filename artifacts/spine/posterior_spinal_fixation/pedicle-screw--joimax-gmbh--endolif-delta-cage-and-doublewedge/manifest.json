@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--joimax-gmbh--endolif-delta-cage-and-doublewedge",
+  "artifact_folder": "pedicle-screw--joimax-gmbh--endolif-delta-cage-and-doublewedge",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2894,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--joimax-gmbh--endolif-delta-cage-and-doublewedge.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--joimax-gmbh--endolif-delta-cage-and-doublewedge/enriched/pedicle-screw--joimax-gmbh--endolif-delta-cage-and-doublewedge.json",
+        "bytes": 1441
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K203014.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--joimax-gmbh--endolif-delta-cage-and-doublewedge/fda_raw/MAX/K203014.json",
+        "bytes": 593
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--joimax-gmbh--endolif-delta-cage-and-doublewedge.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--joimax-gmbh--endolif-delta-cage-and-doublewedge/merged/pedicle-screw--joimax-gmbh--endolif-delta-cage-and-doublewedge.json",
+        "bytes": 860
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

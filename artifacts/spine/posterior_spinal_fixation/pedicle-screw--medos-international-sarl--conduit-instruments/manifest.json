@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--medos-international-sarl--conduit-instruments",
+  "artifact_folder": "pedicle-screw--medos-international-sarl--conduit-instruments",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2840,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--medos-international-sarl--conduit-instruments.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medos-international-sarl--conduit-instruments/enriched/pedicle-screw--medos-international-sarl--conduit-instruments.json",
+        "bytes": 1412
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K210728.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medos-international-sarl--conduit-instruments/fda_raw/MAX/K210728.json",
+        "bytes": 597
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--medos-international-sarl--conduit-instruments.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medos-international-sarl--conduit-instruments/merged/pedicle-screw--medos-international-sarl--conduit-instruments.json",
+        "bytes": 831
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

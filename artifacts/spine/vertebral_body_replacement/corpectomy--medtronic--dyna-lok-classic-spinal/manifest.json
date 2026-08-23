@@ -1,0 +1,40 @@
+{
+  "device_slug": "corpectomy--medtronic--dyna-lok-classic-spinal",
+  "artifact_folder": "corpectomy--medtronic--dyna-lok-classic-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3849,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--medtronic--dyna-lok-classic-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--dyna-lok-classic-spinal/enriched/corpectomy--medtronic--dyna-lok-classic-spinal.json",
+        "bytes": 1872
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K001532.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--dyna-lok-classic-spinal/fda_raw/KWP/K001532.json",
+        "bytes": 581
+      },
+      {
+        "source": "pipeline/data/fda_raw/KWP/K020155.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--dyna-lok-classic-spinal/fda_raw/KWP/K020155.json",
+        "bytes": 575
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--medtronic--dyna-lok-classic-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--dyna-lok-classic-spinal/merged/corpectomy--medtronic--dyna-lok-classic-spinal.json",
+        "bytes": 821
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

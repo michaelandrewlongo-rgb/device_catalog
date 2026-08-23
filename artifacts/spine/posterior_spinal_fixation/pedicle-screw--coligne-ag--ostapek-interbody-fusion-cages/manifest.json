@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--coligne-ag--ostapek-interbody-fusion-cages",
+  "artifact_folder": "pedicle-screw--coligne-ag--ostapek-interbody-fusion-cages",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2830,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--coligne-ag--ostapek-interbody-fusion-cages.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--coligne-ag--ostapek-interbody-fusion-cages/enriched/pedicle-screw--coligne-ag--ostapek-interbody-fusion-cages.json",
+        "bytes": 1417
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K181963.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--coligne-ag--ostapek-interbody-fusion-cages/fda_raw/MAX/K181963.json",
+        "bytes": 577
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--coligne-ag--ostapek-interbody-fusion-cages.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--coligne-ag--ostapek-interbody-fusion-cages/merged/pedicle-screw--coligne-ag--ostapek-interbody-fusion-cages.json",
+        "bytes": 836
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "device_slug": "csf-shunt--medtronic--stratamr-ii-valves-and-shunts",
+  "artifact_folder": "csf-shunt--medtronic--stratamr-ii-valves-and-shunts",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 591695,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/csf-shunt/parsed/fda_summaries/csf-shunt--medtronic--stratamr-ii-valves-and-shunts--510k.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medtronic--stratamr-ii-valves-and-shunts/510k/csf-shunt/parsed/fda_summaries/csf-shunt--medtronic--stratamr-ii-valves-and-shunts--510k.json",
+        "bytes": 29975
+      },
+      {
+        "source": "pipeline/data/510k/csf-shunt/pdfs/csf-shunt--medtronic--stratamr-ii-valves-and-shunts--510k.pdf",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medtronic--stratamr-ii-valves-and-shunts/510k/csf-shunt/pdfs/csf-shunt--medtronic--stratamr-ii-valves-and-shunts--510k.pdf",
+        "bytes": 548621
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--medtronic--stratamr-ii-valves-and-shunts.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medtronic--stratamr-ii-valves-and-shunts/enriched/csf-shunt--medtronic--stratamr-ii-valves-and-shunts.json",
+        "bytes": 11700
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K212641.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medtronic--stratamr-ii-valves-and-shunts/fda_raw/JXG/K212641.json",
+        "bytes": 576
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--medtronic--stratamr-ii-valves-and-shunts.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medtronic--stratamr-ii-valves-and-shunts/merged/csf-shunt--medtronic--stratamr-ii-valves-and-shunts.json",
+        "bytes": 823
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

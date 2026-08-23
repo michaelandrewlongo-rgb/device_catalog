@@ -1,0 +1,40 @@
+{
+  "device_slug": "pedicle-screw--titan-spine-llc--endoskeleton-ta-ibd-and-vbr",
+  "artifact_folder": "pedicle-screw--titan-spine-llc--endoskeleton-ta-ibd-and-vbr",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3924,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--titan-spine-llc--endoskeleton-ta-ibd-and-vbr.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--titan-spine-llc--endoskeleton-ta-ibd-and-vbr/enriched/pedicle-screw--titan-spine-llc--endoskeleton-ta-ibd-and-vbr.json",
+        "bytes": 1606
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K141953.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--titan-spine-llc--endoskeleton-ta-ibd-and-vbr/fda_raw/MAX/K141953.json",
+        "bytes": 612
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K142589.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--titan-spine-llc--endoskeleton-ta-ibd-and-vbr/fda_raw/MAX/K142589.json",
+        "bytes": 681
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--titan-spine-llc--endoskeleton-ta-ibd-and-vbr.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--titan-spine-llc--endoskeleton-ta-ibd-and-vbr/merged/pedicle-screw--titan-spine-llc--endoskeleton-ta-ibd-and-vbr.json",
+        "bytes": 1025
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

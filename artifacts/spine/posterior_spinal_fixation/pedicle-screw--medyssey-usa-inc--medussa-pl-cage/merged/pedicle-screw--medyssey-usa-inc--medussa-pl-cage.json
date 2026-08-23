@@ -1,0 +1,28 @@
+{
+  "device_name": "Medussa-PL Cage",
+  "manufacturer": "medyssey-usa-inc",
+  "catalog_category": "pedicle-screw",
+  "filename_stem": "pedicle-screw--medyssey-usa-inc--medussa-pl-cage",
+  "clearance_type": "510k",
+  "clearance_number": "K200283",
+  "clearance_date": "2020-06-18",
+  "device_class": 2,
+  "device_name_fda": "Medussa-PL Cage",
+  "product_code": "MAX",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K200283.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

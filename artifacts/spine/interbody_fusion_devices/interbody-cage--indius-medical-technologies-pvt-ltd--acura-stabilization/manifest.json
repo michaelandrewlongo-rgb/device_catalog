@@ -1,0 +1,42 @@
+{
+  "device_slug": "interbody-cage--indius-medical-technologies-pvt-ltd--acura-stabilization",
+  "artifact_folder": "interbody-cage--indius-medical-technologies-pvt-ltd--acura-stabilization",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 4005,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--indius-medical-technologies-pvt-ltd--acura-stabilization.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--indius-medical-technologies-pvt-ltd--acura-stabilization/enriched/interbody-cage--indius-medical-technologies-pvt-ltd--acura-stabilization.json",
+        "bytes": 1799
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--indius-medical-technologies-pvt-ltd--acura-stabilization.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--indius-medical-technologies-pvt-ltd--acura-stabilization/extracted/fda_structured/interbody-cage--indius-medical-technologies-pvt-ltd--acura-stabilization.json",
+        "bytes": 694
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K200937.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--indius-medical-technologies-pvt-ltd--acura-stabilization/fda_raw/NKB/K200937.json",
+        "bytes": 643
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--indius-medical-technologies-pvt-ltd--acura-stabilization.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--indius-medical-technologies-pvt-ltd--acura-stabilization/merged/interbody-cage--indius-medical-technologies-pvt-ltd--acura-stabilization.json",
+        "bytes": 869
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

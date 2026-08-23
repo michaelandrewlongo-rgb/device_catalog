@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--depuyacromed--modification-to-stackable-cage",
+  "artifact_folder": "cervical-plate--depuyacromed--modification-to-stackable-cage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2890,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--depuyacromed--modification-to-stackable-cage.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuyacromed--modification-to-stackable-cage/enriched/cervical-plate--depuyacromed--modification-to-stackable-cage.json",
+        "bytes": 1439
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K013382.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuyacromed--modification-to-stackable-cage/fda_raw/MQP/K013382.json",
+        "bytes": 593
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--depuyacromed--modification-to-stackable-cage.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--depuyacromed--modification-to-stackable-cage/merged/cervical-plate--depuyacromed--modification-to-stackable-cage.json",
+        "bytes": 858
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

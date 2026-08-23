@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--signus-medizintechnik-gmbh--mobis-ii",
+  "artifact_folder": "pedicle-screw--signus-medizintechnik-gmbh--mobis-ii",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2766,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--signus-medizintechnik-gmbh--mobis-ii.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--signus-medizintechnik-gmbh--mobis-ii/enriched/pedicle-screw--signus-medizintechnik-gmbh--mobis-ii.json",
+        "bytes": 1383
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K131372.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--signus-medizintechnik-gmbh--mobis-ii/fda_raw/MAX/K131372.json",
+        "bytes": 581
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--signus-medizintechnik-gmbh--mobis-ii.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--signus-medizintechnik-gmbh--mobis-ii/merged/pedicle-screw--signus-medizintechnik-gmbh--mobis-ii.json",
+        "bytes": 802
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

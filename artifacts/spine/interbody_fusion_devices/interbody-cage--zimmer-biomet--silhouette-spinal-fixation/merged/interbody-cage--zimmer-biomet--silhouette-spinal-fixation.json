@@ -1,0 +1,28 @@
+{
+  "device_name": "SILHOUETTE SPINAL FIXATION SYSTEM",
+  "manufacturer": "zimmer-biomet",
+  "catalog_category": "interbody-cage",
+  "filename_stem": "interbody-cage--zimmer-biomet--silhouette-spinal-fixation",
+  "clearance_type": "510k",
+  "clearance_number": "K042702",
+  "clearance_date": "2004-11-23",
+  "device_class": 2,
+  "device_name_fda": "SILHOUETTE SPINAL FIXATION SYSTEM",
+  "product_code": "NKB",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf04/K042702.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

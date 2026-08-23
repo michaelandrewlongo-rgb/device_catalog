@@ -1,0 +1,40 @@
+{
+  "device_slug": "pedicle-screw--integrity-implants-inc--toro-l-interbody-fusion",
+  "artifact_folder": "pedicle-screw--integrity-implants-inc--toro-l-interbody-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3828,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--integrity-implants-inc--toro-l-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--integrity-implants-inc--toro-l-interbody-fusion/enriched/pedicle-screw--integrity-implants-inc--toro-l-interbody-fusion.json",
+        "bytes": 1759
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K203038.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--integrity-implants-inc--toro-l-interbody-fusion/fda_raw/MAX/K203038.json",
+        "bytes": 608
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K213355.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--integrity-implants-inc--toro-l-interbody-fusion/fda_raw/MAX/K213355.json",
+        "bytes": 608
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--integrity-implants-inc--toro-l-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--integrity-implants-inc--toro-l-interbody-fusion/merged/pedicle-screw--integrity-implants-inc--toro-l-interbody-fusion.json",
+        "bytes": 853
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

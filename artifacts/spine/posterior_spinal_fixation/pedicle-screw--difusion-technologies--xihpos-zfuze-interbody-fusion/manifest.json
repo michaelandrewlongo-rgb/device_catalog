@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--difusion-technologies--xihpos-zfuze-interbody-fusion",
+  "artifact_folder": "pedicle-screw--difusion-technologies--xihpos-zfuze-interbody-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2970,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--difusion-technologies--xihpos-zfuze-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--difusion-technologies--xihpos-zfuze-interbody-fusion/enriched/pedicle-screw--difusion-technologies--xihpos-zfuze-interbody-fusion.json",
+        "bytes": 1458
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K190544.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--difusion-technologies--xihpos-zfuze-interbody-fusion/fda_raw/MAX/K190544.json",
+        "bytes": 619
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--difusion-technologies--xihpos-zfuze-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--difusion-technologies--xihpos-zfuze-interbody-fusion/merged/pedicle-screw--difusion-technologies--xihpos-zfuze-interbody-fusion.json",
+        "bytes": 893
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "device_slug": "interbody-cage--g-surgical-llc--g-surgical-marksman-mis",
+  "artifact_folder": "interbody-cage--g-surgical-llc--g-surgical-marksman-mis",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3429,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--g-surgical-llc--g-surgical-marksman-mis.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--g-surgical-llc--g-surgical-marksman-mis/enriched/interbody-cage--g-surgical-llc--g-surgical-marksman-mis.json",
+        "bytes": 1420
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K161516.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--g-surgical-llc--g-surgical-marksman-mis/fda_raw/NKB/K161516.json",
+        "bytes": 585
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K240737.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--g-surgical-llc--g-surgical-marksman-mis/fda_raw/NKB/K240737.json",
+        "bytes": 585
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--g-surgical-llc--g-surgical-marksman-mis.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--g-surgical-llc--g-surgical-marksman-mis/merged/interbody-cage--g-surgical-llc--g-surgical-marksman-mis.json",
+        "bytes": 839
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

@@ -11,12 +11,19 @@
   "product_code": "NRY",
   "what_it_is": null,
   "sizing_specs": null,
-  "indications": null,
+  "indications": "Indications for Use\nSee PRA Statement below.\n510(k) Number (if known)\nK173452\nDevice Name\nEmboTrap® II Revascularization Device\nIndications for Use (Describe)\nThe EmboTrap® II Revascularization Device is intended to restore blood flow in the neurovasculature by removing\nthrombus in patients experiencing ischemic stroke within 8 hours of symptom onset. Patients who are ineligible for\nintravenous tissue plasminogen activator (IV t-PA) or who fail IV t-PA therapy are candidates for treatment.\nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)\nCONTINUE ON A SEPARATE PAGE IF NEEDED.\nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the\ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any other aspect\nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of\ninformation unless it displays a currently valid OMB number.”\nFORM FDA 3881 (7/17) Page 1 of 1\nPSC Publishing Services (301) 443-6740 EF\n\n510(k) Summary - K173452\nI. SUBMITTER:\n510(k) Owner: Neuravi Ltd.\nBlock 3, Ballybrit Business Park, Galway H91 K5YD, Ireland\nContact Person: Mairsíl Claffey\nVP Clinical, Quality and Regulatory Affairs\nTel.: +353-91-394121\nFax: +353-91-394025\nE-mail: mclaffey@neuravi.com\nDate Prepared: May 09, 2018\nII. DEVICE\nTrade Name of Device: EmboTrap® II Revascularization Device\nCommon Name of Device: Catheter, Thrombus Retriever\nClassification Name: 21 CFR 870.1250 – Class II\nProduct Code: NRY\nIII. PREDICATE DEVICE(S)\nTrevo ProVue Retriever (K122478)\nSolitaire™ FR Revascularization Device (K113455)\nIV. DEVICE DESCRIPTION\nThe EmboTrap® II Revascularization Device is composed of a retrievable, self-expanding, Nitinol\nshaped section at the distal end of a tapered Nitinol shaft. It is designed to restore blood flow in\nthe neurovasculature by removing thrombus in patients experiencing ischemic stroke. The\nEmboTrap® II Revascularization Device is supplied sterile, and is intended for single-use only by\nphysicians trained in neuro-interventional catheterization and the treatment of ischemic stroke.\nIt is indicated for patients who are ineligible for intravenous tissue plasminogen activator (IV t-\nPA) or who fail IV t-PA therapy.\nPage 1 of 12\n\nV. INDICATIONS FOR USE\nThe EmboTrap® II Revascularization Device is intended to restore blood flow in the\nneurovasculature by removing thrombus in patients experiencing ischemic stroke within 8 hours\nof symptom onset. Patients who are ineligible for intravenous tissue plasminogen activator (IV t-\nPA) or who fail IV t-PA therapy are candidates for treatment.\nVI. COMPARISON OF TECHNOLOGICAL CHARACTERISTICS WITH THE PREDICATE DEVICE\nA summary of the technological characteristics of the EmboTrap® II Revascularization Device in\ncomparison to those of the predicate device is presented below.",
   "contraindications": null,
   "compatible_with": null,
   "use_notes": null,
   "deployment_steps": null,
-  "also_known_as": [],
+  "also_known_as": [
+    "K122478",
+    "K113455",
+    "K173452",
+    "K122478",
+    "K113455",
+    "K173452"
+  ],
   "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf17/K173452.pdf",
   "ifu_pdf_url": null,
   "source_url": "",
@@ -35,8 +42,8 @@
       "confidence": 0
     },
     "indications": {
-      "source": "none",
-      "confidence": 0
+      "source": "fda_summary",
+      "confidence": 0.95
     },
     "contraindications": {
       "source": "none",
@@ -51,8 +58,8 @@
       "confidence": 0
     },
     "also_known_as": {
-      "source": "none",
-      "confidence": 0
+      "source": "fda_summary",
+      "confidence": 0.3
     }
   }
 }

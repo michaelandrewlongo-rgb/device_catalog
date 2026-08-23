@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--globus--sable-expandable-posterior-lumbar-interbody-spacer",
+  "artifact_folder": "interbody-cage--globus--sable-expandable-posterior-lumbar-interbody-spacer",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 4001,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--globus--sable-expandable-posterior-lumbar-interbody-spacer.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--globus--sable-expandable-posterior-lumbar-interbody-spacer/enriched/interbody-cage--globus--sable-expandable-posterior-lumbar-interbody-spacer.json",
+        "bytes": 2445
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--globus--sable-expandable-posterior-lumbar-interbody-spacer.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--globus--sable-expandable-posterior-lumbar-interbody-spacer/merged/interbody-cage--globus--sable-expandable-posterior-lumbar-interbody-spacer.json",
+        "bytes": 1042
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/globus/sable-expandable-posterior-lumbar-interbody-spacer.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--globus--sable-expandable-posterior-lumbar-interbody-spacer/scraper_raw/globus/sable-expandable-posterior-lumbar-interbody-spacer.json",
+        "bytes": 514
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

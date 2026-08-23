@@ -1,0 +1,15 @@
+{
+  "device_name": "Reline Open Fixation System",
+  "manufacturer": "globus",
+  "category_hint": "pedicle-screw",
+  "source_url": "https://www.globusmedical.com/healthcare-professionals/spine/procedures/deformity/",
+  "what_it_is": "Comprehensive fixation system from occiput to pelvis. Open, MIS (MAS), and hybrid approaches in single platform. Variants: Reline MAS (minimally invasive), Reline Open, Reline 3D (deformity with VBD derotation), Reline Fenestrated (cement for tumors), Reline Traction (optimized insertional torque), Reline ASF (revision/extension), Reline Cervical.",
+  "sizing_specs": "Multiple rod diameters and materials.",
+  "indications": "Posterior spinal fixation occiput to pelvis. Degenerative, deformity, tumor, trauma, revision.",
+  "compatible_with": "Reline Dual-Headed Modular Connector. ExcelsiusGPS.",
+  "also_known_as": [
+    "Reline",
+    "Reline MAS",
+    "Reline 3D"
+  ]
+}

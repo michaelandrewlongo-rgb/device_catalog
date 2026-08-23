@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--stryker--aleutian-spacer-model-k2-07",
+  "artifact_folder": "cervical-plate--stryker--aleutian-spacer-model-k2-07",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2913,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--stryker--aleutian-spacer-model-k2-07.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--stryker--aleutian-spacer-model-k2-07/enriched/cervical-plate--stryker--aleutian-spacer-model-k2-07.json",
+        "bytes": 1452
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K080024.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--stryker--aleutian-spacer-model-k2-07/fda_raw/MQP/K080024.json",
+        "bytes": 590
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--stryker--aleutian-spacer-model-k2-07.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--stryker--aleutian-spacer-model-k2-07/merged/cervical-plate--stryker--aleutian-spacer-model-k2-07.json",
+        "bytes": 871
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

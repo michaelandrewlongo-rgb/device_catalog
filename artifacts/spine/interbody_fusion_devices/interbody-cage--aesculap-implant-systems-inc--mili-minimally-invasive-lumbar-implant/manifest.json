@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--aesculap-implant-systems-inc--mili-minimally-invasive-lumbar-implant",
+  "artifact_folder": "interbody-cage--aesculap-implant-systems-inc--mili-minimally-invasive-lumbar-implant",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3073,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--aesculap-implant-systems-inc--mili-minimally-invasive-lumbar-implant.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--aesculap-implant-systems-inc--mili-minimally-invasive-lumbar-implant/enriched/interbody-cage--aesculap-implant-systems-inc--mili-minimally-invasive-lumbar-implant.json",
+        "bytes": 1497
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K083004.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--aesculap-implant-systems-inc--mili-minimally-invasive-lumbar-implant/fda_raw/NKB/K083004.json",
+        "bytes": 660
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--aesculap-implant-systems-inc--mili-minimally-invasive-lumbar-implant.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--aesculap-implant-systems-inc--mili-minimally-invasive-lumbar-implant/merged/interbody-cage--aesculap-implant-systems-inc--mili-minimally-invasive-lumbar-implant.json",
+        "bytes": 916
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

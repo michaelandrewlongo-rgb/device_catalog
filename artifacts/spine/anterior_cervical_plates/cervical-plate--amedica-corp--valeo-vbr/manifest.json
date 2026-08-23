@@ -1,0 +1,42 @@
+{
+  "device_slug": "cervical-plate--amedica-corp--valeo-vbr",
+  "artifact_folder": "cervical-plate--amedica-corp--valeo-vbr",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3431,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--amedica-corp--valeo-vbr.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--amedica-corp--valeo-vbr/enriched/cervical-plate--amedica-corp--valeo-vbr.json",
+        "bytes": 1592
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/cervical-plate--amedica-corp--valeo-vbr.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--amedica-corp--valeo-vbr/extracted/fda_structured/cervical-plate--amedica-corp--valeo-vbr.json",
+        "bytes": 516
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K073125.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--amedica-corp--valeo-vbr/fda_raw/MQP/K073125.json",
+        "bytes": 544
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--amedica-corp--valeo-vbr.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--amedica-corp--valeo-vbr/merged/cervical-plate--amedica-corp--valeo-vbr.json",
+        "bytes": 779
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K112156",
+  "clearance_date": "2011-10-17",
+  "device_class": 2,
+  "manufacturer_canonical": "medos-international-sarl",
+  "manufacturer_raw": "Medos International SARL",
+  "catalog_category": "csf-shunt",
+  "device_name_fda": "CODMAN CERTAS PROGRAMMABLE VALVE SYSTEM, CODMAN CERTAS THERAPY MANAGEMENT SYSTEM",
+  "product_code": "JXG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "csf-shunt--medos-international-sarl--codman-certas-programmable-valve-codman",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf11/K112156.pdf"
+}

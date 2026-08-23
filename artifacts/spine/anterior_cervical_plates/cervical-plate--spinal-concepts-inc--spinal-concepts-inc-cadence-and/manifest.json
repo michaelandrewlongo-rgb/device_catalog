@@ -1,0 +1,40 @@
+{
+  "device_slug": "cervical-plate--spinal-concepts-inc--spinal-concepts-inc-cadence-and",
+  "artifact_folder": "cervical-plate--spinal-concepts-inc--spinal-concepts-inc-cadence-and",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3753,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--spinal-concepts-inc--spinal-concepts-inc-cadence-and.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--spinal-concepts-inc--spinal-concepts-inc-cadence-and/enriched/cervical-plate--spinal-concepts-inc--spinal-concepts-inc-cadence-and.json",
+        "bytes": 1630
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K031914.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--spinal-concepts-inc--spinal-concepts-inc-cadence-and/fda_raw/MQP/K031914.json",
+        "bytes": 622
+      },
+      {
+        "source": "pipeline/data/fda_raw/MQP/K033517.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--spinal-concepts-inc--spinal-concepts-inc-cadence-and/fda_raw/MQP/K033517.json",
+        "bytes": 618
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--spinal-concepts-inc--spinal-concepts-inc-cadence-and.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--spinal-concepts-inc--spinal-concepts-inc-cadence-and/merged/cervical-plate--spinal-concepts-inc--spinal-concepts-inc-cadence-and.json",
+        "bytes": 883
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

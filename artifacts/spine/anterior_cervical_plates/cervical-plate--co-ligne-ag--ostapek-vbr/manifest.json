@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--co-ligne-ag--ostapek-vbr",
+  "artifact_folder": "cervical-plate--co-ligne-ag--ostapek-vbr",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2726,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--co-ligne-ag--ostapek-vbr.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--co-ligne-ag--ostapek-vbr/enriched/cervical-plate--co-ligne-ag--ostapek-vbr.json",
+        "bytes": 1378
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K072326.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--co-ligne-ag--ostapek-vbr/fda_raw/MQP/K072326.json",
+        "bytes": 551
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--co-ligne-ag--ostapek-vbr.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--co-ligne-ag--ostapek-vbr/merged/cervical-plate--co-ligne-ag--ostapek-vbr.json",
+        "bytes": 797
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

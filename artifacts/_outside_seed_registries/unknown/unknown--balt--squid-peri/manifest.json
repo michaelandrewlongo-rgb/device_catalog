@@ -1,0 +1,35 @@
+{
+  "device_slug": "unknown--balt--squid-peri",
+  "artifact_folder": "unknown--balt--squid-peri",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 4505,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/unknown--balt--squid-peri.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--balt--squid-peri/enriched/unknown--balt--squid-peri.json",
+        "bytes": 1982
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/unknown--balt--squid-peri.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--balt--squid-peri/merged/unknown--balt--squid-peri.json",
+        "bytes": 1400
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/balt/squid-peri.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--balt--squid-peri/scraper_raw/balt/squid-peri.json",
+        "bytes": 1123
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "unknown",
+    "label": "Outside listed seed registries"
+  }
+}

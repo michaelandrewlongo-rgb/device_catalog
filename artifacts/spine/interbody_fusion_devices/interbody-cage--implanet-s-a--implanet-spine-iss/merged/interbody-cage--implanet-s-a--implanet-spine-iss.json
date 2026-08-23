@@ -1,0 +1,28 @@
+{
+  "device_name": "IMPLANET Spine System (ISS)",
+  "manufacturer": "implanet-s-a",
+  "catalog_category": "interbody-cage",
+  "filename_stem": "interbody-cage--implanet-s-a--implanet-spine-iss",
+  "clearance_type": "510k",
+  "clearance_number": "K143731",
+  "clearance_date": "2015-04-14",
+  "device_class": 2,
+  "device_name_fda": "IMPLANET Spine System (ISS)",
+  "product_code": "NKB",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf14/K143731.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--spinal-concepts-inc--spinal-concepts-inc-bacfix-ti",
+  "artifact_folder": "interbody-cage--spinal-concepts-inc--spinal-concepts-inc-bacfix-ti",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2973,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--spinal-concepts-inc--spinal-concepts-inc-bacfix-ti.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spinal-concepts-inc--spinal-concepts-inc-bacfix-ti/enriched/interbody-cage--spinal-concepts-inc--spinal-concepts-inc-bacfix-ti.json",
+        "bytes": 1466
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K030087.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spinal-concepts-inc--spinal-concepts-inc-bacfix-ti/fda_raw/NKB/K030087.json",
+        "bytes": 622
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--spinal-concepts-inc--spinal-concepts-inc-bacfix-ti.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spinal-concepts-inc--spinal-concepts-inc-bacfix-ti/merged/interbody-cage--spinal-concepts-inc--spinal-concepts-inc-bacfix-ti.json",
+        "bytes": 885
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

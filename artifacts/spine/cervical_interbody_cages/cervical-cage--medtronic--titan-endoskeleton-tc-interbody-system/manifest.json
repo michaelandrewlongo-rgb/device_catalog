@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-cage--medtronic--titan-endoskeleton-tc-interbody-system",
+  "artifact_folder": "cervical-cage--medtronic--titan-endoskeleton-tc-interbody-system",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3084,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-cage--medtronic--titan-endoskeleton-tc-interbody-system.json",
+        "artifact": "artifacts/spine/cervical_interbody_cages/cervical-cage--medtronic--titan-endoskeleton-tc-interbody-system/enriched/cervical-cage--medtronic--titan-endoskeleton-tc-interbody-system.json",
+        "bytes": 1592
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-cage--medtronic--titan-endoskeleton-tc-interbody-system.json",
+        "artifact": "artifacts/spine/cervical_interbody_cages/cervical-cage--medtronic--titan-endoskeleton-tc-interbody-system/merged/cervical-cage--medtronic--titan-endoskeleton-tc-interbody-system.json",
+        "bytes": 991
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/medtronic/titan-endoskeleton-tc-interbody-system.json",
+        "artifact": "artifacts/spine/cervical_interbody_cages/cervical-cage--medtronic--titan-endoskeleton-tc-interbody-system/scraper_raw/medtronic/titan-endoskeleton-tc-interbody-system.json",
+        "bytes": 501
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "cervical_interbody_cages",
+    "label": "ACDF/ACCF Cages"
+  }
+}

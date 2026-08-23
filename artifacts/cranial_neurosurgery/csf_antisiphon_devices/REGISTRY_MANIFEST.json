@@ -1,0 +1,63 @@
+{
+  "domain": "cranial_neurosurgery",
+  "registry": "csf_antisiphon_devices",
+  "label": "Antisiphon Accessories",
+  "path": "artifacts/cranial_neurosurgery/csf_antisiphon_devices",
+  "devices": [
+    {
+      "slug": "csf-shunt--johnson-johnson-professionals-inc--siphonguard-csf-control",
+      "artifact_folder": "csf-shunt--johnson-johnson-professionals-inc--siphonguard-csf-control",
+      "path": "artifacts/cranial_neurosurgery/csf_antisiphon_devices/csf-shunt--johnson-johnson-professionals-inc--siphonguard-csf-control",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--miethke--shuntassistant-2-0",
+      "artifact_folder": "csf-shunt--miethke--shuntassistant-2-0",
+      "path": "artifacts/cranial_neurosurgery/csf_antisiphon_devices/csf-shunt--miethke--shuntassistant-2-0",
+      "file_count": 3,
+      "source_counts": {
+        "data_by_device": 2,
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--pudenz-schulte-medical-research-corp--p-s-medical-csf-siphon",
+      "artifact_folder": "csf-shunt--pudenz-schulte-medical-research-corp--p-s-medical-csf-siphon",
+      "path": "artifacts/cranial_neurosurgery/csf_antisiphon_devices/csf-shunt--pudenz-schulte-medical-research-corp--p-s-medical-csf-siphon",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--radionics-inc--radionics-siphon-limiting-sld",
+      "artifact_folder": "csf-shunt--radionics-inc--radionics-siphon-limiting-sld",
+      "path": "artifacts/cranial_neurosurgery/csf_antisiphon_devices/csf-shunt--radionics-inc--radionics-siphon-limiting-sld",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "csf-shunt--sophysa-sa--siphonx-gravitational-antisiphon",
+      "artifact_folder": "csf-shunt--sophysa-sa--siphonx-gravitational-antisiphon",
+      "path": "artifacts/cranial_neurosurgery/csf_antisiphon_devices/csf-shunt--sophysa-sa--siphonx-gravitational-antisiphon",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    }
+  ],
+  "device_count": 5
+}

@@ -1,0 +1,42 @@
+{
+  "device_slug": "cervical-plate--signus-medizintechnik-gmbh--kimba-mini",
+  "artifact_folder": "cervical-plate--signus-medizintechnik-gmbh--kimba-mini",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 6251,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--signus-medizintechnik-gmbh--kimba-mini.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--signus-medizintechnik-gmbh--kimba-mini/enriched/cervical-plate--signus-medizintechnik-gmbh--kimba-mini.json",
+        "bytes": 2958
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/cervical-plate--signus-medizintechnik-gmbh--kimba-mini.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--signus-medizintechnik-gmbh--kimba-mini/extracted/fda_structured/cervical-plate--signus-medizintechnik-gmbh--kimba-mini.json",
+        "bytes": 1896
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K080349.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--signus-medizintechnik-gmbh--kimba-mini/fda_raw/MQP/K080349.json",
+        "bytes": 587
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--signus-medizintechnik-gmbh--kimba-mini.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--signus-medizintechnik-gmbh--kimba-mini/merged/cervical-plate--signus-medizintechnik-gmbh--kimba-mini.json",
+        "bytes": 810
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

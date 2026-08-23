@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--paradigm-spine-gmbh--fortilink-cages-with-tiplus-technology",
+  "artifact_folder": "pedicle-screw--paradigm-spine-gmbh--fortilink-cages-with-tiplus-technology",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2957,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--paradigm-spine-gmbh--fortilink-cages-with-tiplus-technology.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--paradigm-spine-gmbh--fortilink-cages-with-tiplus-technology/enriched/pedicle-screw--paradigm-spine-gmbh--fortilink-cages-with-tiplus-technology.json",
+        "bytes": 1459
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K201453.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--paradigm-spine-gmbh--fortilink-cages-with-tiplus-technology/fda_raw/MAX/K201453.json",
+        "bytes": 620
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--paradigm-spine-gmbh--fortilink-cages-with-tiplus-technology.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--paradigm-spine-gmbh--fortilink-cages-with-tiplus-technology/merged/pedicle-screw--paradigm-spine-gmbh--fortilink-cages-with-tiplus-technology.json",
+        "bytes": 878
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

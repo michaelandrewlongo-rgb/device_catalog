@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--expanding-innovations-inc--x-pac-r-llif-expandable",
+  "artifact_folder": "pedicle-screw--expanding-innovations-inc--x-pac-r-llif-expandable",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2989,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--expanding-innovations-inc--x-pac-r-llif-expandable.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--expanding-innovations-inc--x-pac-r-llif-expandable/enriched/pedicle-screw--expanding-innovations-inc--x-pac-r-llif-expandable.json",
+        "bytes": 1466
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K251003.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--expanding-innovations-inc--x-pac-r-llif-expandable/fda_raw/MAX/K251003.json",
+        "bytes": 630
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--expanding-innovations-inc--x-pac-r-llif-expandable.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--expanding-innovations-inc--x-pac-r-llif-expandable/merged/pedicle-screw--expanding-innovations-inc--x-pac-r-llif-expandable.json",
+        "bytes": 893
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

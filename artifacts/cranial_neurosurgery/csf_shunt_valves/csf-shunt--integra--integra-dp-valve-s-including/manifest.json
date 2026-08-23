@@ -1,0 +1,21 @@
+{
+  "device_slug": "csf-shunt--integra--integra-dp-valve-s-including",
+  "artifact_folder": "csf-shunt--integra--integra-dp-valve-s-including",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 671,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K152897.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--integra-dp-valve-s-including/fda_raw/JXG/K152897.json",
+        "bytes": 671
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

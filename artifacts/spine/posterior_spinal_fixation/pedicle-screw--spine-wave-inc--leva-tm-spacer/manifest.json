@@ -1,0 +1,40 @@
+{
+  "device_slug": "pedicle-screw--spine-wave-inc--leva-tm-spacer",
+  "artifact_folder": "pedicle-screw--spine-wave-inc--leva-tm-spacer",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3344,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--spine-wave-inc--leva-tm-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spine-wave-inc--leva-tm-spacer/enriched/pedicle-screw--spine-wave-inc--leva-tm-spacer.json",
+        "bytes": 1395
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K141980.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spine-wave-inc--leva-tm-spacer/fda_raw/MAX/K141980.json",
+        "bytes": 568
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K150285.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spine-wave-inc--leva-tm-spacer/fda_raw/MAX/K150285.json",
+        "bytes": 567
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--spine-wave-inc--leva-tm-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spine-wave-inc--leva-tm-spacer/merged/pedicle-screw--spine-wave-inc--leva-tm-spacer.json",
+        "bytes": 814
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

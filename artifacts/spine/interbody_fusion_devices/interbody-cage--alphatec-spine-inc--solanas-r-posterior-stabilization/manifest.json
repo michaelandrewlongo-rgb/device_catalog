@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--alphatec-spine-inc--solanas-r-posterior-stabilization",
+  "artifact_folder": "interbody-cage--alphatec-spine-inc--solanas-r-posterior-stabilization",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3443,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--alphatec-spine-inc--solanas-r-posterior-stabilization.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--alphatec-spine-inc--solanas-r-posterior-stabilization/enriched/interbody-cage--alphatec-spine-inc--solanas-r-posterior-stabilization.json",
+        "bytes": 1940
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K173522.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--alphatec-spine-inc--solanas-r-posterior-stabilization/fda_raw/NKB/K173522.json",
+        "bytes": 618
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--alphatec-spine-inc--solanas-r-posterior-stabilization.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--alphatec-spine-inc--solanas-r-posterior-stabilization/merged/interbody-cage--alphatec-spine-inc--solanas-r-posterior-stabilization.json",
+        "bytes": 885
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

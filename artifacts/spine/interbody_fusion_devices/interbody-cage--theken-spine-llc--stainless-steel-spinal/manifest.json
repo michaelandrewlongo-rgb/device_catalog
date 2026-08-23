@@ -1,0 +1,40 @@
+{
+  "device_slug": "interbody-cage--theken-spine-llc--stainless-steel-spinal",
+  "artifact_folder": "interbody-cage--theken-spine-llc--stainless-steel-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3439,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--theken-spine-llc--stainless-steel-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--theken-spine-llc--stainless-steel-spinal/enriched/interbody-cage--theken-spine-llc--stainless-steel-spinal.json",
+        "bytes": 1421
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K100970.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--theken-spine-llc--stainless-steel-spinal/fda_raw/NKB/K100970.json",
+        "bytes": 589
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K120829.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--theken-spine-llc--stainless-steel-spinal/fda_raw/NKB/K120829.json",
+        "bytes": 589
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--theken-spine-llc--stainless-steel-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--theken-spine-llc--stainless-steel-spinal/merged/interbody-cage--theken-spine-llc--stainless-steel-spinal.json",
+        "bytes": 840
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

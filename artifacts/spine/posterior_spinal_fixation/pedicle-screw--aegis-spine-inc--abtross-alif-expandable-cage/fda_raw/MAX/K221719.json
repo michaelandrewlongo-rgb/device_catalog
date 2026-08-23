@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K221719",
+  "clearance_date": "2022-11-03",
+  "device_class": 2,
+  "manufacturer_canonical": "aegis-spine-inc",
+  "manufacturer_raw": "Aegis Spine, Inc.",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "ABTross ALIF Expandable Cage System",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--aegis-spine-inc--abtross-alif-expandable-cage",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K221719.pdf"
+}

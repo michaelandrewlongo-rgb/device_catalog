@@ -1,0 +1,42 @@
+{
+  "device_slug": "interbody-cage--globus--creo-stabilization",
+  "artifact_folder": "interbody-cage--globus--creo-stabilization",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 6592,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/interbody-cage--globus--creo-stabilization--knowledge.md",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--globus--creo-stabilization/data_by_device/interbody-cage--globus--creo-stabilization--knowledge.md",
+        "bytes": 2078
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--globus--creo-stabilization.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--globus--creo-stabilization/enriched/interbody-cage--globus--creo-stabilization.json",
+        "bytes": 2278
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K143633.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--globus--creo-stabilization/fda_raw/NKB/K143633.json",
+        "bytes": 564
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--globus--creo-stabilization.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--globus--creo-stabilization/merged/interbody-cage--globus--creo-stabilization.json",
+        "bytes": 1672
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

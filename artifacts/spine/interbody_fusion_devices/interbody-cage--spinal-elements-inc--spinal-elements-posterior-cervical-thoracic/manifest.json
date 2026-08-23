@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--spinal-elements-inc--spinal-elements-posterior-cervical-thoracic",
+  "artifact_folder": "interbody-cage--spinal-elements-inc--spinal-elements-posterior-cervical-thoracic",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3402,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--spinal-elements-inc--spinal-elements-posterior-cervical-thoracic.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spinal-elements-inc--spinal-elements-posterior-cervical-thoracic/enriched/interbody-cage--spinal-elements-inc--spinal-elements-posterior-cervical-thoracic.json",
+        "bytes": 1831
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K120467.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spinal-elements-inc--spinal-elements-posterior-cervical-thoracic/fda_raw/NKB/K120467.json",
+        "bytes": 648
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--spinal-elements-inc--spinal-elements-posterior-cervical-thoracic.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spinal-elements-inc--spinal-elements-posterior-cervical-thoracic/merged/interbody-cage--spinal-elements-inc--spinal-elements-posterior-cervical-thoracic.json",
+        "bytes": 923
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "device_name": "NMT NEUROSCIENCES CONTROL UNIT, MODEL 910-600 & NMT NEUROSCIENCES DISPOSABLE DRAINAGE LINE KIT, MODEL 910-6XX",
+  "manufacturer": "nmt-neurosciences-implants-s-a",
+  "catalog_category": "csf-shunt",
+  "filename_stem": "csf-shunt--nmt-neurosciences-implants-s-a--nmt-neurosciences-control-unit-model",
+  "clearance_type": "510k",
+  "clearance_number": "K990660",
+  "clearance_date": "1999-09-23",
+  "device_class": 2,
+  "device_name_fda": "NMT NEUROSCIENCES CONTROL UNIT, MODEL 910-600 & NMT NEUROSCIENCES DISPOSABLE DRAINAGE LINE KIT, MODEL 910-6XX",
+  "product_code": "JXG",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf99/K990660.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

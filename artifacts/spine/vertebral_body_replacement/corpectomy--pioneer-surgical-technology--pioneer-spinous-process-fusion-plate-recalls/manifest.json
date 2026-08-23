@@ -1,0 +1,21 @@
+{
+  "device_slug": "corpectomy--pioneer-surgical-technology--pioneer-spinous-process-fusion-plate-recalls",
+  "artifact_folder": "corpectomy--pioneer-surgical-technology--pioneer-spinous-process-fusion-plate-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 2671,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/corpectomy--pioneer-surgical-technology--pioneer-spinous-process-fusion-plate-recalls.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--pioneer-surgical-technology--pioneer-spinous-process-fusion-plate-recalls/extracted/fda_safety/corpectomy--pioneer-surgical-technology--pioneer-spinous-process-fusion-plate-recalls.json",
+        "bytes": 2671
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

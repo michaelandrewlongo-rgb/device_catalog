@@ -1,0 +1,47 @@
+{
+  "device_slug": "interbody-cage--spineology-inc--fortress-pedicular-fixation",
+  "artifact_folder": "interbody-cage--spineology-inc--fortress-pedicular-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 4264,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--spineology-inc--fortress-pedicular-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spineology-inc--fortress-pedicular-fixation/enriched/interbody-cage--spineology-inc--fortress-pedicular-fixation.json",
+        "bytes": 1651
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--spineology-inc--fortress-pedicular-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spineology-inc--fortress-pedicular-fixation/extracted/fda_structured/interbody-cage--spineology-inc--fortress-pedicular-fixation.json",
+        "bytes": 572
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K152148.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spineology-inc--fortress-pedicular-fixation/fda_raw/NKB/K152148.json",
+        "bytes": 594
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K170268.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spineology-inc--fortress-pedicular-fixation/fda_raw/NKB/K170268.json",
+        "bytes": 596
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--spineology-inc--fortress-pedicular-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spineology-inc--fortress-pedicular-fixation/merged/interbody-cage--spineology-inc--fortress-pedicular-fixation.json",
+        "bytes": 851
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

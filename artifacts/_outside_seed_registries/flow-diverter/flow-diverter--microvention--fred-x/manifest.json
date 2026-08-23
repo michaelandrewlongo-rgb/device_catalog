@@ -1,0 +1,28 @@
+{
+  "device_slug": "flow-diverter--microvention--fred-x",
+  "artifact_folder": "flow-diverter--microvention--fred-x",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 2,
+  "bytes": 4194,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/flow-diverter--microvention--fred-x--knowledge.md",
+        "artifact": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--microvention--fred-x/data_by_device/flow-diverter--microvention--fred-x--knowledge.md",
+        "bytes": 3735
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/microvention/fredtm-x.json",
+        "artifact": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--microvention--fred-x/scraper_raw/microvention/fredtm-x.json",
+        "bytes": 459
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "flow-diverter",
+    "label": "Flow diverters noted as separate exemplar"
+  }
+}

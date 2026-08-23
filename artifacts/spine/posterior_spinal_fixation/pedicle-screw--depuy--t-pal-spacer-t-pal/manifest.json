@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--depuy--t-pal-spacer-t-pal",
+  "artifact_folder": "pedicle-screw--depuy--t-pal-spacer-t-pal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3294,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--depuy--t-pal-spacer-t-pal.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--depuy--t-pal-spacer-t-pal/enriched/pedicle-screw--depuy--t-pal-spacer-t-pal.json",
+        "bytes": 1778
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K162358.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--depuy--t-pal-spacer-t-pal/fda_raw/MAX/K162358.json",
+        "bytes": 614
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--depuy--t-pal-spacer-t-pal.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--depuy--t-pal-spacer-t-pal/merged/pedicle-screw--depuy--t-pal-spacer-t-pal.json",
+        "bytes": 902
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

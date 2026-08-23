@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--advanced-spine-fixation--selby-ii-instrumentation",
+  "artifact_folder": "corpectomy--advanced-spine-fixation--selby-ii-instrumentation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2855,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--advanced-spine-fixation--selby-ii-instrumentation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--advanced-spine-fixation--selby-ii-instrumentation/enriched/corpectomy--advanced-spine-fixation--selby-ii-instrumentation.json",
+        "bytes": 1419
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K895296.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--advanced-spine-fixation--selby-ii-instrumentation/fda_raw/KWP/K895296.json",
+        "bytes": 598
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--advanced-spine-fixation--selby-ii-instrumentation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--advanced-spine-fixation--selby-ii-instrumentation/merged/corpectomy--advanced-spine-fixation--selby-ii-instrumentation.json",
+        "bytes": 838
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

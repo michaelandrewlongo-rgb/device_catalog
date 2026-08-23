@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--zavation-medical-products-llc--zavation-ibf-zavation-varisync-plate",
+  "artifact_folder": "pedicle-screw--zavation-medical-products-llc--zavation-ibf-zavation-varisync-plate",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3422,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--zavation-medical-products-llc--zavation-ibf-zavation-varisync-plate.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--zavation-medical-products-llc--zavation-ibf-zavation-varisync-plate/enriched/pedicle-screw--zavation-medical-products-llc--zavation-ibf-zavation-varisync-plate.json",
+        "bytes": 1637
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K233509.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--zavation-medical-products-llc--zavation-ibf-zavation-varisync-plate/fda_raw/MAX/K233509.json",
+        "bytes": 729
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--zavation-medical-products-llc--zavation-ibf-zavation-varisync-plate.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--zavation-medical-products-llc--zavation-ibf-zavation-varisync-plate/merged/pedicle-screw--zavation-medical-products-llc--zavation-ibf-zavation-varisync-plate.json",
+        "bytes": 1056
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

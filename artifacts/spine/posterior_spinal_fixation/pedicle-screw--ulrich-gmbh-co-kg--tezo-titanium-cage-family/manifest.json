@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--ulrich-gmbh-co-kg--tezo-titanium-cage-family",
+  "artifact_folder": "pedicle-screw--ulrich-gmbh-co-kg--tezo-titanium-cage-family",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2842,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--ulrich-gmbh-co-kg--tezo-titanium-cage-family.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--ulrich-gmbh-co-kg--tezo-titanium-cage-family/enriched/pedicle-screw--ulrich-gmbh-co-kg--tezo-titanium-cage-family.json",
+        "bytes": 1416
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K122957.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--ulrich-gmbh-co-kg--tezo-titanium-cage-family/fda_raw/MAX/K122957.json",
+        "bytes": 591
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--ulrich-gmbh-co-kg--tezo-titanium-cage-family.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--ulrich-gmbh-co-kg--tezo-titanium-cage-family/merged/pedicle-screw--ulrich-gmbh-co-kg--tezo-titanium-cage-family.json",
+        "bytes": 835
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

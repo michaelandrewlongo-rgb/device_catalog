@@ -1,0 +1,42 @@
+{
+  "device_slug": "pedicle-screw--bk-meditech-co-ltd--innesis-peek-cage",
+  "artifact_folder": "pedicle-screw--bk-meditech-co-ltd--innesis-peek-cage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3630,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--bk-meditech-co-ltd--innesis-peek-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--bk-meditech-co-ltd--innesis-peek-cage/enriched/pedicle-screw--bk-meditech-co-ltd--innesis-peek-cage.json",
+        "bytes": 1648
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/pedicle-screw--bk-meditech-co-ltd--innesis-peek-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--bk-meditech-co-ltd--innesis-peek-cage/extracted/fda_structured/pedicle-screw--bk-meditech-co-ltd--innesis-peek-cage.json",
+        "bytes": 590
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K120464.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--bk-meditech-co-ltd--innesis-peek-cage/fda_raw/MAX/K120464.json",
+        "bytes": 579
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--bk-meditech-co-ltd--innesis-peek-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--bk-meditech-co-ltd--innesis-peek-cage/merged/pedicle-screw--bk-meditech-co-ltd--innesis-peek-cage.json",
+        "bytes": 813
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

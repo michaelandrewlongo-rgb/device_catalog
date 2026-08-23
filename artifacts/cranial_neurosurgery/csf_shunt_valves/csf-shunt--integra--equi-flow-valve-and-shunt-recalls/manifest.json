@@ -1,0 +1,21 @@
+{
+  "device_slug": "csf-shunt--integra--equi-flow-valve-and-shunt-recalls",
+  "artifact_folder": "csf-shunt--integra--equi-flow-valve-and-shunt-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 14680,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/csf-shunt--integra--equi-flow-valve-and-shunt-recalls.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--equi-flow-valve-and-shunt-recalls/extracted/fda_safety/csf-shunt--integra--equi-flow-valve-and-shunt-recalls.json",
+        "bytes": 14680
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

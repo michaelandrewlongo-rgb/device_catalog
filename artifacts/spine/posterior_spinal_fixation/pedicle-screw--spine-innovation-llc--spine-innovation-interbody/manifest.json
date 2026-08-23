@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--spine-innovation-llc--spine-innovation-interbody",
+  "artifact_folder": "pedicle-screw--spine-innovation-llc--spine-innovation-interbody",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2904,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--spine-innovation-llc--spine-innovation-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spine-innovation-llc--spine-innovation-interbody/enriched/pedicle-screw--spine-innovation-llc--spine-innovation-interbody.json",
+        "bytes": 1439
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K153356.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spine-innovation-llc--spine-innovation-interbody/fda_raw/MAX/K153356.json",
+        "bytes": 607
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--spine-innovation-llc--spine-innovation-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spine-innovation-llc--spine-innovation-interbody/merged/pedicle-screw--spine-innovation-llc--spine-innovation-interbody.json",
+        "bytes": 858
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

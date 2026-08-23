@@ -1,0 +1,29 @@
+{
+  "device_name": "Surpass Elite \u00ae Flow Diverter",
+  "manufacturer": "stryker",
+  "catalog_category": "flow-diverter",
+  "filename_stem": "flow-diverter--stryker--surpass-elite-flow-diverter-system",
+  "clearance_type": "pma",
+  "clearance_number": "P170024",
+  "clearance_date": "2025-02-12",
+  "device_class": 3,
+  "device_name_fda": "Surpass Elite Flow Diverter System",
+  "product_code": "OUT",
+  "what_it_is": "Surpass Elite",
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.stryker.com/us/en/neurovascular/products/surpass-elite.html",
+  "confidence_score": 0.8,
+  "needs_review": false,
+  "data_sources": [
+    "fda",
+    "scraper"
+  ]
+}

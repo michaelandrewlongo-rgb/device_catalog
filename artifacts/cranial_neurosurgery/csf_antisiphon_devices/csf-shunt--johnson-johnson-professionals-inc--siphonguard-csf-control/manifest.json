@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--johnson-johnson-professionals-inc--siphonguard-csf-control",
+  "artifact_folder": "csf-shunt--johnson-johnson-professionals-inc--siphonguard-csf-control",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2949,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--johnson-johnson-professionals-inc--siphonguard-csf-control.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_antisiphon_devices/csf-shunt--johnson-johnson-professionals-inc--siphonguard-csf-control/enriched/csf-shunt--johnson-johnson-professionals-inc--siphonguard-csf-control.json",
+        "bytes": 1448
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K992173.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_antisiphon_devices/csf-shunt--johnson-johnson-professionals-inc--siphonguard-csf-control/fda_raw/JXG/K992173.json",
+        "bytes": 634
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--johnson-johnson-professionals-inc--siphonguard-csf-control.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_antisiphon_devices/csf-shunt--johnson-johnson-professionals-inc--siphonguard-csf-control/merged/csf-shunt--johnson-johnson-professionals-inc--siphonguard-csf-control.json",
+        "bytes": 867
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_antisiphon_devices",
+    "label": "Antisiphon Accessories"
+  }
+}

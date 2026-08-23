@@ -1,0 +1,28 @@
+{
+  "device_name": "iFuse INTRA Ti",
+  "manufacturer": "si-bone",
+  "catalog_category": "sacroiliac-fusion",
+  "filename_stem": "sacroiliac-fusion--si-bone--ifuse-intra-ti",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "3D-printed titanium intra-articular SI joint fusion implant with self-cutting blades. Designed for placement in the articular portion of the SI joint (not ligamentous). Features bone anchors for fixation and stability, fenestrations for bone through-growth, iFuse Lattice Technology for bone ingrowth/ongrowth, and cutting blades that pierce SI joint cortices for initial fixation.",
+  "sizing_specs": null,
+  "indications": "Minimally invasive intra-articular SI joint fusion.",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "Intra-articular placement reduces SI joint range of motion more than ligamentous placement. Single-use instrument set (packaged sterile, no reprocessing). Simple technique designed for reproducibility.",
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://si-bone.com/providers/solutions/si-joint-dysfunction/ifuse-intra-ti",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ]
+}

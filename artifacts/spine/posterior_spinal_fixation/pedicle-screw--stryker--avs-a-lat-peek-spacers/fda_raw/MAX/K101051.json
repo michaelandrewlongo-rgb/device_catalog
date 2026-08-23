@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K101051",
+  "clearance_date": "2010-08-12",
+  "device_class": 2,
+  "manufacturer_canonical": "stryker",
+  "manufacturer_raw": "Stryker Spine",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "AVS A-LAT PEEK SPACERS, MODELS 48750XXX, 48751XXX, 48752XXX, 48753XXX",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--stryker--avs-a-lat-peek-spacers",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf10/K101051.pdf"
+}

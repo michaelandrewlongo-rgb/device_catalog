@@ -1,0 +1,42 @@
+{
+  "device_slug": "pedicle-screw--l-k-biomed-co-ltd--pathloc-ta-expandable-lumbar-cage",
+  "artifact_folder": "pedicle-screw--l-k-biomed-co-ltd--pathloc-ta-expandable-lumbar-cage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3832,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--l-k-biomed-co-ltd--pathloc-ta-expandable-lumbar-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--l-k-biomed-co-ltd--pathloc-ta-expandable-lumbar-cage/enriched/pedicle-screw--l-k-biomed-co-ltd--pathloc-ta-expandable-lumbar-cage.json",
+        "bytes": 1719
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/pedicle-screw--l-k-biomed-co-ltd--pathloc-ta-expandable-lumbar-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--l-k-biomed-co-ltd--pathloc-ta-expandable-lumbar-cage/extracted/fda_structured/pedicle-screw--l-k-biomed-co-ltd--pathloc-ta-expandable-lumbar-cage.json",
+        "bytes": 624
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K223474.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--l-k-biomed-co-ltd--pathloc-ta-expandable-lumbar-cage/fda_raw/MAX/K223474.json",
+        "bytes": 616
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--l-k-biomed-co-ltd--pathloc-ta-expandable-lumbar-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--l-k-biomed-co-ltd--pathloc-ta-expandable-lumbar-cage/merged/pedicle-screw--l-k-biomed-co-ltd--pathloc-ta-expandable-lumbar-cage.json",
+        "bytes": 873
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

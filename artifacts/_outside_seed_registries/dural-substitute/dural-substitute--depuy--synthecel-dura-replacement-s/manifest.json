@@ -1,0 +1,47 @@
+{
+  "device_slug": "dural-substitute--depuy--synthecel-dura-replacement-s",
+  "artifact_folder": "dural-substitute--depuy--synthecel-dura-replacement-s",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 206384,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/dural-substitute/parsed/fda_summaries/dural-substitute--depuy--synthecel-dura-replacement-s--510k.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--depuy--synthecel-dura-replacement-s/510k/dural-substitute/parsed/fda_summaries/dural-substitute--depuy--synthecel-dura-replacement-s--510k.json",
+        "bytes": 11961
+      },
+      {
+        "source": "pipeline/data/510k/dural-substitute/pdfs/dural-substitute--depuy--synthecel-dura-replacement-s--510k.pdf",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--depuy--synthecel-dura-replacement-s/510k/dural-substitute/pdfs/dural-substitute--depuy--synthecel-dura-replacement-s--510k.pdf",
+        "bytes": 190692
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/dural-substitute--depuy--synthecel-dura-replacement-s.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--depuy--synthecel-dura-replacement-s/enriched/dural-substitute--depuy--synthecel-dura-replacement-s.json",
+        "bytes": 2322
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/GXQ/K113071.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--depuy--synthecel-dura-replacement-s/fda_raw/GXQ/K113071.json",
+        "bytes": 571
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/dural-substitute--depuy--synthecel-dura-replacement-s.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--depuy--synthecel-dura-replacement-s/merged/dural-substitute--depuy--synthecel-dura-replacement-s.json",
+        "bytes": 838
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "dural-substitute",
+    "label": "Outside listed seed registries"
+  }
+}

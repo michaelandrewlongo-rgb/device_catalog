@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--endius-inc--tri-fix-spinal-fixation",
+  "artifact_folder": "corpectomy--endius-inc--tri-fix-spinal-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2793,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--endius-inc--tri-fix-spinal-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--endius-inc--tri-fix-spinal-fixation/enriched/corpectomy--endius-inc--tri-fix-spinal-fixation.json",
+        "bytes": 1404
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K011830.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--endius-inc--tri-fix-spinal-fixation/fda_raw/KWP/K011830.json",
+        "bytes": 566
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--endius-inc--tri-fix-spinal-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--endius-inc--tri-fix-spinal-fixation/merged/corpectomy--endius-inc--tri-fix-spinal-fixation.json",
+        "bytes": 823
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

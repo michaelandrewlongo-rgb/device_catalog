@@ -1,0 +1,42 @@
+{
+  "device_slug": "interbody-cage--bm-korea--galaxy-mis-screw",
+  "artifact_folder": "interbody-cage--bm-korea--galaxy-mis-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 4109,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--bm-korea--galaxy-mis-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--bm-korea--galaxy-mis-screw/enriched/interbody-cage--bm-korea--galaxy-mis-screw.json",
+        "bytes": 1898
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--bm-korea--galaxy-mis-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--bm-korea--galaxy-mis-screw/extracted/fda_structured/interbody-cage--bm-korea--galaxy-mis-screw.json",
+        "bytes": 853
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K143110.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--bm-korea--galaxy-mis-screw/fda_raw/NKB/K143110.json",
+        "bytes": 552
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--bm-korea--galaxy-mis-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--bm-korea--galaxy-mis-screw/merged/interbody-cage--bm-korea--galaxy-mis-screw.json",
+        "bytes": 806
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

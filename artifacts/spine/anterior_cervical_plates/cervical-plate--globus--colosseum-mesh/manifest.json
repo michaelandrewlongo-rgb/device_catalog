@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--globus--colosseum-mesh",
+  "artifact_folder": "cervical-plate--globus--colosseum-mesh",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2694,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--globus--colosseum-mesh.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--globus--colosseum-mesh/enriched/cervical-plate--globus--colosseum-mesh.json",
+        "bytes": 1363
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K190147.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--globus--colosseum-mesh/fda_raw/MQP/K190147.json",
+        "bytes": 549
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--globus--colosseum-mesh.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--globus--colosseum-mesh/merged/cervical-plate--globus--colosseum-mesh.json",
+        "bytes": 782
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

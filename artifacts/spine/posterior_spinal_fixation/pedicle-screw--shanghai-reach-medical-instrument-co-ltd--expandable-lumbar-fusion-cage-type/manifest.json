@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--shanghai-reach-medical-instrument-co-ltd--expandable-lumbar-fusion-cage-type",
+  "artifact_folder": "pedicle-screw--shanghai-reach-medical-instrument-co-ltd--expandable-lumbar-fusion-cage-type",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3134,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--shanghai-reach-medical-instrument-co-ltd--expandable-lumbar-fusion-cage-type.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--shanghai-reach-medical-instrument-co-ltd--expandable-lumbar-fusion-cage-type/enriched/pedicle-screw--shanghai-reach-medical-instrument-co-ltd--expandable-lumbar-fusion-cage-type.json",
+        "bytes": 1513
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K232069.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--shanghai-reach-medical-instrument-co-ltd--expandable-lumbar-fusion-cage-type/fda_raw/MAX/K232069.json",
+        "bytes": 689
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--shanghai-reach-medical-instrument-co-ltd--expandable-lumbar-fusion-cage-type.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--shanghai-reach-medical-instrument-co-ltd--expandable-lumbar-fusion-cage-type/merged/pedicle-screw--shanghai-reach-medical-instrument-co-ltd--expandable-lumbar-fusion-cage-type.json",
+        "bytes": 932
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

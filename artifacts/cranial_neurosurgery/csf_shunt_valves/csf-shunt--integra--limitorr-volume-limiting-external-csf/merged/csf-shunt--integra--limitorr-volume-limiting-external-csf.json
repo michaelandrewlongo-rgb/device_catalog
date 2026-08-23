@@ -1,0 +1,28 @@
+{
+  "device_name": "LIMITORR VOLUME LIMITING EXTERNAL CSF DRAINAGE AND MONITORING SYSTEM, MODELS INS9020, INS9030",
+  "manufacturer": "integra",
+  "catalog_category": "csf-shunt",
+  "filename_stem": "csf-shunt--integra--limitorr-volume-limiting-external-csf",
+  "clearance_type": "510k",
+  "clearance_number": "K072929",
+  "clearance_date": "2007-12-07",
+  "device_class": 2,
+  "device_name_fda": "LIMITORR VOLUME LIMITING EXTERNAL CSF DRAINAGE AND MONITORING SYSTEM, MODELS INS9020, INS9030",
+  "product_code": "JXG",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf07/K072929.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

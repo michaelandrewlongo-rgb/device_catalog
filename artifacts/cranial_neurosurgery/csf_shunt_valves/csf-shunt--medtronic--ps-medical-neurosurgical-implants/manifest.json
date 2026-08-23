@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--medtronic--ps-medical-neurosurgical-implants",
+  "artifact_folder": "csf-shunt--medtronic--ps-medical-neurosurgical-implants",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3320,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--medtronic--ps-medical-neurosurgical-implants.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medtronic--ps-medical-neurosurgical-implants/enriched/csf-shunt--medtronic--ps-medical-neurosurgical-implants.json",
+        "bytes": 1901
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K042198.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medtronic--ps-medical-neurosurgical-implants/fda_raw/JXG/K042198.json",
+        "bytes": 584
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--medtronic--ps-medical-neurosurgical-implants.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medtronic--ps-medical-neurosurgical-implants/merged/csf-shunt--medtronic--ps-medical-neurosurgical-implants.json",
+        "bytes": 835
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K221858",
+  "clearance_date": "2022-10-14",
+  "device_class": 2,
+  "manufacturer_canonical": "zsfab-inc",
+  "manufacturer_raw": "Zsfab, Inc.",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "ZSFab Lumbar Interbody System",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--zsfab-inc--zsfab-lumbar-interbody",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K221858.pdf"
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--cordis--omnishunt-for-ventricular-shunting",
+  "artifact_folder": "csf-shunt--cordis--omnishunt-for-ventricular-shunting",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2850,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--cordis--omnishunt-for-ventricular-shunting.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cordis--omnishunt-for-ventricular-shunting/enriched/csf-shunt--cordis--omnishunt-for-ventricular-shunting.json",
+        "bytes": 1427
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K903844.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cordis--omnishunt-for-ventricular-shunting/fda_raw/JXG/K903844.json",
+        "bytes": 577
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--cordis--omnishunt-for-ventricular-shunting.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cordis--omnishunt-for-ventricular-shunting/merged/csf-shunt--cordis--omnishunt-for-ventricular-shunting.json",
+        "bytes": 846
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

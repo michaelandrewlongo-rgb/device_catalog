@@ -1,0 +1,21 @@
+{
+  "device_slug": "corpectomy--depuy--expedium-spine-5-5mm-commerically-recalls",
+  "artifact_folder": "corpectomy--depuy--expedium-spine-5-5mm-commerically-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 453,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/corpectomy--depuy--expedium-spine-5-5mm-commerically-recalls.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--expedium-spine-5-5mm-commerically-recalls/extracted/fda_safety/corpectomy--depuy--expedium-spine-5-5mm-commerically-recalls.json",
+        "bytes": 453
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

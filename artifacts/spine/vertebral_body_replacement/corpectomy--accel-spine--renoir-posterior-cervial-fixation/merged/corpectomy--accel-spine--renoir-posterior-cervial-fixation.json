@@ -1,0 +1,28 @@
+{
+  "device_name": "RENOIR POSTERIOR CERVIAL FIXATION SYSTEM",
+  "manufacturer": "accel-spine",
+  "catalog_category": "corpectomy",
+  "filename_stem": "corpectomy--accel-spine--renoir-posterior-cervial-fixation",
+  "clearance_type": "510k",
+  "clearance_number": "K121136",
+  "clearance_date": "2012-08-09",
+  "device_class": 2,
+  "device_name_fda": "RENOIR POSTERIOR CERVIAL FIXATION SYSTEM",
+  "product_code": "KWP",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf12/K121136.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

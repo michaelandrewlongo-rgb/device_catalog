@@ -1,0 +1,47 @@
+{
+  "device_slug": "csf-shunt--medtronic--stratamr-guider-tool",
+  "artifact_folder": "csf-shunt--medtronic--stratamr-guider-tool",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 183846,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/csf-shunt/parsed/fda_summaries/csf-shunt--medtronic--stratamr-guider-tool--510k.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medtronic--stratamr-guider-tool/510k/csf-shunt/parsed/fda_summaries/csf-shunt--medtronic--stratamr-guider-tool--510k.json",
+        "bytes": 21665
+      },
+      {
+        "source": "pipeline/data/510k/csf-shunt/pdfs/csf-shunt--medtronic--stratamr-guider-tool--510k.pdf",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medtronic--stratamr-guider-tool/510k/csf-shunt/pdfs/csf-shunt--medtronic--stratamr-guider-tool--510k.pdf",
+        "bytes": 156430
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--medtronic--stratamr-guider-tool.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medtronic--stratamr-guider-tool/enriched/csf-shunt--medtronic--stratamr-guider-tool.json",
+        "bytes": 4397
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K181622.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medtronic--stratamr-guider-tool/fda_raw/JXG/K181622.json",
+        "bytes": 558
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--medtronic--stratamr-guider-tool.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medtronic--stratamr-guider-tool/merged/csf-shunt--medtronic--stratamr-guider-tool.json",
+        "bytes": 796
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

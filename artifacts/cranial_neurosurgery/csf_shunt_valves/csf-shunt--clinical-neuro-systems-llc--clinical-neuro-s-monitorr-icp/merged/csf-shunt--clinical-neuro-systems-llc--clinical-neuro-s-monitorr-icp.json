@@ -1,0 +1,28 @@
+{
+  "device_name": "CLINICAL NEURO SYSTEMS MONITORR ICP LUMBAR CATHETE",
+  "manufacturer": "clinical-neuro-systems-llc",
+  "catalog_category": "csf-shunt",
+  "filename_stem": "csf-shunt--clinical-neuro-systems-llc--clinical-neuro-s-monitorr-icp",
+  "clearance_type": "510k",
+  "clearance_number": "K922936",
+  "clearance_date": "1992-08-26",
+  "device_class": 2,
+  "device_name_fda": "CLINICAL NEURO SYSTEMS MONITORR ICP LUMBAR CATHETE",
+  "product_code": "JXG",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf92/K922936.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

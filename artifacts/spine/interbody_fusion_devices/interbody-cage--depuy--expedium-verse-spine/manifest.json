@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--depuy--expedium-verse-spine",
+  "artifact_folder": "interbody-cage--depuy--expedium-verse-spine",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3301,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--depuy--expedium-verse-spine.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--expedium-verse-spine/enriched/interbody-cage--depuy--expedium-verse-spine.json",
+        "bytes": 1926
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K142185.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--expedium-verse-spine/fda_raw/NKB/K142185.json",
+        "bytes": 563
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--depuy--expedium-verse-spine.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--expedium-verse-spine/merged/interbody-cage--depuy--expedium-verse-spine.json",
+        "bytes": 812
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

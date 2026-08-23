@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--lanx-inc--lanx-fusion",
+  "artifact_folder": "pedicle-screw--lanx-inc--lanx-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2701,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--lanx-inc--lanx-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--lanx-inc--lanx-fusion/enriched/pedicle-screw--lanx-inc--lanx-fusion.json",
+        "bytes": 1370
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K083815.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--lanx-inc--lanx-fusion/fda_raw/MAX/K083815.json",
+        "bytes": 542
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--lanx-inc--lanx-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--lanx-inc--lanx-fusion/merged/pedicle-screw--lanx-inc--lanx-fusion.json",
+        "bytes": 789
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

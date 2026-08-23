@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--depuy--mountaineer-oct-spinal",
+  "artifact_folder": "corpectomy--depuy--mountaineer-oct-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2920,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--depuy--mountaineer-oct-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--mountaineer-oct-spinal/enriched/corpectomy--depuy--mountaineer-oct-spinal.json",
+        "bytes": 1551
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K110353.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--mountaineer-oct-spinal/fda_raw/KWP/K110353.json",
+        "bytes": 559
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--depuy--mountaineer-oct-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--mountaineer-oct-spinal/merged/corpectomy--depuy--mountaineer-oct-spinal.json",
+        "bytes": 810
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

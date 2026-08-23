@@ -1,0 +1,40 @@
+{
+  "device_slug": "pedicle-screw--wenzel-spine-inc--varilift-l-interbody-fusion",
+  "artifact_folder": "pedicle-screw--wenzel-spine-inc--varilift-l-interbody-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3483,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--wenzel-spine-inc--varilift-l-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--wenzel-spine-inc--varilift-l-interbody-fusion/enriched/pedicle-screw--wenzel-spine-inc--varilift-l-interbody-fusion.json",
+        "bytes": 1434
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K131296.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--wenzel-spine-inc--varilift-l-interbody-fusion/fda_raw/MAX/K131296.json",
+        "bytes": 598
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K151900.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--wenzel-spine-inc--varilift-l-interbody-fusion/fda_raw/MAX/K151900.json",
+        "bytes": 598
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--wenzel-spine-inc--varilift-l-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--wenzel-spine-inc--varilift-l-interbody-fusion/merged/pedicle-screw--wenzel-spine-inc--varilift-l-interbody-fusion.json",
+        "bytes": 853
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

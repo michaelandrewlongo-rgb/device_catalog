@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K100945",
+  "clearance_date": "2011-02-09",
+  "device_class": 2,
+  "manufacturer_canonical": "advanced-medical-technologies-ag",
+  "manufacturer_raw": "Advanced Medical Technologies AG",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "FUSE PLIF CAFE",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--advanced-medical-technologies-ag--fuse-plif-cafe",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf10/K100945.pdf"
+}

@@ -1,0 +1,61 @@
+{
+  "device_name": "KIMBA MINI",
+  "manufacturer": "signus-medizintechnik-gmbh",
+  "catalog_category": "cervical-plate",
+  "filename_stem": "cervical-plate--signus-medizintechnik-gmbh--kimba-mini",
+  "clearance_type": "510k",
+  "clearance_number": "K080349",
+  "clearance_date": "2008-03-10",
+  "device_class": 2,
+  "device_name_fda": "KIMBA MINI",
+  "product_code": "MQP",
+  "what_it_is": "The KIMBA®, KIMBA® mini, MOBIS® and NOVAL™ implants have a hollow, slightly curved frame with tapered edges. The frame is made from PEEK-OPTIMA®.\nSEMIAL® spinal implants have a semi-cylindrical form and are hollow. The implant is made from PEEK-OPTIMA®. The provision of varying heights, together with a wedge shaped option, allow better lordosis control.\nThe TETRIS® implants (PEEK and Titanium) are hollow having a rectangular frame with lateral fenestrations.\nThe upper and lower aspects of the implant are open and the walls feature spikes which assist in the positive anchorage and seating of the implant between the superior and inferior vertebral bodies. These implants are available in a variety of dimensional and angular sizes. This enables the surgeon to choose the size suited to the individual pathology and anatomy and condition.\nThe MOBIS, NOVAL, SEMIAL and PEEK TETRIS devices are manufactured from polyetheretherketone (PEEK-OPTIMA® LT1, Invibio™) as described by ASTM F2026. Integral marker pins are manufactured from titanium alloy (Ti-6Al-4V) as described by ASTM F136 / ISO 5832-3 or tantalum as described by ASTM F560. The Titanium TETRIS devices are manufactured from titanium alloy (Ti-6Al-4V) as described by ASTM F136 / ISO 5832-3. The KIMBA® and KIMBA® mini devices are manufactured from ECF PEEK OPTIMA (Invibio™).",
+  "sizing_specs": "Catalog: MC131232; Model: Lumbar cage",
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "MRI: Labeling does not contain MRI Safety Information. Pre-sterilized. Single-use",
+  "deployment_steps": null,
+  "also_known_as": [
+    "KIMBA mini",
+    "Polymeric spinal interbody fusion cage"
+  ],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf08/K080349.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "sizing_specs": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "indications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "also_known_as": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    }
+  }
+}

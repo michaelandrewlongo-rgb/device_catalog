@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--zimmer-inc--dunn-anterior-distraction",
+  "artifact_folder": "corpectomy--zimmer-inc--dunn-anterior-distraction",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3340,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--zimmer-inc--dunn-anterior-distraction.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--zimmer-inc--dunn-anterior-distraction/enriched/corpectomy--zimmer-inc--dunn-anterior-distraction.json",
+        "bytes": 1941
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K801120.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--zimmer-inc--dunn-anterior-distraction/fda_raw/KWP/K801120.json",
+        "bytes": 570
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--zimmer-inc--dunn-anterior-distraction.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--zimmer-inc--dunn-anterior-distraction/merged/corpectomy--zimmer-inc--dunn-anterior-distraction.json",
+        "bytes": 829
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--sofamor-danek-mfg-inc--sentry-posterior-spinal",
+  "artifact_folder": "corpectomy--sofamor-danek-mfg-inc--sentry-posterior-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2871,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--sofamor-danek-mfg-inc--sentry-posterior-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sofamor-danek-mfg-inc--sentry-posterior-spinal/enriched/corpectomy--sofamor-danek-mfg-inc--sentry-posterior-spinal.json",
+        "bytes": 1426
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K930710.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sofamor-danek-mfg-inc--sentry-posterior-spinal/fda_raw/KWP/K930710.json",
+        "bytes": 600
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--sofamor-danek-mfg-inc--sentry-posterior-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sofamor-danek-mfg-inc--sentry-posterior-spinal/merged/corpectomy--sofamor-danek-mfg-inc--sentry-posterior-spinal.json",
+        "bytes": 845
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

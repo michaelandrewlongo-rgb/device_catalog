@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--spineart--juliet-r-ll-lateral-lumbar",
+  "artifact_folder": "pedicle-screw--spineart--juliet-r-ll-lateral-lumbar",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2817,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--spineart--juliet-r-ll-lateral-lumbar.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spineart--juliet-r-ll-lateral-lumbar/enriched/pedicle-screw--spineart--juliet-r-ll-lateral-lumbar.json",
+        "bytes": 1411
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K161888.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spineart--juliet-r-ll-lateral-lumbar/fda_raw/MAX/K161888.json",
+        "bytes": 568
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--spineart--juliet-r-ll-lateral-lumbar.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spineart--juliet-r-ll-lateral-lumbar/merged/pedicle-screw--spineart--juliet-r-ll-lateral-lumbar.json",
+        "bytes": 838
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

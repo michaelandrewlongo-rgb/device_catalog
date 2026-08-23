@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--buckman-co-inc--acromed-spinal-rod-and-spinal",
+  "artifact_folder": "corpectomy--buckman-co-inc--acromed-spinal-rod-and-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2865,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--buckman-co-inc--acromed-spinal-rod-and-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--buckman-co-inc--acromed-spinal-rod-and-spinal/enriched/corpectomy--buckman-co-inc--acromed-spinal-rod-and-spinal.json",
+        "bytes": 1428
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K884163.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--buckman-co-inc--acromed-spinal-rod-and-spinal/fda_raw/KWP/K884163.json",
+        "bytes": 590
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--buckman-co-inc--acromed-spinal-rod-and-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--buckman-co-inc--acromed-spinal-rod-and-spinal/merged/corpectomy--buckman-co-inc--acromed-spinal-rod-and-spinal.json",
+        "bytes": 847
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

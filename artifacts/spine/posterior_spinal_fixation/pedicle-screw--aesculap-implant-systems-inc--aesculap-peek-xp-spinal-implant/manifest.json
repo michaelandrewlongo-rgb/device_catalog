@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--aesculap-implant-systems-inc--aesculap-peek-xp-spinal-implant",
+  "artifact_folder": "pedicle-screw--aesculap-implant-systems-inc--aesculap-peek-xp-spinal-implant",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3001,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--aesculap-implant-systems-inc--aesculap-peek-xp-spinal-implant.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--aesculap-implant-systems-inc--aesculap-peek-xp-spinal-implant/enriched/pedicle-screw--aesculap-implant-systems-inc--aesculap-peek-xp-spinal-implant.json",
+        "bytes": 1470
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K132421.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--aesculap-implant-systems-inc--aesculap-peek-xp-spinal-implant/fda_raw/MAX/K132421.json",
+        "bytes": 642
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--aesculap-implant-systems-inc--aesculap-peek-xp-spinal-implant.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--aesculap-implant-systems-inc--aesculap-peek-xp-spinal-implant/merged/pedicle-screw--aesculap-implant-systems-inc--aesculap-peek-xp-spinal-implant.json",
+        "bytes": 889
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

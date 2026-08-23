@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--alphatec-spine-inc--xenon-tm-pedicle-screw",
+  "artifact_folder": "interbody-cage--alphatec-spine-inc--xenon-tm-pedicle-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3352,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--alphatec-spine-inc--xenon-tm-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--alphatec-spine-inc--xenon-tm-pedicle-screw/enriched/interbody-cage--alphatec-spine-inc--xenon-tm-pedicle-screw.json",
+        "bytes": 1909
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K111634.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--alphatec-spine-inc--xenon-tm-pedicle-screw/fda_raw/NKB/K111634.json",
+        "bytes": 597
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--alphatec-spine-inc--xenon-tm-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--alphatec-spine-inc--xenon-tm-pedicle-screw/merged/interbody-cage--alphatec-spine-inc--xenon-tm-pedicle-screw.json",
+        "bytes": 846
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

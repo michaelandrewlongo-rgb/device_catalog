@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K070341",
+  "clearance_date": "2007-08-08",
+  "device_class": 2,
+  "manufacturer_canonical": "zimmer-biomet",
+  "manufacturer_raw": "Ldr Spine USA",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "LDR SPINE EASYSPINE POSTERIOR OSTEOSYNTHESIS SYSTEM",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--zimmer-biomet--ldr-spine-easyspine-posterior-osteosynthesis",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf07/K070341.pdf"
+}

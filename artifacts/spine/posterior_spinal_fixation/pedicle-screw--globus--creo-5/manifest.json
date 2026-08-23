@@ -1,0 +1,21 @@
+{
+  "device_slug": "pedicle-screw--globus--creo-5",
+  "artifact_folder": "pedicle-screw--globus--creo-5",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 1094,
+  "sources": {
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/globus/creo-5-5-stabilization-system.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--globus--creo-5/scraper_raw/globus/creo-5-5-stabilization-system.json",
+        "bytes": 1094
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

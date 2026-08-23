@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--seaspine-inc--hollywood-pacifica-redondo-ventura",
+  "artifact_folder": "pedicle-screw--seaspine-inc--hollywood-pacifica-redondo-ventura",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2893,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--seaspine-inc--hollywood-pacifica-redondo-ventura.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--seaspine-inc--hollywood-pacifica-redondo-ventura/enriched/pedicle-screw--seaspine-inc--hollywood-pacifica-redondo-ventura.json",
+        "bytes": 1439
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K082310.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--seaspine-inc--hollywood-pacifica-redondo-ventura/fda_raw/MAX/K082310.json",
+        "bytes": 596
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--seaspine-inc--hollywood-pacifica-redondo-ventura.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--seaspine-inc--hollywood-pacifica-redondo-ventura/merged/pedicle-screw--seaspine-inc--hollywood-pacifica-redondo-ventura.json",
+        "bytes": 858
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

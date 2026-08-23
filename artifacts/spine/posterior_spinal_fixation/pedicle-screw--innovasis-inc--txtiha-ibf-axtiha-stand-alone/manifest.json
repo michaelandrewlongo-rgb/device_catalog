@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--innovasis-inc--txtiha-ibf-axtiha-stand-alone",
+  "artifact_folder": "pedicle-screw--innovasis-inc--txtiha-ibf-axtiha-stand-alone",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3179,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--innovasis-inc--txtiha-ibf-axtiha-stand-alone.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--innovasis-inc--txtiha-ibf-axtiha-stand-alone/enriched/pedicle-screw--innovasis-inc--txtiha-ibf-axtiha-stand-alone.json",
+        "bytes": 1694
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K201614.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--innovasis-inc--txtiha-ibf-axtiha-stand-alone/fda_raw/MAX/K201614.json",
+        "bytes": 606
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--innovasis-inc--txtiha-ibf-axtiha-stand-alone.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--innovasis-inc--txtiha-ibf-axtiha-stand-alone/merged/pedicle-screw--innovasis-inc--txtiha-ibf-axtiha-stand-alone.json",
+        "bytes": 879
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

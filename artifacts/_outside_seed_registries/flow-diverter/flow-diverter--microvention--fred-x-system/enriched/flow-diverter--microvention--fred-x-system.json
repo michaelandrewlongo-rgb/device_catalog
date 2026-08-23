@@ -1,0 +1,66 @@
+{
+  "device_name": "FRED X System",
+  "manufacturer": "microvention",
+  "catalog_category": "flow-diverter",
+  "filename_stem": "flow-diverter--microvention--fred-x-system",
+  "clearance_type": "pma",
+  "clearance_number": "P180027",
+  "clearance_date": "2025-09-18",
+  "device_class": 3,
+  "device_name_fda": "FRED X System",
+  "product_code": "OUT",
+  "what_it_is": "Flow Re-Direction Endoluminal Device (FRED) with X Technology, a proprietary nanoscale surface treatment covalently bonded to the device surface. The X Technology coating creates an optimized protective hydration layer that reduces material thrombogenicity while maintaining the natural vessel healing response (comparable endothelial cell growth to bare device in-vitro). Offers the same precise, predictable placement and immediate opening of the original FRED device, with reduced delivery and retraction forces for easier tracking through tortuous anatomies.",
+  "sizing_specs": "Implant diameter range: 2.5, 3.0, 3.5, 4.0, 4.5, 5.0, 5.5 mm. Working lengths per diameter: 2.5 mm (13, 18, 25, 30 mm), 3.0 mm (13, 19, 27, 32 mm), 3.5 mm (13, 17, 22, 31, 40 mm), 4.0 mm (13, 18, 23, 32, 44 mm), 4.5 mm (15, 20, 25, 34, 45 mm), 5.0 mm (15, 21, 26, 36 mm), 5.5 mm (22, 32 mm). Total 28 SKUs. FRED X 2.5 and 3.0 mm sizes have no distal lead wire.",
+  "indications": "USA (PMA P180027): Indicated for use in the internal carotid artery from the petrous segment to the terminus for endovascular treatment of adult patients (≥22 years old) with wide-necked (neck width ≥4 mm or dome-to-neck ratio <2) saccular or fusiform intracranial aneurysms arising from a parent vessel 2.0-5.0 mm in diameter. Canada: indicated for intracranial aneurysms not amenable to surgical clipping with parent vessels 2.0-5.0 mm. EMEA/CHAPLA: endovascular embolization of intracranial neurovascular aneurysms, with or without embolic coils.",
+  "contraindications": null,
+  "compatible_with": "FRED X 2.5-3.0 mm devices: 0.021\" Headway 21 Microcatheter. FRED X 3.5-5.5 mm devices: 0.027\" Headway 27 Microcatheter. SOFIA family intermediate catheters for tri-axial support. Chaperon guiding catheters, Traxcess guidewires.",
+  "use_notes": "Dual-layer braid design (inherited from original FRED). X Technology surface modification reduces thrombus formation in in-vitro testing compared to bare flow diverter. FRED X 2.5-3.0 mm small-vessel variants optimized for distal flow diversion with no distal lead wire. [FDA RECALL history] 2 recalls: tantalum length/attachment pattern manufacturing issue (may lead to incomplete opening or malapposition); incorrect inner stent length. (MicroVention is now Terumo Neuro.)",
+  "deployment_steps": null,
+  "also_known_as": [
+    "FRED X",
+    "Flow Re-Direction Endoluminal Device with X Technology"
+  ],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": "https://assets.ctfassets.net/ka7vsj9fzri4/7FoUbn663N1b3ecpMouRXu/15909feb0bc896387e401d2cbbf73595/FRED_X_Sell_Sheet_-_US.PDF",
+  "source_url": "https://www.terumoneuro.com/products/fred-x",
+  "confidence_score": 0.9,
+  "needs_review": false,
+  "data_sources": [
+    "fda",
+    "scraper-chrome"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "scraper-chrome",
+      "confidence": 0.9
+    },
+    "sizing_specs": {
+      "source": "scraper-chrome",
+      "confidence": 0.95
+    },
+    "indications": {
+      "source": "scraper-chrome",
+      "confidence": 0.95
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "scraper-chrome",
+      "confidence": 0.95
+    },
+    "use_notes": {
+      "source": "scraper-chrome+fda",
+      "confidence": 0.85
+    },
+    "also_known_as": {
+      "source": "scraper-chrome",
+      "confidence": 0.8
+    },
+    "_safety": {
+      "source": "fda_maude+recalls",
+      "confidence": 0.85
+    }
+  }
+}

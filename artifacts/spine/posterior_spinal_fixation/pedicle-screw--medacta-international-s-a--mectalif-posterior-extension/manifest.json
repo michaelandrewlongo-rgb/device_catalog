@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--medacta-international-s-a--mectalif-posterior-extension",
+  "artifact_folder": "pedicle-screw--medacta-international-s-a--mectalif-posterior-extension",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2920,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--medacta-international-s-a--mectalif-posterior-extension.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medacta-international-s-a--mectalif-posterior-extension/enriched/pedicle-screw--medacta-international-s-a--mectalif-posterior-extension.json",
+        "bytes": 1441
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K181970.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medacta-international-s-a--mectalif-posterior-extension/fda_raw/MAX/K181970.json",
+        "bytes": 619
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--medacta-international-s-a--mectalif-posterior-extension.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medacta-international-s-a--mectalif-posterior-extension/merged/pedicle-screw--medacta-international-s-a--mectalif-posterior-extension.json",
+        "bytes": 860
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

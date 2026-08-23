@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--atlas-spine-inc--ortus-expandable-lumbar-interbody-fusion",
+  "artifact_folder": "pedicle-screw--atlas-spine-inc--ortus-expandable-lumbar-interbody-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3000,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--atlas-spine-inc--ortus-expandable-lumbar-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--atlas-spine-inc--ortus-expandable-lumbar-interbody-fusion/enriched/pedicle-screw--atlas-spine-inc--ortus-expandable-lumbar-interbody-fusion.json",
+        "bytes": 1475
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K172334.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--atlas-spine-inc--ortus-expandable-lumbar-interbody-fusion/fda_raw/MAX/K172334.json",
+        "bytes": 623
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--atlas-spine-inc--ortus-expandable-lumbar-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--atlas-spine-inc--ortus-expandable-lumbar-interbody-fusion/merged/pedicle-screw--atlas-spine-inc--ortus-expandable-lumbar-interbody-fusion.json",
+        "bytes": 902
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

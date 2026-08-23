@@ -1,0 +1,42 @@
+{
+  "device_slug": "interbody-cage--life-spine--conquest-spinal",
+  "artifact_folder": "interbody-cage--life-spine--conquest-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3700,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--life-spine--conquest-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--life-spine--conquest-spinal/enriched/interbody-cage--life-spine--conquest-spinal.json",
+        "bytes": 1692
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--life-spine--conquest-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--life-spine--conquest-spinal/extracted/fda_structured/interbody-cage--life-spine--conquest-spinal.json",
+        "bytes": 645
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K090320.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--life-spine--conquest-spinal/fda_raw/NKB/K090320.json",
+        "bytes": 556
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--life-spine--conquest-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--life-spine--conquest-spinal/merged/interbody-cage--life-spine--conquest-spinal.json",
+        "bytes": 807
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

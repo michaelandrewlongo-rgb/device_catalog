@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--ctl-medical-corporation--mondrian-alif-cage-with-supplementary",
+  "artifact_folder": "pedicle-screw--ctl-medical-corporation--mondrian-alif-cage-with-supplementary",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3302,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--ctl-medical-corporation--mondrian-alif-cage-with-supplementary.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--ctl-medical-corporation--mondrian-alif-cage-with-supplementary/enriched/pedicle-screw--ctl-medical-corporation--mondrian-alif-cage-with-supplementary.json",
+        "bytes": 1744
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K213641.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--ctl-medical-corporation--mondrian-alif-cage-with-supplementary/fda_raw/MAX/K213641.json",
+        "bytes": 645
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--ctl-medical-corporation--mondrian-alif-cage-with-supplementary.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--ctl-medical-corporation--mondrian-alif-cage-with-supplementary/merged/pedicle-screw--ctl-medical-corporation--mondrian-alif-cage-with-supplementary.json",
+        "bytes": 913
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

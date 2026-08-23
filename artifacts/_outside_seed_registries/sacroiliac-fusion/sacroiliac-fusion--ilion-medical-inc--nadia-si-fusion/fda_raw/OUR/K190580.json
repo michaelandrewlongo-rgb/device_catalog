@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K190580",
+  "clearance_date": "2020-08-05",
+  "device_class": 2,
+  "manufacturer_canonical": "ilion-medical-inc",
+  "manufacturer_raw": "Ilion Medical, Inc.",
+  "catalog_category": "sacroiliac-fusion",
+  "device_name_fda": "NADIA SI Fusion System",
+  "product_code": "OUR",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "sacroiliac-fusion--ilion-medical-inc--nadia-si-fusion",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf19/K190580.pdf"
+}

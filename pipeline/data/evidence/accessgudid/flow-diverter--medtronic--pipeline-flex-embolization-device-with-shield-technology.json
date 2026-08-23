@@ -1,0 +1,292 @@
+[
+  {
+    "device_family": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+    "query_used": "Pipeline Flex Embolization Device with Shield Technology",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00836462015937",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Pipeline",
+      "companyName": "Micro Therapeutics, Inc.",
+      "deviceIdentifier": "0ee934de-0bcc-49fd-95fd-487cc5c87e85",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "46352",
+          "gmdnCodeStatus": "Active",
+          "implantable": "true",
+          "termName": "Bare-metal intracranial vascular stent"
+        }
+      ],
+      "modelNumber": "PED-500-35"
+    },
+    "retrieved_at": "2026-04-15T10:11:30+00:00",
+    "source_id": "accessgudid:00836462015937",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/0ee934de-0bcc-49fd-95fd-487cc5c87e85",
+    "title": "Pipeline (Micro Therapeutics, Inc.)"
+  },
+  {
+    "device_family": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+    "query_used": "Pipeline Flex Embolization Device with Shield Technology",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00836462015920",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Pipeline",
+      "companyName": "Micro Therapeutics, Inc.",
+      "deviceIdentifier": "5448e884-659e-4a87-a01e-9e261123d4f1",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "46352",
+          "gmdnCodeStatus": "Active",
+          "implantable": "true",
+          "termName": "Bare-metal intracranial vascular stent"
+        }
+      ],
+      "modelNumber": "PED-500-30"
+    },
+    "retrieved_at": "2026-04-15T10:11:30+00:00",
+    "source_id": "accessgudid:00836462015920",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/5448e884-659e-4a87-a01e-9e261123d4f1",
+    "title": "Pipeline (Micro Therapeutics, Inc.)"
+  },
+  {
+    "device_family": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+    "query_used": "Pipeline Flex Embolization Device with Shield Technology",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00836462015913",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Pipeline",
+      "companyName": "Micro Therapeutics, Inc.",
+      "deviceIdentifier": "7650f321-f11c-4cf3-bf3d-b9adda89f344",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "46352",
+          "gmdnCodeStatus": "Active",
+          "implantable": "true",
+          "termName": "Bare-metal intracranial vascular stent"
+        }
+      ],
+      "modelNumber": "PED-500-25"
+    },
+    "retrieved_at": "2026-04-15T10:11:30+00:00",
+    "source_id": "accessgudid:00836462015913",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/7650f321-f11c-4cf3-bf3d-b9adda89f344",
+    "title": "Pipeline (Micro Therapeutics, Inc.)"
+  },
+  {
+    "device_family": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+    "query_used": "Pipeline Flex Embolization Device with Shield Technology",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00836462015906",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Pipeline",
+      "companyName": "Micro Therapeutics, Inc.",
+      "deviceIdentifier": "6ec61208-1c5f-4147-aca8-7e48bf84e2e7",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "46352",
+          "gmdnCodeStatus": "Active",
+          "implantable": "true",
+          "termName": "Bare-metal intracranial vascular stent"
+        }
+      ],
+      "modelNumber": "PED-475-35"
+    },
+    "retrieved_at": "2026-04-15T10:11:30+00:00",
+    "source_id": "accessgudid:00836462015906",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/6ec61208-1c5f-4147-aca8-7e48bf84e2e7",
+    "title": "Pipeline (Micro Therapeutics, Inc.)"
+  },
+  {
+    "device_family": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+    "query_used": "Pipeline Flex Embolization Device with Shield Technology",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00836462015890",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Pipeline",
+      "companyName": "Micro Therapeutics, Inc.",
+      "deviceIdentifier": "c16f77a7-dea9-4cbd-bc39-98aa4638c601",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "46352",
+          "gmdnCodeStatus": "Active",
+          "implantable": "true",
+          "termName": "Bare-metal intracranial vascular stent"
+        }
+      ],
+      "modelNumber": "PED-475-30"
+    },
+    "retrieved_at": "2026-04-15T10:11:30+00:00",
+    "source_id": "accessgudid:00836462015890",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/c16f77a7-dea9-4cbd-bc39-98aa4638c601",
+    "title": "Pipeline (Micro Therapeutics, Inc.)"
+  },
+  {
+    "device_family": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+    "query_used": "Pipeline Flex Embolization Device with Shield Technology",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00836462015883",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Pipeline",
+      "companyName": "Micro Therapeutics, Inc.",
+      "deviceIdentifier": "25fb90a0-a979-45ab-978a-42d71eb508f9",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "46352",
+          "gmdnCodeStatus": "Active",
+          "implantable": "true",
+          "termName": "Bare-metal intracranial vascular stent"
+        }
+      ],
+      "modelNumber": "PED-475-25"
+    },
+    "retrieved_at": "2026-04-15T10:11:30+00:00",
+    "source_id": "accessgudid:00836462015883",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/25fb90a0-a979-45ab-978a-42d71eb508f9",
+    "title": "Pipeline (Micro Therapeutics, Inc.)"
+  },
+  {
+    "device_family": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+    "query_used": "Pipeline Flex Embolization Device with Shield Technology",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00836462015876",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Pipeline",
+      "companyName": "Micro Therapeutics, Inc.",
+      "deviceIdentifier": "a4d02ab2-96e0-412d-ab35-4c9a78eba87e",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "46352",
+          "gmdnCodeStatus": "Active",
+          "implantable": "true",
+          "termName": "Bare-metal intracranial vascular stent"
+        }
+      ],
+      "modelNumber": "PED-450-35"
+    },
+    "retrieved_at": "2026-04-15T10:11:30+00:00",
+    "source_id": "accessgudid:00836462015876",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/a4d02ab2-96e0-412d-ab35-4c9a78eba87e",
+    "title": "Pipeline (Micro Therapeutics, Inc.)"
+  },
+  {
+    "device_family": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+    "query_used": "Pipeline Flex Embolization Device with Shield Technology",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00836462015869",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Pipeline",
+      "companyName": "Micro Therapeutics, Inc.",
+      "deviceIdentifier": "d681c937-4352-45fb-9e92-816ab43187fd",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "46352",
+          "gmdnCodeStatus": "Active",
+          "implantable": "true",
+          "termName": "Bare-metal intracranial vascular stent"
+        }
+      ],
+      "modelNumber": "PED-450-30"
+    },
+    "retrieved_at": "2026-04-15T10:11:30+00:00",
+    "source_id": "accessgudid:00836462015869",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/d681c937-4352-45fb-9e92-816ab43187fd",
+    "title": "Pipeline (Micro Therapeutics, Inc.)"
+  },
+  {
+    "device_family": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+    "query_used": "Pipeline Flex Embolization Device with Shield Technology",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00836462015852",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Pipeline",
+      "companyName": "Micro Therapeutics, Inc.",
+      "deviceIdentifier": "2f541d66-6f79-49b0-b572-525ee474f681",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "46352",
+          "gmdnCodeStatus": "Active",
+          "implantable": "true",
+          "termName": "Bare-metal intracranial vascular stent"
+        }
+      ],
+      "modelNumber": "PED-450-25"
+    },
+    "retrieved_at": "2026-04-15T10:11:30+00:00",
+    "source_id": "accessgudid:00836462015852",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/2f541d66-6f79-49b0-b572-525ee474f681",
+    "title": "Pipeline (Micro Therapeutics, Inc.)"
+  },
+  {
+    "device_family": "flow-diverter--medtronic--pipeline-flex-embolization-device-with-shield-technology",
+    "query_used": "Pipeline Flex Embolization Device with Shield Technology",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00836462015845",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Pipeline",
+      "companyName": "Micro Therapeutics, Inc.",
+      "deviceIdentifier": "9e09ebaa-76f8-49e8-a720-711de1cb9fce",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "46352",
+          "gmdnCodeStatus": "Active",
+          "implantable": "true",
+          "termName": "Bare-metal intracranial vascular stent"
+        }
+      ],
+      "modelNumber": "PED-425-35"
+    },
+    "retrieved_at": "2026-04-15T10:11:30+00:00",
+    "source_id": "accessgudid:00836462015845",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/9e09ebaa-76f8-49e8-a720-711de1cb9fce",
+    "title": "Pipeline (Micro Therapeutics, Inc.)"
+  }
+]

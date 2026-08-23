@@ -1,0 +1,75 @@
+{
+  "device_slug": "interbody-cage--depuy--expedium-spine",
+  "artifact_folder": "interbody-cage--depuy--expedium-spine",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 11,
+  "bytes": 7684,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--depuy--expedium-spine.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--expedium-spine/enriched/interbody-cage--depuy--expedium-spine.json",
+        "bytes": 1908
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K051024.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--expedium-spine/fda_raw/NKB/K051024.json",
+        "bytes": 551
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K063741.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--expedium-spine/fda_raw/NKB/K063741.json",
+        "bytes": 551
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K063772.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--expedium-spine/fda_raw/NKB/K063772.json",
+        "bytes": 551
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K070387.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--expedium-spine/fda_raw/NKB/K070387.json",
+        "bytes": 551
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K073126.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--expedium-spine/fda_raw/NKB/K073126.json",
+        "bytes": 551
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K081898.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--expedium-spine/fda_raw/NKB/K081898.json",
+        "bytes": 551
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K090230.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--expedium-spine/fda_raw/NKB/K090230.json",
+        "bytes": 551
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K092473.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--expedium-spine/fda_raw/NKB/K092473.json",
+        "bytes": 551
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K102249.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--expedium-spine/fda_raw/NKB/K102249.json",
+        "bytes": 574
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--depuy--expedium-spine.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--expedium-spine/merged/interbody-cage--depuy--expedium-spine.json",
+        "bytes": 794
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

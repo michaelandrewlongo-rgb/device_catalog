@@ -1,0 +1,42 @@
+{
+  "device_slug": "flow-diverter--balt--silk-vista",
+  "artifact_folder": "flow-diverter--balt--silk-vista",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 7647,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/flow-diverter--balt--silk-vista--knowledge.md",
+        "artifact": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--balt--silk-vista/data_by_device/flow-diverter--balt--silk-vista--knowledge.md",
+        "bytes": 2614
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/flow-diverter--balt--silk-vista.json",
+        "artifact": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--balt--silk-vista/enriched/flow-diverter--balt--silk-vista.json",
+        "bytes": 2492
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/flow-diverter--balt--silk-vista.json",
+        "artifact": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--balt--silk-vista/merged/flow-diverter--balt--silk-vista.json",
+        "bytes": 1412
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/balt/silk-vista.json",
+        "artifact": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--balt--silk-vista/scraper_raw/balt/silk-vista.json",
+        "bytes": 1129
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "flow-diverter",
+    "label": "Flow diverters noted as separate exemplar"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--depuy--synthes-mirs",
+  "artifact_folder": "interbody-cage--depuy--synthes-mirs",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3198,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--depuy--synthes-mirs.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--synthes-mirs/enriched/interbody-cage--depuy--synthes-mirs.json",
+        "bytes": 1888
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K113044.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--synthes-mirs/fda_raw/NKB/K113044.json",
+        "bytes": 536
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--depuy--synthes-mirs.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--synthes-mirs/merged/interbody-cage--depuy--synthes-mirs.json",
+        "bytes": 774
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

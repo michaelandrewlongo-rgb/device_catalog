@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--senecka-spine--seneka-ii-polyscrew-pedicle-fixation",
+  "artifact_folder": "interbody-cage--senecka-spine--seneka-ii-polyscrew-pedicle-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2940,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--senecka-spine--seneka-ii-polyscrew-pedicle-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--senecka-spine--seneka-ii-polyscrew-pedicle-fixation/enriched/interbody-cage--senecka-spine--seneka-ii-polyscrew-pedicle-fixation.json",
+        "bytes": 1457
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K153525.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--senecka-spine--seneka-ii-polyscrew-pedicle-fixation/fda_raw/NKB/K153525.json",
+        "bytes": 607
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--senecka-spine--seneka-ii-polyscrew-pedicle-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--senecka-spine--seneka-ii-polyscrew-pedicle-fixation/merged/interbody-cage--senecka-spine--seneka-ii-polyscrew-pedicle-fixation.json",
+        "bytes": 876
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--medos-international-sarl--depuy-pulse-thoracolumbar-screw",
+  "artifact_folder": "interbody-cage--medos-international-sarl--depuy-pulse-thoracolumbar-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2977,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--medos-international-sarl--depuy-pulse-thoracolumbar-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medos-international-sarl--depuy-pulse-thoracolumbar-screw/enriched/interbody-cage--medos-international-sarl--depuy-pulse-thoracolumbar-screw.json",
+        "bytes": 1464
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K113396.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medos-international-sarl--depuy-pulse-thoracolumbar-screw/fda_raw/NKB/K113396.json",
+        "bytes": 630
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--medos-international-sarl--depuy-pulse-thoracolumbar-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medos-international-sarl--depuy-pulse-thoracolumbar-screw/merged/interbody-cage--medos-international-sarl--depuy-pulse-thoracolumbar-screw.json",
+        "bytes": 883
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

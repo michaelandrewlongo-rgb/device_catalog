@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--linkspine-inc--corticalink-spinal-fusion-platform",
+  "artifact_folder": "interbody-cage--linkspine-inc--corticalink-spinal-fusion-platform",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2891,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--linkspine-inc--corticalink-spinal-fusion-platform.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--linkspine-inc--corticalink-spinal-fusion-platform/enriched/interbody-cage--linkspine-inc--corticalink-spinal-fusion-platform.json",
+        "bytes": 1437
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K173484.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--linkspine-inc--corticalink-spinal-fusion-platform/fda_raw/NKB/K173484.json",
+        "bytes": 598
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--linkspine-inc--corticalink-spinal-fusion-platform.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--linkspine-inc--corticalink-spinal-fusion-platform/merged/interbody-cage--linkspine-inc--corticalink-spinal-fusion-platform.json",
+        "bytes": 856
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

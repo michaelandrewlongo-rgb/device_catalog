@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--spinal-usa--spinal-usa-interbody-fusion",
+  "artifact_folder": "pedicle-screw--spinal-usa--spinal-usa-interbody-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2841,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--spinal-usa--spinal-usa-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinal-usa--spinal-usa-interbody-fusion/enriched/pedicle-screw--spinal-usa--spinal-usa-interbody-fusion.json",
+        "bytes": 1422
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K080314.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinal-usa--spinal-usa-interbody-fusion/fda_raw/MAX/K080314.json",
+        "bytes": 578
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--spinal-usa--spinal-usa-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinal-usa--spinal-usa-interbody-fusion/merged/pedicle-screw--spinal-usa--spinal-usa-interbody-fusion.json",
+        "bytes": 841
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

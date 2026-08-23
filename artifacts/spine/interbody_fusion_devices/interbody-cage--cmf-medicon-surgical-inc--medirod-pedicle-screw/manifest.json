@@ -1,0 +1,42 @@
+{
+  "device_slug": "interbody-cage--cmf-medicon-surgical-inc--medirod-pedicle-screw",
+  "artifact_folder": "interbody-cage--cmf-medicon-surgical-inc--medirod-pedicle-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3760,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--cmf-medicon-surgical-inc--medirod-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--cmf-medicon-surgical-inc--medirod-pedicle-screw/enriched/interbody-cage--cmf-medicon-surgical-inc--medirod-pedicle-screw.json",
+        "bytes": 1691
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--cmf-medicon-surgical-inc--medirod-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--cmf-medicon-surgical-inc--medirod-pedicle-screw/extracted/fda_structured/interbody-cage--cmf-medicon-surgical-inc--medirod-pedicle-screw.json",
+        "bytes": 604
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K242764.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--cmf-medicon-surgical-inc--medirod-pedicle-screw/fda_raw/NKB/K242764.json",
+        "bytes": 612
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--cmf-medicon-surgical-inc--medirod-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--cmf-medicon-surgical-inc--medirod-pedicle-screw/merged/interbody-cage--cmf-medicon-surgical-inc--medirod-pedicle-screw.json",
+        "bytes": 853
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

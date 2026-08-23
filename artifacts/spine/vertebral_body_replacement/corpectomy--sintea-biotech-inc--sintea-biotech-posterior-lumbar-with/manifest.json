@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--sintea-biotech-inc--sintea-biotech-posterior-lumbar-with",
+  "artifact_folder": "corpectomy--sintea-biotech-inc--sintea-biotech-posterior-lumbar-with",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3198,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--sintea-biotech-inc--sintea-biotech-posterior-lumbar-with.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sintea-biotech-inc--sintea-biotech-posterior-lumbar-with/enriched/corpectomy--sintea-biotech-inc--sintea-biotech-posterior-lumbar-with.json",
+        "bytes": 1557
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K043355.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sintea-biotech-inc--sintea-biotech-posterior-lumbar-with/fda_raw/KWP/K043355.json",
+        "bytes": 665
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--sintea-biotech-inc--sintea-biotech-posterior-lumbar-with.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sintea-biotech-inc--sintea-biotech-posterior-lumbar-with/merged/corpectomy--sintea-biotech-inc--sintea-biotech-posterior-lumbar-with.json",
+        "bytes": 976
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

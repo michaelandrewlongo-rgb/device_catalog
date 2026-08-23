@@ -1,0 +1,40 @@
+{
+  "device_slug": "pedicle-screw--spinefrontier-inc--spinefrontier-lumbar-interbody-fusion",
+  "artifact_folder": "pedicle-screw--spinefrontier-inc--spinefrontier-lumbar-interbody-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3635,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--spinefrontier-inc--spinefrontier-lumbar-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinefrontier-inc--spinefrontier-lumbar-interbody-fusion/enriched/pedicle-screw--spinefrontier-inc--spinefrontier-lumbar-interbody-fusion.json",
+        "bytes": 1480
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K142504.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinefrontier-inc--spinefrontier-lumbar-interbody-fusion/fda_raw/MAX/K142504.json",
+        "bytes": 628
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K193106.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinefrontier-inc--spinefrontier-lumbar-interbody-fusion/fda_raw/MAX/K193106.json",
+        "bytes": 628
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--spinefrontier-inc--spinefrontier-lumbar-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinefrontier-inc--spinefrontier-lumbar-interbody-fusion/merged/pedicle-screw--spinefrontier-inc--spinefrontier-lumbar-interbody-fusion.json",
+        "bytes": 899
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

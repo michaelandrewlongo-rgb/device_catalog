@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--spinefrontier-inc--dorado-wide-intervertebral-body-cage",
+  "artifact_folder": "pedicle-screw--spinefrontier-inc--dorado-wide-intervertebral-body-cage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3044,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--spinefrontier-inc--dorado-wide-intervertebral-body-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinefrontier-inc--dorado-wide-intervertebral-body-cage/enriched/pedicle-screw--spinefrontier-inc--dorado-wide-intervertebral-body-cage.json",
+        "bytes": 1495
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K091638.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinefrontier-inc--dorado-wide-intervertebral-body-cage/fda_raw/MAX/K091638.json",
+        "bytes": 635
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--spinefrontier-inc--dorado-wide-intervertebral-body-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinefrontier-inc--dorado-wide-intervertebral-body-cage/merged/pedicle-screw--spinefrontier-inc--dorado-wide-intervertebral-body-cage.json",
+        "bytes": 914
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

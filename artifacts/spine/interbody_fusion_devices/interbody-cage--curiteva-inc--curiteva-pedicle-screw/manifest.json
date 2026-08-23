@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--curiteva-inc--curiteva-pedicle-screw",
+  "artifact_folder": "interbody-cage--curiteva-inc--curiteva-pedicle-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2823,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--curiteva-inc--curiteva-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--curiteva-inc--curiteva-pedicle-screw/enriched/interbody-cage--curiteva-inc--curiteva-pedicle-screw.json",
+        "bytes": 1413
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K191810.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--curiteva-inc--curiteva-pedicle-screw/fda_raw/NKB/K191810.json",
+        "bytes": 578
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--curiteva-inc--curiteva-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--curiteva-inc--curiteva-pedicle-screw/merged/interbody-cage--curiteva-inc--curiteva-pedicle-screw.json",
+        "bytes": 832
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

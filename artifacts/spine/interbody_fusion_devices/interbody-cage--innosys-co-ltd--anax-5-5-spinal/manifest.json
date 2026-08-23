@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--innosys-co-ltd--anax-5-5-spinal",
+  "artifact_folder": "interbody-cage--innosys-co-ltd--anax-5-5-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2800,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--innosys-co-ltd--anax-5-5-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--innosys-co-ltd--anax-5-5-spinal/enriched/interbody-cage--innosys-co-ltd--anax-5-5-spinal.json",
+        "bytes": 1400
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K231737.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--innosys-co-ltd--anax-5-5-spinal/fda_raw/NKB/K231737.json",
+        "bytes": 573
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--innosys-co-ltd--anax-5-5-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--innosys-co-ltd--anax-5-5-spinal/merged/interbody-cage--innosys-co-ltd--anax-5-5-spinal.json",
+        "bytes": 827
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

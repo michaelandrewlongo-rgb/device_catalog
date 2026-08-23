@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--seaspine-inc--malibu-spinal",
+  "artifact_folder": "corpectomy--seaspine-inc--malibu-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3200,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--seaspine-inc--malibu-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--seaspine-inc--malibu-spinal/enriched/corpectomy--seaspine-inc--malibu-spinal.json",
+        "bytes": 1851
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K051942.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--seaspine-inc--malibu-spinal/fda_raw/KWP/K051942.json",
+        "bytes": 552
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--seaspine-inc--malibu-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--seaspine-inc--malibu-spinal/merged/corpectomy--seaspine-inc--malibu-spinal.json",
+        "bytes": 797
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

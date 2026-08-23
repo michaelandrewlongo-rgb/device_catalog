@@ -1,0 +1,60 @@
+{
+  "device_name": "iFuse Bedrock Granite",
+  "manufacturer": "si-bone",
+  "catalog_category": "sacroiliac-fusion",
+  "filename_stem": "sacroiliac-fusion--si-bone--ifuse-bedrock-granite",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "Features:\n                                        \n                                                                                    High-Angulation Screw , Favored Angle Head",
+  "sizing_specs": null,
+  "indications": "Spinopelvic fixation in adult deformity, revision spine surgery, and cases with concomitant SI joint dysfunction.",
+  "contraindications": null,
+  "compatible_with": "OMNICapture Tulip & Screw Set (included)",
+  "use_notes": "FDA Breakthrough Device Designation. CMS New Technology Add-on Payment (NTAP) eligible for Medicare patients. Use cases include revision with S1/stacked S2AI, congenital deformity revision, adult idiopathic scoliosis.",
+  "deployment_steps": null,
+  "also_known_as": [
+    "Bedrock Granite"
+  ],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://si-bone.com/providers/solutions/spinopelvic-fixation/ifuse-bedrock-granite",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "nspr",
+      "confidence": 0.8
+    },
+    "sizing_specs": {
+      "source": "none",
+      "confidence": 0
+    },
+    "indications": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "use_notes": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "also_known_as": {
+      "source": "scraper",
+      "confidence": 0.5
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--medos-international-s-rl--conduit-lateral-lumbar-intervertebral-fusion",
+  "artifact_folder": "pedicle-screw--medos-international-s-rl--conduit-lateral-lumbar-intervertebral-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3207,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--medos-international-s-rl--conduit-lateral-lumbar-intervertebral-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medos-international-s-rl--conduit-lateral-lumbar-intervertebral-fusion/enriched/pedicle-screw--medos-international-s-rl--conduit-lateral-lumbar-intervertebral-fusion.json",
+        "bytes": 1547
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K223688.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medos-international-s-rl--conduit-lateral-lumbar-intervertebral-fusion/fda_raw/MAX/K223688.json",
+        "bytes": 678
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--medos-international-s-rl--conduit-lateral-lumbar-intervertebral-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medos-international-s-rl--conduit-lateral-lumbar-intervertebral-fusion/merged/pedicle-screw--medos-international-s-rl--conduit-lateral-lumbar-intervertebral-fusion.json",
+        "bytes": 982
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

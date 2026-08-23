@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--radionics-inc--radionics-siphon-limiting-sld",
+  "artifact_folder": "csf-shunt--radionics-inc--radionics-siphon-limiting-sld",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2865,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--radionics-inc--radionics-siphon-limiting-sld.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_antisiphon_devices/csf-shunt--radionics-inc--radionics-siphon-limiting-sld/enriched/csf-shunt--radionics-inc--radionics-siphon-limiting-sld.json",
+        "bytes": 1430
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K962990.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_antisiphon_devices/csf-shunt--radionics-inc--radionics-siphon-limiting-sld/fda_raw/JXG/K962990.json",
+        "bytes": 586
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--radionics-inc--radionics-siphon-limiting-sld.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_antisiphon_devices/csf-shunt--radionics-inc--radionics-siphon-limiting-sld/merged/csf-shunt--radionics-inc--radionics-siphon-limiting-sld.json",
+        "bytes": 849
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_antisiphon_devices",
+    "label": "Antisiphon Accessories"
+  }
+}

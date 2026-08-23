@@ -1,0 +1,45 @@
+{
+  "device_slug": "pedicle-screw--safe-orthopaedics--sterispine-lc-cage",
+  "artifact_folder": "pedicle-screw--safe-orthopaedics--sterispine-lc-cage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 3931,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--safe-orthopaedics--sterispine-lc-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--safe-orthopaedics--sterispine-lc-cage/enriched/pedicle-screw--safe-orthopaedics--sterispine-lc-cage.json",
+        "bytes": 1395
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K122021.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--safe-orthopaedics--sterispine-lc-cage/fda_raw/MAX/K122021.json",
+        "bytes": 574
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K133893.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--safe-orthopaedics--sterispine-lc-cage/fda_raw/MAX/K133893.json",
+        "bytes": 574
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K151756.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--safe-orthopaedics--sterispine-lc-cage/fda_raw/MAX/K151756.json",
+        "bytes": 574
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--safe-orthopaedics--sterispine-lc-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--safe-orthopaedics--sterispine-lc-cage/merged/pedicle-screw--safe-orthopaedics--sterispine-lc-cage.json",
+        "bytes": 814
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

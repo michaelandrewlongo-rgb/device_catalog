@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--zimmer-inc--edwards-sacral-screw",
+  "artifact_folder": "corpectomy--zimmer-inc--edwards-sacral-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3265,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--zimmer-inc--edwards-sacral-screw.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--zimmer-inc--edwards-sacral-screw/enriched/corpectomy--zimmer-inc--edwards-sacral-screw.json",
+        "bytes": 1912
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K851935.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--zimmer-inc--edwards-sacral-screw/fda_raw/KWP/K851935.json",
+        "bytes": 553
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--zimmer-inc--edwards-sacral-screw.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--zimmer-inc--edwards-sacral-screw/merged/corpectomy--zimmer-inc--edwards-sacral-screw.json",
+        "bytes": 800
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

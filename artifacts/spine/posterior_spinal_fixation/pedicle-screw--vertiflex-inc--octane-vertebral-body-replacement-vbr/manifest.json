@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--vertiflex-inc--octane-vertebral-body-replacement-vbr",
+  "artifact_folder": "pedicle-screw--vertiflex-inc--octane-vertebral-body-replacement-vbr",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2954,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--vertiflex-inc--octane-vertebral-body-replacement-vbr.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--vertiflex-inc--octane-vertebral-body-replacement-vbr/enriched/pedicle-screw--vertiflex-inc--octane-vertebral-body-replacement-vbr.json",
+        "bytes": 1462
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K082270.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--vertiflex-inc--octane-vertebral-body-replacement-vbr/fda_raw/MAX/K082270.json",
+        "bytes": 611
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--vertiflex-inc--octane-vertebral-body-replacement-vbr.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--vertiflex-inc--octane-vertebral-body-replacement-vbr/merged/pedicle-screw--vertiflex-inc--octane-vertebral-body-replacement-vbr.json",
+        "bytes": 881
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

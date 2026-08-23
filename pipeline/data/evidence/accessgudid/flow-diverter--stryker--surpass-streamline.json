@@ -1,0 +1,292 @@
+[
+  {
+    "device_family": "flow-diverter--stryker--surpass-streamline",
+    "query_used": "Surpass Streamline Flow Diverter -- Stryker Neurovascular",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "07613252648864",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Surpass Streamline",
+      "companyName": "Stryker Corporation",
+      "deviceIdentifier": "c8b4de3c-3b61-486b-9071-3e4fc266bd4c",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "46352",
+          "gmdnCodeStatus": "Active",
+          "implantable": "true",
+          "termName": "Bare-metal intracranial vascular stent"
+        }
+      ],
+      "modelNumber": "M003SFD050400"
+    },
+    "retrieved_at": "2026-04-15T10:11:38+00:00",
+    "source_id": "accessgudid:07613252648864",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/c8b4de3c-3b61-486b-9071-3e4fc266bd4c",
+    "title": "Surpass Streamline (Stryker Corporation)"
+  },
+  {
+    "device_family": "flow-diverter--stryker--surpass-streamline",
+    "query_used": "Surpass Streamline Flow Diverter -- Stryker Neurovascular",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "07613252648857",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Surpass Streamline",
+      "companyName": "Stryker Corporation",
+      "deviceIdentifier": "88846fb2-2a46-48a3-babd-7ea7179a121a",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "46352",
+          "gmdnCodeStatus": "Active",
+          "implantable": "true",
+          "termName": "Bare-metal intracranial vascular stent"
+        }
+      ],
+      "modelNumber": "M003SFD050250"
+    },
+    "retrieved_at": "2026-04-15T10:11:38+00:00",
+    "source_id": "accessgudid:07613252648857",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/88846fb2-2a46-48a3-babd-7ea7179a121a",
+    "title": "Surpass Streamline (Stryker Corporation)"
+  },
+  {
+    "device_family": "flow-diverter--stryker--surpass-streamline",
+    "query_used": "Surpass Streamline Flow Diverter -- Stryker Neurovascular",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "07613252648833",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Surpass Streamline",
+      "companyName": "Stryker Corporation",
+      "deviceIdentifier": "77daf87e-ff54-4954-b0da-19962da1854c",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "46352",
+          "gmdnCodeStatus": "Active",
+          "implantable": "true",
+          "termName": "Bare-metal intracranial vascular stent"
+        }
+      ],
+      "modelNumber": "M003SFD050300"
+    },
+    "retrieved_at": "2026-04-15T10:11:38+00:00",
+    "source_id": "accessgudid:07613252648833",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/77daf87e-ff54-4954-b0da-19962da1854c",
+    "title": "Surpass Streamline (Stryker Corporation)"
+  },
+  {
+    "device_family": "flow-diverter--stryker--surpass-streamline",
+    "query_used": "Surpass Streamline Flow Diverter -- Stryker Neurovascular",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "07613252648819",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Surpass Streamline",
+      "companyName": "Stryker Corporation",
+      "deviceIdentifier": "858e6f63-b2c9-4a7d-948a-141fbbb3a194",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "46352",
+          "gmdnCodeStatus": "Active",
+          "implantable": "true",
+          "termName": "Bare-metal intracranial vascular stent"
+        }
+      ],
+      "modelNumber": "M003SFD050200"
+    },
+    "retrieved_at": "2026-04-15T10:11:38+00:00",
+    "source_id": "accessgudid:07613252648819",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/858e6f63-b2c9-4a7d-948a-141fbbb3a194",
+    "title": "Surpass Streamline (Stryker Corporation)"
+  },
+  {
+    "device_family": "flow-diverter--stryker--surpass-streamline",
+    "query_used": "Surpass Streamline Flow Diverter -- Stryker Neurovascular",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "07613252648802",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Surpass Streamline",
+      "companyName": "Stryker Corporation",
+      "deviceIdentifier": "07d7a783-0b40-482f-ac02-89c0de8f640c",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "46352",
+          "gmdnCodeStatus": "Active",
+          "implantable": "true",
+          "termName": "Bare-metal intracranial vascular stent"
+        }
+      ],
+      "modelNumber": "M003SFD040400"
+    },
+    "retrieved_at": "2026-04-15T10:11:38+00:00",
+    "source_id": "accessgudid:07613252648802",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/07d7a783-0b40-482f-ac02-89c0de8f640c",
+    "title": "Surpass Streamline (Stryker Corporation)"
+  },
+  {
+    "device_family": "flow-diverter--stryker--surpass-streamline",
+    "query_used": "Surpass Streamline Flow Diverter -- Stryker Neurovascular",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "07613252648796",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Surpass Streamline",
+      "companyName": "Stryker Corporation",
+      "deviceIdentifier": "bf27679b-38e1-4def-b282-e43181fd9ee7",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "46352",
+          "gmdnCodeStatus": "Active",
+          "implantable": "true",
+          "termName": "Bare-metal intracranial vascular stent"
+        }
+      ],
+      "modelNumber": "M003SFD040300"
+    },
+    "retrieved_at": "2026-04-15T10:11:38+00:00",
+    "source_id": "accessgudid:07613252648796",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/bf27679b-38e1-4def-b282-e43181fd9ee7",
+    "title": "Surpass Streamline (Stryker Corporation)"
+  },
+  {
+    "device_family": "flow-diverter--stryker--surpass-streamline",
+    "query_used": "Surpass Streamline Flow Diverter -- Stryker Neurovascular",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "07613252648789",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Surpass Streamline",
+      "companyName": "Stryker Corporation",
+      "deviceIdentifier": "adbf678d-d34b-49a4-826c-69494192621a",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "46352",
+          "gmdnCodeStatus": "Active",
+          "implantable": "true",
+          "termName": "Bare-metal intracranial vascular stent"
+        }
+      ],
+      "modelNumber": "M003SFD040250"
+    },
+    "retrieved_at": "2026-04-15T10:11:38+00:00",
+    "source_id": "accessgudid:07613252648789",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/adbf678d-d34b-49a4-826c-69494192621a",
+    "title": "Surpass Streamline (Stryker Corporation)"
+  },
+  {
+    "device_family": "flow-diverter--stryker--surpass-streamline",
+    "query_used": "Surpass Streamline Flow Diverter -- Stryker Neurovascular",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "07613252648772",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Surpass Streamline",
+      "companyName": "Stryker Corporation",
+      "deviceIdentifier": "539c78a7-c9e4-4c2b-a3e1-f8c016016391",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "46352",
+          "gmdnCodeStatus": "Active",
+          "implantable": "true",
+          "termName": "Bare-metal intracranial vascular stent"
+        }
+      ],
+      "modelNumber": "M003SFD030200"
+    },
+    "retrieved_at": "2026-04-15T10:11:38+00:00",
+    "source_id": "accessgudid:07613252648772",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/539c78a7-c9e4-4c2b-a3e1-f8c016016391",
+    "title": "Surpass Streamline (Stryker Corporation)"
+  },
+  {
+    "device_family": "flow-diverter--stryker--surpass-streamline",
+    "query_used": "Surpass Streamline Flow Diverter -- Stryker Neurovascular",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "07613252648758",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Surpass Streamline",
+      "companyName": "Stryker Corporation",
+      "deviceIdentifier": "40aeb771-9254-44a4-9aa1-9c3e62a83593",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "46352",
+          "gmdnCodeStatus": "Active",
+          "implantable": "true",
+          "termName": "Bare-metal intracranial vascular stent"
+        }
+      ],
+      "modelNumber": "M003SFD030150"
+    },
+    "retrieved_at": "2026-04-15T10:11:38+00:00",
+    "source_id": "accessgudid:07613252648758",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/40aeb771-9254-44a4-9aa1-9c3e62a83593",
+    "title": "Surpass Streamline (Stryker Corporation)"
+  },
+  {
+    "device_family": "flow-diverter--stryker--surpass-streamline",
+    "query_used": "Surpass Streamline Flow Diverter -- Stryker Neurovascular",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "07613252648734",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Surpass Streamline",
+      "companyName": "Stryker Corporation",
+      "deviceIdentifier": "3df9213a-1002-47de-b3df-2bda744ea2e4",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "46352",
+          "gmdnCodeStatus": "Active",
+          "implantable": "true",
+          "termName": "Bare-metal intracranial vascular stent"
+        }
+      ],
+      "modelNumber": "M003SFD040200"
+    },
+    "retrieved_at": "2026-04-15T10:11:38+00:00",
+    "source_id": "accessgudid:07613252648734",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/3df9213a-1002-47de-b3df-2bda744ea2e4",
+    "title": "Surpass Streamline (Stryker Corporation)"
+  }
+]

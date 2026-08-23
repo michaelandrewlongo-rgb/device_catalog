@@ -1,0 +1,33 @@
+{
+  "device_slug": "csf-shunt--medtronic--strata-family",
+  "artifact_folder": "csf-shunt--medtronic--strata-family",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 854367,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/csf-shunt--medtronic--strata-family--brochure.pdf",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medtronic--strata-family/data_by_device/csf-shunt--medtronic--strata-family--brochure.pdf",
+        "bytes": 841314
+      },
+      {
+        "source": "pipeline/data/data_by_device/csf-shunt--medtronic--strata-family--knowledge.md",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medtronic--strata-family/data_by_device/csf-shunt--medtronic--strata-family--knowledge.md",
+        "bytes": 6916
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/documents/csf-shunt--medtronic--strata-family--brochure.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medtronic--strata-family/extracted/documents/csf-shunt--medtronic--strata-family--brochure.json",
+        "bytes": 6137
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

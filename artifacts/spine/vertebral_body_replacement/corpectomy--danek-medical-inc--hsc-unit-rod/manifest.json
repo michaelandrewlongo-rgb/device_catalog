@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--danek-medical-inc--hsc-unit-rod",
+  "artifact_folder": "corpectomy--danek-medical-inc--hsc-unit-rod",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2719,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--danek-medical-inc--hsc-unit-rod.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--danek-medical-inc--hsc-unit-rod/enriched/corpectomy--danek-medical-inc--hsc-unit-rod.json",
+        "bytes": 1371
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K896603.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--danek-medical-inc--hsc-unit-rod/fda_raw/KWP/K896603.json",
+        "bytes": 558
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--danek-medical-inc--hsc-unit-rod.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--danek-medical-inc--hsc-unit-rod/merged/corpectomy--danek-medical-inc--hsc-unit-rod.json",
+        "bytes": 790
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

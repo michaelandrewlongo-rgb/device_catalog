@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--baxter-healthcare-corp--the-pudenz-in-line-valve",
+  "artifact_folder": "csf-shunt--baxter-healthcare-corp--the-pudenz-in-line-valve",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2841,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--baxter-healthcare-corp--the-pudenz-in-line-valve.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--baxter-healthcare-corp--the-pudenz-in-line-valve/enriched/csf-shunt--baxter-healthcare-corp--the-pudenz-in-line-valve.json",
+        "bytes": 1415
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K894072.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--baxter-healthcare-corp--the-pudenz-in-line-valve/fda_raw/JXG/K894072.json",
+        "bytes": 592
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--baxter-healthcare-corp--the-pudenz-in-line-valve.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--baxter-healthcare-corp--the-pudenz-in-line-valve/merged/csf-shunt--baxter-healthcare-corp--the-pudenz-in-line-valve.json",
+        "bytes": 834
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

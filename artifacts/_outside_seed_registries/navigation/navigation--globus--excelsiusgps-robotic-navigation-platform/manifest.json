@@ -1,0 +1,42 @@
+{
+  "device_slug": "navigation--globus--excelsiusgps-robotic-navigation-platform",
+  "artifact_folder": "navigation--globus--excelsiusgps-robotic-navigation-platform",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 6030,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/navigation--globus--excelsiusgps-robotic-navigation-platform--knowledge.md",
+        "artifact": "artifacts/_outside_seed_registries/navigation/navigation--globus--excelsiusgps-robotic-navigation-platform/data_by_device/navigation--globus--excelsiusgps-robotic-navigation-platform--knowledge.md",
+        "bytes": 2222
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/navigation--globus--excelsiusgps-robotic-navigation-platform.json",
+        "artifact": "artifacts/_outside_seed_registries/navigation/navigation--globus--excelsiusgps-robotic-navigation-platform/enriched/navigation--globus--excelsiusgps-robotic-navigation-platform.json",
+        "bytes": 1832
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/navigation--globus--excelsiusgps-robotic-navigation-platform.json",
+        "artifact": "artifacts/_outside_seed_registries/navigation/navigation--globus--excelsiusgps-robotic-navigation-platform/merged/navigation--globus--excelsiusgps-robotic-navigation-platform.json",
+        "bytes": 1231
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/globus/excelsiusgps-robotic-navigation-platform.json",
+        "artifact": "artifacts/_outside_seed_registries/navigation/navigation--globus--excelsiusgps-robotic-navigation-platform/scraper_raw/globus/excelsiusgps-robotic-navigation-platform.json",
+        "bytes": 745
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "navigation",
+    "label": "Outside listed seed registries"
+  }
+}

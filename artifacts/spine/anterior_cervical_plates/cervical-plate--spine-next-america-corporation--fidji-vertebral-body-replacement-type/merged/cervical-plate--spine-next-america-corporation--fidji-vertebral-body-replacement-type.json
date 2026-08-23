@@ -1,0 +1,28 @@
+{
+  "device_name": "FIDJI-VERTEBRAL BODY REPLACEMENT TYPE 5",
+  "manufacturer": "spine-next-america-corporation",
+  "catalog_category": "cervical-plate",
+  "filename_stem": "cervical-plate--spine-next-america-corporation--fidji-vertebral-body-replacement-type",
+  "clearance_type": "510k",
+  "clearance_number": "K042713",
+  "clearance_date": "2004-12-29",
+  "device_class": 2,
+  "device_name_fda": "FIDJI-VERTEBRAL BODY REPLACEMENT TYPE 5",
+  "product_code": "MQP",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf04/K042713.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

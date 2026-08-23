@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--life-spine-inc--nautilus-spinal-and-solstice-oct",
+  "artifact_folder": "interbody-cage--life-spine-inc--nautilus-spinal-and-solstice-oct",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2952,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--life-spine-inc--nautilus-spinal-and-solstice-oct.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--life-spine-inc--nautilus-spinal-and-solstice-oct/enriched/interbody-cage--life-spine-inc--nautilus-spinal-and-solstice-oct.json",
+        "bytes": 1461
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K141222.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--life-spine-inc--nautilus-spinal-and-solstice-oct/fda_raw/NKB/K141222.json",
+        "bytes": 611
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--life-spine-inc--nautilus-spinal-and-solstice-oct.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--life-spine-inc--nautilus-spinal-and-solstice-oct/merged/interbody-cage--life-spine-inc--nautilus-spinal-and-solstice-oct.json",
+        "bytes": 880
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

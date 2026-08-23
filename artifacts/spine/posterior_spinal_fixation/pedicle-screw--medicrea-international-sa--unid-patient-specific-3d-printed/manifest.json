@@ -1,0 +1,40 @@
+{
+  "device_slug": "pedicle-screw--medicrea-international-sa--unid-patient-specific-3d-printed",
+  "artifact_folder": "pedicle-screw--medicrea-international-sa--unid-patient-specific-3d-printed",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3612,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--medicrea-international-sa--unid-patient-specific-3d-printed.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medicrea-international-sa--unid-patient-specific-3d-printed/enriched/pedicle-screw--medicrea-international-sa--unid-patient-specific-3d-printed.json",
+        "bytes": 1463
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K173782.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medicrea-international-sa--unid-patient-specific-3d-printed/fda_raw/MAX/K173782.json",
+        "bytes": 631
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K190092.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medicrea-international-sa--unid-patient-specific-3d-printed/fda_raw/MAX/K190092.json",
+        "bytes": 636
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--medicrea-international-sa--unid-patient-specific-3d-printed.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medicrea-international-sa--unid-patient-specific-3d-printed/merged/pedicle-screw--medicrea-international-sa--unid-patient-specific-3d-printed.json",
+        "bytes": 882
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

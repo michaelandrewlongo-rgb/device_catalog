@@ -1,0 +1,47 @@
+{
+  "device_slug": "dural-substitute--lemaitre-vascular-inc--xenosure-dura-biologic-patch",
+  "artifact_folder": "dural-substitute--lemaitre-vascular-inc--xenosure-dura-biologic-patch",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 314022,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/dural-substitute/parsed/fda_summaries/dural-substitute--lemaitre-vascular-inc--xenosure-dura-biologic-patch--510k.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--lemaitre-vascular-inc--xenosure-dura-biologic-patch/510k/dural-substitute/parsed/fda_summaries/dural-substitute--lemaitre-vascular-inc--xenosure-dura-biologic-patch--510k.json",
+        "bytes": 50866
+      },
+      {
+        "source": "pipeline/data/510k/dural-substitute/pdfs/dural-substitute--lemaitre-vascular-inc--xenosure-dura-biologic-patch--510k.pdf",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--lemaitre-vascular-inc--xenosure-dura-biologic-patch/510k/dural-substitute/pdfs/dural-substitute--lemaitre-vascular-inc--xenosure-dura-biologic-patch--510k.pdf",
+        "bytes": 227942
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/dural-substitute--lemaitre-vascular-inc--xenosure-dura-biologic-patch.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--lemaitre-vascular-inc--xenosure-dura-biologic-patch/enriched/dural-substitute--lemaitre-vascular-inc--xenosure-dura-biologic-patch.json",
+        "bytes": 33743
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/GXQ/K183513.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--lemaitre-vascular-inc--xenosure-dura-biologic-patch/fda_raw/GXQ/K183513.json",
+        "bytes": 613
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/dural-substitute--lemaitre-vascular-inc--xenosure-dura-biologic-patch.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--lemaitre-vascular-inc--xenosure-dura-biologic-patch/merged/dural-substitute--lemaitre-vascular-inc--xenosure-dura-biologic-patch.json",
+        "bytes": 858
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "dural-substitute",
+    "label": "Outside listed seed registries"
+  }
+}

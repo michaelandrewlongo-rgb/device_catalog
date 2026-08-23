@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--samuel-neff-m-d--shuntcheck-prometheus-1",
+  "artifact_folder": "csf-shunt--samuel-neff-m-d--shuntcheck-prometheus-1",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2795,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--samuel-neff-m-d--shuntcheck-prometheus-1.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--samuel-neff-m-d--shuntcheck-prometheus-1/enriched/csf-shunt--samuel-neff-m-d--shuntcheck-prometheus-1.json",
+        "bytes": 1402
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K040021.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--samuel-neff-m-d--shuntcheck-prometheus-1/fda_raw/JXG/K040021.json",
+        "bytes": 572
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--samuel-neff-m-d--shuntcheck-prometheus-1.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--samuel-neff-m-d--shuntcheck-prometheus-1/merged/csf-shunt--samuel-neff-m-d--shuntcheck-prometheus-1.json",
+        "bytes": 821
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

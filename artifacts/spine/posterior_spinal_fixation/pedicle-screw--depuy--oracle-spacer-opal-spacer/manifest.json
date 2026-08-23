@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--depuy--oracle-spacer-opal-spacer",
+  "artifact_folder": "pedicle-screw--depuy--oracle-spacer-opal-spacer",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3063,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--depuy--oracle-spacer-opal-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--depuy--oracle-spacer-opal-spacer/enriched/pedicle-screw--depuy--oracle-spacer-opal-spacer.json",
+        "bytes": 1689
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K072791.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--depuy--oracle-spacer-opal-spacer/fda_raw/MAX/K072791.json",
+        "bytes": 561
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--depuy--oracle-spacer-opal-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--depuy--oracle-spacer-opal-spacer/merged/pedicle-screw--depuy--oracle-spacer-opal-spacer.json",
+        "bytes": 813
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "unknown--balt--magic-glue",
+  "artifact_folder": "unknown--balt--magic-glue",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 4505,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/unknown--balt--magic-glue.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--balt--magic-glue/enriched/unknown--balt--magic-glue.json",
+        "bytes": 1982
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/unknown--balt--magic-glue.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--balt--magic-glue/merged/unknown--balt--magic-glue.json",
+        "bytes": 1400
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/balt/magic-glue.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--balt--magic-glue/scraper_raw/balt/magic-glue.json",
+        "bytes": 1123
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "unknown",
+    "label": "Outside listed seed registries"
+  }
+}

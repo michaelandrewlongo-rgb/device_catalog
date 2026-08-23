@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--smith-nephew-richards-inc--finn-rod-to-rod-connector",
+  "artifact_folder": "corpectomy--smith-nephew-richards-inc--finn-rod-to-rod-connector",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2881,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--smith-nephew-richards-inc--finn-rod-to-rod-connector.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--smith-nephew-richards-inc--finn-rod-to-rod-connector/enriched/corpectomy--smith-nephew-richards-inc--finn-rod-to-rod-connector.json",
+        "bytes": 1426
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K960444.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--smith-nephew-richards-inc--finn-rod-to-rod-connector/fda_raw/KWP/K960444.json",
+        "bytes": 610
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--smith-nephew-richards-inc--finn-rod-to-rod-connector.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--smith-nephew-richards-inc--finn-rod-to-rod-connector/merged/corpectomy--smith-nephew-richards-inc--finn-rod-to-rod-connector.json",
+        "bytes": 845
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

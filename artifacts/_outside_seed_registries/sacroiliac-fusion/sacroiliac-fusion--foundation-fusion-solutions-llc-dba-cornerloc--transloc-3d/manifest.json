@@ -1,0 +1,26 @@
+{
+  "device_slug": "sacroiliac-fusion--foundation-fusion-solutions-llc-dba-cornerloc--transloc-3d",
+  "artifact_folder": "sacroiliac-fusion--foundation-fusion-solutions-llc-dba-cornerloc--transloc-3d",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 2,
+  "bytes": 1310,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/OUR/K211496.json",
+        "artifact": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--foundation-fusion-solutions-llc-dba-cornerloc--transloc-3d/fda_raw/OUR/K211496.json",
+        "bytes": 655
+      },
+      {
+        "source": "pipeline/data/fda_raw/OUR/K232878.json",
+        "artifact": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--foundation-fusion-solutions-llc-dba-cornerloc--transloc-3d/fda_raw/OUR/K232878.json",
+        "bytes": 655
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "sacroiliac-fusion",
+    "label": "Outside listed seed registries"
+  }
+}

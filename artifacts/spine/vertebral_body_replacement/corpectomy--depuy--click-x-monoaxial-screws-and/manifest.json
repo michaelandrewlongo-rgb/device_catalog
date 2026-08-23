@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--depuy--click-x-monoaxial-screws-and",
+  "artifact_folder": "corpectomy--depuy--click-x-monoaxial-screws-and",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2959,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--depuy--click-x-monoaxial-screws-and.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--click-x-monoaxial-screws-and/enriched/corpectomy--depuy--click-x-monoaxial-screws-and.json",
+        "bytes": 1567
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K031175.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--click-x-monoaxial-screws-and/fda_raw/KWP/K031175.json",
+        "bytes": 566
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--depuy--click-x-monoaxial-screws-and.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--click-x-monoaxial-screws-and/merged/corpectomy--depuy--click-x-monoaxial-screws-and.json",
+        "bytes": 826
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

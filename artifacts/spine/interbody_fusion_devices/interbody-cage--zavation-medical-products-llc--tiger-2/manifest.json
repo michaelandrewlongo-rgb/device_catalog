@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--zavation-medical-products-llc--tiger-2",
+  "artifact_folder": "interbody-cage--zavation-medical-products-llc--tiger-2",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2821,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--zavation-medical-products-llc--tiger-2.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--zavation-medical-products-llc--tiger-2/enriched/interbody-cage--zavation-medical-products-llc--tiger-2.json",
+        "bytes": 1402
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K243908.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--zavation-medical-products-llc--tiger-2/fda_raw/NKB/K243908.json",
+        "bytes": 598
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--zavation-medical-products-llc--tiger-2.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--zavation-medical-products-llc--tiger-2/merged/interbody-cage--zavation-medical-products-llc--tiger-2.json",
+        "bytes": 821
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

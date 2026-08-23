@@ -1,0 +1,42 @@
+{
+  "device_slug": "dural-substitute--w-l-gore-associates-inc--preclude-mvp-dura-substitute",
+  "artifact_folder": "dural-substitute--w-l-gore-associates-inc--preclude-mvp-dura-substitute",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3732,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/dural-substitute--w-l-gore-associates-inc--preclude-mvp-dura-substitute.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--w-l-gore-associates-inc--preclude-mvp-dura-substitute/enriched/dural-substitute--w-l-gore-associates-inc--preclude-mvp-dura-substitute.json",
+        "bytes": 1672
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/dural-substitute--w-l-gore-associates-inc--preclude-mvp-dura-substitute.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--w-l-gore-associates-inc--preclude-mvp-dura-substitute/extracted/fda_structured/dural-substitute--w-l-gore-associates-inc--preclude-mvp-dura-substitute.json",
+        "bytes": 576
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/GXQ/K021477.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--w-l-gore-associates-inc--preclude-mvp-dura-substitute/fda_raw/GXQ/K021477.json",
+        "bytes": 622
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/dural-substitute--w-l-gore-associates-inc--preclude-mvp-dura-substitute.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--w-l-gore-associates-inc--preclude-mvp-dura-substitute/merged/dural-substitute--w-l-gore-associates-inc--preclude-mvp-dura-substitute.json",
+        "bytes": 862
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "dural-substitute",
+    "label": "Outside listed seed registries"
+  }
+}

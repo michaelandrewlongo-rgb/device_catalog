@@ -1,0 +1,21 @@
+{
+  "device_slug": "cervical-plate--stryker--reflex-hybrid",
+  "artifact_folder": "cervical-plate--stryker--reflex-hybrid",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 6833,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/cervical-plate--stryker--reflex-hybrid--knowledge.md",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--stryker--reflex-hybrid/data_by_device/cervical-plate--stryker--reflex-hybrid--knowledge.md",
+        "bytes": 6833
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

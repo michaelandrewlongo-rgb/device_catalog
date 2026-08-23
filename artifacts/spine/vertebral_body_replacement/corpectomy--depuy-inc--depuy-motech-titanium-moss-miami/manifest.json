@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--depuy-inc--depuy-motech-titanium-moss-miami",
+  "artifact_folder": "corpectomy--depuy-inc--depuy-motech-titanium-moss-miami",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2893,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--depuy-inc--depuy-motech-titanium-moss-miami.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy-inc--depuy-motech-titanium-moss-miami/enriched/corpectomy--depuy-inc--depuy-motech-titanium-moss-miami.json",
+        "bytes": 1443
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K964024.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy-inc--depuy-motech-titanium-moss-miami/fda_raw/KWP/K964024.json",
+        "bytes": 588
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--depuy-inc--depuy-motech-titanium-moss-miami.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy-inc--depuy-motech-titanium-moss-miami/merged/corpectomy--depuy-inc--depuy-motech-titanium-moss-miami.json",
+        "bytes": 862
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

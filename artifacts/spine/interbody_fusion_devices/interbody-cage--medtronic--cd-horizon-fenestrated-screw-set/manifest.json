@@ -1,0 +1,40 @@
+{
+  "device_slug": "interbody-cage--medtronic--cd-horizon-fenestrated-screw-set",
+  "artifact_folder": "interbody-cage--medtronic--cd-horizon-fenestrated-screw-set",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3867,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--medtronic--cd-horizon-fenestrated-screw-set.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--cd-horizon-fenestrated-screw-set/enriched/interbody-cage--medtronic--cd-horizon-fenestrated-screw-set.json",
+        "bytes": 1807
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K170347.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--cd-horizon-fenestrated-screw-set/fda_raw/NKB/K170347.json",
+        "bytes": 600
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K193011.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--cd-horizon-fenestrated-screw-set/fda_raw/NKB/K193011.json",
+        "bytes": 606
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--medtronic--cd-horizon-fenestrated-screw-set.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medtronic--cd-horizon-fenestrated-screw-set/merged/interbody-cage--medtronic--cd-horizon-fenestrated-screw-set.json",
+        "bytes": 854
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

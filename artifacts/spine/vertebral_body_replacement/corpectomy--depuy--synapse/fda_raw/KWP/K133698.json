@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K133698",
+  "clearance_date": "2014-01-16",
+  "device_class": 2,
+  "manufacturer_canonical": "depuy",
+  "manufacturer_raw": "Synthes USA Products, LLC",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "SYNAPSE SYSTEM",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--depuy--synapse",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf13/K133698.pdf"
+}

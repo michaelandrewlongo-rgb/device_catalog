@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K132738",
+  "clearance_date": "2014-04-15",
+  "device_class": 2,
+  "manufacturer_canonical": "cogent-spine-llc",
+  "manufacturer_raw": "Cogent Spine, LLC",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "COGENT MED-LIF",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--cogent-spine-llc--cogent-med-lif",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf13/K132738.pdf"
+}

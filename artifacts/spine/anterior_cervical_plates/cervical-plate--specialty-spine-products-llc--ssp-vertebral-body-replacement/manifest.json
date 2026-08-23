@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--specialty-spine-products-llc--ssp-vertebral-body-replacement",
+  "artifact_folder": "cervical-plate--specialty-spine-products-llc--ssp-vertebral-body-replacement",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2963,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--specialty-spine-products-llc--ssp-vertebral-body-replacement.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--specialty-spine-products-llc--ssp-vertebral-body-replacement/enriched/cervical-plate--specialty-spine-products-llc--ssp-vertebral-body-replacement.json",
+        "bytes": 1455
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K061578.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--specialty-spine-products-llc--ssp-vertebral-body-replacement/fda_raw/MQP/K061578.json",
+        "bytes": 634
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--specialty-spine-products-llc--ssp-vertebral-body-replacement.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--specialty-spine-products-llc--ssp-vertebral-body-replacement/merged/cervical-plate--specialty-spine-products-llc--ssp-vertebral-body-replacement.json",
+        "bytes": 874
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

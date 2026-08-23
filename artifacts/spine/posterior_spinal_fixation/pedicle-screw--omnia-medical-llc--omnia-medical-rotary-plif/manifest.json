@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--omnia-medical-llc--omnia-medical-rotary-plif",
+  "artifact_folder": "pedicle-screw--omnia-medical-llc--omnia-medical-rotary-plif",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2875,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--omnia-medical-llc--omnia-medical-rotary-plif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--omnia-medical-llc--omnia-medical-rotary-plif/enriched/pedicle-screw--omnia-medical-llc--omnia-medical-rotary-plif.json",
+        "bytes": 1430
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K183659.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--omnia-medical-llc--omnia-medical-rotary-plif/fda_raw/MAX/K183659.json",
+        "bytes": 596
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--omnia-medical-llc--omnia-medical-rotary-plif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--omnia-medical-llc--omnia-medical-rotary-plif/merged/pedicle-screw--omnia-medical-llc--omnia-medical-rotary-plif.json",
+        "bytes": 849
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

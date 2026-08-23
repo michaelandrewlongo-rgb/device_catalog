@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--advanced-biosearch-assn--martin-laminar-osteosynthesis",
+  "artifact_folder": "corpectomy--advanced-biosearch-assn--martin-laminar-osteosynthesis",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2931,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--advanced-biosearch-assn--martin-laminar-osteosynthesis.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--advanced-biosearch-assn--martin-laminar-osteosynthesis/enriched/corpectomy--advanced-biosearch-assn--martin-laminar-osteosynthesis.json",
+        "bytes": 1448
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K854770.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--advanced-biosearch-assn--martin-laminar-osteosynthesis/fda_raw/KWP/K854770.json",
+        "bytes": 616
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--advanced-biosearch-assn--martin-laminar-osteosynthesis.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--advanced-biosearch-assn--martin-laminar-osteosynthesis/merged/corpectomy--advanced-biosearch-assn--martin-laminar-osteosynthesis.json",
+        "bytes": 867
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

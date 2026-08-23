@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--stryker--k2m-patient-specific-rods",
+  "artifact_folder": "interbody-cage--stryker--k2m-patient-specific-rods",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3259,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--stryker--k2m-patient-specific-rods.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker--k2m-patient-specific-rods/enriched/interbody-cage--stryker--k2m-patient-specific-rods.json",
+        "bytes": 1880
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K180376.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker--k2m-patient-specific-rods/fda_raw/NKB/K180376.json",
+        "bytes": 562
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--stryker--k2m-patient-specific-rods.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker--k2m-patient-specific-rods/merged/interbody-cage--stryker--k2m-patient-specific-rods.json",
+        "bytes": 817
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

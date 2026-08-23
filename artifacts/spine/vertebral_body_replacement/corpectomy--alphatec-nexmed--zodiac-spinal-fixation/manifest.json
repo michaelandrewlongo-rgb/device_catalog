@@ -1,0 +1,42 @@
+{
+  "device_slug": "corpectomy--alphatec-nexmed--zodiac-spinal-fixation",
+  "artifact_folder": "corpectomy--alphatec-nexmed--zodiac-spinal-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3698,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--alphatec-nexmed--zodiac-spinal-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--alphatec-nexmed--zodiac-spinal-fixation/enriched/corpectomy--alphatec-nexmed--zodiac-spinal-fixation.json",
+        "bytes": 1677
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/corpectomy--alphatec-nexmed--zodiac-spinal-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--alphatec-nexmed--zodiac-spinal-fixation/extracted/fda_structured/corpectomy--alphatec-nexmed--zodiac-spinal-fixation.json",
+        "bytes": 614
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K050830.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--alphatec-nexmed--zodiac-spinal-fixation/fda_raw/KWP/K050830.json",
+        "bytes": 577
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--alphatec-nexmed--zodiac-spinal-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--alphatec-nexmed--zodiac-spinal-fixation/merged/corpectomy--alphatec-nexmed--zodiac-spinal-fixation.json",
+        "bytes": 830
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

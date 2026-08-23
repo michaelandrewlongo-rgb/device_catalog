@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--howmedica-corp--armstrong-spinal-appliance",
+  "artifact_folder": "corpectomy--howmedica-corp--armstrong-spinal-appliance",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2809,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--howmedica-corp--armstrong-spinal-appliance.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--howmedica-corp--armstrong-spinal-appliance/enriched/corpectomy--howmedica-corp--armstrong-spinal-appliance.json",
+        "bytes": 1407
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K810224.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--howmedica-corp--armstrong-spinal-appliance/fda_raw/KWP/K810224.json",
+        "bytes": 576
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--howmedica-corp--armstrong-spinal-appliance.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--howmedica-corp--armstrong-spinal-appliance/merged/corpectomy--howmedica-corp--armstrong-spinal-appliance.json",
+        "bytes": 826
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

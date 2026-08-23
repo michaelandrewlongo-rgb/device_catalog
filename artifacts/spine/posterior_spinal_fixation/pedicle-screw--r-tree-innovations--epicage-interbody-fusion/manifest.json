@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--r-tree-innovations--epicage-interbody-fusion",
+  "artifact_folder": "pedicle-screw--r-tree-innovations--epicage-interbody-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2873,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--r-tree-innovations--epicage-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--r-tree-innovations--epicage-interbody-fusion/enriched/pedicle-screw--r-tree-innovations--epicage-interbody-fusion.json",
+        "bytes": 1429
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K092901.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--r-tree-innovations--epicage-interbody-fusion/fda_raw/MAX/K092901.json",
+        "bytes": 596
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--r-tree-innovations--epicage-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--r-tree-innovations--epicage-interbody-fusion/merged/pedicle-screw--r-tree-innovations--epicage-interbody-fusion.json",
+        "bytes": 848
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

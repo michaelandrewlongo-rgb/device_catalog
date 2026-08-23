@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--ulrich-medical-usa-inc--momentum-r-posterior-spinal-fixation",
+  "artifact_folder": "interbody-cage--ulrich-medical-usa-inc--momentum-r-posterior-spinal-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3013,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--ulrich-medical-usa-inc--momentum-r-posterior-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--ulrich-medical-usa-inc--momentum-r-posterior-spinal-fixation/enriched/interbody-cage--ulrich-medical-usa-inc--momentum-r-posterior-spinal-fixation.json",
+        "bytes": 1475
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K251719.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--ulrich-medical-usa-inc--momentum-r-posterior-spinal-fixation/fda_raw/NKB/K251719.json",
+        "bytes": 636
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--ulrich-medical-usa-inc--momentum-r-posterior-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--ulrich-medical-usa-inc--momentum-r-posterior-spinal-fixation/merged/interbody-cage--ulrich-medical-usa-inc--momentum-r-posterior-spinal-fixation.json",
+        "bytes": 902
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

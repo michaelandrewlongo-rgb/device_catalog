@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--danek-group-inc--gdlh-variable-angle-connector",
+  "artifact_folder": "corpectomy--danek-group-inc--gdlh-variable-angle-connector",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2841,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--danek-group-inc--gdlh-variable-angle-connector.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--danek-group-inc--gdlh-variable-angle-connector/enriched/corpectomy--danek-group-inc--gdlh-variable-angle-connector.json",
+        "bytes": 1418
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K934582.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--danek-group-inc--gdlh-variable-angle-connector/fda_raw/KWP/K934582.json",
+        "bytes": 586
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--danek-group-inc--gdlh-variable-angle-connector.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--danek-group-inc--gdlh-variable-angle-connector/merged/corpectomy--danek-group-inc--gdlh-variable-angle-connector.json",
+        "bytes": 837
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K231438",
+  "clearance_date": "2023-07-13",
+  "device_class": 2,
+  "manufacturer_canonical": "alphatec-spine-inc",
+  "manufacturer_raw": "Alphatec Spine, Inc.",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "Calibrate PSX Interbody System, Calibrate NanoTec PSX Interbody System",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--alphatec-spine-inc--calibrate-psx-interbody-calibrate-nanotec",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K231438.pdf"
+}

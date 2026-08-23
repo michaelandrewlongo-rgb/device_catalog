@@ -1,0 +1,42 @@
+{
+  "device_slug": "corpectomy--stryker--caspian",
+  "artifact_folder": "corpectomy--stryker--caspian",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3761,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--stryker--caspian.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--stryker--caspian/enriched/corpectomy--stryker--caspian.json",
+        "bytes": 1884
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/corpectomy--stryker--caspian.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--stryker--caspian/extracted/fda_structured/corpectomy--stryker--caspian.json",
+        "bytes": 604
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K113654.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--stryker--caspian/fda_raw/KWP/K113654.json",
+        "bytes": 518
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--stryker--caspian.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--stryker--caspian/merged/corpectomy--stryker--caspian.json",
+        "bytes": 755
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

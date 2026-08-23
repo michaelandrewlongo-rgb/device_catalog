@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--surgtech-inc--surgtech-interbody",
+  "artifact_folder": "pedicle-screw--surgtech-inc--surgtech-interbody",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2785,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--surgtech-inc--surgtech-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--surgtech-inc--surgtech-interbody/enriched/pedicle-screw--surgtech-inc--surgtech-interbody.json",
+        "bytes": 1399
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K152200.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--surgtech-inc--surgtech-interbody/fda_raw/MAX/K152200.json",
+        "bytes": 568
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--surgtech-inc--surgtech-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--surgtech-inc--surgtech-interbody/merged/pedicle-screw--surgtech-inc--surgtech-interbody.json",
+        "bytes": 818
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

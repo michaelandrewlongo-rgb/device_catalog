@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--depuy--synthes-syncage-evolution-spacer",
+  "artifact_folder": "pedicle-screw--depuy--synthes-syncage-evolution-spacer",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3128,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--depuy--synthes-syncage-evolution-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--depuy--synthes-syncage-evolution-spacer/enriched/pedicle-screw--depuy--synthes-syncage-evolution-spacer.json",
+        "bytes": 1708
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K122639.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--depuy--synthes-syncage-evolution-spacer/fda_raw/MAX/K122639.json",
+        "bytes": 588
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--depuy--synthes-syncage-evolution-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--depuy--synthes-syncage-evolution-spacer/merged/pedicle-screw--depuy--synthes-syncage-evolution-spacer.json",
+        "bytes": 832
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

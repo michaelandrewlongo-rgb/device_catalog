@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--encore-orthopedics-inc--modification-to-isobar-spinal",
+  "artifact_folder": "corpectomy--encore-orthopedics-inc--modification-to-isobar-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2925,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--encore-orthopedics-inc--modification-to-isobar-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--encore-orthopedics-inc--modification-to-isobar-spinal/enriched/corpectomy--encore-orthopedics-inc--modification-to-isobar-spinal.json",
+        "bytes": 1446
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K002959.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--encore-orthopedics-inc--modification-to-isobar-spinal/fda_raw/KWP/K002959.json",
+        "bytes": 614
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--encore-orthopedics-inc--modification-to-isobar-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--encore-orthopedics-inc--modification-to-isobar-spinal/merged/corpectomy--encore-orthopedics-inc--modification-to-isobar-spinal.json",
+        "bytes": 865
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

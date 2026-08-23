@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--stryker--avs-al-and-avs-align",
+  "artifact_folder": "pedicle-screw--stryker--avs-al-and-avs-align",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3336,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--stryker--avs-al-and-avs-align.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--avs-al-and-avs-align/enriched/pedicle-screw--stryker--avs-al-and-avs-align.json",
+        "bytes": 1619
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K151726.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--avs-al-and-avs-align/fda_raw/MAX/K151726.json",
+        "bytes": 679
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--stryker--avs-al-and-avs-align.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--avs-al-and-avs-align/merged/pedicle-screw--stryker--avs-al-and-avs-align.json",
+        "bytes": 1038
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

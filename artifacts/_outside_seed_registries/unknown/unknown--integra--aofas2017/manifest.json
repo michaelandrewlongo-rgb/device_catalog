@@ -1,0 +1,35 @@
+{
+  "device_slug": "unknown--integra--aofas2017",
+  "artifact_folder": "unknown--integra--aofas2017",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2681,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/unknown--integra--aofas2017.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--integra--aofas2017/enriched/unknown--integra--aofas2017.json",
+        "bytes": 1371
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/unknown--integra--aofas2017.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--integra--aofas2017/merged/unknown--integra--aofas2017.json",
+        "bytes": 790
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/integra/aofas2017.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--integra--aofas2017/scraper_raw/integra/aofas2017.json",
+        "bytes": 520
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "unknown",
+    "label": "Outside listed seed registries"
+  }
+}

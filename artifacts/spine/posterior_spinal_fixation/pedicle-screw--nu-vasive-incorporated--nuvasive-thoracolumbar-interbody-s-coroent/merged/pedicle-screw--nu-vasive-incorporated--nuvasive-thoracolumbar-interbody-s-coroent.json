@@ -1,0 +1,28 @@
+{
+  "device_name": "NuVasive Thoracolumbar Interbody Systems: CoRoent Thoracolumbar System, CoRoent XL Interfixated System, Brigade Hyperlordotic System, Brigade Standalone System, Brigade Lateral System, BASE Interfixated Titanium System, Coalesce Thoracolumbar Interbody Fusion System, Cohere Thoracolumbar Interbody System, Modulus XLIF Interbody System, Modulus TLIF Interbody System, Modulus ALIF System",
+  "manufacturer": "nu-vasive-incorporated",
+  "catalog_category": "pedicle-screw",
+  "filename_stem": "pedicle-screw--nu-vasive-incorporated--nuvasive-thoracolumbar-interbody-s-coroent",
+  "clearance_type": "510k",
+  "clearance_number": "K203201",
+  "clearance_date": "2021-01-12",
+  "device_class": 2,
+  "device_name_fda": "NuVasive Thoracolumbar Interbody Systems: CoRoent Thoracolumbar System, CoRoent XL Interfixated System, Brigade Hyperlordotic System, Brigade Standalone System, Brigade Lateral System, BASE Interfixated Titanium System, Coalesce Thoracolumbar Interbody Fusion System, Cohere Thoracolumbar Interbody System, Modulus XLIF Interbody System, Modulus TLIF Interbody System, Modulus ALIF System",
+  "product_code": "MAX",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K203201.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

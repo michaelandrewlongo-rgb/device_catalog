@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--acuity-surgical-devices-llc--tera-lumbar-interbody-fusion-various",
+  "artifact_folder": "pedicle-screw--acuity-surgical-devices-llc--tera-lumbar-interbody-fusion-various",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3063,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--acuity-surgical-devices-llc--tera-lumbar-interbody-fusion-various.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--acuity-surgical-devices-llc--tera-lumbar-interbody-fusion-various/enriched/pedicle-screw--acuity-surgical-devices-llc--tera-lumbar-interbody-fusion-various.json",
+        "bytes": 1495
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K251335.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--acuity-surgical-devices-llc--tera-lumbar-interbody-fusion-various/fda_raw/MAX/K251335.json",
+        "bytes": 654
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--acuity-surgical-devices-llc--tera-lumbar-interbody-fusion-various.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--acuity-surgical-devices-llc--tera-lumbar-interbody-fusion-various/merged/pedicle-screw--acuity-surgical-devices-llc--tera-lumbar-interbody-fusion-various.json",
+        "bytes": 914
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

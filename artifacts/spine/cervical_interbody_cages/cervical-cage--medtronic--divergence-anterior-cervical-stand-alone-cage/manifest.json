@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-cage--medtronic--divergence-anterior-cervical-stand-alone-cage",
+  "artifact_folder": "cervical-cage--medtronic--divergence-anterior-cervical-stand-alone-cage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3440,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-cage--medtronic--divergence-anterior-cervical-stand-alone-cage.json",
+        "artifact": "artifacts/spine/cervical_interbody_cages/cervical-cage--medtronic--divergence-anterior-cervical-stand-alone-cage/enriched/cervical-cage--medtronic--divergence-anterior-cervical-stand-alone-cage.json",
+        "bytes": 2031
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-cage--medtronic--divergence-anterior-cervical-stand-alone-cage.json",
+        "artifact": "artifacts/spine/cervical_interbody_cages/cervical-cage--medtronic--divergence-anterior-cervical-stand-alone-cage/merged/cervical-cage--medtronic--divergence-anterior-cervical-stand-alone-cage.json",
+        "bytes": 967
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/medtronic/divergence-anterior-cervical-stand-alone-cage.json",
+        "artifact": "artifacts/spine/cervical_interbody_cages/cervical-cage--medtronic--divergence-anterior-cervical-stand-alone-cage/scraper_raw/medtronic/divergence-anterior-cervical-stand-alone-cage.json",
+        "bytes": 442
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "cervical_interbody_cages",
+    "label": "ACDF/ACCF Cages"
+  }
+}

@@ -1,0 +1,324 @@
+[
+  {
+    "device_family": "aspiration--balt--raptor",
+    "query_used": "Raptor",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00885825017934",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "N/A",
+      "companyName": "STRYKER SUSTAINABILITY SOLUTIONS, INC.",
+      "deviceIdentifier": "af7708e6-ecd9-4f22-ad5b-4dd5711e94ab",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "61822",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "General-purpose surgical scissors, reprocessed"
+        }
+      ],
+      "modelNumber": "N/A"
+    },
+    "retrieved_at": "2026-04-15T10:18:40+00:00",
+    "source_id": "accessgudid:00885825017934",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/af7708e6-ecd9-4f22-ad5b-4dd5711e94ab",
+    "title": "N/A (STRYKER SUSTAINABILITY SOLUTIONS, INC.)"
+  },
+  {
+    "device_family": "aspiration--balt--raptor",
+    "query_used": "Raptor",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "03596010026200",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "RAPTOR",
+      "companyName": "Smith &amp; Nephew, Inc.",
+      "deviceIdentifier": "02da3ad6-d75c-4c2c-b744-eaf05e46e9e9",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "32853",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Orthopaedic joint/limb rongeur"
+        }
+      ],
+      "modelNumber": "014720"
+    },
+    "retrieved_at": "2026-04-15T10:18:40+00:00",
+    "source_id": "accessgudid:03596010026200",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/02da3ad6-d75c-4c2c-b744-eaf05e46e9e9",
+    "title": "RAPTOR (Smith &amp; Nephew, Inc.)"
+  },
+  {
+    "device_family": "aspiration--balt--raptor",
+    "query_used": "Raptor",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "50724995217049",
+          "type": "Package"
+        },
+        {
+          "deviceId": "10724995217041",
+          "type": "Package"
+        },
+        {
+          "deviceId": "00724995217044",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Raptor",
+      "companyName": "US Endoscopy",
+      "deviceIdentifier": "601f0b69-aa14-4d81-bf40-8a57260b778e",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "38711",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Flexible endoscopic biopsy forceps, single-use"
+        }
+      ],
+      "modelNumber": "00711179"
+    },
+    "retrieved_at": "2026-04-15T10:18:40+00:00",
+    "source_id": "accessgudid:00724995217044",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/601f0b69-aa14-4d81-bf40-8a57260b778e",
+    "title": "Raptor (US Endoscopy)"
+  },
+  {
+    "device_family": "aspiration--balt--raptor",
+    "query_used": "Raptor",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00885554009873",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Raptor",
+      "companyName": "Smith &amp; Nephew, Inc.",
+      "deviceIdentifier": "333cabbc-4017-4571-9e63-70574ded541d",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "32853",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Orthopaedic joint/limb rongeur"
+        }
+      ],
+      "modelNumber": "7207553"
+    },
+    "retrieved_at": "2026-04-15T10:18:40+00:00",
+    "source_id": "accessgudid:00885554009873",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/333cabbc-4017-4571-9e63-70574ded541d",
+    "title": "Raptor (Smith &amp; Nephew, Inc.)"
+  },
+  {
+    "device_family": "aspiration--balt--raptor",
+    "query_used": "Raptor",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "10724995183667",
+          "type": "Package"
+        },
+        {
+          "deviceId": "00724995183660",
+          "type": "Primary"
+        },
+        {
+          "deviceId": "00816765012567",
+          "type": "Previous"
+        }
+      ],
+      "brandName": "Raptor",
+      "companyName": "US Endoscopy",
+      "deviceIdentifier": "dfaaa3f5-6c89-4dd0-a64f-2fe0b5a8786f",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "33199",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Flexible endoscopic tissue manipulation forceps, single-use"
+        }
+      ],
+      "modelNumber": "00711178"
+    },
+    "retrieved_at": "2026-04-15T10:18:40+00:00",
+    "source_id": "accessgudid:00724995183660",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/dfaaa3f5-6c89-4dd0-a64f-2fe0b5a8786f",
+    "title": "Raptor (US Endoscopy)"
+  },
+  {
+    "device_family": "aspiration--balt--raptor",
+    "query_used": "Raptor",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "10724995183650",
+          "type": "Package"
+        },
+        {
+          "deviceId": "00724995183653",
+          "type": "Primary"
+        },
+        {
+          "deviceId": "00816765011317",
+          "type": "Previous"
+        }
+      ],
+      "brandName": "Raptor",
+      "companyName": "US Endoscopy",
+      "deviceIdentifier": "6d54f1e1-f180-43b7-8b76-bba9667d5394",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "33199",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Flexible endoscopic tissue manipulation forceps, single-use"
+        }
+      ],
+      "modelNumber": "00711177"
+    },
+    "retrieved_at": "2026-04-15T10:18:40+00:00",
+    "source_id": "accessgudid:00724995183653",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/6d54f1e1-f180-43b7-8b76-bba9667d5394",
+    "title": "Raptor (US Endoscopy)"
+  },
+  {
+    "device_family": "aspiration--balt--raptor",
+    "query_used": "Raptor",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "03596010462916",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "RAPTOR",
+      "companyName": "Smith &amp; Nephew, Inc.",
+      "deviceIdentifier": "fe4c43bd-e103-4550-9638-04c6dd70ef8c",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "32853",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Orthopaedic joint/limb rongeur"
+        }
+      ],
+      "modelNumber": "7207732"
+    },
+    "retrieved_at": "2026-04-15T10:18:40+00:00",
+    "source_id": "accessgudid:03596010462916",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/fe4c43bd-e103-4550-9638-04c6dd70ef8c",
+    "title": "RAPTOR (Smith &amp; Nephew, Inc.)"
+  },
+  {
+    "device_family": "aspiration--balt--raptor",
+    "query_used": "Raptor",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "10816765011314",
+          "type": "Package"
+        },
+        {
+          "deviceId": "00816765011317",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Raptor",
+      "companyName": "US Endoscopy",
+      "deviceIdentifier": "39171b33-0f98-4cd6-ba27-2e9580fedf88",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "33199",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Flexible endoscopic tissue manipulation forceps, single-use"
+        }
+      ],
+      "modelNumber": "00711177"
+    },
+    "retrieved_at": "2026-04-15T10:18:40+00:00",
+    "source_id": "accessgudid:00816765011317",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/39171b33-0f98-4cd6-ba27-2e9580fedf88",
+    "title": "Raptor (US Endoscopy)"
+  },
+  {
+    "device_family": "aspiration--balt--raptor",
+    "query_used": "Raptor",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "10816765012564",
+          "type": "Package"
+        },
+        {
+          "deviceId": "00816765012567",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Raptor",
+      "companyName": "US Endoscopy",
+      "deviceIdentifier": "c08db5f8-17ab-4ce3-b820-6586e32cbbb7",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "33199",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Flexible endoscopic tissue manipulation forceps, single-use"
+        }
+      ],
+      "modelNumber": "00711178"
+    },
+    "retrieved_at": "2026-04-15T10:18:40+00:00",
+    "source_id": "accessgudid:00816765012567",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/c08db5f8-17ab-4ce3-b820-6586e32cbbb7",
+    "title": "Raptor (US Endoscopy)"
+  },
+  {
+    "device_family": "aspiration--balt--raptor",
+    "query_used": "Raptor",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "B382SD311090",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Surgical Direct",
+      "companyName": "Surgical Direct, Inc.",
+      "deviceIdentifier": "5042b3df-4def-4ea7-a312-47fae078ea2a",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "37086",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Endoscope sheath, reusable"
+        }
+      ],
+      "modelNumber": "SD31109"
+    },
+    "retrieved_at": "2026-04-15T10:18:40+00:00",
+    "source_id": "accessgudid:B382SD311090",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/5042b3df-4def-4ea7-a312-47fae078ea2a",
+    "title": "Surgical Direct (Surgical Direct, Inc.)"
+  }
+]

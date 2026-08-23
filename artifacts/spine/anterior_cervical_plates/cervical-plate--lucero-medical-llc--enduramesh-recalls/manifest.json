@@ -1,0 +1,21 @@
+{
+  "device_slug": "cervical-plate--lucero-medical-llc--enduramesh-recalls",
+  "artifact_folder": "cervical-plate--lucero-medical-llc--enduramesh-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 2182,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/cervical-plate--lucero-medical-llc--enduramesh-recalls.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--lucero-medical-llc--enduramesh-recalls/extracted/fda_safety/cervical-plate--lucero-medical-llc--enduramesh-recalls.json",
+        "bytes": 2182
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

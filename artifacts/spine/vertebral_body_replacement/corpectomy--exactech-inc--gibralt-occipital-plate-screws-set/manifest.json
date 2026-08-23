@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--exactech-inc--gibralt-occipital-plate-screws-set",
+  "artifact_folder": "corpectomy--exactech-inc--gibralt-occipital-plate-screws-set",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3245,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--exactech-inc--gibralt-occipital-plate-screws-set.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--exactech-inc--gibralt-occipital-plate-screws-set/enriched/corpectomy--exactech-inc--gibralt-occipital-plate-screws-set.json",
+        "bytes": 1581
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K121877.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--exactech-inc--gibralt-occipital-plate-screws-set/fda_raw/KWP/K121877.json",
+        "bytes": 664
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--exactech-inc--gibralt-occipital-plate-screws-set.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--exactech-inc--gibralt-occipital-plate-screws-set/merged/corpectomy--exactech-inc--gibralt-occipital-plate-screws-set.json",
+        "bytes": 1000
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "device_slug": "pedicle-screw--captiva-spine-inc--tirbolox-l-lumbar-ibfd",
+  "artifact_folder": "pedicle-screw--captiva-spine-inc--tirbolox-l-lumbar-ibfd",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 4176,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--captiva-spine-inc--tirbolox-l-lumbar-ibfd.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--captiva-spine-inc--tirbolox-l-lumbar-ibfd/enriched/pedicle-screw--captiva-spine-inc--tirbolox-l-lumbar-ibfd.json",
+        "bytes": 2185
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/pedicle-screw--captiva-spine-inc--tirbolox-l-lumbar-ibfd.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--captiva-spine-inc--tirbolox-l-lumbar-ibfd/extracted/fda_structured/pedicle-screw--captiva-spine-inc--tirbolox-l-lumbar-ibfd.json",
+        "bytes": 581
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K180990.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--captiva-spine-inc--tirbolox-l-lumbar-ibfd/fda_raw/MAX/K180990.json",
+        "bytes": 584
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--captiva-spine-inc--tirbolox-l-lumbar-ibfd.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--captiva-spine-inc--tirbolox-l-lumbar-ibfd/merged/pedicle-screw--captiva-spine-inc--tirbolox-l-lumbar-ibfd.json",
+        "bytes": 826
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

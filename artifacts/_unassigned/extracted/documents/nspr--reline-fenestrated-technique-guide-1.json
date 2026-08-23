@@ -1,0 +1,25 @@
+{
+  "source_pdf": "reline-fenestrated-technique-guide-1.PDF",
+  "source_path": "C:\\Users\\Michael\\Documents\\device_catalog\\pipeline\\data\\extracted\\nspr\\pdfs\\reline-fenestrated-technique-guide-1.PDF",
+  "device_name": "Reline Fenestrated Technique Guide 1",
+  "manufacturer": "unknown",
+  "doc_type": "technique_guide",
+  "extraction_method": "pdfplumber_deepseek",
+  "extraction_source": "nspr_pdf",
+  "fields": {
+    "what_it_is": "The Reline Fenestrated screws are part of the Reline system and are manufactured from Ti-6Al-4V ELI per ASTM F136 and ISO 5832-3. Reline Fenestrated screws feature six fenestrations in the distal third of the screw shank. They are intended to be used with high viscosity polymethyl methacrylate (PMMA) bone cement (initial viscosity of 1300 Pa-s immediately after mixing).",
+    "sizing_specs": null,
+    "indications": "When used in conjunction with PMMA bone cement, the Reline Fenestrated screws are intended to restore the integrity of the spinal column even in the absence of fusion for a limited time period in patients with advanced stage tumors involving the thoracic and lumbar spine in whom life expectancy is of insufficient duration to permit achievement of fusion. Reline Fenestrated screws augmented with PMMA bone cement are for use at spinal levels where the structural integrity of the spine is not severely compromised. (OUS) When used in conjunction with high V+ bone cement, Reline Fenestrated screws are intended to restore the integrity of the spinal column even in the absence of fusion for a limited time period in patients with advanced stage tumors involving the thoracic and lumbar spine in whom life expectancy is of insufficient duration to permit achievement of fusion. Reline Fenestrated screws augmented with high V+ bone cement are for use at spinal levels where the structural integrity of the spine is not severely compromised. (US)",
+    "contraindications": "Contraindications include but are not limited to: 1. infection, local to the operative site, 2. signs of local inflammation, 3. patients with known sensitivity to the materials implanted, 4. patients who are unwilling to restrict activities or follow medical advice, 5. patients with inadequate bone stock or quality, 6. patients with physical or medical conditions that would prohibit beneficial surgical outcome, and 7. reuse or multiple use.",
+    "compatible_with": "Reline Fenestrated screws are recommended for use with high viscosity PMMA bone cement with initial viscosity of 1300 Pa-s immediately after mixing. Refer to Reline system IFU for compatibility information for each system.",
+    "use_notes": "Reline Fenestrated open delivery surgical technique: Equipment requirements, Patient positioning and OR setup, Pedicle preparation and screw insertion, Attach open quick connect needle guide, Attach additional quick connect needle guides, High viscosity PMMA bone cement preparation, Assemble the delivery needle, Insert delivery needle, Cement delivery, Removal of delivery needle, Subsequent level augmentation, Plunge cement (optional), Removal of quick connect needle guide(s). Reline Fenestrated MAS delivery surgical technique: Equipment requirements, Patient positioning and OR setup, Pedicle preparation and screw insertion, Attach MAS quick connect needle guide, Attach additional quick connect needle guides, High viscosity PMMA bone cement preparation, Assemble the delivery needle, Insert delivery needle, Cement delivery, Removal of delivery needle, Subsequent level augmentation, Plunge cement (optional), Removal of quick connect needle guide(s).",
+    "also_known_as": null
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "indications": 0.7,
+    "contraindications": 0.7,
+    "compatible_with": 0.7,
+    "use_notes": 0.7
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "device_slug": "csf-shunt--aesculap-inc--miethke-shunt-gav-2-0",
+  "artifact_folder": "csf-shunt--aesculap-inc--miethke-shunt-gav-2-0",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 888605,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/csf-shunt/parsed/fda_summaries/csf-shunt--aesculap-inc--miethke-shunt-gav-2-0--510k.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aesculap-inc--miethke-shunt-gav-2-0/510k/csf-shunt/parsed/fda_summaries/csf-shunt--aesculap-inc--miethke-shunt-gav-2-0--510k.json",
+        "bytes": 44570
+      },
+      {
+        "source": "pipeline/data/510k/csf-shunt/pdfs/csf-shunt--aesculap-inc--miethke-shunt-gav-2-0--510k.pdf",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aesculap-inc--miethke-shunt-gav-2-0/510k/csf-shunt/pdfs/csf-shunt--aesculap-inc--miethke-shunt-gav-2-0--510k.pdf",
+        "bytes": 812052
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--aesculap-inc--miethke-shunt-gav-2-0.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aesculap-inc--miethke-shunt-gav-2-0/enriched/csf-shunt--aesculap-inc--miethke-shunt-gav-2-0.json",
+        "bytes": 30545
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K190174.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aesculap-inc--miethke-shunt-gav-2-0/fda_raw/JXG/K190174.json",
+        "bytes": 583
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--aesculap-inc--miethke-shunt-gav-2-0.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aesculap-inc--miethke-shunt-gav-2-0/merged/csf-shunt--aesculap-inc--miethke-shunt-gav-2-0.json",
+        "bytes": 855
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--acromed-corp--acromed-cross-rod-connector",
+  "artifact_folder": "corpectomy--acromed-corp--acromed-cross-rod-connector",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2803,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--acromed-corp--acromed-cross-rod-connector.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--acromed-corp--acromed-cross-rod-connector/enriched/corpectomy--acromed-corp--acromed-cross-rod-connector.json",
+        "bytes": 1406
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K874882.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--acromed-corp--acromed-cross-rod-connector/fda_raw/KWP/K874882.json",
+        "bytes": 572
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--acromed-corp--acromed-cross-rod-connector.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--acromed-corp--acromed-cross-rod-connector/merged/corpectomy--acromed-corp--acromed-cross-rod-connector.json",
+        "bytes": 825
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

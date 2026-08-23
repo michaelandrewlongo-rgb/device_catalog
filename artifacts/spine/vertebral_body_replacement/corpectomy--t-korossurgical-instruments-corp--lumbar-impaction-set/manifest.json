@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--t-korossurgical-instruments-corp--lumbar-impaction-set",
+  "artifact_folder": "corpectomy--t-korossurgical-instruments-corp--lumbar-impaction-set",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2888,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--t-korossurgical-instruments-corp--lumbar-impaction-set.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--t-korossurgical-instruments-corp--lumbar-impaction-set/enriched/corpectomy--t-korossurgical-instruments-corp--lumbar-impaction-set.json",
+        "bytes": 1425
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K875290.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--t-korossurgical-instruments-corp--lumbar-impaction-set/fda_raw/KWP/K875290.json",
+        "bytes": 619
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--t-korossurgical-instruments-corp--lumbar-impaction-set.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--t-korossurgical-instruments-corp--lumbar-impaction-set/merged/corpectomy--t-korossurgical-instruments-corp--lumbar-impaction-set.json",
+        "bytes": 844
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

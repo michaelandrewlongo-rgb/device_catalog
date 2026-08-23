@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K022374",
+  "clearance_date": "2002-09-24",
+  "device_class": 2,
+  "manufacturer_canonical": "sulzer-spine-tech",
+  "manufacturer_raw": "Sulzer Spine-Tech",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "CADENCE SPINAL FIXATION SYSTEM",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--sulzer-spine-tech--cadence-spinal-fixation",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf02/K022374.pdf"
+}

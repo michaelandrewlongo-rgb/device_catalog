@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--atlas-spine-llc--atlas-spine-spacer",
+  "artifact_folder": "cervical-plate--atlas-spine-llc--atlas-spine-spacer",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2776,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--atlas-spine-llc--atlas-spine-spacer.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--atlas-spine-llc--atlas-spine-spacer/enriched/cervical-plate--atlas-spine-llc--atlas-spine-spacer.json",
+        "bytes": 1393
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K091406.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--atlas-spine-llc--atlas-spine-spacer/fda_raw/MQP/K091406.json",
+        "bytes": 571
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--atlas-spine-llc--atlas-spine-spacer.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--atlas-spine-llc--atlas-spine-spacer/merged/cervical-plate--atlas-spine-llc--atlas-spine-spacer.json",
+        "bytes": 812
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

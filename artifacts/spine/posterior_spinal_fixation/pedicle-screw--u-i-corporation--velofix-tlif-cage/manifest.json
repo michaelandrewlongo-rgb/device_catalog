@@ -1,0 +1,45 @@
+{
+  "device_slug": "pedicle-screw--u-i-corporation--velofix-tlif-cage",
+  "artifact_folder": "pedicle-screw--u-i-corporation--velofix-tlif-cage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 3895,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--u-i-corporation--velofix-tlif-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--u-i-corporation--velofix-tlif-cage/enriched/pedicle-screw--u-i-corporation--velofix-tlif-cage.json",
+        "bytes": 1388
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K172419.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--u-i-corporation--velofix-tlif-cage/fda_raw/MAX/K172419.json",
+        "bytes": 568
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K181829.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--u-i-corporation--velofix-tlif-cage/fda_raw/MAX/K181829.json",
+        "bytes": 566
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K183243.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--u-i-corporation--velofix-tlif-cage/fda_raw/MAX/K183243.json",
+        "bytes": 566
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--u-i-corporation--velofix-tlif-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--u-i-corporation--velofix-tlif-cage/merged/pedicle-screw--u-i-corporation--velofix-tlif-cage.json",
+        "bytes": 807
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "device_slug": "interbody-cage--icotec-ag--icotec-pedicle",
+  "artifact_folder": "interbody-cage--icotec-ag--icotec-pedicle",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 4044,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--icotec-ag--icotec-pedicle.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--icotec-ag--icotec-pedicle/enriched/interbody-cage--icotec-ag--icotec-pedicle.json",
+        "bytes": 2033
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--icotec-ag--icotec-pedicle.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--icotec-ag--icotec-pedicle/extracted/fda_structured/interbody-cage--icotec-ag--icotec-pedicle.json",
+        "bytes": 658
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K151977.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--icotec-ag--icotec-pedicle/fda_raw/NKB/K151977.json",
+        "bytes": 551
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--icotec-ag--icotec-pedicle.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--icotec-ag--icotec-pedicle/merged/interbody-cage--icotec-ag--icotec-pedicle.json",
+        "bytes": 802
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "device_slug": "dural-substitute--integra--duragen-secure-dural-regeneration-matrix",
+  "artifact_folder": "dural-substitute--integra--duragen-secure-dural-regeneration-matrix",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 206603,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/dural-substitute/parsed/fda_summaries/dural-substitute--integra--duragen-secure-dural-regeneration-matrix--510k.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--integra--duragen-secure-dural-regeneration-matrix/510k/dural-substitute/parsed/fda_summaries/dural-substitute--integra--duragen-secure-dural-regeneration-matrix--510k.json",
+        "bytes": 10625
+      },
+      {
+        "source": "pipeline/data/510k/dural-substitute/pdfs/dural-substitute--integra--duragen-secure-dural-regeneration-matrix--510k.pdf",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--integra--duragen-secure-dural-regeneration-matrix/510k/dural-substitute/pdfs/dural-substitute--integra--duragen-secure-dural-regeneration-matrix--510k.pdf",
+        "bytes": 187993
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/dural-substitute--integra--duragen-secure-dural-regeneration-matrix.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--integra--duragen-secure-dural-regeneration-matrix/enriched/dural-substitute--integra--duragen-secure-dural-regeneration-matrix.json",
+        "bytes": 6501
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/GXQ/K163456.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--integra--duragen-secure-dural-regeneration-matrix/fda_raw/GXQ/K163456.json",
+        "bytes": 618
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/dural-substitute--integra--duragen-secure-dural-regeneration-matrix.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--integra--duragen-secure-dural-regeneration-matrix/merged/dural-substitute--integra--duragen-secure-dural-regeneration-matrix.json",
+        "bytes": 866
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "dural-substitute",
+    "label": "Outside listed seed registries"
+  }
+}

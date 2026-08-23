@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--signus-medizintechnik-gmbh--signus-tetris-st-signus-tetris",
+  "artifact_folder": "pedicle-screw--signus-medizintechnik-gmbh--signus-tetris-st-signus-tetris",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3008,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--signus-medizintechnik-gmbh--signus-tetris-st-signus-tetris.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--signus-medizintechnik-gmbh--signus-tetris-st-signus-tetris/enriched/pedicle-screw--signus-medizintechnik-gmbh--signus-tetris-st-signus-tetris.json",
+        "bytes": 1469
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K241438.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--signus-medizintechnik-gmbh--signus-tetris-st-signus-tetris/fda_raw/MAX/K241438.json",
+        "bytes": 635
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--signus-medizintechnik-gmbh--signus-tetris-st-signus-tetris.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--signus-medizintechnik-gmbh--signus-tetris-st-signus-tetris/merged/pedicle-screw--signus-medizintechnik-gmbh--signus-tetris-st-signus-tetris.json",
+        "bytes": 904
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

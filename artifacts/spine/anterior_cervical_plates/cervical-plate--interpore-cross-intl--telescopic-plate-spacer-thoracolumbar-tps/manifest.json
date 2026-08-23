@@ -1,0 +1,40 @@
+{
+  "device_slug": "cervical-plate--interpore-cross-intl--telescopic-plate-spacer-thoracolumbar-tps",
+  "artifact_folder": "cervical-plate--interpore-cross-intl--telescopic-plate-spacer-thoracolumbar-tps",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 4049,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--interpore-cross-intl--telescopic-plate-spacer-thoracolumbar-tps.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--interpore-cross-intl--telescopic-plate-spacer-thoracolumbar-tps/enriched/cervical-plate--interpore-cross-intl--telescopic-plate-spacer-thoracolumbar-tps.json",
+        "bytes": 1624
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K010989.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--interpore-cross-intl--telescopic-plate-spacer-thoracolumbar-tps/fda_raw/MQP/K010989.json",
+        "bytes": 674
+      },
+      {
+        "source": "pipeline/data/fda_raw/MQP/K020204.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--interpore-cross-intl--telescopic-plate-spacer-thoracolumbar-tps/fda_raw/MQP/K020204.json",
+        "bytes": 708
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--interpore-cross-intl--telescopic-plate-spacer-thoracolumbar-tps.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--interpore-cross-intl--telescopic-plate-spacer-thoracolumbar-tps/merged/cervical-plate--interpore-cross-intl--telescopic-plate-spacer-thoracolumbar-tps.json",
+        "bytes": 1043
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

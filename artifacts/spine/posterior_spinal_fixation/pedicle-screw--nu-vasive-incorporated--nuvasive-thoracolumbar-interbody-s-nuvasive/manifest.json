@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--nu-vasive-incorporated--nuvasive-thoracolumbar-interbody-s-nuvasive",
+  "artifact_folder": "pedicle-screw--nu-vasive-incorporated--nuvasive-thoracolumbar-interbody-s-nuvasive",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 4924,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--nu-vasive-incorporated--nuvasive-thoracolumbar-interbody-s-nuvasive.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nu-vasive-incorporated--nuvasive-thoracolumbar-interbody-s-nuvasive/enriched/pedicle-screw--nu-vasive-incorporated--nuvasive-thoracolumbar-interbody-s-nuvasive.json",
+        "bytes": 2242
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K203714.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nu-vasive-incorporated--nuvasive-thoracolumbar-interbody-s-nuvasive/fda_raw/MAX/K203714.json",
+        "bytes": 1021
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--nu-vasive-incorporated--nuvasive-thoracolumbar-interbody-s-nuvasive.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nu-vasive-incorporated--nuvasive-thoracolumbar-interbody-s-nuvasive/merged/pedicle-screw--nu-vasive-incorporated--nuvasive-thoracolumbar-interbody-s-nuvasive.json",
+        "bytes": 1661
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

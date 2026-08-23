@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--advanced-vertebral-solutions-llc--advanced-vertebral-solutions-express-bfd",
+  "artifact_folder": "pedicle-screw--advanced-vertebral-solutions-llc--advanced-vertebral-solutions-express-bfd",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3065,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--advanced-vertebral-solutions-llc--advanced-vertebral-solutions-express-bfd.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--advanced-vertebral-solutions-llc--advanced-vertebral-solutions-express-bfd/enriched/pedicle-screw--advanced-vertebral-solutions-llc--advanced-vertebral-solutions-express-bfd.json",
+        "bytes": 1491
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K100037.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--advanced-vertebral-solutions-llc--advanced-vertebral-solutions-express-bfd/fda_raw/MAX/K100037.json",
+        "bytes": 664
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--advanced-vertebral-solutions-llc--advanced-vertebral-solutions-express-bfd.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--advanced-vertebral-solutions-llc--advanced-vertebral-solutions-express-bfd/merged/pedicle-screw--advanced-vertebral-solutions-llc--advanced-vertebral-solutions-express-bfd.json",
+        "bytes": 910
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

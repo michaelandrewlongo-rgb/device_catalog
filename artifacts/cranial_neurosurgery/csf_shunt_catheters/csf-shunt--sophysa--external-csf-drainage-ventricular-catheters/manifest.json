@@ -1,0 +1,47 @@
+{
+  "device_slug": "csf-shunt--sophysa--external-csf-drainage-ventricular-catheters",
+  "artifact_folder": "csf-shunt--sophysa--external-csf-drainage-ventricular-catheters",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 2722181,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/csf-shunt/parsed/fda_summaries/csf-shunt--sophysa--external-csf-drainage-ventricular-catheters--510k.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--sophysa--external-csf-drainage-ventricular-catheters/510k/csf-shunt/parsed/fda_summaries/csf-shunt--sophysa--external-csf-drainage-ventricular-catheters--510k.json",
+        "bytes": 27444
+      },
+      {
+        "source": "pipeline/data/510k/csf-shunt/pdfs/csf-shunt--sophysa--external-csf-drainage-ventricular-catheters--510k.pdf",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--sophysa--external-csf-drainage-ventricular-catheters/510k/csf-shunt/pdfs/csf-shunt--sophysa--external-csf-drainage-ventricular-catheters--510k.pdf",
+        "bytes": 2674499
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--sophysa--external-csf-drainage-ventricular-catheters.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--sophysa--external-csf-drainage-ventricular-catheters/enriched/csf-shunt--sophysa--external-csf-drainage-ventricular-catheters.json",
+        "bytes": 18672
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K242974.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--sophysa--external-csf-drainage-ventricular-catheters/fda_raw/JXG/K242974.json",
+        "bytes": 625
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--sophysa--external-csf-drainage-ventricular-catheters.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--sophysa--external-csf-drainage-ventricular-catheters/merged/csf-shunt--sophysa--external-csf-drainage-ventricular-catheters.json",
+        "bytes": 941
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

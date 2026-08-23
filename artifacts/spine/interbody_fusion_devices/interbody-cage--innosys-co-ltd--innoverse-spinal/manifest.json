@@ -1,0 +1,42 @@
+{
+  "device_slug": "interbody-cage--innosys-co-ltd--innoverse-spinal",
+  "artifact_folder": "interbody-cage--innosys-co-ltd--innoverse-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3534,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--innosys-co-ltd--innoverse-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--innosys-co-ltd--innoverse-spinal/enriched/interbody-cage--innosys-co-ltd--innoverse-spinal.json",
+        "bytes": 1622
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--innosys-co-ltd--innoverse-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--innosys-co-ltd--innoverse-spinal/extracted/fda_structured/interbody-cage--innosys-co-ltd--innoverse-spinal.json",
+        "bytes": 521
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K233960.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--innosys-co-ltd--innoverse-spinal/fda_raw/NKB/K233960.json",
+        "bytes": 573
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--innosys-co-ltd--innoverse-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--innosys-co-ltd--innoverse-spinal/merged/interbody-cage--innosys-co-ltd--innoverse-spinal.json",
+        "bytes": 818
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

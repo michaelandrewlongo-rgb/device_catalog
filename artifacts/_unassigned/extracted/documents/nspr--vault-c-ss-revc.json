@@ -1,0 +1,23 @@
+{
+  "source_pdf": "vault-c-ss-revc.pdf",
+  "source_path": "C:\\Users\\Michael\\Documents\\device_catalog\\pipeline\\data\\extracted\\nspr\\pdfs\\vault-c-ss-revc.pdf",
+  "device_name": "Vault C Ss Revc",
+  "manufacturer": "unknown",
+  "doc_type": "technique_guide",
+  "extraction_method": "pdfplumber_deepseek",
+  "extraction_source": "nspr_pdf",
+  "fields": {
+    "what_it_is": "The Vault® C Anterior Cervical Discectomy and Fusion System (ACDF) is a zero profile, modular system featuring a titanium anterior cervical plate with an integrated, one step locking mechanism and a snap fit PEEK spacer. The system is designed to restore sagittal profile while providing anterior column support to enhance the fusion process. A maximum screw trajectory of 42° allows for greater bone purchase and stability, and the system has both selfdrilling and blunt-tip self tapping screws. The Vault C offers a larger graft window with three available footprints and two lordatic options to easily accommodate varying anatomies. Custom ergonomic instrumentation complements implants for greater surgeon comfort and ease of use.",
+    "sizing_specs": "| Vault™ C Footprint<br>W x D x H | Bone Graft<br>Vault C | Volume (cc) Competitor A** | %<br>Greater |\n|---------------------------------|-----------------------|----------------------------|--------------|\n| 14 x 12 x 6mm                   | 0.32                  | 0.27                       | 19.00%       |\n| $14 \\times 12 \\times 7$ mm      | 0.37                  | 0.32                       | 17.39%       |\n| 14 x 12 x 8mm                   | 0.42                  | 0.36                       | 16.17%       |\n| 14 x 12 x 9mm                   | 0.47                  | 0.41                       | 14.93%       |\n| 14 x 12 x 10mm                  | 0.52                  | 0.46                       | 14.21%       |\n| 14 x 12 x 11mm                  | 0.57                  | 0.50                       | 13.61%       |\n| 14 x 12 x 12mm                  | 0.62                  | 0.55                       | 12.89%       |",
+    "indications": null,
+    "contraindications": null,
+    "compatible_with": null,
+    "use_notes": "Optional Open or Closed Drill Guides provide ideal visualization and control.",
+    "also_known_as": null
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "sizing_specs": 0.7,
+    "use_notes": 0.7
+  }
+}

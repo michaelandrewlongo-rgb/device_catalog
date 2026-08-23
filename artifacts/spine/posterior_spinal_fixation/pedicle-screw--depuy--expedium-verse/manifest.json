@@ -1,0 +1,33 @@
+{
+  "device_slug": "pedicle-screw--depuy--expedium-verse",
+  "artifact_folder": "pedicle-screw--depuy--expedium-verse",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 355599,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/pedicle-screw/parsed/documents/pedicle-screw--depuy--expedium-verse--510k.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--depuy--expedium-verse/510k/pedicle-screw/parsed/documents/pedicle-screw--depuy--expedium-verse--510k.json",
+        "bytes": 3104
+      },
+      {
+        "source": "pipeline/data/510k/pedicle-screw/pdfs/pedicle-screw--depuy--expedium-verse--510k.pdf",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--depuy--expedium-verse/510k/pedicle-screw/pdfs/pedicle-screw--depuy--expedium-verse--510k.pdf",
+        "bytes": 347019
+      }
+    ],
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/pedicle-screw--depuy--expedium-verse--knowledge.md",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--depuy--expedium-verse/data_by_device/pedicle-screw--depuy--expedium-verse--knowledge.md",
+        "bytes": 5476
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

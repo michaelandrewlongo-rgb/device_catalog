@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--facetlink-dba-linkspine--vertebralink-fusion-platform",
+  "artifact_folder": "pedicle-screw--facetlink-dba-linkspine--vertebralink-fusion-platform",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2905,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--facetlink-dba-linkspine--vertebralink-fusion-platform.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--facetlink-dba-linkspine--vertebralink-fusion-platform/enriched/pedicle-screw--facetlink-dba-linkspine--vertebralink-fusion-platform.json",
+        "bytes": 1437
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K162693.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--facetlink-dba-linkspine--vertebralink-fusion-platform/fda_raw/MAX/K162693.json",
+        "bytes": 612
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--facetlink-dba-linkspine--vertebralink-fusion-platform.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--facetlink-dba-linkspine--vertebralink-fusion-platform/merged/pedicle-screw--facetlink-dba-linkspine--vertebralink-fusion-platform.json",
+        "bytes": 856
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--spine-wave-inc--testa-tp-pivoting-spacer",
+  "artifact_folder": "pedicle-screw--spine-wave-inc--testa-tp-pivoting-spacer",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2847,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--spine-wave-inc--testa-tp-pivoting-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spine-wave-inc--testa-tp-pivoting-spacer/enriched/pedicle-screw--spine-wave-inc--testa-tp-pivoting-spacer.json",
+        "bytes": 1421
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K243816.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spine-wave-inc--testa-tp-pivoting-spacer/fda_raw/MAX/K243816.json",
+        "bytes": 586
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--spine-wave-inc--testa-tp-pivoting-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spine-wave-inc--testa-tp-pivoting-spacer/merged/pedicle-screw--spine-wave-inc--testa-tp-pivoting-spacer.json",
+        "bytes": 840
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

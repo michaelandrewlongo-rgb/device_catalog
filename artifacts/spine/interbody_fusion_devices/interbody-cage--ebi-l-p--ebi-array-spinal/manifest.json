@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--ebi-l-p--ebi-array-spinal",
+  "artifact_folder": "interbody-cage--ebi-l-p--ebi-array-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2740,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--ebi-l-p--ebi-array-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--ebi-l-p--ebi-array-spinal/enriched/interbody-cage--ebi-l-p--ebi-array-spinal.json",
+        "bytes": 1385
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K061563.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--ebi-l-p--ebi-array-spinal/fda_raw/NKB/K061563.json",
+        "bytes": 551
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--ebi-l-p--ebi-array-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--ebi-l-p--ebi-array-spinal/merged/interbody-cage--ebi-l-p--ebi-array-spinal.json",
+        "bytes": 804
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

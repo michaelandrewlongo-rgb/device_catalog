@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--us-spinal-technologies-llc--atalia-titanium-surgical-mesh",
+  "artifact_folder": "cervical-plate--us-spinal-technologies-llc--atalia-titanium-surgical-mesh",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2941,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--us-spinal-technologies-llc--atalia-titanium-surgical-mesh.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--us-spinal-technologies-llc--atalia-titanium-surgical-mesh/enriched/cervical-plate--us-spinal-technologies-llc--atalia-titanium-surgical-mesh.json",
+        "bytes": 1448
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K041798.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--us-spinal-technologies-llc--atalia-titanium-surgical-mesh/fda_raw/MQP/K041798.json",
+        "bytes": 626
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--us-spinal-technologies-llc--atalia-titanium-surgical-mesh.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--us-spinal-technologies-llc--atalia-titanium-surgical-mesh/merged/cervical-plate--us-spinal-technologies-llc--atalia-titanium-surgical-mesh.json",
+        "bytes": 867
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

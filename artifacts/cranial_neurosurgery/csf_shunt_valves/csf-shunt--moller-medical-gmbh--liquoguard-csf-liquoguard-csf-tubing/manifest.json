@@ -1,0 +1,47 @@
+{
+  "device_slug": "csf-shunt--moller-medical-gmbh--liquoguard-csf-liquoguard-csf-tubing",
+  "artifact_folder": "csf-shunt--moller-medical-gmbh--liquoguard-csf-liquoguard-csf-tubing",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 362165,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/csf-shunt/parsed/fda_summaries/csf-shunt--moller-medical-gmbh--liquoguard-csf-liquoguard-csf-tubing--510k.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--moller-medical-gmbh--liquoguard-csf-liquoguard-csf-tubing/510k/csf-shunt/parsed/fda_summaries/csf-shunt--moller-medical-gmbh--liquoguard-csf-liquoguard-csf-tubing--510k.json",
+        "bytes": 21999
+      },
+      {
+        "source": "pipeline/data/510k/csf-shunt/pdfs/csf-shunt--moller-medical-gmbh--liquoguard-csf-liquoguard-csf-tubing--510k.pdf",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--moller-medical-gmbh--liquoguard-csf-liquoguard-csf-tubing/510k/csf-shunt/pdfs/csf-shunt--moller-medical-gmbh--liquoguard-csf-liquoguard-csf-tubing--510k.pdf",
+        "bytes": 331279
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--moller-medical-gmbh--liquoguard-csf-liquoguard-csf-tubing.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--moller-medical-gmbh--liquoguard-csf-liquoguard-csf-tubing/enriched/csf-shunt--moller-medical-gmbh--liquoguard-csf-liquoguard-csf-tubing.json",
+        "bytes": 7164
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K121248.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--moller-medical-gmbh--liquoguard-csf-liquoguard-csf-tubing/fda_raw/JXG/K121248.json",
+        "bytes": 691
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--moller-medical-gmbh--liquoguard-csf-liquoguard-csf-tubing.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--moller-medical-gmbh--liquoguard-csf-liquoguard-csf-tubing/merged/csf-shunt--moller-medical-gmbh--liquoguard-csf-liquoguard-csf-tubing.json",
+        "bytes": 1032
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--radionics-inc--radionics-lumboperitoneal-shunt",
+  "artifact_folder": "csf-shunt--radionics-inc--radionics-lumboperitoneal-shunt",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2836,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--radionics-inc--radionics-lumboperitoneal-shunt.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--radionics-inc--radionics-lumboperitoneal-shunt/enriched/csf-shunt--radionics-inc--radionics-lumboperitoneal-shunt.json",
+        "bytes": 1418
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K000057.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--radionics-inc--radionics-lumboperitoneal-shunt/fda_raw/JXG/K000057.json",
+        "bytes": 581
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--radionics-inc--radionics-lumboperitoneal-shunt.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--radionics-inc--radionics-lumboperitoneal-shunt/merged/csf-shunt--radionics-inc--radionics-lumboperitoneal-shunt.json",
+        "bytes": 837
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

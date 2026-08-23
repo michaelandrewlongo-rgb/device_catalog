@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K884036",
+  "clearance_date": "1988-12-22",
+  "device_class": 2,
+  "manufacturer_canonical": "pmt-corp",
+  "manufacturer_raw": "Pmt Corp.",
+  "catalog_category": "csf-shunt",
+  "device_name_fda": "PMT MODEL 1110-5 PMT PERITONEAL CATHETER",
+  "product_code": "JXG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "csf-shunt--pmt-corp--pmt-model-1110-5-pmt",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf88/K884036.pdf"
+}

@@ -1,0 +1,328 @@
+[
+  {
+    "device_family": "aspiration--medtronic--react-aspiration-catheter",
+    "query_used": "React Aspiration Catheter",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "10350770927968",
+          "type": "Package"
+        },
+        {
+          "deviceId": "00350770927961",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Aspiration Catheter",
+      "companyName": "Avanos Medical, Inc.",
+      "deviceIdentifier": "35781b81-7239-484a-9994-1577ce16092d",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "16779",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Suction/irrigation tubing, single-use"
+        }
+      ],
+      "modelNumber": "92796"
+    },
+    "retrieved_at": "2026-04-15T10:18:41+00:00",
+    "source_id": "accessgudid:00350770927961",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/35781b81-7239-484a-9994-1577ce16092d",
+    "title": "Aspiration Catheter (Avanos Medical, Inc.)"
+  },
+  {
+    "device_family": "aspiration--medtronic--react-aspiration-catheter",
+    "query_used": "React Aspiration Catheter",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "06971882890246",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "React",
+      "companyName": "Qingdao Kingon Medical Science and Technology Co., Ltd",
+      "deviceIdentifier": "b7bdc0b4-d74c-41da-a608-4a338d4f1548",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "31321",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Mobile/portable oxygen concentrator"
+        }
+      ],
+      "modelNumber": "POC2000"
+    },
+    "retrieved_at": "2026-04-15T10:18:41+00:00",
+    "source_id": "accessgudid:06971882890246",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/b7bdc0b4-d74c-41da-a608-4a338d4f1548",
+    "title": "React (Qingdao Kingon Medical Science and Technology Co., Ltd)"
+  },
+  {
+    "device_family": "aspiration--medtronic--react-aspiration-catheter",
+    "query_used": "React Aspiration Catheter",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "20845854029401",
+          "type": "Package"
+        },
+        {
+          "deviceId": "10845854029404",
+          "type": "Primary"
+        },
+        {
+          "deviceId": "00845854029407",
+          "type": "Unit of Use"
+        }
+      ],
+      "brandName": "REACT",
+      "companyName": "Conmed Corporation",
+      "deviceIdentifier": "c2a64e87-57ba-42bd-b29c-c73d4c008a49",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "12143",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Instrument tray, reusable"
+        }
+      ],
+      "modelNumber": "35FRR-RA-ZZ"
+    },
+    "retrieved_at": "2026-04-15T10:18:41+00:00",
+    "source_id": "accessgudid:10845854029404",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/c2a64e87-57ba-42bd-b29c-c73d4c008a49",
+    "title": "REACT (Conmed Corporation)"
+  },
+  {
+    "device_family": "aspiration--medtronic--react-aspiration-catheter",
+    "query_used": "React Aspiration Catheter",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00850291007031",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "FlowTriever",
+      "companyName": "Inari Medical, Inc.",
+      "deviceIdentifier": "3e1470ff-2bc5-479f-b1c4-bedfb6c4dbe7",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "20-101"
+    },
+    "retrieved_at": "2026-04-15T10:18:41+00:00",
+    "source_id": "accessgudid:00850291007031",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/3e1470ff-2bc5-479f-b1c4-bedfb6c4dbe7",
+    "title": "FlowTriever (Inari Medical, Inc.)"
+  },
+  {
+    "device_family": "aspiration--medtronic--react-aspiration-catheter",
+    "query_used": "React Aspiration Catheter",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "74543334177260",
+          "type": "Package"
+        },
+        {
+          "deviceId": "54543334177266",
+          "type": "Package"
+        },
+        {
+          "deviceId": "04543334177261",
+          "type": "Primary"
+        },
+        {
+          "deviceId": "14543334177268",
+          "type": "Package"
+        }
+      ],
+      "brandName": "PRIORITYONE",
+      "companyName": "TERUMO CLINICAL SUPPLY CO., LTD.",
+      "deviceIdentifier": "1424f697-f4e0-414b-a3b5-79526ec87dbe",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "UG1652"
+    },
+    "retrieved_at": "2026-04-15T10:18:41+00:00",
+    "source_id": "accessgudid:04543334177261",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/1424f697-f4e0-414b-a3b5-79526ec87dbe",
+    "title": "PRIORITYONE (TERUMO CLINICAL SUPPLY CO., LTD.)"
+  },
+  {
+    "device_family": "aspiration--medtronic--react-aspiration-catheter",
+    "query_used": "React Aspiration Catheter",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "54543334177259",
+          "type": "Package"
+        },
+        {
+          "deviceId": "04543334177254",
+          "type": "Primary"
+        },
+        {
+          "deviceId": "74543334177253",
+          "type": "Package"
+        },
+        {
+          "deviceId": "14543334177251",
+          "type": "Package"
+        }
+      ],
+      "brandName": "PRIORITYONE",
+      "companyName": "TERUMO CLINICAL SUPPLY CO., LTD.",
+      "deviceIdentifier": "6e94e7ab-b528-4d20-a2c9-41818327dd38",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "UG1602"
+    },
+    "retrieved_at": "2026-04-15T10:18:41+00:00",
+    "source_id": "accessgudid:04543334177254",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/6e94e7ab-b528-4d20-a2c9-41818327dd38",
+    "title": "PRIORITYONE (TERUMO CLINICAL SUPPLY CO., LTD.)"
+  },
+  {
+    "device_family": "aspiration--medtronic--react-aspiration-catheter",
+    "query_used": "React Aspiration Catheter",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00814548013299",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Indigo System",
+      "companyName": "PENUMBRA, INC.",
+      "deviceIdentifier": "c1fe13d8-53f3-4db9-bec1-c3344c1f3809",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "CAT3"
+    },
+    "retrieved_at": "2026-04-15T10:18:41+00:00",
+    "source_id": "accessgudid:00814548013299",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/c1fe13d8-53f3-4db9-bec1-c3344c1f3809",
+    "title": "Indigo System (PENUMBRA, INC.)"
+  },
+  {
+    "device_family": "aspiration--medtronic--react-aspiration-catheter",
+    "query_used": "React Aspiration Catheter",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00815948023802",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Indigo System",
+      "companyName": "PENUMBRA, INC.",
+      "deviceIdentifier": "364ec519-07d0-41d0-a217-47f49a94d341",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "CAT6-A"
+    },
+    "retrieved_at": "2026-04-15T10:18:41+00:00",
+    "source_id": "accessgudid:00815948023802",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/364ec519-07d0-41d0-a217-47f49a94d341",
+    "title": "Indigo System (PENUMBRA, INC.)"
+  },
+  {
+    "device_family": "aspiration--medtronic--react-aspiration-catheter",
+    "query_used": "React Aspiration Catheter",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00814548016245",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Indigo System",
+      "companyName": "PENUMBRA, INC.",
+      "deviceIdentifier": "e6634e76-5275-4d8d-95d3-67c8bf932a28",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "58173",
+          "gmdnCodeStatus": "Active",
+          "implantable": "false",
+          "termName": "Thrombectomy suction catheter"
+        }
+      ],
+      "modelNumber": "CAT6"
+    },
+    "retrieved_at": "2026-04-15T10:18:41+00:00",
+    "source_id": "accessgudid:00814548016245",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/e6634e76-5275-4d8d-95d3-67c8bf932a28",
+    "title": "Indigo System (PENUMBRA, INC.)"
+  },
+  {
+    "device_family": "aspiration--medtronic--react-aspiration-catheter",
+    "query_used": "React Aspiration Catheter",
+    "raw": {
+      "ID": [
+        {
+          "deviceId": "00827002052963",
+          "type": "Primary"
+        }
+      ],
+      "brandName": "Cook",
+      "companyName": "COOK INCORPORATED",
+      "deviceIdentifier": "8a1ed3db-ec95-4fd8-b2cc-ceadceb9cfab",
+      "gmdnTerms": [
+        {
+          "gmdnCode": "47797",
+          "gmdnCodeStatus": "Active",
+          "implantable": "true",
+          "termName": "Pleural/peritoneal drainage catheterization kit, non-medicated"
+        }
+      ],
+      "modelNumber": "G05296"
+    },
+    "retrieved_at": "2026-04-15T10:18:41+00:00",
+    "source_id": "accessgudid:00827002052963",
+    "source_type": "accessgudid",
+    "source_url": "https://accessgudid.nlm.nih.gov/devices/8a1ed3db-ec95-4fd8-b2cc-ceadceb9cfab",
+    "title": "Cook (COOK INCORPORATED)"
+  }
+]

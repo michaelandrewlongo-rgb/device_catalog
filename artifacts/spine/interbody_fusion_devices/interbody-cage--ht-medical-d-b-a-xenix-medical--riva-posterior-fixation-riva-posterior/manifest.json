@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--ht-medical-d-b-a-xenix-medical--riva-posterior-fixation-riva-posterior",
+  "artifact_folder": "interbody-cage--ht-medical-d-b-a-xenix-medical--riva-posterior-fixation-riva-posterior",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3276,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--ht-medical-d-b-a-xenix-medical--riva-posterior-fixation-riva-posterior.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--ht-medical-d-b-a-xenix-medical--riva-posterior-fixation-riva-posterior/enriched/interbody-cage--ht-medical-d-b-a-xenix-medical--riva-posterior-fixation-riva-posterior.json",
+        "bytes": 1577
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K251154.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--ht-medical-d-b-a-xenix-medical--riva-posterior-fixation-riva-posterior/fda_raw/NKB/K251154.json",
+        "bytes": 703
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--ht-medical-d-b-a-xenix-medical--riva-posterior-fixation-riva-posterior.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--ht-medical-d-b-a-xenix-medical--riva-posterior-fixation-riva-posterior/merged/interbody-cage--ht-medical-d-b-a-xenix-medical--riva-posterior-fixation-riva-posterior.json",
+        "bytes": 996
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

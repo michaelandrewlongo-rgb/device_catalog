@@ -15,7 +15,7 @@ from collections import defaultdict
 from pathlib import Path
 
 from ..config import CATALOG_ROOT
-from ..extraction.deepseek import deepseek_extract
+from ..extraction.gemini import gemini_extract
 
 logger = logging.getLogger(__name__)
 
@@ -298,7 +298,7 @@ def fill_competitors(
             len(competitors),
         )
 
-        result = deepseek_extract(prompt, max_tokens=1024)
+        result = gemini_extract(prompt, max_tokens=1024)
 
         if result is None or not result.get("comparison"):
             logger.warning("  Empty response for %s, skipping", target["filepath"].name)

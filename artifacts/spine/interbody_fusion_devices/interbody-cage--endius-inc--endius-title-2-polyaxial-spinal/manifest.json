@@ -1,0 +1,40 @@
+{
+  "device_slug": "interbody-cage--endius-inc--endius-title-2-polyaxial-spinal",
+  "artifact_folder": "interbody-cage--endius-inc--endius-title-2-polyaxial-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3471,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--endius-inc--endius-title-2-polyaxial-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--endius-inc--endius-title-2-polyaxial-spinal/enriched/interbody-cage--endius-inc--endius-title-2-polyaxial-spinal.json",
+        "bytes": 1436
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K070367.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--endius-inc--endius-title-2-polyaxial-spinal/fda_raw/NKB/K070367.json",
+        "bytes": 590
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K072840.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--endius-inc--endius-title-2-polyaxial-spinal/fda_raw/NKB/K072840.json",
+        "bytes": 590
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--endius-inc--endius-title-2-polyaxial-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--endius-inc--endius-title-2-polyaxial-spinal/merged/interbody-cage--endius-inc--endius-title-2-polyaxial-spinal.json",
+        "bytes": 855
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

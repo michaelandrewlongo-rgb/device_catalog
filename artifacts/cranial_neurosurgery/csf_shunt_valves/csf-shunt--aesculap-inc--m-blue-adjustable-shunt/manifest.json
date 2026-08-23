@@ -1,0 +1,54 @@
+{
+  "device_slug": "csf-shunt--aesculap-inc--m-blue-adjustable-shunt",
+  "artifact_folder": "csf-shunt--aesculap-inc--m-blue-adjustable-shunt",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 399610,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/csf-shunt/parsed/fda_summaries/csf-shunt--aesculap-inc--m-blue-adjustable-shunt--510k.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aesculap-inc--m-blue-adjustable-shunt/510k/csf-shunt/parsed/fda_summaries/csf-shunt--aesculap-inc--m-blue-adjustable-shunt--510k.json",
+        "bytes": 66083
+      },
+      {
+        "source": "pipeline/data/510k/csf-shunt/pdfs/csf-shunt--aesculap-inc--m-blue-adjustable-shunt--510k.pdf",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aesculap-inc--m-blue-adjustable-shunt/510k/csf-shunt/pdfs/csf-shunt--aesculap-inc--m-blue-adjustable-shunt--510k.pdf",
+        "bytes": 241897
+      }
+    ],
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/csf-shunt--aesculap-inc--m-blue-adjustable-shunt--knowledge.md",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aesculap-inc--m-blue-adjustable-shunt/data_by_device/csf-shunt--aesculap-inc--m-blue-adjustable-shunt--knowledge.md",
+        "bytes": 45425
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--aesculap-inc--m-blue-adjustable-shunt.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aesculap-inc--m-blue-adjustable-shunt/enriched/csf-shunt--aesculap-inc--m-blue-adjustable-shunt.json",
+        "bytes": 44808
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K192266.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aesculap-inc--m-blue-adjustable-shunt/fda_raw/JXG/K192266.json",
+        "bytes": 570
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--aesculap-inc--m-blue-adjustable-shunt.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--aesculap-inc--m-blue-adjustable-shunt/merged/csf-shunt--aesculap-inc--m-blue-adjustable-shunt.json",
+        "bytes": 827
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

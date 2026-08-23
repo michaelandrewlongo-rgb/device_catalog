@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--stryker--modification-to-xia-stainless-steel",
+  "artifact_folder": "corpectomy--stryker--modification-to-xia-stainless-steel",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3146,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--stryker--modification-to-xia-stainless-steel.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--stryker--modification-to-xia-stainless-steel/enriched/corpectomy--stryker--modification-to-xia-stainless-steel.json",
+        "bytes": 1702
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K051973.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--stryker--modification-to-xia-stainless-steel/fda_raw/KWP/K051973.json",
+        "bytes": 587
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--stryker--modification-to-xia-stainless-steel.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--stryker--modification-to-xia-stainless-steel/merged/corpectomy--stryker--modification-to-xia-stainless-steel.json",
+        "bytes": 857
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

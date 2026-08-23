@@ -11,7 +11,7 @@
   "product_code": "HCG",
   "what_it_is": "PC400 is a .020-inch coil designed for aneurysms and fistulas; comes in complex and helical shapes",
   "sizing_specs": "Materials: Stretch-resistant bare platinum",
-  "indications": "Indicated for the embolization of intracranial aneurysms, other neurovascular abnormalities such as arteriovenous malformations and arteriovenous fistulae, and arterial and venous embolizations in the peripheral vasculature",
+  "indications": "Indications for Use\n5 10(k) Number (if known): K120330\nDevice Name: Penumbra Coil System\nIndications For Use:\nThe Penumbra Coil System is indicated for the embolization of:\n- Intracramial aneurysms\n- Other neurovascular abnormalities such as arteriovenous malformations and\narteriovenous fistulae\n- Arterial and venous embolizations in the peripheral vasculature\nPrescription Use ___X__ AND/OR Over-The-Counter Use\n___\n(Part 21 CFR 801 Subpart D) (21 CFR 807 Subpart C)\n(PLEASE DO NOT WRITE BELOW LINE-CONTINUE ON ANOTHER PAGE IF NEEDED)\nConcurrence of CDRH, Office of Device Evaluation (ODE)\nPage Iloft\n(Division Sign-Off)\nDivision of Ophthalmic, Neurological and Ear,\nNose and Throat Devices>\n5 10 (k) Number.__2_____0__",
   "contraindications": null,
   "compatible_with": null,
   "use_notes": "Method of Detachment: Instant mechanical detachment\nCoil Type: Complex standard, complex soft, curve extra soft, complex extra soft\n\n[FDA RECALL] 1 active recall(s).\n  - The diameter of a component of the device is out of tolerance specification; the Delivery Pusher pull wire which secures the coil in place can prolapse and allow premature detachment of the coil.",
@@ -35,8 +35,8 @@
       "confidence": 0.8
     },
     "indications": {
-      "source": "evtoday",
-      "confidence": 0.8
+      "source": "fda_summary",
+      "confidence": 0.95
     },
     "contraindications": {
       "source": "none",

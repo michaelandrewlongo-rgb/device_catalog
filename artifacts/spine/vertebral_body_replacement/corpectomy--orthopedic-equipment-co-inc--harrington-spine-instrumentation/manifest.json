@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--orthopedic-equipment-co-inc--harrington-spine-instrumentation",
+  "artifact_folder": "corpectomy--orthopedic-equipment-co-inc--harrington-spine-instrumentation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2950,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--orthopedic-equipment-co-inc--harrington-spine-instrumentation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--orthopedic-equipment-co-inc--harrington-spine-instrumentation/enriched/corpectomy--orthopedic-equipment-co-inc--harrington-spine-instrumentation.json",
+        "bytes": 1451
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K781443.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--orthopedic-equipment-co-inc--harrington-spine-instrumentation/fda_raw/KWP/K781443.json",
+        "bytes": 629
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--orthopedic-equipment-co-inc--harrington-spine-instrumentation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--orthopedic-equipment-co-inc--harrington-spine-instrumentation/merged/corpectomy--orthopedic-equipment-co-inc--harrington-spine-instrumentation.json",
+        "bytes": 870
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

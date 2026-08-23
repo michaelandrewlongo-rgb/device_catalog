@@ -1,0 +1,28 @@
+{
+  "device_slug": "navigation--stryker--spinemap-3d-spinemask",
+  "artifact_folder": "navigation--stryker--spinemap-3d-spinemask",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 2,
+  "bytes": 1887828,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/navigation--stryker--spinemap-3d-spinemask--brochure.pdf",
+        "artifact": "artifacts/_outside_seed_registries/navigation/navigation--stryker--spinemap-3d-spinemask/data_by_device/navigation--stryker--spinemap-3d-spinemask--brochure.pdf",
+        "bytes": 1885941
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/documents/navigation--stryker--spinemap-3d-spinemask--brochure.json",
+        "artifact": "artifacts/_outside_seed_registries/navigation/navigation--stryker--spinemap-3d-spinemask/extracted/documents/navigation--stryker--spinemap-3d-spinemask--brochure.json",
+        "bytes": 1887
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "navigation",
+    "label": "Outside listed seed registries"
+  }
+}

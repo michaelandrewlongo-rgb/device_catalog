@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--choicespine--choice-spine-vertebral-body-replacement",
+  "artifact_folder": "cervical-plate--choicespine--choice-spine-vertebral-body-replacement",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3019,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--choicespine--choice-spine-vertebral-body-replacement.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--choicespine--choice-spine-vertebral-body-replacement/enriched/cervical-plate--choicespine--choice-spine-vertebral-body-replacement.json",
+        "bytes": 1488
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K120570.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--choicespine--choice-spine-vertebral-body-replacement/fda_raw/MQP/K120570.json",
+        "bytes": 624
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--choicespine--choice-spine-vertebral-body-replacement.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--choicespine--choice-spine-vertebral-body-replacement/merged/cervical-plate--choicespine--choice-spine-vertebral-body-replacement.json",
+        "bytes": 907
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

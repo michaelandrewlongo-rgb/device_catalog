@@ -1,0 +1,35 @@
+{
+  "device_slug": "unknown--stryker--bone-mill-autograft-processing-and-milling",
+  "artifact_folder": "unknown--stryker--bone-mill-autograft-processing-and-milling",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3794,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/unknown--stryker--bone-mill-autograft-processing-and-milling.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--stryker--bone-mill-autograft-processing-and-milling/enriched/unknown--stryker--bone-mill-autograft-processing-and-milling.json",
+        "bytes": 1581
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/unknown--stryker--bone-mill-autograft-processing-and-milling.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--stryker--bone-mill-autograft-processing-and-milling/merged/unknown--stryker--bone-mill-autograft-processing-and-milling.json",
+        "bytes": 990
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/stryker/bone-mill-autograft-processing-and-milling.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--stryker--bone-mill-autograft-processing-and-milling/scraper_raw/stryker/bone-mill-autograft-processing-and-milling.json",
+        "bytes": 1223
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "unknown",
+    "label": "Outside listed seed registries"
+  }
+}

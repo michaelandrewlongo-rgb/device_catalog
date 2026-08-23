@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--interpore-cross-intl--peek-cas",
+  "artifact_folder": "cervical-plate--interpore-cross-intl--peek-cas",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2731,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--interpore-cross-intl--peek-cas.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--interpore-cross-intl--peek-cas/enriched/cervical-plate--interpore-cross-intl--peek-cas.json",
+        "bytes": 1373
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K050861.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--interpore-cross-intl--peek-cas/fda_raw/MQP/K050861.json",
+        "bytes": 566
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--interpore-cross-intl--peek-cas.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--interpore-cross-intl--peek-cas/merged/cervical-plate--interpore-cross-intl--peek-cas.json",
+        "bytes": 792
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--gs-medical-co-ltd--gs-medical-anyplus-peek-lumbar",
+  "artifact_folder": "pedicle-screw--gs-medical-co-ltd--gs-medical-anyplus-peek-lumbar",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2992,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--gs-medical-co-ltd--gs-medical-anyplus-peek-lumbar.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--gs-medical-co-ltd--gs-medical-anyplus-peek-lumbar/enriched/pedicle-screw--gs-medical-co-ltd--gs-medical-anyplus-peek-lumbar.json",
+        "bytes": 1475
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K111354.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--gs-medical-co-ltd--gs-medical-anyplus-peek-lumbar/fda_raw/MAX/K111354.json",
+        "bytes": 623
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--gs-medical-co-ltd--gs-medical-anyplus-peek-lumbar.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--gs-medical-co-ltd--gs-medical-anyplus-peek-lumbar/merged/pedicle-screw--gs-medical-co-ltd--gs-medical-anyplus-peek-lumbar.json",
+        "bytes": 894
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

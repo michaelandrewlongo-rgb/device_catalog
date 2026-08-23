@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--pioneer-surgical-technology--pioneer-vertebral-body-replacement-pioneer",
+  "artifact_folder": "cervical-plate--pioneer-surgical-technology--pioneer-vertebral-body-replacement-pioneer",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3181,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--pioneer-surgical-technology--pioneer-vertebral-body-replacement-pioneer.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--pioneer-surgical-technology--pioneer-vertebral-body-replacement-pioneer/enriched/cervical-plate--pioneer-surgical-technology--pioneer-vertebral-body-replacement-pioneer.json",
+        "bytes": 1541
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K043206.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--pioneer-surgical-technology--pioneer-vertebral-body-replacement-pioneer/fda_raw/MQP/K043206.json",
+        "bytes": 680
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--pioneer-surgical-technology--pioneer-vertebral-body-replacement-pioneer.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--pioneer-surgical-technology--pioneer-vertebral-body-replacement-pioneer/merged/cervical-plate--pioneer-surgical-technology--pioneer-vertebral-body-replacement-pioneer.json",
+        "bytes": 960
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

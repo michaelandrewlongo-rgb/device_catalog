@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K133893",
+  "clearance_date": "2014-03-14",
+  "device_class": 2,
+  "manufacturer_canonical": "safe-orthopaedics",
+  "manufacturer_raw": "Safe Orthopaedics",
+  "catalog_category": "pedicle-screw",
+  "device_name_fda": "STERISPINE LC CAGE",
+  "product_code": "MAX",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "pedicle-screw--safe-orthopaedics--sterispine-lc-cage",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf13/K133893.pdf"
+}

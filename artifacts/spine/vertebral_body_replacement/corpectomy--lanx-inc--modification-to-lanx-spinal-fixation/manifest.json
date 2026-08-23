@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--lanx-inc--modification-to-lanx-spinal-fixation",
+  "artifact_folder": "corpectomy--lanx-inc--modification-to-lanx-spinal-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2888,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--lanx-inc--modification-to-lanx-spinal-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--lanx-inc--modification-to-lanx-spinal-fixation/enriched/corpectomy--lanx-inc--modification-to-lanx-spinal-fixation.json",
+        "bytes": 1441
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K090252.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--lanx-inc--modification-to-lanx-spinal-fixation/fda_raw/KWP/K090252.json",
+        "bytes": 587
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--lanx-inc--modification-to-lanx-spinal-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--lanx-inc--modification-to-lanx-spinal-fixation/merged/corpectomy--lanx-inc--modification-to-lanx-spinal-fixation.json",
+        "bytes": 860
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

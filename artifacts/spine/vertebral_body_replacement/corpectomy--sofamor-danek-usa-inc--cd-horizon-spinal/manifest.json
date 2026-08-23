@@ -1,0 +1,47 @@
+{
+  "device_slug": "corpectomy--sofamor-danek-usa-inc--cd-horizon-spinal",
+  "artifact_folder": "corpectomy--sofamor-danek-usa-inc--cd-horizon-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 4690,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--sofamor-danek-usa-inc--cd-horizon-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sofamor-danek-usa-inc--cd-horizon-spinal/enriched/corpectomy--sofamor-danek-usa-inc--cd-horizon-spinal.json",
+        "bytes": 2097
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/corpectomy--sofamor-danek-usa-inc--cd-horizon-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sofamor-danek-usa-inc--cd-horizon-spinal/extracted/fda_structured/corpectomy--sofamor-danek-usa-inc--cd-horizon-spinal.json",
+        "bytes": 594
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K961633.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sofamor-danek-usa-inc--cd-horizon-spinal/fda_raw/KWP/K961633.json",
+        "bytes": 586
+      },
+      {
+        "source": "pipeline/data/fda_raw/KWP/K981676.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sofamor-danek-usa-inc--cd-horizon-spinal/fda_raw/KWP/K981676.json",
+        "bytes": 586
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--sofamor-danek-usa-inc--cd-horizon-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--sofamor-danek-usa-inc--cd-horizon-spinal/merged/corpectomy--sofamor-danek-usa-inc--cd-horizon-spinal.json",
+        "bytes": 827
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

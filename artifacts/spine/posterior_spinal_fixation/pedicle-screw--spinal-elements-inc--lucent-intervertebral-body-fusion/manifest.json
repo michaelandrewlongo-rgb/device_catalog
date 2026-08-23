@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--spinal-elements-inc--lucent-intervertebral-body-fusion",
+  "artifact_folder": "pedicle-screw--spinal-elements-inc--lucent-intervertebral-body-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2954,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--spinal-elements-inc--lucent-intervertebral-body-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinal-elements-inc--lucent-intervertebral-body-fusion/enriched/pedicle-screw--spinal-elements-inc--lucent-intervertebral-body-fusion.json",
+        "bytes": 1458
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K152011.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinal-elements-inc--lucent-intervertebral-body-fusion/fda_raw/MAX/K152011.json",
+        "bytes": 619
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--spinal-elements-inc--lucent-intervertebral-body-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinal-elements-inc--lucent-intervertebral-body-fusion/merged/pedicle-screw--spinal-elements-inc--lucent-intervertebral-body-fusion.json",
+        "bytes": 877
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

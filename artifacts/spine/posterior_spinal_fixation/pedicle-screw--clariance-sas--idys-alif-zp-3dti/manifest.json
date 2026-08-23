@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--clariance-sas--idys-alif-zp-3dti",
+  "artifact_folder": "pedicle-screw--clariance-sas--idys-alif-zp-3dti",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2748,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--clariance-sas--idys-alif-zp-3dti.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--clariance-sas--idys-alif-zp-3dti/enriched/pedicle-screw--clariance-sas--idys-alif-zp-3dti.json",
+        "bytes": 1384
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K200920.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--clariance-sas--idys-alif-zp-3dti/fda_raw/MAX/K200920.json",
+        "bytes": 561
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--clariance-sas--idys-alif-zp-3dti.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--clariance-sas--idys-alif-zp-3dti/merged/pedicle-screw--clariance-sas--idys-alif-zp-3dti.json",
+        "bytes": 803
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

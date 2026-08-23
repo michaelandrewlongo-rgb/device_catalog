@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--k7-llc--k7-lumbar-spacers",
+  "artifact_folder": "pedicle-screw--k7-llc--k7-lumbar-spacers",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2699,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--k7-llc--k7-lumbar-spacers.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--k7-llc--k7-lumbar-spacers/enriched/pedicle-screw--k7-llc--k7-lumbar-spacers.json",
+        "bytes": 1370
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K133126.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--k7-llc--k7-lumbar-spacers/fda_raw/MAX/K133126.json",
+        "bytes": 540
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--k7-llc--k7-lumbar-spacers.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--k7-llc--k7-lumbar-spacers/merged/pedicle-screw--k7-llc--k7-lumbar-spacers.json",
+        "bytes": 789
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

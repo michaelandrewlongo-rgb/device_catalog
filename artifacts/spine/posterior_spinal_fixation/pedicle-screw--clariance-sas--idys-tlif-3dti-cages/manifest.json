@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--clariance-sas--idys-tlif-3dti-cages",
+  "artifact_folder": "pedicle-screw--clariance-sas--idys-tlif-3dti-cages",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2790,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--clariance-sas--idys-tlif-3dti-cages.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--clariance-sas--idys-tlif-3dti-cages/enriched/pedicle-screw--clariance-sas--idys-tlif-3dti-cages.json",
+        "bytes": 1397
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K172465.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--clariance-sas--idys-tlif-3dti-cages/fda_raw/MAX/K172465.json",
+        "bytes": 569
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--clariance-sas--idys-tlif-3dti-cages.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--clariance-sas--idys-tlif-3dti-cages/merged/pedicle-screw--clariance-sas--idys-tlif-3dti-cages.json",
+        "bytes": 824
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

@@ -9,14 +9,32 @@
   "device_class": 2,
   "device_name_fda": "Synchro SELECT Guidewire",
   "product_code": "MOF",
-  "what_it_is": "OD",
+  "what_it_is": "Device Description\nLike the primary Predicate device, the Synchro SELECT Guidewire is a single-use product with\na shapeable tip available in straight and pre-shaped configurations, used to gain intravascular\naccess to facilitate the positioning and exchange of interventional devices in small diameter,\ntortuous vasculature for neuro and peripheral diagnostic and interventional procedures. The wire\ncan be torqued to facilitate navigation through the vasculature.\nThe Synchro SELECT Guidewire comes in three stiffness profiles: Soft, Standard, and Support.\nThe primary Predicate, PV 2000 Synchro2 Guidewire (K053268), is only available in the Soft\nand Standard profiles. Therefore, the reference device, Synchro2 Support (K190843), was\nincluded to support the similarity in technical characteristics to the Synchro SELECT Support\nstiffness profile. Certain design inputs and associated acceptance criteria for PV 2000 Synchro2\n(K053268) and Synchro2 Support (K190843) were based on the reference device, Transend EX\n(K971254).\nAccessories\nThe Synchro SELECT Guidewire is shipped with a Torque Device that is commercially\navailable from Merit Medical (K936032), and a Guidewire Introducer that is commercially\navailable from B. Braun (K760389).\nPage 2 of 11\n\n|  | Primary Predicate Device |  |  |\n| --- | --- | --- | --- |\n| K053268* |  | PV 2000 Synchro2\nGuidewire |  |\n|  | Reference Predicate Device |  |  |\n| K190843 |  | Synchro2 Support Guidewire |  |\n| K971254 |  | Transend EX Guidewire |  |\n\nStryker Neurovascular\nPremarket Notification, Special 510(k)\nSynchro SELECT Guidewire",
   "sizing_specs": "CONTACT US\nX",
-  "indications": "The Synchro2 Guidewire series is intended for\ngeneral intravascular use, including neurovascular\nand peripheral vasculatures. It can be used to\nselectively introduce and position catheters and other\ninterventional devices within the peripheral and\nneurovasculature. This device should be used only\nby physicians trained in percutaneous, intravascular\ntechniques and procedures.",
+  "indications": "Indications for Use\nThe Indications for Use for the Synchro SELECT Guidewire are the same as the primary\nPredicate PV 2000 Synchro2 Guidewire and the reference Predicate Synchro2 Support\nGuidewire and are as follows:\nThe Synchro SELECT Guidewire series is intended for general intravascular use, including\nneurovascular and peripheral vasculatures. It can be used to selectively introduce and\nposition catheters and other interventional devices within the peripheral and neuro\nvasculature. This device should be used only by physicians trained in percutaneous,\nintravascular techniques and procedures.\nTechnological Characteristics and Product Feature Comparison\nThe Synchro SELECT Guidewire is substantially equivalent to the Predicate device, the PV 2000\nSynchro2 Guidewire, cleared under K053268, based on the following:\n• Same indications for use\n• Same fundamental materials and manufacturing process\n• Same fundamental design and technology\n• Same operating principles\n• Same biocompatibility information\n• Same materials and processes for packaging\n• Same sterilization method and process for devices\nA comparison of the Subject device with the Predicate device is summarized in Table 1 below.\nPage 3 of 11\n\nStryker Neurovascular\nPremarket Notification, Special 510(k)\nSynchro SELECT Guidewire\nTable 1. Product Feature Comparison of Subject Device to Predicate Device",
   "contraindications": null,
   "compatible_with": null,
   "use_notes": "[FDA RECALL] 1 active recall(s).\n  - Stryker Neurovascular has observed an increased frequency of PTFE coating damage occurring on the Synchro Guidewires that may be caused by the practice of backloading the guidewire through the optiona",
   "deployment_steps": null,
-  "also_known_as": [],
+  "also_known_as": [
+    "K053268",
+    "K053268",
+    "K053268",
+    "K053268",
+    "K053268",
+    "K053268",
+    "K760389",
+    "K936032",
+    "K053268",
+    "K760389",
+    "K936032",
+    "K053268",
+    "K190843",
+    "K053268",
+    "K190843",
+    "K971254",
+    "K053268"
+  ],
   "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K202522.pdf",
   "ifu_pdf_url": null,
   "source_url": "https://www.stryker.com/us/en/neurovascular/products/synchro2.html",
@@ -28,16 +46,16 @@
   ],
   "_enrichment": {
     "what_it_is": {
-      "source": "scraper",
-      "confidence": 0.5
+      "source": "fda_summary",
+      "confidence": 0.9
     },
     "sizing_specs": {
       "source": "scraper",
       "confidence": 0.5
     },
     "indications": {
-      "source": "scraper",
-      "confidence": 0.5
+      "source": "fda_summary",
+      "confidence": 0.95
     },
     "contraindications": {
       "source": "none",
@@ -52,8 +70,8 @@
       "confidence": 0
     },
     "also_known_as": {
-      "source": "none",
-      "confidence": 0
+      "source": "fda_summary",
+      "confidence": 0.3
     },
     "_safety": {
       "source": "fda_maude+recalls",

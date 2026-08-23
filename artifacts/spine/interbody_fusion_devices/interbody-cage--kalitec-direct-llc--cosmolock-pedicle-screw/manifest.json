@@ -1,0 +1,42 @@
+{
+  "device_slug": "interbody-cage--kalitec-direct-llc--cosmolock-pedicle-screw",
+  "artifact_folder": "interbody-cage--kalitec-direct-llc--cosmolock-pedicle-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3799,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--kalitec-direct-llc--cosmolock-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--kalitec-direct-llc--cosmolock-pedicle-screw/enriched/interbody-cage--kalitec-direct-llc--cosmolock-pedicle-screw.json",
+        "bytes": 1717
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--kalitec-direct-llc--cosmolock-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--kalitec-direct-llc--cosmolock-pedicle-screw/extracted/fda_structured/interbody-cage--kalitec-direct-llc--cosmolock-pedicle-screw.json",
+        "bytes": 638
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K172808.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--kalitec-direct-llc--cosmolock-pedicle-screw/fda_raw/NKB/K172808.json",
+        "bytes": 597
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--kalitec-direct-llc--cosmolock-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--kalitec-direct-llc--cosmolock-pedicle-screw/merged/interbody-cage--kalitec-direct-llc--cosmolock-pedicle-screw.json",
+        "bytes": 847
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

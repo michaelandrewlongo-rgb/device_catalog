@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--orthomet-inc--lea-plaza-spinal-frame",
+  "artifact_folder": "corpectomy--orthomet-inc--lea-plaza-spinal-frame",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2799,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--orthomet-inc--lea-plaza-spinal-frame.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--orthomet-inc--lea-plaza-spinal-frame/enriched/corpectomy--orthomet-inc--lea-plaza-spinal-frame.json",
+        "bytes": 1405
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K884585.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--orthomet-inc--lea-plaza-spinal-frame/fda_raw/KWP/K884585.json",
+        "bytes": 570
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--orthomet-inc--lea-plaza-spinal-frame.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--orthomet-inc--lea-plaza-spinal-frame/merged/corpectomy--orthomet-inc--lea-plaza-spinal-frame.json",
+        "bytes": 824
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

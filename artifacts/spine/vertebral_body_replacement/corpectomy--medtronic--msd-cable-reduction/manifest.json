@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--medtronic--msd-cable-reduction",
+  "artifact_folder": "corpectomy--medtronic--msd-cable-reduction",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3236,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--medtronic--msd-cable-reduction.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--msd-cable-reduction/enriched/corpectomy--medtronic--msd-cable-reduction.json",
+        "bytes": 1860
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K030816.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--msd-cable-reduction/fda_raw/KWP/K030816.json",
+        "bytes": 567
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--medtronic--msd-cable-reduction.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--msd-cable-reduction/merged/corpectomy--medtronic--msd-cable-reduction.json",
+        "bytes": 809
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

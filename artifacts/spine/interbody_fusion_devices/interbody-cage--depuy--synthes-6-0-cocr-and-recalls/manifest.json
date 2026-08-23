@@ -1,0 +1,21 @@
+{
+  "device_slug": "interbody-cage--depuy--synthes-6-0-cocr-and-recalls",
+  "artifact_folder": "interbody-cage--depuy--synthes-6-0-cocr-and-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 4150,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/interbody-cage--depuy--synthes-6-0-cocr-and-recalls.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--synthes-6-0-cocr-and-recalls/extracted/fda_safety/interbody-cage--depuy--synthes-6-0-cocr-and-recalls.json",
+        "bytes": 4150
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

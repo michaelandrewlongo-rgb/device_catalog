@@ -1,0 +1,40 @@
+{
+  "device_slug": "interbody-cage--spinal-resources-inc--swedge-pedicle-screw-fixation",
+  "artifact_folder": "interbody-cage--spinal-resources-inc--swedge-pedicle-screw-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3571,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--spinal-resources-inc--swedge-pedicle-screw-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spinal-resources-inc--swedge-pedicle-screw-fixation/enriched/interbody-cage--spinal-resources-inc--swedge-pedicle-screw-fixation.json",
+        "bytes": 1454
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K170045.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spinal-resources-inc--swedge-pedicle-screw-fixation/fda_raw/NKB/K170045.json",
+        "bytes": 618
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K230482.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spinal-resources-inc--swedge-pedicle-screw-fixation/fda_raw/NKB/K230482.json",
+        "bytes": 618
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--spinal-resources-inc--swedge-pedicle-screw-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spinal-resources-inc--swedge-pedicle-screw-fixation/merged/interbody-cage--spinal-resources-inc--swedge-pedicle-screw-fixation.json",
+        "bytes": 881
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

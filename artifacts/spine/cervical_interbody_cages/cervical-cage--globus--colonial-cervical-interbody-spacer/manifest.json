@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-cage--globus--colonial-cervical-interbody-spacer",
+  "artifact_folder": "cervical-cage--globus--colonial-cervical-interbody-spacer",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3115,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-cage--globus--colonial-cervical-interbody-spacer.json",
+        "artifact": "artifacts/spine/cervical_interbody_cages/cervical-cage--globus--colonial-cervical-interbody-spacer/enriched/cervical-cage--globus--colonial-cervical-interbody-spacer.json",
+        "bytes": 1606
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-cage--globus--colonial-cervical-interbody-spacer.json",
+        "artifact": "artifacts/spine/cervical_interbody_cages/cervical-cage--globus--colonial-cervical-interbody-spacer/merged/cervical-cage--globus--colonial-cervical-interbody-spacer.json",
+        "bytes": 1010
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/globus/colonial-cervical-interbody-spacer.json",
+        "artifact": "artifacts/spine/cervical_interbody_cages/cervical-cage--globus--colonial-cervical-interbody-spacer/scraper_raw/globus/colonial-cervical-interbody-spacer.json",
+        "bytes": 499
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "cervical_interbody_cages",
+    "label": "ACDF/ACCF Cages"
+  }
+}

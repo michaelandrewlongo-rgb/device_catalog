@@ -1,0 +1,55 @@
+{
+  "device_slug": "interbody-cage--medacta-international-s-a--m-u-s-t-pedicle",
+  "artifact_folder": "interbody-cage--medacta-international-s-a--m-u-s-t-pedicle",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 7,
+  "bytes": 5519,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--medacta-international-s-a--m-u-s-t-pedicle.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medacta-international-s-a--m-u-s-t-pedicle/enriched/interbody-cage--medacta-international-s-a--m-u-s-t-pedicle.json",
+        "bytes": 1482
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K162061.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medacta-international-s-a--m-u-s-t-pedicle/fda_raw/NKB/K162061.json",
+        "bytes": 609
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K171170.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medacta-international-s-a--m-u-s-t-pedicle/fda_raw/NKB/K171170.json",
+        "bytes": 663
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K193365.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medacta-international-s-a--m-u-s-t-pedicle/fda_raw/NKB/K193365.json",
+        "bytes": 609
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K203482.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medacta-international-s-a--m-u-s-t-pedicle/fda_raw/NKB/K203482.json",
+        "bytes": 634
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K234048.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medacta-international-s-a--m-u-s-t-pedicle/fda_raw/NKB/K234048.json",
+        "bytes": 621
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--medacta-international-s-a--m-u-s-t-pedicle.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--medacta-international-s-a--m-u-s-t-pedicle/merged/interbody-cage--medacta-international-s-a--m-u-s-t-pedicle.json",
+        "bytes": 901
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

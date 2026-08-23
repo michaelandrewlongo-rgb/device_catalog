@@ -1,0 +1,47 @@
+{
+  "device_slug": "csf-shunt--cerenovus--codman-hydrocephalus-valves-catheters-accessories",
+  "artifact_folder": "csf-shunt--cerenovus--codman-hydrocephalus-valves-catheters-accessories",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 183236,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/csf-shunt/parsed/fda_summaries/csf-shunt--cerenovus--codman-hydrocephalus-valves-catheters-accessories--510k.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cerenovus--codman-hydrocephalus-valves-catheters-accessories/510k/csf-shunt/parsed/fda_summaries/csf-shunt--cerenovus--codman-hydrocephalus-valves-catheters-accessories--510k.json",
+        "bytes": 36435
+      },
+      {
+        "source": "pipeline/data/510k/csf-shunt/pdfs/csf-shunt--cerenovus--codman-hydrocephalus-valves-catheters-accessories--510k.pdf",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cerenovus--codman-hydrocephalus-valves-catheters-accessories/510k/csf-shunt/pdfs/csf-shunt--cerenovus--codman-hydrocephalus-valves-catheters-accessories--510k.pdf",
+        "bytes": 125773
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--cerenovus--codman-hydrocephalus-valves-catheters-accessories.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cerenovus--codman-hydrocephalus-valves-catheters-accessories/enriched/csf-shunt--cerenovus--codman-hydrocephalus-valves-catheters-accessories.json",
+        "bytes": 19488
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K172022.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cerenovus--codman-hydrocephalus-valves-catheters-accessories/fda_raw/JXG/K172022.json",
+        "bytes": 631
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--cerenovus--codman-hydrocephalus-valves-catheters-accessories.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--cerenovus--codman-hydrocephalus-valves-catheters-accessories/merged/csf-shunt--cerenovus--codman-hydrocephalus-valves-catheters-accessories.json",
+        "bytes": 909
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

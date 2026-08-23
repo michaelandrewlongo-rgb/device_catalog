@@ -1,0 +1,45 @@
+{
+  "device_slug": "interbody-cage--pioneer-surgical-technology-inc--streamline-tl-spinal",
+  "artifact_folder": "interbody-cage--pioneer-surgical-technology-inc--streamline-tl-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 4419,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--pioneer-surgical-technology-inc--streamline-tl-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--pioneer-surgical-technology-inc--streamline-tl-spinal/enriched/interbody-cage--pioneer-surgical-technology-inc--streamline-tl-spinal.json",
+        "bytes": 1662
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K110692.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--pioneer-surgical-technology-inc--streamline-tl-spinal/fda_raw/NKB/K110692.json",
+        "bytes": 631
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K111502.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--pioneer-surgical-technology-inc--streamline-tl-spinal/fda_raw/NKB/K111502.json",
+        "bytes": 631
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K131100.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--pioneer-surgical-technology-inc--streamline-tl-spinal/fda_raw/NKB/K131100.json",
+        "bytes": 631
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--pioneer-surgical-technology-inc--streamline-tl-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--pioneer-surgical-technology-inc--streamline-tl-spinal/merged/interbody-cage--pioneer-surgical-technology-inc--streamline-tl-spinal.json",
+        "bytes": 864
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--zavation-medical-products-llc--zavation-connector",
+  "artifact_folder": "interbody-cage--zavation-medical-products-llc--zavation-connector",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2909,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--zavation-medical-products-llc--zavation-connector.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--zavation-medical-products-llc--zavation-connector/enriched/interbody-cage--zavation-medical-products-llc--zavation-connector.json",
+        "bytes": 1435
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K231811.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--zavation-medical-products-llc--zavation-connector/fda_raw/NKB/K231811.json",
+        "bytes": 620
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--zavation-medical-products-llc--zavation-connector.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--zavation-medical-products-llc--zavation-connector/merged/interbody-cage--zavation-medical-products-llc--zavation-connector.json",
+        "bytes": 854
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

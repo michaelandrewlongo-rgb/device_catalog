@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--j-b-s-s-a--j-b-s-c1-c2",
+  "artifact_folder": "corpectomy--j-b-s-s-a--j-b-s-c1-c2",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2696,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--j-b-s-s-a--j-b-s-c1-c2.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--j-b-s-s-a--j-b-s-c1-c2/enriched/corpectomy--j-b-s-s-a--j-b-s-c1-c2.json",
+        "bytes": 1368
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K955864.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--j-b-s-s-a--j-b-s-c1-c2/fda_raw/KWP/K955864.json",
+        "bytes": 541
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--j-b-s-s-a--j-b-s-c1-c2.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--j-b-s-s-a--j-b-s-c1-c2/merged/corpectomy--j-b-s-s-a--j-b-s-c1-c2.json",
+        "bytes": 787
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

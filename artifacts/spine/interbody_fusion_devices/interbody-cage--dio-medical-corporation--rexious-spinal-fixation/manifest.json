@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--dio-medical-corporation--rexious-spinal-fixation",
+  "artifact_folder": "interbody-cage--dio-medical-corporation--rexious-spinal-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2906,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--dio-medical-corporation--rexious-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--dio-medical-corporation--rexious-spinal-fixation/enriched/interbody-cage--dio-medical-corporation--rexious-spinal-fixation.json",
+        "bytes": 1438
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K222415.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--dio-medical-corporation--rexious-spinal-fixation/fda_raw/NKB/K222415.json",
+        "bytes": 611
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--dio-medical-corporation--rexious-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--dio-medical-corporation--rexious-spinal-fixation/merged/interbody-cage--dio-medical-corporation--rexious-spinal-fixation.json",
+        "bytes": 857
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

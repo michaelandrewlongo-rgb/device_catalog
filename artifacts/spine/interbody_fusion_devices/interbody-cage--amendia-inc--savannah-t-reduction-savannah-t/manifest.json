@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--amendia-inc--savannah-t-reduction-savannah-t",
+  "artifact_folder": "interbody-cage--amendia-inc--savannah-t-reduction-savannah-t",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3499,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--amendia-inc--savannah-t-reduction-savannah-t.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--amendia-inc--savannah-t-reduction-savannah-t/enriched/interbody-cage--amendia-inc--savannah-t-reduction-savannah-t.json",
+        "bytes": 1833
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K132925.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--amendia-inc--savannah-t-reduction-savannah-t/fda_raw/NKB/K132925.json",
+        "bytes": 665
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--amendia-inc--savannah-t-reduction-savannah-t.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--amendia-inc--savannah-t-reduction-savannah-t/merged/interbody-cage--amendia-inc--savannah-t-reduction-savannah-t.json",
+        "bytes": 1001
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

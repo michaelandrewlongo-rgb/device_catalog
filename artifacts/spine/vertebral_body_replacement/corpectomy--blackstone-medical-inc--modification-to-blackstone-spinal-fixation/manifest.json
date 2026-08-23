@@ -1,0 +1,40 @@
+{
+  "device_slug": "corpectomy--blackstone-medical-inc--modification-to-blackstone-spinal-fixation",
+  "artifact_folder": "corpectomy--blackstone-medical-inc--modification-to-blackstone-spinal-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3669,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--blackstone-medical-inc--modification-to-blackstone-spinal-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--blackstone-medical-inc--modification-to-blackstone-spinal-fixation/enriched/corpectomy--blackstone-medical-inc--modification-to-blackstone-spinal-fixation.json",
+        "bytes": 1485
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K023498.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--blackstone-medical-inc--modification-to-blackstone-spinal-fixation/fda_raw/KWP/K023498.json",
+        "bytes": 640
+      },
+      {
+        "source": "pipeline/data/fda_raw/KWP/K030241.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--blackstone-medical-inc--modification-to-blackstone-spinal-fixation/fda_raw/KWP/K030241.json",
+        "bytes": 640
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--blackstone-medical-inc--modification-to-blackstone-spinal-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--blackstone-medical-inc--modification-to-blackstone-spinal-fixation/merged/corpectomy--blackstone-medical-inc--modification-to-blackstone-spinal-fixation.json",
+        "bytes": 904
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--medical-designs-llc--subdural-evacuating-port-model-11",
+  "artifact_folder": "csf-shunt--medical-designs-llc--subdural-evacuating-port-model-11",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2958,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--medical-designs-llc--subdural-evacuating-port-model-11.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medical-designs-llc--subdural-evacuating-port-model-11/enriched/csf-shunt--medical-designs-llc--subdural-evacuating-port-model-11.json",
+        "bytes": 1462
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K002970.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medical-designs-llc--subdural-evacuating-port-model-11/fda_raw/JXG/K002970.json",
+        "bytes": 615
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--medical-designs-llc--subdural-evacuating-port-model-11.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--medical-designs-llc--subdural-evacuating-port-model-11/merged/csf-shunt--medical-designs-llc--subdural-evacuating-port-model-11.json",
+        "bytes": 881
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

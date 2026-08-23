@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K802462",
+  "clearance_date": "1980-12-16",
+  "device_class": 2,
+  "manufacturer_canonical": "depuy",
+  "manufacturer_raw": "Synthes (Usa)",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "SYNTHES SPINAL IMPLANT SYSTEM",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--depuy--synthes-spinal-implant",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf80/K802462.pdf"
+}

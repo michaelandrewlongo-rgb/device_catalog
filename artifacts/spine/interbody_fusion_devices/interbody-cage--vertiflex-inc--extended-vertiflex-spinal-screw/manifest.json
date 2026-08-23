@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--vertiflex-inc--extended-vertiflex-spinal-screw",
+  "artifact_folder": "interbody-cage--vertiflex-inc--extended-vertiflex-spinal-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2902,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--vertiflex-inc--extended-vertiflex-spinal-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--vertiflex-inc--extended-vertiflex-spinal-screw/enriched/interbody-cage--vertiflex-inc--extended-vertiflex-spinal-screw.json",
+        "bytes": 1442
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K073245.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--vertiflex-inc--extended-vertiflex-spinal-screw/fda_raw/NKB/K073245.json",
+        "bytes": 599
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--vertiflex-inc--extended-vertiflex-spinal-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--vertiflex-inc--extended-vertiflex-spinal-screw/merged/interbody-cage--vertiflex-inc--extended-vertiflex-spinal-screw.json",
+        "bytes": 861
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

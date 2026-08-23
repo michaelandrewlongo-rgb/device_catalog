@@ -11,7 +11,7 @@
   "product_code": "NRY",
   "what_it_is": null,
   "sizing_specs": "Sheath Compatibility (F): –\nWorking Length (cm): 175–200 (Separator and Separator Flex length)",
-  "indications": "As part of the Penumbra system, the Reperfusion catheters and separators are indicated for use in the revascularization of patients with acute ischemic stroke secondary to intracranial large vessel occlusive disease (within the internal carotid, middle cerebral—M1 and M2 segments, basilar, and vertebral arteries) within 8 hours of symptom onset. Patients who are ineligible for intravenous tissue plasminogen activator (IV t-PA) or who fail IV t-PA therapy are candidates for treatment\n\nAs part of the Penumbra system, the Reperfusion catheters and separators are indicated for use in the revascularization of patients with acute ischemic stroke secondary to intracranial large vessel occlusive disease (within the internal carotid, middle cerebral—M1 and M2 segments, basilar, and vertebral arteries) within 8 hours of symptom onset. Patients who are ineligible for thrombolytic drug therapy or who failed thrombolytic drug therapy are candidates for treatment",
+  "indications": "Indications for Use\n510(k)Number(ifknown): Ko¶'\nDevice Name: Penumbra System®o Separator\"4 Flex\nIndications for Use:\nThe Penumbra System is intended for use in the revascularization of patients with acute ischemic\nstroke secondary to intracranial large vessel occlusive disease (in the internal carotid, middle\ncerebral - Ml and M2 segments, basilar, and vertebral arteries) within 8 hours of symptom\nonset.\nPrescription Use X AND/OR Over The Counter Use\n___\n(Part24ICFR 801 Subpart D) (21 CFR 801 Subpart C)\n-\n(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE OF\nNEEDED)\nConcurrence of CDRH, Office of Device Evaluation (ODE)\nkL/, e BonsoL\n(Division Sign-Off)\nDivision of ophthalmiic, Neurological and Ear,\nNose and Throat Devices'\n51 0(k) Numbert ~1c!IO~t",
   "contraindications": null,
   "compatible_with": null,
   "use_notes": "Mode of Operation: Separator-assisted clot debulking, if needed\n\n[FDA RECALL] 6 active recall(s).\n  - Reperfusion catheter may fail at the mid-shaft joint and may break off.  If the segment cannot be removed, it may result in blocked blood flow, requiring emergency medical treatment.\n  - The catheter may become susceptible to distal tip damage during use.  Distal tip damage in conjunction with pressurization of contrast injection may result in potential vessel damage, and subsequent p",
@@ -35,8 +35,8 @@
       "confidence": 0.8
     },
     "indications": {
-      "source": "evtoday",
-      "confidence": 0.8
+      "source": "fda_summary",
+      "confidence": 0.95
     },
     "contraindications": {
       "source": "none",

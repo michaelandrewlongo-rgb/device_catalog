@@ -1,0 +1,22 @@
+[
+  {
+    "device_family": "aspiration--scientia-vascular-inc--socrates-aspiration",
+    "query_used": "\"Socrates Aspiration System\" OR \"K113163\"",
+    "raw": {
+      "abstract": "Tandem occlusions of the extracranial carotid and intracranial carotid or middle cerebral artery have a particularly poor prognosis without treatment. Several management strategies have been used with no clear consensus recommendations. We examined subjects with tandem occlusions enrolled in the ESCAPE trial and their outcomes.\nData are from the ESCAPE trial. Additional data were sought on interventions for each subject.\nThere were 54 (17%) subjects with tandem extracranial and intracranial occlusions. Patients in the endovascular treatment arm (n=30) were more likely to be younger (median age 66 years, p<0.01), male (66.7%, p=0.03), diabetic, and without atrial fibrillation. Subjects with tandem occlusions were more likely to have intracranial internal carotid artery occlusions than M1 occlusions (p<0.01). Of the 30 intervention-arm subjects, 17 (57%) underwent emergency endovascular treatment of the extracranial disease, 10 subjects before and seven subjects after intracranial thrombectomy. Of the remaining 13 subjects, only four required staged carotid revascularization due to persistent severe carotid stenosis; four had cervical pseudo-occlusions with no residual stenosis after large distal carotid thrombus burden aspiration/retrieval. Outcomes were similar between subjects with and without tandem lesions. The use of antithrombotic agents after acute carotid artery stenting was variable but no symptomatic intracerebral hemorrhage was seen in subjects who underwent emergency endovascular treatment of extracranial carotid artery.\nTandem occlusions occurred in one-sixth of patients and were treated highly variably within the ESCAPE trial. While outcomes were similar, the best method to treat the carotid artery in patients with tandem occlusion awaits further randomized data.\nNCT01778335.",
+      "doi": "10.1136/neurintsurg-2017-013316",
+      "journal": "Journal of neurointerventional surgery",
+      "matched_device_family": "aspiration--scientia-vascular-inc--socrates-aspiration",
+      "pmid": "29021311",
+      "publication_date": "2018-May",
+      "query_used": "\"Socrates Aspiration System\" OR \"K113163\"",
+      "source_retrieved_at": "2026-04-15T10:17:28+00:00",
+      "title": "Acute ischemic stroke with tandem lesions: technical endovascular management and clinical outcomes from the ESCAPE trial."
+    },
+    "retrieved_at": "2026-04-15T10:17:28+00:00",
+    "source_id": "pubmed:29021311",
+    "source_type": "pubmed",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/29021311/",
+    "title": "Acute ischemic stroke with tandem lesions: technical endovascular management and clinical outcomes from the ESCAPE trial."
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "device_slug": "interbody-cage--stryker-instruments--poweream-xia-serrato",
+  "artifact_folder": "interbody-cage--stryker-instruments--poweream-xia-serrato",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3652,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--stryker-instruments--poweream-xia-serrato.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker-instruments--poweream-xia-serrato/enriched/interbody-cage--stryker-instruments--poweream-xia-serrato.json",
+        "bytes": 1676
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--stryker-instruments--poweream-xia-serrato.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker-instruments--poweream-xia-serrato/extracted/fda_structured/interbody-cage--stryker-instruments--poweream-xia-serrato.json",
+        "bytes": 564
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K240526.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker-instruments--poweream-xia-serrato/fda_raw/NKB/K240526.json",
+        "bytes": 586
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--stryker-instruments--poweream-xia-serrato.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--stryker-instruments--poweream-xia-serrato/merged/interbody-cage--stryker-instruments--poweream-xia-serrato.json",
+        "bytes": 826
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

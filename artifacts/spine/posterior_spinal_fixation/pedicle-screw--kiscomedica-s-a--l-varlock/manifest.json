@@ -1,0 +1,42 @@
+{
+  "device_slug": "pedicle-screw--kiscomedica-s-a--l-varlock",
+  "artifact_folder": "pedicle-screw--kiscomedica-s-a--l-varlock",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3612,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--kiscomedica-s-a--l-varlock.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--kiscomedica-s-a--l-varlock/enriched/pedicle-screw--kiscomedica-s-a--l-varlock.json",
+        "bytes": 1657
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/pedicle-screw--kiscomedica-s-a--l-varlock.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--kiscomedica-s-a--l-varlock/extracted/fda_structured/pedicle-screw--kiscomedica-s-a--l-varlock.json",
+        "bytes": 621
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K080537.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--kiscomedica-s-a--l-varlock/fda_raw/MAX/K080537.json",
+        "bytes": 551
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--kiscomedica-s-a--l-varlock.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--kiscomedica-s-a--l-varlock/merged/pedicle-screw--kiscomedica-s-a--l-varlock.json",
+        "bytes": 783
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "unknown--balt--catchview",
+  "artifact_folder": "unknown--balt--catchview",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 4497,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/unknown--balt--catchview.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--balt--catchview/enriched/unknown--balt--catchview.json",
+        "bytes": 1979
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/unknown--balt--catchview.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--balt--catchview/merged/unknown--balt--catchview.json",
+        "bytes": 1397
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/balt/catchview.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--balt--catchview/scraper_raw/balt/catchview.json",
+        "bytes": 1121
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "unknown",
+    "label": "Outside listed seed registries"
+  }
+}

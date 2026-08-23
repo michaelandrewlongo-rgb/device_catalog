@@ -1,0 +1,21 @@
+{
+  "device_slug": "flow-diverter--balt--optima-optimax-optiblock",
+  "artifact_folder": "flow-diverter--balt--optima-optimax-optiblock",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 1258,
+  "sources": {
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/balt/optima-optimax-optiblock.json",
+        "artifact": "artifacts/_outside_seed_registries/flow-diverter/flow-diverter--balt--optima-optimax-optiblock/scraper_raw/balt/optima-optimax-optiblock.json",
+        "bytes": 1258
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "flow-diverter",
+    "label": "Flow diverters noted as separate exemplar"
+  }
+}

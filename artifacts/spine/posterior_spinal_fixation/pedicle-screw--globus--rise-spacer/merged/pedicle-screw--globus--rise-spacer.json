@@ -1,0 +1,32 @@
+{
+  "device_name": "RISE Expandable Lumbar Interbody Spacer",
+  "manufacturer": "globus",
+  "catalog_category": "pedicle-screw",
+  "filename_stem": "pedicle-screw--globus--rise-spacer",
+  "clearance_type": "510k",
+  "clearance_number": "K113447",
+  "clearance_date": "2012-01-26",
+  "device_class": 2,
+  "device_name_fda": "RISE SPACER",
+  "product_code": "MAX",
+  "what_it_is": "All-titanium expandable lumbar interbody spacer for TLIF/PLIF. Inserted contracted, continuously expands up to 7mm. RISE IntraLIF variant: percutaneous via 8.5mm cannula with extraforaminal access.",
+  "sizing_specs": "Expands up to 7mm. IntraLIF: 8.5mm cannula delivery.",
+  "indications": "TLIF, PLIF. IntraLIF for percutaneous approach.",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [
+    "RISE",
+    "RISE IntraLIF"
+  ],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf11/K113447.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.globusmedical.com/healthcare-professionals/spine/procedures/tlif/",
+  "confidence_score": 0.4,
+  "needs_review": true,
+  "data_sources": [
+    "fda",
+    "scraper"
+  ]
+}

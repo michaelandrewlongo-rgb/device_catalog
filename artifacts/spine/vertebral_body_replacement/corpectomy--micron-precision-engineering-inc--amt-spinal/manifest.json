@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--micron-precision-engineering-inc--amt-spinal",
+  "artifact_folder": "corpectomy--micron-precision-engineering-inc--amt-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2843,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--micron-precision-engineering-inc--amt-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--micron-precision-engineering-inc--amt-spinal/enriched/corpectomy--micron-precision-engineering-inc--amt-spinal.json",
+        "bytes": 1409
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K002059.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--micron-precision-engineering-inc--amt-spinal/fda_raw/KWP/K002059.json",
+        "bytes": 606
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--micron-precision-engineering-inc--amt-spinal.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--micron-precision-engineering-inc--amt-spinal/merged/corpectomy--micron-precision-engineering-inc--amt-spinal.json",
+        "bytes": 828
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "device_slug": "interbody-cage--evolution-spine-llc--whistler-modular-pedicle-screw",
+  "artifact_folder": "interbody-cage--evolution-spine-llc--whistler-modular-pedicle-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3895,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--evolution-spine-llc--whistler-modular-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--evolution-spine-llc--whistler-modular-pedicle-screw/enriched/interbody-cage--evolution-spine-llc--whistler-modular-pedicle-screw.json",
+        "bytes": 1753
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--evolution-spine-llc--whistler-modular-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--evolution-spine-llc--whistler-modular-pedicle-screw/extracted/fda_structured/interbody-cage--evolution-spine-llc--whistler-modular-pedicle-screw.json",
+        "bytes": 658
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K182478.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--evolution-spine-llc--whistler-modular-pedicle-screw/fda_raw/NKB/K182478.json",
+        "bytes": 614
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--evolution-spine-llc--whistler-modular-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--evolution-spine-llc--whistler-modular-pedicle-screw/merged/interbody-cage--evolution-spine-llc--whistler-modular-pedicle-screw.json",
+        "bytes": 870
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

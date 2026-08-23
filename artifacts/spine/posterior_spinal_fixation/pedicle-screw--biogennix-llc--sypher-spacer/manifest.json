@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--biogennix-llc--sypher-spacer",
+  "artifact_folder": "pedicle-screw--biogennix-llc--sypher-spacer",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2751,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--biogennix-llc--sypher-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--biogennix-llc--sypher-spacer/enriched/pedicle-screw--biogennix-llc--sypher-spacer.json",
+        "bytes": 1386
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K181337.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--biogennix-llc--sypher-spacer/fda_raw/MAX/K181337.json",
+        "bytes": 560
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--biogennix-llc--sypher-spacer.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--biogennix-llc--sypher-spacer/merged/pedicle-screw--biogennix-llc--sypher-spacer.json",
+        "bytes": 805
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

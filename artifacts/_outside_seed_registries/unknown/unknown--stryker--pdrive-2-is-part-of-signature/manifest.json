@@ -1,0 +1,28 @@
+{
+  "device_slug": "unknown--stryker--pdrive-2-is-part-of-signature",
+  "artifact_folder": "unknown--stryker--pdrive-2-is-part-of-signature",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 2,
+  "bytes": 3051,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/unknown--stryker--pdrive-2-is-part-of-signature.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--stryker--pdrive-2-is-part-of-signature/enriched/unknown--stryker--pdrive-2-is-part-of-signature.json",
+        "bytes": 1800
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/unknown--stryker--pdrive-2-is-part-of-signature.json",
+        "artifact": "artifacts/_outside_seed_registries/unknown/unknown--stryker--pdrive-2-is-part-of-signature/merged/unknown--stryker--pdrive-2-is-part-of-signature.json",
+        "bytes": 1251
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "unknown",
+    "label": "Outside listed seed registries"
+  }
+}

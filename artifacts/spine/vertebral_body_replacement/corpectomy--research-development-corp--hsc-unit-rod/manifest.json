@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--research-development-corp--hsc-unit-rod",
+  "artifact_folder": "corpectomy--research-development-corp--hsc-unit-rod",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2774,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--research-development-corp--hsc-unit-rod.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--research-development-corp--hsc-unit-rod/enriched/corpectomy--research-development-corp--hsc-unit-rod.json",
+        "bytes": 1387
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K871870.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--research-development-corp--hsc-unit-rod/fda_raw/KWP/K871870.json",
+        "bytes": 581
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--research-development-corp--hsc-unit-rod.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--research-development-corp--hsc-unit-rod/merged/corpectomy--research-development-corp--hsc-unit-rod.json",
+        "bytes": 806
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

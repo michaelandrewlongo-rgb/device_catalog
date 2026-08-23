@@ -1,0 +1,45 @@
+{
+  "device_slug": "pedicle-screw--stryker--mojave-expandable-interbody",
+  "artifact_folder": "pedicle-screw--stryker--mojave-expandable-interbody",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 4671,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--stryker--mojave-expandable-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--mojave-expandable-interbody/enriched/pedicle-screw--stryker--mojave-expandable-interbody.json",
+        "bytes": 2129
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K163364.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--mojave-expandable-interbody/fda_raw/MAX/K163364.json",
+        "bytes": 565
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K171097.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--mojave-expandable-interbody/fda_raw/MAX/K171097.json",
+        "bytes": 571
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K193203.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--mojave-expandable-interbody/fda_raw/MAX/K193203.json",
+        "bytes": 571
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--stryker--mojave-expandable-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker--mojave-expandable-interbody/merged/pedicle-screw--stryker--mojave-expandable-interbody.json",
+        "bytes": 835
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

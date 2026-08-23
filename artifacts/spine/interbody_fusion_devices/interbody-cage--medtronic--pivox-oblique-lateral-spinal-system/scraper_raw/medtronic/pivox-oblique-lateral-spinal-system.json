@@ -1,0 +1,12 @@
+{
+  "device_name": "Pivox Oblique Lateral Spinal System",
+  "manufacturer": "medtronic",
+  "category_hint": "interbody-cage",
+  "source_url": "https://www.medtronicacademy.com/en-us/content/anterolateral-thoracolumbar-system/Spine-Biologics",
+  "what_it_is": "Oblique lateral interbody system for OLIF. Used with Mazor in OLIF360 single-position ALIF.",
+  "indications": "OLIF.",
+  "compatible_with": "Mazor Robotic Guidance.",
+  "also_known_as": [
+    "Pivox"
+  ]
+}

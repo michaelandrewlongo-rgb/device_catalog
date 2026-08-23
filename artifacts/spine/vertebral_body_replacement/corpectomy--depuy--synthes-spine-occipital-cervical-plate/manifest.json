@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--depuy--synthes-spine-occipital-cervical-plate",
+  "artifact_folder": "corpectomy--depuy--synthes-spine-occipital-cervical-plate",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3109,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--depuy--synthes-spine-occipital-cervical-plate.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--synthes-spine-occipital-cervical-plate/enriched/corpectomy--depuy--synthes-spine-occipital-cervical-plate.json",
+        "bytes": 1625
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K982322.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--synthes-spine-occipital-cervical-plate/fda_raw/KWP/K982322.json",
+        "bytes": 600
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--depuy--synthes-spine-occipital-cervical-plate.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--depuy--synthes-spine-occipital-cervical-plate/merged/corpectomy--depuy--synthes-spine-occipital-cervical-plate.json",
+        "bytes": 884
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "device_slug": "pedicle-screw--camber-spine-technologies--ti-diagon-oblique-tlif",
+  "artifact_folder": "pedicle-screw--camber-spine-technologies--ti-diagon-oblique-tlif",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3768,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--camber-spine-technologies--ti-diagon-oblique-tlif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--camber-spine-technologies--ti-diagon-oblique-tlif/enriched/pedicle-screw--camber-spine-technologies--ti-diagon-oblique-tlif.json",
+        "bytes": 1701
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/pedicle-screw--camber-spine-technologies--ti-diagon-oblique-tlif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--camber-spine-technologies--ti-diagon-oblique-tlif/extracted/fda_structured/pedicle-screw--camber-spine-technologies--ti-diagon-oblique-tlif.json",
+        "bytes": 619
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K172064.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--camber-spine-technologies--ti-diagon-oblique-tlif/fda_raw/MAX/K172064.json",
+        "bytes": 606
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--camber-spine-technologies--ti-diagon-oblique-tlif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--camber-spine-technologies--ti-diagon-oblique-tlif/merged/pedicle-screw--camber-spine-technologies--ti-diagon-oblique-tlif.json",
+        "bytes": 842
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

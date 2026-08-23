@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--american-heyer-schulte--one-piece-shunt",
+  "artifact_folder": "csf-shunt--american-heyer-schulte--one-piece-shunt",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2769,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--american-heyer-schulte--one-piece-shunt.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--american-heyer-schulte--one-piece-shunt/enriched/csf-shunt--american-heyer-schulte--one-piece-shunt.json",
+        "bytes": 1388
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K834593.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--american-heyer-schulte--one-piece-shunt/fda_raw/JXG/K834593.json",
+        "bytes": 574
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--american-heyer-schulte--one-piece-shunt.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--american-heyer-schulte--one-piece-shunt/merged/csf-shunt--american-heyer-schulte--one-piece-shunt.json",
+        "bytes": 807
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

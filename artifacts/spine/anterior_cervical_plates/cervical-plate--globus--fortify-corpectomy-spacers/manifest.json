@@ -1,0 +1,40 @@
+{
+  "device_slug": "cervical-plate--globus--fortify-corpectomy-spacers",
+  "artifact_folder": "cervical-plate--globus--fortify-corpectomy-spacers",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3363,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--globus--fortify-corpectomy-spacers.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--globus--fortify-corpectomy-spacers/enriched/cervical-plate--globus--fortify-corpectomy-spacers.json",
+        "bytes": 1399
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K162315.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--globus--fortify-corpectomy-spacers/fda_raw/MQP/K162315.json",
+        "bytes": 573
+      },
+      {
+        "source": "pipeline/data/fda_raw/MQP/K173982.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--globus--fortify-corpectomy-spacers/fda_raw/MQP/K173982.json",
+        "bytes": 573
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--globus--fortify-corpectomy-spacers.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--globus--fortify-corpectomy-spacers/merged/cervical-plate--globus--fortify-corpectomy-spacers.json",
+        "bytes": 818
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

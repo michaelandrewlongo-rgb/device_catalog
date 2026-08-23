@@ -1,0 +1,42 @@
+{
+  "device_slug": "corpectomy--medtronic--vantage-anterior-fixation",
+  "artifact_folder": "corpectomy--medtronic--vantage-anterior-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 4165,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--medtronic--vantage-anterior-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--vantage-anterior-fixation/enriched/corpectomy--medtronic--vantage-anterior-fixation.json",
+        "bytes": 2143
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/corpectomy--medtronic--vantage-anterior-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--vantage-anterior-fixation/extracted/fda_structured/corpectomy--medtronic--vantage-anterior-fixation.json",
+        "bytes": 610
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K031533.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--vantage-anterior-fixation/fda_raw/KWP/K031533.json",
+        "bytes": 585
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--medtronic--vantage-anterior-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--medtronic--vantage-anterior-fixation/merged/corpectomy--medtronic--vantage-anterior-fixation.json",
+        "bytes": 827
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--amedica-corp--valeo-ii-interbody-fusion",
+  "artifact_folder": "pedicle-screw--amedica-corp--valeo-ii-interbody-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2875,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--amedica-corp--valeo-ii-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--amedica-corp--valeo-ii-interbody-fusion/enriched/pedicle-screw--amedica-corp--valeo-ii-interbody-fusion.json",
+        "bytes": 1434
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K161405.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--amedica-corp--valeo-ii-interbody-fusion/fda_raw/MAX/K161405.json",
+        "bytes": 588
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--amedica-corp--valeo-ii-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--amedica-corp--valeo-ii-interbody-fusion/merged/pedicle-screw--amedica-corp--valeo-ii-interbody-fusion.json",
+        "bytes": 853
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

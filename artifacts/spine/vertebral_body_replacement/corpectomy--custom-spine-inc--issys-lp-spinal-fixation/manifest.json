@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--custom-spine-inc--issys-lp-spinal-fixation",
+  "artifact_folder": "corpectomy--custom-spine-inc--issys-lp-spinal-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2843,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--custom-spine-inc--issys-lp-spinal-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--custom-spine-inc--issys-lp-spinal-fixation/enriched/corpectomy--custom-spine-inc--issys-lp-spinal-fixation.json",
+        "bytes": 1419
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K072866.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--custom-spine-inc--issys-lp-spinal-fixation/fda_raw/KWP/K072866.json",
+        "bytes": 586
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--custom-spine-inc--issys-lp-spinal-fixation.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--custom-spine-inc--issys-lp-spinal-fixation/merged/corpectomy--custom-spine-inc--issys-lp-spinal-fixation.json",
+        "bytes": 838
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

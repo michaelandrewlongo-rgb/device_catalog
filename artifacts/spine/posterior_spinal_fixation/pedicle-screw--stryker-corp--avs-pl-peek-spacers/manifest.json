@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--stryker-corp--avs-pl-peek-spacers",
+  "artifact_folder": "pedicle-screw--stryker-corp--avs-pl-peek-spacers",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2757,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--stryker-corp--avs-pl-peek-spacers.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker-corp--avs-pl-peek-spacers/enriched/pedicle-screw--stryker-corp--avs-pl-peek-spacers.json",
+        "bytes": 1388
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K093704.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker-corp--avs-pl-peek-spacers/fda_raw/MAX/K093704.json",
+        "bytes": 562
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--stryker-corp--avs-pl-peek-spacers.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--stryker-corp--avs-pl-peek-spacers/merged/pedicle-screw--stryker-corp--avs-pl-peek-spacers.json",
+        "bytes": 807
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

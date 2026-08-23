@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--republic-spine-llc--dark-star-deformity-pedicle-screw",
+  "artifact_folder": "interbody-cage--republic-spine-llc--dark-star-deformity-pedicle-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2952,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--republic-spine-llc--dark-star-deformity-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--republic-spine-llc--dark-star-deformity-pedicle-screw/enriched/interbody-cage--republic-spine-llc--dark-star-deformity-pedicle-screw.json",
+        "bytes": 1458
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K223096.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--republic-spine-llc--dark-star-deformity-pedicle-screw/fda_raw/NKB/K223096.json",
+        "bytes": 617
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--republic-spine-llc--dark-star-deformity-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--republic-spine-llc--dark-star-deformity-pedicle-screw/merged/interbody-cage--republic-spine-llc--dark-star-deformity-pedicle-screw.json",
+        "bytes": 877
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

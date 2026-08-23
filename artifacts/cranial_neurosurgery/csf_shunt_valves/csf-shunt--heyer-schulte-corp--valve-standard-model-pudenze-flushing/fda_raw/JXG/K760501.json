@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K760501",
+  "clearance_date": "1976-08-30",
+  "device_class": 2,
+  "manufacturer_canonical": "heyer-schulte-corp",
+  "manufacturer_raw": "Heyer Schulte Corp.",
+  "catalog_category": "csf-shunt",
+  "device_name_fda": "VALVE, STANDARD MODEL PUDENZE FLUSHING",
+  "product_code": "JXG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "csf-shunt--heyer-schulte-corp--valve-standard-model-pudenze-flushing",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf76/K760501.pdf"
+}

@@ -1,0 +1,40 @@
+{
+  "device_slug": "cervical-plate--spine-next-america-corporation--fidji-vertebral-body-replacement-type",
+  "artifact_folder": "cervical-plate--spine-next-america-corporation--fidji-vertebral-body-replacement-type",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3709,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--spine-next-america-corporation--fidji-vertebral-body-replacement-type.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--spine-next-america-corporation--fidji-vertebral-body-replacement-type/enriched/cervical-plate--spine-next-america-corporation--fidji-vertebral-body-replacement-type.json",
+        "bytes": 1484
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K042713.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--spine-next-america-corporation--fidji-vertebral-body-replacement-type/fda_raw/MQP/K042713.json",
+        "bytes": 655
+      },
+      {
+        "source": "pipeline/data/fda_raw/MQP/K042714.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--spine-next-america-corporation--fidji-vertebral-body-replacement-type/fda_raw/MQP/K042714.json",
+        "bytes": 667
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--spine-next-america-corporation--fidji-vertebral-body-replacement-type.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--spine-next-america-corporation--fidji-vertebral-body-replacement-type/merged/cervical-plate--spine-next-america-corporation--fidji-vertebral-body-replacement-type.json",
+        "bytes": 903
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

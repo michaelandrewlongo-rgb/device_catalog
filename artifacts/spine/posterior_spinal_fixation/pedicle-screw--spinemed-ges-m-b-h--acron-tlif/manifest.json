@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--spinemed-ges-m-b-h--acron-tlif",
+  "artifact_folder": "pedicle-screw--spinemed-ges-m-b-h--acron-tlif",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2779,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--spinemed-ges-m-b-h--acron-tlif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinemed-ges-m-b-h--acron-tlif/enriched/pedicle-screw--spinemed-ges-m-b-h--acron-tlif.json",
+        "bytes": 1391
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K171151.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinemed-ges-m-b-h--acron-tlif/fda_raw/MAX/K171151.json",
+        "bytes": 570
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--spinemed-ges-m-b-h--acron-tlif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spinemed-ges-m-b-h--acron-tlif/merged/pedicle-screw--spinemed-ges-m-b-h--acron-tlif.json",
+        "bytes": 818
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

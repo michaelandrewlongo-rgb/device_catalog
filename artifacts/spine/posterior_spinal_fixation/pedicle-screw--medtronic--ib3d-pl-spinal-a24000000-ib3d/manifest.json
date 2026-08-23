@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--medtronic--ib3d-pl-spinal-a24000000-ib3d",
+  "artifact_folder": "pedicle-screw--medtronic--ib3d-pl-spinal-a24000000-ib3d",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3055,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--medtronic--ib3d-pl-spinal-a24000000-ib3d.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--ib3d-pl-spinal-a24000000-ib3d/enriched/pedicle-screw--medtronic--ib3d-pl-spinal-a24000000-ib3d.json",
+        "bytes": 1492
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K253577.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--ib3d-pl-spinal-a24000000-ib3d/fda_raw/MAX/K253577.json",
+        "bytes": 644
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--medtronic--ib3d-pl-spinal-a24000000-ib3d.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medtronic--ib3d-pl-spinal-a24000000-ib3d/merged/pedicle-screw--medtronic--ib3d-pl-spinal-a24000000-ib3d.json",
+        "bytes": 919
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "device_slug": "pedicle-screw--astura-medical--half-dome-posterior-lumbar-interbody",
+  "artifact_folder": "pedicle-screw--astura-medical--half-dome-posterior-lumbar-interbody",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 4157,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--astura-medical--half-dome-posterior-lumbar-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--astura-medical--half-dome-posterior-lumbar-interbody/enriched/pedicle-screw--astura-medical--half-dome-posterior-lumbar-interbody.json",
+        "bytes": 1457
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K152512.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--astura-medical--half-dome-posterior-lumbar-interbody/fda_raw/MAX/K152512.json",
+        "bytes": 608
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K163481.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--astura-medical--half-dome-posterior-lumbar-interbody/fda_raw/MAX/K163481.json",
+        "bytes": 608
+      },
+      {
+        "source": "pipeline/data/fda_raw/MAX/K172947.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--astura-medical--half-dome-posterior-lumbar-interbody/fda_raw/MAX/K172947.json",
+        "bytes": 608
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--astura-medical--half-dome-posterior-lumbar-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--astura-medical--half-dome-posterior-lumbar-interbody/merged/pedicle-screw--astura-medical--half-dome-posterior-lumbar-interbody.json",
+        "bytes": 876
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

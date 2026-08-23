@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--cordis--cordis-polypropylene-straight-t-y",
+  "artifact_folder": "csf-shunt--cordis--cordis-polypropylene-straight-t-y",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2872,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--cordis--cordis-polypropylene-straight-t-y.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cordis--cordis-polypropylene-straight-t-y/enriched/csf-shunt--cordis--cordis-polypropylene-straight-t-y.json",
+        "bytes": 1436
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K921936.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cordis--cordis-polypropylene-straight-t-y/fda_raw/JXG/K921936.json",
+        "bytes": 581
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--cordis--cordis-polypropylene-straight-t-y.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cordis--cordis-polypropylene-straight-t-y/merged/csf-shunt--cordis--cordis-polypropylene-straight-t-y.json",
+        "bytes": 855
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

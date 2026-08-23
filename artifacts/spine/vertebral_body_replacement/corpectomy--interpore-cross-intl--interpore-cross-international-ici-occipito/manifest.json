@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--interpore-cross-intl--interpore-cross-international-ici-occipito",
+  "artifact_folder": "corpectomy--interpore-cross-intl--interpore-cross-international-ici-occipito",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3209,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--interpore-cross-intl--interpore-cross-international-ici-occipito.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--interpore-cross-intl--interpore-cross-international-ici-occipito/enriched/corpectomy--interpore-cross-intl--interpore-cross-international-ici-occipito.json",
+        "bytes": 1559
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K022048.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--interpore-cross-intl--interpore-cross-international-ici-occipito/fda_raw/KWP/K022048.json",
+        "bytes": 672
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--interpore-cross-intl--interpore-cross-international-ici-occipito.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--interpore-cross-intl--interpore-cross-international-ici-occipito/merged/corpectomy--interpore-cross-intl--interpore-cross-international-ici-occipito.json",
+        "bytes": 978
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

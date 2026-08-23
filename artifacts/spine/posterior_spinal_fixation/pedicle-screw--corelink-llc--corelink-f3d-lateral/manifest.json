@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--corelink-llc--corelink-f3d-lateral",
+  "artifact_folder": "pedicle-screw--corelink-llc--corelink-f3d-lateral",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3097,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--corelink-llc--corelink-f3d-lateral.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--corelink-llc--corelink-f3d-lateral/enriched/pedicle-screw--corelink-llc--corelink-f3d-lateral.json",
+        "bytes": 1688
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K183239.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--corelink-llc--corelink-f3d-lateral/fda_raw/MAX/K183239.json",
+        "bytes": 573
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--corelink-llc--corelink-f3d-lateral.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--corelink-llc--corelink-f3d-lateral/merged/pedicle-screw--corelink-llc--corelink-f3d-lateral.json",
+        "bytes": 836
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

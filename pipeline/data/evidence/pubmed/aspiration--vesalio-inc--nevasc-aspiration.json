@@ -1,0 +1,22 @@
+[
+  {
+    "device_family": "aspiration--vesalio-inc--nevasc-aspiration",
+    "query_used": "\"NeVasc Aspiration System\" OR \"NeVasc Aspiration Catheter\" OR \"Vesalio NeVasc\"",
+    "raw": {
+      "abstract": "Total and partial proximal catheter occlusions are well-known complications of ventriculoperitoneal shunts (VPS). When this occurs, surgeons often attempt to perform a shunt tap. However, the degree of obstruction in a proximal catheter that ultimately leads to shunt malfunction is unknown.\nWe developed a benchtop model to simulate proximal catheter occlusion with two hydrostatic reservoirs connected by a VPS catheter system. The Centurion compass device was used to measure pressure across the valve digitally. Wires of varying diameters (equalling different occlusion percentages) were inserted into the catheter's proximal end to stimulate obstruction. A mock shunt tap aspiration was then performed by incorporating a pressure transducer.\nAs a general trend, pressure reading on the device decreases as occlusion increases. At higher levels of occlusion (> 45%), the blockage begins to significantly impede the flow through the catheter, and the pressure drops at a faster rate compared with lower occlusion percentages. The pressure reading converges quickly to 0 with increasing blockage after about 70%. The Centurion compass is able to detect large changes in pressure as evidenced by the major differences in pressure readings between no occlusion, 45%, and 84%. The shunt will not function at 84%. In order to determine the threshold for occlusion beyond which fluid cannot be withdrawn, we tested five levels of occlusion (0%, 33%, 63%, 84%, and 100%) at various aspiration pressures and determined that fluid can still be produced with 0-84% occlusion, but no fluid could be produced at 100% occlusion.\nWe developed a model of proximal shunt obstruction and found that cerebrospinal fluid (CSF) flow through a VPS is unaffected up to 33% occlusion, begins to become impaired at 45% occlusion, and is miniscule at 84% occlusion. Shunt aspiration was not possible at 84% occlusion. Pressure measured at the reservoir is accurate and correlates with intracranial pressure (ICP) up to approximately 60% proximal occlusion. With partial occlusion up to 70%, ventricular pressure will dictate shunt function.",
+      "doi": "10.1007/s00381-020-04911-0",
+      "journal": "Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery",
+      "matched_device_family": "aspiration--vesalio-inc--nevasc-aspiration",
+      "pmid": "33029728",
+      "publication_date": "2021-Mar",
+      "query_used": "\"NeVasc Aspiration System\" OR \"NeVasc Aspiration Catheter\" OR \"Vesalio NeVasc\"",
+      "source_retrieved_at": "2026-04-15T10:17:34+00:00",
+      "title": "Simulation of proximal catheter occlusion and design of a shunt tap aspiration system."
+    },
+    "retrieved_at": "2026-04-15T10:17:34+00:00",
+    "source_id": "pubmed:33029728",
+    "source_type": "pubmed",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/33029728/",
+    "title": "Simulation of proximal catheter occlusion and design of a shunt tap aspiration system."
+  }
+]

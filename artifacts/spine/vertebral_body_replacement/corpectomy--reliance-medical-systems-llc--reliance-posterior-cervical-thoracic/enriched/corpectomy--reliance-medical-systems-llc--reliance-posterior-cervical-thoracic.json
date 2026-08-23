@@ -1,0 +1,61 @@
+{
+  "device_name": "Reliance Posterior Cervical-Thoracic System",
+  "manufacturer": "reliance-medical-systems-llc",
+  "catalog_category": "corpectomy",
+  "filename_stem": "corpectomy--reliance-medical-systems-llc--reliance-posterior-cervical-thoracic",
+  "clearance_type": "510k",
+  "clearance_number": "K142867",
+  "clearance_date": "2015-04-29",
+  "device_class": 2,
+  "device_name_fda": "Reliance Posterior Cervical-Thoracic System",
+  "product_code": "KWP",
+  "what_it_is": "4.0x26mm PCT Screw",
+  "sizing_specs": "Catalog: 5-40-026; Model: 5-40-026",
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "MRI: MR Unsafe. Sterilized: Moist Heat or Steam Sterilization. Single-use",
+  "deployment_steps": null,
+  "also_known_as": [
+    "Reliance Posterior Cervical Thoracic System",
+    "Bone-screw internal spinal fixation system, non-sterile"
+  ],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf14/K142867.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "sizing_specs": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "indications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "also_known_as": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    }
+  }
+}

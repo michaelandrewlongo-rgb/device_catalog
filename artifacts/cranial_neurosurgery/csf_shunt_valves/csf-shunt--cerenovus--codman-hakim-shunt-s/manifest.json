@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--cerenovus--codman-hakim-shunt-s",
+  "artifact_folder": "csf-shunt--cerenovus--codman-hakim-shunt-s",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2763,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--cerenovus--codman-hakim-shunt-s.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cerenovus--codman-hakim-shunt-s/enriched/csf-shunt--cerenovus--codman-hakim-shunt-s.json",
+        "bytes": 1389
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K020667.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cerenovus--codman-hakim-shunt-s/fda_raw/JXG/K020667.json",
+        "bytes": 566
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--cerenovus--codman-hakim-shunt-s.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--cerenovus--codman-hakim-shunt-s/merged/csf-shunt--cerenovus--codman-hakim-shunt-s.json",
+        "bytes": 808
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

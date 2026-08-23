@@ -1,0 +1,42 @@
+{
+  "device_slug": "csf-shunt--integra--contour-flex-valve-and-shunt",
+  "artifact_folder": "csf-shunt--integra--contour-flex-valve-and-shunt",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 5017,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--integra--contour-flex-valve-and-shunt.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--contour-flex-valve-and-shunt/enriched/csf-shunt--integra--contour-flex-valve-and-shunt.json",
+        "bytes": 2573
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/csf-shunt--integra--contour-flex-valve-and-shunt.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--contour-flex-valve-and-shunt/extracted/fda_structured/csf-shunt--integra--contour-flex-valve-and-shunt.json",
+        "bytes": 1024
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K033698.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--contour-flex-valve-and-shunt/fda_raw/JXG/K033698.json",
+        "bytes": 590
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--integra--contour-flex-valve-and-shunt.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--integra--contour-flex-valve-and-shunt/merged/csf-shunt--integra--contour-flex-valve-and-shunt.json",
+        "bytes": 830
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--innovative-spinal-technologies-inc--ist-pedicle-screw",
+  "artifact_folder": "interbody-cage--innovative-spinal-technologies-inc--ist-pedicle-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2937,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--innovative-spinal-technologies-inc--ist-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--innovative-spinal-technologies-inc--ist-pedicle-screw/enriched/interbody-cage--innovative-spinal-technologies-inc--ist-pedicle-screw.json",
+        "bytes": 1442
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K053276.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--innovative-spinal-technologies-inc--ist-pedicle-screw/fda_raw/NKB/K053276.json",
+        "bytes": 634
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--innovative-spinal-technologies-inc--ist-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--innovative-spinal-technologies-inc--ist-pedicle-screw/merged/interbody-cage--innovative-spinal-technologies-inc--ist-pedicle-screw.json",
+        "bytes": 861
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

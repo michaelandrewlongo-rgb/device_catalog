@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--ti-tamed-pty-ltd--ti-tamed-spinal",
+  "artifact_folder": "interbody-cage--ti-tamed-pty-ltd--ti-tamed-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2797,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--ti-tamed-pty-ltd--ti-tamed-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--ti-tamed-pty-ltd--ti-tamed-spinal/enriched/interbody-cage--ti-tamed-pty-ltd--ti-tamed-spinal.json",
+        "bytes": 1400
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K070385.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--ti-tamed-pty-ltd--ti-tamed-spinal/fda_raw/NKB/K070385.json",
+        "bytes": 578
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--ti-tamed-pty-ltd--ti-tamed-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--ti-tamed-pty-ltd--ti-tamed-spinal/merged/interbody-cage--ti-tamed-pty-ltd--ti-tamed-spinal.json",
+        "bytes": 819
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

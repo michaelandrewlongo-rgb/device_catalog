@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--blackstone-medical-inc--construx-pl-tl-peek-partial",
+  "artifact_folder": "cervical-plate--blackstone-medical-inc--construx-pl-tl-peek-partial",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2953,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--blackstone-medical-inc--construx-pl-tl-peek-partial.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--blackstone-medical-inc--construx-pl-tl-peek-partial/enriched/cervical-plate--blackstone-medical-inc--construx-pl-tl-peek-partial.json",
+        "bytes": 1456
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K060350.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--blackstone-medical-inc--construx-pl-tl-peek-partial/fda_raw/MQP/K060350.json",
+        "bytes": 622
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--blackstone-medical-inc--construx-pl-tl-peek-partial.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--blackstone-medical-inc--construx-pl-tl-peek-partial/merged/cervical-plate--blackstone-medical-inc--construx-pl-tl-peek-partial.json",
+        "bytes": 875
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--nuvasive--ap-expandable-xlif",
+  "artifact_folder": "pedicle-screw--nuvasive--ap-expandable-xlif",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2761,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--nuvasive--ap-expandable-xlif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nuvasive--ap-expandable-xlif/enriched/pedicle-screw--nuvasive--ap-expandable-xlif.json",
+        "bytes": 1391
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K140162.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nuvasive--ap-expandable-xlif/fda_raw/MAX/K140162.json",
+        "bytes": 560
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--nuvasive--ap-expandable-xlif.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--nuvasive--ap-expandable-xlif/merged/pedicle-screw--nuvasive--ap-expandable-xlif.json",
+        "bytes": 810
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

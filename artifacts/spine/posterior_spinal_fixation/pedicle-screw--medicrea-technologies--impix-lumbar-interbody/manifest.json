@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--medicrea-technologies--impix-lumbar-interbody",
+  "artifact_folder": "pedicle-screw--medicrea-technologies--impix-lumbar-interbody",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2878,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--medicrea-technologies--impix-lumbar-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medicrea-technologies--impix-lumbar-interbody/enriched/pedicle-screw--medicrea-technologies--impix-lumbar-interbody.json",
+        "bytes": 1429
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K100544.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medicrea-technologies--impix-lumbar-interbody/fda_raw/MAX/K100544.json",
+        "bytes": 601
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--medicrea-technologies--impix-lumbar-interbody.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--medicrea-technologies--impix-lumbar-interbody/merged/pedicle-screw--medicrea-technologies--impix-lumbar-interbody.json",
+        "bytes": 848
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

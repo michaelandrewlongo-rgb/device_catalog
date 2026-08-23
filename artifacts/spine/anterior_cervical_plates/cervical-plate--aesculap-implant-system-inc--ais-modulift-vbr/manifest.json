@@ -1,0 +1,40 @@
+{
+  "device_slug": "cervical-plate--aesculap-implant-system-inc--ais-modulift-vbr",
+  "artifact_folder": "cervical-plate--aesculap-implant-system-inc--ais-modulift-vbr",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3491,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--aesculap-implant-system-inc--ais-modulift-vbr.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--aesculap-implant-system-inc--ais-modulift-vbr/enriched/cervical-plate--aesculap-implant-system-inc--ais-modulift-vbr.json",
+        "bytes": 1425
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K133802.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--aesculap-implant-system-inc--ais-modulift-vbr/fda_raw/MQP/K133802.json",
+        "bytes": 611
+      },
+      {
+        "source": "pipeline/data/fda_raw/MQP/K142150.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--aesculap-implant-system-inc--ais-modulift-vbr/fda_raw/MQP/K142150.json",
+        "bytes": 611
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--aesculap-implant-system-inc--ais-modulift-vbr.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--aesculap-implant-system-inc--ais-modulift-vbr/merged/cervical-plate--aesculap-implant-system-inc--ais-modulift-vbr.json",
+        "bytes": 844
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

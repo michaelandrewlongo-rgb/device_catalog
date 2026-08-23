@@ -1,0 +1,26 @@
+{
+  "source_pdf": "modulex-nanolock-shank.pdf",
+  "source_path": "C:\\Users\\Michael\\Documents\\device_catalog\\pipeline\\data\\extracted\\nspr\\pdfs\\modulex-nanolock-shank.pdf",
+  "device_name": "Modulex Nanolock Shank",
+  "manufacturer": "unknown",
+  "doc_type": "technique_guide",
+  "extraction_method": "pdfplumber_deepseek",
+  "extraction_source": "nspr_pdf",
+  "fields": {
+    "what_it_is": "nanoLOCK™ surface technology shanks that combine cellular-inspired surface technology with the CD Horizon ModuLeX Spinal System. The nanoLOCK™ surface technology acts as an osteoconductive scaffold for bony growth onto the implant, is a proprietary blend of surfaces at macro, micro, & nano levels, and is designed to mimic osteoclastic pits. The shank features Osteogrip™ Dual Lead threadform.",
+    "sizing_specs": "| nanoLOCK™ shank diameters | Color code | Shank lengths |\n| --- | --- | --- |\n| 4.5 mm |  | 25 — 50 mm |\n| 5.5 mm |  | 25 — 55 mm |\n| 6.5 mm |  | 30 — 60 mm |\n| 7.5 mm |  | 30 — 60 mm |\n| 8.5mm |  | 40 — 55 mm |",
+    "indications": "The CD Horizon™ spinal system with instrumentation is intended for posterior, non-cervical fusion in skeletally mature patients. It is intended for plate fixation as an adjunct to fusion for the following indications: degenerative disc disease (DDD - defined as back pain of discogenic origin with degeneration of the disc confirmed by history and radiographic studies), spondylolisthesis, trauma (i.e. fracture or dislocation), spinal stenosis, curvatures (i.e. scoliosis, kyphosis, or lordosis), tumor, pseudarthrosis, and/or failed previous fusion. Except for hooks, when used as an anterolateral thoracic/lumbar system, the CD Horizon™ spinal system titanium, cobalt chrome, and stainless steel implants may also be used for the same indications as an adjunct to fusion. With the exception of DDD, CD Horizon™ Legacy™ 3.5 mm rods and associated components may be used for indications in skeletally mature patients as an adjunct to fusion. The 3.5 mm rods may be used for the specific pediatric indications noted. When used for posterior non-cervical pedicle screw fixation in pediatric patients, CD Horizon™ spinal system titanium, cobalt chrome, and stainless steel implants are indicated as an adjunct to fusion to treat progressive spinal deformities (i.e. scoliosis, kyphosis, or lordosis) including idiopathic scoliosis, neuromuscular scoliosis, and congenital scoliosis. Additionally, the CD Horizon™ spinal system is intended to treat pediatric patients diagnosed with the following conditions: spondylolisthesis/spondylolysis, fracture caused by tumor and/or trauma, pseudarthrosis, and/or failed previous fusion. These devices are to be used with autograft and/or allograft. Pediatric pedicle screw fixation is limited to a posterior approach. The CD Horizon™ PEEK rods are intended to provide posterior supplemental fixation when used with an interbody fusion cage for patients diagnosed with DDD. These DDD patients may also have up to grade 1 spondylolisthesis or retrolisthesis at the involved level. This device is intended for 1-2 level use in the lumbosacral spine (L2 – S1) in skeletally mature patients. Devices are intended for use with an interbody fusion cage at the instrumented level and is not intended for stand-alone use.",
+    "contraindications": "Contraindications include: Active infectious process or significant risk of infection (immunocompromise). Signs of local inflammation. Fever or leukocytosis. Morbid obesity. Pregnancy. Mental illness.",
+    "compatible_with": "StealthStation™ Navigation with CD Horizon™ ModuLeX™ nanoLOCK™ surface technology shanks. CD Horizon™ spinal system rods may be connected to the Vertex™ reconstruction system with the Vertex™ rod connector.",
+    "use_notes": "What to select in the software when using nanoLOCK™ shanks in your spine procedures: 1. Navigation Spine tools upgrade check: Work with your Enabling Technologies counterpart in the field to ensure that the latest Software Version 39 is installed prior to first cases. 2. Shank Sizes: nanoLOCK™ shank with Osteogrip threadform = N = nanoLOCK shank, Annodized Ti Shank with Osteogrip threadform = blue = Osteogrip shank. 3. Software selections when using nanoLOCK™ shanks: This updated version of Navigation software for ModuLeX™, will include multiple shank type options. Be sure to select “Osteogrip™” and the corresponding width and length when using nanoLOCK™ shanks. nanoLOCK™ shanks are represented in the software by Osteogrip™ shank sizes.",
+    "also_known_as": null
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "sizing_specs": 0.7,
+    "indications": 0.7,
+    "contraindications": 0.7,
+    "compatible_with": 0.7,
+    "use_notes": 0.7
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "device_slug": "csf-shunt--medtronic--medtronic-strata-nsc-lumboperitoneal-valve",
+  "artifact_folder": "csf-shunt--medtronic--medtronic-strata-nsc-lumboperitoneal-valve",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 618,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K123524.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_catheters/csf-shunt--medtronic--medtronic-strata-nsc-lumboperitoneal-valve/fda_raw/JXG/K123524.json",
+        "bytes": 618
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_catheters",
+    "label": "Ventricular/Peritoneal Catheters"
+  }
+}

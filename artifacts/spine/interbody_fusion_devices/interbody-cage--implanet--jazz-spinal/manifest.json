@@ -1,0 +1,47 @@
+{
+  "device_slug": "interbody-cage--implanet--jazz-spinal",
+  "artifact_folder": "interbody-cage--implanet--jazz-spinal",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 4126,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--implanet--jazz-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--implanet--jazz-spinal/enriched/interbody-cage--implanet--jazz-spinal.json",
+        "bytes": 1643
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/interbody-cage--implanet--jazz-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--implanet--jazz-spinal/extracted/fda_structured/interbody-cage--implanet--jazz-spinal.json",
+        "bytes": 608
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K240392.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--implanet--jazz-spinal/fda_raw/NKB/K240392.json",
+        "bytes": 542
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K252437.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--implanet--jazz-spinal/fda_raw/NKB/K252437.json",
+        "bytes": 542
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--implanet--jazz-spinal.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--implanet--jazz-spinal/merged/interbody-cage--implanet--jazz-spinal.json",
+        "bytes": 791
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

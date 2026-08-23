@@ -1,0 +1,42 @@
+{
+  "device_slug": "corpectomy--paradigm-spine-llc--coflex-f",
+  "artifact_folder": "corpectomy--paradigm-spine-llc--coflex-f",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3476,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--paradigm-spine-llc--coflex-f.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--paradigm-spine-llc--coflex-f/enriched/corpectomy--paradigm-spine-llc--coflex-f.json",
+        "bytes": 1611
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/corpectomy--paradigm-spine-llc--coflex-f.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--paradigm-spine-llc--coflex-f/extracted/fda_structured/corpectomy--paradigm-spine-llc--coflex-f.json",
+        "bytes": 533
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K112595.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--paradigm-spine-llc--coflex-f/fda_raw/KWP/K112595.json",
+        "bytes": 552
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--paradigm-spine-llc--coflex-f.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--paradigm-spine-llc--coflex-f/merged/corpectomy--paradigm-spine-llc--coflex-f.json",
+        "bytes": 780
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

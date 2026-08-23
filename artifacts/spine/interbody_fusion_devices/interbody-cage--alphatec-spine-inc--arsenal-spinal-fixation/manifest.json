@@ -1,0 +1,50 @@
+{
+  "device_slug": "interbody-cage--alphatec-spine-inc--arsenal-spinal-fixation",
+  "artifact_folder": "interbody-cage--alphatec-spine-inc--arsenal-spinal-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 5149,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--alphatec-spine-inc--arsenal-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--alphatec-spine-inc--arsenal-spinal-fixation/enriched/interbody-cage--alphatec-spine-inc--arsenal-spinal-fixation.json",
+        "bytes": 1910
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K133221.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--alphatec-spine-inc--arsenal-spinal-fixation/fda_raw/NKB/K133221.json",
+        "bytes": 598
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K143149.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--alphatec-spine-inc--arsenal-spinal-fixation/fda_raw/NKB/K143149.json",
+        "bytes": 598
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K152968.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--alphatec-spine-inc--arsenal-spinal-fixation/fda_raw/NKB/K152968.json",
+        "bytes": 598
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K161363.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--alphatec-spine-inc--arsenal-spinal-fixation/fda_raw/NKB/K161363.json",
+        "bytes": 598
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--alphatec-spine-inc--arsenal-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--alphatec-spine-inc--arsenal-spinal-fixation/merged/interbody-cage--alphatec-spine-inc--arsenal-spinal-fixation.json",
+        "bytes": 847
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

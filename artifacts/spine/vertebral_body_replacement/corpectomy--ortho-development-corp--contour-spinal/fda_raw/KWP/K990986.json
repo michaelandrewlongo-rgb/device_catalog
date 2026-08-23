@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K990986",
+  "clearance_date": "1999-10-14",
+  "device_class": 2,
+  "manufacturer_canonical": "ortho-development-corp",
+  "manufacturer_raw": "Ortho Development Corp.",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "CONTOUR SPINAL SYSTEM",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--ortho-development-corp--contour-spinal",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf99/K990986.pdf"
+}

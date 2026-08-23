@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--life-spine-inc--arx-mis-spinal-screw",
+  "artifact_folder": "interbody-cage--life-spine-inc--arx-mis-spinal-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2821,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--life-spine-inc--arx-mis-spinal-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--life-spine-inc--arx-mis-spinal-screw/enriched/interbody-cage--life-spine-inc--arx-mis-spinal-screw.json",
+        "bytes": 1411
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K233455.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--life-spine-inc--arx-mis-spinal-screw/fda_raw/NKB/K233455.json",
+        "bytes": 580
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--life-spine-inc--arx-mis-spinal-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--life-spine-inc--arx-mis-spinal-screw/merged/interbody-cage--life-spine-inc--arx-mis-spinal-screw.json",
+        "bytes": 830
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

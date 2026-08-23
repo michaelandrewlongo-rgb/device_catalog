@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--alphatec-spine-inc--identiti-porous-ti-interbody-identiti",
+  "artifact_folder": "pedicle-screw--alphatec-spine-inc--identiti-porous-ti-interbody-identiti",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 5056,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--alphatec-spine-inc--identiti-porous-ti-interbody-identiti.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--alphatec-spine-inc--identiti-porous-ti-interbody-identiti/enriched/pedicle-screw--alphatec-spine-inc--identiti-porous-ti-interbody-identiti.json",
+        "bytes": 2504
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K220782.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--alphatec-spine-inc--identiti-porous-ti-interbody-identiti/fda_raw/MAX/K220782.json",
+        "bytes": 939
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--alphatec-spine-inc--identiti-porous-ti-interbody-identiti.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--alphatec-spine-inc--identiti-porous-ti-interbody-identiti/merged/pedicle-screw--alphatec-spine-inc--identiti-porous-ti-interbody-identiti.json",
+        "bytes": 1613
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

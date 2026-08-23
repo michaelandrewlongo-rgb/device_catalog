@@ -1,0 +1,40 @@
+{
+  "device_slug": "interbody-cage--safe-orthopaedics--sterispine-ps-pedicle-screw",
+  "artifact_folder": "interbody-cage--safe-orthopaedics--sterispine-ps-pedicle-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3733,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--safe-orthopaedics--sterispine-ps-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--safe-orthopaedics--sterispine-ps-pedicle-screw/enriched/interbody-cage--safe-orthopaedics--sterispine-ps-pedicle-screw.json",
+        "bytes": 1702
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K130632.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--safe-orthopaedics--sterispine-ps-pedicle-screw/fda_raw/NKB/K130632.json",
+        "bytes": 594
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K150092.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--safe-orthopaedics--sterispine-ps-pedicle-screw/fda_raw/NKB/K150092.json",
+        "bytes": 594
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--safe-orthopaedics--sterispine-ps-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--safe-orthopaedics--sterispine-ps-pedicle-screw/merged/interbody-cage--safe-orthopaedics--sterispine-ps-pedicle-screw.json",
+        "bytes": 843
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

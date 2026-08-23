@@ -1,0 +1,28 @@
+{
+  "device_name": "PATRIOT TRANSCONTINENTAL M SPACERS",
+  "manufacturer": "globus",
+  "catalog_category": "pedicle-screw",
+  "filename_stem": "pedicle-screw--globus--patriot-transcontinental-m-spacers",
+  "clearance_type": "510k",
+  "clearance_number": "K102313",
+  "clearance_date": "2010-12-03",
+  "device_class": 2,
+  "device_name_fda": "PATRIOT TRANSCONTINENTAL M SPACERS",
+  "product_code": "MAX",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf10/K102313.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

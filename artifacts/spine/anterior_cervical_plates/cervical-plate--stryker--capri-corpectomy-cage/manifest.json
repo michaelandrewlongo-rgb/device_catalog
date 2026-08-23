@@ -1,0 +1,47 @@
+{
+  "device_slug": "cervical-plate--stryker--capri-corpectomy-cage",
+  "artifact_folder": "cervical-plate--stryker--capri-corpectomy-cage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 4200,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--stryker--capri-corpectomy-cage.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--stryker--capri-corpectomy-cage/enriched/cervical-plate--stryker--capri-corpectomy-cage.json",
+        "bytes": 1662
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/cervical-plate--stryker--capri-corpectomy-cage.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--stryker--capri-corpectomy-cage/extracted/fda_structured/cervical-plate--stryker--capri-corpectomy-cage.json",
+        "bytes": 609
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K170055.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--stryker--capri-corpectomy-cage/fda_raw/MQP/K170055.json",
+        "bytes": 555
+      },
+      {
+        "source": "pipeline/data/fda_raw/MQP/K171704.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--stryker--capri-corpectomy-cage/fda_raw/MQP/K171704.json",
+        "bytes": 555
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--stryker--capri-corpectomy-cage.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--stryker--capri-corpectomy-cage/merged/cervical-plate--stryker--capri-corpectomy-cage.json",
+        "bytes": 819
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

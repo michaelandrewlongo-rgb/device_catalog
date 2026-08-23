@@ -1,0 +1,21 @@
+{
+  "device_slug": "sacroiliac-fusion--orthofix--sambascrew-3d-si-fusion",
+  "artifact_folder": "sacroiliac-fusion--orthofix--sambascrew-3d-si-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 578,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/OUR/K183342.json",
+        "artifact": "artifacts/_outside_seed_registries/sacroiliac-fusion/sacroiliac-fusion--orthofix--sambascrew-3d-si-fusion/fda_raw/OUR/K183342.json",
+        "bytes": 578
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "sacroiliac-fusion",
+    "label": "Outside listed seed registries"
+  }
+}

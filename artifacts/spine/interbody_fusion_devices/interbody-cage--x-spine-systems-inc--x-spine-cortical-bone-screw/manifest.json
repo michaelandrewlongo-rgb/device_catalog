@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--x-spine-systems-inc--x-spine-cortical-bone-screw",
+  "artifact_folder": "interbody-cage--x-spine-systems-inc--x-spine-cortical-bone-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2912,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--x-spine-systems-inc--x-spine-cortical-bone-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--x-spine-systems-inc--x-spine-cortical-bone-screw/enriched/interbody-cage--x-spine-systems-inc--x-spine-cortical-bone-screw.json",
+        "bytes": 1442
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K180153.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--x-spine-systems-inc--x-spine-cortical-bone-screw/fda_raw/NKB/K180153.json",
+        "bytes": 609
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--x-spine-systems-inc--x-spine-cortical-bone-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--x-spine-systems-inc--x-spine-cortical-bone-screw/merged/interbody-cage--x-spine-systems-inc--x-spine-cortical-bone-screw.json",
+        "bytes": 861
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

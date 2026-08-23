@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--spine-wave-inc--spine-wave-gen-ii-expandable",
+  "artifact_folder": "pedicle-screw--spine-wave-inc--spine-wave-gen-ii-expandable",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2929,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--spine-wave-inc--spine-wave-gen-ii-expandable.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spine-wave-inc--spine-wave-gen-ii-expandable/enriched/pedicle-screw--spine-wave-inc--spine-wave-gen-ii-expandable.json",
+        "bytes": 1453
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K152620.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spine-wave-inc--spine-wave-gen-ii-expandable/fda_raw/MAX/K152620.json",
+        "bytes": 604
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--spine-wave-inc--spine-wave-gen-ii-expandable.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--spine-wave-inc--spine-wave-gen-ii-expandable/merged/pedicle-screw--spine-wave-inc--spine-wave-gen-ii-expandable.json",
+        "bytes": 872
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

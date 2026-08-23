@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--corelink-llc--f3d-corpectomy",
+  "artifact_folder": "cervical-plate--corelink-llc--f3d-corpectomy",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2758,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--corelink-llc--f3d-corpectomy.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--corelink-llc--f3d-corpectomy/enriched/cervical-plate--corelink-llc--f3d-corpectomy.json",
+        "bytes": 1389
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K202637.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--corelink-llc--f3d-corpectomy/fda_raw/MQP/K202637.json",
+        "bytes": 561
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--corelink-llc--f3d-corpectomy.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--corelink-llc--f3d-corpectomy/merged/cervical-plate--corelink-llc--f3d-corpectomy.json",
+        "bytes": 808
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

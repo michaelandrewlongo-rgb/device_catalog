@@ -1,0 +1,196 @@
+[
+  {
+    "device_family": "flow-diverter--stryker--surpass-streamline",
+    "query_used": "brand_name:\"Surpass Streamline Flow Diverter -- Stryker Neurovascular\" OR brand_name:\"Surpass Streamline\" OR brand_name:\"Surpass Flow Diverter\"",
+    "raw": {
+      "brand_name": "Surpass Streamline",
+      "catalog_number": "115US",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "company_name": "Stryker Corporation",
+      "customer_contacts": [
+        {
+          "email": "NVCustomerService@stryker.com",
+          "phone": "+1(855)916-3876"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "device_description": "Flow Diverter",
+      "device_sizes": [
+        {
+          "type": "Lumen/Inner Diameter",
+          "unit": "Millimeter",
+          "value": "4.0"
+        },
+        {
+          "type": "Length",
+          "unit": "Millimeter",
+          "value": "15.0"
+        }
+      ],
+      "gmdn_terms": [
+        {
+          "code": "46352",
+          "code_status": "Active",
+          "definition": "A non-bioabsorbable tubular device typically intended to be implanted into the base or parent artery of an intracranial aneurysm (e.g., wide-neck aneurysm situated at the base of a bifurcation) to facilitate the delivery of embolics to fill the aneurysm, facilitate clotting within the aneurysm by slowing blood flow into it, and/or to provide support for a neurovascular embolization coil placed inside the aneurysm. It is made of uncoated metal [e.g., nickel-titanium alloy (Nitinol)] and self-expands after it is delivered to the site of implantation and released (e.g., from a dedicated delivery instrument). Disposable devices associated with implantation may be included.",
+          "implantable": "true",
+          "name": "Bare-metal intracranial vascular stent"
+        }
+      ],
+      "has_donation_id_number": "false",
+      "has_expiration_date": "true",
+      "has_lot_or_batch_number": "true",
+      "has_manufacturing_date": "false",
+      "has_serial_number": "false",
+      "identifiers": [
+        {
+          "id": "07613252648741",
+          "issuing_agency": "GS1",
+          "type": "Primary"
+        }
+      ],
+      "is_combination_product": "false",
+      "is_direct_marking_exempt": "false",
+      "is_hct_p": "false",
+      "is_kit": "false",
+      "is_labeled_as_no_nrl": "false",
+      "is_labeled_as_nrl": "false",
+      "is_otc": "false",
+      "is_pm_exempt": "false",
+      "is_rx": "true",
+      "is_single_use": "true",
+      "labeler_duns_number": "042405446",
+      "mri_safety": "MR Conditional",
+      "product_codes": [
+        {
+          "code": "OUT",
+          "name": "Intracranial aneurysm flow diverter",
+          "openfda": {
+            "device_class": "3",
+            "device_name": "Intracranial Aneurysm Flow Diverter",
+            "medical_specialty_description": "Unknown",
+            "regulation_number": ""
+          }
+        }
+      ],
+      "public_device_record_key": "060fea0b-f19e-45a2-b151-a9314cdbb9df",
+      "public_version_date": "2024-11-11",
+      "public_version_number": "6",
+      "public_version_status": "Update",
+      "publish_date": "2018-11-09",
+      "record_status": "Published",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "storage": [
+        {
+          "special_conditions": "Store in cool, dry, dark place.",
+          "type": "Special Storage Condition, Specify"
+        }
+      ],
+      "version_or_model_number": "M003SFD040150"
+    },
+    "retrieved_at": "2026-04-15T10:11:16+00:00",
+    "source_id": "fda:udi:record-1",
+    "source_type": "fda",
+    "source_url": "https://api.fda.gov/device/udi.json?search=brand_name%3A%22Surpass%20Streamline%20Flow%20Diverter%20--%20Stryker%20Neurovascular%22%20OR%20brand_name%3A%22Surpass%20Streamline%22%20OR%20brand_name%3A%22Surpass%20Flow%20Diverter%22",
+    "title": "Surpass Streamline"
+  },
+  {
+    "device_family": "flow-diverter--stryker--surpass-streamline",
+    "query_used": "brand_name:\"Surpass Streamline Flow Diverter -- Stryker Neurovascular\" OR brand_name:\"Surpass Streamline\" OR brand_name:\"Surpass Flow Diverter\"",
+    "raw": {
+      "brand_name": "Surpass Streamline",
+      "catalog_number": "122US",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "company_name": "Stryker Corporation",
+      "customer_contacts": [
+        {
+          "email": "NVCustomerService@stryker.com",
+          "phone": "+1(855)916-3876"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "device_description": "Flow Diverter",
+      "device_sizes": [
+        {
+          "type": "Length",
+          "unit": "Millimeter",
+          "value": "40.0"
+        },
+        {
+          "type": "Lumen/Inner Diameter",
+          "unit": "Millimeter",
+          "value": "5.0"
+        }
+      ],
+      "gmdn_terms": [
+        {
+          "code": "46352",
+          "code_status": "Active",
+          "definition": "A non-bioabsorbable tubular device typically intended to be implanted into the base or parent artery of an intracranial aneurysm (e.g., wide-neck aneurysm situated at the base of a bifurcation) to facilitate the delivery of embolics to fill the aneurysm, facilitate clotting within the aneurysm by slowing blood flow into it, and/or to provide support for a neurovascular embolization coil placed inside the aneurysm. It is made of uncoated metal [e.g., nickel-titanium alloy (Nitinol)] and self-expands after it is delivered to the site of implantation and released (e.g., from a dedicated delivery instrument). Disposable devices associated with implantation may be included.",
+          "implantable": "true",
+          "name": "Bare-metal intracranial vascular stent"
+        }
+      ],
+      "has_donation_id_number": "false",
+      "has_expiration_date": "true",
+      "has_lot_or_batch_number": "true",
+      "has_manufacturing_date": "false",
+      "has_serial_number": "false",
+      "identifiers": [
+        {
+          "id": "07613252648864",
+          "issuing_agency": "GS1",
+          "type": "Primary"
+        }
+      ],
+      "is_combination_product": "false",
+      "is_direct_marking_exempt": "false",
+      "is_hct_p": "false",
+      "is_kit": "false",
+      "is_labeled_as_no_nrl": "false",
+      "is_labeled_as_nrl": "false",
+      "is_otc": "false",
+      "is_pm_exempt": "false",
+      "is_rx": "true",
+      "is_single_use": "true",
+      "labeler_duns_number": "042405446",
+      "mri_safety": "MR Conditional",
+      "product_codes": [
+        {
+          "code": "OUT",
+          "name": "Intracranial aneurysm flow diverter",
+          "openfda": {
+            "device_class": "3",
+            "device_name": "Intracranial Aneurysm Flow Diverter",
+            "medical_specialty_description": "Unknown",
+            "regulation_number": ""
+          }
+        }
+      ],
+      "public_device_record_key": "c8b4de3c-3b61-486b-9071-3e4fc266bd4c",
+      "public_version_date": "2024-11-11",
+      "public_version_number": "6",
+      "public_version_status": "Update",
+      "publish_date": "2018-11-09",
+      "record_status": "Published",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "storage": [
+        {
+          "special_conditions": "Store in cool, dry, dark place.",
+          "type": "Special Storage Condition, Specify"
+        }
+      ],
+      "version_or_model_number": "M003SFD050400"
+    },
+    "retrieved_at": "2026-04-15T10:11:16+00:00",
+    "source_id": "fda:udi:record-2",
+    "source_type": "fda",
+    "source_url": "https://api.fda.gov/device/udi.json?search=brand_name%3A%22Surpass%20Streamline%20Flow%20Diverter%20--%20Stryker%20Neurovascular%22%20OR%20brand_name%3A%22Surpass%20Streamline%22%20OR%20brand_name%3A%22Surpass%20Flow%20Diverter%22",
+    "title": "Surpass Streamline"
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "device_slug": "interbody-cage--spartek-medical-inc--spartek-variable-angle-pedicle-screw",
+  "artifact_folder": "interbody-cage--spartek-medical-inc--spartek-variable-angle-pedicle-screw",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3713,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--spartek-medical-inc--spartek-variable-angle-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spartek-medical-inc--spartek-variable-angle-pedicle-screw/enriched/interbody-cage--spartek-medical-inc--spartek-variable-angle-pedicle-screw.json",
+        "bytes": 1503
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K094002.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spartek-medical-inc--spartek-variable-angle-pedicle-screw/fda_raw/NKB/K094002.json",
+        "bytes": 644
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K103383.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spartek-medical-inc--spartek-variable-angle-pedicle-screw/fda_raw/NKB/K103383.json",
+        "bytes": 644
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--spartek-medical-inc--spartek-variable-angle-pedicle-screw.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--spartek-medical-inc--spartek-variable-angle-pedicle-screw/merged/interbody-cage--spartek-medical-inc--spartek-variable-angle-pedicle-screw.json",
+        "bytes": 922
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

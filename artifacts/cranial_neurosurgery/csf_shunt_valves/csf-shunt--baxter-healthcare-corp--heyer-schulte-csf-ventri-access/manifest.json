@@ -1,0 +1,35 @@
+{
+  "device_slug": "csf-shunt--baxter-healthcare-corp--heyer-schulte-csf-ventri-access",
+  "artifact_folder": "csf-shunt--baxter-healthcare-corp--heyer-schulte-csf-ventri-access",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2987,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/csf-shunt--baxter-healthcare-corp--heyer-schulte-csf-ventri-access.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--baxter-healthcare-corp--heyer-schulte-csf-ventri-access/enriched/csf-shunt--baxter-healthcare-corp--heyer-schulte-csf-ventri-access.json",
+        "bytes": 1472
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/JXG/K891456.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--baxter-healthcare-corp--heyer-schulte-csf-ventri-access/fda_raw/JXG/K891456.json",
+        "bytes": 624
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/csf-shunt--baxter-healthcare-corp--heyer-schulte-csf-ventri-access.json",
+        "artifact": "artifacts/cranial_neurosurgery/csf_shunt_valves/csf-shunt--baxter-healthcare-corp--heyer-schulte-csf-ventri-access/merged/csf-shunt--baxter-healthcare-corp--heyer-schulte-csf-ventri-access.json",
+        "bytes": 891
+      }
+    ]
+  },
+  "registry": {
+    "domain": "cranial_neurosurgery",
+    "registry": "csf_shunt_valves",
+    "label": "Programmable and Fixed Valves"
+  }
+}

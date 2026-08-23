@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--accel-spine--picasso-mis-spinal-fixation",
+  "artifact_folder": "interbody-cage--accel-spine--picasso-mis-spinal-fixation",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2854,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--accel-spine--picasso-mis-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--accel-spine--picasso-mis-spinal-fixation/enriched/interbody-cage--accel-spine--picasso-mis-spinal-fixation.json",
+        "bytes": 1426
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K120714.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--accel-spine--picasso-mis-spinal-fixation/fda_raw/NKB/K120714.json",
+        "bytes": 583
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--accel-spine--picasso-mis-spinal-fixation.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--accel-spine--picasso-mis-spinal-fixation/merged/interbody-cage--accel-spine--picasso-mis-spinal-fixation.json",
+        "bytes": 845
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

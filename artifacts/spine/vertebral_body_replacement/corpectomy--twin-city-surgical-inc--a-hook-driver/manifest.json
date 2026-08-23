@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--twin-city-surgical-inc--a-hook-driver",
+  "artifact_folder": "corpectomy--twin-city-surgical-inc--a-hook-driver",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2762,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--twin-city-surgical-inc--a-hook-driver.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--twin-city-surgical-inc--a-hook-driver/enriched/corpectomy--twin-city-surgical-inc--a-hook-driver.json",
+        "bytes": 1384
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K820660.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--twin-city-surgical-inc--a-hook-driver/fda_raw/KWP/K820660.json",
+        "bytes": 575
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--twin-city-surgical-inc--a-hook-driver.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--twin-city-surgical-inc--a-hook-driver/merged/corpectomy--twin-city-surgical-inc--a-hook-driver.json",
+        "bytes": 803
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

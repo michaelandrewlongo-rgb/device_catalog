@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--atlas-spine-inc--atlas-spine-pivoting",
+  "artifact_folder": "pedicle-screw--atlas-spine-inc--atlas-spine-pivoting",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2822,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--atlas-spine-inc--atlas-spine-pivoting.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--atlas-spine-inc--atlas-spine-pivoting/enriched/pedicle-screw--atlas-spine-inc--atlas-spine-pivoting.json",
+        "bytes": 1411
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K100743.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--atlas-spine-inc--atlas-spine-pivoting/fda_raw/MAX/K100743.json",
+        "bytes": 581
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--atlas-spine-inc--atlas-spine-pivoting.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--atlas-spine-inc--atlas-spine-pivoting/merged/pedicle-screw--atlas-spine-inc--atlas-spine-pivoting.json",
+        "bytes": 830
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

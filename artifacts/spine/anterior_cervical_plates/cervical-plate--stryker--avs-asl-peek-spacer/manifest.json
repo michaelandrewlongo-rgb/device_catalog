@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--stryker--avs-asl-peek-spacer",
+  "artifact_folder": "cervical-plate--stryker--avs-asl-peek-spacer",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2768,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--stryker--avs-asl-peek-spacer.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--stryker--avs-asl-peek-spacer/enriched/cervical-plate--stryker--avs-asl-peek-spacer.json",
+        "bytes": 1394
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K061836.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--stryker--avs-asl-peek-spacer/fda_raw/MQP/K061836.json",
+        "bytes": 561
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--stryker--avs-asl-peek-spacer.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--stryker--avs-asl-peek-spacer/merged/cervical-plate--stryker--avs-asl-peek-spacer.json",
+        "bytes": 813
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

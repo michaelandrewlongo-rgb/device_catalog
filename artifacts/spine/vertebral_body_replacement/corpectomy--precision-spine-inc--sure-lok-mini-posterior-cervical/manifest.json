@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--precision-spine-inc--sure-lok-mini-posterior-cervical",
+  "artifact_folder": "corpectomy--precision-spine-inc--sure-lok-mini-posterior-cervical",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3003,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--precision-spine-inc--sure-lok-mini-posterior-cervical.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--precision-spine-inc--sure-lok-mini-posterior-cervical/enriched/corpectomy--precision-spine-inc--sure-lok-mini-posterior-cervical.json",
+        "bytes": 1479
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K150851.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--precision-spine-inc--sure-lok-mini-posterior-cervical/fda_raw/KWP/K150851.json",
+        "bytes": 626
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--precision-spine-inc--sure-lok-mini-posterior-cervical.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--precision-spine-inc--sure-lok-mini-posterior-cervical/merged/corpectomy--precision-spine-inc--sure-lok-mini-posterior-cervical.json",
+        "bytes": 898
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "device_slug": "interbody-cage--depuy--expedium-4-5mm-spine",
+  "artifact_folder": "interbody-cage--depuy--expedium-4-5mm-spine",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 4450,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--depuy--expedium-4-5mm-spine.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--expedium-4-5mm-spine/enriched/interbody-cage--depuy--expedium-4-5mm-spine.json",
+        "bytes": 1926
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K071495.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--expedium-4-5mm-spine/fda_raw/NKB/K071495.json",
+        "bytes": 586
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K073364.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--expedium-4-5mm-spine/fda_raw/NKB/K073364.json",
+        "bytes": 563
+      },
+      {
+        "source": "pipeline/data/fda_raw/NKB/K081252.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--expedium-4-5mm-spine/fda_raw/NKB/K081252.json",
+        "bytes": 563
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--depuy--expedium-4-5mm-spine.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--depuy--expedium-4-5mm-spine/merged/interbody-cage--depuy--expedium-4-5mm-spine.json",
+        "bytes": 812
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

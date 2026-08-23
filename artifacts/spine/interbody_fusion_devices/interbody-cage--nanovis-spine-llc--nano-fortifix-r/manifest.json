@@ -1,0 +1,35 @@
+{
+  "device_slug": "interbody-cage--nanovis-spine-llc--nano-fortifix-r",
+  "artifact_folder": "interbody-cage--nanovis-spine-llc--nano-fortifix-r",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2809,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/interbody-cage--nanovis-spine-llc--nano-fortifix-r.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--nanovis-spine-llc--nano-fortifix-r/enriched/interbody-cage--nanovis-spine-llc--nano-fortifix-r.json",
+        "bytes": 1402
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NKB/K193211.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--nanovis-spine-llc--nano-fortifix-r/fda_raw/NKB/K193211.json",
+        "bytes": 578
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/interbody-cage--nanovis-spine-llc--nano-fortifix-r.json",
+        "artifact": "artifacts/spine/interbody_fusion_devices/interbody-cage--nanovis-spine-llc--nano-fortifix-r/merged/interbody-cage--nanovis-spine-llc--nano-fortifix-r.json",
+        "bytes": 829
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "interbody_fusion_devices",
+    "label": "TLIF/PLIF/LLIF/ALIF"
+  }
+}

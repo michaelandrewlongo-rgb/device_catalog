@@ -1,0 +1,42 @@
+{
+  "device_slug": "cervical-plate--signus-medizintechnik-gmbh--tasmin-r",
+  "artifact_folder": "cervical-plate--signus-medizintechnik-gmbh--tasmin-r",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 4497,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--signus-medizintechnik-gmbh--tasmin-r.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--signus-medizintechnik-gmbh--tasmin-r/enriched/cervical-plate--signus-medizintechnik-gmbh--tasmin-r.json",
+        "bytes": 2084
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/cervical-plate--signus-medizintechnik-gmbh--tasmin-r.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--signus-medizintechnik-gmbh--tasmin-r/extracted/fda_structured/cervical-plate--signus-medizintechnik-gmbh--tasmin-r.json",
+        "bytes": 1026
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K123758.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--signus-medizintechnik-gmbh--tasmin-r/fda_raw/MQP/K123758.json",
+        "bytes": 583
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--signus-medizintechnik-gmbh--tasmin-r.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--signus-medizintechnik-gmbh--tasmin-r/merged/cervical-plate--signus-medizintechnik-gmbh--tasmin-r.json",
+        "bytes": 804
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

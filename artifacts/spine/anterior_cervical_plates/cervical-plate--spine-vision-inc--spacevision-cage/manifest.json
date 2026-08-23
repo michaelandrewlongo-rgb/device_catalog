@@ -1,0 +1,35 @@
+{
+  "device_slug": "cervical-plate--spine-vision-inc--spacevision-cage",
+  "artifact_folder": "cervical-plate--spine-vision-inc--spacevision-cage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2803,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/cervical-plate--spine-vision-inc--spacevision-cage.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--spine-vision-inc--spacevision-cage/enriched/cervical-plate--spine-vision-inc--spacevision-cage.json",
+        "bytes": 1403
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MQP/K042930.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--spine-vision-inc--spacevision-cage/fda_raw/MQP/K042930.json",
+        "bytes": 578
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/cervical-plate--spine-vision-inc--spacevision-cage.json",
+        "artifact": "artifacts/spine/anterior_cervical_plates/cervical-plate--spine-vision-inc--spacevision-cage/merged/cervical-plate--spine-vision-inc--spacevision-cage.json",
+        "bytes": 822
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "anterior_cervical_plates",
+    "label": "ACDF Plates"
+  }
+}

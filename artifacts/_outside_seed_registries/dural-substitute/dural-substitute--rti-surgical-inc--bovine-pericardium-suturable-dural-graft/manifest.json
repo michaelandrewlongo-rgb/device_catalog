@@ -1,0 +1,47 @@
+{
+  "device_slug": "dural-substitute--rti-surgical-inc--bovine-pericardium-suturable-dural-graft",
+  "artifact_folder": "dural-substitute--rti-surgical-inc--bovine-pericardium-suturable-dural-graft",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 237281,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/dural-substitute/parsed/fda_summaries/dural-substitute--rti-surgical-inc--bovine-pericardium-suturable-dural-graft--510k.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--rti-surgical-inc--bovine-pericardium-suturable-dural-graft/510k/dural-substitute/parsed/fda_summaries/dural-substitute--rti-surgical-inc--bovine-pericardium-suturable-dural-graft--510k.json",
+        "bytes": 22302
+      },
+      {
+        "source": "pipeline/data/510k/dural-substitute/pdfs/dural-substitute--rti-surgical-inc--bovine-pericardium-suturable-dural-graft--510k.pdf",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--rti-surgical-inc--bovine-pericardium-suturable-dural-graft/510k/dural-substitute/pdfs/dural-substitute--rti-surgical-inc--bovine-pericardium-suturable-dural-graft--510k.pdf",
+        "bytes": 201103
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/dural-substitute--rti-surgical-inc--bovine-pericardium-suturable-dural-graft.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--rti-surgical-inc--bovine-pericardium-suturable-dural-graft/enriched/dural-substitute--rti-surgical-inc--bovine-pericardium-suturable-dural-graft.json",
+        "bytes": 12211
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/GXQ/K132850.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--rti-surgical-inc--bovine-pericardium-suturable-dural-graft/fda_raw/GXQ/K132850.json",
+        "bytes": 675
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/dural-substitute--rti-surgical-inc--bovine-pericardium-suturable-dural-graft.json",
+        "artifact": "artifacts/_outside_seed_registries/dural-substitute/dural-substitute--rti-surgical-inc--bovine-pericardium-suturable-dural-graft/merged/dural-substitute--rti-surgical-inc--bovine-pericardium-suturable-dural-graft.json",
+        "bytes": 990
+      }
+    ]
+  },
+  "registry": {
+    "domain": "_outside_seed_registries",
+    "registry": "dural-substitute",
+    "label": "Outside listed seed registries"
+  }
+}

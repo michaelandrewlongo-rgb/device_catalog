@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--kyocera-medical-technologies-inc--kmti-s141-lumbar-interbody-fusion",
+  "artifact_folder": "pedicle-screw--kyocera-medical-technologies-inc--kmti-s141-lumbar-interbody-fusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3045,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--kyocera-medical-technologies-inc--kmti-s141-lumbar-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--kyocera-medical-technologies-inc--kmti-s141-lumbar-interbody-fusion/enriched/pedicle-screw--kyocera-medical-technologies-inc--kmti-s141-lumbar-interbody-fusion.json",
+        "bytes": 1484
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K212070.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--kyocera-medical-technologies-inc--kmti-s141-lumbar-interbody-fusion/fda_raw/MAX/K212070.json",
+        "bytes": 658
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--kyocera-medical-technologies-inc--kmti-s141-lumbar-interbody-fusion.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--kyocera-medical-technologies-inc--kmti-s141-lumbar-interbody-fusion/merged/pedicle-screw--kyocera-medical-technologies-inc--kmti-s141-lumbar-interbody-fusion.json",
+        "bytes": 903
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

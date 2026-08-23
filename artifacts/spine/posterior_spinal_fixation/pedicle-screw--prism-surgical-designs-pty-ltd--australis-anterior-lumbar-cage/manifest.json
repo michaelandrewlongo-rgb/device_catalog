@@ -1,0 +1,35 @@
+{
+  "device_slug": "pedicle-screw--prism-surgical-designs-pty-ltd--australis-anterior-lumbar-cage",
+  "artifact_folder": "pedicle-screw--prism-surgical-designs-pty-ltd--australis-anterior-lumbar-cage",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3007,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/pedicle-screw--prism-surgical-designs-pty-ltd--australis-anterior-lumbar-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--prism-surgical-designs-pty-ltd--australis-anterior-lumbar-cage/enriched/pedicle-screw--prism-surgical-designs-pty-ltd--australis-anterior-lumbar-cage.json",
+        "bytes": 1471
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MAX/K202820.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--prism-surgical-designs-pty-ltd--australis-anterior-lumbar-cage/fda_raw/MAX/K202820.json",
+        "bytes": 646
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/pedicle-screw--prism-surgical-designs-pty-ltd--australis-anterior-lumbar-cage.json",
+        "artifact": "artifacts/spine/posterior_spinal_fixation/pedicle-screw--prism-surgical-designs-pty-ltd--australis-anterior-lumbar-cage/merged/pedicle-screw--prism-surgical-designs-pty-ltd--australis-anterior-lumbar-cage.json",
+        "bytes": 890
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "posterior_spinal_fixation",
+    "label": "Pedicle Screws, Rods"
+  }
+}

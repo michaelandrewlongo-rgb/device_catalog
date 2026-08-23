@@ -1,0 +1,35 @@
+{
+  "device_slug": "corpectomy--wrightmedicaltechnologyinc--titanium-versalok",
+  "artifact_folder": "corpectomy--wrightmedicaltechnologyinc--titanium-versalok",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2820,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/corpectomy--wrightmedicaltechnologyinc--titanium-versalok.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--wrightmedicaltechnologyinc--titanium-versalok/enriched/corpectomy--wrightmedicaltechnologyinc--titanium-versalok.json",
+        "bytes": 1404
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/KWP/K990708.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--wrightmedicaltechnologyinc--titanium-versalok/fda_raw/KWP/K990708.json",
+        "bytes": 593
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/corpectomy--wrightmedicaltechnologyinc--titanium-versalok.json",
+        "artifact": "artifacts/spine/vertebral_body_replacement/corpectomy--wrightmedicaltechnologyinc--titanium-versalok/merged/corpectomy--wrightmedicaltechnologyinc--titanium-versalok.json",
+        "bytes": 823
+      }
+    ]
+  },
+  "registry": {
+    "domain": "spine",
+    "registry": "vertebral_body_replacement",
+    "label": "VBR Cages/Corpectomy"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K041925",
+  "clearance_date": "2004-09-24",
+  "device_class": 2,
+  "manufacturer_canonical": "zimmer-biomet",
+  "manufacturer_raw": "Zimmer Spine, Inc.",
+  "catalog_category": "corpectomy",
+  "device_name_fda": "ST360 SPINAL FIXATION SYSTEM",
+  "product_code": "KWP",
+  "product_code_description": "Orthopedic",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "corpectomy--zimmer-biomet--st360-spinal-fixation",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf04/K041925.pdf"
+}
