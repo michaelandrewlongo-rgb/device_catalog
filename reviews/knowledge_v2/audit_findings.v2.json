@@ -5954,6 +5954,446 @@
       "official_scan_status": "not_watched",
       "source_id": "catalog:balt:balt_catalog_2020_intl:others--balt--accessory-stopcocks",
       "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:embolic-coil--microvention--cosmos-10-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:embolic-coil--microvention--cosmos-18-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:embolic-coil--microvention--hypersoft-3d-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:embolic-coil--microvention--hypersoft-helical-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:embolic-coil--microvention--hydroframe-10-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:embolic-coil--microvention--hydrosoft-3d-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:embolic-coil--microvention--hydroframe-18-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:embolic-coil--microvention--hydrosoft-helical-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:embolic-coil--microvention--hydrofill-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:embolic-coil--microvention--vfc-versatile-range-fill-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:embolic-coil--microvention--complex-10-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:embolic-coil--microvention--complex-18-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:embolic-coil--microvention--helical-10-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:embolic-coil--microvention--helical-18-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:delivery-and-detachment-systems--microvention--v-grip-detachment-controller",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:delivery-and-detachment-systems--microvention--web-detachment-controller",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:intrasaccular-flow-disruptor--microvention--web-sl-device",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:intrasaccular-flow-disruptor--microvention--web-sls-device",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:access-devices--microvention--sofia-catheter",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:access-devices--microvention--sofia-plus-catheter",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:access-devices--microvention--chaperon-guiding-catheter-single",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:access-devices--microvention--chaperon-guiding-catheter-system",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:balloon-catheter--microvention--scepter-c-occlusion-balloon-catheter",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:balloon-catheter--microvention--scepter-xc-occlusion-balloon-catheter",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:microcatheter--microvention--headway-microcatheter",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:microcatheter--microvention--headway-microcatheter-with-duo-technology",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:microcatheter--microvention--via-microcatheter",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:microcatheter--microvention--wedge-microcatheter",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:guidewire--microvention--traxcess-guidewire-and-docking-wire",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:intraluminal-devices--microvention--lvis-intraluminal-support-device",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:intraluminal-devices--microvention--lvis-jr-intraluminal-support-device",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:intraluminal-devices--microvention--fred-system",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:intraluminal-devices--microvention--fred-jr-system",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:aspiration--microvention--sofia-plus-aspiration-catheter",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:ischemic-stroke-devices--microvention--eric-retrieval-device",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:microcatheter--microvention--wedge-microcatheter-detailed-specifications",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:aspiration--microvention--gomco-405-aspiration-pump",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:ischemic-stroke-devices--microvention--canister-accessory-kit",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:ischemic-stroke-devices--microvention--tubing-kit",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:ischemic-stroke-devices--microvention--syringe-kit",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:intracranial-stent--microvention--casper-rx-carotid-artery-stent",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:intracranial-stent--microvention--empro-embolic-protection-system",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:liquid-embolic--microvention--phil-liquid-embolic-system",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/microvention--international-product-catalog-2019.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:microvention:microvention_catalog_2019_intl:microcatheter--microvention--phil-microcatheter-compatibility",
+      "validation_errors": []
     }
   ]
 }
