@@ -1,0 +1,35 @@
+{
+  "device_slug": "embolic-coil--microvention--microplex-coil-cosmos-models-81451cs",
+  "artifact_folder": "embolic-coil--microvention--microplex-coil-cosmos-models-81451cs",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3292,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--microvention--microplex-coil-cosmos-models-81451cs.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--microplex-coil-cosmos-models-81451cs/enriched/embolic-coil--microvention--microplex-coil-cosmos-models-81451cs.json",
+        "bytes": 1730
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K093358.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--microplex-coil-cosmos-models-81451cs/fda_raw/HCG/K093358.json",
+        "bytes": 634
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--microvention--microplex-coil-cosmos-models-81451cs.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--microplex-coil-cosmos-models-81451cs/merged/embolic-coil--microvention--microplex-coil-cosmos-models-81451cs.json",
+        "bytes": 928
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

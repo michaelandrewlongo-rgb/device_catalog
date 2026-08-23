@@ -1,0 +1,21 @@
+{
+  "source_pdf": "balloon-catheter--cerenovus--emboguard-balloon-guide-catheter--510k.pdf",
+  "device_name": "emboguard-balloon-guide-catheter",
+  "manufacturer": "cerenovus",
+  "doc_type": "510k",
+  "extraction_method": "pdf_deepseek",
+  "fields": {
+    "what_it_is": "EMBOGUARD Balloon Guide Catheter is a dual lumen, braid-reinforced, variable stiffness catheter with an eccentric inflation lumen, a radiopaque marker on the distal end and a bifurcated luer hub on the proximal end. A compliant balloon is mounted on the distal end. The distal end of the device shaft has a hydrophilic coating.",
+    "sizing_specs": "| Characteristics | Subject Device |\n| --- | --- |\n| Effective Length | 85 cm, 95 cm |\n| Labelled Shaft Outer Diameter | 8F (2.8 mm) |\n| Labelled Shaft Inner Diameter | 6.6F (0.087\") |\n| Tip Shape | Straight |\n| Outer Coating | Hydrophilic Coating – Distal portion of the shaft |\n| Balloon Inflation Lumen | Non-coaxial |\n| Accessory Devices Provided | Dilator (1), Rotating Hemostasis Valve (1), Tuohy Borst Valve with Sideport (1), Peel Away Sheath (1), Luer-Activated Valve (1) |\n| How Supplied | Sterile, Single Use |\n| Sterilization Method | EtO |\n| Sterility Assurance Level | 10-6 |",
+    "indications": "EMBOGUARD Balloon Guide Catheters are indicated for use in facilitating the insertion and guidance of an intravascular catheter into a selected blood vessel in the neurovascular system. The balloon provides temporary vascular occlusion during angiographic procedures. The Balloon Guide Catheter is also indicated for use as a conduit for Retrieval Devices.",
+    "contraindications": null,
+    "compatible_with": null,
+    "use_notes": null,
+    "also_known_as": null
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "sizing_specs": 0.7,
+    "indications": 0.7
+  }
+}

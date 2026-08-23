@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K162704",
+  "clearance_date": "2017-01-03",
+  "device_class": 2,
+  "manufacturer_canonical": "medtronic",
+  "manufacturer_raw": "Micro Therapeutics, Inc. d/b/a ev3 Neurovascular",
+  "catalog_category": "embolic-coil",
+  "device_name_fda": "Axium Prime Detachable Coil System",
+  "product_code": "HCG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "embolic-coil--medtronic--axium-prime-detachable-coil",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf16/K162704.pdf"
+}

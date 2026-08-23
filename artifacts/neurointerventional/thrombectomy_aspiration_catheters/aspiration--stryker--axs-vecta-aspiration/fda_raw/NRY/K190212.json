@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K190212",
+  "clearance_date": "2019-04-24",
+  "device_class": 2,
+  "manufacturer_canonical": "stryker",
+  "manufacturer_raw": "Stryker Neurovascular",
+  "catalog_category": "aspiration",
+  "device_name_fda": "AXS Vecta Aspiration System",
+  "product_code": "NRY",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "aspiration--stryker--axs-vecta-aspiration",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf19/K190212.pdf"
+}

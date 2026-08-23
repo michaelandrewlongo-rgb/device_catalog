@@ -1,0 +1,47 @@
+{
+  "device_slug": "embolic-coil--stryker--traget-detachable-coil",
+  "artifact_folder": "embolic-coil--stryker--traget-detachable-coil",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 248225,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/embolic-coil/parsed/fda_summaries/embolic-coil--stryker--traget-detachable-coil--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--traget-detachable-coil/510k/embolic-coil/parsed/fda_summaries/embolic-coil--stryker--traget-detachable-coil--510k.json",
+        "bytes": 24183
+      },
+      {
+        "source": "pipeline/data/510k/embolic-coil/pdfs/embolic-coil--stryker--traget-detachable-coil--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--traget-detachable-coil/510k/embolic-coil/pdfs/embolic-coil--stryker--traget-detachable-coil--510k.pdf",
+        "bytes": 209194
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--stryker--traget-detachable-coil.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--traget-detachable-coil/enriched/embolic-coil--stryker--traget-detachable-coil.json",
+        "bytes": 13481
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K112385.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--traget-detachable-coil/fda_raw/HCG/K112385.json",
+        "bytes": 563
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--stryker--traget-detachable-coil.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--traget-detachable-coil/merged/embolic-coil--stryker--traget-detachable-coil.json",
+        "bytes": 804
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

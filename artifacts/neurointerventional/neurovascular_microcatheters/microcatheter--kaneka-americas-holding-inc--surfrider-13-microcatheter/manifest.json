@@ -1,0 +1,47 @@
+{
+  "device_slug": "microcatheter--kaneka-americas-holding-inc--surfrider-13-microcatheter",
+  "artifact_folder": "microcatheter--kaneka-americas-holding-inc--surfrider-13-microcatheter",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 2819465,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/microcatheter/parsed/fda_summaries/microcatheter--kaneka-americas-holding-inc--surfrider-13-microcatheter--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--kaneka-americas-holding-inc--surfrider-13-microcatheter/510k/microcatheter/parsed/fda_summaries/microcatheter--kaneka-americas-holding-inc--surfrider-13-microcatheter--510k.json",
+        "bytes": 73157
+      },
+      {
+        "source": "pipeline/data/510k/microcatheter/pdfs/microcatheter--kaneka-americas-holding-inc--surfrider-13-microcatheter--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--kaneka-americas-holding-inc--surfrider-13-microcatheter/510k/microcatheter/pdfs/microcatheter--kaneka-americas-holding-inc--surfrider-13-microcatheter--510k.pdf",
+        "bytes": 2695692
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/microcatheter--kaneka-americas-holding-inc--surfrider-13-microcatheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--kaneka-americas-holding-inc--surfrider-13-microcatheter/enriched/microcatheter--kaneka-americas-holding-inc--surfrider-13-microcatheter.json",
+        "bytes": 49132
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/QJP/K251668.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--kaneka-americas-holding-inc--surfrider-13-microcatheter/fda_raw/QJP/K251668.json",
+        "bytes": 626
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/microcatheter--kaneka-americas-holding-inc--surfrider-13-microcatheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--kaneka-americas-holding-inc--surfrider-13-microcatheter/merged/microcatheter--kaneka-americas-holding-inc--surfrider-13-microcatheter.json",
+        "bytes": 858
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

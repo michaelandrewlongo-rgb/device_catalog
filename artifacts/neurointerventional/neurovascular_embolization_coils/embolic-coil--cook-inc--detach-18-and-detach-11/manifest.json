@@ -1,0 +1,35 @@
+{
+  "device_slug": "embolic-coil--cook-inc--detach-18-and-detach-11",
+  "artifact_folder": "embolic-coil--cook-inc--detach-18-and-detach-11",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3264,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--cook-inc--detach-18-and-detach-11.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cook-inc--detach-18-and-detach-11/enriched/embolic-coil--cook-inc--detach-18-and-detach-11.json",
+        "bytes": 1782
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K000651.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cook-inc--detach-18-and-detach-11/fda_raw/HCG/K000651.json",
+        "bytes": 595
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--cook-inc--detach-18-and-detach-11.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cook-inc--detach-18-and-detach-11/merged/embolic-coil--cook-inc--detach-18-and-detach-11.json",
+        "bytes": 887
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

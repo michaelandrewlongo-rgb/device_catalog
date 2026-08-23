@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K173614",
+  "clearance_date": "2018-04-17",
+  "device_class": 2,
+  "manufacturer_canonical": "penumbra",
+  "manufacturer_raw": "Penumbra, Inc.",
+  "catalog_category": "embolic-coil",
+  "device_name_fda": "Penumbra Coil 400, Ruby Coil System, POD System",
+  "product_code": "HCG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "embolic-coil--penumbra--penumbra-coil-400-ruby-coil",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf17/K173614.pdf"
+}

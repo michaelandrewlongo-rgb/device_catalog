@@ -1,0 +1,21 @@
+{
+  "device_slug": "embolic-coil--cook-inc--detach-18-and-detach-11-recalls",
+  "artifact_folder": "embolic-coil--cook-inc--detach-18-and-detach-11-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 791,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/embolic-coil--cook-inc--detach-18-and-detach-11-recalls.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cook-inc--detach-18-and-detach-11-recalls/extracted/fda_safety/embolic-coil--cook-inc--detach-18-and-detach-11-recalls.json",
+        "bytes": 791
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

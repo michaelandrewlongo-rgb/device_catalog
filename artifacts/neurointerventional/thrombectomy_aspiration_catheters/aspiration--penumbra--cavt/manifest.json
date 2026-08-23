@@ -1,0 +1,35 @@
+{
+  "device_slug": "aspiration--penumbra--cavt",
+  "artifact_folder": "aspiration--penumbra--cavt",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 10508,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/aspiration--penumbra--cavt.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--cavt/enriched/aspiration--penumbra--cavt.json",
+        "bytes": 3975
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/aspiration--penumbra--cavt.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--cavt/merged/aspiration--penumbra--cavt.json",
+        "bytes": 3418
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/penumbra/cavt.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--cavt/scraper_raw/penumbra/cavt.json",
+        "bytes": 3115
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "thrombectomy_aspiration_catheters",
+    "label": "Aspiration Catheters"
+  }
+}

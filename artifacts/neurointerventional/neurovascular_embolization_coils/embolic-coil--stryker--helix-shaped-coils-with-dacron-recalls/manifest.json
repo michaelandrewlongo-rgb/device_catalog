@@ -1,0 +1,21 @@
+{
+  "device_slug": "embolic-coil--stryker--helix-shaped-coils-with-dacron-recalls",
+  "artifact_folder": "embolic-coil--stryker--helix-shaped-coils-with-dacron-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 14678,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/embolic-coil--stryker--helix-shaped-coils-with-dacron-recalls.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--helix-shaped-coils-with-dacron-recalls/extracted/fda_safety/embolic-coil--stryker--helix-shaped-coils-with-dacron-recalls.json",
+        "bytes": 14678
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

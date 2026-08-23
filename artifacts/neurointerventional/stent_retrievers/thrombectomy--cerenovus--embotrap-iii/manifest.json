@@ -1,0 +1,21 @@
+{
+  "device_slug": "thrombectomy--cerenovus--embotrap-iii",
+  "artifact_folder": "thrombectomy--cerenovus--embotrap-iii",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 3484,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/thrombectomy--cerenovus--embotrap-iii--knowledge.md",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--cerenovus--embotrap-iii/data_by_device/thrombectomy--cerenovus--embotrap-iii--knowledge.md",
+        "bytes": 3484
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "stent_retrievers",
+    "label": "Stent Retrievers"
+  }
+}

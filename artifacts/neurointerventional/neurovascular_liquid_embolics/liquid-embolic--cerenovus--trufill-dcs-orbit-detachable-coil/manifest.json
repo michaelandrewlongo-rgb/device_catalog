@@ -1,0 +1,35 @@
+{
+  "device_slug": "liquid-embolic--cerenovus--trufill-dcs-orbit-detachable-coil",
+  "artifact_folder": "liquid-embolic--cerenovus--trufill-dcs-orbit-detachable-coil",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3538,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/liquid-embolic--cerenovus--trufill-dcs-orbit-detachable-coil.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--cerenovus--trufill-dcs-orbit-detachable-coil/enriched/liquid-embolic--cerenovus--trufill-dcs-orbit-detachable-coil.json",
+        "bytes": 2076
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K093973.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--cerenovus--trufill-dcs-orbit-detachable-coil/fda_raw/HCG/K093973.json",
+        "bytes": 603
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/liquid-embolic--cerenovus--trufill-dcs-orbit-detachable-coil.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--cerenovus--trufill-dcs-orbit-detachable-coil/merged/liquid-embolic--cerenovus--trufill-dcs-orbit-detachable-coil.json",
+        "bytes": 859
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_liquid_embolics",
+    "label": "Onyx, Squid, PHIL"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "device_name": "MICROPLEX COIL SYSTEM-COSMOS",
+  "manufacturer": "microvention",
+  "catalog_category": "embolic-coil",
+  "filename_stem": "embolic-coil--microvention--microplex-coil-cosmos",
+  "clearance_type": "510k",
+  "clearance_number": "K090891",
+  "clearance_date": "2009-06-22",
+  "device_class": 2,
+  "device_name_fda": "MICROPLEX COIL SYSTEM-COSMOS",
+  "product_code": "HCG",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf09/K090891.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

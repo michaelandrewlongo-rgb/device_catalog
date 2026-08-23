@@ -1,0 +1,21 @@
+{
+  "device_slug": "aspiration-catheter--microvention--sofia-flow-plus",
+  "artifact_folder": "aspiration-catheter--microvention--sofia-flow-plus",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 492,
+  "sources": {
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/microvention/sofiatm-flow-plus.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration-catheter--microvention--sofia-flow-plus/scraper_raw/microvention/sofiatm-flow-plus.json",
+        "bytes": 492
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "thrombectomy_aspiration_catheters",
+    "label": "Aspiration Catheters"
+  }
+}

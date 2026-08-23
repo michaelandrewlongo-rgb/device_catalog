@@ -1,0 +1,61 @@
+{
+  "device_name": "Eclipse 2L",
+  "manufacturer": "balt",
+  "catalog_category": "embolic-coil",
+  "filename_stem": "embolic-coil--balt--eclipse-2l",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "ECLIPSE 2L balloon catheters are catheters with dual lumen arranged in parallel configuration. The guidewire lumen or the working lumen is DMSO compatible and can be used for infusion/delivery of diagnostic and therapeutic devices. The inflation lumen is used for the inflation and deflation of the balloon. The inflation and deflation of the balloon can be achieved independently  of the presence of the guidewire. ECLIPSE 2L balloon catheter is equipped with a non-detachable low inflation pressure super compliant balloon welded to the distal end of the catheter.",
+  "sizing_specs": "Catalog: N/A; Model: ECL2L6x7",
+  "indications": "The ECLIPSE 2L is indicated for use in the blood vessels of the peripheral and neurovasculature where temporary occlusion is desired. These catheters offer a vessel selective technique of temporary vascular occlusion which is useful in selectively stopping or controlling blood flow and for balloon assisted embolization of intracranial aneurysms. ECLIPSE 2L is indicated for use in the peripheral vasculature for the infusion of diagnostic agents, such as contrast media, and therapeutic devices, such as embolization coils. ECLIPSE 2L is also indicated for neurovascular use for the infusion of diagnostic agents, such as contrast media, and therapeutic devices, such as DMSO based embolization materials, that have been approved for use in the neurovasculature and are compatible with the diameter of the ECLIPSE 2L.",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "MRI: Labeling does not contain MRI Safety Information. Pre-sterilized. Single-use",
+  "deployment_steps": null,
+  "also_known_as": [
+    "ECLIPSE 2L",
+    "Intravascular occluding balloon catheter, image-guided"
+  ],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://baltgroup.com/products/eclipse-2l",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "sizing_specs": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "indications": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    },
+    "also_known_as": {
+      "source": "fda_udi",
+      "confidence": 0.85
+    }
+  }
+}

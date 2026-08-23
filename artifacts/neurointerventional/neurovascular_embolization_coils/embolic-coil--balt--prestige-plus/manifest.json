@@ -1,0 +1,49 @@
+{
+  "device_slug": "embolic-coil--balt--prestige-plus",
+  "artifact_folder": "embolic-coil--balt--prestige-plus",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 6187,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/embolic-coil--balt--prestige-plus--knowledge.md",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--balt--prestige-plus/data_by_device/embolic-coil--balt--prestige-plus--knowledge.md",
+        "bytes": 2066
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--balt--prestige-plus.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--balt--prestige-plus/enriched/embolic-coil--balt--prestige-plus.json",
+        "bytes": 1678
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/embolic-coil--balt--prestige-plus.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--balt--prestige-plus/extracted/fda_structured/embolic-coil--balt--prestige-plus.json",
+        "bytes": 500
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--balt--prestige-plus.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--balt--prestige-plus/merged/embolic-coil--balt--prestige-plus.json",
+        "bytes": 1020
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/balt/prestige-plus.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--balt--prestige-plus/scraper_raw/balt/prestige-plus.json",
+        "bytes": 923
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K180705",
+  "clearance_date": "2018-07-04",
+  "device_class": 2,
+  "manufacturer_canonical": "medtronic",
+  "manufacturer_raw": "Micro Therapeutics, Inc. d/b/a ev3 Neurovascular",
+  "catalog_category": "aspiration",
+  "device_name_fda": "Riptide Aspiration System React 68 Catheter",
+  "product_code": "NRY",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "aspiration--medtronic--riptide-aspiration-react-68-catheter",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf18/K180705.pdf"
+}

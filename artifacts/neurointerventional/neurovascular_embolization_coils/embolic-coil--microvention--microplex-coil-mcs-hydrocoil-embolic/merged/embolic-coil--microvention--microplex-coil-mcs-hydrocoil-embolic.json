@@ -1,0 +1,28 @@
+{
+  "device_name": "MicroPlex Coil System (MCS), Hydrocoil Embolic System (HES)",
+  "manufacturer": "microvention",
+  "catalog_category": "embolic-coil",
+  "filename_stem": "embolic-coil--microvention--microplex-coil-mcs-hydrocoil-embolic",
+  "clearance_type": "510k",
+  "clearance_number": "K153594",
+  "clearance_date": "2016-01-22",
+  "device_class": 2,
+  "device_name_fda": "MicroPlex Coil System (MCS), Hydrocoil Embolic System (HES)",
+  "product_code": "HCG",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf15/K153594.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K002056",
+  "clearance_date": "2001-01-11",
+  "device_class": 2,
+  "manufacturer_canonical": "micrus-corp",
+  "manufacturer_raw": "Micrus Corp.",
+  "catalog_category": "embolic-coil",
+  "device_name_fda": "MICRUS MICROCOIL DELIVERY SYSTEM, MDS03",
+  "product_code": "HCG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "embolic-coil--micrus-corp--micrus-microcoil-delivery-mds03",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf00/K002056.pdf"
+}

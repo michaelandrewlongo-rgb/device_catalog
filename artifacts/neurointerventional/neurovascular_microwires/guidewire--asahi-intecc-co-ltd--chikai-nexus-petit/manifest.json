@@ -1,0 +1,54 @@
+{
+  "device_slug": "guidewire--asahi-intecc-co-ltd--chikai-nexus-petit",
+  "artifact_folder": "guidewire--asahi-intecc-co-ltd--chikai-nexus-petit",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 2976036,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/guidewire/parsed/fda_summaries/guidewire--asahi-intecc-co-ltd--chikai-nexus-petit--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--asahi-intecc-co-ltd--chikai-nexus-petit/510k/guidewire/parsed/fda_summaries/guidewire--asahi-intecc-co-ltd--chikai-nexus-petit--510k.json",
+        "bytes": 82488
+      },
+      {
+        "source": "pipeline/data/510k/guidewire/pdfs/guidewire--asahi-intecc-co-ltd--chikai-nexus-petit--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--asahi-intecc-co-ltd--chikai-nexus-petit/510k/guidewire/pdfs/guidewire--asahi-intecc-co-ltd--chikai-nexus-petit--510k.pdf",
+        "bytes": 2832807
+      }
+    ],
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/guidewire--asahi-intecc-co-ltd--chikai-nexus-petit--knowledge.md",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--asahi-intecc-co-ltd--chikai-nexus-petit/data_by_device/guidewire--asahi-intecc-co-ltd--chikai-nexus-petit--knowledge.md",
+        "bytes": 4848
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/guidewire--asahi-intecc-co-ltd--chikai-nexus-petit.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--asahi-intecc-co-ltd--chikai-nexus-petit/enriched/guidewire--asahi-intecc-co-ltd--chikai-nexus-petit.json",
+        "bytes": 54504
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MOF/K252011.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--asahi-intecc-co-ltd--chikai-nexus-petit/fda_raw/MOF/K252011.json",
+        "bytes": 579
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/guidewire--asahi-intecc-co-ltd--chikai-nexus-petit.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--asahi-intecc-co-ltd--chikai-nexus-petit/merged/guidewire--asahi-intecc-co-ltd--chikai-nexus-petit.json",
+        "bytes": 810
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microwires",
+    "label": "Microwires"
+  }
+}

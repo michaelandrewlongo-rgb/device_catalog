@@ -1,0 +1,35 @@
+{
+  "device_slug": "liquid-embolic--biocure-inc--gelspheres-embolic-agent",
+  "artifact_folder": "liquid-embolic--biocure-inc--gelspheres-embolic-agent",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2796,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/liquid-embolic--biocure-inc--gelspheres-embolic-agent.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--biocure-inc--gelspheres-embolic-agent/enriched/liquid-embolic--biocure-inc--gelspheres-embolic-agent.json",
+        "bytes": 1403
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K023089.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--biocure-inc--gelspheres-embolic-agent/fda_raw/HCG/K023089.json",
+        "bytes": 571
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/liquid-embolic--biocure-inc--gelspheres-embolic-agent.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--biocure-inc--gelspheres-embolic-agent/merged/liquid-embolic--biocure-inc--gelspheres-embolic-agent.json",
+        "bytes": 822
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_liquid_embolics",
+    "label": "Onyx, Squid, PHIL"
+  }
+}

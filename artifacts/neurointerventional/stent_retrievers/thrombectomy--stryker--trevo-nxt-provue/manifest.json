@@ -1,0 +1,57 @@
+{
+  "device_slug": "thrombectomy--stryker--trevo-nxt-provue",
+  "artifact_folder": "thrombectomy--stryker--trevo-nxt-provue",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 7,
+  "bytes": 8440,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/thrombectomy--stryker--trevo-nxt-provue--knowledge.md",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--trevo-nxt-provue/data_by_device/thrombectomy--stryker--trevo-nxt-provue--knowledge.md",
+        "bytes": 2357
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/thrombectomy--stryker--trevo-nxt-provue.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--trevo-nxt-provue/enriched/thrombectomy--stryker--trevo-nxt-provue.json",
+        "bytes": 2951
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/POL/K192207.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--trevo-nxt-provue/fda_raw/POL/K192207.json",
+        "bytes": 546
+      },
+      {
+        "source": "pipeline/data/fda_raw/POL/K200117.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--trevo-nxt-provue/fda_raw/POL/K200117.json",
+        "bytes": 546
+      },
+      {
+        "source": "pipeline/data/fda_raw/POL/K210502.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--trevo-nxt-provue/fda_raw/POL/K210502.json",
+        "bytes": 560
+      },
+      {
+        "source": "pipeline/data/fda_raw/POL/K223305.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--trevo-nxt-provue/fda_raw/POL/K223305.json",
+        "bytes": 560
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/thrombectomy--stryker--trevo-nxt-provue.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--trevo-nxt-provue/merged/thrombectomy--stryker--trevo-nxt-provue.json",
+        "bytes": 920
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "stent_retrievers",
+    "label": "Stent Retrievers"
+  }
+}

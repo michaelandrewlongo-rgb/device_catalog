@@ -1,0 +1,47 @@
+{
+  "device_slug": "aspiration--penumbra--penumbra-separator-flex-026032041054-models",
+  "artifact_folder": "aspiration--penumbra--penumbra-separator-flex-026032041054-models",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 237761,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/aspiration/parsed/fda_summaries/aspiration--penumbra--penumbra-separator-flex-026032041054-models--510k.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-separator-flex-026032041054-models/510k/aspiration/parsed/fda_summaries/aspiration--penumbra--penumbra-separator-flex-026032041054-models--510k.json",
+        "bytes": 9318
+      },
+      {
+        "source": "pipeline/data/510k/aspiration/pdfs/aspiration--penumbra--penumbra-separator-flex-026032041054-models--510k.pdf",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-separator-flex-026032041054-models/510k/aspiration/pdfs/aspiration--penumbra--penumbra-separator-flex-026032041054-models--510k.pdf",
+        "bytes": 223824
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/aspiration--penumbra--penumbra-separator-flex-026032041054-models.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-separator-flex-026032041054-models/enriched/aspiration--penumbra--penumbra-separator-flex-026032041054-models.json",
+        "bytes": 3021
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NRY/K100769.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-separator-flex-026032041054-models/fda_raw/NRY/K100769.json",
+        "bytes": 645
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/aspiration--penumbra--penumbra-separator-flex-026032041054-models.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--penumbra-separator-flex-026032041054-models/merged/aspiration--penumbra--penumbra-separator-flex-026032041054-models.json",
+        "bytes": 953
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "thrombectomy_aspiration_catheters",
+    "label": "Aspiration Catheters"
+  }
+}

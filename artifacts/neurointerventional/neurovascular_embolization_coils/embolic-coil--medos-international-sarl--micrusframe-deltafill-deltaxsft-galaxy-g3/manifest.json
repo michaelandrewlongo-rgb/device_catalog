@@ -1,0 +1,47 @@
+{
+  "device_slug": "embolic-coil--medos-international-sarl--micrusframe-deltafill-deltaxsft-galaxy-g3",
+  "artifact_folder": "embolic-coil--medos-international-sarl--micrusframe-deltafill-deltaxsft-galaxy-g3",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 669676,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/embolic-coil/parsed/fda_summaries/embolic-coil--medos-international-sarl--micrusframe-deltafill-deltaxsft-galaxy-g3--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--medos-international-sarl--micrusframe-deltafill-deltaxsft-galaxy-g3/510k/embolic-coil/parsed/fda_summaries/embolic-coil--medos-international-sarl--micrusframe-deltafill-deltaxsft-galaxy-g3--510k.json",
+        "bytes": 38198
+      },
+      {
+        "source": "pipeline/data/510k/embolic-coil/pdfs/embolic-coil--medos-international-sarl--micrusframe-deltafill-deltaxsft-galaxy-g3--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--medos-international-sarl--micrusframe-deltafill-deltaxsft-galaxy-g3/510k/embolic-coil/pdfs/embolic-coil--medos-international-sarl--micrusframe-deltafill-deltaxsft-galaxy-g3--510k.pdf",
+        "bytes": 617443
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--medos-international-sarl--micrusframe-deltafill-deltaxsft-galaxy-g3.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--medos-international-sarl--micrusframe-deltafill-deltaxsft-galaxy-g3/enriched/embolic-coil--medos-international-sarl--micrusframe-deltafill-deltaxsft-galaxy-g3.json",
+        "bytes": 12304
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K211344.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--medos-international-sarl--micrusframe-deltafill-deltaxsft-galaxy-g3/fda_raw/HCG/K211344.json",
+        "bytes": 704
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--medos-international-sarl--micrusframe-deltafill-deltaxsft-galaxy-g3.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--medos-international-sarl--micrusframe-deltafill-deltaxsft-galaxy-g3/merged/embolic-coil--medos-international-sarl--micrusframe-deltafill-deltaxsft-galaxy-g3.json",
+        "bytes": 1027
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

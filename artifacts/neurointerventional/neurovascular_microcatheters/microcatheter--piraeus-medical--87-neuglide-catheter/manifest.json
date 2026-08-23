@@ -1,0 +1,61 @@
+{
+  "device_slug": "microcatheter--piraeus-medical--87-neuglide-catheter",
+  "artifact_folder": "microcatheter--piraeus-medical--87-neuglide-catheter",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 7,
+  "bytes": 2691674,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/microcatheter/parsed/fda_summaries/microcatheter--piraeus-medical--87-neuglide-catheter--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--piraeus-medical--87-neuglide-catheter/510k/microcatheter/parsed/fda_summaries/microcatheter--piraeus-medical--87-neuglide-catheter--510k.json",
+        "bytes": 41986
+      },
+      {
+        "source": "pipeline/data/510k/microcatheter/pdfs/microcatheter--piraeus-medical--87-neuglide-catheter--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--piraeus-medical--87-neuglide-catheter/510k/microcatheter/pdfs/microcatheter--piraeus-medical--87-neuglide-catheter--510k.pdf",
+        "bytes": 2620601
+      }
+    ],
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/microcatheter--piraeus-medical--87-neuglide-catheter--knowledge.md",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--piraeus-medical--87-neuglide-catheter/data_by_device/microcatheter--piraeus-medical--87-neuglide-catheter--knowledge.md",
+        "bytes": 4438
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/microcatheter--piraeus-medical--87-neuglide-catheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--piraeus-medical--87-neuglide-catheter/enriched/microcatheter--piraeus-medical--87-neuglide-catheter.json",
+        "bytes": 22549
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/microcatheter--piraeus-medical--87-neuglide-catheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--piraeus-medical--87-neuglide-catheter/extracted/fda_structured/microcatheter--piraeus-medical--87-neuglide-catheter.json",
+        "bytes": 708
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/QJP/K240971.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--piraeus-medical--87-neuglide-catheter/fda_raw/QJP/K240971.json",
+        "bytes": 576
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/microcatheter--piraeus-medical--87-neuglide-catheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--piraeus-medical--87-neuglide-catheter/merged/microcatheter--piraeus-medical--87-neuglide-catheter.json",
+        "bytes": 816
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

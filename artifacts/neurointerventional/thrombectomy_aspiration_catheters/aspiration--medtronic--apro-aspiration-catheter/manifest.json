@@ -1,0 +1,42 @@
+{
+  "device_slug": "aspiration--medtronic--apro-aspiration-catheter",
+  "artifact_folder": "aspiration--medtronic--apro-aspiration-catheter",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 6721,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/aspiration--medtronic--apro-aspiration-catheter--knowledge.md",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--medtronic--apro-aspiration-catheter/data_by_device/aspiration--medtronic--apro-aspiration-catheter--knowledge.md",
+        "bytes": 2318
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/aspiration--medtronic--apro-aspiration-catheter.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--medtronic--apro-aspiration-catheter/enriched/aspiration--medtronic--apro-aspiration-catheter.json",
+        "bytes": 1966
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/aspiration--medtronic--apro-aspiration-catheter.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--medtronic--apro-aspiration-catheter/merged/aspiration--medtronic--apro-aspiration-catheter.json",
+        "bytes": 1360
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/medtronic/apro-aspiration-catheter.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--medtronic--apro-aspiration-catheter/scraper_raw/medtronic/apro-aspiration-catheter.json",
+        "bytes": 1077
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "thrombectomy_aspiration_catheters",
+    "label": "Aspiration Catheters"
+  }
+}

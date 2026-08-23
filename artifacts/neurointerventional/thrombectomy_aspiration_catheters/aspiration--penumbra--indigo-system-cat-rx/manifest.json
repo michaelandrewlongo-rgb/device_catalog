@@ -1,0 +1,35 @@
+{
+  "device_slug": "aspiration--penumbra--indigo-system-cat-rx",
+  "artifact_folder": "aspiration--penumbra--indigo-system-cat-rx",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 9548,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/aspiration--penumbra--indigo-system-cat-rx.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--indigo-system-cat-rx/enriched/aspiration--penumbra--indigo-system-cat-rx.json",
+        "bytes": 3666
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/aspiration--penumbra--indigo-system-cat-rx.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--indigo-system-cat-rx/merged/aspiration--penumbra--indigo-system-cat-rx.json",
+        "bytes": 3097
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/penumbra/indigo-system-cat-rx.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--penumbra--indigo-system-cat-rx/scraper_raw/penumbra/indigo-system-cat-rx.json",
+        "bytes": 2785
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "thrombectomy_aspiration_catheters",
+    "label": "Aspiration Catheters"
+  }
+}

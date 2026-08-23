@@ -1,0 +1,49 @@
+{
+  "device_slug": "microcatheter--stryker--excelsior-xt-27",
+  "artifact_folder": "microcatheter--stryker--excelsior-xt-27",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 6560,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/microcatheter--stryker--excelsior-xt-27--knowledge.md",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--excelsior-xt-27/data_by_device/microcatheter--stryker--excelsior-xt-27--knowledge.md",
+        "bytes": 1890
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/microcatheter--stryker--excelsior-xt-27.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--excelsior-xt-27/enriched/microcatheter--stryker--excelsior-xt-27.json",
+        "bytes": 1937
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/microcatheter--stryker--excelsior-xt-27.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--excelsior-xt-27/extracted/fda_structured/microcatheter--stryker--excelsior-xt-27.json",
+        "bytes": 560
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/microcatheter--stryker--excelsior-xt-27.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--excelsior-xt-27/merged/microcatheter--stryker--excelsior-xt-27.json",
+        "bytes": 1136
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/stryker/excelsior-xt-27.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--excelsior-xt-27/scraper_raw/stryker/excelsior-xt-27.json",
+        "bytes": 1037
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

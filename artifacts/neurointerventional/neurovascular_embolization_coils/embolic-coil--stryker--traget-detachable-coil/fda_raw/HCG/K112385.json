@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K112385",
+  "clearance_date": "2011-09-15",
+  "device_class": 2,
+  "manufacturer_canonical": "stryker",
+  "manufacturer_raw": "Stryker Neurovascular",
+  "catalog_category": "embolic-coil",
+  "device_name_fda": "TRAGET DETACHABLE COIL",
+  "product_code": "HCG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "embolic-coil--stryker--traget-detachable-coil",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf11/K112385.pdf"
+}

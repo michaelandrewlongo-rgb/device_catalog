@@ -1,0 +1,42 @@
+{
+  "device_slug": "thrombectomy--stryker--trevo-xp",
+  "artifact_folder": "thrombectomy--stryker--trevo-xp",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 9010,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/thrombectomy--stryker--trevo-xp--knowledge.md",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--trevo-xp/data_by_device/thrombectomy--stryker--trevo-xp--knowledge.md",
+        "bytes": 3548
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/thrombectomy--stryker--trevo-xp.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--trevo-xp/enriched/thrombectomy--stryker--trevo-xp.json",
+        "bytes": 2949
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/thrombectomy--stryker--trevo-xp.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--trevo-xp/merged/thrombectomy--stryker--trevo-xp.json",
+        "bytes": 1315
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/stryker/trevo-xp.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--trevo-xp/scraper_raw/stryker/trevo-xp.json",
+        "bytes": 1198
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "stent_retrievers",
+    "label": "Stent Retrievers"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "device_slug": "thrombectomy--phenox--preset-thrombectomy",
+  "artifact_folder": "thrombectomy--phenox--preset-thrombectomy",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 726587,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/thrombectomy/parsed/fda_summaries/thrombectomy--phenox--preset-thrombectomy--510k.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--phenox--preset-thrombectomy/510k/thrombectomy/parsed/fda_summaries/thrombectomy--phenox--preset-thrombectomy--510k.json",
+        "bytes": 92935
+      },
+      {
+        "source": "pipeline/data/510k/thrombectomy/pdfs/thrombectomy--phenox--preset-thrombectomy--510k.pdf",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--phenox--preset-thrombectomy/510k/thrombectomy/pdfs/thrombectomy--phenox--preset-thrombectomy--510k.pdf",
+        "bytes": 584639
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/thrombectomy--phenox--preset-thrombectomy.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--phenox--preset-thrombectomy/enriched/thrombectomy--phenox--preset-thrombectomy.json",
+        "bytes": 47651
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/POL/K222848.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--phenox--preset-thrombectomy/fda_raw/POL/K222848.json",
+        "bytes": 555
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/thrombectomy--phenox--preset-thrombectomy.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--phenox--preset-thrombectomy/merged/thrombectomy--phenox--preset-thrombectomy.json",
+        "bytes": 807
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "stent_retrievers",
+    "label": "Stent Retrievers"
+  }
+}

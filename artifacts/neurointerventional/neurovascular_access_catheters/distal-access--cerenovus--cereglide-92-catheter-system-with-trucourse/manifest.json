@@ -1,0 +1,42 @@
+{
+  "device_slug": "distal-access--cerenovus--cereglide-92-catheter-system-with-trucourse",
+  "artifact_folder": "distal-access--cerenovus--cereglide-92-catheter-system-with-trucourse",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 9517,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/distal-access--cerenovus--cereglide-92-catheter-system-with-trucourse--knowledge.md",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--cerenovus--cereglide-92-catheter-system-with-trucourse/data_by_device/distal-access--cerenovus--cereglide-92-catheter-system-with-trucourse--knowledge.md",
+        "bytes": 3083
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/distal-access--cerenovus--cereglide-92-catheter-system-with-trucourse.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--cerenovus--cereglide-92-catheter-system-with-trucourse/enriched/distal-access--cerenovus--cereglide-92-catheter-system-with-trucourse.json",
+        "bytes": 2675
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/distal-access--cerenovus--cereglide-92-catheter-system-with-trucourse.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--cerenovus--cereglide-92-catheter-system-with-trucourse/merged/distal-access--cerenovus--cereglide-92-catheter-system-with-trucourse.json",
+        "bytes": 2064
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/cerenovus/cereglide-92-catheter-system-with-trucourse.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--cerenovus--cereglide-92-catheter-system-with-trucourse/scraper_raw/cerenovus/cereglide-92-catheter-system-with-trucourse.json",
+        "bytes": 1695
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_access_catheters",
+    "label": "Access, Guide, Delivery Catheters"
+  }
+}

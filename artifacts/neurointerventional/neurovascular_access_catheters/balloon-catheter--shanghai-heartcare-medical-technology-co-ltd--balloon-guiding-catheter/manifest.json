@@ -1,0 +1,47 @@
+{
+  "device_slug": "balloon-catheter--shanghai-heartcare-medical-technology-co-ltd--balloon-guiding-catheter",
+  "artifact_folder": "balloon-catheter--shanghai-heartcare-medical-technology-co-ltd--balloon-guiding-catheter",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 739083,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/balloon-catheter/parsed/fda_summaries/balloon-catheter--shanghai-heartcare-medical-technology-co-ltd--balloon-guiding-catheter--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/balloon-catheter--shanghai-heartcare-medical-technology-co-ltd--balloon-guiding-catheter/510k/balloon-catheter/parsed/fda_summaries/balloon-catheter--shanghai-heartcare-medical-technology-co-ltd--balloon-guiding-catheter--510k.json",
+        "bytes": 79590
+      },
+      {
+        "source": "pipeline/data/510k/balloon-catheter/pdfs/balloon-catheter--shanghai-heartcare-medical-technology-co-ltd--balloon-guiding-catheter--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/balloon-catheter--shanghai-heartcare-medical-technology-co-ltd--balloon-guiding-catheter/510k/balloon-catheter/pdfs/balloon-catheter--shanghai-heartcare-medical-technology-co-ltd--balloon-guiding-catheter--510k.pdf",
+        "bytes": 605899
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/balloon-catheter--shanghai-heartcare-medical-technology-co-ltd--balloon-guiding-catheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/balloon-catheter--shanghai-heartcare-medical-technology-co-ltd--balloon-guiding-catheter/enriched/balloon-catheter--shanghai-heartcare-medical-technology-co-ltd--balloon-guiding-catheter.json",
+        "bytes": 52022
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/QJP/K202916.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/balloon-catheter--shanghai-heartcare-medical-technology-co-ltd--balloon-guiding-catheter/fda_raw/QJP/K202916.json",
+        "bytes": 680
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/balloon-catheter--shanghai-heartcare-medical-technology-co-ltd--balloon-guiding-catheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/balloon-catheter--shanghai-heartcare-medical-technology-co-ltd--balloon-guiding-catheter/merged/balloon-catheter--shanghai-heartcare-medical-technology-co-ltd--balloon-guiding-catheter.json",
+        "bytes": 892
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_access_catheters",
+    "label": "Access, Guide, Delivery Catheters"
+  }
+}

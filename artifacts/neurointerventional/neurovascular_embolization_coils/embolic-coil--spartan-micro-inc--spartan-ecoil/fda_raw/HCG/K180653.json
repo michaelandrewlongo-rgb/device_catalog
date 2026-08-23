@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K180653",
+  "clearance_date": "2018-12-04",
+  "device_class": 2,
+  "manufacturer_canonical": "spartan-micro-inc",
+  "manufacturer_raw": "Spartan Micro, Inc.",
+  "catalog_category": "embolic-coil",
+  "device_name_fda": "Spartan eCoil System",
+  "product_code": "HCG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "embolic-coil--spartan-micro-inc--spartan-ecoil",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf18/K180653.pdf"
+}

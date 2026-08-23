@@ -1,0 +1,47 @@
+{
+  "device_slug": "microcatheter--vesalio-inc--v-dac-catheter",
+  "artifact_folder": "microcatheter--vesalio-inc--v-dac-catheter",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 2781388,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/microcatheter/parsed/fda_summaries/microcatheter--vesalio-inc--v-dac-catheter--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--vesalio-inc--v-dac-catheter/510k/microcatheter/parsed/fda_summaries/microcatheter--vesalio-inc--v-dac-catheter--510k.json",
+        "bytes": 65264
+      },
+      {
+        "source": "pipeline/data/510k/microcatheter/pdfs/microcatheter--vesalio-inc--v-dac-catheter--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--vesalio-inc--v-dac-catheter/510k/microcatheter/pdfs/microcatheter--vesalio-inc--v-dac-catheter--510k.pdf",
+        "bytes": 2670925
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/microcatheter--vesalio-inc--v-dac-catheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--vesalio-inc--v-dac-catheter/enriched/microcatheter--vesalio-inc--v-dac-catheter.json",
+        "bytes": 43855
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/QJP/K251097.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--vesalio-inc--v-dac-catheter/fda_raw/QJP/K251097.json",
+        "bytes": 554
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/microcatheter--vesalio-inc--v-dac-catheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--vesalio-inc--v-dac-catheter/merged/microcatheter--vesalio-inc--v-dac-catheter.json",
+        "bytes": 790
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

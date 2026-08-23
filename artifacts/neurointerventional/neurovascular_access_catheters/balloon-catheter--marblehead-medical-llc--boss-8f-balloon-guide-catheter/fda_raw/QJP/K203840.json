@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K203840",
+  "clearance_date": "2021-01-28",
+  "device_class": 2,
+  "manufacturer_canonical": "marblehead-medical-llc",
+  "manufacturer_raw": "Marblehead Medical, LLC",
+  "catalog_category": "balloon-catheter",
+  "device_name_fda": "BOSS 8F Balloon Guide Catheter",
+  "product_code": "QJP",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "balloon-catheter--marblehead-medical-llc--boss-8f-balloon-guide-catheter",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K203840.pdf"
+}

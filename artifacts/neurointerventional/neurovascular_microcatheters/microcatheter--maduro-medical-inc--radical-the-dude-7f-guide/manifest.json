@@ -1,0 +1,47 @@
+{
+  "device_slug": "microcatheter--maduro-medical-inc--radical-the-dude-7f-guide",
+  "artifact_folder": "microcatheter--maduro-medical-inc--radical-the-dude-7f-guide",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 2789994,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/microcatheter/parsed/fda_summaries/microcatheter--maduro-medical-inc--radical-the-dude-7f-guide--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--maduro-medical-inc--radical-the-dude-7f-guide/510k/microcatheter/parsed/fda_summaries/microcatheter--maduro-medical-inc--radical-the-dude-7f-guide--510k.json",
+        "bytes": 53742
+      },
+      {
+        "source": "pipeline/data/510k/microcatheter/pdfs/microcatheter--maduro-medical-inc--radical-the-dude-7f-guide--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--maduro-medical-inc--radical-the-dude-7f-guide/510k/microcatheter/pdfs/microcatheter--maduro-medical-inc--radical-the-dude-7f-guide--510k.pdf",
+        "bytes": 2698668
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/microcatheter--maduro-medical-inc--radical-the-dude-7f-guide.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--maduro-medical-inc--radical-the-dude-7f-guide/enriched/microcatheter--maduro-medical-inc--radical-the-dude-7f-guide.json",
+        "bytes": 36123
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/QJP/K231393.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--maduro-medical-inc--radical-the-dude-7f-guide/fda_raw/QJP/K231393.json",
+        "bytes": 606
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/microcatheter--maduro-medical-inc--radical-the-dude-7f-guide.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--maduro-medical-inc--radical-the-dude-7f-guide/merged/microcatheter--maduro-medical-inc--radical-the-dude-7f-guide.json",
+        "bytes": 855
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

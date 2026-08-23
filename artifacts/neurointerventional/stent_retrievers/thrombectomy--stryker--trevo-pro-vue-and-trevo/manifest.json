@@ -1,0 +1,21 @@
+{
+  "device_slug": "thrombectomy--stryker--trevo-pro-vue-and-trevo",
+  "artifact_folder": "thrombectomy--stryker--trevo-pro-vue-and-trevo",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 616,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/POL/K173352.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--trevo-pro-vue-and-trevo/fda_raw/POL/K173352.json",
+        "bytes": 616
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "stent_retrievers",
+    "label": "Stent Retrievers"
+  }
+}

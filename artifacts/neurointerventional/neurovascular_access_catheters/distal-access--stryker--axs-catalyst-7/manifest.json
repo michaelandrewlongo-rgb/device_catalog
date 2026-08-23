@@ -1,0 +1,49 @@
+{
+  "device_slug": "distal-access--stryker--axs-catalyst-7",
+  "artifact_folder": "distal-access--stryker--axs-catalyst-7",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 5225,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/distal-access--stryker--axs-catalyst-7--knowledge.md",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--stryker--axs-catalyst-7/data_by_device/distal-access--stryker--axs-catalyst-7--knowledge.md",
+        "bytes": 1491
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/distal-access--stryker--axs-catalyst-7.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--stryker--axs-catalyst-7/enriched/distal-access--stryker--axs-catalyst-7.json",
+        "bytes": 1634
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/distal-access--stryker--axs-catalyst-7.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--stryker--axs-catalyst-7/extracted/fda_structured/distal-access--stryker--axs-catalyst-7.json",
+        "bytes": 558
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/distal-access--stryker--axs-catalyst-7.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--stryker--axs-catalyst-7/merged/distal-access--stryker--axs-catalyst-7.json",
+        "bytes": 832
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/stryker/axs-catalyst-7.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--stryker--axs-catalyst-7/scraper_raw/stryker/axs-catalyst-7.json",
+        "bytes": 710
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_access_catheters",
+    "label": "Access, Guide, Delivery Catheters"
+  }
+}

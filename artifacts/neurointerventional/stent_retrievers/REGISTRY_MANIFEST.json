@@ -1,0 +1,615 @@
+{
+  "domain": "neurointerventional",
+  "registry": "stent_retrievers",
+  "label": "Stent Retrievers",
+  "path": "artifacts/neurointerventional/stent_retrievers",
+  "devices": [
+    {
+      "slug": "stent-retriever--microvention--eric",
+      "artifact_folder": "stent-retriever--microvention--eric",
+      "path": "artifacts/neurointerventional/stent_retrievers/stent-retriever--microvention--eric",
+      "file_count": 1,
+      "source_counts": {
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "stent-retriever--microvention--erictm",
+      "artifact_folder": "stent-retriever--microvention--erictm",
+      "path": "artifacts/neurointerventional/stent_retrievers/stent-retriever--microvention--erictm",
+      "file_count": 2,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--cerenovus--embotrap-ii-revascularization-embotrap-iii",
+      "artifact_folder": "thrombectomy--cerenovus--embotrap-ii-revascularization-embotrap-iii",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--cerenovus--embotrap-ii-revascularization-embotrap-iii",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--cerenovus--embotrap-iii",
+      "artifact_folder": "thrombectomy--cerenovus--embotrap-iii",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--cerenovus--embotrap-iii",
+      "file_count": 1,
+      "source_counts": {
+        "data_by_device": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--cerenovus--embotrap-iii-revascularization",
+      "artifact_folder": "thrombectomy--cerenovus--embotrap-iii-revascularization",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--cerenovus--embotrap-iii-revascularization",
+      "file_count": 7,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 3,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--cerenovus--embotrap-iii-revascularization-device",
+      "artifact_folder": "thrombectomy--cerenovus--embotrap-iii-revascularization-device",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--cerenovus--embotrap-iii-revascularization-device",
+      "file_count": 4,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--cerenovus--embotrap-ll-revascularization",
+      "artifact_folder": "thrombectomy--cerenovus--embotrap-ll-revascularization",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--cerenovus--embotrap-ll-revascularization",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--medtronic--mindframe-capture-lp-revascularization",
+      "artifact_folder": "thrombectomy--medtronic--mindframe-capture-lp-revascularization",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--mindframe-capture-lp-revascularization",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--medtronic--solitaire-2-and-solitaire-platinum",
+      "artifact_folder": "thrombectomy--medtronic--solitaire-2-and-solitaire-platinum",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--solitaire-2-and-solitaire-platinum",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--medtronic--solitaire-2-revascularization",
+      "artifact_folder": "thrombectomy--medtronic--solitaire-2-revascularization",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--solitaire-2-revascularization",
+      "file_count": 7,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 3,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--medtronic--solitaire-2-revascularization-solitaire-platinum",
+      "artifact_folder": "thrombectomy--medtronic--solitaire-2-revascularization-solitaire-platinum",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--solitaire-2-revascularization-solitaire-platinum",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--medtronic--solitaire-4-revascularization",
+      "artifact_folder": "thrombectomy--medtronic--solitaire-4-revascularization",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--solitaire-4-revascularization",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--medtronic--solitaire-fr-revascularization",
+      "artifact_folder": "thrombectomy--medtronic--solitaire-fr-revascularization",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--solitaire-fr-revascularization",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--medtronic--solitaire-platinum-revascularization",
+      "artifact_folder": "thrombectomy--medtronic--solitaire-platinum-revascularization",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--solitaire-platinum-revascularization",
+      "file_count": 7,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--medtronic--solitaire-platinum-revascularization-6x40-mm",
+      "artifact_folder": "thrombectomy--medtronic--solitaire-platinum-revascularization-6x40-mm",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--solitaire-platinum-revascularization-6x40-mm",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--medtronic--solitaire-platinum-revascularization-solitaire-x",
+      "artifact_folder": "thrombectomy--medtronic--solitaire-platinum-revascularization-solitaire-x",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--solitaire-platinum-revascularization-solitaire-x",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--medtronic--solitaire-x",
+      "artifact_folder": "thrombectomy--medtronic--solitaire-x",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--solitaire-x",
+      "file_count": 1,
+      "source_counts": {
+        "data_by_device": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--medtronic--solitaire-x-revascularization",
+      "artifact_folder": "thrombectomy--medtronic--solitaire-x-revascularization",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--solitaire-x-revascularization",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--medtronic--solitaire-x-revascularization-device",
+      "artifact_folder": "thrombectomy--medtronic--solitaire-x-revascularization-device",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--solitaire-x-revascularization-device",
+      "file_count": 4,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--medtronic--solitare-platinum-revascularization",
+      "artifact_folder": "thrombectomy--medtronic--solitare-platinum-revascularization",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--solitare-platinum-revascularization",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--microvention--eric-retrieval",
+      "artifact_folder": "thrombectomy--microvention--eric-retrieval",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--microvention--eric-retrieval",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--penumbra--neuro-thrombectomy-system",
+      "artifact_folder": "thrombectomy--penumbra--neuro-thrombectomy-system",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--penumbra--neuro-thrombectomy-system",
+      "file_count": 3,
+      "source_counts": {
+        "data_by_device": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--penumbra--penumbra-3d-revascularization",
+      "artifact_folder": "thrombectomy--penumbra--penumbra-3d-revascularization",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--penumbra--penumbra-3d-revascularization",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--phenox--preset-delta-thrombectomy-and-preset",
+      "artifact_folder": "thrombectomy--phenox--preset-delta-thrombectomy-and-preset",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--phenox--preset-delta-thrombectomy-and-preset",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--phenox--preset-lite-thrombectomy",
+      "artifact_folder": "thrombectomy--phenox--preset-lite-thrombectomy",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--phenox--preset-lite-thrombectomy",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--phenox--preset-thrombectomy",
+      "artifact_folder": "thrombectomy--phenox--preset-thrombectomy",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--phenox--preset-thrombectomy",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--rapid-medical--tigertriever-13-revascularization",
+      "artifact_folder": "thrombectomy--rapid-medical--tigertriever-13-revascularization",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--rapid-medical--tigertriever-13-revascularization",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--rapid-medical--tigertriever-17-ultra-revascularization",
+      "artifact_folder": "thrombectomy--rapid-medical--tigertriever-17-ultra-revascularization",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--rapid-medical--tigertriever-17-ultra-revascularization",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--rapid-medical--tigertriever-21-revascularization-tigertriever-17",
+      "artifact_folder": "thrombectomy--rapid-medical--tigertriever-21-revascularization-tigertriever-17",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--rapid-medical--tigertriever-21-revascularization-tigertriever-17",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--rapid-medical--tigertriever-25-revascularization",
+      "artifact_folder": "thrombectomy--rapid-medical--tigertriever-25-revascularization",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--rapid-medical--tigertriever-25-revascularization",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--rapid-medical--tigertriever-and-tigertriever-17-revascularization",
+      "artifact_folder": "thrombectomy--rapid-medical--tigertriever-and-tigertriever-17-revascularization",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--rapid-medical--tigertriever-and-tigertriever-17-revascularization",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--stryker--merci",
+      "artifact_folder": "thrombectomy--stryker--merci",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--merci",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--stryker--merci-models-90050-90060-90066",
+      "artifact_folder": "thrombectomy--stryker--merci-models-90050-90060-90066",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--merci-models-90050-90060-90066",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--stryker--merci-models-90065-90066",
+      "artifact_folder": "thrombectomy--stryker--merci-models-90065-90066",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--merci-models-90065-90066",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--stryker--modification-to-merci",
+      "artifact_folder": "thrombectomy--stryker--modification-to-merci",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--modification-to-merci",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--stryker--modification-to-merci-models-x5",
+      "artifact_folder": "thrombectomy--stryker--modification-to-merci-models-x5",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--modification-to-merci-models-x5",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--stryker--modified-merci-model-90050",
+      "artifact_folder": "thrombectomy--stryker--modified-merci-model-90050",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--modified-merci-model-90050",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--stryker--modified-merci-model-90060",
+      "artifact_folder": "thrombectomy--stryker--modified-merci-model-90060",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--modified-merci-model-90060",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--stryker--modified-merci-model-90092",
+      "artifact_folder": "thrombectomy--stryker--modified-merci-model-90092",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--modified-merci-model-90092",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--stryker--modified-mercy-model-90070",
+      "artifact_folder": "thrombectomy--stryker--modified-mercy-model-90070",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--modified-mercy-model-90070",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--stryker--modified-modified-line-extension-models",
+      "artifact_folder": "thrombectomy--stryker--modified-modified-line-extension-models",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--modified-modified-line-extension-models",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--stryker--modified-trevo",
+      "artifact_folder": "thrombectomy--stryker--modified-trevo",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--modified-trevo",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--stryker--modified-trevo-provue",
+      "artifact_folder": "thrombectomy--stryker--modified-trevo-provue",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--modified-trevo-provue",
+      "file_count": 7,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--stryker--modified-trevo-provue-trevo-xp",
+      "artifact_folder": "thrombectomy--stryker--modified-trevo-provue-trevo-xp",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--modified-trevo-provue-trevo-xp",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--stryker--trevo",
+      "artifact_folder": "thrombectomy--stryker--trevo",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--trevo",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--stryker--trevo-nxt",
+      "artifact_folder": "thrombectomy--stryker--trevo-nxt",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--trevo-nxt",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--stryker--trevo-nxt-provue",
+      "artifact_folder": "thrombectomy--stryker--trevo-nxt-provue",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--trevo-nxt-provue",
+      "file_count": 7,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 4,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--stryker--trevo-pro-vue-and-trevo",
+      "artifact_folder": "thrombectomy--stryker--trevo-pro-vue-and-trevo",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--trevo-pro-vue-and-trevo",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--stryker--trevo-xp",
+      "artifact_folder": "thrombectomy--stryker--trevo-xp",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--trevo-xp",
+      "file_count": 4,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--stryker--trevo-xp-provue",
+      "artifact_folder": "thrombectomy--stryker--trevo-xp-provue",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--trevo-xp-provue",
+      "file_count": 4,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--stryker--trevo-xp-provue-4x30mm",
+      "artifact_folder": "thrombectomy--stryker--trevo-xp-provue-4x30mm",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--trevo-xp-provue-4x30mm",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--stryker--trevo-xp-provue-6x25mm",
+      "artifact_folder": "thrombectomy--stryker--trevo-xp-provue-6x25mm",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--trevo-xp-provue-6x25mm",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "thrombectomy--stryker--trevo-xp-provue-and-trevo",
+      "artifact_folder": "thrombectomy--stryker--trevo-xp-provue-and-trevo",
+      "path": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--trevo-xp-provue-and-trevo",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    }
+  ],
+  "device_count": 53
+}

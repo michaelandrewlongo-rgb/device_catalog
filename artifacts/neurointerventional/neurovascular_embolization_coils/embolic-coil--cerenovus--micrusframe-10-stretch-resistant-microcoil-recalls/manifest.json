@@ -1,0 +1,21 @@
+{
+  "device_slug": "embolic-coil--cerenovus--micrusframe-10-stretch-resistant-microcoil-recalls",
+  "artifact_folder": "embolic-coil--cerenovus--micrusframe-10-stretch-resistant-microcoil-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 4398,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/embolic-coil--cerenovus--micrusframe-10-stretch-resistant-microcoil-recalls.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cerenovus--micrusframe-10-stretch-resistant-microcoil-recalls/extracted/fda_safety/embolic-coil--cerenovus--micrusframe-10-stretch-resistant-microcoil-recalls.json",
+        "bytes": 4398
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

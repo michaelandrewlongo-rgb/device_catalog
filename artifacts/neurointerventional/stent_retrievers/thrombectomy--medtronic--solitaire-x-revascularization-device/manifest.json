@@ -1,0 +1,42 @@
+{
+  "device_slug": "thrombectomy--medtronic--solitaire-x-revascularization-device",
+  "artifact_folder": "thrombectomy--medtronic--solitaire-x-revascularization-device",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 9086,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/thrombectomy--medtronic--solitaire-x-revascularization-device--knowledge.md",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--solitaire-x-revascularization-device/data_by_device/thrombectomy--medtronic--solitaire-x-revascularization-device--knowledge.md",
+        "bytes": 2722
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/thrombectomy--medtronic--solitaire-x-revascularization-device.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--solitaire-x-revascularization-device/enriched/thrombectomy--medtronic--solitaire-x-revascularization-device.json",
+        "bytes": 2907
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/thrombectomy--medtronic--solitaire-x-revascularization-device.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--solitaire-x-revascularization-device/merged/thrombectomy--medtronic--solitaire-x-revascularization-device.json",
+        "bytes": 1779
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/medtronic/solitaire-x-revascularization-device.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--solitaire-x-revascularization-device/scraper_raw/medtronic/solitaire-x-revascularization-device.json",
+        "bytes": 1678
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "stent_retrievers",
+    "label": "Stent Retrievers"
+  }
+}

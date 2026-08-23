@@ -1,0 +1,35 @@
+{
+  "device_slug": "microcatheter--balt--gama",
+  "artifact_folder": "microcatheter--balt--gama",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 4490,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/microcatheter--balt--gama.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--balt--gama/enriched/microcatheter--balt--gama.json",
+        "bytes": 1977
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/microcatheter--balt--gama.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--balt--gama/merged/microcatheter--balt--gama.json",
+        "bytes": 1395
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/balt/gama.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--balt--gama/scraper_raw/balt/gama.json",
+        "bytes": 1118
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

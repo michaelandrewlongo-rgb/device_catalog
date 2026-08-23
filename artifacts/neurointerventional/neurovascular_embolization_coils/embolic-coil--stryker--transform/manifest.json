@@ -1,0 +1,42 @@
+{
+  "device_slug": "embolic-coil--stryker--transform",
+  "artifact_folder": "embolic-coil--stryker--transform",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3812,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--stryker--transform.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--transform/enriched/embolic-coil--stryker--transform.json",
+        "bytes": 1618
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/embolic-coil--stryker--transform.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--transform/extracted/fda_structured/embolic-coil--stryker--transform.json",
+        "bytes": 593
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--stryker--transform.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--transform/merged/embolic-coil--stryker--transform.json",
+        "bytes": 849
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/stryker/transform.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--transform/scraper_raw/stryker/transform.json",
+        "bytes": 752
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

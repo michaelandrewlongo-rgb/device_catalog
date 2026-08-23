@@ -1,0 +1,35 @@
+{
+  "device_slug": "embolic-coil--medtronic--sapphire-detachable-coil",
+  "artifact_folder": "embolic-coil--medtronic--sapphire-detachable-coil",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2818,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--medtronic--sapphire-detachable-coil.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--medtronic--sapphire-detachable-coil/enriched/embolic-coil--medtronic--sapphire-detachable-coil.json",
+        "bytes": 1409
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K030392.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--medtronic--sapphire-detachable-coil/fda_raw/HCG/K030392.json",
+        "bytes": 581
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--medtronic--sapphire-detachable-coil.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--medtronic--sapphire-detachable-coil/merged/embolic-coil--medtronic--sapphire-detachable-coil.json",
+        "bytes": 828
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

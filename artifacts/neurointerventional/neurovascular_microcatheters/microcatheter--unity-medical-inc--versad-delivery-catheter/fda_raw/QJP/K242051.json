@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K242051",
+  "clearance_date": "2025-01-17",
+  "device_class": 2,
+  "manufacturer_canonical": "unity-medical-inc",
+  "manufacturer_raw": "Unity Medical, Inc.",
+  "catalog_category": "microcatheter",
+  "device_name_fda": "VersaD Delivery Catheter",
+  "product_code": "QJP",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "microcatheter--unity-medical-inc--versad-delivery-catheter",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K242051.pdf"
+}

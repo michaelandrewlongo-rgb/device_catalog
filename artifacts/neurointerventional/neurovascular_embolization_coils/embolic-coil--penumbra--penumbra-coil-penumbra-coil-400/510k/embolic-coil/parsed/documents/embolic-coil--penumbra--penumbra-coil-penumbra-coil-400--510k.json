@@ -1,0 +1,21 @@
+{
+  "source_pdf": "embolic-coil--penumbra--penumbra-coil-penumbra-coil-400--510k.pdf",
+  "device_name": "penumbra-coil-penumbra-coil-400",
+  "manufacturer": "penumbra",
+  "doc_type": "510k",
+  "extraction_method": "pdf_deepseek",
+  "fields": {
+    "what_it_is": "The Penumbra Coil System consists of the following components, which are sold separately: Standard Complex Coils attached to detachment pusher, Soft Complex Coils attached to detachment pusher, J Soft Coils attached to detachment pusher, Curve Extra Soft Coils attached to detachment pusher, Curve Complex Extra Soft Coils attached to detachment pusher, Detachment Handle. The coils are primarily manufactured from platinum wire and Nitinol wire. The coils are attached to a stainless steel / polymer detachment pusher. The coils are available in varying secondary diameters and shapes based on coil type. The Penumbra Coils are sterile, non-pyrogenic and intended for single use only. The Penumbra Detachment Handle is sterile, non-pyrogenic and may be used to detach multiple coils within a single patient procedure.",
+    "sizing_specs": null,
+    "indications": "The Penumbra Coil System is intended for the embolization of: Intracranial aneurysms, Other neurovascular abnormalities such as arteriovenous malformations and arteriovenous fistulae, Arterial and venous embolizations in the peripheral vasculature.",
+    "contraindications": null,
+    "compatible_with": null,
+    "use_notes": null,
+    "also_known_as": "Penumbra Coil System/Penumbra Coil 400TM"
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "indications": 0.7,
+    "also_known_as": 0.7
+  }
+}

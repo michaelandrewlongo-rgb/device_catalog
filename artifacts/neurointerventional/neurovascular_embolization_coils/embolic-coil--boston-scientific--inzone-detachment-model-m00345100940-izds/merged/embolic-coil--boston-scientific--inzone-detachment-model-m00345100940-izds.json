@@ -1,0 +1,28 @@
+{
+  "device_name": "INZONE DETACHMENT SYSTEM, MODEL M00345100940, IZDS CONNECTING CABLE, MODEL M00345100250",
+  "manufacturer": "boston-scientific",
+  "catalog_category": "embolic-coil",
+  "filename_stem": "embolic-coil--boston-scientific--inzone-detachment-model-m00345100940-izds",
+  "clearance_type": "510k",
+  "clearance_number": "K092666",
+  "clearance_date": "2009-09-30",
+  "device_class": 2,
+  "device_name_fda": "INZONE DETACHMENT SYSTEM, MODEL M00345100940, IZDS CONNECTING CABLE, MODEL M00345100250",
+  "product_code": "HCG",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf09/K092666.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

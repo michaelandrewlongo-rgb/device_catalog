@@ -1,0 +1,35 @@
+{
+  "device_slug": "embolic-coil--medtronic--nexus-detachable-coil-multi-diameter",
+  "artifact_folder": "embolic-coil--medtronic--nexus-detachable-coil-multi-diameter",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3029,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--medtronic--nexus-detachable-coil-multi-diameter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--medtronic--nexus-detachable-coil-multi-diameter/enriched/embolic-coil--medtronic--nexus-detachable-coil-multi-diameter.json",
+        "bytes": 1491
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K051560.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--medtronic--nexus-detachable-coil-multi-diameter/fda_raw/HCG/K051560.json",
+        "bytes": 628
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--medtronic--nexus-detachable-coil-multi-diameter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--medtronic--nexus-detachable-coil-multi-diameter/merged/embolic-coil--medtronic--nexus-detachable-coil-multi-diameter.json",
+        "bytes": 910
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "device_name": "APRO Aspiration Catheter",
+  "manufacturer": "medtronic",
+  "category_hint": "aspiration",
+  "what_it_is": "Flexible aspiration catheter with stainless-steel and coil plus braid reinforcements designed to remove thrombus. Available in APRO 55 and APRO 70 sizes. Includes Alembic aspiration tubing accessory.",
+  "sizing_specs": "Models: APRO 55, APRO 70; Alembic aspiration tubing: proximal length 100 inch, distal length 7 inch, proximal/distal ID 0.110 inch",
+  "indications": "Aspiration thrombectomy for removal of thrombus from cerebral vasculature.",
+  "compatible_with": "Phenom microcatheters, Solitaire X revascularization device, Alembic aspiration tubing",
+  "use_notes": null,
+  "also_known_as": [
+    "APRO 55",
+    "APRO 70"
+  ],
+  "source_url": "https://www.medtronic.com/en-us/healthcare-professionals/products/neurological/neurovascular/aspiration/apro-70-aspiration-catheter.html",
+  "ifu_pdf_url": null,
+  "other_pdf_urls": {
+    "brochure": "APRO Catheters Brochure",
+    "catalog": "APRO Specifications Catalog"
+  }
+}

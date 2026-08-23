@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K202522",
+  "clearance_date": "2020-09-25",
+  "device_class": 2,
+  "manufacturer_canonical": "stryker",
+  "manufacturer_raw": "Stryker Neurovascular",
+  "catalog_category": "guidewire",
+  "device_name_fda": "Synchro SELECT Guidewire",
+  "product_code": "MOF",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "guidewire--stryker--synchro-select-guidewire",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K202522.pdf"
+}

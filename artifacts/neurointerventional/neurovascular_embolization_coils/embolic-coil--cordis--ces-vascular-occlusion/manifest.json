@@ -1,0 +1,40 @@
+{
+  "device_slug": "embolic-coil--cordis--ces-vascular-occlusion",
+  "artifact_folder": "embolic-coil--cordis--ces-vascular-occlusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3359,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--cordis--ces-vascular-occlusion.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cordis--ces-vascular-occlusion/enriched/embolic-coil--cordis--ces-vascular-occlusion.json",
+        "bytes": 1397
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K964367.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cordis--ces-vascular-occlusion/fda_raw/HCG/K964367.json",
+        "bytes": 573
+      },
+      {
+        "source": "pipeline/data/fda_raw/HCG/K972881.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cordis--ces-vascular-occlusion/fda_raw/HCG/K972881.json",
+        "bytes": 573
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--cordis--ces-vascular-occlusion.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cordis--ces-vascular-occlusion/merged/embolic-coil--cordis--ces-vascular-occlusion.json",
+        "bytes": 816
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

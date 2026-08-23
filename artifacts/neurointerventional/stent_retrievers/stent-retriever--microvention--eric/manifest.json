@@ -1,0 +1,21 @@
+{
+  "device_slug": "stent-retriever--microvention--eric",
+  "artifact_folder": "stent-retriever--microvention--eric",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 455,
+  "sources": {
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/microvention/erictm.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/stent-retriever--microvention--eric/scraper_raw/microvention/erictm.json",
+        "bytes": 455
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "stent_retrievers",
+    "label": "Stent Retrievers"
+  }
+}

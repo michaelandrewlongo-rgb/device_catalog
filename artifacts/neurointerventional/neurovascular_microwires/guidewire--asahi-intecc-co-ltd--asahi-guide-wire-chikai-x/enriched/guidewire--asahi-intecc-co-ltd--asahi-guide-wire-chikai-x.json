@@ -1,0 +1,73 @@
+{
+  "device_name": "ASAHI Neurovascular Guide Wire CHIKAI X 014 soft",
+  "manufacturer": "asahi-intecc-co-ltd",
+  "catalog_category": "guidewire",
+  "filename_stem": "guidewire--asahi-intecc-co-ltd--asahi-guide-wire-chikai-x",
+  "clearance_type": "510k",
+  "clearance_number": "K191714",
+  "clearance_date": "2019-07-26",
+  "device_class": 2,
+  "device_name_fda": "ASAHI Neurovascular Guide Wire CHIKAI X 014 soft",
+  "product_code": "MOF",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": "Indications for Use See PRA Statement below.\n510(k) Number (if known)\nK191714\nDevice Name\nASAHI Neurovascular Guide Wire (CHIKAI X 014 soft)\nIndications for Use (Describe)\nThis guide wire is intended to be used in the neuro vasculature to facilitate the placement and exchange of therapeutic\ndevices such as cerebral catheters during intravascular therapy. This guide wire is intended for use only in the neuro\nvasculature.\nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)\nCONTINUE ON A SEPARATE PAGE IF NEEDED.\nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the\ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any other aspect\nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of\ninformation unless it displays a currently valid OMB number.”\nFORM FDA 3881 (7/17) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF\n\n510(K) Summary\n[as required by 21CFR § 807.92(c)]\nGlobal Headquarters and R&D Center\n3-100 Akatsuki-cho, Seto-shi, Aichi 489-0071 Japan\nTEL: +81-561-48-5551 FAX: +81-561-48-5552\nhttp://www.asahi-intecc.co.jp/\nASAHI Neurovascular Guide Wire CHIKAI X 014 soft\nDATE PREPARED: 27JUN2019\nAPPLICANT: ASAHI INTECC CO., LTD\n3-100 Akatsuki-cho, Seto\nAichi 489-0071, Japan\nPRIMARY CONTACT: Mrs. Cynthia Valenzuela\nDirector, Regulatory Affairs\nASAHI INTECC USA, INC.\n3002 Dow Avenue, Suite 212\nTustin, California 92780\nPhone: (714) 442 0575\nFax: (949) 377 3255\nCell Phone: (949) 413 0071\nEmail: cynthiav@asahi-intecc-us.com\nALTERNATE CONTACT: Mr. Yoshi Terai\nPresident, CEO\nASAHI INTECC USA, INC.\nTustin, CA 92780 USA\nPhone: (949) 756 8901\nFax: (949) 377 3255\nEmail: yoshi@asahi-intec-us.com\nTRADE NAME: ASAHI Neurovascular Guide Wire (CHIKAI X\n014 soft)\nDEVICE CLASSIFICATION: Class II, 21CFR § 870.1330\nCLASSIFICATION NAME: Wire, Guide, Catheter, Neurovascular\nPRODUCT CODE: MOF – Catheter Guide Wire",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [
+    "K110584",
+    "K141751",
+    "K110584",
+    "K141751",
+    "K191714",
+    "K110584",
+    "K110584",
+    "K141751",
+    "K191714",
+    "K110584",
+    "K191714",
+    "K110584",
+    "K191714",
+    "K191714"
+  ],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf19/K191714.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "none",
+      "confidence": 0
+    },
+    "sizing_specs": {
+      "source": "none",
+      "confidence": 0
+    },
+    "indications": {
+      "source": "fda_summary",
+      "confidence": 0.95
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "none",
+      "confidence": 0
+    },
+    "also_known_as": {
+      "source": "fda_summary",
+      "confidence": 0.3
+    }
+  }
+}

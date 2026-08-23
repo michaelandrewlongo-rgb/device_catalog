@@ -1,0 +1,23 @@
+{
+  "source_pdf": "microcatheter--medtronic--echelon--safety-warnings.pdf",
+  "device_name": "echelon",
+  "manufacturer": "medtronic",
+  "doc_type": "safety-warnings",
+  "extraction_method": "pdf_deepseek",
+  "fields": {
+    "what_it_is": "micro catheter intended to access peripheral and neuro vasculature for the controlled selective infusion of physician-specified therapeutic agents such as embolization materials and of diagnostic materials such as contrast media, with a lubricious hydrophilic coating on the outside of the catheter",
+    "sizing_specs": null,
+    "indications": "access peripheral and neuro vasculature for the controlled selective infusion of physician-specified therapeutic agents such as embolization materials and of diagnostic materials such as contrast media",
+    "contraindications": "Not intended for use in the coronary vasculature. Contraindicated when, in the medical judgment of the physician, such a procedure may compromise the patient's condition. Contraindicated for neonatal and pediatric use.",
+    "compatible_with": null,
+    "use_notes": "Ensure embolic material compatibility with catheter prior to use. Prior to use, carefully examine the micro catheter and packaging to verify that they have not been damaged during shipment. Prior to use, all accessory devices and agents should be fully prepared according to the manufacturer's instructions. Always monitor infusion rates when using the micro catheter. When injecting contrast for angiography, ensure that the micro catheter is not kinked or occluded. The micro catheter has a lubricious hydrophilic coating on the outside of the catheter. It must be kept hydrated in order to be lubricious. This can be accomplished by attaching the Y-connector to a continuous saline drip. When the infusion catheter is in the body, it should be manipulated only under fluoroscopy. Do not attempt to move the micro catheter without observing the resultant tip response. Because the micro catheter may be easily advanced into narrow, selective vasculature, repeatedly verify (for example by slightly withdrawing the catheter) that the micro catheter has not been advanced so far as to interfere with its removal. Infusion pressure with this device should not exceed 600 psi (4137 kPa). Pressures in excess of 600 PSI (4137 kPa) may result in catheter rupture, which may result in patient injury. If flow through the micro catheter becomes restricted, do not attempt to clear the device by high pressure infusion. Either remove the micro catheter to determine the cause of the obstruction or replace it with a new micro catheter. Excessive pressure may cause catheter rupture, which may result in patient injury. Never advance or withdraw an intraluminal device against resistance until the cause of the resistance is determined by fluoroscopy. Excessive force against resistance may result in damage to the device or vessel perforation or other patient injuries. This device is supplied sterile for single use only. Do not reprocess or re-sterilize. Reprocessing and re-sterilization increase the risks of patient infection and compromised device performance.",
+    "also_known_as": "Echelon™ micro catheter"
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "indications": 0.7,
+    "contraindications": 0.7,
+    "use_notes": 0.7,
+    "also_known_as": 0.7
+  }
+}

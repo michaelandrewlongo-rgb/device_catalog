@@ -1,0 +1,47 @@
+{
+  "device_slug": "aspiration--imperative-care-inc--zoom-zoom-4s-catheter",
+  "artifact_folder": "aspiration--imperative-care-inc--zoom-zoom-4s-catheter",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 2870076,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/aspiration/parsed/fda_summaries/aspiration--imperative-care-inc--zoom-zoom-4s-catheter--510k.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--imperative-care-inc--zoom-zoom-4s-catheter/510k/aspiration/parsed/fda_summaries/aspiration--imperative-care-inc--zoom-zoom-4s-catheter--510k.json",
+        "bytes": 74984
+      },
+      {
+        "source": "pipeline/data/510k/aspiration/pdfs/aspiration--imperative-care-inc--zoom-zoom-4s-catheter--510k.pdf",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--imperative-care-inc--zoom-zoom-4s-catheter/510k/aspiration/pdfs/aspiration--imperative-care-inc--zoom-zoom-4s-catheter--510k.pdf",
+        "bytes": 2755328
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/aspiration--imperative-care-inc--zoom-zoom-4s-catheter.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--imperative-care-inc--zoom-zoom-4s-catheter/enriched/aspiration--imperative-care-inc--zoom-zoom-4s-catheter.json",
+        "bytes": 38330
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NRY/K252046.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--imperative-care-inc--zoom-zoom-4s-catheter/fda_raw/NRY/K252046.json",
+        "bytes": 595
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/aspiration--imperative-care-inc--zoom-zoom-4s-catheter.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--imperative-care-inc--zoom-zoom-4s-catheter/merged/aspiration--imperative-care-inc--zoom-zoom-4s-catheter.json",
+        "bytes": 839
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "thrombectomy_aspiration_catheters",
+    "label": "Aspiration Catheters"
+  }
+}

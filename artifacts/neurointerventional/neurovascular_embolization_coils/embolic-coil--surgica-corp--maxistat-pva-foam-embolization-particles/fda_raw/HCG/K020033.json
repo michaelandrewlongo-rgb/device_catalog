@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K020033",
+  "clearance_date": "2002-05-31",
+  "device_class": 2,
+  "manufacturer_canonical": "surgica-corp",
+  "manufacturer_raw": "Surgica Corp.",
+  "catalog_category": "embolic-coil",
+  "device_name_fda": "MAXISTAT PVA FOAM EMBOLIZATION PARTICLES",
+  "product_code": "HCG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "embolic-coil--surgica-corp--maxistat-pva-foam-embolization-particles",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf02/K020033.pdf"
+}

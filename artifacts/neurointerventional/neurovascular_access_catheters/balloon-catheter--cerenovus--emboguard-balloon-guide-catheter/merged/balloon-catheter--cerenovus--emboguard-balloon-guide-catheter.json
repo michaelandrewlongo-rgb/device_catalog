@@ -1,0 +1,31 @@
+{
+  "device_name": "EMBOGUARD Balloon Guide Catheter",
+  "manufacturer": "cerenovus",
+  "catalog_category": "balloon-catheter",
+  "filename_stem": "balloon-catheter--cerenovus--emboguard-balloon-guide-catheter",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "Balloon guide catheter designed for flow arrest during neurovascular interventions. Features ultra compliant balloon for atraumatic conformability and excellent trackability. Designed for seamless integration into the most commonly used stroke intervention set ups.",
+  "sizing_specs": "Inner Diameter: 0.087 inch; Outer Diameter: 0.112 inch; Working Lengths: 85 cm, 95 cm; Tip Length: 5 mm; Introducer Sheath Compatibility: 8F; Product codes: BG8785U, BG8795U",
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": "EMBOTRAP III Revascularization Device, CEREBASE DA Guide Sheath, Prowler EX Microcatheter, CEREGLIDE 71 Intermediate Catheter (CERENOVUS Stroke Solutions system)",
+  "use_notes": "Better trackability than Walrus, FlowGate, and NeuronMax. More atraumatic balloon conformability than Walrus when inflated to 7mm in 5mm ID vessel. Better trackability than NeuronMax in model with challenging proximal carotid tortuosity plus 360 degree loop in ICA.",
+  "deployment_steps": null,
+  "also_known_as": [
+    "EmboGuard",
+    "EMBOGUARD BGC"
+  ],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.jnjmedtech.com/en-US/products/neurovascular/guide-sheaths/emboguard-balloon-guide-catheter/",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ]
+}

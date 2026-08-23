@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K182522",
+  "clearance_date": "2018-10-12",
+  "device_class": 2,
+  "manufacturer_canonical": "penumbra",
+  "manufacturer_raw": "Penumbra, Inc.",
+  "catalog_category": "aspiration",
+  "device_name_fda": "Penumbra System (Modified 110 Aspiration Tubing)",
+  "product_code": "NRY",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "aspiration--penumbra--penumbra-modified-110-aspiration-tubing",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf18/K182522.pdf"
+}

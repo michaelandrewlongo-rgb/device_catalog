@@ -1,0 +1,47 @@
+{
+  "device_slug": "thrombectomy--stryker--modified-trevo",
+  "artifact_folder": "thrombectomy--stryker--modified-trevo",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 179049,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/thrombectomy/parsed/fda_summaries/thrombectomy--stryker--modified-trevo--510k.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--modified-trevo/510k/thrombectomy/parsed/fda_summaries/thrombectomy--stryker--modified-trevo--510k.json",
+        "bytes": 17555
+      },
+      {
+        "source": "pipeline/data/510k/thrombectomy/pdfs/thrombectomy--stryker--modified-trevo--510k.pdf",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--modified-trevo/510k/thrombectomy/pdfs/thrombectomy--stryker--modified-trevo--510k.pdf",
+        "bytes": 150030
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/thrombectomy--stryker--modified-trevo.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--modified-trevo/enriched/thrombectomy--stryker--modified-trevo.json",
+        "bytes": 10099
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NRY/K122478.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--modified-trevo/fda_raw/NRY/K122478.json",
+        "bytes": 565
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/thrombectomy--stryker--modified-trevo.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--modified-trevo/merged/thrombectomy--stryker--modified-trevo.json",
+        "bytes": 800
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "stent_retrievers",
+    "label": "Stent Retrievers"
+  }
+}

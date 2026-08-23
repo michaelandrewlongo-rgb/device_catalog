@@ -1,0 +1,21 @@
+{
+  "device_name": "Target 360 Detachable Coil",
+  "manufacturer": "stryker",
+  "category_hint": "embolic-coil",
+  "what_it_is": "Read Now",
+  "sizing_specs": "Clinical evidence",
+  "indications": "Specifications",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "source_url": "https://www.stryker.com/us/en/neurovascular/products/target--360-detachable-coils.html",
+  "ifu_pdf_url": null,
+  "other_pdf_urls": {
+    "ap004356_20v3_0_20_20target_20detachable_20coils_20wall_20chart": "https://www.stryker.com/content/dam/stryker/neurovascular/products/target-360-detachable-coils/resources/AP004356%20v3.0%20-%20Target%20Detachable%20Coils%20Wall%20Chart.pdf",
+    "brochure": "https://www.stryker.com/content/dam/stryker/neurovascular/products/target-360-detachable-coils/resources/AP003690%20v1.0_Target%20family%20brochure_interactive.pdf",
+    "target_coils_family_dfu_us_mar19": "https://www.stryker.com/content/dam/stryker/neurovascular/products/target-360-detachable-coils/resources/Target-Coils-Family_DFU_US_Mar19.pdf"
+  },
+  "clearance_numbers": []
+}

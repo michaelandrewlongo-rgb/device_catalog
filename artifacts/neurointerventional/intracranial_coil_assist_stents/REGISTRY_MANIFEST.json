@@ -1,0 +1,224 @@
+{
+  "domain": "neurointerventional",
+  "registry": "intracranial_coil_assist_stents",
+  "label": "Intracranial Coil-Assist Stents",
+  "path": "artifacts/neurointerventional/intracranial_coil_assist_stents",
+  "devices": [
+    {
+      "slug": "intracranial-stent--balt--leo",
+      "artifact_folder": "intracranial-stent--balt--leo",
+      "path": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--balt--leo",
+      "file_count": 5,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "extracted": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "intracranial-stent--cerenovus--enterprise-2",
+      "artifact_folder": "intracranial-stent--cerenovus--enterprise-2",
+      "path": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--cerenovus--enterprise-2",
+      "file_count": 1,
+      "source_counts": {
+        "data_by_device": 1
+      }
+    },
+    {
+      "slug": "intracranial-stent--cerenovus--enterprise-2-vascular-reconstruction-device",
+      "artifact_folder": "intracranial-stent--cerenovus--enterprise-2-vascular-reconstruction-device",
+      "path": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--cerenovus--enterprise-2-vascular-reconstruction-device",
+      "file_count": 4,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "intracranial-stent--cordis--enterprise-vrd",
+      "artifact_folder": "intracranial-stent--cordis--enterprise-vrd",
+      "path": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--cordis--enterprise-vrd",
+      "file_count": 1,
+      "source_counts": {
+        "data_by_device": 1
+      }
+    },
+    {
+      "slug": "intracranial-stent--cordis--enterprise-vrd--sspb",
+      "artifact_folder": "intracranial-stent--cordis--enterprise-vrd--sspb",
+      "path": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--cordis--enterprise-vrd--sspb",
+      "file_count": 2,
+      "source_counts": {
+        "data_by_device": 1,
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "intracranial-stent--microvention--low-profile-visualized-intraluminal-support-lvis-and-lvis-jr",
+      "artifact_folder": "intracranial-stent--microvention--low-profile-visualized-intraluminal-support-lvis-and-lvis-jr",
+      "path": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--microvention--low-profile-visualized-intraluminal-support-lvis-and-lvis-jr",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "intracranial-stent--microvention--low-profile-visualized-intraluminal-support-lvis-and-lvis-jr-recalls",
+      "artifact_folder": "intracranial-stent--microvention--low-profile-visualized-intraluminal-support-lvis-and-lvis-jr-recalls",
+      "path": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--microvention--low-profile-visualized-intraluminal-support-lvis-and-lvis-jr-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "intracranial-stent--microvention--low-profile-visualized-intraluminal-support-lvis-and-lvis-jr-x",
+      "artifact_folder": "intracranial-stent--microvention--low-profile-visualized-intraluminal-support-lvis-and-lvis-jr-x",
+      "path": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--microvention--low-profile-visualized-intraluminal-support-lvis-and-lvis-jr-x",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "intracranial-stent--microvention--low-profile-visualized-intraluminal-support-lvis-and-lvis-jr-x-recalls",
+      "artifact_folder": "intracranial-stent--microvention--low-profile-visualized-intraluminal-support-lvis-and-lvis-jr-x-recalls",
+      "path": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--microvention--low-profile-visualized-intraluminal-support-lvis-and-lvis-jr-x-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "intracranial-stent--microvention--low-profile-visualized-intraluminal-support-lvis-lvis-jr",
+      "artifact_folder": "intracranial-stent--microvention--low-profile-visualized-intraluminal-support-lvis-lvis-jr",
+      "path": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--microvention--low-profile-visualized-intraluminal-support-lvis-lvis-jr",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "intracranial-stent--microvention--low-profile-visualized-intraluminal-support-lvis-lvis-jr-lvis-evo",
+      "artifact_folder": "intracranial-stent--microvention--low-profile-visualized-intraluminal-support-lvis-lvis-jr-lvis-evo",
+      "path": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--microvention--low-profile-visualized-intraluminal-support-lvis-lvis-jr-lvis-evo",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "intracranial-stent--microvention--low-profile-visualized-intraluminal-support-lvis-lvis-jr-lvis-evo-recalls",
+      "artifact_folder": "intracranial-stent--microvention--low-profile-visualized-intraluminal-support-lvis-lvis-jr-lvis-evo-recalls",
+      "path": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--microvention--low-profile-visualized-intraluminal-support-lvis-lvis-jr-lvis-evo-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "intracranial-stent--microvention--low-profile-visualized-intraluminal-support-lvis-lvis-jr-recalls",
+      "artifact_folder": "intracranial-stent--microvention--low-profile-visualized-intraluminal-support-lvis-lvis-jr-recalls",
+      "path": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--microvention--low-profile-visualized-intraluminal-support-lvis-lvis-jr-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "intracranial-stent--microvention--lvis",
+      "artifact_folder": "intracranial-stent--microvention--lvis",
+      "path": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--microvention--lvis",
+      "file_count": 3,
+      "source_counts": {
+        "data_by_device": 2,
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "intracranial-stent--microvention--lvis-and-lvis-jr",
+      "artifact_folder": "intracranial-stent--microvention--lvis-and-lvis-jr",
+      "path": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--microvention--lvis-and-lvis-jr",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "intracranial-stent--microvention--lvis-evo",
+      "artifact_folder": "intracranial-stent--microvention--lvis-evo",
+      "path": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--microvention--lvis-evo",
+      "file_count": 1,
+      "source_counts": {
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "intracranial-stent--microvention--lvis-lvis-jr",
+      "artifact_folder": "intracranial-stent--microvention--lvis-lvis-jr",
+      "path": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--microvention--lvis-lvis-jr",
+      "file_count": 1,
+      "source_counts": {
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "intracranial-stent--microvention--lvistm-evotm",
+      "artifact_folder": "intracranial-stent--microvention--lvistm-evotm",
+      "path": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--microvention--lvistm-evotm",
+      "file_count": 2,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "intracranial-stent--microvention--lvistm-lvistm-jr",
+      "artifact_folder": "intracranial-stent--microvention--lvistm-lvistm-jr",
+      "path": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--microvention--lvistm-lvistm-jr",
+      "file_count": 2,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "intracranial-stent--stryker--neuroform-atlas",
+      "artifact_folder": "intracranial-stent--stryker--neuroform-atlas",
+      "path": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--stryker--neuroform-atlas",
+      "file_count": 6,
+      "source_counts": {
+        "data_by_device": 2,
+        "extracted": 2,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "intracranial-stent--stryker--neuroform-ez",
+      "artifact_folder": "intracranial-stent--stryker--neuroform-ez",
+      "path": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--stryker--neuroform-ez",
+      "file_count": 5,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "extracted": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    }
+  ],
+  "device_count": 21
+}

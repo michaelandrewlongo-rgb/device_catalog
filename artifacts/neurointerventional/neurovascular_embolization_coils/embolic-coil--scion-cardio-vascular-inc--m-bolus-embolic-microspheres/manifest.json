@@ -1,0 +1,35 @@
+{
+  "device_slug": "embolic-coil--scion-cardio-vascular-inc--m-bolus-embolic-microspheres",
+  "artifact_folder": "embolic-coil--scion-cardio-vascular-inc--m-bolus-embolic-microspheres",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2914,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--scion-cardio-vascular-inc--m-bolus-embolic-microspheres.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--scion-cardio-vascular-inc--m-bolus-embolic-microspheres/enriched/embolic-coil--scion-cardio-vascular-inc--m-bolus-embolic-microspheres.json",
+        "bytes": 1439
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K052509.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--scion-cardio-vascular-inc--m-bolus-embolic-microspheres/fda_raw/HCG/K052509.json",
+        "bytes": 617
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--scion-cardio-vascular-inc--m-bolus-embolic-microspheres.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--scion-cardio-vascular-inc--m-bolus-embolic-microspheres/merged/embolic-coil--scion-cardio-vascular-inc--m-bolus-embolic-microspheres.json",
+        "bytes": 858
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

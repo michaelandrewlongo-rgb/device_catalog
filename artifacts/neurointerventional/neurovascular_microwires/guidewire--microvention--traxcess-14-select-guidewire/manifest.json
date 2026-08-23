@@ -1,0 +1,47 @@
+{
+  "device_slug": "guidewire--microvention--traxcess-14-select-guidewire",
+  "artifact_folder": "guidewire--microvention--traxcess-14-select-guidewire",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 683816,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/guidewire/parsed/fda_summaries/guidewire--microvention--traxcess-14-select-guidewire--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--microvention--traxcess-14-select-guidewire/510k/guidewire/parsed/fda_summaries/guidewire--microvention--traxcess-14-select-guidewire--510k.json",
+        "bytes": 27897
+      },
+      {
+        "source": "pipeline/data/510k/guidewire/pdfs/guidewire--microvention--traxcess-14-select-guidewire--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--microvention--traxcess-14-select-guidewire/510k/guidewire/pdfs/guidewire--microvention--traxcess-14-select-guidewire--510k.pdf",
+        "bytes": 648486
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/guidewire--microvention--traxcess-14-select-guidewire.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--microvention--traxcess-14-select-guidewire/enriched/guidewire--microvention--traxcess-14-select-guidewire.json",
+        "bytes": 6026
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MOF/K200547.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--microvention--traxcess-14-select-guidewire/fda_raw/MOF/K200547.json",
+        "bytes": 581
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/guidewire--microvention--traxcess-14-select-guidewire.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--microvention--traxcess-14-select-guidewire/merged/guidewire--microvention--traxcess-14-select-guidewire.json",
+        "bytes": 826
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microwires",
+    "label": "Microwires"
+  }
+}

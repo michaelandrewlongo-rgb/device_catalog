@@ -1,0 +1,28 @@
+{
+  "device_name": "Tigertriever 17 Ultra Revascularization Device",
+  "manufacturer": "rapid-medical",
+  "catalog_category": "thrombectomy",
+  "filename_stem": "thrombectomy--rapid-medical--tigertriever-17-ultra-revascularization",
+  "clearance_type": "510k",
+  "clearance_number": "K251603",
+  "clearance_date": "2025-10-06",
+  "device_class": 2,
+  "device_name_fda": "Tigertriever 17 Ultra Revascularization Device",
+  "product_code": "NRY",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf25/K251603.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

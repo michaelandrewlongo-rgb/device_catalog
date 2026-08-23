@@ -1,0 +1,28 @@
+{
+  "device_slug": "microcatheter--medtronic--echelon--safety-warnings",
+  "artifact_folder": "microcatheter--medtronic--echelon--safety-warnings",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 2,
+  "bytes": 418222,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/microcatheter--medtronic--echelon--safety-warnings.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--medtronic--echelon--safety-warnings/data_by_device/microcatheter--medtronic--echelon--safety-warnings.pdf",
+        "bytes": 414852
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/documents/microcatheter--medtronic--echelon--safety-warnings.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--medtronic--echelon--safety-warnings/extracted/documents/microcatheter--medtronic--echelon--safety-warnings.json",
+        "bytes": 3370
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

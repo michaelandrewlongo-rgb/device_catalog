@@ -1,0 +1,35 @@
+{
+  "device_slug": "embolic-coil--micrus-endovascular-corporation--micrus-microcoli-deltaplush-models-cpl",
+  "artifact_folder": "embolic-coil--micrus-endovascular-corporation--micrus-microcoli-deltaplush-models-cpl",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3104,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--micrus-endovascular-corporation--micrus-microcoli-deltaplush-models-cpl.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--micrus-endovascular-corporation--micrus-microcoli-deltaplush-models-cpl/enriched/embolic-coil--micrus-endovascular-corporation--micrus-microcoli-deltaplush-models-cpl.json",
+        "bytes": 1509
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K083646.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--micrus-endovascular-corporation--micrus-microcoli-deltaplush-models-cpl/fda_raw/HCG/K083646.json",
+        "bytes": 667
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--micrus-endovascular-corporation--micrus-microcoli-deltaplush-models-cpl.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--micrus-endovascular-corporation--micrus-microcoli-deltaplush-models-cpl/merged/embolic-coil--micrus-endovascular-corporation--micrus-microcoli-deltaplush-models-cpl.json",
+        "bytes": 928
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

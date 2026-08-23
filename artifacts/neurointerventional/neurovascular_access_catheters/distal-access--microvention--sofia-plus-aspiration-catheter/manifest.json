@@ -1,0 +1,21 @@
+{
+  "device_slug": "distal-access--microvention--sofia-plus-aspiration-catheter",
+  "artifact_folder": "distal-access--microvention--sofia-plus-aspiration-catheter",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 592,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NRY/K173200.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--microvention--sofia-plus-aspiration-catheter/fda_raw/NRY/K173200.json",
+        "bytes": 592
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_access_catheters",
+    "label": "Access, Guide, Delivery Catheters"
+  }
+}

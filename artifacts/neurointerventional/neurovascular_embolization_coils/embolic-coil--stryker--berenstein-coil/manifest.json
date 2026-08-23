@@ -1,0 +1,35 @@
+{
+  "device_slug": "embolic-coil--stryker--berenstein-coil",
+  "artifact_folder": "embolic-coil--stryker--berenstein-coil",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3077,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--stryker--berenstein-coil.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--berenstein-coil/enriched/embolic-coil--stryker--berenstein-coil.json",
+        "bytes": 1747
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K961923.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--berenstein-coil/fda_raw/HCG/K961923.json",
+        "bytes": 547
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--stryker--berenstein-coil.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--berenstein-coil/merged/embolic-coil--stryker--berenstein-coil.json",
+        "bytes": 783
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

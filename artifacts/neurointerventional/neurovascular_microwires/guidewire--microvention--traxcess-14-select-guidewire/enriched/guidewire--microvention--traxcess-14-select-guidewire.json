@@ -1,0 +1,70 @@
+{
+  "device_name": "Traxcess 14 SELECT Guidewire",
+  "manufacturer": "microvention",
+  "catalog_category": "guidewire",
+  "filename_stem": "guidewire--microvention--traxcess-14-select-guidewire",
+  "clearance_type": "510k",
+  "clearance_number": "K200547",
+  "clearance_date": "2020-04-16",
+  "device_class": 2,
+  "device_name_fda": "Traxcess 14 SELECT Guidewire",
+  "product_code": "MOF",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": "Indications for Use See PRA Statement below.\n510(k) Number (if known)\nK200547\nDevice Name\nTraxcess™ 14 SELECT Guidewire\nIndications for Use (Describe)\nThe Traxcess™ 14 SELECT Guidewire is indicated for general intravascular use, including the neuro and peripheral\nvasculature. The guidewire can be steered to facilitate the selective placement of diagnostic or therapeutic catheters.\nThis device is not intended for use in coronary arteries.\nType of Use (Select one or both, as applicable)\nIZ! D\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)\nCONTINUE ON A SE PARA TE PAGE IF NEEDED.\nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the\ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any other aspect\nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n\"An agency may not conduct or sponsor, and a person is not required to respond to, a collection of\ninformation unless it displays a currently valid 0MB number.\"\nFORM FDA 3881 (7117) Page 1 of 1 PSC Publishing S1:ivi..:t--s (JUI) 4-13-6740 EF\n\n510(k) SUMMARY\nThis 510(k) summary of safety and effectiveness for the Traxcess™14\nSELECT Guidewire is submitted in accordance with the requirements of 21\nCFR 807.87(h) and 807.92 and following the recommendations outlined in\nFDA Guidance, The 510(k) Program: Evaluating Substantial Equivalence in\nPremarket Notifications [510(k)], dated 28 July, 2014.\nI SUBMITTER [807.92(a)(1)]\nMicroVention Inc.\nTustin, California U.S.A\nTelephone: (714)247-8201\nContact Name: Ganesh Balachandar\nE-mail address: ganesh.balachander@microvention.com\nDate prepared: 15-April-2020\nII DEVICE [807.92(a)(2)]\nName of Device: Traxcess™14 SELECT Guidewire\nCommon or Usual Name: Guidewire\nClassification Name: Catheter Guidewire\nProduct Code: MOF, DQX\nRegulatory Class: Class II\nSubmission Type: Special 510(k)\nRegulation Number: 21 CFR 870.1330\nDivision of Neurosurgical, Neurointerventional, and\nReviewing Product Branch:\nNeurodiagnostic Devices (Office of Product Evaluation and\nQuality)\nIII PREDICATE DEVICE [807.92(a)(3)]\nTraxcess 14 SELECT Guidewire (K153053)\nIV DEVICE DESCRIPTION [807.92(a)(4)]\nThe Traxcess™ 14 SELECT Guidewire is a coiled wire that is designed to\nfit inside a percutaneous catheter for the purpose of directing the catheter\nthrough a blood vessel. The core wire proximal coated section is 0.014\"\nstainless steel wire, and the distal coated section is tapered nitinol wire,\ncontained within a 0.012\" outer diameter wire coil.\nThe wire coil is 400 mm in length. The distal 30 mm coil section is\nconstructed of platinum/nickel for maximum radiopacity, and the balance,\n370mm of the coil is constructed of stainless steel. The distal 14 mm\nsection of the guidewire is shapeable by the physician.\nPage 1 of 7\n\nThe coil section of the guidewire and the distal stainless-steel section is\ncoated with a hydrophilic coating, while the proximal stainless-steel section\nis coated with PTFE. The purpose of these surface coatings is to provide\nlubricity when the Traxcess™ 14 SELECT guidewire is passed through\npercutaneous catheters. A shaping mandrel, torque device, and insertion tool\nare included with the device.\nV INDICATIONS FOR USE [807.92(a)(5)]\nThe Traxcess™14 SELECT Guidewire is indicated for general intravascular\nuse, including the neuro and peripheral vasculature. The guidewire can be\nsteered to facilitate the selective placement of diagnostic or therapeutic\ncatheters. This device is not intended for use in coronary arteries.\nVI COMPARISON OF TECHNOLOGICAL CHARACTERISTICS [807.92(a)(6)]\nThe Traxcess™14 SELECT Guidewire has the following similarities to the",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "[FDA RECALL] 1 active recall(s).\n  - There is a potential for the hydrophilic coating on the guidewire to delaminate from the guidewire.",
+  "deployment_steps": null,
+  "also_known_as": [
+    "K153053",
+    "K153053",
+    "K200547",
+    "K200547",
+    "K093647",
+    "K093647",
+    "K153053"
+  ],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K200547.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "none",
+      "confidence": 0
+    },
+    "sizing_specs": {
+      "source": "none",
+      "confidence": 0
+    },
+    "indications": {
+      "source": "fda_summary",
+      "confidence": 0.95
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "none",
+      "confidence": 0
+    },
+    "also_known_as": {
+      "source": "fda_summary",
+      "confidence": 0.3
+    },
+    "_safety": {
+      "source": "fda_maude+recalls",
+      "confidence": 0.85
+    }
+  }
+}

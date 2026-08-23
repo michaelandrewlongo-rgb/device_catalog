@@ -1,0 +1,100 @@
+{
+ "device_name": "Esperance Distal Access Catheter",
+ "manufacturer": "wallaby-medical",
+ "catalog_category": "distal-access",
+ "filename_stem": "distal-access--wallaby-medical--esperance-distal-access-catheter",
+ "clearance_type": "510k",
+ "clearance_number": "K231056",
+ "clearance_date": "2024-03-08",
+ "device_class": 2,
+ "device_name_fda": "Esperance Distal Access Catheter",
+ "product_code": "QJP",
+ "what_it_is": "DEVICE DESCRIPTION\nThe Esperance\u00ae Distal Access Catheter is a single-use, single lumen, variable stiffness, composite\ncatheter. The device includes 5F and 6F catheters with inner diameters of 0.055\u201d and 0.071\u201d,\nrespectively, designed with three different working lengths for both sizes: 115 cm, 125 cm, and 131\ncm. The device is supplied with a peelable introducer and shaping mandrel. The distal tip of each\ncatheter is visible under fluoroscopy and the distal shaft of each catheter is designed with an external\nhydrophilic coating to reduce friction during use. The proximal end of each catheter incorporates a\nstrain relief and a standard Luer adapter to facilitate the attachment of accessories. Each catheter has\na semi-rigid proximal shaft which transitions into a flexible distal shaft to facilitate the advancement of\nthe catheter in tortuous anatomy.\nThe Esperance\u00ae Distal Access Catheter is a non-active, surgically invasive device intended for short term\nuse within the vasculature.\n1\n\n| Device Name | 510(k) Number |\n| --- | --- |\n| Predicate: React\u212271 Catheter | K182097 |\n| Reference: Esperance Aspiration Catheter System | K211697 |\n\nINDICATIONS FOR USE\nThe Esperance Distal Access Catheter is indicated for the introduction of interventional devices into the\nperipheral and neuro vasculature.\nCOMPARISON OF TECHNOLOGICAL CHARACTERISTICS",
+ "sizing_specs": {
+  "legacy_note": "DEVICE DESCRIPTION\nThe Esperance\u00ae Distal Access Catheter is a single-use, single lumen, variable stiffness, composite\ncatheter. The device includes 5F and 6F catheters with inner diameters of 0.055\u201d and 0.071\u201d,\nrespectively, designed with three different working lengths for both sizes: 115 cm, 125 cm, and 131\ncm. The device is supplied with a peelable introducer and shaping mandrel. The distal tip of each\ncatheter is visible under fluoroscopy and the distal shaft of each catheter is designed with an external\nhydrophilic coating to reduce friction during use. The proximal end of each catheter incorporates a\nstrain relief and a standard Luer adapter to facilitate the attachment of accessories. Each catheter has\na semi-rigid proximal shaft which transitions into a flexible distal shaft to facilitate the advancement of\nthe catheter in tortuous anatomy.\nThe Esperance\u00ae Distal Access Catheter is a non-active, surgically invasive device intended for short term\nuse within the vasculature.\n1\n\n| Device Name | 510(k) Number |\n| --- | --- |\n| Predicate: React\u212271 Catheter | K182097 |\n| Reference: Esperance Aspiration Catheter System | K211697 |\n\nINDICATIONS FOR USE\nThe Esperance Distal Access Catheter is indicated for the introduction of interventional devices into the\nperipheral and neuro vasculature.\nCOMPARISON OF TECHNOLOGICAL CHARACTERISTICS",
+  "id_od": {
+   "units": "inches",
+   "max_od_is_proximal": true,
+   "od_prox": {
+    "in": 0.0855,
+    "fr": 5.0
+   },
+   "od_dist": {
+    "in": 0.0855
+   },
+   "id": {
+    "in": 0.055
+   },
+   "verbatim_quote": "al Access Catheter is a single-use, single lumen, variable stiffness, composite catheter. The device includes 5F and 6F catheters with inner diameters of 0.055\u201d and 0.071\u201d, respectiv",
+   "k_number": "K231056",
+   "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K231056.pdf",
+   "extraction_method": "pymupdf_text_regex_verified",
+   "extracted": "2026-08-23"
+  },
+  "spec_status": "verified"
+ },
+ "indications": "Indications for Use See PRA Statement below.\n510(k) Number (if known)\nK231056\nDevice Name\nEsperance Distal Access Catheter\nIndications for Use (Describe)\nThe Esperance Distal Access Catheter is indicated for the introduction of interventional devices into the peripheral and\nneuro vasculature.\nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)\nCONTINUE ON A SEPARATE PAGE IF NEEDED.\nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the\ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any other aspect\nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n\u201cAn agency may not conduct or sponsor, and a person is not required to respond to, a collection of\ninformation unless it displays a currently valid OMB number.\u201d\nFORM FDA 3881 (8/23) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF\n\n510(k) Summary (21 CFR 807.92)\n510(k) Number: K231056\nDate Prepared: March 06, 2024\n510(k) Submitter: Wallaby Medical\n22901 Mill Creek Drive\nLaguna Hills, CA 92653\nContact: Emily Dobosz\nTitle: Senior Manager Regulatory Affairs\nPhone: +353 91 740 100\nEmail: emily.dobosz@wallabyphenox.com\nDevice Trade Name: Esperance\u00ae Distal Access Catheter\nCommon or Usual Name: Catheter, Percutaneous, Neurovasculature\nRegulation Number: 21 CFR 870.1250\nRegulation Name: Percutaneous Catheter\nReview Panel: Neurology, Cardiovascular\nDevice Class: Class II\nProduct Codes: QJP, DQY\nPREDICATE AND REFERENCE DEVICES\nDevice Name 510(k) Number\nPredicate: React\u212271 Catheter K182097\nReference: Esperance Aspiration Catheter System K211697",
+ "contraindications": null,
+ "compatible_with": null,
+ "use_notes": null,
+ "deployment_steps": null,
+ "also_known_as": [
+  "K182097",
+  "K231056",
+  "K211697",
+  "K182097",
+  "K231056",
+  "K211697",
+  "K211697",
+  "K211697",
+  "K211697",
+  "K211697",
+  "K211697",
+  "K211697",
+  "K211697",
+  "K211697",
+  "K211697",
+  "K211697",
+  "K211697",
+  "K211697",
+  "K182097"
+ ],
+ "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K231056.pdf",
+ "ifu_pdf_url": null,
+ "source_url": "",
+ "confidence_score": 0.5,
+ "needs_review": false,
+ "data_sources": [
+  "fda"
+ ],
+ "_enrichment": {
+  "what_it_is": {
+   "source": "fda_summary",
+   "confidence": 0.9
+  },
+  "sizing_specs": {
+   "source": "fda_summary",
+   "confidence": 0.3
+  },
+  "indications": {
+   "source": "fda_summary",
+   "confidence": 0.95
+  },
+  "contraindications": {
+   "source": "none",
+   "confidence": 0
+  },
+  "compatible_with": {
+   "source": "none",
+   "confidence": 0
+  },
+  "use_notes": {
+   "source": "none",
+   "confidence": 0
+  },
+  "also_known_as": {
+   "source": "fda_summary",
+   "confidence": 0.3
+  }
+ }
+}

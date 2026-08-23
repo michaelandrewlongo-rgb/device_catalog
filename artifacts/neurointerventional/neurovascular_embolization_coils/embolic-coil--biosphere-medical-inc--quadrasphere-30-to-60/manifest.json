@@ -1,0 +1,47 @@
+{
+  "device_slug": "embolic-coil--biosphere-medical-inc--quadrasphere-30-to-60",
+  "artifact_folder": "embolic-coil--biosphere-medical-inc--quadrasphere-30-to-60",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 274694,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/embolic-coil/parsed/fda_summaries/embolic-coil--biosphere-medical-inc--quadrasphere-30-to-60--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--biosphere-medical-inc--quadrasphere-30-to-60/510k/embolic-coil/parsed/fda_summaries/embolic-coil--biosphere-medical-inc--quadrasphere-30-to-60--510k.json",
+        "bytes": 24565
+      },
+      {
+        "source": "pipeline/data/510k/embolic-coil/pdfs/embolic-coil--biosphere-medical-inc--quadrasphere-30-to-60--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--biosphere-medical-inc--quadrasphere-30-to-60/510k/embolic-coil/pdfs/embolic-coil--biosphere-medical-inc--quadrasphere-30-to-60--510k.pdf",
+        "bytes": 236678
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--biosphere-medical-inc--quadrasphere-30-to-60.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--biosphere-medical-inc--quadrasphere-30-to-60/enriched/embolic-coil--biosphere-medical-inc--quadrasphere-30-to-60.json",
+        "bytes": 12031
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K113822.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--biosphere-medical-inc--quadrasphere-30-to-60/fda_raw/HCG/K113822.json",
+        "bytes": 591
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--biosphere-medical-inc--quadrasphere-30-to-60.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--biosphere-medical-inc--quadrasphere-30-to-60/merged/embolic-coil--biosphere-medical-inc--quadrasphere-30-to-60.json",
+        "bytes": 829
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

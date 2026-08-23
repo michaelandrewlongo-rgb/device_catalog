@@ -1,0 +1,28 @@
+{
+  "device_name": "Raptor",
+  "manufacturer": "balt",
+  "catalog_category": "aspiration",
+  "filename_stem": "aspiration--balt--raptor",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "Raptor | Aspiration Catheter\nREACH OUT",
+  "sizing_specs": "\u2014 To provide analysis;\n\u2014 To save your preferences;\n\u2014 To select the right content framework to serve you based on your geolocation.",
+  "indications": "The Raptor Aspiration Catheter with a compatible aspiration pump and Balt Aspiration Tubing Set is indicated for use in the revascularization of patients with acute ischemic stroke secondary to intracranial large vessel occlusive disease (within the internal carotid, middle cerebral \u2013 M1 and M2 segments, basilar, and vertebral arteries) within 8 hours of symptom onset. Patients who are ineligible for intravenous tissue plasminogen activator (IV-tPA) or who fail IV-tPA",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://baltgroup.com/products/raptor",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ]
+}

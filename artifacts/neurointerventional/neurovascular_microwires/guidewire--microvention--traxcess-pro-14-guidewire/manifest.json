@@ -1,0 +1,47 @@
+{
+  "device_slug": "guidewire--microvention--traxcess-pro-14-guidewire",
+  "artifact_folder": "guidewire--microvention--traxcess-pro-14-guidewire",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 223824,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/guidewire/parsed/fda_summaries/guidewire--microvention--traxcess-pro-14-guidewire--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--microvention--traxcess-pro-14-guidewire/510k/guidewire/parsed/fda_summaries/guidewire--microvention--traxcess-pro-14-guidewire--510k.json",
+        "bytes": 37922
+      },
+      {
+        "source": "pipeline/data/510k/guidewire/pdfs/guidewire--microvention--traxcess-pro-14-guidewire--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--microvention--traxcess-pro-14-guidewire/510k/guidewire/pdfs/guidewire--microvention--traxcess-pro-14-guidewire--510k.pdf",
+        "bytes": 164135
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/guidewire--microvention--traxcess-pro-14-guidewire.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--microvention--traxcess-pro-14-guidewire/enriched/guidewire--microvention--traxcess-pro-14-guidewire.json",
+        "bytes": 20375
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MOF/K153053.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--microvention--traxcess-pro-14-guidewire/fda_raw/MOF/K153053.json",
+        "bytes": 575
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/guidewire--microvention--traxcess-pro-14-guidewire.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--microvention--traxcess-pro-14-guidewire/merged/guidewire--microvention--traxcess-pro-14-guidewire.json",
+        "bytes": 817
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microwires",
+    "label": "Microwires"
+  }
+}

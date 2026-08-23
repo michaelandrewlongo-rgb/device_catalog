@@ -1,0 +1,47 @@
+{
+  "device_slug": "thrombectomy--phenox--preset-lite-thrombectomy",
+  "artifact_folder": "thrombectomy--phenox--preset-lite-thrombectomy",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 2709853,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/thrombectomy/parsed/fda_summaries/thrombectomy--phenox--preset-lite-thrombectomy--510k.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--phenox--preset-lite-thrombectomy/510k/thrombectomy/parsed/fda_summaries/thrombectomy--phenox--preset-lite-thrombectomy--510k.json",
+        "bytes": 37699
+      },
+      {
+        "source": "pipeline/data/510k/thrombectomy/pdfs/thrombectomy--phenox--preset-lite-thrombectomy--510k.pdf",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--phenox--preset-lite-thrombectomy/510k/thrombectomy/pdfs/thrombectomy--phenox--preset-lite-thrombectomy--510k.pdf",
+        "bytes": 2650789
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/thrombectomy--phenox--preset-lite-thrombectomy.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--phenox--preset-lite-thrombectomy/enriched/thrombectomy--phenox--preset-lite-thrombectomy.json",
+        "bytes": 19978
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/POL/K231539.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--phenox--preset-lite-thrombectomy/fda_raw/POL/K231539.json",
+        "bytes": 565
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/thrombectomy--phenox--preset-lite-thrombectomy.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--phenox--preset-lite-thrombectomy/merged/thrombectomy--phenox--preset-lite-thrombectomy.json",
+        "bytes": 822
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "stent_retrievers",
+    "label": "Stent Retrievers"
+  }
+}

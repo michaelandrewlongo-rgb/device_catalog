@@ -1,0 +1,47 @@
+{
+  "device_slug": "microcatheter--route-92-medical-inc--8f-modified-sheath",
+  "artifact_folder": "microcatheter--route-92-medical-inc--8f-modified-sheath",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 2789091,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/microcatheter/parsed/fda_summaries/microcatheter--route-92-medical-inc--8f-modified-sheath--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--route-92-medical-inc--8f-modified-sheath/510k/microcatheter/parsed/fda_summaries/microcatheter--route-92-medical-inc--8f-modified-sheath--510k.json",
+        "bytes": 70587
+      },
+      {
+        "source": "pipeline/data/510k/microcatheter/pdfs/microcatheter--route-92-medical-inc--8f-modified-sheath--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--route-92-medical-inc--8f-modified-sheath/510k/microcatheter/pdfs/microcatheter--route-92-medical-inc--8f-modified-sheath--510k.pdf",
+        "bytes": 2670245
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/microcatheter--route-92-medical-inc--8f-modified-sheath.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--route-92-medical-inc--8f-modified-sheath/enriched/microcatheter--route-92-medical-inc--8f-modified-sheath.json",
+        "bytes": 46829
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/QJP/K240529.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--route-92-medical-inc--8f-modified-sheath/fda_raw/QJP/K240529.json",
+        "bytes": 596
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/microcatheter--route-92-medical-inc--8f-modified-sheath.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--route-92-medical-inc--8f-modified-sheath/merged/microcatheter--route-92-medical-inc--8f-modified-sheath.json",
+        "bytes": 834
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "device_slug": "microcatheter--cerenovus--prowler-ex-microcatheter",
+  "artifact_folder": "microcatheter--cerenovus--prowler-ex-microcatheter",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 8036,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/microcatheter--cerenovus--prowler-ex-microcatheter--knowledge.md",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--cerenovus--prowler-ex-microcatheter/data_by_device/microcatheter--cerenovus--prowler-ex-microcatheter--knowledge.md",
+        "bytes": 2581
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/microcatheter--cerenovus--prowler-ex-microcatheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--cerenovus--prowler-ex-microcatheter/enriched/microcatheter--cerenovus--prowler-ex-microcatheter.json",
+        "bytes": 2339
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/microcatheter--cerenovus--prowler-ex-microcatheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--cerenovus--prowler-ex-microcatheter/merged/microcatheter--cerenovus--prowler-ex-microcatheter.json",
+        "bytes": 1733
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/cerenovus/prowler-ex-microcatheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--cerenovus--prowler-ex-microcatheter/scraper_raw/cerenovus/prowler-ex-microcatheter.json",
+        "bytes": 1383
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

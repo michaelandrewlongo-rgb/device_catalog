@@ -1,0 +1,21 @@
+{
+  "device_slug": "guide-catheter--microvention--chaperon",
+  "artifact_folder": "guide-catheter--microvention--chaperon",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 450,
+  "sources": {
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/microvention/chaperontm.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/guide-catheter--microvention--chaperon/scraper_raw/microvention/chaperontm.json",
+        "bytes": 450
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_access_catheters",
+    "label": "Access, Guide, Delivery Catheters"
+  }
+}

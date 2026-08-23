@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K141491",
+  "clearance_date": "2014-10-22",
+  "device_class": 2,
+  "manufacturer_canonical": "medtronic",
+  "manufacturer_raw": "Micro Therapeutics, Inc. d/b/a ev3 Neurovascular",
+  "catalog_category": "thrombectomy",
+  "device_name_fda": "SOLITAIRE 2 REVASCULARIZATION DEVICE",
+  "product_code": "NRY",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "thrombectomy--medtronic--solitaire-2-revascularization",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf14/K141491.pdf"
+}

@@ -1,0 +1,58 @@
+{
+  "device_name": "Artemis Neuro Evacuation Device",
+  "manufacturer": "penumbra",
+  "catalog_category": "aspiration",
+  "filename_stem": "aspiration--penumbra--artemis-neuro-evacuation-device",
+  "clearance_type": "",
+  "clearance_number": "",
+  "clearance_date": "",
+  "device_class": 0,
+  "device_name_fda": "",
+  "product_code": "",
+  "what_it_is": "The Artemis\n™\nNeuro Evacuation Device is intended for the controlled aspiration of tissue and/or fluid from the Ventricular System and/or Cerebrum. The Artemis Device works in conjunction with a neuroendoscope through a 19 F (6 mm) sheath. Together with Pump MAX\n®",
+  "sizing_specs": "Minimally invasive cranial access utilizing a 14 mm burr hole with 19 F sheath",
+  "indications": "Penumbra Reperfusion Catheters and Separators\nAs part of the PENUMBRA SYSTEM, the Reperfusion Catheters and Separators are indicated for use in the revascularization of patients with acute ischemic stroke secondary to intracranial large vessel occlusive disease (within the internal carotid, middle cerebral – M1 and M2 segments, basilar, and vertebral arteries) within 8 hours of symptom onset. Patients who are ineligible for intravenous tissue plasminogen activator (IV t-PA) or who fail IV t-PA therapy are candidates for treatment.\nPenumbra Aspiration Tubing\nAs part of the PENUMBRA SYSTEM, the Penumbra Sterile Aspiration Tubing is indicated to connect the Penumbra Reperfusion Catheters to the Penumbra Aspiration Pump.\nPenumbra Aspiration Pump\nThe Penumbra Aspiration Pump is indicated as a vacuum source for Penumbra Aspiration Systems\nContraindications\nThere are no known contraindications\nWarnings\n• The device is intended for single use only. Do not resterilize or reuse. Resterilization and/or Reuse may result in ineffective catheter coating lubrication, which may result in high friction and the inability to access the target neuro vasculature location.\n• Do not use kinked or damaged devices. Do not use open or damaged packages. Return all damaged devices and packaging to the manufacturer/distributor.\n• Do not use automated high-pressure contrast injection equipment with the Penumbra Reperfusion Catheter because it may damage the device.\n• Confirm vessel diameter, and select an appropriate size Penumbra Reperfusion Catheter. Do not use in arteries with diameters smaller or equal to the distal outer diameter of the Penumbra Reperfusion Catheters. Refer to the Reperfusion Catheter labeling for dimensional information.\n• Do not advance, retract or use any component of the Penumbra System against resistance without careful assessment of the cause using fluoroscopy. If the cause cannot be determined, withdraw the device or system as a unit. Unrestrained torquing or forced insertion of the catheter or SEPARATOR™ against resistance may result in damage to the device or vessel.",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "https://www.penumbrainc.com/products/artemis-neuro-evacuation-device",
+  "confidence_score": 0.3,
+  "needs_review": true,
+  "data_sources": [
+    "scraper"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "sizing_specs": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "indications": {
+      "source": "scraper",
+      "confidence": 0.5
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "none",
+      "confidence": 0
+    },
+    "also_known_as": {
+      "source": "none",
+      "confidence": 0
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "device_slug": "distal-access--cerenovus--cerebase-da-guide-sheath",
+  "artifact_folder": "distal-access--cerenovus--cerebase-da-guide-sheath",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 6731,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/distal-access--cerenovus--cerebase-da-guide-sheath--knowledge.md",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--cerenovus--cerebase-da-guide-sheath/data_by_device/distal-access--cerenovus--cerebase-da-guide-sheath--knowledge.md",
+        "bytes": 2430
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/distal-access--cerenovus--cerebase-da-guide-sheath.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--cerenovus--cerebase-da-guide-sheath/enriched/distal-access--cerenovus--cerebase-da-guide-sheath.json",
+        "bytes": 1951
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/distal-access--cerenovus--cerebase-da-guide-sheath.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--cerenovus--cerebase-da-guide-sheath/merged/distal-access--cerenovus--cerebase-da-guide-sheath.json",
+        "bytes": 1350
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/cerenovus/cerebase-da-guide-sheath.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--cerenovus--cerebase-da-guide-sheath/scraper_raw/cerenovus/cerebase-da-guide-sheath.json",
+        "bytes": 1000
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_access_catheters",
+    "label": "Access, Guide, Delivery Catheters"
+  }
+}

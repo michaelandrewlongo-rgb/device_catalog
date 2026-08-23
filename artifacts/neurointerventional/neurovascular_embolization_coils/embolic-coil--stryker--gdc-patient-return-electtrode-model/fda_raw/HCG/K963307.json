@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K963307",
+  "clearance_date": "1996-12-17",
+  "device_class": 2,
+  "manufacturer_canonical": "stryker",
+  "manufacturer_raw": "Target Therapeutics",
+  "catalog_category": "embolic-coil",
+  "device_name_fda": "GDC PATIENT RETURN ELECTTRODE MODEL 45021",
+  "product_code": "HCG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "embolic-coil--stryker--gdc-patient-return-electtrode-model",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf96/K963307.pdf"
+}

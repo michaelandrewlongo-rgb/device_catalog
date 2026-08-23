@@ -1,0 +1,57 @@
+{
+  "device_slug": "microcatheter--route-92-medical-inc--route-92-medical-full-length",
+  "artifact_folder": "microcatheter--route-92-medical-inc--route-92-medical-full-length",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 7,
+  "bytes": 641122,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/microcatheter/parsed/fda_summaries/microcatheter--route-92-medical-inc--route-92-medical-full-length--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--route-92-medical-inc--route-92-medical-full-length/510k/microcatheter/parsed/fda_summaries/microcatheter--route-92-medical-inc--route-92-medical-full-length--510k.json",
+        "bytes": 51451
+      },
+      {
+        "source": "pipeline/data/510k/microcatheter/pdfs/microcatheter--route-92-medical-inc--route-92-medical-full-length--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--route-92-medical-inc--route-92-medical-full-length/510k/microcatheter/pdfs/microcatheter--route-92-medical-inc--route-92-medical-full-length--510k.pdf",
+        "bytes": 552171
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/microcatheter--route-92-medical-inc--route-92-medical-full-length.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--route-92-medical-inc--route-92-medical-full-length/enriched/microcatheter--route-92-medical-inc--route-92-medical-full-length.json",
+        "bytes": 34733
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/QJP/K210635.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--route-92-medical-inc--route-92-medical-full-length/fda_raw/QJP/K210635.json",
+        "bytes": 627
+      },
+      {
+        "source": "pipeline/data/fda_raw/QJP/K222743.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--route-92-medical-inc--route-92-medical-full-length/fda_raw/QJP/K222743.json",
+        "bytes": 627
+      },
+      {
+        "source": "pipeline/data/fda_raw/QJP/K231583.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--route-92-medical-inc--route-92-medical-full-length/fda_raw/QJP/K231583.json",
+        "bytes": 627
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/microcatheter--route-92-medical-inc--route-92-medical-full-length.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--route-92-medical-inc--route-92-medical-full-length/merged/microcatheter--route-92-medical-inc--route-92-medical-full-length.json",
+        "bytes": 886
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

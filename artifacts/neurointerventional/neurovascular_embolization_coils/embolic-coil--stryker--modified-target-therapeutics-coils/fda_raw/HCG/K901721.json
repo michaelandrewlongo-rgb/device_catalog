@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K901721",
+  "clearance_date": "1990-07-03",
+  "device_class": 2,
+  "manufacturer_canonical": "stryker",
+  "manufacturer_raw": "Target Therapeutics",
+  "catalog_category": "embolic-coil",
+  "device_name_fda": "MODIFIED TARGET THERAPEUTICS COILS",
+  "product_code": "HCG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "embolic-coil--stryker--modified-target-therapeutics-coils",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf90/K901721.pdf"
+}

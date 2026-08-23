@@ -1,0 +1,47 @@
+{
+  "device_slug": "microcatheter--crossroads-neurovascular-inc--path-bgc",
+  "artifact_folder": "microcatheter--crossroads-neurovascular-inc--path-bgc",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 2764207,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/microcatheter/parsed/fda_summaries/microcatheter--crossroads-neurovascular-inc--path-bgc--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--crossroads-neurovascular-inc--path-bgc/510k/microcatheter/parsed/fda_summaries/microcatheter--crossroads-neurovascular-inc--path-bgc--510k.json",
+        "bytes": 81679
+      },
+      {
+        "source": "pipeline/data/510k/microcatheter/pdfs/microcatheter--crossroads-neurovascular-inc--path-bgc--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--crossroads-neurovascular-inc--path-bgc/510k/microcatheter/pdfs/microcatheter--crossroads-neurovascular-inc--path-bgc--510k.pdf",
+        "bytes": 2626334
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/microcatheter--crossroads-neurovascular-inc--path-bgc.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--crossroads-neurovascular-inc--path-bgc/enriched/microcatheter--crossroads-neurovascular-inc--path-bgc.json",
+        "bytes": 54795
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/QJP/K242392.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--crossroads-neurovascular-inc--path-bgc/fda_raw/QJP/K242392.json",
+        "bytes": 593
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/microcatheter--crossroads-neurovascular-inc--path-bgc.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--crossroads-neurovascular-inc--path-bgc/merged/microcatheter--crossroads-neurovascular-inc--path-bgc.json",
+        "bytes": 806
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

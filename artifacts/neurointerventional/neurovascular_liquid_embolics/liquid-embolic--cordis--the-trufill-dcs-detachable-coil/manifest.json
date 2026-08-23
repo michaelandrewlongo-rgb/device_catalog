@@ -1,0 +1,35 @@
+{
+  "device_slug": "liquid-embolic--cordis--the-trufill-dcs-detachable-coil",
+  "artifact_folder": "liquid-embolic--cordis--the-trufill-dcs-detachable-coil",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3100,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/liquid-embolic--cordis--the-trufill-dcs-detachable-coil.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--cordis--the-trufill-dcs-detachable-coil/enriched/liquid-embolic--cordis--the-trufill-dcs-detachable-coil.json",
+        "bytes": 1520
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K063254.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--cordis--the-trufill-dcs-detachable-coil/fda_raw/HCG/K063254.json",
+        "bytes": 641
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/liquid-embolic--cordis--the-trufill-dcs-detachable-coil.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--cordis--the-trufill-dcs-detachable-coil/merged/liquid-embolic--cordis--the-trufill-dcs-detachable-coil.json",
+        "bytes": 939
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_liquid_embolics",
+    "label": "Onyx, Squid, PHIL"
+  }
+}

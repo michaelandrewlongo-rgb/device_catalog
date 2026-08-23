@@ -1,0 +1,47 @@
+{
+  "device_slug": "thrombectomy--phenox--preset-delta-thrombectomy-and-preset",
+  "artifact_folder": "thrombectomy--phenox--preset-delta-thrombectomy-and-preset",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 2800447,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/thrombectomy/parsed/fda_summaries/thrombectomy--phenox--preset-delta-thrombectomy-and-preset--510k.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--phenox--preset-delta-thrombectomy-and-preset/510k/thrombectomy/parsed/fda_summaries/thrombectomy--phenox--preset-delta-thrombectomy-and-preset--510k.json",
+        "bytes": 59592
+      },
+      {
+        "source": "pipeline/data/510k/thrombectomy/pdfs/thrombectomy--phenox--preset-delta-thrombectomy-and-preset--510k.pdf",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--phenox--preset-delta-thrombectomy-and-preset/510k/thrombectomy/pdfs/thrombectomy--phenox--preset-delta-thrombectomy-and-preset--510k.pdf",
+        "bytes": 2699875
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/thrombectomy--phenox--preset-delta-thrombectomy-and-preset.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--phenox--preset-delta-thrombectomy-and-preset/enriched/thrombectomy--phenox--preset-delta-thrombectomy-and-preset.json",
+        "bytes": 39440
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/POL/K242676.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--phenox--preset-delta-thrombectomy-and-preset/fda_raw/POL/K242676.json",
+        "bytes": 620
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/thrombectomy--phenox--preset-delta-thrombectomy-and-preset.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--phenox--preset-delta-thrombectomy-and-preset/merged/thrombectomy--phenox--preset-delta-thrombectomy-and-preset.json",
+        "bytes": 920
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "stent_retrievers",
+    "label": "Stent Retrievers"
+  }
+}

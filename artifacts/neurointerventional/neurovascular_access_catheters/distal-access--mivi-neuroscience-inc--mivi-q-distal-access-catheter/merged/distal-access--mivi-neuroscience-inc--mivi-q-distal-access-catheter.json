@@ -1,0 +1,28 @@
+{
+  "device_name": "MIVI Q Distal Access Catheter",
+  "manufacturer": "mivi-neuroscience-inc",
+  "catalog_category": "distal-access",
+  "filename_stem": "distal-access--mivi-neuroscience-inc--mivi-q-distal-access-catheter",
+  "clearance_type": "510k",
+  "clearance_number": "K212402",
+  "clearance_date": "2021-12-16",
+  "device_class": 2,
+  "device_name_fda": "MIVI Q Distal Access Catheter",
+  "product_code": "QJP",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K212402.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

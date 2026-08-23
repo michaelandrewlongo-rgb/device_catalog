@@ -1,0 +1,49 @@
+{
+  "device_slug": "embolic-coil--balt--eclipse-2l",
+  "artifact_folder": "embolic-coil--balt--eclipse-2l",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 9972,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/embolic-coil--balt--eclipse-2l--knowledge.md",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--balt--eclipse-2l/data_by_device/embolic-coil--balt--eclipse-2l--knowledge.md",
+        "bytes": 2712
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--balt--eclipse-2l.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--balt--eclipse-2l/enriched/embolic-coil--balt--eclipse-2l.json",
+        "bytes": 2897
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/embolic-coil--balt--eclipse-2l.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--balt--eclipse-2l/extracted/fda_structured/embolic-coil--balt--eclipse-2l.json",
+        "bytes": 1108
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--balt--eclipse-2l.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--balt--eclipse-2l/merged/embolic-coil--balt--eclipse-2l.json",
+        "bytes": 1728
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/balt/eclipse-2l.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--balt--eclipse-2l/scraper_raw/balt/eclipse-2l.json",
+        "bytes": 1527
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K142513",
+  "clearance_date": "2014-11-13",
+  "device_class": 2,
+  "manufacturer_canonical": "blockade-medical",
+  "manufacturer_raw": "Blockade Medical",
+  "catalog_category": "embolic-coil",
+  "device_name_fda": "Barricade Embolization Coil System",
+  "product_code": "HCG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "embolic-coil--blockade-medical--barricade-embolization-coil",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf14/K142513.pdf"
+}

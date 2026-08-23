@@ -1,0 +1,42 @@
+{
+  "device_slug": "microcatheter--medtronic--marksman-microcatheter",
+  "artifact_folder": "microcatheter--medtronic--marksman-microcatheter",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 8403,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/microcatheter--medtronic--marksman-microcatheter--knowledge.md",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--medtronic--marksman-microcatheter/data_by_device/microcatheter--medtronic--marksman-microcatheter--knowledge.md",
+        "bytes": 3046
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/microcatheter--medtronic--marksman-microcatheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--medtronic--marksman-microcatheter/enriched/microcatheter--medtronic--marksman-microcatheter.json",
+        "bytes": 2319
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/microcatheter--medtronic--marksman-microcatheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--medtronic--marksman-microcatheter/merged/microcatheter--medtronic--marksman-microcatheter.json",
+        "bytes": 1708
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/medtronic/marksman-microcatheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--medtronic--marksman-microcatheter/scraper_raw/medtronic/marksman-microcatheter.json",
+        "bytes": 1330
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

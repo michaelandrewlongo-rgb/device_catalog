@@ -1,0 +1,21 @@
+{
+  "device_slug": "distal-access--stryker--trevo-trak-21-microcatheter",
+  "artifact_folder": "distal-access--stryker--trevo-trak-21-microcatheter",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 906,
+  "sources": {
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/stryker/trevo-trak-r-21-microcatheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--stryker--trevo-trak-21-microcatheter/scraper_raw/stryker/trevo-trak-r-21-microcatheter.json",
+        "bytes": 906
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_access_catheters",
+    "label": "Access, Guide, Delivery Catheters"
+  }
+}

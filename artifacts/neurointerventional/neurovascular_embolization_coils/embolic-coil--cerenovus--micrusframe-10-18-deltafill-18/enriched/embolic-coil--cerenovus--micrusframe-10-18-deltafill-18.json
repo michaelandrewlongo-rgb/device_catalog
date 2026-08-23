@@ -1,0 +1,120 @@
+{
+  "device_name": "MICRUSFRAME 10/18, DELTAFILL 18, DELTAXSFT 10, GALAXY G3 FILL/XSFT STRETCH RESISTANT MICROCOIL DELIVERY SYSTEMS",
+  "manufacturer": "cerenovus",
+  "catalog_category": "embolic-coil",
+  "filename_stem": "embolic-coil--cerenovus--micrusframe-10-18-deltafill-18",
+  "clearance_type": "510k",
+  "clearance_number": "K150319",
+  "clearance_date": "2015-06-12",
+  "device_class": 2,
+  "device_name_fda": "MICRUSFRAME 10/18, DELTAFILL 18, DELTAXSFT 10, GALAXY G3 FILL/XSFT STRETCH RESISTANT MICROCOIL DELIVERY SYSTEMS",
+  "product_code": "HCG",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": "Indications for Use\nSee PRA Statement below.\n510(k) Number (if known)\nK150319\nDevice Name\nMICRUSFRAME, DELTAFILL, DELTAXSFT, GALAXY G3, and GALAXY G3 XSFT Microcoil Delivery Systems\nIndications for Use (Describe)\nMICRUSFRAME, DELTAFILL, and DELTAXSFT Microcoil Delivery Systems are intended for endovascular\nembolization of intracranial aneurysms, other neurovascular abnormalities such as arteriovenous malformations and\narteriovenous fistulae, and are also intended for arterial and venous embolizations in the peripheral vasculature.\nThe GALAXY G3 Microcoil Delivery System is intended for endovascular embolization of intracranial aneurysms, other\nneurovascular abnormalities such as arteriovenous malformations and arteriovenous fistulae, and is also intended for\narterial and venous embolizations in the peripheral vasculature.\nThe GALAXY G3 XSFT Microcoil Delivery System is intended for endovascular embolization of intracranial aneurysms.\nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)\nCONTINUE ON A SEPARATE PAGE IF NEEDED.\nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the\ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any other aspect\nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of\ninformation unless it displays a currently valid OMB number.”\nFORM FDA 3881 (8/14) Page 1 of 1\nPSC Publishing Services (301) 443-6740 EF\n\nCodman & Shurtleff, Inc. Traditional 510(k) Premarket Notification\nMICRUSFRAME, DELTAFILL, DELTAXST, GALAXY G3 and GALAXY G3 XSFT Microcoil Delivery System\n510(k) Summary\nCodman & Shurtleff, Inc.\nI. Submitter\n325 Paramount Drive\nRaynham, MA 02767\nTel: (305) 265-6810\nFax: (305) 265-6889\nContact Person: Hannah Foley\nDate Prepared: June 9, 2015\nII. Device Table 2: Device\nMICRUSFRAME Microcoil Delivery System, DELTAFILL Microcoil\nDevice Proprietary Name Delivery System, DELTAXSFT Microcoil Delivery System, GALAXY G3\nMicrocoil Delivery System, GALAXY G3 XSFT Microcoil Delivery System\nDevice, Neurovascular Embolization & Vascular, For Promoting\nCommon or Usual Name\nEmbolization\nDevice, Neurovascular Embolization, Class II, 21 CFR 882.5950 & Vascular,\nClassification Name\nFor Promoting Embolization, Class II 21 CFR 870.3300\nRegulatory Classification II\nProduct Codes HCG, KRD\nIII. Predicate The corresponding predicate and reference devices that are listed in Table 3 below\nDevice are applicable to the devices being bundled in this submission.\nTable 3 : Prior 510(k) Clearance\n510(k) Number Date Cleared Name Manufacturer",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "[FDA RECALL] 1 active recall(s).\n  - Detachable coils system may fail to detach, which could result in hemorrhagic and ischemic stroke, procedural delays, or the need for additional surgical intervention.",
+  "deployment_steps": null,
+  "also_known_as": [
+    "K082739",
+    "K083646",
+    "K033813",
+    "K053160",
+    "K062036",
+    "K072173",
+    "K080437",
+    "K073442",
+    "K120686",
+    "K120274",
+    "K142429",
+    "K093973",
+    "K132281",
+    "K140080",
+    "K123377",
+    "K082739",
+    "K083646",
+    "K033813",
+    "K053160",
+    "K062036",
+    "K072173",
+    "K080437",
+    "K073442",
+    "K120686",
+    "K120274",
+    "K142429",
+    "K093973",
+    "K132281",
+    "K140080",
+    "K123377",
+    "K033813",
+    "K062036",
+    "K053160",
+    "K072173",
+    "K080437",
+    "K083646",
+    "K120274",
+    "K120686",
+    "K120686",
+    "K033813",
+    "K062036",
+    "K053160",
+    "K072173",
+    "K080437",
+    "K083646",
+    "K120274",
+    "K120686",
+    "K120686",
+    "K082739",
+    "K120686",
+    "K132281",
+    "K082739",
+    "K120686",
+    "K132281",
+    "K082739",
+    "K082739",
+    "K082739"
+  ],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf15/K150319.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "none",
+      "confidence": 0
+    },
+    "sizing_specs": {
+      "source": "none",
+      "confidence": 0
+    },
+    "indications": {
+      "source": "fda_summary",
+      "confidence": 0.95
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "none",
+      "confidence": 0
+    },
+    "also_known_as": {
+      "source": "fda_summary",
+      "confidence": 0.3
+    },
+    "_safety": {
+      "source": "fda_maude+recalls",
+      "confidence": 0.85
+    }
+  }
+}

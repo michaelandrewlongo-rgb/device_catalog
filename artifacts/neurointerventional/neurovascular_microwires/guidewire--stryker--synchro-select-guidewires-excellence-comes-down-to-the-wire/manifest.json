@@ -1,0 +1,21 @@
+{
+  "device_slug": "guidewire--stryker--synchro-select-guidewires-excellence-comes-down-to-the-wire",
+  "artifact_folder": "guidewire--stryker--synchro-select-guidewires-excellence-comes-down-to-the-wire",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 1088,
+  "sources": {
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/stryker/synchro-select-tm-guidewires-excellence-comes-down-to-the-wire.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--stryker--synchro-select-guidewires-excellence-comes-down-to-the-wire/scraper_raw/stryker/synchro-select-tm-guidewires-excellence-comes-down-to-the-wire.json",
+        "bytes": 1088
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microwires",
+    "label": "Microwires"
+  }
+}

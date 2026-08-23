@@ -1,0 +1,47 @@
+{
+  "device_slug": "microcatheter--medos-international-sarl--cerebase-da-guide-sheath-95cm",
+  "artifact_folder": "microcatheter--medos-international-sarl--cerebase-da-guide-sheath-95cm",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 1116228,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/microcatheter/parsed/fda_summaries/microcatheter--medos-international-sarl--cerebase-da-guide-sheath-95cm--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--medos-international-sarl--cerebase-da-guide-sheath-95cm/510k/microcatheter/parsed/fda_summaries/microcatheter--medos-international-sarl--cerebase-da-guide-sheath-95cm--510k.json",
+        "bytes": 103391
+      },
+      {
+        "source": "pipeline/data/510k/microcatheter/pdfs/microcatheter--medos-international-sarl--cerebase-da-guide-sheath-95cm--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--medos-international-sarl--cerebase-da-guide-sheath-95cm/510k/microcatheter/pdfs/microcatheter--medos-international-sarl--cerebase-da-guide-sheath-95cm--510k.pdf",
+        "bytes": 942351
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/microcatheter--medos-international-sarl--cerebase-da-guide-sheath-95cm.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--medos-international-sarl--cerebase-da-guide-sheath-95cm/enriched/microcatheter--medos-international-sarl--cerebase-da-guide-sheath-95cm.json",
+        "bytes": 68713
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/QJP/K192804.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--medos-international-sarl--cerebase-da-guide-sheath-95cm/fda_raw/QJP/K192804.json",
+        "bytes": 718
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/microcatheter--medos-international-sarl--cerebase-da-guide-sheath-95cm.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--medos-international-sarl--cerebase-da-guide-sheath-95cm/merged/microcatheter--medos-international-sarl--cerebase-da-guide-sheath-95cm.json",
+        "bytes": 1055
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

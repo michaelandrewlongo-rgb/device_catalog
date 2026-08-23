@@ -1,0 +1,21 @@
+{
+  "device_name": "Broadway ® System",
+  "manufacturer": "stryker",
+  "category_hint": "guidewire",
+  "what_it_is": "Broadway ® System",
+  "sizing_specs": "Specifications",
+  "indications": "The Dash Hydrophilic Sheath Introducer and accessories are used in patients who require\nvascular access for a diagnostic or therapeutic procedure.",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "source_url": "https://www.stryker.com/us/en/neurovascular/products/broadway-system.html",
+  "ifu_pdf_url": null,
+  "other_pdf_urls": {
+    "us_broadway_8_catheter_dfue": "https://www.stryker.com/content/dam/stryker/neurovascular/products/broadway-system/resources/US-Broadway-8-Catheter-DFUe.pdf",
+    "dash_hydrophilic_sheath_introducer_dfu": "https://www.stryker.com/content/dam/stryker/neurovascular/products/broadway-system/resources/Dash-Hydrophilic-Sheath-Introducer-DFU.pdf",
+    "echo_intracranial_base_catheter_dfu": "https://www.stryker.com/content/dam/stryker/neurovascular/products/broadway-system/resources/Echo-Intracranial-Base-Catheter-DFU.pdf"
+  },
+  "clearance_numbers": []
+}

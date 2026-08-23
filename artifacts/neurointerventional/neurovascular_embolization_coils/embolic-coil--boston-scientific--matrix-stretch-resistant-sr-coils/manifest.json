@@ -1,0 +1,35 @@
+{
+  "device_slug": "embolic-coil--boston-scientific--matrix-stretch-resistant-sr-coils",
+  "artifact_folder": "embolic-coil--boston-scientific--matrix-stretch-resistant-sr-coils",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3116,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--boston-scientific--matrix-stretch-resistant-sr-coils.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific--matrix-stretch-resistant-sr-coils/enriched/embolic-coil--boston-scientific--matrix-stretch-resistant-sr-coils.json",
+        "bytes": 1647
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K050700.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific--matrix-stretch-resistant-sr-coils/fda_raw/HCG/K050700.json",
+        "bytes": 608
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--boston-scientific--matrix-stretch-resistant-sr-coils.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific--matrix-stretch-resistant-sr-coils/merged/embolic-coil--boston-scientific--matrix-stretch-resistant-sr-coils.json",
+        "bytes": 861
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

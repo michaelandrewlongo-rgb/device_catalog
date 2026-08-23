@@ -1,0 +1,28 @@
+{
+  "device_slug": "embolic-coil--microvention--hydrosofttm-3d-hydrosofttm-helical",
+  "artifact_folder": "embolic-coil--microvention--hydrosofttm-3d-hydrosofttm-helical",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 2,
+  "bytes": 2250,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--microvention--hydrosofttm-3d-hydrosofttm-helical.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--hydrosofttm-3d-hydrosofttm-helical/enriched/embolic-coil--microvention--hydrosofttm-3d-hydrosofttm-helical.json",
+        "bytes": 1412
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--microvention--hydrosofttm-3d-hydrosofttm-helical.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--hydrosofttm-3d-hydrosofttm-helical/merged/embolic-coil--microvention--hydrosofttm-3d-hydrosofttm-helical.json",
+        "bytes": 838
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

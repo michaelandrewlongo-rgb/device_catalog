@@ -1,0 +1,52 @@
+{
+  "device_slug": "intracranial-stent--stryker--neuroform-atlas",
+  "artifact_folder": "intracranial-stent--stryker--neuroform-atlas",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 1359531,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/intracranial-stent--stryker--neuroform-atlas--ifu.pdf",
+        "artifact": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--stryker--neuroform-atlas/data_by_device/intracranial-stent--stryker--neuroform-atlas--ifu.pdf",
+        "bytes": 1333562
+      },
+      {
+        "source": "pipeline/data/data_by_device/intracranial-stent--stryker--neuroform-atlas--knowledge.md",
+        "artifact": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--stryker--neuroform-atlas/data_by_device/intracranial-stent--stryker--neuroform-atlas--knowledge.md",
+        "bytes": 15101
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/documents/intracranial-stent--stryker--neuroform-atlas--ifu.json",
+        "artifact": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--stryker--neuroform-atlas/extracted/documents/intracranial-stent--stryker--neuroform-atlas--ifu.json",
+        "bytes": 8482
+      },
+      {
+        "source": "pipeline/data/extracted/fda_structured/intracranial-stent--stryker--neuroform-atlas.json",
+        "artifact": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--stryker--neuroform-atlas/extracted/fda_structured/intracranial-stent--stryker--neuroform-atlas.json",
+        "bytes": 536
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/intracranial-stent--stryker--neuroform-atlas.json",
+        "artifact": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--stryker--neuroform-atlas/merged/intracranial-stent--stryker--neuroform-atlas.json",
+        "bytes": 975
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/stryker/neuroform-atlas.json",
+        "artifact": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--stryker--neuroform-atlas/scraper_raw/stryker/neuroform-atlas.json",
+        "bytes": 875
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "intracranial_coil_assist_stents",
+    "label": "Intracranial Coil-Assist Stents"
+  }
+}

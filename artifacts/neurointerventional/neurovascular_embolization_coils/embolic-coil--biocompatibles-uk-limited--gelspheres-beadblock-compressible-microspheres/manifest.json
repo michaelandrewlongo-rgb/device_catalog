@@ -1,0 +1,35 @@
+{
+  "device_slug": "embolic-coil--biocompatibles-uk-limited--gelspheres-beadblock-compressible-microspheres",
+  "artifact_folder": "embolic-coil--biocompatibles-uk-limited--gelspheres-beadblock-compressible-microspheres",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3066,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--biocompatibles-uk-limited--gelspheres-beadblock-compressible-microspheres.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--biocompatibles-uk-limited--gelspheres-beadblock-compressible-microspheres/enriched/embolic-coil--biocompatibles-uk-limited--gelspheres-beadblock-compressible-microspheres.json",
+        "bytes": 1497
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K033761.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--biocompatibles-uk-limited--gelspheres-beadblock-compressible-microspheres/fda_raw/HCG/K033761.json",
+        "bytes": 653
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--biocompatibles-uk-limited--gelspheres-beadblock-compressible-microspheres.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--biocompatibles-uk-limited--gelspheres-beadblock-compressible-microspheres/merged/embolic-coil--biocompatibles-uk-limited--gelspheres-beadblock-compressible-microspheres.json",
+        "bytes": 916
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

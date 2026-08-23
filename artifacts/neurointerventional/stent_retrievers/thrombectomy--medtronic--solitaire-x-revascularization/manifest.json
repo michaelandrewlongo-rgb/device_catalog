@@ -1,0 +1,47 @@
+{
+  "device_slug": "thrombectomy--medtronic--solitaire-x-revascularization",
+  "artifact_folder": "thrombectomy--medtronic--solitaire-x-revascularization",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 1745706,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/thrombectomy/parsed/fda_summaries/thrombectomy--medtronic--solitaire-x-revascularization--510k.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--solitaire-x-revascularization/510k/thrombectomy/parsed/fda_summaries/thrombectomy--medtronic--solitaire-x-revascularization--510k.json",
+        "bytes": 59970
+      },
+      {
+        "source": "pipeline/data/510k/thrombectomy/pdfs/thrombectomy--medtronic--solitaire-x-revascularization--510k.pdf",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--solitaire-x-revascularization/510k/thrombectomy/pdfs/thrombectomy--medtronic--solitaire-x-revascularization--510k.pdf",
+        "bytes": 1660247
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/thrombectomy--medtronic--solitaire-x-revascularization.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--solitaire-x-revascularization/enriched/thrombectomy--medtronic--solitaire-x-revascularization.json",
+        "bytes": 22971
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/POL/K203358.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--solitaire-x-revascularization/fda_raw/POL/K203358.json",
+        "bytes": 615
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/thrombectomy--medtronic--solitaire-x-revascularization.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--medtronic--solitaire-x-revascularization/merged/thrombectomy--medtronic--solitaire-x-revascularization.json",
+        "bytes": 1903
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "stent_retrievers",
+    "label": "Stent Retrievers"
+  }
+}

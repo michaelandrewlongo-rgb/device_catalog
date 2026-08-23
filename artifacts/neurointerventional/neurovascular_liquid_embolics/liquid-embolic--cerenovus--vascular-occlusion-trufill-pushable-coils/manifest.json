@@ -1,0 +1,47 @@
+{
+  "device_slug": "liquid-embolic--cerenovus--vascular-occlusion-trufill-pushable-coils",
+  "artifact_folder": "liquid-embolic--cerenovus--vascular-occlusion-trufill-pushable-coils",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 262014,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/liquid-embolic/parsed/fda_summaries/liquid-embolic--cerenovus--vascular-occlusion-trufill-pushable-coils--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--cerenovus--vascular-occlusion-trufill-pushable-coils/510k/liquid-embolic/parsed/fda_summaries/liquid-embolic--cerenovus--vascular-occlusion-trufill-pushable-coils--510k.json",
+        "bytes": 9268
+      },
+      {
+        "source": "pipeline/data/510k/liquid-embolic/pdfs/liquid-embolic--cerenovus--vascular-occlusion-trufill-pushable-coils--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--cerenovus--vascular-occlusion-trufill-pushable-coils/510k/liquid-embolic/pdfs/liquid-embolic--cerenovus--vascular-occlusion-trufill-pushable-coils--510k.pdf",
+        "bytes": 244574
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/liquid-embolic--cerenovus--vascular-occlusion-trufill-pushable-coils.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--cerenovus--vascular-occlusion-trufill-pushable-coils/enriched/liquid-embolic--cerenovus--vascular-occlusion-trufill-pushable-coils.json",
+        "bytes": 6529
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K123560.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--cerenovus--vascular-occlusion-trufill-pushable-coils/fda_raw/HCG/K123560.json",
+        "bytes": 666
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/liquid-embolic--cerenovus--vascular-occlusion-trufill-pushable-coils.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--cerenovus--vascular-occlusion-trufill-pushable-coils/merged/liquid-embolic--cerenovus--vascular-occlusion-trufill-pushable-coils.json",
+        "bytes": 977
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_liquid_embolics",
+    "label": "Onyx, Squid, PHIL"
+  }
+}

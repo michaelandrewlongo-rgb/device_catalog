@@ -1,0 +1,61 @@
+{
+  "device_slug": "aspiration--q-apel-medical-inc--072-aspiration",
+  "artifact_folder": "aspiration--q-apel-medical-inc--072-aspiration",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 7,
+  "bytes": 860583,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/aspiration/parsed/fda_summaries/aspiration--q-apel-medical-inc--072-aspiration--510k.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--q-apel-medical-inc--072-aspiration/510k/aspiration/parsed/fda_summaries/aspiration--q-apel-medical-inc--072-aspiration--510k.json",
+        "bytes": 127488
+      },
+      {
+        "source": "pipeline/data/510k/aspiration/pdfs/aspiration--q-apel-medical-inc--072-aspiration--510k.pdf",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--q-apel-medical-inc--072-aspiration/510k/aspiration/pdfs/aspiration--q-apel-medical-inc--072-aspiration--510k.pdf",
+        "bytes": 641682
+      }
+    ],
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/aspiration--q-apel-medical-inc--072-aspiration--knowledge.md",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--q-apel-medical-inc--072-aspiration/data_by_device/aspiration--q-apel-medical-inc--072-aspiration--knowledge.md",
+        "bytes": 45069
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/aspiration--q-apel-medical-inc--072-aspiration.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--q-apel-medical-inc--072-aspiration/enriched/aspiration--q-apel-medical-inc--072-aspiration.json",
+        "bytes": 44393
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/aspiration--q-apel-medical-inc--072-aspiration.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--q-apel-medical-inc--072-aspiration/extracted/fda_structured/aspiration--q-apel-medical-inc--072-aspiration.json",
+        "bytes": 563
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NRY/K222786.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--q-apel-medical-inc--072-aspiration/fda_raw/NRY/K222786.json",
+        "bytes": 576
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/aspiration--q-apel-medical-inc--072-aspiration.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--q-apel-medical-inc--072-aspiration/merged/aspiration--q-apel-medical-inc--072-aspiration.json",
+        "bytes": 812
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "thrombectomy_aspiration_catheters",
+    "label": "Aspiration Catheters"
+  }
+}

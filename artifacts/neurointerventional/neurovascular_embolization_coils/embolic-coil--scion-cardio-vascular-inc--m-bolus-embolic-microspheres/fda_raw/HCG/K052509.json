@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K052509",
+  "clearance_date": "2006-12-11",
+  "device_class": 2,
+  "manufacturer_canonical": "scion-cardio-vascular-inc",
+  "manufacturer_raw": "Scion Cardio-Vascular, Inc.",
+  "catalog_category": "embolic-coil",
+  "device_name_fda": "M-BOLUS EMBOLIC MICROSPHERES",
+  "product_code": "HCG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "embolic-coil--scion-cardio-vascular-inc--m-bolus-embolic-microspheres",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf05/K052509.pdf"
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "embolic-coil--boston-scientific-target--gdc-power-supply-model-gdc",
+  "artifact_folder": "embolic-coil--boston-scientific-target--gdc-power-supply-model-gdc",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3215,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--boston-scientific-target--gdc-power-supply-model-gdc.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific-target--gdc-power-supply-model-gdc/enriched/embolic-coil--boston-scientific-target--gdc-power-supply-model-gdc.json",
+        "bytes": 1684
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K021494.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific-target--gdc-power-supply-model-gdc/fda_raw/HCG/K021494.json",
+        "bytes": 633
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--boston-scientific-target--gdc-power-supply-model-gdc.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific-target--gdc-power-supply-model-gdc/merged/embolic-coil--boston-scientific-target--gdc-power-supply-model-gdc.json",
+        "bytes": 898
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

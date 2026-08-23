@@ -1,0 +1,23 @@
+{
+  "source_pdf": "embolic-coil--medtronic--axium-detachable-coil--510k.pdf",
+  "device_name": "axium-detachable-coil",
+  "manufacturer": "medtronic",
+  "doc_type": "510k",
+  "extraction_method": "pdf_deepseek",
+  "fields": {
+    "what_it_is": "The Axium Detachable Coil System consists of a platinum coil secured to a composite delivery wire and is compatible with a 2-marker band micro catheter and a mechanical detachment system. The Axium Detachable Coil System consists of three (3) components: 1- Implantable Coil, 2 - Implant Delivery Pusher, 3 - Instant Detacher. The Instant Detacher is packaged and sold separately. Axium coil configurations include bare platinum, POLA enlaced platinum and Nylon enlaced platinum coils. Bare configuration coils are non-fiber-enlaced, whereas POLA and Nylon are enlaced with PGLA and Nylon fibers respectively.",
+    "sizing_specs": "This submission expands the size offerings of the Axium Detachable Coil System by adding one (1) new model number to the Axium bare product portfolio with a new diameter and coil length combination (SKU QC-1.5-1-Helix). Currently cleared sizes for Axium bare under K081465 already include a coil diameter of 1.5mm and a coil length of 1cm; however, not in combination.",
+    "indications": "The Axium Detachable Coil System is indicated for the endovascular embolization of intracranial aneurysms and other neurovascular abnormalities, such as arteriovenous malformations and arteriovenous fistulae. The Axium Detachable Coils are also indicated for arterial and venous embolizations in the peripheral vasculature.",
+    "contraindications": null,
+    "compatible_with": "compatible with a 2-marker band micro catheter and a mechanical detachment system.",
+    "use_notes": null,
+    "also_known_as": "Neurovascular Embolization Device"
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "sizing_specs": 0.7,
+    "indications": 0.7,
+    "compatible_with": 0.7,
+    "also_known_as": 0.7
+  }
+}

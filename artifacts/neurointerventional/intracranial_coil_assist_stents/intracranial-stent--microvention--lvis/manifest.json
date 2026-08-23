@@ -1,0 +1,33 @@
+{
+  "device_slug": "intracranial-stent--microvention--lvis",
+  "artifact_folder": "intracranial-stent--microvention--lvis",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 1083755,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/intracranial-stent--microvention--lvis--ifu.pdf",
+        "artifact": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--microvention--lvis/data_by_device/intracranial-stent--microvention--lvis--ifu.pdf",
+        "bytes": 1047526
+      },
+      {
+        "source": "pipeline/data/data_by_device/intracranial-stent--microvention--lvis--knowledge.md",
+        "artifact": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--microvention--lvis/data_by_device/intracranial-stent--microvention--lvis--knowledge.md",
+        "bytes": 15282
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/documents/intracranial-stent--microvention--lvis--ifu.json",
+        "artifact": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--microvention--lvis/extracted/documents/intracranial-stent--microvention--lvis--ifu.json",
+        "bytes": 20947
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "intracranial_coil_assist_stents",
+    "label": "Intracranial Coil-Assist Stents"
+  }
+}

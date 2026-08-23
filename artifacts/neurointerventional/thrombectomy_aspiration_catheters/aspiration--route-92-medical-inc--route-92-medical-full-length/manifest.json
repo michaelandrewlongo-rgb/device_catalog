@@ -1,0 +1,59 @@
+{
+  "device_slug": "aspiration--route-92-medical-inc--route-92-medical-full-length",
+  "artifact_folder": "aspiration--route-92-medical-inc--route-92-medical-full-length",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 7,
+  "bytes": 2766957,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/aspiration/parsed/fda_summaries/aspiration--route-92-medical-inc--route-92-medical-full-length--510k.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--route-92-medical-inc--route-92-medical-full-length/510k/aspiration/parsed/fda_summaries/aspiration--route-92-medical-inc--route-92-medical-full-length--510k.json",
+        "bytes": 65733
+      },
+      {
+        "source": "pipeline/data/510k/aspiration/pdfs/aspiration--route-92-medical-inc--route-92-medical-full-length--510k.pdf",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--route-92-medical-inc--route-92-medical-full-length/510k/aspiration/pdfs/aspiration--route-92-medical-inc--route-92-medical-full-length--510k.pdf",
+        "bytes": 2650353
+      }
+    ],
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/aspiration--route-92-medical-inc--route-92-medical-full-length--knowledge.md",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--route-92-medical-inc--route-92-medical-full-length/data_by_device/aspiration--route-92-medical-inc--route-92-medical-full-length--knowledge.md",
+        "bytes": 4479
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/aspiration--route-92-medical-inc--route-92-medical-full-length.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--route-92-medical-inc--route-92-medical-full-length/enriched/aspiration--route-92-medical-inc--route-92-medical-full-length.json",
+        "bytes": 44146
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NRY/K223530.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--route-92-medical-inc--route-92-medical-full-length/fda_raw/NRY/K223530.json",
+        "bytes": 652
+      },
+      {
+        "source": "pipeline/data/fda_raw/NRY/K233329.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--route-92-medical-inc--route-92-medical-full-length/fda_raw/NRY/K233329.json",
+        "bytes": 652
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/aspiration--route-92-medical-inc--route-92-medical-full-length.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--route-92-medical-inc--route-92-medical-full-length/merged/aspiration--route-92-medical-inc--route-92-medical-full-length.json",
+        "bytes": 942
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "thrombectomy_aspiration_catheters",
+    "label": "Aspiration Catheters"
+  }
+}

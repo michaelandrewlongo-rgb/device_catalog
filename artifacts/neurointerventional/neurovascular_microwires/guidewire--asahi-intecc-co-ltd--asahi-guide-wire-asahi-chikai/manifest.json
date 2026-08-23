@@ -1,0 +1,57 @@
+{
+  "device_slug": "guidewire--asahi-intecc-co-ltd--asahi-guide-wire-asahi-chikai",
+  "artifact_folder": "guidewire--asahi-intecc-co-ltd--asahi-guide-wire-asahi-chikai",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 7,
+  "bytes": 372666,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/guidewire/parsed/fda_summaries/guidewire--asahi-intecc-co-ltd--asahi-guide-wire-asahi-chikai--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--asahi-intecc-co-ltd--asahi-guide-wire-asahi-chikai/510k/guidewire/parsed/fda_summaries/guidewire--asahi-intecc-co-ltd--asahi-guide-wire-asahi-chikai--510k.json",
+        "bytes": 45886
+      },
+      {
+        "source": "pipeline/data/510k/guidewire/pdfs/guidewire--asahi-intecc-co-ltd--asahi-guide-wire-asahi-chikai--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--asahi-intecc-co-ltd--asahi-guide-wire-asahi-chikai/510k/guidewire/pdfs/guidewire--asahi-intecc-co-ltd--asahi-guide-wire-asahi-chikai--510k.pdf",
+        "bytes": 293306
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/guidewire--asahi-intecc-co-ltd--asahi-guide-wire-asahi-chikai.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--asahi-intecc-co-ltd--asahi-guide-wire-asahi-chikai/enriched/guidewire--asahi-intecc-co-ltd--asahi-guide-wire-asahi-chikai.json",
+        "bytes": 30642
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MOF/K141751.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--asahi-intecc-co-ltd--asahi-guide-wire-asahi-chikai/fda_raw/MOF/K141751.json",
+        "bytes": 691
+      },
+      {
+        "source": "pipeline/data/fda_raw/MOF/K161912.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--asahi-intecc-co-ltd--asahi-guide-wire-asahi-chikai/fda_raw/MOF/K161912.json",
+        "bytes": 634
+      },
+      {
+        "source": "pipeline/data/fda_raw/MOF/K183070.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--asahi-intecc-co-ltd--asahi-guide-wire-asahi-chikai/fda_raw/MOF/K183070.json",
+        "bytes": 622
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/guidewire--asahi-intecc-co-ltd--asahi-guide-wire-asahi-chikai.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--asahi-intecc-co-ltd--asahi-guide-wire-asahi-chikai/merged/guidewire--asahi-intecc-co-ltd--asahi-guide-wire-asahi-chikai.json",
+        "bytes": 885
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microwires",
+    "label": "Microwires"
+  }
+}

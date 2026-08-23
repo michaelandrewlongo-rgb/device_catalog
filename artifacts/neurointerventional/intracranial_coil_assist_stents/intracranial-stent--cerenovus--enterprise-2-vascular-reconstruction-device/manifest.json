@@ -1,0 +1,42 @@
+{
+  "device_slug": "intracranial-stent--cerenovus--enterprise-2-vascular-reconstruction-device",
+  "artifact_folder": "intracranial-stent--cerenovus--enterprise-2-vascular-reconstruction-device",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 9744,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/intracranial-stent--cerenovus--enterprise-2-vascular-reconstruction-device--knowledge.md",
+        "artifact": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--cerenovus--enterprise-2-vascular-reconstruction-device/data_by_device/intracranial-stent--cerenovus--enterprise-2-vascular-reconstruction-device--knowledge.md",
+        "bytes": 2966
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/intracranial-stent--cerenovus--enterprise-2-vascular-reconstruction-device.json",
+        "artifact": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--cerenovus--enterprise-2-vascular-reconstruction-device/enriched/intracranial-stent--cerenovus--enterprise-2-vascular-reconstruction-device.json",
+        "bytes": 2730
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/intracranial-stent--cerenovus--enterprise-2-vascular-reconstruction-device.json",
+        "artifact": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--cerenovus--enterprise-2-vascular-reconstruction-device/merged/intracranial-stent--cerenovus--enterprise-2-vascular-reconstruction-device.json",
+        "bytes": 2211
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/cerenovus/enterprise-2-vascular-reconstruction-device.json",
+        "artifact": "artifacts/neurointerventional/intracranial_coil_assist_stents/intracranial-stent--cerenovus--enterprise-2-vascular-reconstruction-device/scraper_raw/cerenovus/enterprise-2-vascular-reconstruction-device.json",
+        "bytes": 1837
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "intracranial_coil_assist_stents",
+    "label": "Intracranial Coil-Assist Stents"
+  }
+}

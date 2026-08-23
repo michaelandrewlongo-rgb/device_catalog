@@ -1,0 +1,25 @@
+{
+  "source_pdf": "intracranial-stent--cordis--enterprise-vrd--sspb.pdf",
+  "device_name": "enterprise-vrd",
+  "manufacturer": "cordis",
+  "doc_type": "sspb",
+  "extraction_method": "pdf_deepseek",
+  "fields": {
+    "what_it_is": "Onyx® Liquid Embolic System (Onyx® HD-500, Model 105-8101-500) is a non-adhesive liquid embolic agent comprised of EVOH (ethylene vinyl alcohol) copolymer dissolved in DMSO (dimethyl sulfoxide) and suspended micronized tantalum powder to provide contrast for visualization under fluoroscopy. The Onyx® HD-500 System includes a 1.5 ml vial of Onyx® HD-500, a 1.5 ml vial of DMSO, one DMSO 1ml delivery syringe, one threaded Onyx® delivery syringe and an interface device. Onyx® for the embolization of aneurysms is available in one product formulation, Onyx® HD-500 (9.4% EVOH by weight).",
+    "sizing_specs": "The Onyx® Liquid Embolic System (Onyx® HD-500) is available in one product formulation, Onyx® HD-500 (20% EVOH).\n\n| Micro Catheter | Onyx® Priming Volume |\n|----------------|----------------------|\n| Rebar-14 105-5080-153 | 0.20 ml maximum |\n\n| Rebar-14 | Onyx® HD 500 | Injection Volume | Injection Time |\n|--------------|--------------|-------------------|----------------|\n| 105-5080-153 | 105-8101-500 | 0.20 ml | 2 minutes |\n\n| Onyx® Kit | Minimum Solidification Time after Injection |\n|-----------------------|---------------------------------------------|\n| Onyx HD 500 105-8101-500 | 3 minutes |",
+    "indications": "Onyx® Liquid Embolic System (Onyx® HD-500) is indicated for treatment of intracranial, saccular, sidewall aneurysms that present with a wide neck (≥4 mm) or with a dome-to-neck ratio < 2 that are not amenable to treatment with surgical clipping.",
+    "contraindications": "The use of the Onyx® Liquid Embolic System (Onyx® HD-500) is contraindicated when any of the following conditions exist:\n- When optimal catheter placement is not possible.\n- When vasospasm stops blood flow.",
+    "compatible_with": "The following DMSO compatible accessory devices are required for use with the Onyx® HD-500 System:\n- HyperForm™ or HyperGlide™ or Equinox Occlusion Balloon Systems (104-4000 Series)\n- Rebar-14 Micro Catheter (105-5080-153)\n\nOnyx must be used with appropriately designed DMSO compatible micro catheters, balloon catheters and syringes.",
+    "use_notes": "Onyx® is delivered by slow controlled injection through a micro catheter into the aneurysm under fluoroscopic control. The DMSO solvent dissipates into the blood, causing the EVOH copolymer and suspended tantalum to precipitate in situ into a spongy, coherent embolus. Onyx® immediately forms a skin as the polymeric embolus solidifies from the outside to the inside, while filling more distally in the aneurysm. Final solidification of this material occurs within five minutes.\n\nDirections for Use steps include: 1. Dry heat Onyx® vial at 70° C for 5 minutes then shake 20 minutes using an Onyx® mixer at a setting of 8. After mixing, heat for a minimum of 5 minutes prior to aspiration. 2. Prepare patient using femoral access catheterization technique. 3. Insert balloon catheter to bridge the neck of the aneurysm. 4. Insert micro catheter through the aneurysm inflow zone and place the tip of the catheter in upper 1/3 of aneurysm sac. 5. Confirm micro catheter placement with contrast injection. 6. Inflate balloon to confirm aneurysm neck is bridged. 7. Flush contrast from micro catheter with 5 ml of saline. 8. Fill micro catheter dead space with DMSO. 9. Fill Onyx® syringe with Onyx®. 10. Connect Onyx® syringe to micro catheter. 11. Inject Onyx® into micro catheter at a steady rate not to exceed 0.10 ml/min. 12. Wait one minute for DMSO to disperse. 13. Inflate balloon. 14. Inject Onyx® through the micro catheter at a rate not to exceed 0.10 ml/min. 15. Allow balloon to stay inflated for minimum solidification time. 16. Repeat steps 14-16 until fill of aneurysm sac is complete. 17. Aspirate Onyx® syringe at least 0.20 ml. 18. Allow 10 minutes for Onyx® solidification. 19. Inflate balloon to approximately 75% of volume, then remove micro catheter. 20. Deflate and remove balloon system.",
+    "also_known_as": "Onyx®, Onyx® HD-500"
+  },
+  "confidence": {
+    "what_it_is": 0.7,
+    "sizing_specs": 0.7,
+    "indications": 0.7,
+    "contraindications": 0.7,
+    "compatible_with": 0.7,
+    "use_notes": 0.7,
+    "also_known_as": 0.7
+  }
+}

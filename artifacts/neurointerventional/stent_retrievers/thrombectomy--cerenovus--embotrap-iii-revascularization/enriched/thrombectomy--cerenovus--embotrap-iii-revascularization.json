@@ -1,0 +1,65 @@
+{
+  "device_name": "EMBOTRAP III Revascularization Device",
+  "manufacturer": "cerenovus",
+  "catalog_category": "thrombectomy",
+  "filename_stem": "thrombectomy--cerenovus--embotrap-iii-revascularization",
+  "clearance_type": "510k",
+  "clearance_number": "K193063",
+  "clearance_date": "2020-07-14",
+  "device_class": 2,
+  "device_name_fda": "EMBOTRAP III Revascularization Device",
+  "product_code": "NRY",
+  "what_it_is": null,
+  "sizing_specs": "Sheath Compatibility (F): –\nWorking Length (cm): 194 (overall length)",
+  "indications": "Indications for Use See PRA Statement below.\n510(k) Number (if known)\nK211338\nDevice Name\nEMBOTRAP III Revascularization Device\nIndications for Use (Describe)\nThe EMBOTRAPTm III Revascularization Device is intended to restore blood flow in the neurovasculature by removing\nthrombus in patients experiencing ischemic stroke within 8 hours of symptom onset. Patients who are ineligible for\nintravenous tissue plasminogen activator (TV t-PA) or who fail IV t-PA therapy are candidates for treatment.\nType of Use (Select one or both, as applicable)\nX Prescription Use (Part 21 CFR 801 Subpart D) E Over-The-Counter Use (21 CFR 801 Subpart C)\nCONTINUE ON A SEPARATE PAGE IF NEEDED.\nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the\ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any other aspect\nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n\"An agency may not conduct or sponsor, and a person is not required to respond to, a collection of\ninformation unless it displays a currently valid OMB number\"\nFORM FDA 3881 (6120) Page 1 of 1 PSC PublisAing Servics (301) 443-6740 EF\n\n510(k) Summary\nK211338\nI. SUBMITTER:\n510(k) Owner: Neuravi Ltd.\nBlock 3, Ballybrit Business Park, Galway H91 K5YD, Ireland\nContact Person: Niall Fox\nDirector of Regulatory Affairs\nTel: +353-91-394123\nE-mail: nfox5@its.jnj.com\nDate Prepared: July 28th, 2021\nII. DEVICE\nTrade Name of Device: EMBOTRAP™ III Revascularization Device\nCommon Name of Device: Catheter, Thrombus Retriever\nClassification Name: 21 CFR 870.1250 – Class II\nProduct Code: NRY\nIII. PREDICATE DEVICES\nEmboTrap® II Revascularization Device (K173452)\nEMBOTRAP™ III Revascularisation Device (5 x 22 mm and 5 x 37 mm models via K193063)\nSolitaire™ Platinum Revascularization Device (K160641)\nIV. DEVICE DESCRIPTION\nThe EMBOTRAP™ III Revascularization Device is composed of a retrievable, self-expanding, Nitinol\nshaped section at the distal end of a tapered Nitinol shaft. It is designed to restore blood flow in the\nneurovasculature by removing thrombus in patients experiencing ischemic stroke. The EMBOTRAP™\nIII Revascularization Device is supplied sterile and is intended for single-use only by physicians trained\nin neuro-interventional catheterization and the treatment of ischemic stroke.\nV. INDICATIONS FOR USE\nThe EMBOTRAP™ III Revascularization Device is intended to restore blood flow in the\nneurovasculature by removing thrombus in patients experiencing ischemic stroke within 8 hours of\nsymptom onset. Patients who are ineligible for intravenous tissue plasminogen activator (IV t-PA)\nor who fail IV t-PA therapy are candidates for treatment.\nVI. COMPARISON OF TECHNOLOGICAL CHARACTERISTICS WITH THE PREDICATE DEVICE\nA summary of the technological characteristics of the EMBOTRAP™ III device in comparison to those\nof the predicate devices is presented below\nPage 1 of 8",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "Mode of Operation: –",
+  "deployment_steps": null,
+  "also_known_as": [
+    "K193063",
+    "K173452",
+    "K160641",
+    "K193063",
+    "K173452",
+    "K160641"
+  ],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf19/K193063.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "none",
+      "confidence": 0
+    },
+    "sizing_specs": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "indications": {
+      "source": "fda_summary",
+      "confidence": 0.95
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "also_known_as": {
+      "source": "fda_summary",
+      "confidence": 0.3
+    }
+  }
+}

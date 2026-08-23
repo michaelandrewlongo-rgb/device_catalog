@@ -1,0 +1,35 @@
+{
+  "device_slug": "embolic-coil--micrus-endovascular-corporation--micrus-microcoil-presidio-18-model",
+  "artifact_folder": "embolic-coil--micrus-endovascular-corporation--micrus-microcoil-presidio-18-model",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3062,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--micrus-endovascular-corporation--micrus-microcoil-presidio-18-model.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--micrus-endovascular-corporation--micrus-microcoil-presidio-18-model/enriched/embolic-coil--micrus-endovascular-corporation--micrus-microcoil-presidio-18-model.json",
+        "bytes": 1493
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K062036.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--micrus-endovascular-corporation--micrus-microcoil-presidio-18-model/fda_raw/HCG/K062036.json",
+        "bytes": 657
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--micrus-endovascular-corporation--micrus-microcoil-presidio-18-model.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--micrus-endovascular-corporation--micrus-microcoil-presidio-18-model/merged/embolic-coil--micrus-endovascular-corporation--micrus-microcoil-presidio-18-model.json",
+        "bytes": 912
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

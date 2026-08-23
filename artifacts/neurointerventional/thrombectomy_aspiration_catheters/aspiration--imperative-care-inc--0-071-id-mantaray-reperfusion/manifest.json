@@ -1,0 +1,42 @@
+{
+  "device_slug": "aspiration--imperative-care-inc--0-071-id-mantaray-reperfusion",
+  "artifact_folder": "aspiration--imperative-care-inc--0-071-id-mantaray-reperfusion",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3275533,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/aspiration/pdfs/aspiration--imperative-care-inc--0-071-id-mantaray-reperfusion--510k.pdf",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--imperative-care-inc--0-071-id-mantaray-reperfusion/510k/aspiration/pdfs/aspiration--imperative-care-inc--0-071-id-mantaray-reperfusion--510k.pdf",
+        "bytes": 3271736
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/aspiration--imperative-care-inc--0-071-id-mantaray-reperfusion.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--imperative-care-inc--0-071-id-mantaray-reperfusion/enriched/aspiration--imperative-care-inc--0-071-id-mantaray-reperfusion.json",
+        "bytes": 1907
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NRY/K183043.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--imperative-care-inc--0-071-id-mantaray-reperfusion/fda_raw/NRY/K183043.json",
+        "bytes": 739
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/aspiration--imperative-care-inc--0-071-id-mantaray-reperfusion.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--imperative-care-inc--0-071-id-mantaray-reperfusion/merged/aspiration--imperative-care-inc--0-071-id-mantaray-reperfusion.json",
+        "bytes": 1151
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "thrombectomy_aspiration_catheters",
+    "label": "Aspiration Catheters"
+  }
+}

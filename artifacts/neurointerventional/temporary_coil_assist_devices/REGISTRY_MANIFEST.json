@@ -1,0 +1,59 @@
+{
+  "domain": "neurointerventional",
+  "registry": "temporary_coil_assist_devices",
+  "label": "Temporary Coil-Assist Devices",
+  "path": "artifacts/neurointerventional/temporary_coil_assist_devices",
+  "devices": [
+    {
+      "slug": "balloon-catheter--microvention--scepter-c-scepter-xc",
+      "artifact_folder": "balloon-catheter--microvention--scepter-c-scepter-xc",
+      "path": "artifacts/neurointerventional/temporary_coil_assist_devices/balloon-catheter--microvention--scepter-c-scepter-xc",
+      "file_count": 1,
+      "source_counts": {
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "balloon-catheter--microvention--scepter-c-xc",
+      "artifact_folder": "balloon-catheter--microvention--scepter-c-xc",
+      "path": "artifacts/neurointerventional/temporary_coil_assist_devices/balloon-catheter--microvention--scepter-c-xc",
+      "file_count": 3,
+      "source_counts": {
+        "data_by_device": 2,
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "balloon-catheter--microvention--scepter-ctm-scepter-xctm",
+      "artifact_folder": "balloon-catheter--microvention--scepter-ctm-scepter-xctm",
+      "path": "artifacts/neurointerventional/temporary_coil_assist_devices/balloon-catheter--microvention--scepter-ctm-scepter-xctm",
+      "file_count": 2,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "balloon-catheter--microvention--scepter-mini",
+      "artifact_folder": "balloon-catheter--microvention--scepter-mini",
+      "path": "artifacts/neurointerventional/temporary_coil_assist_devices/balloon-catheter--microvention--scepter-mini",
+      "file_count": 4,
+      "source_counts": {
+        "data_by_device": 2,
+        "extracted": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "balloon-catheter--microvention--sceptertm-mini",
+      "artifact_folder": "balloon-catheter--microvention--sceptertm-mini",
+      "path": "artifacts/neurointerventional/temporary_coil_assist_devices/balloon-catheter--microvention--sceptertm-mini",
+      "file_count": 2,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1
+      }
+    }
+  ],
+  "device_count": 5
+}

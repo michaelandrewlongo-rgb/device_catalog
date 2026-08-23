@@ -1,0 +1,47 @@
+{
+  "device_slug": "embolic-coil--cerenovus--micrusframe-10-18-deltafill-18",
+  "artifact_folder": "embolic-coil--cerenovus--micrusframe-10-18-deltafill-18",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 249279,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/embolic-coil/parsed/fda_summaries/embolic-coil--cerenovus--micrusframe-10-18-deltafill-18--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cerenovus--micrusframe-10-18-deltafill-18/510k/embolic-coil/parsed/fda_summaries/embolic-coil--cerenovus--micrusframe-10-18-deltafill-18--510k.json",
+        "bytes": 51324
+      },
+      {
+        "source": "pipeline/data/510k/embolic-coil/pdfs/embolic-coil--cerenovus--micrusframe-10-18-deltafill-18--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cerenovus--micrusframe-10-18-deltafill-18/510k/embolic-coil/pdfs/embolic-coil--cerenovus--micrusframe-10-18-deltafill-18--510k.pdf",
+        "bytes": 190217
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--cerenovus--micrusframe-10-18-deltafill-18.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cerenovus--micrusframe-10-18-deltafill-18/enriched/embolic-coil--cerenovus--micrusframe-10-18-deltafill-18.json",
+        "bytes": 6077
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K150319.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cerenovus--micrusframe-10-18-deltafill-18/fda_raw/HCG/K150319.json",
+        "bytes": 667
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--cerenovus--micrusframe-10-18-deltafill-18.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cerenovus--micrusframe-10-18-deltafill-18/merged/embolic-coil--cerenovus--micrusframe-10-18-deltafill-18.json",
+        "bytes": 994
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

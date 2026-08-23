@@ -1,0 +1,21 @@
+{
+  "device_slug": "distal-access--microvention--sofia-ex",
+  "artifact_folder": "distal-access--microvention--sofia-ex",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 465,
+  "sources": {
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/microvention/sofiatm-ex.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--microvention--sofia-ex/scraper_raw/microvention/sofiatm-ex.json",
+        "bytes": 465
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_access_catheters",
+    "label": "Access, Guide, Delivery Catheters"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "device_slug": "aspiration--balt--next-generation-aspiration-catheter-balt",
+  "artifact_folder": "aspiration--balt--next-generation-aspiration-catheter-balt",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 854785,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/aspiration/parsed/fda_summaries/aspiration--balt--next-generation-aspiration-catheter-balt--510k.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--balt--next-generation-aspiration-catheter-balt/510k/aspiration/parsed/fda_summaries/aspiration--balt--next-generation-aspiration-catheter-balt--510k.json",
+        "bytes": 56989
+      },
+      {
+        "source": "pipeline/data/510k/aspiration/pdfs/aspiration--balt--next-generation-aspiration-catheter-balt--510k.pdf",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--balt--next-generation-aspiration-catheter-balt/510k/aspiration/pdfs/aspiration--balt--next-generation-aspiration-catheter-balt--510k.pdf",
+        "bytes": 766614
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/aspiration--balt--next-generation-aspiration-catheter-balt.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--balt--next-generation-aspiration-catheter-balt/enriched/aspiration--balt--next-generation-aspiration-catheter-balt.json",
+        "bytes": 29679
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NRY/K234083.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--balt--next-generation-aspiration-catheter-balt/fda_raw/NRY/K234083.json",
+        "bytes": 609
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/aspiration--balt--next-generation-aspiration-catheter-balt.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--balt--next-generation-aspiration-catheter-balt/merged/aspiration--balt--next-generation-aspiration-catheter-balt.json",
+        "bytes": 894
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "thrombectomy_aspiration_catheters",
+    "label": "Aspiration Catheters"
+  }
+}

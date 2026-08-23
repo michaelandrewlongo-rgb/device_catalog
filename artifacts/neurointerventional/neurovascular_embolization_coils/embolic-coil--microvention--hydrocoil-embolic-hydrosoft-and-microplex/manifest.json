@@ -1,0 +1,21 @@
+{
+  "device_slug": "embolic-coil--microvention--hydrocoil-embolic-hydrosoft-and-microplex",
+  "artifact_folder": "embolic-coil--microvention--hydrocoil-embolic-hydrosoft-and-microplex",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 640,
+  "sources": {
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K091641.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--hydrocoil-embolic-hydrosoft-and-microplex/fda_raw/HCG/K091641.json",
+        "bytes": 640
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

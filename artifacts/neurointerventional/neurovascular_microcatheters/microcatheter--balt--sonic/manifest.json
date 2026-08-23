@@ -1,0 +1,42 @@
+{
+  "device_slug": "microcatheter--balt--sonic",
+  "artifact_folder": "microcatheter--balt--sonic",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 4453,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/microcatheter--balt--sonic.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--balt--sonic/enriched/microcatheter--balt--sonic.json",
+        "bytes": 1448
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/microcatheter--balt--sonic.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--balt--sonic/extracted/fda_structured/microcatheter--balt--sonic.json",
+        "bytes": 489
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/microcatheter--balt--sonic.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--balt--sonic/merged/microcatheter--balt--sonic.json",
+        "bytes": 1397
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/balt/sonic.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--balt--sonic/scraper_raw/balt/sonic.json",
+        "bytes": 1119
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

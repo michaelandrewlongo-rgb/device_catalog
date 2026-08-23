@@ -1,0 +1,21 @@
+{
+  "device_slug": "guidewire--microvention--traxcess-14-select-guidewire-recalls",
+  "artifact_folder": "guidewire--microvention--traxcess-14-select-guidewire-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 334,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/guidewire--microvention--traxcess-14-select-guidewire-recalls.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--microvention--traxcess-14-select-guidewire-recalls/extracted/fda_safety/guidewire--microvention--traxcess-14-select-guidewire-recalls.json",
+        "bytes": 334
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microwires",
+    "label": "Microwires"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "embolic-coil--boston-scientific--contour-se-microspheres-syringe",
+  "artifact_folder": "embolic-coil--boston-scientific--contour-se-microspheres-syringe",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3100,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--boston-scientific--contour-se-microspheres-syringe.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific--contour-se-microspheres-syringe/enriched/embolic-coil--boston-scientific--contour-se-microspheres-syringe.json",
+        "bytes": 1641
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K032707.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific--contour-se-microspheres-syringe/fda_raw/HCG/K032707.json",
+        "bytes": 604
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--boston-scientific--contour-se-microspheres-syringe.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific--contour-se-microspheres-syringe/merged/embolic-coil--boston-scientific--contour-se-microspheres-syringe.json",
+        "bytes": 855
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

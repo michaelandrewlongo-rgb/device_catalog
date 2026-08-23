@@ -1,0 +1,82 @@
+{
+ "device_name": "APRO 70 Swift Catheter",
+ "manufacturer": "alembic-llc",
+ "catalog_category": "microcatheter",
+ "filename_stem": "microcatheter--alembic-llc--apro-70-swift-catheter",
+ "clearance_type": "510k",
+ "clearance_number": "K243297",
+ "clearance_date": "2025-01-14",
+ "device_class": 2,
+ "device_name_fda": "APRO 70 Swift Catheter",
+ "product_code": "QJP",
+ "what_it_is": null,
+ "sizing_specs": {
+  "legacy_note": "Catalog: APRO-70-132; Model: FG-02133-132-IC",
+  "id_od": {
+   "units": "inches",
+   "max_od_is_proximal": true,
+   "od_prox": {
+    "in": 0.083
+   },
+   "od_dist": {
+    "in": 0.083
+   },
+   "id": {
+    "in": 0.07
+   },
+   "verbatim_quote": "iridium Adhesive None None Coating Hydrophilic coating Hydrophilic coating Dimensions Proximal Outer Diameter 0.083 inch 0.066 inch Distal Outer Diameter 0.083 inch 0.066 inch Inner Diamet",
+   "k_number": "K243297",
+   "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K243297.pdf",
+   "extraction_method": "pymupdf_text_regex_verified",
+   "extracted": "2026-08-23"
+  },
+  "spec_status": "verified"
+ },
+ "indications": "Indications for Use See PRA Statement below.\n510(k) Number (if known)\nK243297\nDevice Name\nAPRO 70 Swift Catheter\nIndications for Use (Describe)\nThe APRO 70 Swift Catheter is indicated for use in facilitating the insertion and guidance of appropriately sized\ninterventional devices into a selected blood vessel in the peripheral and neurovascular systems.\nThe APRO 70 Swift Catheter is also indicated for use as a conduit for retrieval devices.\nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)\nCONTINUE ON A SEPARATE PAGE IF NEEDED.\nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the\ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any other aspect\nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n\u201cAn agency may not conduct or sponsor, and a person is not required to respond to, a collection of\ninformation unless it displays a currently valid OMB number.\u201d\nFORM FDA 3881 (8/23) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF\n\n510(k) Summary\n510(k) Number: K243297\nThis 510(k) Summary is provided in accordance with the requirements of 21 CFR \u00a7807.92.\n1) Submitter information\nSubmitter: Alembic, LLC\n627 National Ave.\nMountain View, CA 94043\nContact: Lisa Yen\nVP of Regulatory and Quality\nTelephone Number: (650) 388-5087\nEmail: lyen@alembicllc.com\nDate Prepared: January 14, 2025\n2) Device Name and Classification\nTrade/Proprietary Name: APRO\u00ae 70 Swift Catheter\nCommon Name: Percutaneous Catheter\nClassification Name: Percutaneous Catheter, 21 CFR 870.1250\nCatheter, Percutaneous, Neurovasculature, 21 CFR 870.1250\nRegulatory Class: Class II\nProduct Codes: DQY, QJP\nReview Panel: Cardiovascular, Neurology\n3) Legally Marketed Predicate Device and Reference Device",
+ "contraindications": null,
+ "compatible_with": null,
+ "use_notes": "MRI: Labeling does not contain MRI Safety Information. Pre-sterilized. Single-use",
+ "deployment_steps": null,
+ "also_known_as": [
+  "APRO 70 Swift Catheter",
+  "Vascular guide-catheter, single-use"
+ ],
+ "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K243297.pdf",
+ "ifu_pdf_url": null,
+ "source_url": "",
+ "confidence_score": 0.5,
+ "needs_review": false,
+ "data_sources": [
+  "fda"
+ ],
+ "_enrichment": {
+  "what_it_is": {
+   "source": "none",
+   "confidence": 0
+  },
+  "sizing_specs": {
+   "source": "fda_udi",
+   "confidence": 0.85
+  },
+  "indications": {
+   "source": "fda_summary",
+   "confidence": 0.95
+  },
+  "contraindications": {
+   "source": "none",
+   "confidence": 0
+  },
+  "compatible_with": {
+   "source": "none",
+   "confidence": 0
+  },
+  "use_notes": {
+   "source": "fda_udi",
+   "confidence": 0.85
+  },
+  "also_known_as": {
+   "source": "fda_udi",
+   "confidence": 0.85
+  }
+ }
+}

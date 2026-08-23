@@ -1,0 +1,62 @@
+{
+  "device_name": "PENUMBRA SYSTEM (PENNUMBRA REPERFUSION CATHETER 054), MODEL PSC054; (PENUMBRA SEPARATOR 054), MODEL PSS054",
+  "manufacturer": "penumbra",
+  "catalog_category": "aspiration",
+  "filename_stem": "aspiration--penumbra--penumbra-pennumbra-reperfusion-catheter-054",
+  "clearance_type": "510k",
+  "clearance_number": "K090752",
+  "clearance_date": "2009-09-21",
+  "device_class": 2,
+  "device_name_fda": "PENUMBRA SYSTEM (PENNUMBRA REPERFUSION CATHETER 054), MODEL PSC054; (PENUMBRA SEPARATOR 054), MODEL PSS054",
+  "product_code": "NRY",
+  "what_it_is": null,
+  "sizing_specs": "Sheath Compatibility (F): 6 (RED 72, RED 72 with SENDit Technology, RED 68, RED 62, RED 43, and Penumbra JET D require 8-F short sheath or 6-F long sheath)\nWorking Length (cm): 132–160",
+  "indications": "As part of the Penumbra system, the Reperfusion catheters and separators are indicated for use in the revascularization of patients with acute ischemic stroke secondary to intracranial large vessel occlusive disease (within the internal carotid, middle cerebral—M1 and M2 segments, basilar, and vertebral arteries) within 8 hours of symptom onset. Patients who are ineligible for intravenous tissue plasminogen activator (IV t-PA) or who fail IV t-PA therapy are candidates for treatment\n\nAs part of the Penumbra system, the Reperfusion catheters and separators are indicated for use in the revascularization of patients with acute ischemic stroke secondary to intracranial large vessel occlusive disease (within the internal carotid, middle cerebral—M1 and M2 segments, basilar, and vertebral arteries) within 8 hours of symptom onset. Patients who are ineligible for thrombolytic drug therapy or who failed thrombolytic drug therapy are candidates for treatment",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": "Mode of Operation: Direct aspiration clot removal with Penumbra Engine aspiration source\n\n[FDA RECALL] 6 active recall(s).\n  - Reperfusion catheter may fail at the mid-shaft joint and may break off.  If the segment cannot be removed, it may result in blocked blood flow, requiring emergency medical treatment.\n  - The catheter may become susceptible to distal tip damage during use.  Distal tip damage in conjunction with pressurization of contrast injection may result in potential vessel damage, and subsequent p",
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf09/K090752.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ],
+  "_enrichment": {
+    "what_it_is": {
+      "source": "none",
+      "confidence": 0
+    },
+    "sizing_specs": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "indications": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "contraindications": {
+      "source": "none",
+      "confidence": 0
+    },
+    "compatible_with": {
+      "source": "none",
+      "confidence": 0
+    },
+    "use_notes": {
+      "source": "evtoday",
+      "confidence": 0.8
+    },
+    "also_known_as": {
+      "source": "none",
+      "confidence": 0
+    },
+    "_safety": {
+      "source": "fda_maude+recalls",
+      "confidence": 0.85
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "device_slug": "microcatheter--stryker--broadway-8-catheter",
+  "artifact_folder": "microcatheter--stryker--broadway-8-catheter",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 2708905,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/microcatheter/parsed/fda_summaries/microcatheter--stryker--broadway-8-catheter--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--broadway-8-catheter/510k/microcatheter/parsed/fda_summaries/microcatheter--stryker--broadway-8-catheter--510k.json",
+        "bytes": 52692
+      },
+      {
+        "source": "pipeline/data/510k/microcatheter/pdfs/microcatheter--stryker--broadway-8-catheter--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--broadway-8-catheter/510k/microcatheter/pdfs/microcatheter--stryker--broadway-8-catheter--510k.pdf",
+        "bytes": 2582996
+      }
+    ],
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/microcatheter--stryker--broadway-8-catheter--knowledge.md",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--broadway-8-catheter/data_by_device/microcatheter--stryker--broadway-8-catheter--knowledge.md",
+        "bytes": 35935
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/microcatheter--stryker--broadway-8-catheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--broadway-8-catheter/enriched/microcatheter--stryker--broadway-8-catheter.json",
+        "bytes": 35921
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/QJP/K241768.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--broadway-8-catheter/fda_raw/QJP/K241768.json",
+        "bytes": 564
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/microcatheter--stryker--broadway-8-catheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--broadway-8-catheter/merged/microcatheter--stryker--broadway-8-catheter.json",
+        "bytes": 797
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

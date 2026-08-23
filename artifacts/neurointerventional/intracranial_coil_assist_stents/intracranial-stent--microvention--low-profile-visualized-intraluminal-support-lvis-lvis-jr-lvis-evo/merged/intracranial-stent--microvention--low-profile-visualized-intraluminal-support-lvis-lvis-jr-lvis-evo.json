@@ -1,0 +1,28 @@
+{
+  "device_name": "Low-Profile Visualized Intraluminal Support (LVIS), LVIS Jr., LVIS EVO",
+  "manufacturer": "microvention",
+  "catalog_category": "intracranial-stent",
+  "filename_stem": "intracranial-stent--microvention--low-profile-visualized-intraluminal-support-lvis-lvis-jr-lvis-evo",
+  "clearance_type": "pma",
+  "clearance_number": "P170013",
+  "clearance_date": "2022-07-28",
+  "device_class": 3,
+  "device_name_fda": "Low-Profile Visualized Intraluminal Support (LVIS), LVIS Jr., LVIS EVO",
+  "product_code": "QCA",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

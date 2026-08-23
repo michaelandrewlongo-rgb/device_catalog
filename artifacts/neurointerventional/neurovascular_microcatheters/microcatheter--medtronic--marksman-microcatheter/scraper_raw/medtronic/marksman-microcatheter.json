@@ -1,0 +1,16 @@
+{
+  "device_name": "Marksman Microcatheter",
+  "manufacturer": "medtronic",
+  "category_hint": "microcatheter",
+  "what_it_is": "Microcatheter intended for introduction of interventional devices and infusion of diagnostic or therapeutic agents. Stainless steel braid design with long length for use with distal access catheters. Coil and braid technologies resist ovalization in tortuous anatomy. Pebax outer jacket with four layers optimizes proximal support and distal flexibility.",
+  "sizing_specs": "PTFE-lined lumen; Hydrophilic coating; Finely shapeable tip; Radiopaque marker",
+  "indications": "Introduction of interventional devices and infusion of diagnostic or therapeutic agents in neurovascular procedures.",
+  "compatible_with": "Solitaire X (mechanical thrombectomy support), Pipeline Flex with Shield Technology (flow diverter delivery), X-Pedion hydrophilic guidewire, distal access catheters",
+  "use_notes": "Designed for support and ease of use in Solitaire X mechanical thrombectomy procedures. Resists ovalization in tortuous anatomy.",
+  "also_known_as": [
+    "Marksman"
+  ],
+  "source_url": "https://www.medtronic.com/en-us/healthcare-professionals/products/neurological/neurovascular/catheters/micro-catheters/marksman-micro-catheter.html",
+  "ifu_pdf_url": null,
+  "other_pdf_urls": {}
+}

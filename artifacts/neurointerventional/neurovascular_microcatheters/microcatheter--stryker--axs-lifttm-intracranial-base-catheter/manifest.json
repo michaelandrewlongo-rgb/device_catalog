@@ -1,0 +1,28 @@
+{
+  "device_slug": "microcatheter--stryker--axs-lifttm-intracranial-base-catheter",
+  "artifact_folder": "microcatheter--stryker--axs-lifttm-intracranial-base-catheter",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 2,
+  "bytes": 2586,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/microcatheter--stryker--axs-lifttm-intracranial-base-catheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--axs-lifttm-intracranial-base-catheter/enriched/microcatheter--stryker--axs-lifttm-intracranial-base-catheter.json",
+        "bytes": 1588
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/microcatheter--stryker--axs-lifttm-intracranial-base-catheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--axs-lifttm-intracranial-base-catheter/merged/microcatheter--stryker--axs-lifttm-intracranial-base-catheter.json",
+        "bytes": 998
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "device_slug": "liquid-embolic--medtronic--onyx-hd500",
+  "artifact_folder": "liquid-embolic--medtronic--onyx-hd500",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 630173,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/liquid-embolic--medtronic--onyx-hd500--ifu.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--medtronic--onyx-hd500/data_by_device/liquid-embolic--medtronic--onyx-hd500--ifu.pdf",
+        "bytes": 618741
+      },
+      {
+        "source": "pipeline/data/data_by_device/liquid-embolic--medtronic--onyx-hd500--knowledge.md",
+        "artifact": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--medtronic--onyx-hd500/data_by_device/liquid-embolic--medtronic--onyx-hd500--knowledge.md",
+        "bytes": 6359
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/documents/liquid-embolic--medtronic--onyx-hd500--ifu.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--medtronic--onyx-hd500/extracted/documents/liquid-embolic--medtronic--onyx-hd500--ifu.json",
+        "bytes": 5073
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_liquid_embolics",
+    "label": "Onyx, Squid, PHIL"
+  }
+}

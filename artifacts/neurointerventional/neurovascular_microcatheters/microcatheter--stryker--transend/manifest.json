@@ -1,0 +1,42 @@
+{
+  "device_slug": "microcatheter--stryker--transend",
+  "artifact_folder": "microcatheter--stryker--transend",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 3459,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/microcatheter--stryker--transend.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--transend/enriched/microcatheter--stryker--transend.json",
+        "bytes": 1574
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_structured/microcatheter--stryker--transend.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--transend/extracted/fda_structured/microcatheter--stryker--transend.json",
+        "bytes": 564
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/microcatheter--stryker--transend.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--transend/merged/microcatheter--stryker--transend.json",
+        "bytes": 798
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/stryker/transend.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--transend/scraper_raw/stryker/transend.json",
+        "bytes": 523
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

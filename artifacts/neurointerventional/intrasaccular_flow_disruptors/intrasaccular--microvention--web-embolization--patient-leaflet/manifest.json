@@ -1,0 +1,28 @@
+{
+  "device_slug": "intrasaccular--microvention--web-embolization--patient-leaflet",
+  "artifact_folder": "intrasaccular--microvention--web-embolization--patient-leaflet",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 2,
+  "bytes": 941207,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/intrasaccular--microvention--web-embolization--patient-leaflet.pdf",
+        "artifact": "artifacts/neurointerventional/intrasaccular_flow_disruptors/intrasaccular--microvention--web-embolization--patient-leaflet/data_by_device/intrasaccular--microvention--web-embolization--patient-leaflet.pdf",
+        "bytes": 934400
+      }
+    ],
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/documents/intrasaccular--microvention--web-embolization--patient-leaflet.json",
+        "artifact": "artifacts/neurointerventional/intrasaccular_flow_disruptors/intrasaccular--microvention--web-embolization--patient-leaflet/extracted/documents/intrasaccular--microvention--web-embolization--patient-leaflet.json",
+        "bytes": 6807
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "intrasaccular_flow_disruptors",
+    "label": "Intrasaccular Flow Disruption Devices"
+  }
+}

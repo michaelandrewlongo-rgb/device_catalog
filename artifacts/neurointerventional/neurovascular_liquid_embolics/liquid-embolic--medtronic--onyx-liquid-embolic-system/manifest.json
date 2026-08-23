@@ -1,0 +1,42 @@
+{
+  "device_slug": "liquid-embolic--medtronic--onyx-liquid-embolic-system",
+  "artifact_folder": "liquid-embolic--medtronic--onyx-liquid-embolic-system",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 4,
+  "bytes": 8022,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/liquid-embolic--medtronic--onyx-liquid-embolic-system--knowledge.md",
+        "artifact": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--medtronic--onyx-liquid-embolic-system/data_by_device/liquid-embolic--medtronic--onyx-liquid-embolic-system--knowledge.md",
+        "bytes": 2810
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/liquid-embolic--medtronic--onyx-liquid-embolic-system.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--medtronic--onyx-liquid-embolic-system/enriched/liquid-embolic--medtronic--onyx-liquid-embolic-system.json",
+        "bytes": 2033
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/liquid-embolic--medtronic--onyx-liquid-embolic-system.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--medtronic--onyx-liquid-embolic-system/merged/liquid-embolic--medtronic--onyx-liquid-embolic-system.json",
+        "bytes": 1766
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/medtronic/onyx-liquid-embolic-system.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--medtronic--onyx-liquid-embolic-system/scraper_raw/medtronic/onyx-liquid-embolic-system.json",
+        "bytes": 1413
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_liquid_embolics",
+    "label": "Onyx, Squid, PHIL"
+  }
+}

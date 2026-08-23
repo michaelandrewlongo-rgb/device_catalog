@@ -1,0 +1,21 @@
+{
+  "device_slug": "embolic-coil--penumbra--penumbra-lp-coil-recalls",
+  "artifact_folder": "embolic-coil--penumbra--penumbra-lp-coil-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 968,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/embolic-coil--penumbra--penumbra-lp-coil-recalls.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--penumbra--penumbra-lp-coil-recalls/extracted/fda_safety/embolic-coil--penumbra--penumbra-lp-coil-recalls.json",
+        "bytes": 968
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

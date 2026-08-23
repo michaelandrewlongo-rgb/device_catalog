@@ -1,0 +1,85 @@
+{
+ "device_name": "Spartan MC 0165",
+ "manufacturer": "spartan-micro",
+ "catalog_category": "microcatheter",
+ "filename_stem": "microcatheter--spartan-micro--spartan-mc-0165",
+ "clearance_type": "510k",
+ "clearance_number": "K213451",
+ "clearance_date": "2021-11-22",
+ "device_class": 2,
+ "device_name_fda": "Spartan MC 0165",
+ "product_code": "QJP",
+ "what_it_is": "Spartan MC 0165",
+ "sizing_specs": {
+  "legacy_note": "Catalog: MC0165ST; Model: FG0006",
+  "id_od": {
+   "units": "inches",
+   "max_od_is_proximal": true,
+   "od_prox": {
+    "in": 0.031,
+    "fr": 2.4
+   },
+   "od_dist": {
+    "in": 0.024,
+    "fr": 1.8
+   },
+   "id": {
+    "in": 0.0165,
+    "mm": 0.42
+   },
+   "verbatim_quote": "S WITH THE PREDICATE DEVICE Dimensions Spartan MC 0165\u2122 (K213451) Phenom\u2122 Catheter (17) (K151638) Proximal OD 0.031\u201d (2.4F) 0.029\u201d (2.2F) Distal OD 0.024\u201d (1.8F) Same ID 0.0165\u201d (0.42mm)",
+   "k_number": "K213451",
+   "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K213451.pdf",
+   "extraction_method": "pymupdf_text_regex_verified",
+   "extracted": "2026-08-23"
+  },
+  "spec_status": "verified"
+ },
+ "indications": null,
+ "contraindications": null,
+ "compatible_with": null,
+ "use_notes": "MRI: Labeling does not contain MRI Safety Information. Pre-sterilized. Single-use",
+ "deployment_steps": null,
+ "also_known_as": [
+  "Spartan MC 0165",
+  "Vascular microcatheter"
+ ],
+ "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K213451.pdf",
+ "ifu_pdf_url": null,
+ "source_url": "",
+ "confidence_score": 0.5,
+ "needs_review": false,
+ "data_sources": [
+  "fda"
+ ],
+ "_enrichment": {
+  "what_it_is": {
+   "source": "fda_udi",
+   "confidence": 0.85
+  },
+  "sizing_specs": {
+   "source": "fda_udi",
+   "confidence": 0.85
+  },
+  "indications": {
+   "source": "none",
+   "confidence": 0
+  },
+  "contraindications": {
+   "source": "none",
+   "confidence": 0
+  },
+  "compatible_with": {
+   "source": "none",
+   "confidence": 0
+  },
+  "use_notes": {
+   "source": "fda_udi",
+   "confidence": 0.85
+  },
+  "also_known_as": {
+   "source": "fda_udi",
+   "confidence": 0.85
+  }
+ }
+}

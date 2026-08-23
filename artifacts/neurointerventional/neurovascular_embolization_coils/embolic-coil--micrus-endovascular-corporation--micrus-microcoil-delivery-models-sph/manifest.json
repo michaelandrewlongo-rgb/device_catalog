@@ -1,0 +1,35 @@
+{
+  "device_slug": "embolic-coil--micrus-endovascular-corporation--micrus-microcoil-delivery-models-sph",
+  "artifact_folder": "embolic-coil--micrus-endovascular-corporation--micrus-microcoil-delivery-models-sph",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3308,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--micrus-endovascular-corporation--micrus-microcoil-delivery-models-sph.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--micrus-endovascular-corporation--micrus-microcoil-delivery-models-sph/enriched/embolic-coil--micrus-endovascular-corporation--micrus-microcoil-delivery-models-sph.json",
+        "bytes": 1591
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K071246.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--micrus-endovascular-corporation--micrus-microcoil-delivery-models-sph/fda_raw/HCG/K071246.json",
+        "bytes": 707
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--micrus-endovascular-corporation--micrus-microcoil-delivery-models-sph.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--micrus-endovascular-corporation--micrus-microcoil-delivery-models-sph/merged/embolic-coil--micrus-endovascular-corporation--micrus-microcoil-delivery-models-sph.json",
+        "bytes": 1010
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

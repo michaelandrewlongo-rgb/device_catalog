@@ -1,0 +1,35 @@
+{
+  "device_slug": "embolic-coil--microvention--microplex-coil-s-mcs",
+  "artifact_folder": "embolic-coil--microvention--microplex-coil-s-mcs",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3024,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--microvention--microplex-coil-s-mcs.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--microplex-coil-s-mcs/enriched/embolic-coil--microvention--microplex-coil-s-mcs.json",
+        "bytes": 1626
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K021914.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--microplex-coil-s-mcs/fda_raw/HCG/K021914.json",
+        "bytes": 574
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--microvention--microplex-coil-s-mcs.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--microplex-coil-s-mcs/merged/embolic-coil--microvention--microplex-coil-s-mcs.json",
+        "bytes": 824
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

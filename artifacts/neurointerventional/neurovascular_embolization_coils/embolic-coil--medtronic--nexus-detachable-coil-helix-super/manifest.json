@@ -1,0 +1,35 @@
+{
+  "device_slug": "embolic-coil--medtronic--nexus-detachable-coil-helix-super",
+  "artifact_folder": "embolic-coil--medtronic--nexus-detachable-coil-helix-super",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2940,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--medtronic--nexus-detachable-coil-helix-super.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--medtronic--nexus-detachable-coil-helix-super/enriched/embolic-coil--medtronic--nexus-detachable-coil-helix-super.json",
+        "bytes": 1456
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K051425.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--medtronic--nexus-detachable-coil-helix-super/fda_raw/HCG/K051425.json",
+        "bytes": 609
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--medtronic--nexus-detachable-coil-helix-super.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--medtronic--nexus-detachable-coil-helix-super/merged/embolic-coil--medtronic--nexus-detachable-coil-helix-super.json",
+        "bytes": 875
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "thrombectomy--stryker--modified-modified-line-extension-models",
+  "artifact_folder": "thrombectomy--stryker--modified-modified-line-extension-models",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3031,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/thrombectomy--stryker--modified-modified-line-extension-models.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--modified-modified-line-extension-models/enriched/thrombectomy--stryker--modified-modified-line-extension-models.json",
+        "bytes": 1490
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NRY/K093610.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--modified-modified-line-extension-models/fda_raw/NRY/K093610.json",
+        "bytes": 632
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/thrombectomy--stryker--modified-modified-line-extension-models.json",
+        "artifact": "artifacts/neurointerventional/stent_retrievers/thrombectomy--stryker--modified-modified-line-extension-models/merged/thrombectomy--stryker--modified-modified-line-extension-models.json",
+        "bytes": 909
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "stent_retrievers",
+    "label": "Stent Retrievers"
+  }
+}

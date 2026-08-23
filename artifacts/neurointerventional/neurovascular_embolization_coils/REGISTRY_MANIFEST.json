@@ -1,0 +1,2450 @@
+{
+  "domain": "neurointerventional",
+  "registry": "neurovascular_embolization_coils",
+  "label": "Embolization Coils",
+  "path": "artifacts/neurointerventional/neurovascular_embolization_coils",
+  "devices": [
+    {
+      "slug": "embolic-coil--acta-vascular-systems-inc--ultra-ivalon-and-ultra-drivalon",
+      "artifact_folder": "embolic-coil--acta-vascular-systems-inc--ultra-ivalon-and-ultra-drivalon",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--acta-vascular-systems-inc--ultra-ivalon-and-ultra-drivalon",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--balt--eclipse-2l",
+      "artifact_folder": "embolic-coil--balt--eclipse-2l",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--balt--eclipse-2l",
+      "file_count": 5,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "extracted": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--balt--optima-coil",
+      "artifact_folder": "embolic-coil--balt--optima-coil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--balt--optima-coil",
+      "file_count": 9,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 3,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--balt--optima-coil-optiblock-line-extension",
+      "artifact_folder": "embolic-coil--balt--optima-coil-optiblock-line-extension",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--balt--optima-coil-optiblock-line-extension",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--balt--optima-coil-optiblock-line-extension-recalls",
+      "artifact_folder": "embolic-coil--balt--optima-coil-optiblock-line-extension-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--balt--optima-coil-optiblock-line-extension-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--balt--optima-coil-optima-packing-coil",
+      "artifact_folder": "embolic-coil--balt--optima-coil-optima-packing-coil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--balt--optima-coil-optima-packing-coil",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--balt--optima-coil-optima-packing-coil-recalls",
+      "artifact_folder": "embolic-coil--balt--optima-coil-optima-packing-coil-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--balt--optima-coil-optima-packing-coil-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--balt--optima-coil-optione-coil",
+      "artifact_folder": "embolic-coil--balt--optima-coil-optione-coil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--balt--optima-coil-optione-coil",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--balt--optima-coil-optione-coil-recalls",
+      "artifact_folder": "embolic-coil--balt--optima-coil-optione-coil-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--balt--optima-coil-optione-coil-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--balt--optima-coil-recalls",
+      "artifact_folder": "embolic-coil--balt--optima-coil-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--balt--optima-coil-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--balt--prestige-plus",
+      "artifact_folder": "embolic-coil--balt--prestige-plus",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--balt--prestige-plus",
+      "file_count": 5,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "extracted": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--baxter-edwards--intramed-side-branch-occlusion-sbo",
+      "artifact_folder": "embolic-coil--baxter-edwards--intramed-side-branch-occlusion-sbo",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--baxter-edwards--intramed-side-branch-occlusion-sbo",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--biocompatibles-uk-limited--gelspheres-beadblock-compressible-microspheres",
+      "artifact_folder": "embolic-coil--biocompatibles-uk-limited--gelspheres-beadblock-compressible-microspheres",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--biocompatibles-uk-limited--gelspheres-beadblock-compressible-microspheres",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--biocompatibles-uk-limited--gelspheres-microspheres-and-bead-block",
+      "artifact_folder": "embolic-coil--biocompatibles-uk-limited--gelspheres-microspheres-and-bead-block",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--biocompatibles-uk-limited--gelspheres-microspheres-and-bead-block",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--biocompatibles-uk-limited--lc-bead-microspheres-bead-block",
+      "artifact_folder": "embolic-coil--biocompatibles-uk-limited--lc-bead-microspheres-bead-block",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--biocompatibles-uk-limited--lc-bead-microspheres-bead-block",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--biosphere-medical--embosphere-microspheres",
+      "artifact_folder": "embolic-coil--biosphere-medical--embosphere-microspheres",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--biosphere-medical--embosphere-microspheres",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--biosphere-medical-inc--embogold-microsphere",
+      "artifact_folder": "embolic-coil--biosphere-medical-inc--embogold-microsphere",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--biosphere-medical-inc--embogold-microsphere",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--biosphere-medical-inc--quadrasphere-30-to-60",
+      "artifact_folder": "embolic-coil--biosphere-medical-inc--quadrasphere-30-to-60",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--biosphere-medical-inc--quadrasphere-30-to-60",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--blockade-medical--barricade-embolization-coil",
+      "artifact_folder": "embolic-coil--blockade-medical--barricade-embolization-coil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--blockade-medical--barricade-embolization-coil",
+      "file_count": 10,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 6,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--boston-scientific--contour-se-microspheres",
+      "artifact_folder": "embolic-coil--boston-scientific--contour-se-microspheres",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific--contour-se-microspheres",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--boston-scientific--contour-se-microspheres-recalls",
+      "artifact_folder": "embolic-coil--boston-scientific--contour-se-microspheres-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific--contour-se-microspheres-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--boston-scientific--contour-se-microspheres-syringe",
+      "artifact_folder": "embolic-coil--boston-scientific--contour-se-microspheres-syringe",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific--contour-se-microspheres-syringe",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--boston-scientific--contour-se-microspheres-syringe-recalls",
+      "artifact_folder": "embolic-coil--boston-scientific--contour-se-microspheres-syringe-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific--contour-se-microspheres-syringe-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--boston-scientific--gdc-10-360-degree-coil",
+      "artifact_folder": "embolic-coil--boston-scientific--gdc-10-360-degree-coil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific--gdc-10-360-degree-coil",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--boston-scientific--gdc-10-360-degree-coil-recalls",
+      "artifact_folder": "embolic-coil--boston-scientific--gdc-10-360-degree-coil-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific--gdc-10-360-degree-coil-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--boston-scientific--gdc-360-deteachable-coil",
+      "artifact_folder": "embolic-coil--boston-scientific--gdc-360-deteachable-coil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific--gdc-360-deteachable-coil",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--boston-scientific--gdc-360-deteachable-coil-recalls",
+      "artifact_folder": "embolic-coil--boston-scientific--gdc-360-deteachable-coil-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific--gdc-360-deteachable-coil-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--boston-scientific--inzone-detachment",
+      "artifact_folder": "embolic-coil--boston-scientific--inzone-detachment",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific--inzone-detachment",
+      "file_count": 7,
+      "source_counts": {
+        "510k": 3,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--boston-scientific--inzone-detachment-model-m00345100940-izds",
+      "artifact_folder": "embolic-coil--boston-scientific--inzone-detachment-model-m00345100940-izds",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific--inzone-detachment-model-m00345100940-izds",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--boston-scientific--inzone-detachment-model-m00345100940-izds-recalls",
+      "artifact_folder": "embolic-coil--boston-scientific--inzone-detachment-model-m00345100940-izds-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific--inzone-detachment-model-m00345100940-izds-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--boston-scientific--inzone-detachment-recalls",
+      "artifact_folder": "embolic-coil--boston-scientific--inzone-detachment-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific--inzone-detachment-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--boston-scientific--matrix-stretch-resistant-sr-coils",
+      "artifact_folder": "embolic-coil--boston-scientific--matrix-stretch-resistant-sr-coils",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific--matrix-stretch-resistant-sr-coils",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--boston-scientific--matrix-stretch-resistant-sr-coils-recalls",
+      "artifact_folder": "embolic-coil--boston-scientific--matrix-stretch-resistant-sr-coils-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific--matrix-stretch-resistant-sr-coils-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--boston-scientific--modification-to-contour-se-microspheres",
+      "artifact_folder": "embolic-coil--boston-scientific--modification-to-contour-se-microspheres",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific--modification-to-contour-se-microspheres",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--boston-scientific--modification-to-contour-se-microspheres-recalls",
+      "artifact_folder": "embolic-coil--boston-scientific--modification-to-contour-se-microspheres-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific--modification-to-contour-se-microspheres-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--boston-scientific--target-detachable-coil",
+      "artifact_folder": "embolic-coil--boston-scientific--target-detachable-coil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific--target-detachable-coil",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--boston-scientific--target-detachable-coil-recalls",
+      "artifact_folder": "embolic-coil--boston-scientific--target-detachable-coil-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific--target-detachable-coil-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--boston-scientific--target-detachable-coils-and-inzone",
+      "artifact_folder": "embolic-coil--boston-scientific--target-detachable-coils-and-inzone",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific--target-detachable-coils-and-inzone",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--boston-scientific--target-detachable-coils-and-inzone-recalls",
+      "artifact_folder": "embolic-coil--boston-scientific--target-detachable-coils-and-inzone-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific--target-detachable-coils-and-inzone-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--boston-scientific-target--fibered-gdc-18-vortx-shape",
+      "artifact_folder": "embolic-coil--boston-scientific-target--fibered-gdc-18-vortx-shape",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific-target--fibered-gdc-18-vortx-shape",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--boston-scientific-target--fibered-gdc-18-vortx-shape-recalls",
+      "artifact_folder": "embolic-coil--boston-scientific-target--fibered-gdc-18-vortx-shape-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific-target--fibered-gdc-18-vortx-shape-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--boston-scientific-target--gdc-10-guglielmi-detachable-coil",
+      "artifact_folder": "embolic-coil--boston-scientific-target--gdc-10-guglielmi-detachable-coil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific-target--gdc-10-guglielmi-detachable-coil",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--boston-scientific-target--gdc-10-guglielmi-detachable-coil-recalls",
+      "artifact_folder": "embolic-coil--boston-scientific-target--gdc-10-guglielmi-detachable-coil-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific-target--gdc-10-guglielmi-detachable-coil-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--boston-scientific-target--gdc-10-stretch-resistant-guglielmi",
+      "artifact_folder": "embolic-coil--boston-scientific-target--gdc-10-stretch-resistant-guglielmi",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific-target--gdc-10-stretch-resistant-guglielmi",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--boston-scientific-target--gdc-10-stretch-resistant-guglielmi-recalls",
+      "artifact_folder": "embolic-coil--boston-scientific-target--gdc-10-stretch-resistant-guglielmi-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific-target--gdc-10-stretch-resistant-guglielmi-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--boston-scientific-target--gdc-power-supply-model-gdc",
+      "artifact_folder": "embolic-coil--boston-scientific-target--gdc-power-supply-model-gdc",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific-target--gdc-power-supply-model-gdc",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--boston-scientific-target--gdc-power-supply-model-gdc-recalls",
+      "artifact_folder": "embolic-coil--boston-scientific-target--gdc-power-supply-model-gdc-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific-target--gdc-power-supply-model-gdc-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--boston-scientific-target--gdc-stretch-resistant-detachable-coil",
+      "artifact_folder": "embolic-coil--boston-scientific-target--gdc-stretch-resistant-detachable-coil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific-target--gdc-stretch-resistant-detachable-coil",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--boston-scientific-target--gdc-stretch-resistant-detachable-coil-recalls",
+      "artifact_folder": "embolic-coil--boston-scientific-target--gdc-stretch-resistant-detachable-coil-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific-target--gdc-stretch-resistant-detachable-coil-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--boston-scientific-target--gdc-ultrasoft-coil",
+      "artifact_folder": "embolic-coil--boston-scientific-target--gdc-ultrasoft-coil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific-target--gdc-ultrasoft-coil",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--boston-scientific-target--gdc-ultrasoft-coil-recalls",
+      "artifact_folder": "embolic-coil--boston-scientific-target--gdc-ultrasoft-coil-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific-target--gdc-ultrasoft-coil-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--boston-scientific-target--guglielmi-detachable-coil-and-power",
+      "artifact_folder": "embolic-coil--boston-scientific-target--guglielmi-detachable-coil-and-power",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific-target--guglielmi-detachable-coil-and-power",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--boston-scientific-target--guglielmi-detachable-coil-and-power-recalls",
+      "artifact_folder": "embolic-coil--boston-scientific-target--guglielmi-detachable-coil-and-power-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific-target--guglielmi-detachable-coil-and-power-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--boston-scientific-target--guglielmi-detachable-coil-gdc",
+      "artifact_folder": "embolic-coil--boston-scientific-target--guglielmi-detachable-coil-gdc",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific-target--guglielmi-detachable-coil-gdc",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--boston-scientific-target--guglielmi-detachable-coil-gdc-recalls",
+      "artifact_folder": "embolic-coil--boston-scientific-target--guglielmi-detachable-coil-gdc-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific-target--guglielmi-detachable-coil-gdc-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--boston-scientific-target--guglielmi-detachable-gdc",
+      "artifact_folder": "embolic-coil--boston-scientific-target--guglielmi-detachable-gdc",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific-target--guglielmi-detachable-gdc",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--boston-scientific-target--guglielmi-detachable-gdc-recalls",
+      "artifact_folder": "embolic-coil--boston-scientific-target--guglielmi-detachable-gdc-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific-target--guglielmi-detachable-gdc-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--boston-scientific-target--matrix-detachable-coils",
+      "artifact_folder": "embolic-coil--boston-scientific-target--matrix-detachable-coils",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific-target--matrix-detachable-coils",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--boston-scientific-target--matrix-detachable-coils-recalls",
+      "artifact_folder": "embolic-coil--boston-scientific-target--matrix-detachable-coils-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific-target--matrix-detachable-coils-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--boston-scientific-target--matrix-stretch-resistant-detachable-coil",
+      "artifact_folder": "embolic-coil--boston-scientific-target--matrix-stretch-resistant-detachable-coil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific-target--matrix-stretch-resistant-detachable-coil",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--boston-scientific-target--matrix-stretch-resistant-detachable-coil-recalls",
+      "artifact_folder": "embolic-coil--boston-scientific-target--matrix-stretch-resistant-detachable-coil-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific-target--matrix-stretch-resistant-detachable-coil-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--cerenovus--codman-microcoil-delivery-deltamaxx-microcoil",
+      "artifact_folder": "embolic-coil--cerenovus--codman-microcoil-delivery-deltamaxx-microcoil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cerenovus--codman-microcoil-delivery-deltamaxx-microcoil",
+      "file_count": 7,
+      "source_counts": {
+        "510k": 3,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--cerenovus--codman-microcoil-delivery-deltamaxx-microcoil-recalls",
+      "artifact_folder": "embolic-coil--cerenovus--codman-microcoil-delivery-deltamaxx-microcoil-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cerenovus--codman-microcoil-delivery-deltamaxx-microcoil-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--cerenovus--galaxy-g3-mini-microcoil-delivery",
+      "artifact_folder": "embolic-coil--cerenovus--galaxy-g3-mini-microcoil-delivery",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cerenovus--galaxy-g3-mini-microcoil-delivery",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--cerenovus--galaxy-g3-mini-microcoil-delivery-recalls",
+      "artifact_folder": "embolic-coil--cerenovus--galaxy-g3-mini-microcoil-delivery-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cerenovus--galaxy-g3-mini-microcoil-delivery-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--cerenovus--micrusframe-10-18-deltafill-18",
+      "artifact_folder": "embolic-coil--cerenovus--micrusframe-10-18-deltafill-18",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cerenovus--micrusframe-10-18-deltafill-18",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--cerenovus--micrusframe-10-18-deltafill-18-recalls",
+      "artifact_folder": "embolic-coil--cerenovus--micrusframe-10-18-deltafill-18-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cerenovus--micrusframe-10-18-deltafill-18-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--cerenovus--micrusframe-10-stretch-resistant-microcoil",
+      "artifact_folder": "embolic-coil--cerenovus--micrusframe-10-stretch-resistant-microcoil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cerenovus--micrusframe-10-stretch-resistant-microcoil",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--cerenovus--micrusframe-10-stretch-resistant-microcoil-recalls",
+      "artifact_folder": "embolic-coil--cerenovus--micrusframe-10-stretch-resistant-microcoil-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cerenovus--micrusframe-10-stretch-resistant-microcoil-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--cerenovus--orbit-galaxy-g2-microcoil-delivery",
+      "artifact_folder": "embolic-coil--cerenovus--orbit-galaxy-g2-microcoil-delivery",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cerenovus--orbit-galaxy-g2-microcoil-delivery",
+      "file_count": 7,
+      "source_counts": {
+        "510k": 3,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--cerenovus--orbit-galaxy-g2-microcoil-delivery-recalls",
+      "artifact_folder": "embolic-coil--cerenovus--orbit-galaxy-g2-microcoil-delivery-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cerenovus--orbit-galaxy-g2-microcoil-delivery-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--codman-and-shurtleff-inc--deltamaxx-18-microcoil",
+      "artifact_folder": "embolic-coil--codman-and-shurtleff-inc--deltamaxx-18-microcoil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--codman-and-shurtleff-inc--deltamaxx-18-microcoil",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--cook-inc--detach-18-and-detach-11",
+      "artifact_folder": "embolic-coil--cook-inc--detach-18-and-detach-11",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cook-inc--detach-18-and-detach-11",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--cook-inc--detach-18-and-detach-11-recalls",
+      "artifact_folder": "embolic-coil--cook-inc--detach-18-and-detach-11-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cook-inc--detach-18-and-detach-11-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--cook-inc--hilal-embolization-microcoil-tm",
+      "artifact_folder": "embolic-coil--cook-inc--hilal-embolization-microcoil-tm",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cook-inc--hilal-embolization-microcoil-tm",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--cook-inc--hilal-embolization-microcoil-tm-recalls",
+      "artifact_folder": "embolic-coil--cook-inc--hilal-embolization-microcoil-tm-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cook-inc--hilal-embolization-microcoil-tm-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--cordis--ces-vascular-occlusion",
+      "artifact_folder": "embolic-coil--cordis--ces-vascular-occlusion",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cordis--ces-vascular-occlusion",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--cordis--truefill-pva-particles",
+      "artifact_folder": "embolic-coil--cordis--truefill-pva-particles",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cordis--truefill-pva-particles",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--cordis--vascular-occlusion",
+      "artifact_folder": "embolic-coil--cordis--vascular-occlusion",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cordis--vascular-occlusion",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--interventional-therapeutics-corp--contour-emboli",
+      "artifact_folder": "embolic-coil--interventional-therapeutics-corp--contour-emboli",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--interventional-therapeutics-corp--contour-emboli",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--interventional-therapeutics-corp--itc-bunji-coil",
+      "artifact_folder": "embolic-coil--interventional-therapeutics-corp--itc-bunji-coil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--interventional-therapeutics-corp--itc-bunji-coil",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--interventional-therapeutics-corp--itc-bunji-coil-modification",
+      "artifact_folder": "embolic-coil--interventional-therapeutics-corp--itc-bunji-coil-modification",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--interventional-therapeutics-corp--itc-bunji-coil-modification",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--interventional-therapeutics-corp--itc-bunji-platinum-embolization-coil",
+      "artifact_folder": "embolic-coil--interventional-therapeutics-corp--itc-bunji-platinum-embolization-coil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--interventional-therapeutics-corp--itc-bunji-platinum-embolization-coil",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--interventional-therapeutics-corp--itc-contour-emboli-modification",
+      "artifact_folder": "embolic-coil--interventional-therapeutics-corp--itc-contour-emboli-modification",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--interventional-therapeutics-corp--itc-contour-emboli-modification",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--interventional-therapeutics-corp--radiopaque-spherical-emboli-rse",
+      "artifact_folder": "embolic-coil--interventional-therapeutics-corp--radiopaque-spherical-emboli-rse",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--interventional-therapeutics-corp--radiopaque-spherical-emboli-rse",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--ivalon--ivalon-embolization-particles",
+      "artifact_folder": "embolic-coil--ivalon--ivalon-embolization-particles",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--ivalon--ivalon-embolization-particles",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--kaneka-medical-america-llc--i-ed-coil",
+      "artifact_folder": "embolic-coil--kaneka-medical-america-llc--i-ed-coil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--kaneka-medical-america-llc--i-ed-coil",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--kaneka-pharma-america-llc--i-ed-coil",
+      "artifact_folder": "embolic-coil--kaneka-pharma-america-llc--i-ed-coil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--kaneka-pharma-america-llc--i-ed-coil",
+      "file_count": 8,
+      "source_counts": {
+        "510k": 3,
+        "data_by_device": 1,
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--medos-international-sarl--cerepak-uniform-uniform-xl-uniform",
+      "artifact_folder": "embolic-coil--medos-international-sarl--cerepak-uniform-uniform-xl-uniform",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--medos-international-sarl--cerepak-uniform-uniform-xl-uniform",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--medos-international-sarl--micrusframe-deltafill-deltaxsft-galaxy-g3",
+      "artifact_folder": "embolic-coil--medos-international-sarl--micrusframe-deltafill-deltaxsft-galaxy-g3",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--medos-international-sarl--micrusframe-deltafill-deltaxsft-galaxy-g3",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--medtronic--axium-detachable-coil",
+      "artifact_folder": "embolic-coil--medtronic--axium-detachable-coil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--medtronic--axium-detachable-coil",
+      "file_count": 9,
+      "source_counts": {
+        "510k": 3,
+        "data_by_device": 1,
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--medtronic--axium-detachable-coil-axium-prime",
+      "artifact_folder": "embolic-coil--medtronic--axium-detachable-coil-axium-prime",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--medtronic--axium-detachable-coil-axium-prime",
+      "file_count": 7,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--medtronic--axium-prime-detachable-coil",
+      "artifact_folder": "embolic-coil--medtronic--axium-prime-detachable-coil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--medtronic--axium-prime-detachable-coil",
+      "file_count": 8,
+      "source_counts": {
+        "510k": 3,
+        "data_by_device": 1,
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--medtronic--fx-detachable-coil",
+      "artifact_folder": "embolic-coil--medtronic--fx-detachable-coil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--medtronic--fx-detachable-coil",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--medtronic--modification-to-sapphire-detachable-coil",
+      "artifact_folder": "embolic-coil--medtronic--modification-to-sapphire-detachable-coil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--medtronic--modification-to-sapphire-detachable-coil",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--medtronic--nexus-detachable-coil",
+      "artifact_folder": "embolic-coil--medtronic--nexus-detachable-coil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--medtronic--nexus-detachable-coil",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--medtronic--nexus-detachable-coil-helix-super",
+      "artifact_folder": "embolic-coil--medtronic--nexus-detachable-coil-helix-super",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--medtronic--nexus-detachable-coil-helix-super",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--medtronic--nexus-detachable-coil-morpheus-3d",
+      "artifact_folder": "embolic-coil--medtronic--nexus-detachable-coil-morpheus-3d",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--medtronic--nexus-detachable-coil-morpheus-3d",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--medtronic--nexus-detachable-coil-multi-diameter",
+      "artifact_folder": "embolic-coil--medtronic--nexus-detachable-coil-multi-diameter",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--medtronic--nexus-detachable-coil-multi-diameter",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--medtronic--sapphire-detachable-coil",
+      "artifact_folder": "embolic-coil--medtronic--sapphire-detachable-coil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--medtronic--sapphire-detachable-coil",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--medtronic--sapphire-detachable-fiber-coils",
+      "artifact_folder": "embolic-coil--medtronic--sapphire-detachable-fiber-coils",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--medtronic--sapphire-detachable-fiber-coils",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--medtronic--sapphire-detachable-fibered-coil-helix",
+      "artifact_folder": "embolic-coil--medtronic--sapphire-detachable-fibered-coil-helix",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--medtronic--sapphire-detachable-fibered-coil-helix",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--medtronic--sapphire-nxt-detachable-coil",
+      "artifact_folder": "embolic-coil--medtronic--sapphire-nxt-detachable-coil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--medtronic--sapphire-nxt-detachable-coil",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--medtronic--sapphire-vds-tension-safe-detachable",
+      "artifact_folder": "embolic-coil--medtronic--sapphire-vds-tension-safe-detachable",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--medtronic--sapphire-vds-tension-safe-detachable",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microport-neurotech-shanghai-co-ltd--numen-coil-embolization-numenfr-detachment",
+      "artifact_folder": "embolic-coil--microport-neurotech-shanghai-co-ltd--numen-coil-embolization-numenfr-detachment",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microport-neurotech-shanghai-co-ltd--numen-coil-embolization-numenfr-detachment",
+      "file_count": 7,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 3,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--azur-detactable-18-models-45",
+      "artifact_folder": "embolic-coil--microvention--azur-detactable-18-models-45",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--azur-detactable-18-models-45",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--azur-detactable-18-models-45-recalls",
+      "artifact_folder": "embolic-coil--microvention--azur-detactable-18-models-45-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--azur-detactable-18-models-45-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--bare-platinum-framing-coil-model",
+      "artifact_folder": "embolic-coil--microvention--bare-platinum-framing-coil-model",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--bare-platinum-framing-coil-model",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--bare-platinum-framing-coil-model-recalls",
+      "artifact_folder": "embolic-coil--microvention--bare-platinum-framing-coil-model-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--bare-platinum-framing-coil-model-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--cosmos",
+      "artifact_folder": "embolic-coil--microvention--cosmos",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--cosmos",
+      "file_count": 1,
+      "source_counts": {
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--cosmostm",
+      "artifact_folder": "embolic-coil--microvention--cosmostm",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--cosmostm",
+      "file_count": 2,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--hydrocoil",
+      "artifact_folder": "embolic-coil--microvention--hydrocoil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--hydrocoil",
+      "file_count": 3,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--hydrocoil-embolic-hes",
+      "artifact_folder": "embolic-coil--microvention--hydrocoil-embolic-hes",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--hydrocoil-embolic-hes",
+      "file_count": 6,
+      "source_counts": {
+        "fda_raw": 6
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--hydrocoil-embolic-hydroframe-model-100931hfm",
+      "artifact_folder": "embolic-coil--microvention--hydrocoil-embolic-hydroframe-model-100931hfm",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--hydrocoil-embolic-hydroframe-model-100931hfm",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--hydrocoil-embolic-hydrosoft-and-microplex",
+      "artifact_folder": "embolic-coil--microvention--hydrocoil-embolic-hydrosoft-and-microplex",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--hydrocoil-embolic-hydrosoft-and-microplex",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--hydrocoil-r-embolic-hes",
+      "artifact_folder": "embolic-coil--microvention--hydrocoil-r-embolic-hes",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--hydrocoil-r-embolic-hes",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--hydrofill",
+      "artifact_folder": "embolic-coil--microvention--hydrofill",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--hydrofill",
+      "file_count": 1,
+      "source_counts": {
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--hydrofilltm",
+      "artifact_folder": "embolic-coil--microvention--hydrofilltm",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--hydrofilltm",
+      "file_count": 2,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--hydroframe",
+      "artifact_folder": "embolic-coil--microvention--hydroframe",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--hydroframe",
+      "file_count": 1,
+      "source_counts": {
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--hydroframe-hes",
+      "artifact_folder": "embolic-coil--microvention--hydroframe-hes",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--hydroframe-hes",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--hydroframe-hes-recalls",
+      "artifact_folder": "embolic-coil--microvention--hydroframe-hes-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--hydroframe-hes-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--hydroframetm",
+      "artifact_folder": "embolic-coil--microvention--hydroframetm",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--hydroframetm",
+      "file_count": 2,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--hydrosoft-3d-hydrosoft-helical",
+      "artifact_folder": "embolic-coil--microvention--hydrosoft-3d-hydrosoft-helical",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--hydrosoft-3d-hydrosoft-helical",
+      "file_count": 1,
+      "source_counts": {
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--hydrosoft-and-hydrosoft-plus-embolization",
+      "artifact_folder": "embolic-coil--microvention--hydrosoft-and-hydrosoft-plus-embolization",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--hydrosoft-and-hydrosoft-plus-embolization",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--hydrosoft-and-hydrosoft-plus-embolization-recalls",
+      "artifact_folder": "embolic-coil--microvention--hydrosoft-and-hydrosoft-plus-embolization-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--hydrosoft-and-hydrosoft-plus-embolization-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--hydrosofttm-3d-hydrosofttm-helical",
+      "artifact_folder": "embolic-coil--microvention--hydrosofttm-3d-hydrosofttm-helical",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--hydrosofttm-3d-hydrosofttm-helical",
+      "file_count": 2,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--hypersoft-3d-hypersoft-helical",
+      "artifact_folder": "embolic-coil--microvention--hypersoft-3d-hypersoft-helical",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--hypersoft-3d-hypersoft-helical",
+      "file_count": 1,
+      "source_counts": {
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--hypersofttm-3d-hypersofttm-helical",
+      "artifact_folder": "embolic-coil--microvention--hypersofttm-3d-hypersofttm-helical",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--hypersofttm-3d-hypersofttm-helical",
+      "file_count": 2,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--microplex-coil",
+      "artifact_folder": "embolic-coil--microvention--microplex-coil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--microplex-coil",
+      "file_count": 4,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--microplex-coil-cosmos",
+      "artifact_folder": "embolic-coil--microvention--microplex-coil-cosmos",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--microplex-coil-cosmos",
+      "file_count": 4,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--microplex-coil-cosmos-10-hydrocoil",
+      "artifact_folder": "embolic-coil--microvention--microplex-coil-cosmos-10-hydrocoil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--microplex-coil-cosmos-10-hydrocoil",
+      "file_count": 7,
+      "source_counts": {
+        "510k": 3,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--microplex-coil-cosmos-10-hydrocoil-recalls",
+      "artifact_folder": "embolic-coil--microvention--microplex-coil-cosmos-10-hydrocoil-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--microplex-coil-cosmos-10-hydrocoil-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--microplex-coil-cosmos-model-100933cssr",
+      "artifact_folder": "embolic-coil--microvention--microplex-coil-cosmos-model-100933cssr",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--microplex-coil-cosmos-model-100933cssr",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--microplex-coil-cosmos-model-100933cssr-recalls",
+      "artifact_folder": "embolic-coil--microvention--microplex-coil-cosmos-model-100933cssr-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--microplex-coil-cosmos-model-100933cssr-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--microplex-coil-cosmos-models-81451cs",
+      "artifact_folder": "embolic-coil--microvention--microplex-coil-cosmos-models-81451cs",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--microplex-coil-cosmos-models-81451cs",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--microplex-coil-cosmos-models-81451cs-recalls",
+      "artifact_folder": "embolic-coil--microvention--microplex-coil-cosmos-models-81451cs-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--microplex-coil-cosmos-models-81451cs-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--microplex-coil-cosmos-recalls",
+      "artifact_folder": "embolic-coil--microvention--microplex-coil-cosmos-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--microplex-coil-cosmos-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--microplex-coil-mcs",
+      "artifact_folder": "embolic-coil--microvention--microplex-coil-mcs",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--microplex-coil-mcs",
+      "file_count": 7,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--microplex-coil-mcs-and-hydrocoil",
+      "artifact_folder": "embolic-coil--microvention--microplex-coil-mcs-and-hydrocoil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--microplex-coil-mcs-and-hydrocoil",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--microplex-coil-mcs-and-hydrocoil-recalls",
+      "artifact_folder": "embolic-coil--microvention--microplex-coil-mcs-and-hydrocoil-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--microplex-coil-mcs-and-hydrocoil-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--microplex-coil-mcs-hydrocoil-embolic",
+      "artifact_folder": "embolic-coil--microvention--microplex-coil-mcs-hydrocoil-embolic",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--microplex-coil-mcs-hydrocoil-embolic",
+      "file_count": 7,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 3,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--microplex-coil-mcs-hydrocoil-embolic-recalls",
+      "artifact_folder": "embolic-coil--microvention--microplex-coil-mcs-hydrocoil-embolic-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--microplex-coil-mcs-hydrocoil-embolic-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--microplex-coil-mcs-hypersoft-3d",
+      "artifact_folder": "embolic-coil--microvention--microplex-coil-mcs-hypersoft-3d",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--microplex-coil-mcs-hypersoft-3d",
+      "file_count": 7,
+      "source_counts": {
+        "510k": 3,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--microplex-coil-mcs-hypersoft-3d-recalls",
+      "artifact_folder": "embolic-coil--microvention--microplex-coil-mcs-hypersoft-3d-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--microplex-coil-mcs-hypersoft-3d-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--microplex-coil-mcs-recalls",
+      "artifact_folder": "embolic-coil--microvention--microplex-coil-mcs-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--microplex-coil-mcs-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--microplex-coil-mcs-vfc",
+      "artifact_folder": "embolic-coil--microvention--microplex-coil-mcs-vfc",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--microplex-coil-mcs-vfc",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--microplex-coil-mcs-vfc-recalls",
+      "artifact_folder": "embolic-coil--microvention--microplex-coil-mcs-vfc-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--microplex-coil-mcs-vfc-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--microplex-coil-recalls",
+      "artifact_folder": "embolic-coil--microvention--microplex-coil-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--microplex-coil-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--microplex-coil-s-mcs",
+      "artifact_folder": "embolic-coil--microvention--microplex-coil-s-mcs",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--microplex-coil-s-mcs",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--microplex-coil-s-mcs-recalls",
+      "artifact_folder": "embolic-coil--microvention--microplex-coil-s-mcs-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--microplex-coil-s-mcs-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--microplex-coil-vector-model-030606xxx",
+      "artifact_folder": "embolic-coil--microvention--microplex-coil-vector-model-030606xxx",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--microplex-coil-vector-model-030606xxx",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--microplex-coil-vector-model-030606xxx-recalls",
+      "artifact_folder": "embolic-coil--microvention--microplex-coil-vector-model-030606xxx-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--microplex-coil-vector-model-030606xxx-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--modification-to-hydrocoil-embolic-hes",
+      "artifact_folder": "embolic-coil--microvention--modification-to-hydrocoil-embolic-hes",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--modification-to-hydrocoil-embolic-hes",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--modification-to-hydrocoil-embolic-hes-recalls",
+      "artifact_folder": "embolic-coil--microvention--modification-to-hydrocoil-embolic-hes-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--modification-to-hydrocoil-embolic-hes-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--v-grip-detachment-controller-for",
+      "artifact_folder": "embolic-coil--microvention--v-grip-detachment-controller-for",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--v-grip-detachment-controller-for",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--v-grip-plus-detachment-controller",
+      "artifact_folder": "embolic-coil--microvention--v-grip-plus-detachment-controller",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--v-grip-plus-detachment-controller",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--vfc",
+      "artifact_folder": "embolic-coil--microvention--vfc",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--vfc",
+      "file_count": 1,
+      "source_counts": {
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--microvention--vfctm",
+      "artifact_folder": "embolic-coil--microvention--vfctm",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--vfctm",
+      "file_count": 2,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--micrus-corp--micrus-microcoil",
+      "artifact_folder": "embolic-coil--micrus-corp--micrus-microcoil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--micrus-corp--micrus-microcoil",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--micrus-corp--micrus-microcoil-delivery-mds03",
+      "artifact_folder": "embolic-coil--micrus-corp--micrus-microcoil-delivery-mds03",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--micrus-corp--micrus-microcoil-delivery-mds03",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--micrus-corp--micrus-microcoil-s-models-hel",
+      "artifact_folder": "embolic-coil--micrus-corp--micrus-microcoil-s-models-hel",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--micrus-corp--micrus-microcoil-s-models-hel",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--micrus-corp--micrus-modified-microcoil-cerecyte",
+      "artifact_folder": "embolic-coil--micrus-corp--micrus-modified-microcoil-cerecyte",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--micrus-corp--micrus-modified-microcoil-cerecyte",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--micrus-corp--micrus-stretch-resistant-microcoil-msr01",
+      "artifact_folder": "embolic-coil--micrus-corp--micrus-stretch-resistant-microcoil-msr01",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--micrus-corp--micrus-stretch-resistant-microcoil-msr01",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--micrus-endovascular-corporation--micrus-microcoil",
+      "artifact_folder": "embolic-coil--micrus-endovascular-corporation--micrus-microcoil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--micrus-endovascular-corporation--micrus-microcoil",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--micrus-endovascular-corporation--micrus-microcoil-cashmere-cerecyte-model",
+      "artifact_folder": "embolic-coil--micrus-endovascular-corporation--micrus-microcoil-cashmere-cerecyte-model",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--micrus-endovascular-corporation--micrus-microcoil-cashmere-cerecyte-model",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--micrus-endovascular-corporation--micrus-microcoil-cashmere-model-src",
+      "artifact_folder": "embolic-coil--micrus-endovascular-corporation--micrus-microcoil-cashmere-model-src",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--micrus-endovascular-corporation--micrus-microcoil-cashmere-model-src",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--micrus-endovascular-corporation--micrus-microcoil-delivery",
+      "artifact_folder": "embolic-coil--micrus-endovascular-corporation--micrus-microcoil-delivery",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--micrus-endovascular-corporation--micrus-microcoil-delivery",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--micrus-endovascular-corporation--micrus-microcoil-delivery-models-sph",
+      "artifact_folder": "embolic-coil--micrus-endovascular-corporation--micrus-microcoil-delivery-models-sph",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--micrus-endovascular-corporation--micrus-microcoil-delivery-models-sph",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--micrus-endovascular-corporation--micrus-microcoil-deltapaq-10-cerecyte",
+      "artifact_folder": "embolic-coil--micrus-endovascular-corporation--micrus-microcoil-deltapaq-10-cerecyte",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--micrus-endovascular-corporation--micrus-microcoil-deltapaq-10-cerecyte",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--micrus-endovascular-corporation--micrus-microcoil-deltapaq-10-stretch",
+      "artifact_folder": "embolic-coil--micrus-endovascular-corporation--micrus-microcoil-deltapaq-10-stretch",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--micrus-endovascular-corporation--micrus-microcoil-deltapaq-10-stretch",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--micrus-endovascular-corporation--micrus-microcoil-presidio-18-model",
+      "artifact_folder": "embolic-coil--micrus-endovascular-corporation--micrus-microcoil-presidio-18-model",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--micrus-endovascular-corporation--micrus-microcoil-presidio-18-model",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--micrus-endovascular-corporation--micrus-microcoil-s",
+      "artifact_folder": "embolic-coil--micrus-endovascular-corporation--micrus-microcoil-s",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--micrus-endovascular-corporation--micrus-microcoil-s",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--micrus-endovascular-corporation--micrus-microcoli-deltaplush-models-cpl",
+      "artifact_folder": "embolic-coil--micrus-endovascular-corporation--micrus-microcoli-deltaplush-models-cpl",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--micrus-endovascular-corporation--micrus-microcoli-deltaplush-models-cpl",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--micrus-endovascular-corporation--micrus-modified-microcoil-18-cerecyte",
+      "artifact_folder": "embolic-coil--micrus-endovascular-corporation--micrus-modified-microcoil-18-cerecyte",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--micrus-endovascular-corporation--micrus-modified-microcoil-18-cerecyte",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--penumbra--neuro-embolization-technologies",
+      "artifact_folder": "embolic-coil--penumbra--neuro-embolization-technologies",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--penumbra--neuro-embolization-technologies",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--penumbra--penumbra-coil-400-ruby-coil",
+      "artifact_folder": "embolic-coil--penumbra--penumbra-coil-400-ruby-coil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--penumbra--penumbra-coil-400-ruby-coil",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--penumbra--penumbra-coil-400-ruby-coil-recalls",
+      "artifact_folder": "embolic-coil--penumbra--penumbra-coil-400-ruby-coil-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--penumbra--penumbra-coil-400-ruby-coil-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--penumbra--penumbra-coil-penumbra-coil-400",
+      "artifact_folder": "embolic-coil--penumbra--penumbra-coil-penumbra-coil-400",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--penumbra--penumbra-coil-penumbra-coil-400",
+      "file_count": 7,
+      "source_counts": {
+        "510k": 3,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--penumbra--penumbra-coil-penumbra-coil-400-recalls",
+      "artifact_folder": "embolic-coil--penumbra--penumbra-coil-penumbra-coil-400-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--penumbra--penumbra-coil-penumbra-coil-400-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--penumbra--penumbra-embolization-coil",
+      "artifact_folder": "embolic-coil--penumbra--penumbra-embolization-coil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--penumbra--penumbra-embolization-coil",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--penumbra--penumbra-embolization-coil-recalls",
+      "artifact_folder": "embolic-coil--penumbra--penumbra-embolization-coil-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--penumbra--penumbra-embolization-coil-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--penumbra--penumbra-lp-coil",
+      "artifact_folder": "embolic-coil--penumbra--penumbra-lp-coil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--penumbra--penumbra-lp-coil",
+      "file_count": 8,
+      "source_counts": {
+        "510k": 3,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--penumbra--penumbra-lp-coil-recalls",
+      "artifact_folder": "embolic-coil--penumbra--penumbra-lp-coil-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--penumbra--penumbra-lp-coil-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--penumbra--penumbra-smart-coil",
+      "artifact_folder": "embolic-coil--penumbra--penumbra-smart-coil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--penumbra--penumbra-smart-coil",
+      "file_count": 9,
+      "source_counts": {
+        "510k": 3,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 3,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--penumbra--penumbra-smart-coil-recalls",
+      "artifact_folder": "embolic-coil--penumbra--penumbra-smart-coil-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--penumbra--penumbra-smart-coil-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--penumbra--pod",
+      "artifact_folder": "embolic-coil--penumbra--pod",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--penumbra--pod",
+      "file_count": 8,
+      "source_counts": {
+        "510k": 3,
+        "data_by_device": 1,
+        "enriched": 1,
+        "extracted": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--penumbra--pod-packing-coil",
+      "artifact_folder": "embolic-coil--penumbra--pod-packing-coil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--penumbra--pod-packing-coil",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--penumbra--pod-packing-coil-recalls",
+      "artifact_folder": "embolic-coil--penumbra--pod-packing-coil-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--penumbra--pod-packing-coil-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--penumbra--pod-recalls",
+      "artifact_folder": "embolic-coil--penumbra--pod-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--penumbra--pod-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--penumbra--ruby-embolization-platform",
+      "artifact_folder": "embolic-coil--penumbra--ruby-embolization-platform",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--penumbra--ruby-embolization-platform",
+      "file_count": 4,
+      "source_counts": {
+        "data_by_device": 1,
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--protein-polymer-technologies-inc--modified-pva-plus-foam-embolization",
+      "artifact_folder": "embolic-coil--protein-polymer-technologies-inc--modified-pva-plus-foam-embolization",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--protein-polymer-technologies-inc--modified-pva-plus-foam-embolization",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--rj-medical-inc--pva-plus-vial-pva-foam",
+      "artifact_folder": "embolic-coil--rj-medical-inc--pva-plus-vial-pva-foam",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--rj-medical-inc--pva-plus-vial-pva-foam",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--scion-cardio-vascular-inc--m-bolus-embolic-microspheres",
+      "artifact_folder": "embolic-coil--scion-cardio-vascular-inc--m-bolus-embolic-microspheres",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--scion-cardio-vascular-inc--m-bolus-embolic-microspheres",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--spartan-micro-inc--spartan-ecoil",
+      "artifact_folder": "embolic-coil--spartan-micro-inc--spartan-ecoil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--spartan-micro-inc--spartan-ecoil",
+      "file_count": 7,
+      "source_counts": {
+        "510k": 3,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--stryker--axs-infinity-ls-plus-long-sheath-climb-higher",
+      "artifact_folder": "embolic-coil--stryker--axs-infinity-ls-plus-long-sheath-climb-higher",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--axs-infinity-ls-plus-long-sheath-climb-higher",
+      "file_count": 1,
+      "source_counts": {
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--stryker--axs-infinity-ls-r-plus-long",
+      "artifact_folder": "embolic-coil--stryker--axs-infinity-ls-r-plus-long",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--axs-infinity-ls-r-plus-long",
+      "file_count": 2,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--stryker--berenstein-coil",
+      "artifact_folder": "embolic-coil--stryker--berenstein-coil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--berenstein-coil",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--stryker--berenstein-coil-recalls",
+      "artifact_folder": "embolic-coil--stryker--berenstein-coil-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--berenstein-coil-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--stryker--coil-and-coil-delivery",
+      "artifact_folder": "embolic-coil--stryker--coil-and-coil-delivery",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--coil-and-coil-delivery",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--stryker--detachable-platinum-coil-guglielmi-detachable",
+      "artifact_folder": "embolic-coil--stryker--detachable-platinum-coil-guglielmi-detachable",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--detachable-platinum-coil-guglielmi-detachable",
+      "file_count": 1,
+      "source_counts": {
+        "fda_raw": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--stryker--gdc-patient-return-electtrode-model",
+      "artifact_folder": "embolic-coil--stryker--gdc-patient-return-electtrode-model",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--gdc-patient-return-electtrode-model",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--stryker--gdc-patient-return-electtrode-model-recalls",
+      "artifact_folder": "embolic-coil--stryker--gdc-patient-return-electtrode-model-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--gdc-patient-return-electtrode-model-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--stryker--guglielmi-detachable-coil",
+      "artifact_folder": "embolic-coil--stryker--guglielmi-detachable-coil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--guglielmi-detachable-coil",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--stryker--guglielmi-detachable-coil-recalls",
+      "artifact_folder": "embolic-coil--stryker--guglielmi-detachable-coil-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--guglielmi-detachable-coil-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--stryker--helix-shaped-coils-with-dacron",
+      "artifact_folder": "embolic-coil--stryker--helix-shaped-coils-with-dacron",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--helix-shaped-coils-with-dacron",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--stryker--helix-shaped-coils-with-dacron-recalls",
+      "artifact_folder": "embolic-coil--stryker--helix-shaped-coils-with-dacron-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--helix-shaped-coils-with-dacron-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--stryker--inzone-detachment",
+      "artifact_folder": "embolic-coil--stryker--inzone-detachment",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--inzone-detachment",
+      "file_count": 8,
+      "source_counts": {
+        "510k": 3,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 2,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--stryker--inzone-detachment-recalls",
+      "artifact_folder": "embolic-coil--stryker--inzone-detachment-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--inzone-detachment-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--stryker--inzone-detachment-system",
+      "artifact_folder": "embolic-coil--stryker--inzone-detachment-system",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--inzone-detachment-system",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--stryker--inzone-ist-detachment-izds-connecting",
+      "artifact_folder": "embolic-coil--stryker--inzone-ist-detachment-izds-connecting",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--inzone-ist-detachment-izds-connecting",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--stryker--inzone-ist-detachment-izds-connecting-recalls",
+      "artifact_folder": "embolic-coil--stryker--inzone-ist-detachment-izds-connecting-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--inzone-ist-detachment-izds-connecting-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--stryker--modified-target-therapeutics-coils",
+      "artifact_folder": "embolic-coil--stryker--modified-target-therapeutics-coils",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--modified-target-therapeutics-coils",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--stryker--modified-target-therapeutics-coils-recalls",
+      "artifact_folder": "embolic-coil--stryker--modified-target-therapeutics-coils-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--modified-target-therapeutics-coils-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--stryker--target-360-detachable-coil",
+      "artifact_folder": "embolic-coil--stryker--target-360-detachable-coil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--target-360-detachable-coil",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--stryker--target-3d-detachable-coil",
+      "artifact_folder": "embolic-coil--stryker--target-3d-detachable-coil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--target-3d-detachable-coil",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--stryker--target-detachable",
+      "artifact_folder": "embolic-coil--stryker--target-detachable",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--target-detachable",
+      "file_count": 3,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--stryker--target-detachable-coil",
+      "artifact_folder": "embolic-coil--stryker--target-detachable-coil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--target-detachable-coil",
+      "file_count": 6,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 4,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--stryker--target-detachable-coil-recalls",
+      "artifact_folder": "embolic-coil--stryker--target-detachable-coil-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--target-detachable-coil-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--stryker--target-detachable-coils",
+      "artifact_folder": "embolic-coil--stryker--target-detachable-coils",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--target-detachable-coils",
+      "file_count": 3,
+      "source_counts": {
+        "fda_raw": 3
+      }
+    },
+    {
+      "slug": "embolic-coil--stryker--target-helical-detachable-coil",
+      "artifact_folder": "embolic-coil--stryker--target-helical-detachable-coil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--target-helical-detachable-coil",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--stryker--target-tetra-detachable-coil",
+      "artifact_folder": "embolic-coil--stryker--target-tetra-detachable-coil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--target-tetra-detachable-coil",
+      "file_count": 1,
+      "source_counts": {
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--stryker--target-tetra-detachable-coils",
+      "artifact_folder": "embolic-coil--stryker--target-tetra-detachable-coils",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--target-tetra-detachable-coils",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--stryker--target-tetra-detachable-coils-recalls",
+      "artifact_folder": "embolic-coil--stryker--target-tetra-detachable-coils-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--target-tetra-detachable-coils-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--stryker--target-tetra-r-detachable-coil",
+      "artifact_folder": "embolic-coil--stryker--target-tetra-r-detachable-coil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--target-tetra-r-detachable-coil",
+      "file_count": 2,
+      "source_counts": {
+        "enriched": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--stryker--traget-detachable-coil",
+      "artifact_folder": "embolic-coil--stryker--traget-detachable-coil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--traget-detachable-coil",
+      "file_count": 5,
+      "source_counts": {
+        "510k": 2,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--stryker--traget-detachable-coil-recalls",
+      "artifact_folder": "embolic-coil--stryker--traget-detachable-coil-recalls",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--traget-detachable-coil-recalls",
+      "file_count": 1,
+      "source_counts": {
+        "extracted": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--stryker--transform",
+      "artifact_folder": "embolic-coil--stryker--transform",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--stryker--transform",
+      "file_count": 4,
+      "source_counts": {
+        "enriched": 1,
+        "extracted": 1,
+        "merged": 1,
+        "scraper_raw": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--surgica-corp--maxistat-pva-foam-embolization-particles",
+      "artifact_folder": "embolic-coil--surgica-corp--maxistat-pva-foam-embolization-particles",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--surgica-corp--maxistat-pva-foam-embolization-particles",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--surgica-corp--microstat-pva-foam-embolization-particles",
+      "artifact_folder": "embolic-coil--surgica-corp--microstat-pva-foam-embolization-particles",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--surgica-corp--microstat-pva-foam-embolization-particles",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--surgica-corp--pva-foam-embolization-particles",
+      "artifact_folder": "embolic-coil--surgica-corp--pva-foam-embolization-particles",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--surgica-corp--pva-foam-embolization-particles",
+      "file_count": 3,
+      "source_counts": {
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    },
+    {
+      "slug": "embolic-coil--wallaby-medical-inc--wallaby-avenir-coil",
+      "artifact_folder": "embolic-coil--wallaby-medical-inc--wallaby-avenir-coil",
+      "path": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--wallaby-medical-inc--wallaby-avenir-coil",
+      "file_count": 6,
+      "source_counts": {
+        "510k": 2,
+        "data_by_device": 1,
+        "enriched": 1,
+        "fda_raw": 1,
+        "merged": 1
+      }
+    }
+  ],
+  "device_count": 231
+}

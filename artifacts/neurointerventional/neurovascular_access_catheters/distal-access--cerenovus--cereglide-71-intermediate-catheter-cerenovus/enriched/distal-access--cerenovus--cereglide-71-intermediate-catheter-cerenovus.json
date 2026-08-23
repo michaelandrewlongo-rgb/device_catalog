@@ -1,0 +1,87 @@
+{
+ "device_name": "CEREGLIDE 71 Intermediate Catheter; Cerenovus Aspiration Tubing Set",
+ "manufacturer": "cerenovus",
+ "catalog_category": "distal-access",
+ "filename_stem": "distal-access--cerenovus--cereglide-71-intermediate-catheter-cerenovus",
+ "clearance_type": "510k",
+ "clearance_number": "K221934",
+ "clearance_date": "2023-03-09",
+ "device_class": 2,
+ "device_name_fda": "CEREGLIDE 71 Intermediate Catheter; Cerenovus Aspiration Tubing Set",
+ "product_code": "NRY",
+ "what_it_is": null,
+ "sizing_specs": {
+  "id_od": {
+   "units": "inches",
+   "max_od_is_proximal": true,
+   "od_prox": {
+    "in": 0.0837
+   },
+   "od_dist": {
+    "in": 0.082
+   },
+   "id": {
+    "in": 0.071
+   },
+   "verbatim_quote": "ed for use as a conduit for retrieval devices. Dimensions: Length 115 - 137cm 125 - 135cm Inner Diameter (ID) 0.071\u201d Same Distal Outer Diameter (OD) 0.082\u201d (0.0825\u201d max) 0.081\u201d Proximal ",
+   "k_number": "K221930",
+   "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K221930.pdf",
+   "extraction_method": "pymupdf_text_regex_verified",
+   "extracted": "2026-08-23"
+  },
+  "spec_status": "verified"
+ },
+ "indications": "Indications for Use See PRA Statement below.\n51 0(k) Number (if known)\nK221934\nDevice Name\nCEREGLIDE\u2122 71 Intermediate Catheter; Cerenovus Aspiration Tubing Set\nIndications for Use (Describe)\nCEREGLIDE\u2122 71 Intermediate Catheter\nThe CEREGLIDE\u2122 71 Intermediate Catheter, with the Cerenovus Aspiration Tubing Set and a compatible aspiration\npump, is indicated for use in the revascularization of patients with acute ischemic stroke secondary to intracranial large\nvessel occlusive disease (within the internal carotid, middle cerebral-Ml and M2 segments, basilar, and vertebral arteries)\nwithin 8 hours of symptom onset. Patients who are ineligible for intravenous tissue plasminogen activator (IV t-PA) or\nwho fail IV t-PA therapy are candidates for treatment.\nCerenovus Aspiration Tubing Set\nThe Cerenovus Aspiration Tubing Set is intended to connect the Cerenovus Large Bore Catheter to the canister of the\nNouvag Vacuson 60 Aspiration Pump ( or equivalent vacuum pump) and to allow the user to control the fluid flow. The\nCerenovus Aspiration Tubing Set is also intended to connect the CEREGLIDE\u2122 71 Intermediate Catheter to the canister\nof a compatible aspiration pump and to allow the user to control the fluid flow.\nType of Use (Select one or both, as applicable)\nIZI D\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)\nCONTINUE ON A SEPARATE PAGE IF NEEDED.\nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the\ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any other aspect\nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n\"An agency may not conduct or sponsor, and a person is not required to respond to, a collection of\ninformation unless it displays a currently valid 0MB number.\"\nFORM FDA 3881 (6/20) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF\n\nCerenovus, Inc. Traditional 510(k) Premarket Notification\nCEREGLIDE\u2122 71 Intermediate Catheter; Cerenovus Aspiration Tubing Set\n510(k) Summary K221934\nI. Submitter Cerenovus, Inc.\n6303 Blue Lagoon Drive\nSuites 215 & 315\nMiami, FL 33126 USA\nContact Person: Ariell Joiner\nTel: (908) 249-0182\nEmail: ajoiner@its.jnj.com\nII. Date\nMarch 8, 2023\nPrepared\nIII. Device\nTable 1. Device Information\nInformation CEREGLIDE\u2122 71 Intermediate Catheter; Cerenovus\nDevice Proprietary Name\nAspiration Tubing Set\nCommon or Usual name Catheter, Thrombus Retriever\nClassification Name 21 CFR 870.1250 \u2013 Catheter, Percutaneous\nRegulatory Classification II\nFDA Product Code NRY\nIV. Predicate The primary predicate device is listed below in Table 2 and the reference device is\nDevice listed in Table 3.\nInformation\nTable 2. Primary Predicate Device\n510(k) Number Date Cleared Name Manufacturer\nCERENOVUS Large Bore\nMedos International\nK193380 July 20, 2020 Catheter; CERENOVUS\nSARL*\nAspiration Tubing Set\n*510(k) was previously held by Codman & Shurtleff, Inc. The 510(k) was transferred to\nMedos International SARL, which is the current holder of the 510(k).\nTable 3. Reference Device\n510(k) Number Date Cleared Name Manufacturer\nSOFIA Plus Aspiration\nK173200 June 11, 2018 MicroVention, Inc.\nCatheter\nContinued on next page\n1\n\n| Table 1. Device Information |  |  |  |\n| --- | --- | --- | --- |\n| Device Proprietary Name |  |  | CEREGLIDE\u2122 71 Intermediate Catheter; Cerenovus\nAspiration Tubing Set |\n|  | Common or Usual name |  | Catheter, Thrombus Retriever |\n|  | Classification Name |  | 21 CFR 870.1250 \u2013 Catheter, Percutaneous |\n|  | Regulatory Classification |  | II |\n|  | FDA Product Code |  | NRY |\n\n| Table 2. Primary Predicate Device |  |  |  |\n| --- | --- | --- | --- |\n| 510(k) Number | Date Cleared | Name | Manufacturer |\n| K193380 | July 20, 2020 | CERENOVUS Large Bore\nCatheter; CERENOVUS\nAspiration Tubing Set | Medos International\nSARL* |\n| *510(k) was previously held by Codman & Shurtleff, Inc. The 510(k) was transferred to\nMedos International SARL, which is the current holder of the 510(k). |  |  |  |\n\n| Table 3. Reference Device |  |  |  |\n| --- | --- | --- | --- |\n| 510(k) Number | Date Cleared | Name | Manufacturer |\n| K173200 | June 11, 2018 | SOFIA Plus Aspiration\nCatheter | MicroVention, Inc. |\n\nCerenovus, Inc. Traditional 510(k) Premarket Notification\nCEREGLIDE\u2122 71 Intermediate Catheter; Cerenovus Aspiration Tubing Set\n510(k) Summary, continued\nV. Device The CEREGLIDE\u2122 71 Intermediate Catheter is a variable stiffness, single lumen\nDescription catheter designed to be introduced over a steerable guide wire or microcatheter into the\nneuro vasculature. The catheter shaft is composed of a stainless steel variable pitch\nbraid with a PTFE inner liner to facilitate movement of guide wires and other devices.\nThe exterior of the catheter shaft is covered with polymer materials, which encapsulate\nthe stainless steel braid construction. The catheter has a stiff proximal shaft which\ntransitions into the flexible distal shaft to facilitate the advancement of the catheter in\nthe anatomy. The distal end of the catheter has a radiopaque marker band to facilitate\nfluoroscopic visualization and has a hydrophilic coating to provide lubricity to reduce\nfriction during navigation in the vasculature. The proximal end of the catheter has a\nluer fitting located on the end of the catheter hub which can be used to attach\naccessories for flushing and aspiration. An ID band is placed at the distal end of the\nhub over a strain relief.\nThe catheter is packaged with a Tuohy Borst rotating hemostasis valve (RHV) with a\nside port and two slit introducers as accessories. The RHV with side port is used for\nflushing, insertion of catheters, and connection to an external aspiration system. The\nslit introducers are designed to introduce the catheter into the base catheter and protect\nthe distal tip of the catheter during insertion into the RHV of the base catheter.\nThe CEREGLIDE\u2122 71 Intermediate Catheter can be connected to a compatible\naspiration pump using the Cerenovus Aspiration Tubing Set.\nVI. Indications The CEREGLIDE\u2122 71 Intermediate Catheter, with the Cerenovus Aspiration Tubing\nfor Use Set and a compatible aspiration pump, is indicated for use in the revascularization of\npatients with acute ischemic stroke secondary to intracranial large vessel occlusive\ndisease (within the internal carotid, middle cerebral \u2013 M1 and M2 segments, basilar,\nand vertebral arteries) within 8 hours of symptom onset. Patients who are ineligible for\nintravenous tissue plasminogen activator (IV t-PA) or who fail IV t-PA therapy are\ncandidates for treatment.\nThe Cerenovus Aspiration Tubing Set is intended to connect the Cerenovus Large Bore\nCatheter to the canister of the Nouvag Vacuson 60 Aspiration Pump (or equivalent\nvacuum pump) and to allow the user to control the fluid flow. The Cerenovus\nAspiration Tubing Set is also intended to connect the CEREGLIDE\u2122 71 Intermediate\nCatheter to the canister of a compatible aspiration pump and to allow the user to control\nthe fluid flow.\nContinued on next page\n2\n\nCerenovus, Inc. Traditional 510(k) Premarket Notification\nCEREGLIDE\u2122 71 Intermediate Catheter; Cerenovus Aspiration Tubing Set\n510(k) Summary, continued\nVII. Predicate A comparison of the similarities and differences of product features between the\nComparison CEREGLIDE\u2122 71 Intermediate Catheter, Cerenovus Aspiration Tubing Set and the",
+ "contraindications": null,
+ "compatible_with": null,
+ "use_notes": null,
+ "deployment_steps": null,
+ "also_known_as": [
+  "K193380",
+  "K193380",
+  "K193380",
+  "K193380",
+  "K193380",
+  "K193380",
+  "K193380",
+  "K193380"
+ ],
+ "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K221934.pdf",
+ "ifu_pdf_url": null,
+ "source_url": "",
+ "confidence_score": 0.5,
+ "needs_review": false,
+ "data_sources": [
+  "fda"
+ ],
+ "_enrichment": {
+  "what_it_is": {
+   "source": "none",
+   "confidence": 0
+  },
+  "sizing_specs": {
+   "source": "none",
+   "confidence": 0
+  },
+  "indications": {
+   "source": "fda_summary",
+   "confidence": 0.95
+  },
+  "contraindications": {
+   "source": "none",
+   "confidence": 0
+  },
+  "compatible_with": {
+   "source": "none",
+   "confidence": 0
+  },
+  "use_notes": {
+   "source": "none",
+   "confidence": 0
+  },
+  "also_known_as": {
+   "source": "fda_summary",
+   "confidence": 0.3
+  }
+ }
+}

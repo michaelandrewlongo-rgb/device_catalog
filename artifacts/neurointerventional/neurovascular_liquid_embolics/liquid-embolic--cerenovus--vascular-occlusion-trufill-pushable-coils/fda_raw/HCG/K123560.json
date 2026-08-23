@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K123560",
+  "clearance_date": "2013-01-25",
+  "device_class": 2,
+  "manufacturer_canonical": "cerenovus",
+  "manufacturer_raw": "Codman & Shurtleff, Inc.",
+  "catalog_category": "liquid-embolic",
+  "device_name_fda": "VASCULAR OCCLUSION SYSTEM (TRUFILL PUSHABLE COILS), AND TRUFILL DCS ORBIT DETACHABLE COIL SYSEM",
+  "product_code": "HCG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "liquid-embolic--cerenovus--vascular-occlusion-trufill-pushable-coils",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf12/K123560.pdf"
+}

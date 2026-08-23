@@ -1,0 +1,21 @@
+{
+  "device_slug": "microcatheter--medos-international-sarl--cerebase-da-guide-sheath-95cm-recalls",
+  "artifact_folder": "microcatheter--medos-international-sarl--cerebase-da-guide-sheath-95cm-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 483,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/microcatheter--medos-international-sarl--cerebase-da-guide-sheath-95cm-recalls.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--medos-international-sarl--cerebase-da-guide-sheath-95cm-recalls/extracted/fda_safety/microcatheter--medos-international-sarl--cerebase-da-guide-sheath-95cm-recalls.json",
+        "bytes": 483
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

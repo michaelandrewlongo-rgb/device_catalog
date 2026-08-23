@@ -1,0 +1,21 @@
+{
+  "device_slug": "embolic-coil--balt--optima-coil-optima-packing-coil-recalls",
+  "artifact_folder": "embolic-coil--balt--optima-coil-optima-packing-coil-recalls",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 11094,
+  "sources": {
+    "extracted": [
+      {
+        "source": "pipeline/data/extracted/fda_safety/embolic-coil--balt--optima-coil-optima-packing-coil-recalls.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--balt--optima-coil-optima-packing-coil-recalls/extracted/fda_safety/embolic-coil--balt--optima-coil-optima-packing-coil-recalls.json",
+        "bytes": 11094
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

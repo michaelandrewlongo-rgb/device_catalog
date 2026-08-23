@@ -1,0 +1,54 @@
+{
+  "device_slug": "aspiration--stryker--axs-catalyst-7-distal-access",
+  "artifact_folder": "aspiration--stryker--axs-catalyst-7-distal-access",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 612164,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/aspiration/parsed/fda_summaries/aspiration--stryker--axs-catalyst-7-distal-access--510k.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--stryker--axs-catalyst-7-distal-access/510k/aspiration/parsed/fda_summaries/aspiration--stryker--axs-catalyst-7-distal-access--510k.json",
+        "bytes": 149621
+      },
+      {
+        "source": "pipeline/data/510k/aspiration/pdfs/aspiration--stryker--axs-catalyst-7-distal-access--510k.pdf",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--stryker--axs-catalyst-7-distal-access/510k/aspiration/pdfs/aspiration--stryker--axs-catalyst-7-distal-access--510k.pdf",
+        "bytes": 407605
+      }
+    ],
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/aspiration--stryker--axs-catalyst-7-distal-access--knowledge.md",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--stryker--axs-catalyst-7-distal-access/data_by_device/aspiration--stryker--axs-catalyst-7-distal-access--knowledge.md",
+        "bytes": 4277
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/aspiration--stryker--axs-catalyst-7-distal-access.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--stryker--axs-catalyst-7-distal-access/enriched/aspiration--stryker--axs-catalyst-7-distal-access.json",
+        "bytes": 49134
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NRY/K183464.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--stryker--axs-catalyst-7-distal-access/fda_raw/NRY/K183464.json",
+        "bytes": 611
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/aspiration--stryker--axs-catalyst-7-distal-access.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--stryker--axs-catalyst-7-distal-access/merged/aspiration--stryker--axs-catalyst-7-distal-access.json",
+        "bytes": 916
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "thrombectomy_aspiration_catheters",
+    "label": "Aspiration Catheters"
+  }
+}

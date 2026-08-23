@@ -1,0 +1,28 @@
+{
+  "device_slug": "distal-access--stryker--flowgate-2-r",
+  "artifact_folder": "distal-access--stryker--flowgate-2-r",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 2,
+  "bytes": 3012,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/distal-access--stryker--flowgate-2-r.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--stryker--flowgate-2-r/enriched/distal-access--stryker--flowgate-2-r.json",
+        "bytes": 1802
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/distal-access--stryker--flowgate-2-r.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--stryker--flowgate-2-r/merged/distal-access--stryker--flowgate-2-r.json",
+        "bytes": 1210
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_access_catheters",
+    "label": "Access, Guide, Delivery Catheters"
+  }
+}

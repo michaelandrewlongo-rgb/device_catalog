@@ -1,0 +1,35 @@
+{
+  "device_slug": "embolic-coil--acta-vascular-systems-inc--ultra-ivalon-and-ultra-drivalon",
+  "artifact_folder": "embolic-coil--acta-vascular-systems-inc--ultra-ivalon-and-ultra-drivalon",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3073,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--acta-vascular-systems-inc--ultra-ivalon-and-ultra-drivalon.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--acta-vascular-systems-inc--ultra-ivalon-and-ultra-drivalon/enriched/embolic-coil--acta-vascular-systems-inc--ultra-ivalon-and-ultra-drivalon.json",
+        "bytes": 1502
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K042297.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--acta-vascular-systems-inc--ultra-ivalon-and-ultra-drivalon/fda_raw/HCG/K042297.json",
+        "bytes": 650
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--acta-vascular-systems-inc--ultra-ivalon-and-ultra-drivalon.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--acta-vascular-systems-inc--ultra-ivalon-and-ultra-drivalon/merged/embolic-coil--acta-vascular-systems-inc--ultra-ivalon-and-ultra-drivalon.json",
+        "bytes": 921
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

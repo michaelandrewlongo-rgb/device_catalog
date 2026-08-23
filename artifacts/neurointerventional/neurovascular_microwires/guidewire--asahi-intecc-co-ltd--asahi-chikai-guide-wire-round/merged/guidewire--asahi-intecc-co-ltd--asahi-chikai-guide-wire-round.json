@@ -1,0 +1,28 @@
+{
+  "device_name": "ASAHI CHIKAI Neurovascular Guide Wire (Round Curve)",
+  "manufacturer": "asahi-intecc-co-ltd",
+  "catalog_category": "guidewire",
+  "filename_stem": "guidewire--asahi-intecc-co-ltd--asahi-chikai-guide-wire-round",
+  "clearance_type": "510k",
+  "clearance_number": "K160659",
+  "clearance_date": "2016-04-07",
+  "device_class": 2,
+  "device_name_fda": "ASAHI CHIKAI Neurovascular Guide Wire (Round Curve)",
+  "product_code": "MOF",
+  "what_it_is": null,
+  "sizing_specs": null,
+  "indications": null,
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf16/K160659.pdf",
+  "ifu_pdf_url": null,
+  "source_url": "",
+  "confidence_score": 0.5,
+  "needs_review": true,
+  "data_sources": [
+    "fda"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K221822",
+  "clearance_date": "2022-11-04",
+  "device_class": 2,
+  "manufacturer_canonical": "penumbra",
+  "manufacturer_raw": "Penumbra, Inc.",
+  "catalog_category": "microcatheter",
+  "device_name_fda": "BENCHMARK BMX81 Access System",
+  "product_code": "QJP",
+  "product_code_description": "Cardiovascular",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "microcatheter--penumbra--benchmark-bmx81-access",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K221822.pdf"
+}

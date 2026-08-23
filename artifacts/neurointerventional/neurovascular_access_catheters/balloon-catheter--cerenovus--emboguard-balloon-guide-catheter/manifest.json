@@ -1,0 +1,71 @@
+{
+  "device_slug": "balloon-catheter--cerenovus--emboguard-balloon-guide-catheter",
+  "artifact_folder": "balloon-catheter--cerenovus--emboguard-balloon-guide-catheter",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 9,
+  "bytes": 723018,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/balloon-catheter/parsed/documents/balloon-catheter--cerenovus--emboguard-balloon-guide-catheter--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/balloon-catheter--cerenovus--emboguard-balloon-guide-catheter/510k/balloon-catheter/parsed/documents/balloon-catheter--cerenovus--emboguard-balloon-guide-catheter--510k.json",
+        "bytes": 1835
+      },
+      {
+        "source": "pipeline/data/510k/balloon-catheter/parsed/fda_summaries/balloon-catheter--cerenovus--emboguard-balloon-guide-catheter--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/balloon-catheter--cerenovus--emboguard-balloon-guide-catheter/510k/balloon-catheter/parsed/fda_summaries/balloon-catheter--cerenovus--emboguard-balloon-guide-catheter--510k.json",
+        "bytes": 108699
+      },
+      {
+        "source": "pipeline/data/510k/balloon-catheter/pdfs/balloon-catheter--cerenovus--emboguard-balloon-guide-catheter--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/balloon-catheter--cerenovus--emboguard-balloon-guide-catheter/510k/balloon-catheter/pdfs/balloon-catheter--cerenovus--emboguard-balloon-guide-catheter--510k.pdf",
+        "bytes": 603061
+      }
+    ],
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/balloon-catheter--cerenovus--emboguard-balloon-guide-catheter--knowledge.md",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/balloon-catheter--cerenovus--emboguard-balloon-guide-catheter/data_by_device/balloon-catheter--cerenovus--emboguard-balloon-guide-catheter--knowledge.md",
+        "bytes": 2776
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/balloon-catheter--cerenovus--emboguard-balloon-guide-catheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/balloon-catheter--cerenovus--emboguard-balloon-guide-catheter/enriched/balloon-catheter--cerenovus--emboguard-balloon-guide-catheter.json",
+        "bytes": 2344
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/QJP/K212340.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/balloon-catheter--cerenovus--emboguard-balloon-guide-catheter/fda_raw/QJP/K212340.json",
+        "bytes": 594
+      },
+      {
+        "source": "pipeline/data/fda_raw/QJP/K233924.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/balloon-catheter--cerenovus--emboguard-balloon-guide-catheter/fda_raw/QJP/K233924.json",
+        "bytes": 594
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/balloon-catheter--cerenovus--emboguard-balloon-guide-catheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/balloon-catheter--cerenovus--emboguard-balloon-guide-catheter/merged/balloon-catheter--cerenovus--emboguard-balloon-guide-catheter.json",
+        "bytes": 1738
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/cerenovus/emboguard-balloon-guide-catheter.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/balloon-catheter--cerenovus--emboguard-balloon-guide-catheter/scraper_raw/cerenovus/emboguard-balloon-guide-catheter.json",
+        "bytes": 1377
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_access_catheters",
+    "label": "Access, Guide, Delivery Catheters"
+  }
+}

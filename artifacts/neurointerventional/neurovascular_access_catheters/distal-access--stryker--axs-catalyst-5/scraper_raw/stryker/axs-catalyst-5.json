@@ -1,0 +1,19 @@
+{
+  "device_name": "AXS Catalyst 5",
+  "manufacturer": "stryker",
+  "category_hint": "distal-access",
+  "what_it_is": "Read Now",
+  "sizing_specs": "Product specifications",
+  "indications": "only\n• Excessive aspiration may cause patient complications.",
+  "contraindications": null,
+  "compatible_with": null,
+  "use_notes": null,
+  "deployment_steps": null,
+  "also_known_as": [],
+  "source_url": "https://www.stryker.com/us/en/neurovascular/products/axs-catalyst-5.html",
+  "ifu_pdf_url": null,
+  "other_pdf_urls": {
+    "axs_catalyst_dfu_us_sep19": "https://www.stryker.com/content/dam/stryker/neurovascular/products/axs-catalyst-5/resources/AXS-Catalyst_DFU_US_Sep19.pdf"
+  },
+  "clearance_numbers": []
+}

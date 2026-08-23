@@ -1,0 +1,35 @@
+{
+  "device_slug": "embolic-coil--medtronic--sapphire-vds-tension-safe-detachable",
+  "artifact_folder": "embolic-coil--medtronic--sapphire-vds-tension-safe-detachable",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2989,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--medtronic--sapphire-vds-tension-safe-detachable.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--medtronic--sapphire-vds-tension-safe-detachable/enriched/embolic-coil--medtronic--sapphire-vds-tension-safe-detachable.json",
+        "bytes": 1475
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K032497.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--medtronic--sapphire-vds-tension-safe-detachable/fda_raw/HCG/K032497.json",
+        "bytes": 620
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--medtronic--sapphire-vds-tension-safe-detachable.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--medtronic--sapphire-vds-tension-safe-detachable/merged/embolic-coil--medtronic--sapphire-vds-tension-safe-detachable.json",
+        "bytes": 894
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

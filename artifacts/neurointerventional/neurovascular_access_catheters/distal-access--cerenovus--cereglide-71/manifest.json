@@ -1,0 +1,21 @@
+{
+  "device_slug": "distal-access--cerenovus--cereglide-71",
+  "artifact_folder": "distal-access--cerenovus--cereglide-71",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 2573,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/distal-access--cerenovus--cereglide-71--knowledge.md",
+        "artifact": "artifacts/neurointerventional/neurovascular_access_catheters/distal-access--cerenovus--cereglide-71/data_by_device/distal-access--cerenovus--cereglide-71--knowledge.md",
+        "bytes": 2573
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_access_catheters",
+    "label": "Access, Guide, Delivery Catheters"
+  }
+}

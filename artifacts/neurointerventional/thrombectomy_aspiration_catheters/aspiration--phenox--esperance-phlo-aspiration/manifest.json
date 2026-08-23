@@ -1,0 +1,54 @@
+{
+  "device_slug": "aspiration--phenox--esperance-phlo-aspiration",
+  "artifact_folder": "aspiration--phenox--esperance-phlo-aspiration",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 2792121,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/aspiration/parsed/fda_summaries/aspiration--phenox--esperance-phlo-aspiration--510k.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--phenox--esperance-phlo-aspiration/510k/aspiration/parsed/fda_summaries/aspiration--phenox--esperance-phlo-aspiration--510k.json",
+        "bytes": 57844
+      },
+      {
+        "source": "pipeline/data/510k/aspiration/pdfs/aspiration--phenox--esperance-phlo-aspiration--510k.pdf",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--phenox--esperance-phlo-aspiration/510k/aspiration/pdfs/aspiration--phenox--esperance-phlo-aspiration--510k.pdf",
+        "bytes": 2711501
+      }
+    ],
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/aspiration--phenox--esperance-phlo-aspiration--knowledge.md",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--phenox--esperance-phlo-aspiration/data_by_device/aspiration--phenox--esperance-phlo-aspiration--knowledge.md",
+        "bytes": 4229
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/aspiration--phenox--esperance-phlo-aspiration.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--phenox--esperance-phlo-aspiration/enriched/aspiration--phenox--esperance-phlo-aspiration.json",
+        "bytes": 17160
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NRY/K251357.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--phenox--esperance-phlo-aspiration/fda_raw/NRY/K251357.json",
+        "bytes": 566
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/aspiration--phenox--esperance-phlo-aspiration.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--phenox--esperance-phlo-aspiration/merged/aspiration--phenox--esperance-phlo-aspiration.json",
+        "bytes": 821
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "thrombectomy_aspiration_catheters",
+    "label": "Aspiration Catheters"
+  }
+}

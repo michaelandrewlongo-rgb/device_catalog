@@ -1,0 +1,28 @@
+{
+  "device_slug": "balloon-catheter--microvention--scepter-ctm-scepter-xctm",
+  "artifact_folder": "balloon-catheter--microvention--scepter-ctm-scepter-xctm",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 2,
+  "bytes": 2198,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/balloon-catheter--microvention--scepter-ctm-scepter-xctm.json",
+        "artifact": "artifacts/neurointerventional/temporary_coil_assist_devices/balloon-catheter--microvention--scepter-ctm-scepter-xctm/enriched/balloon-catheter--microvention--scepter-ctm-scepter-xctm.json",
+        "bytes": 1386
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/balloon-catheter--microvention--scepter-ctm-scepter-xctm.json",
+        "artifact": "artifacts/neurointerventional/temporary_coil_assist_devices/balloon-catheter--microvention--scepter-ctm-scepter-xctm/merged/balloon-catheter--microvention--scepter-ctm-scepter-xctm.json",
+        "bytes": 812
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "temporary_coil_assist_devices",
+    "label": "Temporary Coil-Assist Devices"
+  }
+}

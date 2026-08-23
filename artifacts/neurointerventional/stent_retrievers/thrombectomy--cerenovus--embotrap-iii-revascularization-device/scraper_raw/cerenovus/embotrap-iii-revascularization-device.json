@@ -1,0 +1,19 @@
+{
+  "device_name": "EMBOTRAP III Revascularization Device",
+  "manufacturer": "cerenovus",
+  "category_hint": "thrombectomy",
+  "what_it_is": "Stent retriever for mechanical thrombectomy with innovative dual-layer design. Inner channel secures and stabilizes the clot to maintain engagement while allowing reperfusion. Articulating outer cage maintains wall apposition while engaging and gripping the clot. Distal closed end mesh maintains clot control during retrieval.",
+  "sizing_specs": "Vessel Size Range: 1.5-6.5 mm; Device Lengths: 22 mm, 37 mm, 45 mm; Working Length: 194 cm; Product codes: ET309522 (5x22), ET309537 (5x37), ET309645 (6x45)",
+  "indications": "Indicated for neurovascular revascularization in acute ischemic stroke. Vessel indication of 1.5mm to 6.5mm.",
+  "contraindications": null,
+  "compatible_with": "Prowler EX Microcatheter, EMBOGUARD Balloon Guide Catheter, CEREBASE DA Guide Sheath, CEREGLIDE 71 Intermediate Catheter (CERENOVUS Stroke Solutions system)",
+  "use_notes": "Distal mesh cell sizes of EMBOTRAP III 5x22mm and 5x37mm are 25% smaller than EMBOTRAP II. MASTRO I is a living systematic review and meta-analysis comparing EmboTrap, Solitaire, and Trevo stent retrievers for mechanical thrombectomy in acute ischemic stroke.",
+  "also_known_as": [
+    "EmboTrap III",
+    "EmboTrap 3",
+    "EMBOTRAP"
+  ],
+  "source_url": "https://www.jnjmedtech.com/en-US/products/neurovascular/ischemic/embotrap-iii-revascularization-device/",
+  "ifu_pdf_url": null,
+  "other_pdf_urls": {}
+}

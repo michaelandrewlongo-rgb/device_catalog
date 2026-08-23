@@ -1,0 +1,21 @@
+{
+  "device_slug": "embolic-coil--microvention--vfc",
+  "artifact_folder": "embolic-coil--microvention--vfc",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 449,
+  "sources": {
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/microvention/vfctm.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--microvention--vfc/scraper_raw/microvention/vfctm.json",
+        "bytes": 449
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

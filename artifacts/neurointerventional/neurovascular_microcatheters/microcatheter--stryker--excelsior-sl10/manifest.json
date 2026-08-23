@@ -1,0 +1,33 @@
+{
+  "device_slug": "microcatheter--stryker--excelsior-sl10",
+  "artifact_folder": "microcatheter--stryker--excelsior-sl10",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 415237,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/microcatheter/parsed/documents/microcatheter--stryker--excelsior-sl10--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--excelsior-sl10/510k/microcatheter/parsed/documents/microcatheter--stryker--excelsior-sl10--510k.json",
+        "bytes": 7075
+      },
+      {
+        "source": "pipeline/data/510k/microcatheter/pdfs/microcatheter--stryker--excelsior-sl10--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--excelsior-sl10/510k/microcatheter/pdfs/microcatheter--stryker--excelsior-sl10--510k.pdf",
+        "bytes": 405596
+      }
+    ],
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/microcatheter--stryker--excelsior-sl10--knowledge.md",
+        "artifact": "artifacts/neurointerventional/neurovascular_microcatheters/microcatheter--stryker--excelsior-sl10/data_by_device/microcatheter--stryker--excelsior-sl10--knowledge.md",
+        "bytes": 2566
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microcatheters",
+    "label": "Microcatheters"
+  }
+}

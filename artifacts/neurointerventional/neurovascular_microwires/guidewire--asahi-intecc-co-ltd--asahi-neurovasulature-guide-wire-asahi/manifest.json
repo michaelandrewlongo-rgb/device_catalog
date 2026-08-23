@@ -1,0 +1,47 @@
+{
+  "device_slug": "guidewire--asahi-intecc-co-ltd--asahi-neurovasulature-guide-wire-asahi",
+  "artifact_folder": "guidewire--asahi-intecc-co-ltd--asahi-neurovasulature-guide-wire-asahi",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 713783,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/guidewire/parsed/fda_summaries/guidewire--asahi-intecc-co-ltd--asahi-neurovasulature-guide-wire-asahi--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--asahi-intecc-co-ltd--asahi-neurovasulature-guide-wire-asahi/510k/guidewire/parsed/fda_summaries/guidewire--asahi-intecc-co-ltd--asahi-neurovasulature-guide-wire-asahi--510k.json",
+        "bytes": 35172
+      },
+      {
+        "source": "pipeline/data/510k/guidewire/pdfs/guidewire--asahi-intecc-co-ltd--asahi-neurovasulature-guide-wire-asahi--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--asahi-intecc-co-ltd--asahi-neurovasulature-guide-wire-asahi/510k/guidewire/pdfs/guidewire--asahi-intecc-co-ltd--asahi-neurovasulature-guide-wire-asahi--510k.pdf",
+        "bytes": 653539
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/guidewire--asahi-intecc-co-ltd--asahi-neurovasulature-guide-wire-asahi.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--asahi-intecc-co-ltd--asahi-neurovasulature-guide-wire-asahi/enriched/guidewire--asahi-intecc-co-ltd--asahi-neurovasulature-guide-wire-asahi.json",
+        "bytes": 23505
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/MOF/K171613.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--asahi-intecc-co-ltd--asahi-neurovasulature-guide-wire-asahi/fda_raw/MOF/K171613.json",
+        "bytes": 645
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/guidewire--asahi-intecc-co-ltd--asahi-neurovasulature-guide-wire-asahi.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_microwires/guidewire--asahi-intecc-co-ltd--asahi-neurovasulature-guide-wire-asahi/merged/guidewire--asahi-intecc-co-ltd--asahi-neurovasulature-guide-wire-asahi.json",
+        "bytes": 922
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_microwires",
+    "label": "Microwires"
+  }
+}

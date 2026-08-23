@@ -1,0 +1,35 @@
+{
+  "device_slug": "embolic-coil--boston-scientific-target--matrix-detachable-coils",
+  "artifact_folder": "embolic-coil--boston-scientific-target--matrix-detachable-coils",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 3071,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--boston-scientific-target--matrix-detachable-coils.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific-target--matrix-detachable-coils/enriched/embolic-coil--boston-scientific-target--matrix-detachable-coils.json",
+        "bytes": 1627
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K012985.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific-target--matrix-detachable-coils/fda_raw/HCG/K012985.json",
+        "bytes": 603
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--boston-scientific-target--matrix-detachable-coils.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--boston-scientific-target--matrix-detachable-coils/merged/embolic-coil--boston-scientific-target--matrix-detachable-coils.json",
+        "bytes": 841
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "device_slug": "embolic-coil--penumbra--neuro-embolization-technologies",
+  "artifact_folder": "embolic-coil--penumbra--neuro-embolization-technologies",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 9730,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--penumbra--neuro-embolization-technologies.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--penumbra--neuro-embolization-technologies/enriched/embolic-coil--penumbra--neuro-embolization-technologies.json",
+        "bytes": 3731
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--penumbra--neuro-embolization-technologies.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--penumbra--neuro-embolization-technologies/merged/embolic-coil--penumbra--neuro-embolization-technologies.json",
+        "bytes": 3162
+      }
+    ],
+    "scraper_raw": [
+      {
+        "source": "pipeline/data/scraper_raw/penumbra/neuro-embolization-technologies.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--penumbra--neuro-embolization-technologies/scraper_raw/penumbra/neuro-embolization-technologies.json",
+        "bytes": 2837
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

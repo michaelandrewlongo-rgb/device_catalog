@@ -1,0 +1,35 @@
+{
+  "device_slug": "embolic-coil--surgica-corp--pva-foam-embolization-particles",
+  "artifact_folder": "embolic-coil--surgica-corp--pva-foam-embolization-particles",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 3,
+  "bytes": 2846,
+  "sources": {
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--surgica-corp--pva-foam-embolization-particles.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--surgica-corp--pva-foam-embolization-particles/enriched/embolic-coil--surgica-corp--pva-foam-embolization-particles.json",
+        "bytes": 1422
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K001678.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--surgica-corp--pva-foam-embolization-particles/fda_raw/HCG/K001678.json",
+        "bytes": 583
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--surgica-corp--pva-foam-embolization-particles.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--surgica-corp--pva-foam-embolization-particles/merged/embolic-coil--surgica-corp--pva-foam-embolization-particles.json",
+        "bytes": 841
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

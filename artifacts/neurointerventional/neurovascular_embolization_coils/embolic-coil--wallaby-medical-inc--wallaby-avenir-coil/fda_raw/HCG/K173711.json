@@ -1,0 +1,15 @@
+{
+  "clearance_type": "510k",
+  "clearance_number": "K173711",
+  "clearance_date": "2018-05-04",
+  "device_class": 2,
+  "manufacturer_canonical": "wallaby-medical-inc",
+  "manufacturer_raw": "Wallaby Medical, Inc.",
+  "catalog_category": "embolic-coil",
+  "device_name_fda": "Wallaby Avenir Coil System",
+  "product_code": "HCG",
+  "product_code_description": "Neurology",
+  "already_in_catalog": false,
+  "suggested_filename_stem": "embolic-coil--wallaby-medical-inc--wallaby-avenir-coil",
+  "pdf_summary_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf17/K173711.pdf"
+}

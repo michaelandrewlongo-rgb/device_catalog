@@ -1,0 +1,52 @@
+{
+  "device_slug": "aspiration--cerenovus--cerenovus-large-bore-catheter-cerenovus",
+  "artifact_folder": "aspiration--cerenovus--cerenovus-large-bore-catheter-cerenovus",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 6,
+  "bytes": 275671,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/aspiration/parsed/fda_summaries/aspiration--cerenovus--cerenovus-large-bore-catheter-cerenovus--510k.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--cerenovus--cerenovus-large-bore-catheter-cerenovus/510k/aspiration/parsed/fda_summaries/aspiration--cerenovus--cerenovus-large-bore-catheter-cerenovus--510k.json",
+        "bytes": 36011
+      },
+      {
+        "source": "pipeline/data/510k/aspiration/pdfs/aspiration--cerenovus--cerenovus-large-bore-catheter-cerenovus--510k.pdf",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--cerenovus--cerenovus-large-bore-catheter-cerenovus/510k/aspiration/pdfs/aspiration--cerenovus--cerenovus-large-bore-catheter-cerenovus--510k.pdf",
+        "bytes": 233453
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/aspiration--cerenovus--cerenovus-large-bore-catheter-cerenovus.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--cerenovus--cerenovus-large-bore-catheter-cerenovus/enriched/aspiration--cerenovus--cerenovus-large-bore-catheter-cerenovus.json",
+        "bytes": 4059
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/NRY/K193380.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--cerenovus--cerenovus-large-bore-catheter-cerenovus/fda_raw/NRY/K193380.json",
+        "bytes": 628
+      },
+      {
+        "source": "pipeline/data/fda_raw/NRY/K233988.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--cerenovus--cerenovus-large-bore-catheter-cerenovus/fda_raw/NRY/K233988.json",
+        "bytes": 619
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/aspiration--cerenovus--cerenovus-large-bore-catheter-cerenovus.json",
+        "artifact": "artifacts/neurointerventional/thrombectomy_aspiration_catheters/aspiration--cerenovus--cerenovus-large-bore-catheter-cerenovus/merged/aspiration--cerenovus--cerenovus-large-bore-catheter-cerenovus.json",
+        "bytes": 901
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "thrombectomy_aspiration_catheters",
+    "label": "Aspiration Catheters"
+  }
+}

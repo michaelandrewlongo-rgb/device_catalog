@@ -1,0 +1,47 @@
+{
+  "device_slug": "embolic-coil--cerenovus--galaxy-g3-mini-microcoil-delivery",
+  "artifact_folder": "embolic-coil--cerenovus--galaxy-g3-mini-microcoil-delivery",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 5,
+  "bytes": 194127,
+  "sources": {
+    "510k": [
+      {
+        "source": "pipeline/data/510k/embolic-coil/parsed/fda_summaries/embolic-coil--cerenovus--galaxy-g3-mini-microcoil-delivery--510k.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cerenovus--galaxy-g3-mini-microcoil-delivery/510k/embolic-coil/parsed/fda_summaries/embolic-coil--cerenovus--galaxy-g3-mini-microcoil-delivery--510k.json",
+        "bytes": 42444
+      },
+      {
+        "source": "pipeline/data/510k/embolic-coil/pdfs/embolic-coil--cerenovus--galaxy-g3-mini-microcoil-delivery--510k.pdf",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cerenovus--galaxy-g3-mini-microcoil-delivery/510k/embolic-coil/pdfs/embolic-coil--cerenovus--galaxy-g3-mini-microcoil-delivery--510k.pdf",
+        "bytes": 139327
+      }
+    ],
+    "enriched": [
+      {
+        "source": "pipeline/data/enriched/embolic-coil--cerenovus--galaxy-g3-mini-microcoil-delivery.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cerenovus--galaxy-g3-mini-microcoil-delivery/enriched/embolic-coil--cerenovus--galaxy-g3-mini-microcoil-delivery.json",
+        "bytes": 10902
+      }
+    ],
+    "fda_raw": [
+      {
+        "source": "pipeline/data/fda_raw/HCG/K171862.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cerenovus--galaxy-g3-mini-microcoil-delivery/fda_raw/HCG/K171862.json",
+        "bytes": 599
+      }
+    ],
+    "merged": [
+      {
+        "source": "pipeline/data/merged/embolic-coil--cerenovus--galaxy-g3-mini-microcoil-delivery.json",
+        "artifact": "artifacts/neurointerventional/neurovascular_embolization_coils/embolic-coil--cerenovus--galaxy-g3-mini-microcoil-delivery/merged/embolic-coil--cerenovus--galaxy-g3-mini-microcoil-delivery.json",
+        "bytes": 855
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_embolization_coils",
+    "label": "Embolization Coils"
+  }
+}

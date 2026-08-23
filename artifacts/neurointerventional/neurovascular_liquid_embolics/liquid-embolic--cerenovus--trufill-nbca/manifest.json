@@ -1,0 +1,21 @@
+{
+  "device_slug": "liquid-embolic--cerenovus--trufill-nbca",
+  "artifact_folder": "liquid-embolic--cerenovus--trufill-nbca",
+  "generated_at": "2026-04-20T00:07:52.893Z",
+  "file_count": 1,
+  "bytes": 5084,
+  "sources": {
+    "data_by_device": [
+      {
+        "source": "pipeline/data/data_by_device/liquid-embolic--cerenovus--trufill-nbca--knowledge.md",
+        "artifact": "artifacts/neurointerventional/neurovascular_liquid_embolics/liquid-embolic--cerenovus--trufill-nbca/data_by_device/liquid-embolic--cerenovus--trufill-nbca--knowledge.md",
+        "bytes": 5084
+      }
+    ]
+  },
+  "registry": {
+    "domain": "neurointerventional",
+    "registry": "neurovascular_liquid_embolics",
+    "label": "Onyx, Squid, PHIL"
+  }
+}
