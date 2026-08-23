@@ -1,0 +1,251 @@
+{
+  "schema_version": "2.0.0",
+  "checked_at": "2026-08-22",
+  "scope": "initial high-risk neurovascular IFU audit",
+  "sources": [
+    {
+      "source_id": "ifu:microvention:scepter-c-xc:local",
+      "device_id": "balloon-catheter--microvention--scepter-c-xc",
+      "title": "Scepter C/XC local IFU",
+      "source_type": "manufacturer_ifu",
+      "status": "historical",
+      "jurisdiction": "US",
+      "local_filename": "balloon-catheter--microvention--scepter-c-xc--ifu.pdf",
+      "identity": {"required_any": ["Scepter C", "Scepter XC"]},
+      "notes": "Local full text retained for historical lookup; current revision not established."
+    },
+    {
+      "source_id": "ifu:microvention:scepter-mini:local",
+      "device_id": "balloon-catheter--microvention--scepter-mini",
+      "title": "Scepter Mini local IFU",
+      "source_type": "manufacturer_ifu",
+      "status": "historical",
+      "jurisdiction": "US",
+      "local_filename": "balloon-catheter--microvention--scepter-mini--ifu.pdf",
+      "identity": {"required_any": ["Scepter Mini"]},
+      "notes": "Local full text retained for historical lookup; current revision not established."
+    },
+    {
+      "source_id": "ifu:microvention:sofia:local",
+      "device_id": "distal-access--microvention--sofia",
+      "title": "SOFIA local IFU",
+      "source_type": "manufacturer_ifu",
+      "status": "historical",
+      "jurisdiction": "US",
+      "local_filename": "distal-access--microvention--sofia--ifu.pdf",
+      "identity": {"required_any": ["SOFIA"]},
+      "notes": "Local full text retained for historical lookup; current revision not established."
+    },
+    {
+      "source_id": "ifu:medtronic:pipeline-shield:misfiled-2018-flex",
+      "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+      "title": "Misfiled 2018 Pipeline Flex IFU labeled as Pipeline Shield",
+      "source_type": "manufacturer_ifu",
+      "status": "quarantined",
+      "document_id": "P100018",
+      "jurisdiction": "US",
+      "local_filename": "flow-diverter--medtronic--pipeline-flex-shield--ifu.pdf",
+      "quarantine_reason": "Document is plain Pipeline Flex labeling and does not establish Shield technology labeling.",
+      "identity": {
+        "required_any": ["Shield Technology", "phosphorylcholine"]
+      }
+    },
+    {
+      "source_id": "ifu:medtronic:pipeline-original:local",
+      "device_id": "flow-diverter--medtronic--pipeline-ped-original",
+      "title": "Original Pipeline Embolization Device labeling",
+      "source_type": "fda_labeling",
+      "status": "historical",
+      "document_id": "P100018",
+      "jurisdiction": "US",
+      "local_filename": "flow-diverter--medtronic--pipeline-ped-original--ifu.pdf",
+      "identity": {"required_any": ["Pipeline Embolization Device"]},
+      "notes": "Original-generation historical labeling; do not apply to later Pipeline generations."
+    },
+    {
+      "source_id": "ifu:microvention:fred:2019",
+      "device_id": "flow-diverter--microvention--fred",
+      "title": "FRED original US labeling",
+      "source_type": "fda_labeling",
+      "status": "historical",
+      "document_id": "P180027",
+      "revision": "2019",
+      "jurisdiction": "US",
+      "local_filename": "flow-diverter--microvention--fred--ifu.pdf",
+      "identity": {"required_any": ["FRED", "Flow Re-Direction Endoluminal Device"]},
+      "notes": "Original approval labeling; later supplements and safety actions require answer-time review."
+    },
+    {
+      "source_id": "ifu:microvention:lvis:local",
+      "device_id": "intracranial-stent--microvention--lvis",
+      "title": "LVIS local IFU",
+      "source_type": "manufacturer_ifu",
+      "status": "historical",
+      "jurisdiction": "US",
+      "local_filename": "intracranial-stent--microvention--lvis--ifu.pdf",
+      "identity": {"required_any": ["LVIS"]},
+      "notes": "Current revision not established; device-specific claims must not be transferred to Neuroform Atlas."
+    },
+    {
+      "source_id": "ifu:stryker:neuroform-atlas:rev05",
+      "device_id": "intracranial-stent--stryker--neuroform-atlas",
+      "title": "Neuroform Atlas local labeling, revision 05",
+      "source_type": "manufacturer_ifu",
+      "status": "superseded",
+      "document_id": "NV00026448",
+      "revision": "05",
+      "jurisdiction": "US",
+      "local_filename": "intracranial-stent--stryker--neuroform-atlas--ifu.pdf",
+      "superseded_by": "NV0026052 Rev AB (2025)",
+      "identity": {"required_any": ["Neuroform Atlas"]}
+    },
+    {
+      "source_id": "ifu:microvention:web:rev-q-2018",
+      "device_id": "intrasaccular--microvention--web-embolization",
+      "title": "WEB Aneurysm Embolization System IFU, revision Q",
+      "source_type": "manufacturer_ifu",
+      "status": "superseded",
+      "document_id": "LBA0040",
+      "revision": "Q (2018-12)",
+      "jurisdiction": "US",
+      "local_filename": "intrasaccular--microvention--web-embolization--ifu.pdf",
+      "superseded_by": "IFU100044 Rev E",
+      "identity": {"required_any": ["WEB Aneurysm Embolization System", "Woven EndoBridge"]}
+    },
+    {
+      "source_id": "ifu:medtronic:onyx-hd500:misfiled-enterprise",
+      "device_id": "liquid-embolic--medtronic--onyx-hd500",
+      "title": "Misfiled ENTERPRISE stent IFU labeled as Onyx HD-500",
+      "source_type": "fda_labeling",
+      "status": "quarantined",
+      "document_id": "H060001",
+      "jurisdiction": "US",
+      "local_filename": "liquid-embolic--medtronic--onyx-hd500--ifu.pdf",
+      "quarantine_reason": "The PDF is Cordis ENTERPRISE stent labeling, not Onyx HD-500 H060003 labeling.",
+      "identity": {
+        "required_any": ["Onyx HD-500", "H060003"],
+        "forbidden_any": ["ENTERPRISE", "H060001"]
+      }
+    },
+    {
+      "source_id": "ifu:medtronic:onyx-les:rev-2003-03",
+      "device_id": "liquid-embolic--medtronic--onyx-les",
+      "title": "Onyx Liquid Embolic System IFU",
+      "source_type": "manufacturer_ifu",
+      "status": "historical",
+      "document_id": "70178",
+      "revision": "03/2003",
+      "jurisdiction": "US",
+      "local_filename": "liquid-embolic--medtronic--onyx-les--ifu.pdf",
+      "identity": {"required_any": ["Onyx Liquid Embolic System", "Onyx LES"]},
+      "notes": "Historical IFU. Current manufacturer labeling must be reopened for dosing, compatibility, or procedural claims."
+    },
+    {
+      "source_id": "official:terumo:scepter-c-xc:product-page:2026-08-22",
+      "device_id": "balloon-catheter--microvention--scepter-c-xc",
+      "title": "Scepter C and Scepter XC official product page",
+      "source_type": "manufacturer_product_page",
+      "status": "current",
+      "evidence_depth": "metadata_only",
+      "jurisdiction": "US",
+      "official_url": "https://www.terumoneuro.com/products/scepter",
+      "notes": "Current official identity lead. Reopen exact IFU before using dimensions, compatibility, or procedural instructions."
+    },
+    {
+      "source_id": "official:terumo:scepter-mini:product-page:2026-08-22",
+      "device_id": "balloon-catheter--microvention--scepter-mini",
+      "title": "Scepter Mini official product page",
+      "source_type": "manufacturer_product_page",
+      "status": "current",
+      "evidence_depth": "metadata_only",
+      "jurisdiction": "US",
+      "official_url": "https://www.terumoneuro.com/products/scepter-mini",
+      "notes": "Current official identity lead. Reopen exact IFU before using dimensions, compatibility, or procedural instructions."
+    },
+    {
+      "source_id": "official:terumo:sofia:product-page:2026-08-22",
+      "device_id": "distal-access--microvention--sofia",
+      "title": "SOFIA official product page",
+      "source_type": "manufacturer_product_page",
+      "status": "current",
+      "evidence_depth": "metadata_only",
+      "jurisdiction": "US",
+      "official_url": "https://www.terumoneuro.com/products/sofia",
+      "notes": "Current official identity lead. Reopen exact IFU before using dimensions, compatibility, or procedural instructions."
+    },
+    {
+      "source_id": "official:medtronic:pipeline-shield:product-page:2026-08-22",
+      "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
+      "title": "Pipeline Flex with Shield Technology official product page",
+      "source_type": "manufacturer_product_page",
+      "status": "current",
+      "evidence_depth": "metadata_only",
+      "document_id": "M002318CDOC2_B",
+      "jurisdiction": "US",
+      "official_url": "https://www.medtronic.com/en-us/healthcare-professionals/products/neurological/neurovascular/aneurysm-flow-diverters/pipeline-flex-with-shield-technology.html",
+      "notes": "Current official product page and manual identifier; exact IFU full text must be reopened for claim support."
+    },
+    {
+      "source_id": "official:terumo:fred:product-page:2026-08-22",
+      "device_id": "flow-diverter--microvention--fred",
+      "title": "FRED family official product page",
+      "source_type": "manufacturer_product_page",
+      "status": "current",
+      "evidence_depth": "metadata_only",
+      "jurisdiction": "US",
+      "official_url": "https://www.terumoneuro.com/products/fred-family",
+      "notes": "Current official identity lead; check exact FRED generation, jurisdiction, supplements, and safety actions."
+    },
+    {
+      "source_id": "official:terumo:lvis:product-page:2026-08-22",
+      "device_id": "intracranial-stent--microvention--lvis",
+      "title": "LVIS family official product page",
+      "source_type": "manufacturer_product_page",
+      "status": "current",
+      "evidence_depth": "metadata_only",
+      "jurisdiction": "US",
+      "official_url": "https://www.terumoneuro.com/products/lvis-family",
+      "notes": "Current official identity lead; reopen the exact model and jurisdiction IFU."
+    },
+    {
+      "source_id": "official:stryker:neuroform-atlas:rev-ab-2025",
+      "device_id": "intracranial-stent--stryker--neuroform-atlas",
+      "title": "Neuroform Atlas US indications and safety labeling, revision AB",
+      "source_type": "manufacturer_labeling_summary",
+      "status": "current",
+      "document_id": "NV0026052",
+      "revision": "AB (2025-03-13)",
+      "jurisdiction": "US",
+      "official_url": "https://www.stryker.com/content/dam/stryker/neurovascular/products/neuroform-atlas-stent-system/resources/Neuroform_Atlas_IFU_US_03-13-2025.pdf",
+      "local_filename": "sources/official/current/intracranial-stent--stryker--neuroform-atlas--ifu.pdf",
+      "expected_sha256": "2e304b7d7b837cce765fb19e90de62be3f26307215329200d8a48a00e40d78cc",
+      "identity": {"required_all": ["Neuroform Atlas", "NV0026052 Rev AB"]},
+      "notes": "Official one-page indications and safety labeling. It directs users to the package insert for complete instructions; claims are limited to content printed on this page."
+    },
+    {
+      "source_id": "official:terumo:web:ifu100044-rev-e",
+      "device_id": "intrasaccular--microvention--web-embolization",
+      "title": "WEB Aneurysm Embolization System US IFU locator",
+      "source_type": "manufacturer_ifu_locator",
+      "status": "current",
+      "evidence_depth": "metadata_only",
+      "document_id": "IFU100044",
+      "revision": "E",
+      "jurisdiction": "US",
+      "official_url": "https://www.terumoneuro.com/products/web-family/additional-information/indication-for-use-and-intended-purpose",
+      "notes": "Official current US IFU identifier; reopen exact full text before claim support."
+    },
+    {
+      "source_id": "official:medtronic:onyx-les:product-page:2026-08-22",
+      "device_id": "liquid-embolic--medtronic--onyx-les",
+      "title": "Onyx Liquid Embolic System official product page",
+      "source_type": "manufacturer_product_page",
+      "status": "current",
+      "evidence_depth": "metadata_only",
+      "document_id": "M074966CDOC2 Rev A (01/2026); M051125CDOC2 Rev C (07/2026)",
+      "jurisdiction": "US",
+      "official_url": "https://www.medtronic.com/en-us/healthcare-professionals/products/neurological/neurovascular/liquid-embolics/onyx-liquid-embolic-system.html",
+      "notes": "Current manufacturer page lists multiple Onyx LES documents. Resolve formulation and exact IFU before dosing, preparation, or catheter claims."
+    }
+  ]
+}
