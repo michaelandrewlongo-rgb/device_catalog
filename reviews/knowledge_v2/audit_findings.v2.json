@@ -6394,6 +6394,36 @@
       "official_scan_status": "not_watched",
       "source_id": "catalog:microvention:microvention_catalog_2019_intl:microcatheter--microvention--phil-microcatheter-compatibility",
       "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/qapel--product-page-screens/walrus-qapel.png",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "qapel:product-page:walrus:2026-08-screens",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/qapel--product-page-screens/armadillo-qapel.png",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "qapel:product-page:armadillo:2026-08-screens",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/qapel--product-page-screens/zebra2-qapel.png",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "qapel:product-page:zebra:2026-08-screens",
+      "validation_errors": []
     }
   ]
 }
