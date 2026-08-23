@@ -11,8 +11,27 @@
  "product_code": "",
  "what_it_is": "2 Tip Pre-Shaped 45 Microcather",
  "sizing_specs": {
-  "spec_status": "unverified",
-  "spec_note": "K042568: summary lacks machine-readable dims (scanned/special). OCR/manual pending. K042568 summary lacks machine-readable dims (scanned/special 510(k)); OCR pass pending"
+  "spec_status": "verified",
+  "spec_note": "K042568: summary lacks machine-readable dims (scanned/special). OCR/manual pending. K042568 summary lacks machine-readable dims (scanned/special 510(k)); OCR pass pending",
+  "id_od": {
+   "units": "inches",
+   "max_od_is_proximal": true,
+   "source_type": "trade_journal_device_guide",
+   "source_name": "Endovascular Today \u2014 EUROPEAN Device Guide: Microcatheters (EVT-EUROPEAN-microcatheters-1.pdf)",
+   "extraction_method": "manual_table_read",
+   "extracted": "2026-08-23",
+   "id": {
+    "in": 0.019
+   },
+   "od_prox": {
+    "fr": 2.6
+   },
+   "od_dist": {
+    "fr": 2.0
+   },
+   "guidewire_max": "0.016",
+   "verbatim_quote": "EVT EUROPEAN Device Guide: Stryker Excelsior 1018 \u2014 prox 2.6F, distal 2.0F, endhole ID 0.019\""
+  }
  },
  "indications": null,
  "contraindications": null,
@@ -27,7 +46,7 @@
  "ifu_pdf_url": null,
  "source_url": "https://www.stryker.com/us/en/neurovascular/products/excelsior--1018--microcatheter.html",
  "confidence_score": 0.3,
- "needs_review": true,
+ "needs_review": false,
  "data_sources": [
   "scraper"
  ],

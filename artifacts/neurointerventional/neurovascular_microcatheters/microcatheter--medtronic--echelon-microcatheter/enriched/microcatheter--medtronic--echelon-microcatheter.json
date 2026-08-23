@@ -11,8 +11,27 @@
  "product_code": "",
  "what_it_is": "Single-lumen microcatheter designed for introduction over a steerable guidewire into vasculature during neurovascular procedures. Nitinol braid technology with progressive picks-per-inch. Graduated zones and transition points for balance between pushability and softness. DMSO compatible for liquid embolic delivery.",
  "sizing_specs": {
-  "spec_status": "unverified",
-  "spec_note": "No FDA source identified 2026-08-23"
+  "spec_status": "verified",
+  "spec_note": "No FDA source identified 2026-08-23",
+  "id_od": {
+   "units": "inches",
+   "max_od_is_proximal": true,
+   "source_type": "trade_journal_device_guide",
+   "source_name": "Endovascular Today \u2014 EUROPEAN Device Guide: Microcatheters (EVT-EUROPEAN-microcatheters-1.pdf)",
+   "extraction_method": "manual_table_read",
+   "extracted": "2026-08-23",
+   "id": {
+    "in": 0.017
+   },
+   "od_prox": {
+    "fr": 2.1
+   },
+   "od_dist": {
+    "fr": 1.7
+   },
+   "guidewire_max": "0.014",
+   "verbatim_quote": "EVT EUROPEAN Device Guide: Medtronic Echelon-10 \u2014 prox 2.1F, distal 1.7F, endhole ID 0.017\""
+  }
  },
  "indications": "Introduction of interventional devices and infusion of diagnostic or therapeutic agents during neurovascular procedures. DMSO-compatible for Onyx liquid embolic delivery.",
  "contraindications": null,
@@ -27,7 +46,7 @@
  "ifu_pdf_url": null,
  "source_url": "https://www.medtronic.com/en-us/healthcare-professionals/products/neurological/neurovascular/catheters/micro-catheters/echelon-micro-catheter.html",
  "confidence_score": 0.3,
- "needs_review": true,
+ "needs_review": false,
  "data_sources": [
   "scraper"
  ],

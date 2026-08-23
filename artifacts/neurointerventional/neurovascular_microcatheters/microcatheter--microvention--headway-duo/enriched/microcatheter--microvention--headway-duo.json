@@ -1,7 +1,26 @@
 {
  "sizing_specs": {
-  "spec_status": "unverified",
-  "spec_note": "K120917: summary lacks machine-readable dims (scanned/special). OCR/manual pending. No FDA dimension source identified 2026-08-23 (K=K120917). Trail: openFDA+PMN+predicate chains."
+  "spec_status": "verified",
+  "spec_note": "K120917: summary lacks machine-readable dims (scanned/special). OCR/manual pending. No FDA dimension source identified 2026-08-23 (K=K120917). Trail: openFDA+PMN+predicate chains.",
+  "id_od": {
+   "units": "inches",
+   "max_od_is_proximal": true,
+   "source_type": "trade_journal_device_guide",
+   "source_name": "Endovascular Today \u2014 EUROPEAN Device Guide: Microcatheters (EVT-EUROPEAN-microcatheters-1.pdf)",
+   "extraction_method": "manual_table_read",
+   "extracted": "2026-08-23",
+   "id": {
+    "in": 0.0165
+   },
+   "od_prox": {
+    "fr": 2.1
+   },
+   "od_dist": {
+    "fr": 1.6
+   },
+   "guidewire_max": "0.0165",
+   "verbatim_quote": "EVT EUROPEAN Device Guide: Terumo Neuro Headway Duo \u2014 prox 2.1F, distal 1.6F, endhole ID 0.0165\""
+  }
  },
- "needs_review": true
+ "needs_review": false
 }

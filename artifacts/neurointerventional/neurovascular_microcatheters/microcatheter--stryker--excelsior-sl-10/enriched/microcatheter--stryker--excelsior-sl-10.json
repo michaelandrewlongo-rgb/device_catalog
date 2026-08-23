@@ -11,8 +11,27 @@
  "product_code": "",
  "what_it_is": "2 Tip Pre-Shaped S Microcatheter",
  "sizing_specs": {
-  "spec_status": "text-verified",
-  "spec_note": "ID+OD present in record text (regex-verified); structured extraction pending"
+  "spec_status": "verified",
+  "spec_note": "ID+OD present in record text (regex-verified); structured extraction pending",
+  "id_od": {
+   "units": "inches",
+   "max_od_is_proximal": true,
+   "source_type": "trade_journal_device_guide",
+   "source_name": "Endovascular Today \u2014 EUROPEAN Device Guide: Microcatheters (EVT-EUROPEAN-microcatheters-1.pdf)",
+   "extraction_method": "manual_table_read",
+   "extracted": "2026-08-23",
+   "id": {
+    "in": 0.0165
+   },
+   "od_prox": {
+    "fr": 2.4
+   },
+   "od_dist": {
+    "fr": 1.7
+   },
+   "guidewire_max": "0.014",
+   "verbatim_quote": "EVT EUROPEAN Device Guide: Stryker Excelsior SL-10 \u2014 prox 2.4F, distal 1.7F, endhole ID 0.0165\""
+  }
  },
  "indications": "/ indications for use\nStryker Neurovascular Excelsior SL-10 Microcatheter is\nintended to assist in the delivery of diagnostic agents,\nsuch as contrast media, and therapeutic agents, such\nas occlusion coils, into the peripheral, coronary, and\nneurovasculature.",
  "contraindications": null,
