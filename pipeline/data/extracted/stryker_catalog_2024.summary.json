@@ -1,0 +1,394 @@
+{
+  "pdf_sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+  "title": "Stryker Neurovascular interventions product catalogue",
+  "catalog_year": "2024",
+  "jurisdiction": "US",
+  "creation_date": "D:20240108142306-07'00'",
+  "pages_with_tables": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37
+  ],
+  "row_count": 475,
+  "families": [
+    {
+      "product_family": "Synchro2 Guidewires",
+      "section": "Access devices",
+      "pdf_page": 2,
+      "row_count": 12
+    },
+    {
+      "product_family": "Synchro SELECT Guidewires",
+      "section": "Access devices",
+      "pdf_page": 2,
+      "row_count": 12
+    },
+    {
+      "product_family": "Synchro–10 Guidewires",
+      "section": "Access devices",
+      "pdf_page": 3,
+      "row_count": 2
+    },
+    {
+      "product_family": "Synchro–14 Guidewires",
+      "section": "Access devices",
+      "pdf_page": 3,
+      "row_count": 5
+    },
+    {
+      "product_family": "Transend EX Guidewires",
+      "section": "Access devices",
+      "pdf_page": 4,
+      "row_count": 4
+    },
+    {
+      "product_family": "Transend .010 Guidewire",
+      "section": "Access devices",
+      "pdf_page": 4,
+      "row_count": 1
+    },
+    {
+      "product_family": "Transend 300 Guidewires",
+      "section": "Access devices",
+      "pdf_page": 4,
+      "row_count": 2
+    },
+    {
+      "product_family": "Excelsior SL-10 Microcatheters",
+      "section": "Access devices",
+      "pdf_page": 5,
+      "row_count": 7
+    },
+    {
+      "product_family": "Excelsior XT-17 Microcatheters",
+      "section": "Access devices",
+      "pdf_page": 5,
+      "row_count": 8
+    },
+    {
+      "product_family": "Excelsior 1018 Microcatheters",
+      "section": "Access devices",
+      "pdf_page": 6,
+      "row_count": 7
+    },
+    {
+      "product_family": "Excelsior XT-27 Microcatheters",
+      "section": "Access devices",
+      "pdf_page": 6,
+      "row_count": 8
+    },
+    {
+      "product_family": "Neuro Renegade Hi-Flo Microcatheter",
+      "section": "Access devices",
+      "pdf_page": 6,
+      "row_count": 1
+    },
+    {
+      "product_family": "Guider Softip XF Guide Catheters 100cm",
+      "section": "Access devices",
+      "pdf_page": 7,
+      "row_count": 12
+    },
+    {
+      "product_family": "Guider Softip XF Guide Catheters 90cm",
+      "section": "Access devices",
+      "pdf_page": 7,
+      "row_count": 12
+    },
+    {
+      "product_family": "AXS Catalyst Distal Access Catheters",
+      "section": "Access devices",
+      "pdf_page": 8,
+      "row_count": 6
+    },
+    {
+      "product_family": "AXS Offset Delivery Assist Catheter",
+      "section": "Access devices",
+      "pdf_page": 9,
+      "row_count": 1
+    },
+    {
+      "product_family": "AXS Infinity LS Long Sheaths",
+      "section": "Access devices",
+      "pdf_page": 10,
+      "row_count": 3
+    },
+    {
+      "product_family": "AXS Infinity LS Plus Long Sheaths",
+      "section": "Access devices",
+      "pdf_page": 10,
+      "row_count": 3
+    },
+    {
+      "product_family": "FlowGate2 Balloon Guide Catheters",
+      "section": "Access devices",
+      "pdf_page": 11,
+      "row_count": 2
+    },
+    {
+      "product_family": "Merci Balloon Guide Catheters",
+      "section": "Access devices",
+      "pdf_page": 11,
+      "row_count": 4
+    },
+    {
+      "product_family": "Target Tetra Detachable Coils",
+      "section": "Hemorrhagic devices",
+      "pdf_page": 12,
+      "row_count": 20
+    },
+    {
+      "product_family": "Target 360 Nano Detachable Coils",
+      "section": "Hemorrhagic devices",
+      "pdf_page": 13,
+      "row_count": 11
+    },
+    {
+      "product_family": "Target 360 Ultra Detachable Coils",
+      "section": "Hemorrhagic devices",
+      "pdf_page": 13,
+      "row_count": 16
+    },
+    {
+      "product_family": "Target 360 Soft Detachable Coils",
+      "section": "Hemorrhagic devices",
+      "pdf_page": 14,
+      "row_count": 29
+    },
+    {
+      "product_family": "Target 360 Standard Detachable Coils",
+      "section": "Hemorrhagic devices",
+      "pdf_page": 15,
+      "row_count": 23
+    },
+    {
+      "product_family": "Target XL 360 Soft Detachable Coils",
+      "section": "Hemorrhagic devices",
+      "pdf_page": 16,
+      "row_count": 18
+    },
+    {
+      "product_family": "Target XL 360 Standard Detachable Coils",
+      "section": "Hemorrhagic devices",
+      "pdf_page": 17,
+      "row_count": 12
+    },
+    {
+      "product_family": "Target 3D Detachable Coils",
+      "section": "Hemorrhagic devices",
+      "pdf_page": 18,
+      "row_count": 7
+    },
+    {
+      "product_family": "Target XXL 360 Detachable Coils",
+      "section": "Hemorrhagic devices",
+      "pdf_page": 18,
+      "row_count": 14
+    },
+    {
+      "product_family": "Target Helical Nano Detachable Coils",
+      "section": "Hemorrhagic devices",
+      "pdf_page": 19,
+      "row_count": 17
+    },
+    {
+      "product_family": "Target Helical Ultra Detachable Coils",
+      "section": "Hemorrhagic devices",
+      "pdf_page": 20,
+      "row_count": 18
+    },
+    {
+      "product_family": "Target XL Helical Detachable Coils",
+      "section": "Hemorrhagic devices",
+      "pdf_page": 20,
+      "row_count": 6
+    },
+    {
+      "product_family": "Contour Neurovascular System",
+      "section": "Hemorrhagic devices",
+      "pdf_page": 21,
+      "row_count": 5
+    },
+    {
+      "product_family": "Neqstent Coil Assisted Flow Diverters",
+      "section": "Hemorrhagic devices",
+      "pdf_page": 22,
+      "row_count": 4
+    },
+    {
+      "product_family": "Trenza Embolization Devices",
+      "section": "Hemorrhagic devices",
+      "pdf_page": 23,
+      "row_count": 7
+    },
+    {
+      "product_family": "InZone Detachment System",
+      "section": "Hemorrhagic devices",
+      "pdf_page": 24,
+      "row_count": 1
+    },
+    {
+      "product_family": "e-moji Detachment System",
+      "section": "Hemorrhagic devices",
+      "pdf_page": 24,
+      "row_count": 2
+    },
+    {
+      "product_family": "Surpass Evolve Flow Diverters",
+      "section": "Hemorrhagic devices",
+      "pdf_page": 25,
+      "row_count": 28
+    },
+    {
+      "product_family": "Neuroform Atlas Stent System",
+      "section": "Hemorrhagic devices",
+      "pdf_page": 26,
+      "row_count": 10
+    },
+    {
+      "product_family": "TransForm Compliant Occlusion Balloon Catheters",
+      "section": "Hemorrhagic devices",
+      "pdf_page": 27,
+      "row_count": 1
+    },
+    {
+      "product_family": "TransForm Super Compliant Occlusion Balloon Catheters",
+      "section": "Hemorrhagic devices",
+      "pdf_page": 27,
+      "row_count": 1
+    },
+    {
+      "product_family": "Trevo NXT ProVue Retrievers",
+      "section": "Ischemic devices",
+      "pdf_page": 28,
+      "row_count": 4
+    },
+    {
+      "product_family": "Trevo NXT ProVue Retriever (2-Pack Kits)",
+      "section": "Ischemic devices",
+      "pdf_page": 28,
+      "row_count": 5
+    },
+    {
+      "product_family": "Trevo NXT Stroke Fast Pack (3-Pack Kits)",
+      "section": "Ischemic devices",
+      "pdf_page": 29,
+      "row_count": 9
+    },
+    {
+      "product_family": "Trevo XP ProVue Retrievers",
+      "section": "Ischemic devices",
+      "pdf_page": 30,
+      "row_count": 4
+    },
+    {
+      "product_family": "Trevo XP ProVue Retriever (2-Pack Kits)",
+      "section": "Ischemic devices",
+      "pdf_page": 30,
+      "row_count": 3
+    },
+    {
+      "product_family": "Trevo XP Stroke Fast Pack (2-Pack Kits)",
+      "section": "Ischemic devices",
+      "pdf_page": 31,
+      "row_count": 4
+    },
+    {
+      "product_family": "Trevo XP Stroke Fast Pack (3-Pack Kits)",
+      "section": "Ischemic devices",
+      "pdf_page": 31,
+      "row_count": 3
+    },
+    {
+      "product_family": "Trevo Trak 21 Microcatheter",
+      "section": "Ischemic devices",
+      "pdf_page": 32,
+      "row_count": 1
+    },
+    {
+      "product_family": "Trevo Pro 18 Microcatheter",
+      "section": "Ischemic devices",
+      "pdf_page": 32,
+      "row_count": 1
+    },
+    {
+      "product_family": "AXS Vecta Aspiration Catheters",
+      "section": "Ischemic devices",
+      "pdf_page": 33,
+      "row_count": 6
+    },
+    {
+      "product_family": "AXS Vecta Aspiration Catheters + AXS Universal Aspiration Tubing",
+      "section": "Ischemic devices",
+      "pdf_page": 33,
+      "row_count": 4
+    },
+    {
+      "product_family": "AXS Catalyst Distal Access Catheters + AXS Universal Aspiration Tubing",
+      "section": "Ischemic devices",
+      "pdf_page": 33,
+      "row_count": 4
+    },
+    {
+      "product_family": "Medela Dominant Flex Suction Pump",
+      "section": "Ischemic devices",
+      "pdf_page": 34,
+      "row_count": 15
+    },
+    {
+      "product_family": "Medela Dominant Flex Accessories",
+      "section": "Ischemic devices",
+      "pdf_page": 35,
+      "row_count": 23
+    },
+    {
+      "product_family": "Wingspan Stent System",
+      "section": "Intracranial atherosclerotic disease devices",
+      "pdf_page": 36,
+      "row_count": 5
+    },
+    {
+      "product_family": "Gateway PTA Balloon Catheters",
+      "section": "Intracranial atherosclerotic disease devices",
+      "pdf_page": 37,
+      "row_count": 22
+    }
+  ],
+  "verification": {
+    "pages_checked": 36,
+    "discrepancies": []
+  }
+}

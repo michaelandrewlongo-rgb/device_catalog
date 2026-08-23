@@ -9663,6 +9663,1146 @@
       "source_type": "manufacturer_product_catalog",
       "status": "current",
       "title": "Penumbra System - RED 72 SILVER LABEL with SENDit Technology brochure (31708 Rev. A 03/25) (2025), Penumbra System table"
+    },
+    {
+      "device_id": "guidewire--stryker--synchro2-guidewires",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Synchro2 Guidewires",
+          "Synchro2 Guidewires"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:guidewire--stryker--synchro2-guidewires",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Synchro2 Guidewires table"
+    },
+    {
+      "device_id": "guidewire--stryker--synchro-select-guidewires",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Synchro SELECT Guidewires",
+          "Synchro Select Guidewires"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:guidewire--stryker--synchro-select-guidewires",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Synchro Select Guidewires table"
+    },
+    {
+      "device_id": "guidewire--stryker--synchro-10-guidewires",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Synchro\u201310 Guidewires",
+          "Synchro\u201310 Guidewires"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:guidewire--stryker--synchro-10-guidewires",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Synchro\u201310 Guidewires table"
+    },
+    {
+      "device_id": "guidewire--stryker--synchro-14-guidewires",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Synchro\u201314 Guidewires",
+          "Synchro\u201314 Guidewires"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:guidewire--stryker--synchro-14-guidewires",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Synchro\u201314 Guidewires table"
+    },
+    {
+      "device_id": "guidewire--stryker--transend-ex-guidewires",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Transend EX Guidewires",
+          "Transend EX Guidewires"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:guidewire--stryker--transend-ex-guidewires",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Transend EX Guidewires table"
+    },
+    {
+      "device_id": "guidewire--stryker--transend-010-guidewire",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Transend .010 Guidewire",
+          "Transend .010 Guidewire"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:guidewire--stryker--transend-010-guidewire",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Transend .010 Guidewire table"
+    },
+    {
+      "device_id": "guidewire--stryker--transend-300-guidewires",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Transend 300 Guidewires",
+          "Transend 300 Guidewires"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:guidewire--stryker--transend-300-guidewires",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Transend 300 Guidewires table"
+    },
+    {
+      "device_id": "microcatheter--stryker--excelsior-sl-10-microcatheters",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Excelsior SL-10 Microcatheters",
+          "Excelsior Sl-10 Microcatheters"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:microcatheter--stryker--excelsior-sl-10-microcatheters",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Excelsior Sl-10 Microcatheters table"
+    },
+    {
+      "device_id": "microcatheter--stryker--excelsior-xt-17-microcatheters",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Excelsior XT-17 Microcatheters",
+          "Excelsior Xt-17 Microcatheters"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:microcatheter--stryker--excelsior-xt-17-microcatheters",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Excelsior Xt-17 Microcatheters table"
+    },
+    {
+      "device_id": "microcatheter--stryker--excelsior-1018-microcatheters",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Excelsior 1018 Microcatheters",
+          "Excelsior 1018 Microcatheters"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:microcatheter--stryker--excelsior-1018-microcatheters",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Excelsior 1018 Microcatheters table"
+    },
+    {
+      "device_id": "microcatheter--stryker--excelsior-xt-27-microcatheters",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Excelsior XT-27 Microcatheters",
+          "Excelsior Xt-27 Microcatheters"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:microcatheter--stryker--excelsior-xt-27-microcatheters",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Excelsior Xt-27 Microcatheters table"
+    },
+    {
+      "device_id": "microcatheter--stryker--neuro-renegade-hi-flo-microcatheter",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Neuro Renegade Hi-Flo Microcatheter",
+          "Neuro Renegade Hi-Flo Microcatheter"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:microcatheter--stryker--neuro-renegade-hi-flo-microcatheter",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Neuro Renegade Hi-Flo Microcatheter table"
+    },
+    {
+      "device_id": "access-devices--stryker--guider-softip-xf-guide-catheters-100cm",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Guider Softip XF Guide Catheters 100cm",
+          "Guider Softip XF Guide Catheters 100cm"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:access-devices--stryker--guider-softip-xf-guide-catheters-100cm",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Guider Softip XF Guide Catheters 100cm table"
+    },
+    {
+      "device_id": "access-devices--stryker--guider-softip-xf-guide-catheters-90cm",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Guider Softip XF Guide Catheters 90cm",
+          "Guider Softip XF Guide Catheters 90cm"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:access-devices--stryker--guider-softip-xf-guide-catheters-90cm",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Guider Softip XF Guide Catheters 90cm table"
+    },
+    {
+      "device_id": "distal-access--stryker--axs-catalyst-distal-access-catheters",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "AXS Catalyst Distal Access Catheters",
+          "AXS Catalyst Distal Access Catheters"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:distal-access--stryker--axs-catalyst-distal-access-catheters",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), AXS Catalyst Distal Access Catheters table"
+    },
+    {
+      "device_id": "access-devices--stryker--axs-offset-delivery-assist-catheter",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "AXS Offset Delivery Assist Catheter",
+          "AXS Offset Delivery Assist Catheter"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:access-devices--stryker--axs-offset-delivery-assist-catheter",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), AXS Offset Delivery Assist Catheter table"
+    },
+    {
+      "device_id": "access-devices--stryker--axs-infinity-ls-long-sheaths",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "AXS Infinity LS Long Sheaths",
+          "AXS Infinity LS Long Sheaths"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:access-devices--stryker--axs-infinity-ls-long-sheaths",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), AXS Infinity LS Long Sheaths table"
+    },
+    {
+      "device_id": "access-devices--stryker--axs-infinity-ls-plus-long-sheaths",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "AXS Infinity LS Plus Long Sheaths",
+          "AXS Infinity LS Plus Long Sheaths"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:access-devices--stryker--axs-infinity-ls-plus-long-sheaths",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), AXS Infinity LS Plus Long Sheaths table"
+    },
+    {
+      "device_id": "balloon-catheter--stryker--flowgate2-balloon-guide-catheters",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "FlowGate2 Balloon Guide Catheters",
+          "FlowGate2 Balloon Guide Catheters"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:balloon-catheter--stryker--flowgate2-balloon-guide-catheters",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), FlowGate2 Balloon Guide Catheters table"
+    },
+    {
+      "device_id": "balloon-catheter--stryker--merci-balloon-guide-catheters",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Merci Balloon Guide Catheters",
+          "Merci Balloon Guide Catheters"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:balloon-catheter--stryker--merci-balloon-guide-catheters",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Merci Balloon Guide Catheters table"
+    },
+    {
+      "device_id": "embolic-coil--stryker--target-tetra-detachable-coils",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Target Tetra Detachable Coils",
+          "Target Tetra Detachable Coils"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-tetra-detachable-coils",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Target Tetra Detachable Coils table"
+    },
+    {
+      "device_id": "embolic-coil--stryker--target-360-nano-detachable-coils",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Target 360 Nano Detachable Coils",
+          "Target 360 Nano Detachable Coils"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-360-nano-detachable-coils",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Target 360 Nano Detachable Coils table"
+    },
+    {
+      "device_id": "embolic-coil--stryker--target-360-ultra-detachable-coils",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Target 360 Ultra Detachable Coils",
+          "Target 360 Ultra Detachable Coils"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-360-ultra-detachable-coils",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Target 360 Ultra Detachable Coils table"
+    },
+    {
+      "device_id": "embolic-coil--stryker--target-360-soft-detachable-coils",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Target 360 Soft Detachable Coils",
+          "Target 360 Soft Detachable Coils"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-360-soft-detachable-coils",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Target 360 Soft Detachable Coils table"
+    },
+    {
+      "device_id": "embolic-coil--stryker--target-360-standard-detachable-coils",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Target 360 Standard Detachable Coils",
+          "Target 360 Standard Detachable Coils"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-360-standard-detachable-coils",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Target 360 Standard Detachable Coils table"
+    },
+    {
+      "device_id": "embolic-coil--stryker--target-xl-360-soft-detachable-coils",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Target XL 360 Soft Detachable Coils",
+          "Target XL 360 Soft Detachable Coils"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-xl-360-soft-detachable-coils",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Target XL 360 Soft Detachable Coils table"
+    },
+    {
+      "device_id": "embolic-coil--stryker--target-xl-360-standard-detachable-coils",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Target XL 360 Standard Detachable Coils",
+          "Target XL 360 Standard Detachable Coils"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-xl-360-standard-detachable-coils",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Target XL 360 Standard Detachable Coils table"
+    },
+    {
+      "device_id": "embolic-coil--stryker--target-3d-detachable-coils",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Target 3D Detachable Coils",
+          "Target 3D Detachable Coils"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-3d-detachable-coils",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Target 3D Detachable Coils table"
+    },
+    {
+      "device_id": "embolic-coil--stryker--target-xxl-360-detachable-coils",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Target XXL 360 Detachable Coils",
+          "Target XXL 360 Detachable Coils"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-xxl-360-detachable-coils",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Target XXL 360 Detachable Coils table"
+    },
+    {
+      "device_id": "embolic-coil--stryker--target-helical-nano-detachable-coils",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Target Helical Nano Detachable Coils",
+          "Target Helical Nano Detachable Coils"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-helical-nano-detachable-coils",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Target Helical Nano Detachable Coils table"
+    },
+    {
+      "device_id": "embolic-coil--stryker--target-helical-ultra-detachable-coils",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Target Helical Ultra Detachable Coils",
+          "Target Helical Ultra Detachable Coils"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-helical-ultra-detachable-coils",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Target Helical Ultra Detachable Coils table"
+    },
+    {
+      "device_id": "embolic-coil--stryker--target-xl-helical-detachable-coils",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Target XL Helical Detachable Coils",
+          "Target XL Helical Detachable Coils"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-xl-helical-detachable-coils",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Target XL Helical Detachable Coils table"
+    },
+    {
+      "device_id": "hemorrhagic-devices--stryker--contour-neurovascular-system",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Contour Neurovascular System",
+          "Contour Neurovascular System"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:hemorrhagic-devices--stryker--contour-neurovascular-system",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Contour Neurovascular System table"
+    },
+    {
+      "device_id": "flow-diverter--stryker--neqstent-coil-assisted-flow-diverters",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Neqstent Coil Assisted Flow Diverters",
+          "Neqstent Coil Assisted Flow Diverters"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:flow-diverter--stryker--neqstent-coil-assisted-flow-diverters",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Neqstent Coil Assisted Flow Diverters table"
+    },
+    {
+      "device_id": "hemorrhagic-devices--stryker--trenza-embolization-devices",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Trenza Embolization Devices",
+          "Trenza Embolization Devices"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:hemorrhagic-devices--stryker--trenza-embolization-devices",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Trenza Embolization Devices table"
+    },
+    {
+      "device_id": "hemorrhagic-devices--stryker--inzone-detachment-system",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "InZone Detachment System",
+          "InZone Detachment System"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:hemorrhagic-devices--stryker--inzone-detachment-system",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), InZone Detachment System table"
+    },
+    {
+      "device_id": "hemorrhagic-devices--stryker--e-moji-detachment-system",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "e-moji Detachment System",
+          "e-moji Detachment System"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:hemorrhagic-devices--stryker--e-moji-detachment-system",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), e-moji Detachment System table"
+    },
+    {
+      "device_id": "flow-diverter--stryker--surpass-evolve-flow-diverters",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Surpass Evolve Flow Diverters",
+          "Surpass Evolve Flow Diverters"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:flow-diverter--stryker--surpass-evolve-flow-diverters",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Surpass Evolve Flow Diverters table"
+    },
+    {
+      "device_id": "intracranial-stent--stryker--neuroform-atlas-stent-system",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Neuroform Atlas Stent System",
+          "Neuroform Atlas Stent System"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:intracranial-stent--stryker--neuroform-atlas-stent-system",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Neuroform Atlas Stent System table"
+    },
+    {
+      "device_id": "balloon-catheter--stryker--transform-compliant-occlusion-balloon-catheters",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "TransForm Compliant Occlusion Balloon Catheters",
+          "TransForm Compliant Occlusion Balloon Catheters"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:balloon-catheter--stryker--transform-compliant-occlusion-balloon-catheters",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), TransForm Compliant Occlusion Balloon Catheters table"
+    },
+    {
+      "device_id": "balloon-catheter--stryker--transform-super-compliant-occlusion-balloon-catheters",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "TransForm Super Compliant Occlusion Balloon Catheters",
+          "TransForm Super Compliant Occlusion Balloon Catheters"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:balloon-catheter--stryker--transform-super-compliant-occlusion-balloon-catheters",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), TransForm Super Compliant Occlusion Balloon Catheters table"
+    },
+    {
+      "device_id": "ischemic-devices--stryker--trevo-nxt-provue-retrievers",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Trevo NXT ProVue Retrievers",
+          "Trevo NXT ProVue Retrievers"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:ischemic-devices--stryker--trevo-nxt-provue-retrievers",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Trevo NXT ProVue Retrievers table"
+    },
+    {
+      "device_id": "ischemic-devices--stryker--trevo-nxt-provue-retriever-2-pack-kits",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Trevo NXT ProVue Retriever (2-Pack Kits)",
+          "Trevo NXT ProVue Retriever (2-Pack Kits)"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:ischemic-devices--stryker--trevo-nxt-provue-retriever-2-pack-kits",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Trevo NXT ProVue Retriever (2-Pack Kits) table"
+    },
+    {
+      "device_id": "ischemic-devices--stryker--trevo-nxt-stroke-fast-pack-3-pack-kits",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Trevo NXT Stroke Fast Pack (3-Pack Kits)",
+          "Trevo NXT Stroke Fast Pack (3-Pack Kits)"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:ischemic-devices--stryker--trevo-nxt-stroke-fast-pack-3-pack-kits",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Trevo NXT Stroke Fast Pack (3-Pack Kits) table"
+    },
+    {
+      "device_id": "ischemic-devices--stryker--trevo-xp-provue-retrievers",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Trevo XP ProVue Retrievers",
+          "Trevo XP ProVue Retrievers"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:ischemic-devices--stryker--trevo-xp-provue-retrievers",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Trevo XP ProVue Retrievers table"
+    },
+    {
+      "device_id": "ischemic-devices--stryker--trevo-xp-provue-retriever-2-pack-kits",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Trevo XP ProVue Retriever (2-Pack Kits)",
+          "Trevo XP ProVue Retriever (2-Pack Kits)"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:ischemic-devices--stryker--trevo-xp-provue-retriever-2-pack-kits",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Trevo XP ProVue Retriever (2-Pack Kits) table"
+    },
+    {
+      "device_id": "ischemic-devices--stryker--trevo-xp-stroke-fast-pack-2-pack-kits",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Trevo XP Stroke Fast Pack (2-Pack Kits)",
+          "Trevo XP Stroke Fast Pack (2-Pack Kits)"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:ischemic-devices--stryker--trevo-xp-stroke-fast-pack-2-pack-kits",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Trevo XP Stroke Fast Pack (2-Pack Kits) table"
+    },
+    {
+      "device_id": "ischemic-devices--stryker--trevo-xp-stroke-fast-pack-3-pack-kits",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Trevo XP Stroke Fast Pack (3-Pack Kits)",
+          "Trevo XP Stroke Fast Pack (3-Pack Kits)"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:ischemic-devices--stryker--trevo-xp-stroke-fast-pack-3-pack-kits",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Trevo XP Stroke Fast Pack (3-Pack Kits) table"
+    },
+    {
+      "device_id": "microcatheter--stryker--trevo-trak-21-microcatheter",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Trevo Trak 21 Microcatheter",
+          "Trevo Trak 21 Microcatheter"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:microcatheter--stryker--trevo-trak-21-microcatheter",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Trevo Trak 21 Microcatheter table"
+    },
+    {
+      "device_id": "microcatheter--stryker--trevo-pro-18-microcatheter",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Trevo Pro 18 Microcatheter",
+          "Trevo Pro 18 Microcatheter"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:microcatheter--stryker--trevo-pro-18-microcatheter",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Trevo Pro 18 Microcatheter table"
+    },
+    {
+      "device_id": "aspiration--stryker--axs-vecta-aspiration-catheters",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "AXS Vecta Aspiration Catheters",
+          "AXS Vecta Aspiration Catheters"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:aspiration--stryker--axs-vecta-aspiration-catheters",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), AXS Vecta Aspiration Catheters table"
+    },
+    {
+      "device_id": "aspiration--stryker--axs-vecta-aspiration-catheters-axs-universal-aspiration-tubing",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "AXS Vecta Aspiration Catheters + AXS Universal Aspiration Tubing",
+          "AXS Vecta Aspiration Catheters + AXS Universal Aspiration Tubing"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:aspiration--stryker--axs-vecta-aspiration-catheters-axs-universal-aspiration-tubing",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), AXS Vecta Aspiration Catheters + AXS Universal Aspiration Tubing table"
+    },
+    {
+      "device_id": "distal-access--stryker--axs-catalyst-distal-access-catheters-axs-universal-aspiration-tubing",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "AXS Catalyst Distal Access Catheters + AXS Universal Aspiration Tubing",
+          "AXS Catalyst Distal Access Catheters + AXS Universal Aspiration Tubing"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:distal-access--stryker--axs-catalyst-distal-access-catheters-axs-universal-aspiration-tubing",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), AXS Catalyst Distal Access Catheters + AXS Universal Aspiration Tubing table"
+    },
+    {
+      "device_id": "ischemic-devices--stryker--medela-dominant-flex-suction-pump",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Medela Dominant Flex Suction Pump",
+          "Medela Dominant Flex Suction Pump"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:ischemic-devices--stryker--medela-dominant-flex-suction-pump",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Medela Dominant Flex Suction Pump table"
+    },
+    {
+      "device_id": "ischemic-devices--stryker--medela-dominant-flex-accessories",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Medela Dominant Flex Accessories",
+          "Medela Dominant Flex Accessories"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:ischemic-devices--stryker--medela-dominant-flex-accessories",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Medela Dominant Flex Accessories table"
+    },
+    {
+      "device_id": "intracranial-stent--stryker--wingspan-stent-system",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Wingspan Stent System",
+          "Wingspan Stent System"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:intracranial-stent--stryker--wingspan-stent-system",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Wingspan Stent System table"
+    },
+    {
+      "device_id": "balloon-catheter--stryker--gateway-pta-balloon-catheters",
+      "document_id": "stryker_catalog_2024",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Gateway PTA Balloon Catheters",
+          "Gateway PTA Balloon Catheters"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "notes": "Manufacturer product catalog dated 2024; catalog-number-level specifications as published by the manufacturer. Outranked by the current IFU or labeling on conflict; products introduced or revised after the catalog date are not reflected.",
+      "revision": "2024 catalog",
+      "sha256": "e107e55e59af8ebdf06e7209cedce650030292adf44cb41e6d95df268b290158",
+      "source_id": "catalog:stryker:stryker_catalog_2024:balloon-catheter--stryker--gateway-pta-balloon-catheters",
+      "source_type": "manufacturer_product_catalog",
+      "status": "current",
+      "title": "Stryker Neurovascular interventions product catalogue (2024), Gateway PTA Balloon Catheters table"
     }
   ]
 }

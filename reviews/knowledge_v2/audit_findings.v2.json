@@ -4894,6 +4894,576 @@
       "official_scan_status": "not_watched",
       "source_id": "catalog:penumbra:penumbra_brochure_2025:aspiration--penumbra--penumbra-system",
       "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:guidewire--stryker--synchro2-guidewires",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:guidewire--stryker--synchro-select-guidewires",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:guidewire--stryker--synchro-10-guidewires",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:guidewire--stryker--synchro-14-guidewires",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:guidewire--stryker--transend-ex-guidewires",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:guidewire--stryker--transend-010-guidewire",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:guidewire--stryker--transend-300-guidewires",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:microcatheter--stryker--excelsior-sl-10-microcatheters",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:microcatheter--stryker--excelsior-xt-17-microcatheters",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:microcatheter--stryker--excelsior-1018-microcatheters",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:microcatheter--stryker--excelsior-xt-27-microcatheters",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:microcatheter--stryker--neuro-renegade-hi-flo-microcatheter",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:access-devices--stryker--guider-softip-xf-guide-catheters-100cm",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:access-devices--stryker--guider-softip-xf-guide-catheters-90cm",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:distal-access--stryker--axs-catalyst-distal-access-catheters",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:access-devices--stryker--axs-offset-delivery-assist-catheter",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:access-devices--stryker--axs-infinity-ls-long-sheaths",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:access-devices--stryker--axs-infinity-ls-plus-long-sheaths",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:balloon-catheter--stryker--flowgate2-balloon-guide-catheters",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:balloon-catheter--stryker--merci-balloon-guide-catheters",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-tetra-detachable-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-360-nano-detachable-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-360-ultra-detachable-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-360-soft-detachable-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-360-standard-detachable-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-xl-360-soft-detachable-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-xl-360-standard-detachable-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-3d-detachable-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-xxl-360-detachable-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-helical-nano-detachable-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-helical-ultra-detachable-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:embolic-coil--stryker--target-xl-helical-detachable-coils",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:hemorrhagic-devices--stryker--contour-neurovascular-system",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:flow-diverter--stryker--neqstent-coil-assisted-flow-diverters",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:hemorrhagic-devices--stryker--trenza-embolization-devices",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:hemorrhagic-devices--stryker--inzone-detachment-system",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:hemorrhagic-devices--stryker--e-moji-detachment-system",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:flow-diverter--stryker--surpass-evolve-flow-diverters",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:intracranial-stent--stryker--neuroform-atlas-stent-system",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:balloon-catheter--stryker--transform-compliant-occlusion-balloon-catheters",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:balloon-catheter--stryker--transform-super-compliant-occlusion-balloon-catheters",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:ischemic-devices--stryker--trevo-nxt-provue-retrievers",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:ischemic-devices--stryker--trevo-nxt-provue-retriever-2-pack-kits",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:ischemic-devices--stryker--trevo-nxt-stroke-fast-pack-3-pack-kits",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:ischemic-devices--stryker--trevo-xp-provue-retrievers",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:ischemic-devices--stryker--trevo-xp-provue-retriever-2-pack-kits",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:ischemic-devices--stryker--trevo-xp-stroke-fast-pack-2-pack-kits",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:ischemic-devices--stryker--trevo-xp-stroke-fast-pack-3-pack-kits",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:microcatheter--stryker--trevo-trak-21-microcatheter",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:microcatheter--stryker--trevo-pro-18-microcatheter",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:aspiration--stryker--axs-vecta-aspiration-catheters",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:aspiration--stryker--axs-vecta-aspiration-catheters-axs-universal-aspiration-tubing",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:distal-access--stryker--axs-catalyst-distal-access-catheters-axs-universal-aspiration-tubing",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:ischemic-devices--stryker--medela-dominant-flex-suction-pump",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:ischemic-devices--stryker--medela-dominant-flex-accessories",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:intracranial-stent--stryker--wingspan-stent-system",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/stryker--neurovascular-product-catalogue-2024.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "catalog:stryker:stryker_catalog_2024:balloon-catheter--stryker--gateway-pta-balloon-catheters",
+      "validation_errors": []
     }
   ]
 }
