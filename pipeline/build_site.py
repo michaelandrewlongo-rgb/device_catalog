@@ -164,12 +164,19 @@ def find_device_image(device_id: str, catalog_root: Path) -> "str | None":
 def load_devices(catalog_root: Path) -> list[dict]:
     """Load all curated knowledge files from catalog_root.
 
-    Reads every file matching *--knowledge.md directly in catalog_root
-    (non-recursive -- drafts in subdirectories are excluded).
+    Curated knowledge files live under artifacts/**/data_by_device/ since the
+    artifact reorganization; files matching *--knowledge.md directly in
+    catalog_root (the pre-reorg location) are still read for compatibility and
+    win over an artifacts copy with the same filename.
     Returns a list of device dicts ready for JSON serialization.
     """
     devices: list[dict] = []
-    for path in sorted(catalog_root.glob("*--knowledge.md")):
+    paths: dict[str, Path] = {}
+    for path in (catalog_root / "artifacts").glob("**/data_by_device/*--knowledge.md"):
+        paths[path.name] = path
+    for path in catalog_root.glob("*--knowledge.md"):
+        paths[path.name] = path
+    for _, path in sorted(paths.items()):
         meta = parse_filename(path.name)
         if not meta:
             continue

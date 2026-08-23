@@ -1,39 +1,35 @@
 # STATE.md
 
 I was trying to:
-Land the knowledge v2.1 lane in git and feed it the 15 Endovascular Today device-guide PDFs (2026-08 exports) as discovery-only secondary candidates, so `agent-textbooks` can see EVT sizing rows without ever treating them as labeling.
+Serve every high-quality source layer as primary, actionable evidence (per the 2026-08-23 decision: official labeling, official specification, manufacturer catalog, and trade-journal device guide are all primary candidates at equal rank), sync the branch with origin, and keep documentation current.
 
-The last thing I saw (updated 2026-08-23, third pass):
+The last thing I saw (updated 2026-08-23, fourth pass):
 ```
-export -> 639 sources, 873 actionable claims, 269 secondary candidates, rejected=0
-- 483 EVT guide rows (every row independently audited) at trade_journal_device_guide
-- 4 manufacturer catalogs (Medtronic 2019, Stryker 2024, MicroVention 2019 intl, Balt 2020 intl) + Penumbra 2025 spec page: 1,859 SKUs in 181 families at manufacturer_catalog
-- 11 current IFUs registered and identity-checked; 163 official_labeling claims drafted by agents, validated by import_claim_drafts (1 draft rejected on page check)
-All priority-1 wishlist IFUs are now on file (Onyx LES is the 10/13 revision as served; product page cites newer CDOC numbers).
+audit  -> 642 registered sources, quarantined=2 (the known misfiled ENTERPRISE/Onyx HD-500 and Pipeline Flex/Shield docs), schema_failures=0
+export -> 642 sources, 880 actionable claims, 0 secondary candidates, rejected=0 (schema 2.1.0)
+pytest tests/ -> 134 passed
 ```
-Earlier (second pass):
+Registry composition (565 devices with actionable claims):
+- 483 EVT guide rows (2026-08 US + European exports, every row independently audited) promoted to `device_specifications` claims at `trade_journal_device_guide`; French->inch conversions folded in as `derived_calculation` entries; prose cells served as printed text, never parsed numbers.
+- 4 manufacturer catalogs (Medtronic 2019, Stryker 2024, MicroVention 2019 intl, Balt 2020 intl) + Penumbra 2025 spec page: 1,859 SKUs / 181 families at `manufacturer_catalog`.
+- 14 devices with current-IFU `official_labeling` claims (11 supplied IFUs + River HDE H230002, Zilver IFU0043-10, Neuroform Atlas Rev AB); ~184 claims drafted by agents and validated by `import_claim_drafts` (indications, contraindications, sizing, compatibility, deployment, preparation - MRI/storage out of scope by decision).
+- 25 `official_specification` claims (510(k) tables, Q'Apel Walrus/Armadillo/Zebra and Wedge 21 product pages).
+
+Branch state: work lives on `jnis-catheter-focus`. On 2026-08-23 the previously uncommitted artifact reorganization (root `*--knowledge.md` files moved under `artifacts/<domain>/<category>/<device>/data_by_device/`, plus pipeline/data evidence trees) was preserved as commit `2348c203`, then origin's two divergent commits (FDA catheter backfill) were merged; export-file conflicts resolved by regenerating from the masters. `pipeline/build_site.py` now reads knowledge files from the artifacts layout. `core.longpaths` enabled for this repo. Note: CATALOG_INDEX.md and PRODUCT_GOAL.md were deleted by the reorg.
+
+Flat exports (regenerate after any registry change):
 ```
-Spot audit of 20 EVT candidates (5 independent auditors): rows 20/20, fields 121/127; all 6 partials were numbers parsed out of prose cells.
-Fix: classify_cell()/cell_unit() in secondary_candidates.py - numbers only from pure number cells, ranges kept as ranges, in-cell units override headers (73 prose, 10 range cells corpus-wide).
-Added manufacturer IFUs: River Stent System (HDE H230002, 1115-001 Rev A, 9 claims) and Zilver Vascular Stent (IFU0043-10, 6 claims; iliac labeling only - venous-sinus use is off-label and is NOT a claim).
-export -> 43 sources, 46 actionable claims, 247 secondary candidates; rejected=0
+python -m pipeline.run_knowledge_v2 audit && python -m pipeline.run_knowledge_v2 export
+python -m pipeline.export_consolidated_csv        # exports/consolidated/... (482 rows)
+python -m pipeline.export_flat_dimensions         # ~/Downloads/device_dimensions_flat.csv (2,558 rows, all layers)
 ```
-Earlier:
-```
-python -m pipeline.run_knowledge_v2 official-scan   -> {'reviewable': 28, 'blocked': 2}
-python -m pipeline.run_knowledge_v2 audit           -> 41 sources, quarantined=2, schema_failures=0
-python -m pipeline.run_knowledge_v2 build-candidates-> 311 guide rows from 15 PDFs; 247 candidates (94 joined to existing records, 63 peripheral rows dropped)
-python -m pipeline.run_knowledge_v2 export          -> 41 sources, 31 actionable claims, 247 secondary candidates; rejected=0 (schema 2.1.0)
-python -m pipeline.export_consolidated_csv          -> 482 rows -> exports/consolidated/device_catalog_neurointerventional_consolidated.csv
-pytest tests/test_knowledge_v2.py                   -> 23 passed
-```
-The 21 `fda_510k_summary` sources and 25 `official_specification` claims that previously existed only in the untracked `~/.codex` skill copy are now in `source_registry.json` / `reviewed_claims.v2.jsonl` and on the official watchlist (the scan now text-extracts PDF bodies for identity checks).
+Then run `refresh_device_knowledge.ps1` (or copy `exports/agent-textbooks/` into both skill registries) to sync the DSS.
 
 I think the problem is:
-- EVT rows are joined to enriched records by normalized product name + manufacturer; 153 of 247 candidates have `device_entry: none`. That is by design (no skeleton devices), but it means alias/clearance metadata is thin for them.
-- `pipeline/data/extracted/evt_guides/` is regenerable and should be gitignored; `.gitignore` carries unrelated uncommitted edits so it was left alone.
+- Onyx LES IFU on file is the 10/13 revision; Medtronic's page cites newer CDOC numbers.
+- Zebra guide page only carried codes/lengths (no ID/OD); Onyx in-service pptx not ingested.
+- 413 priority-2 wishlist devices (see ~/Downloads/ifu_wishlist.csv) still have no IFU; their specs come from catalogs/guides only.
 - The two blocked official pages are still Medtronic.
-- The hand-made CSV in Downloads is superseded by the generator output.
 
 What I want next:
-Spot-audit ~20 candidates against the retained PDFs (`sources/trade_journal/endovascular-today/2026-08/`), then run `refresh_device_knowledge.ps1` after each guide refresh. Promote a dimension to actionable only via a reviewed claim against an IFU, labeling, or 510(k) table - never from a candidate.
+Collect priority-2 IFUs as they surface and run them through the agent-draft -> `import_claim_drafts` lane; re-run `official-scan` periodically so `checked_at` stays within the DSS 30-day freshness gate.

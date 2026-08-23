@@ -68,8 +68,7 @@ Keep it ordered by expected leverage.
 Do not dump raw notes here.
 
 ### `PRODUCT_GOAL.md`
-Use for the durable north star of the repo.
-Do not put day-to-day state here.
+Removed in the 2026-08 artifact reorganization. The durable goal statement now lives in the Repository Purpose section above; do not recreate the file.
 
 ### `MEMORY.md`
 If present, treat it as durable project memory and prior decisions.
