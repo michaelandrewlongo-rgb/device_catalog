@@ -699,6 +699,50 @@
       },
       "notes": "Official clearance document; not manufacturer IFU/current labeling and cannot override either.",
       "provenance": "imported 2026-08-23 from the knowledge v2.1 lane (schema 2.1.0 export generated 2026-08-23T03:16Z)"
+    },
+    {
+      "source_id": "ifu:serenity-medical:river-stent-system:1115-001-rev-a-2026",
+      "device_id": "venous-stent--serenity-medical--river-stent-system",
+      "title": "River Stent System Instructions for Use, 1115-001 Rev A (26 March 2026)",
+      "source_type": "manufacturer_ifu",
+      "status": "current",
+      "evidence_depth": "local_full_text",
+      "jurisdiction": "US",
+      "document_id": "H230002",
+      "revision": "1115-001 Rev A (2026-03-26)",
+      "local_filename": "sources/official/current/venous-stent--serenity-medical--river-stent-system--ifu.pdf",
+      "identity": {
+        "required_any": [
+          "River Stent System"
+        ],
+        "required_all": [
+          "Humanitarian Device",
+          "idiopathic intracranial hypertension"
+        ]
+      },
+      "notes": "Humanitarian Device Exemption labeling (H230002); the HDE statement says effectiveness for IIH has not been demonstrated. User-supplied IFU retained 2026-08-23. Serenity Medical is not on the official-domain allowlist, so currency is revalidated manually against the manufacturer rather than by the weekly scan."
+    },
+    {
+      "source_id": "ifu:cook:zilver-vascular-stent:ifu0043-10",
+      "device_id": "peripheral-stent--cook--zilver-vascular-stent",
+      "title": "Zilver Vascular Stent Instructions for Use, IFU0043-10",
+      "source_type": "manufacturer_ifu",
+      "status": "current",
+      "evidence_depth": "local_full_text",
+      "jurisdiction": "US",
+      "document_id": "IFU0043-10",
+      "revision": "IFU0043-10",
+      "local_filename": "sources/official/current/peripheral-stent--cook--zilver-vascular-stent--ifu.pdf",
+      "identity": {
+        "required_any": [
+          "Zilver Vascular Stent"
+        ],
+        "required_all": [
+          "IFU0043-10",
+          "iliac"
+        ]
+      },
+      "notes": "Labeling covers iliac artery use only; any venous-sinus use is off-label and is not a claim of this source. User-supplied IFU retained 2026-08-23. Cook Medical is not on the official-domain allowlist, so currency is revalidated manually."
     }
   ]
 }

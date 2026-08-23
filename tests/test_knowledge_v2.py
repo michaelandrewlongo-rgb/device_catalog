@@ -342,3 +342,25 @@ def test_export_rejects_candidate_marked_reviewed(tmp_path):
 def test_export_accepts_official_specification_layer(tmp_path):
     manifest = build_export([_source()], [_claim(evidence_layer="official_specification")], tmp_path)
     assert manifest["accepted_claim_count"] == 1
+
+
+def test_classify_cell_lifts_numbers_only_from_pure_number_cells():
+    from pipeline.knowledge_v2.secondary_candidates import cell_unit, classify_cell
+
+    assert classify_cell("105, 130, 150") == ("list", [105.0, 130.0, 150.0])
+    assert classify_cell("0.018 (maximum)") == ("list", [0.018])
+    assert classify_cell("Up to 0.021") == ("list", [0.021])
+    assert classify_cell("0.0165/0.013 inch (ID)") == ("prose", None)
+    assert classify_cell("13–33") == ("range", [13.0, 33.0])
+    # The six cells the spot audit flagged must not yield a number list.
+    for cell in (
+        "89 (dilator length, 96)",
+        "6 (RED 72, RED 72 with SENDit Technology, RED 68, RED 62, RED 43, and Penumbra JET D require 8-F short sheath or 6-F long sheath)",
+        "Device basket working length: 30 mm; full length: 48 mm; pusher wire length: 200 cm",
+        "Can be delivered through catheters with ID as small as 0.021 inch (1.6 F); also compatible with 0.035 inch (2.67 F)",
+    ):
+        assert classify_cell(cell)[0] == "prose", cell
+    assert cell_unit("0.0165/0.013 inch (ID)", "F") == ("inch", True)
+    assert cell_unit("2.9", "F") == ("F", False)
+    assert cell_unit("30 mm; 48 mm; 200 cm", "cm") == ("cm", True)  # mixed -> keep header, flag conflict
+

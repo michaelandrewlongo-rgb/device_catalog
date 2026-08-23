@@ -414,6 +414,26 @@
       "official_scan_status": "reviewable",
       "source_id": "fda510k:K211654",
       "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/venous-stent--serenity-medical--river-stent-system--ifu.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "ifu:serenity-medical:river-stent-system:1115-001-rev-a-2026",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/peripheral-stent--cook--zilver-vascular-stent--ifu.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "ifu:cook:zilver-vascular-stent:ifu0043-10",
+      "validation_errors": []
     }
   ]
 }

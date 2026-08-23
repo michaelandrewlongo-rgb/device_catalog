@@ -70,6 +70,50 @@ ATTRIBUTE_FIELDS = (
 )
 
 NUMBER_RE = re.compile(r"(?<![A-Za-z])(\d+(?:\.\d+)?)")
+NUM = r"\d+(?:\.\d+)?"
+# Qualifiers the guides attach to an otherwise plain number list.
+QUALIFIER_RE = re.compile(r"^(?:up to|max(?:imum)?|min(?:imum)?)\s+|\s*\((?:maximum|minimum|max|min|nominal)\)\s*$", re.I)
+LIST_RE = re.compile(rf"^{NUM}(?:\s*[,/]\s*{NUM})*$")
+RANGE_RE = re.compile(rf"^({NUM})\s*[–—-]\s*({NUM})$")
+# Explicit unit tokens a cell may carry that override the column header.
+UNIT_TOKENS = [
+    (re.compile(r"(?<![A-Za-z])(?:inch(?:es)?|in\.)(?![A-Za-z])|\d\s*\"", re.I), "inch"),
+    (re.compile(r"(?<![A-Za-z])mm(?![A-Za-z])", re.I), "mm"),
+    (re.compile(r"(?<![A-Za-z])cm(?![A-Za-z])", re.I), "cm"),
+    (re.compile(r"\d\s*-?\s*(?:F|Fr)(?![A-Za-z])"), "F"),
+]
+
+
+def classify_cell(text: str) -> tuple[str, Any]:
+    """Decide whether a cell is a number list, a printed range, or prose.
+
+    The spot audit found every parser error in cells that are sentences: product
+    names inside a parenthetical, three lengths in three different units, a dilator
+    length folded into a working length. Numbers are only lifted out of a cell when
+    the cell is nothing *but* numbers; everything else keeps its verbatim quote and
+    no numeric value, so a reader is never shown a number the table did not list.
+    """
+    stripped = QUALIFIER_RE.sub("", (text or "").strip()).strip()
+    if LIST_RE.match(stripped):
+        return "list", [float(m) for m in NUMBER_RE.findall(stripped)]
+    match = RANGE_RE.match(stripped)
+    if match:
+        return "range", [float(match.group(1)), float(match.group(2))]
+    return "prose", None
+
+
+def cell_unit(text: str, header_unit: str) -> tuple[str, bool]:
+    """Unit to report for a cell: an explicit in-cell unit wins over the header."""
+    found = {unit for pattern, unit in UNIT_TOKENS if pattern.search(text or "")}
+    if not found or found == {header_unit}:
+        return header_unit, False
+    if len(found) == 1:
+        # One explicit unit that is not the header's: the cell is authoritative.
+        return found.pop(), True
+    # Several units in one cell (e.g. "30 mm; 48 mm; 200 cm"): no single unit is
+    # right for the whole cell, so keep the header but flag it. Such cells are
+    # prose and carry no numeric value anyway.
+    return header_unit, True
 
 
 def normalize(value: str) -> str:
@@ -167,15 +211,21 @@ def build_candidate(row: dict[str, Any], index: dict[str, list[dict[str, Any]]])
         if not raw:
             continue
         quote = f"{row['guide_title']}: {row['company']} {row['product']} - {row['raw_cells_header'].get(field, field)}: {raw}"
-        numbers = parse_numbers(raw)
-        # A single listed value is carried as a number; a list or range stays textual
-        # so a later reader sees the exact list rather than one element of it.
-        value = numbers[0] if len(numbers) == 1 else None
-        entry = observation(row, value, unit=unit, meaning=meaning, quote=quote)
-        if value is None and numbers:
+        kind, numbers = classify_cell(raw)
+        reported_unit, conflict = cell_unit(raw, unit)
+        value = numbers[0] if kind == "list" and len(numbers) == 1 else None
+        entry = observation(row, value, unit=reported_unit, meaning=meaning, quote=quote)
+        entry["parse"] = kind
+        if kind == "list" and len(numbers) > 1:
             entry["values"] = numbers
+        elif kind == "range":
+            entry["range"] = numbers
+            entry["meaning"] = f"{meaning} (range as printed)"
+        if conflict:
+            entry["unit_conflict"] = True
+            entry["header_unit"] = unit
         dimensions.setdefault(key, []).append(entry)
-        if unit == "F" and value is not None:
+        if reported_unit == "F" and value is not None:
             dimensions.setdefault(f"{key}_inch", []).append(
                 observation(row, round(value / FRENCH_PER_INCH, 4), unit="inch", meaning=f"{meaning} (converted)",
                             quote=quote, evidence_class="derived_calculation", quoted=False, derived_from=key)

@@ -3,7 +3,14 @@
 I was trying to:
 Land the knowledge v2.1 lane in git and feed it the 15 Endovascular Today device-guide PDFs (2026-08 exports) as discovery-only secondary candidates, so `agent-textbooks` can see EVT sizing rows without ever treating them as labeling.
 
-The last thing I saw:
+The last thing I saw (updated 2026-08-23, second pass):
+```
+Spot audit of 20 EVT candidates (5 independent auditors): rows 20/20, fields 121/127; all 6 partials were numbers parsed out of prose cells.
+Fix: classify_cell()/cell_unit() in secondary_candidates.py - numbers only from pure number cells, ranges kept as ranges, in-cell units override headers (73 prose, 10 range cells corpus-wide).
+Added manufacturer IFUs: River Stent System (HDE H230002, 1115-001 Rev A, 9 claims) and Zilver Vascular Stent (IFU0043-10, 6 claims; iliac labeling only - venous-sinus use is off-label and is NOT a claim).
+export -> 43 sources, 46 actionable claims, 247 secondary candidates; rejected=0
+```
+Earlier:
 ```
 python -m pipeline.run_knowledge_v2 official-scan   -> {'reviewable': 28, 'blocked': 2}
 python -m pipeline.run_knowledge_v2 audit           -> 41 sources, quarantined=2, schema_failures=0
