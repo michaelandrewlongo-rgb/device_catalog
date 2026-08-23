@@ -278,3 +278,67 @@ def test_source_audit_resolves_relocated_catalog_artifact_and_pins_hash(tmp_path
     assert records[0].local_filename.startswith("pipeline/data/data_by_device/")
     assert records[0].status == SourceStatus.QUARANTINED
     assert "pinned reviewed hash" in (records[0].quarantine_reason or "")
+
+
+def _candidate(**overrides):
+    observation = {
+        "value": 0.017,
+        "unit": "inch",
+        "meaning": "inner_diameter",
+        "quoted": True,
+        "quote": "Alpha | 0.017",
+        "evidence_class": "secondary_curated_catalog",
+        "review_status": "catalog_only",
+        "source_locator": "Endovascular Today - US Device Guide - Microcatheters, PDF page 1, row 'Example / Alpha'",
+    }
+    observation.update(overrides.pop("observation", {}))
+    row = {
+        "candidate_id": "evt:us-microcatheters-4:1:0:0",
+        "device_name": "Alpha",
+        "manufacturer": "example",
+        "catalog_category": "microcatheter",
+        "aliases": [],
+        "review_status": "review_required",
+        "dimensions": {"inner_diameter": [observation]},
+    }
+    row.update(overrides)
+    return row
+
+
+def test_export_writes_secondary_candidates_with_schema_2_1(tmp_path):
+    manifest = build_export([_source()], [_claim()], tmp_path, [_candidate()])
+    assert manifest["schema_version"] == "2.1.0"
+    assert manifest["secondary_dimension_candidate_count"] == 1
+    assert (tmp_path / "device_dimension_candidates.v2.jsonl").exists()
+
+
+def test_export_removes_stale_candidate_file_when_none_given(tmp_path):
+    build_export([_source()], [_claim()], tmp_path, [_candidate()])
+    manifest = build_export([_source()], [_claim()], tmp_path)
+    assert manifest["secondary_dimension_candidate_count"] == 0
+    assert not (tmp_path / "device_dimension_candidates.v2.jsonl").exists()
+
+
+def test_export_rejects_candidate_claiming_authoritative_evidence(tmp_path):
+    bad = _candidate(observation={"evidence_class": "fda_510k_or_pma"})
+    try:
+        build_export([_source()], [], tmp_path, [bad])
+    except ValueError as exc:
+        assert "non-secondary evidence class" in str(exc)
+    else:
+        raise AssertionError("authoritative candidate was exported")
+
+
+def test_export_rejects_candidate_marked_reviewed(tmp_path):
+    for bad in (_candidate(review_status="source_checked"), _candidate(observation={"review_status": "clinician_reviewed"})):
+        try:
+            build_export([_source()], [], tmp_path, [bad])
+        except ValueError as exc:
+            assert "marked reviewed" in str(exc)
+        else:
+            raise AssertionError("reviewed candidate was exported")
+
+
+def test_export_accepts_official_specification_layer(tmp_path):
+    manifest = build_export([_source()], [_claim(evidence_layer="official_specification")], tmp_path)
+    assert manifest["accepted_claim_count"] == 1

@@ -46,6 +46,24 @@ def _fetch(url: str, timeout: float) -> tuple[int, bytes, str]:
         return response.status, response.read(), response.headers.get_content_type()
 
 
+def _body_text(body: bytes) -> str:
+    """Decode a fetched body for identity checks; PDF bodies are text-extracted.
+
+    A 510(k) summary is a PDF. Matching expected terms against its raw bytes would
+    always fail (content streams are compressed), which would quarantine every
+    correct regulatory source. Falls back to raw decoding when PyMuPDF is absent.
+    """
+    if body.startswith(b"%PDF"):
+        try:
+            import fitz  # PyMuPDF
+
+            with fitz.open(stream=body, filetype="pdf") as doc:
+                return "\n".join(page.get_text() for page in doc)
+        except Exception:  # pragma: no cover - extraction fallback
+            pass
+    return body.decode("utf-8", errors="replace")
+
+
 def scan_watchlist(watchlist_path: Path, output_path: Path, timeout: float = 20.0) -> dict[str, Any]:
     config = read_json(watchlist_path)
     findings: list[dict[str, Any]] = []
@@ -63,7 +81,7 @@ def scan_watchlist(watchlist_path: Path, output_path: Path, timeout: float = 20.
         }
         try:
             status, body, content_type = _fetch(entry["official_url"], timeout)
-            text = body.decode("utf-8", errors="replace")
+            text = _body_text(body)
             folded = text.casefold()
             expected = entry.get("expected_terms", [])
             blocked = any(

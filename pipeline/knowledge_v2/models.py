@@ -54,6 +54,9 @@ class CompatibilityStatus(StrEnum):
 
 class EvidenceLayer(StrEnum):
     OFFICIAL_LABELING = "official_labeling"
+    # FDA 510(k)/PMA technological-characteristics tables: official regulatory
+    # evidence, actionable for dimensions, but not manufacturer IFU or current labeling.
+    OFFICIAL_SPECIFICATION = "official_specification"
     CLINICAL_CONTEXT = "clinical_context"
     LEGACY_DERIVED_SUMMARY = "legacy_derived_summary"
 

@@ -1,13 +1,24 @@
 # STATE.md
 
 I was trying to:
-Replace implied trust in legacy `*-knowledge.md` prose with a current, source- and claim-level device knowledge exchange for `agent-textbooks`.
+Land the knowledge v2.1 lane in git and feed it the 15 Endovascular Today device-guide PDFs (2026-08 exports) as discovery-only secondary candidates, so `agent-textbooks` can see EVT sizing rows without ever treating them as labeling.
 
 The last thing I saw:
-The initial high-risk neurovascular audit found 115 legacy summaries and 20 registered source records. It quarantined two wrong-generation/wrong-document files. Seven of nine official watch pages were directly reviewable; Medtronic blocked the non-browser scanner and remains visibly `blocked`, not falsely current-verified.
+```
+python -m pipeline.run_knowledge_v2 official-scan   -> {'reviewable': 28, 'blocked': 2}
+python -m pipeline.run_knowledge_v2 audit           -> 41 sources, quarantined=2, schema_failures=0
+python -m pipeline.run_knowledge_v2 build-candidates-> 311 guide rows from 15 PDFs; 247 candidates (94 joined to existing records, 63 peripheral rows dropped)
+python -m pipeline.run_knowledge_v2 export          -> 41 sources, 31 actionable claims, 247 secondary candidates; rejected=0 (schema 2.1.0)
+python -m pipeline.export_consolidated_csv          -> 482 rows -> exports/consolidated/device_catalog_neurointerventional_consolidated.csv
+pytest tests/test_knowledge_v2.py                   -> 23 passed
+```
+The 21 `fda_510k_summary` sources and 25 `official_specification` claims that previously existed only in the untracked `~/.codex` skill copy are now in `source_registry.json` / `reviewed_claims.v2.jsonl` and on the official watchlist (the scan now text-extracts PDF bodies for identity checks).
 
 I think the problem is:
-Legacy summaries remain broad but are not safe claim stores. Currentness, source identity, evidence depth, claim support, and review state must remain separate. The committed branch also lacks `pipeline.evidence`, so the pre-existing `test_coaxial_acquisition.py` cannot collect; this is unrelated to knowledge v2 and likely overlaps uncommitted work in the primary checkout.
+- EVT rows are joined to enriched records by normalized product name + manufacturer; 153 of 247 candidates have `device_entry: none`. That is by design (no skeleton devices), but it means alias/clearance metadata is thin for them.
+- `pipeline/data/extracted/evt_guides/` is regenerable and should be gitignored; `.gitignore` carries unrelated uncommitted edits so it was left alone.
+- The two blocked official pages are still Medtronic.
+- The hand-made CSV in Downloads is superseded by the generator output.
 
 What I want next:
-Review and merge `codex/device-knowledge-v2` carefully into the dirty primary checkout. Continue high-risk migration one device family at a time, beginning with current liquid-embolic and catheter IFUs. Do not auto-promote official page matches. The Neuroform Atlas Rev AB pilot currently exports six source-checked claims; all other legacy claims remain non-actionable.
+Spot-audit ~20 candidates against the retained PDFs (`sources/trade_journal/endovascular-today/2026-08/`), then run `refresh_device_knowledge.ps1` after each guide refresh. Promote a dimension to actionable only via a reviewed claim against an IFU, labeling, or 510(k) table - never from a candidate.

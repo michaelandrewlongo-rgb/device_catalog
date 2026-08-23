@@ -5,64 +5,338 @@
       "source_id": "official:terumo:scepter-c-xc:product-page:2026-08-22",
       "device_id": "balloon-catheter--microvention--scepter-c-xc",
       "official_url": "https://www.terumoneuro.com/products/scepter",
-      "expected_terms": ["Scepter C", "Scepter XC"],
-      "document_id_patterns": ["MM13[0-9]{2}[^<]{0,24}"]
+      "expected_terms": [
+        "Scepter C",
+        "Scepter XC"
+      ],
+      "document_id_patterns": [
+        "MM13[0-9]{2}[^<]{0,24}"
+      ]
     },
     {
       "source_id": "official:terumo:scepter-mini:product-page:2026-08-22",
       "device_id": "balloon-catheter--microvention--scepter-mini",
       "official_url": "https://www.terumoneuro.com/products/scepter-mini",
-      "expected_terms": ["Scepter", "Mini"],
-      "document_id_patterns": ["(?:IFU|MM)[A-Z0-9-]{4,20}"]
+      "expected_terms": [
+        "Scepter",
+        "Mini"
+      ],
+      "document_id_patterns": [
+        "(?:IFU|MM)[A-Z0-9-]{4,20}"
+      ]
     },
     {
       "source_id": "official:terumo:sofia:product-page:2026-08-22",
       "device_id": "distal-access--microvention--sofia",
       "official_url": "https://www.terumoneuro.com/products/sofia",
-      "expected_terms": ["SOFIA"],
-      "document_id_patterns": ["MM13[0-9]{2}[^<]{0,24}"]
+      "expected_terms": [
+        "SOFIA"
+      ],
+      "document_id_patterns": [
+        "MM13[0-9]{2}[^<]{0,24}"
+      ]
     },
     {
       "source_id": "official:medtronic:pipeline-shield:product-page:2026-08-22",
       "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
       "official_url": "https://www.medtronic.com/en-us/healthcare-professionals/products/neurological/neurovascular/aneurysm-flow-diverters/pipeline-flex-with-shield-technology.html",
-      "expected_terms": ["Pipeline", "Shield Technology"],
-      "document_id_patterns": ["M[0-9]{6,}CDOC[0-9A-Z_-]*"]
+      "expected_terms": [
+        "Pipeline",
+        "Shield Technology"
+      ],
+      "document_id_patterns": [
+        "M[0-9]{6,}CDOC[0-9A-Z_-]*"
+      ]
     },
     {
       "source_id": "official:terumo:fred:product-page:2026-08-22",
       "device_id": "flow-diverter--microvention--fred",
       "official_url": "https://www.terumoneuro.com/products/fred-family",
-      "expected_terms": ["FRED"],
-      "document_id_patterns": ["(?:IFU|MM)[A-Z0-9-]{4,20}"]
+      "expected_terms": [
+        "FRED"
+      ],
+      "document_id_patterns": [
+        "(?:IFU|MM)[A-Z0-9-]{4,20}"
+      ]
     },
     {
       "source_id": "official:terumo:lvis:product-page:2026-08-22",
       "device_id": "intracranial-stent--microvention--lvis",
       "official_url": "https://www.terumoneuro.com/products/lvis-family",
-      "expected_terms": ["LVIS"],
-      "document_id_patterns": ["(?:IFU|MM)[A-Z0-9-]{4,20}"]
+      "expected_terms": [
+        "LVIS"
+      ],
+      "document_id_patterns": [
+        "(?:IFU|MM)[A-Z0-9-]{4,20}"
+      ]
     },
     {
       "source_id": "official:stryker:neuroform-atlas:rev-ab-2025",
       "device_id": "intracranial-stent--stryker--neuroform-atlas",
       "official_url": "https://www.stryker.com/content/dam/stryker/neurovascular/products/neuroform-atlas-stent-system/resources/Neuroform_Atlas_IFU_US_03-13-2025.pdf",
-      "expected_terms": ["Neuroform", "Atlas"],
-      "document_id_patterns": ["NV0026052", "Rev\\.? ?AB"]
+      "expected_terms": [
+        "Neuroform",
+        "Atlas"
+      ],
+      "document_id_patterns": [
+        "NV0026052",
+        "Rev\\.? ?AB"
+      ]
     },
     {
       "source_id": "official:terumo:web:ifu100044-rev-e",
       "device_id": "intrasaccular--microvention--web-embolization",
       "official_url": "https://www.terumoneuro.com/products/web-family/additional-information/indication-for-use-and-intended-purpose",
-      "expected_terms": ["WEB", "IFU100044"],
-      "document_id_patterns": ["IFU100044 Rev\\.? ?[A-Z]"]
+      "expected_terms": [
+        "WEB",
+        "IFU100044"
+      ],
+      "document_id_patterns": [
+        "IFU100044 Rev\\.? ?[A-Z]"
+      ]
     },
     {
       "source_id": "official:medtronic:onyx-les:product-page:2026-08-22",
       "device_id": "liquid-embolic--medtronic--onyx-les",
       "official_url": "https://www.medtronic.com/en-us/healthcare-professionals/products/neurological/neurovascular/liquid-embolics/onyx-liquid-embolic-system.html",
-      "expected_terms": ["Onyx", "Liquid Embolic System"],
-      "document_id_patterns": ["M[0-9]{6,}CDOC[0-9A-Z_-]* Rev\\.? ?[A-Z]"]
+      "expected_terms": [
+        "Onyx",
+        "Liquid Embolic System"
+      ],
+      "document_id_patterns": [
+        "M[0-9]{6,}CDOC[0-9A-Z_-]* Rev\\.? ?[A-Z]"
+      ]
+    },
+    {
+      "source_id": "fda510k:K251240",
+      "device_id": "balloon-catheter--asahi-intecc--branchor-x",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf25/K251240.pdf",
+      "expected_terms": [
+        "K251240"
+      ],
+      "document_id_patterns": [
+        "K\\d{6}"
+      ]
+    },
+    {
+      "source_id": "fda510k:K232542",
+      "device_id": "delivery-catheter--microvention--wedge-xl",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K232542.pdf",
+      "expected_terms": [
+        "K232542"
+      ],
+      "document_id_patterns": [
+        "K\\d{6}"
+      ]
+    },
+    {
+      "source_id": "fda510k:K241244",
+      "device_id": "distal-access--cerenovus--cereglide-42-57",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K241244.pdf",
+      "expected_terms": [
+        "K241244"
+      ],
+      "document_id_patterns": [
+        "K\\d{6}"
+      ]
+    },
+    {
+      "source_id": "fda510k:K221930",
+      "device_id": "distal-access--cerenovus--cereglide-71",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K221930.pdf",
+      "expected_terms": [
+        "K221930"
+      ],
+      "document_id_patterns": [
+        "K\\d{6}"
+      ]
+    },
+    {
+      "source_id": "fda510k:K231056",
+      "device_id": "distal-access--wallaby--esperance",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K231056.pdf",
+      "expected_terms": [
+        "K231056"
+      ],
+      "document_id_patterns": [
+        "K\\d{6}"
+      ]
+    },
+    {
+      "source_id": "fda510k:K211594",
+      "device_id": "microcatheter--stryker--trevo-trak-21",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K211594.pdf",
+      "expected_terms": [
+        "K211594"
+      ],
+      "document_id_patterns": [
+        "K\\d{6}"
+      ]
+    },
+    {
+      "source_id": "fda510k:K243297",
+      "device_id": "distal-access--alembic--apro-70-swift",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K243297.pdf",
+      "expected_terms": [
+        "K243297"
+      ],
+      "document_id_patterns": [
+        "K\\d{6}"
+      ]
+    },
+    {
+      "source_id": "fda510k:K252569",
+      "device_id": "delivery-catheter--balt--carrier-xl",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf25/K252569.pdf",
+      "expected_terms": [
+        "K252569"
+      ],
+      "document_id_patterns": [
+        "K\\d{6}"
+      ]
+    },
+    {
+      "source_id": "fda510k:K230609",
+      "device_id": "delivery-catheter--balt--ng",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K230609.pdf",
+      "expected_terms": [
+        "K230609"
+      ],
+      "document_id_patterns": [
+        "K\\d{6}"
+      ]
+    },
+    {
+      "source_id": "fda510k:K233982",
+      "device_id": "distal-access--cerenovus--cereglide-92",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K233982.pdf",
+      "expected_terms": [
+        "K233982"
+      ],
+      "document_id_patterns": [
+        "K\\d{6}"
+      ]
+    },
+    {
+      "source_id": "fda510k:K110813",
+      "device_id": "microcatheter--microvention--headway-27",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf11/K110813.pdf",
+      "expected_terms": [
+        "K110813"
+      ],
+      "document_id_patterns": [
+        "K\\d{6}"
+      ]
+    },
+    {
+      "source_id": "fda510k:K213451",
+      "device_id": "microcatheter--spartan-micro--spartan-mc-0165",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K213451.pdf",
+      "expected_terms": [
+        "K213451"
+      ],
+      "document_id_patterns": [
+        "K\\d{6}"
+      ]
+    },
+    {
+      "source_id": "fda510k:K251015",
+      "device_id": "aspiration--alembic--apro-45",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf25/K251015.pdf",
+      "expected_terms": [
+        "K251015"
+      ],
+      "document_id_patterns": [
+        "K\\d{6}"
+      ]
+    },
+    {
+      "source_id": "fda510k:K232971",
+      "device_id": "aspiration--alembic--apro-55",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K232971.pdf",
+      "expected_terms": [
+        "K232971"
+      ],
+      "document_id_patterns": [
+        "K\\d{6}"
+      ]
+    },
+    {
+      "source_id": "fda510k:K223545",
+      "device_id": "aspiration--alembic--apro-70",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K223545.pdf",
+      "expected_terms": [
+        "K223545"
+      ],
+      "document_id_patterns": [
+        "K\\d{6}"
+      ]
+    },
+    {
+      "source_id": "fda510k:K243948",
+      "device_id": "aspiration--balt--raptor",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K243948.pdf",
+      "expected_terms": [
+        "K243948"
+      ],
+      "document_id_patterns": [
+        "K\\d{6}"
+      ]
+    },
+    {
+      "source_id": "fda510k:K233988",
+      "device_id": "aspiration--cerenovus--large-bore",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K233988.pdf",
+      "expected_terms": [
+        "K233988"
+      ],
+      "document_id_patterns": [
+        "K\\d{6}"
+      ]
+    },
+    {
+      "source_id": "fda510k:K243047",
+      "device_id": "aspiration--imperative-care--zoom-7x",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K243047.pdf",
+      "expected_terms": [
+        "K243047"
+      ],
+      "document_id_patterns": [
+        "K\\d{6}"
+      ]
+    },
+    {
+      "source_id": "fda510k:K180705",
+      "device_id": "aspiration--medtronic--react-68",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf18/K180705.pdf",
+      "expected_terms": [
+        "K180705"
+      ],
+      "document_id_patterns": [
+        "K\\d{6}"
+      ]
+    },
+    {
+      "source_id": "fda510k:K222808",
+      "device_id": "aspiration--penumbra--red-43",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K222808.pdf",
+      "expected_terms": [
+        "K222808"
+      ],
+      "document_id_patterns": [
+        "K\\d{6}"
+      ]
+    },
+    {
+      "source_id": "fda510k:K211654",
+      "device_id": "aspiration--penumbra--red-72",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K211654.pdf",
+      "expected_terms": [
+        "K211654"
+      ],
+      "document_id_patterns": [
+        "K\\d{6}"
+      ]
     }
   ]
 }

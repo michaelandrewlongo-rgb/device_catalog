@@ -2,6 +2,7 @@
 
 Examples:
     python -m pipeline.run_knowledge_v2 audit
+    python -m pipeline.run_knowledge_v2 build-candidates
     python -m pipeline.run_knowledge_v2 export --output-dir exports/agent-textbooks
 """
 
@@ -62,6 +63,18 @@ def main() -> int:
         type=Path,
         default=REPO_ROOT / "exports" / "agent-textbooks",
     )
+    export_parser.add_argument(
+        "--candidates",
+        type=Path,
+        default=DATA_DIR / "device_dimension_candidates.v2.jsonl",
+        help="Secondary dimension candidates (discovery-only; never actionable).",
+    )
+
+    candidates_parser = subparsers.add_parser(
+        "build-candidates",
+        help="Extract retained Endovascular Today guide PDFs and rebuild secondary dimension candidates.",
+    )
+    candidates_parser.add_argument("--include-peripheral", action="store_true")
 
     official_parser = subparsers.add_parser("official-scan")
     official_parser.add_argument(
@@ -89,10 +102,20 @@ def main() -> int:
         print(f"Official-source scan complete: {counts}")
         return 0 if counts.get("identity_mismatch", 0) == 0 else 2
 
-    manifest = build_export_from_files(args.source_records, args.claims, args.output_dir)
+    if args.command == "build-candidates":
+        from pipeline.extraction.evt_guide_pdf import extract_all
+        from pipeline.knowledge_v2.secondary_candidates import build_candidates
+
+        counts = extract_all()
+        summary = build_candidates(include_peripheral=args.include_peripheral)
+        print(f"Extracted {sum(counts.values())} guide rows from {len(counts)} PDFs; {summary}")
+        return 0
+
+    manifest = build_export_from_files(args.source_records, args.claims, args.output_dir, args.candidates)
     print(
-        f"Exported {manifest['source_count']} sources and "
-        f"{manifest['accepted_claim_count']} actionable claims; "
+        f"Exported {manifest['source_count']} sources, "
+        f"{manifest['accepted_claim_count']} actionable claims, and "
+        f"{manifest['secondary_dimension_candidate_count']} secondary candidates; "
         f"rejected={manifest['rejected_claim_count']}."
     )
     return 0

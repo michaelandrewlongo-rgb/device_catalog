@@ -107,6 +107,13 @@ def locate_catalog_artifact(catalog_root: Path, relative: str) -> tuple[Path | N
     return (existing[0] if existing else None), existing
 
 
+def _remote_sha256(entry: dict[str, Any], official: dict[str, Any] | None) -> str | None:
+    """Hash for a remote-only source: the latest reviewable scan, else the pinned value."""
+    if official and official.get("status") == "reviewable" and official.get("content_sha256"):
+        return official["content_sha256"]
+    return entry.get("sha256")
+
+
 def audit_registered_sources(
     catalog_root: Path,
     registry_path: Path,
@@ -203,7 +210,7 @@ def audit_registered_sources(
             jurisdiction=entry.get("jurisdiction"),
             official_url=entry.get("official_url"),
             local_filename=resolved_filename,
-            sha256=digest,
+            sha256=digest or _remote_sha256(entry, official),
             checked_at=checked_at,
             superseded_by=entry.get("superseded_by"),
             quarantine_reason=reason,

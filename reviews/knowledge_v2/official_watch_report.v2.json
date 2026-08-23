@@ -1,7 +1,7 @@
 {
   "findings": [
     {
-      "checked_at": "2026-08-23T01:19:56.015011+00:00",
+      "checked_at": "2026-08-23T17:13:39.889772+00:00",
       "content_sha256": "ac779654e8b4f0c70fa8bfca5e63337c68394ec43b24dae45857f9aa0b2dc3b0",
       "content_type": "text/html",
       "detected_document_ids": [
@@ -17,7 +17,7 @@
       "status": "reviewable"
     },
     {
-      "checked_at": "2026-08-23T01:19:56.493206+00:00",
+      "checked_at": "2026-08-23T17:13:40.826924+00:00",
       "content_sha256": "db1b01cff6979762e05022778e25d82400ceb2f73383d3f47a0982d54ea12e8a",
       "content_type": "text/html",
       "detected_document_ids": [
@@ -32,7 +32,7 @@
       "status": "reviewable"
     },
     {
-      "checked_at": "2026-08-23T01:19:56.951279+00:00",
+      "checked_at": "2026-08-23T17:13:41.440265+00:00",
       "content_sha256": "80e9e0952e4a042ff34610638c25c5954bacc952902a76d3ce63cb83711dc2ed",
       "content_type": "text/html",
       "detected_document_ids": [
@@ -48,8 +48,8 @@
       "status": "reviewable"
     },
     {
-      "checked_at": "2026-08-23T01:19:57.491355+00:00",
-      "content_sha256": "6be8ee4e4ce3d7e0c4f5fbd0bda2e45724dea50f1f0f933d1d670cd9778532df",
+      "checked_at": "2026-08-23T17:13:42.067174+00:00",
+      "content_sha256": "d196afef6cfc2ede3dcf5e3d831298d7517975743b724194214263456835a153",
       "content_type": "text/html",
       "detected_document_ids": [],
       "device_id": "flow-diverter--medtronic--pipeline-flex-shield",
@@ -61,7 +61,7 @@
       "status": "blocked"
     },
     {
-      "checked_at": "2026-08-23T01:19:57.980027+00:00",
+      "checked_at": "2026-08-23T17:13:42.412518+00:00",
       "content_sha256": "3250465b4ee4598a86dc339dd41fd82cce3307ba78da08b539fd1398485d5775",
       "content_type": "text/html",
       "detected_document_ids": [
@@ -76,7 +76,7 @@
       "status": "reviewable"
     },
     {
-      "checked_at": "2026-08-23T01:19:59.093122+00:00",
+      "checked_at": "2026-08-23T17:13:43.032725+00:00",
       "content_sha256": "5001a91af6e471ad91f5f564ed3b5672e1debae9b2658368911c9034079ed4c0",
       "content_type": "text/html",
       "detected_document_ids": [
@@ -93,10 +93,13 @@
       "status": "reviewable"
     },
     {
-      "checked_at": "2026-08-23T01:19:59.579248+00:00",
+      "checked_at": "2026-08-23T17:13:43.575580+00:00",
       "content_sha256": "2e304b7d7b837cce765fb19e90de62be3f26307215329200d8a48a00e40d78cc",
       "content_type": "application/pdf",
-      "detected_document_ids": [],
+      "detected_document_ids": [
+        "NV0026052",
+        "Rev AB"
+      ],
       "device_id": "intracranial-stent--stryker--neuroform-atlas",
       "http_status": 200,
       "identity_match": true,
@@ -105,7 +108,7 @@
       "status": "reviewable"
     },
     {
-      "checked_at": "2026-08-23T01:20:00.560975+00:00",
+      "checked_at": "2026-08-23T17:13:44.519480+00:00",
       "content_sha256": "61a1c0c5b8e9c7fd59fee9f7a11ce43b996e7b04a6003ce12b379418a0494452",
       "content_type": "text/html",
       "detected_document_ids": [
@@ -119,8 +122,8 @@
       "status": "reviewable"
     },
     {
-      "checked_at": "2026-08-23T01:20:01.022396+00:00",
-      "content_sha256": "cca3aa2f19533a0e815f7e3a5782a6752d54f3eb5971fc8a2b3f2d49bf359696",
+      "checked_at": "2026-08-23T17:13:45.100451+00:00",
+      "content_sha256": "9e3cf4a1c58da5ec023a34820975bca7e52cdb9b120c9acd790f071ea8938bfd",
       "content_type": "text/html",
       "detected_document_ids": [],
       "device_id": "liquid-embolic--medtronic--onyx-les",
@@ -130,9 +133,344 @@
       "official_url": "https://www.medtronic.com/en-us/healthcare-professionals/products/neurological/neurovascular/liquid-embolics/onyx-liquid-embolic-system.html",
       "source_id": "official:medtronic:onyx-les:product-page:2026-08-22",
       "status": "blocked"
+    },
+    {
+      "checked_at": "2026-08-23T17:13:45.481872+00:00",
+      "content_sha256": "54db754d4fd0c918c0c7cedf8b15d1c934f28a7c6272d3e20bfc9f6c516607d9",
+      "content_type": "application/pdf",
+      "detected_document_ids": [
+        "K120781",
+        "K203723",
+        "K221951",
+        "K251240"
+      ],
+      "device_id": "balloon-catheter--asahi-intecc--branchor-x",
+      "http_status": 200,
+      "identity_match": true,
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf25/K251240.pdf",
+      "source_id": "fda510k:K251240",
+      "status": "reviewable"
+    },
+    {
+      "checked_at": "2026-08-23T17:13:47.532531+00:00",
+      "content_sha256": "4429aca20ab321a82fd93b3a9efccce9707836ada717f775819bf7b3c9ee9cbb",
+      "content_type": "application/pdf",
+      "detected_document_ids": [
+        "K150366",
+        "K172014",
+        "K200121",
+        "K214024",
+        "K232542"
+      ],
+      "device_id": "delivery-catheter--microvention--wedge-xl",
+      "http_status": 200,
+      "identity_match": true,
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K232542.pdf",
+      "source_id": "fda510k:K232542",
+      "status": "reviewable"
+    },
+    {
+      "checked_at": "2026-08-23T17:13:50.390593+00:00",
+      "content_sha256": "c8730b234391bde577e975ff5f9d2da9a172250a7b766a8429d8e54d1df8b0c9",
+      "content_type": "application/pdf",
+      "detected_document_ids": [
+        "K202752",
+        "K221930",
+        "K241244"
+      ],
+      "device_id": "distal-access--cerenovus--cereglide-42-57",
+      "http_status": 200,
+      "identity_match": true,
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K241244.pdf",
+      "source_id": "fda510k:K241244",
+      "status": "reviewable"
+    },
+    {
+      "checked_at": "2026-08-23T17:13:52.070247+00:00",
+      "content_sha256": "e33030ddd8ec8057f0809a22c0f53f0cefa64a41fb1ba939e144db7f7ae8a999",
+      "content_type": "application/pdf",
+      "detected_document_ids": [
+        "K150366",
+        "K191237",
+        "K221930"
+      ],
+      "device_id": "distal-access--cerenovus--cereglide-71",
+      "http_status": 200,
+      "identity_match": true,
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K221930.pdf",
+      "source_id": "fda510k:K221930",
+      "status": "reviewable"
+    },
+    {
+      "checked_at": "2026-08-23T17:13:53.811820+00:00",
+      "content_sha256": "9690b9f1fb8eb3424e8b499281e0dc82fc48c2eb439e54fd40cce36093816edd",
+      "content_type": "application/pdf",
+      "detected_document_ids": [
+        "K182097",
+        "K211697",
+        "K231056"
+      ],
+      "device_id": "distal-access--wallaby--esperance",
+      "http_status": 200,
+      "identity_match": true,
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K231056.pdf",
+      "source_id": "fda510k:K231056",
+      "status": "reviewable"
+    },
+    {
+      "checked_at": "2026-08-23T17:13:56.593055+00:00",
+      "content_sha256": "1d6b584567f97e38505f42bdfaa6dac0da7870953a8a39886cc5507a70c696a9",
+      "content_type": "application/pdf",
+      "detected_document_ids": [
+        "K192122",
+        "K211594"
+      ],
+      "device_id": "microcatheter--stryker--trevo-trak-21",
+      "http_status": 200,
+      "identity_match": true,
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K211594.pdf",
+      "source_id": "fda510k:K211594",
+      "status": "reviewable"
+    },
+    {
+      "checked_at": "2026-08-23T17:13:58.016390+00:00",
+      "content_sha256": "43e7835776a6db6e531c0973c8b8630538c240e8c852edbc1be8782caca3dfd2",
+      "content_type": "application/pdf",
+      "detected_document_ids": [
+        "K223545",
+        "K234115",
+        "K243297"
+      ],
+      "device_id": "distal-access--alembic--apro-70-swift",
+      "http_status": 200,
+      "identity_match": true,
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K243297.pdf",
+      "source_id": "fda510k:K243297",
+      "status": "reviewable"
+    },
+    {
+      "checked_at": "2026-08-23T17:14:00.396625+00:00",
+      "content_sha256": "eda69f8af92b2877a7ac0884e8192b079d988800bf5704943712fa9ac0e36129",
+      "content_type": "application/pdf",
+      "detected_document_ids": [
+        "K230609",
+        "K252569"
+      ],
+      "device_id": "delivery-catheter--balt--carrier-xl",
+      "http_status": 200,
+      "identity_match": true,
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf25/K252569.pdf",
+      "source_id": "fda510k:K252569",
+      "status": "reviewable"
+    },
+    {
+      "checked_at": "2026-08-23T17:14:02.494890+00:00",
+      "content_sha256": "7f11109f07e124f395b0bfb7637842e7ac7dce21a808196c723716f6d7094209",
+      "content_type": "application/pdf",
+      "detected_document_ids": [
+        "K163259",
+        "K172014",
+        "K230609"
+      ],
+      "device_id": "delivery-catheter--balt--ng",
+      "http_status": 200,
+      "identity_match": true,
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K230609.pdf",
+      "source_id": "fda510k:K230609",
+      "status": "reviewable"
+    },
+    {
+      "checked_at": "2026-08-23T17:14:03.679565+00:00",
+      "content_sha256": "398835dc6263fe4f5e591531497783551b9776bdbc22f10c939818478737ea76",
+      "content_type": "application/pdf",
+      "detected_document_ids": [
+        "K230726",
+        "K233982"
+      ],
+      "device_id": "distal-access--cerenovus--cereglide-92",
+      "http_status": 200,
+      "identity_match": true,
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K233982.pdf",
+      "source_id": "fda510k:K233982",
+      "status": "reviewable"
+    },
+    {
+      "checked_at": "2026-08-23T17:14:05.919164+00:00",
+      "content_sha256": "f95d50838699f1c840640805206bf866f0c095dd6c41db45eb131d8027830f7d",
+      "content_type": "application/pdf",
+      "detected_document_ids": [
+        "K110813"
+      ],
+      "device_id": "microcatheter--microvention--headway-27",
+      "http_status": 200,
+      "identity_match": true,
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf11/K110813.pdf",
+      "source_id": "fda510k:K110813",
+      "status": "reviewable"
+    },
+    {
+      "checked_at": "2026-08-23T17:14:06.857046+00:00",
+      "content_sha256": "501b4de0d6410ffa0018849b7ffdc41c2142e22cc7aaa3b624ef9947ee88deaf",
+      "content_type": "application/pdf",
+      "detected_document_ids": [
+        "K151638",
+        "K213451"
+      ],
+      "device_id": "microcatheter--spartan-micro--spartan-mc-0165",
+      "http_status": 200,
+      "identity_match": true,
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K213451.pdf",
+      "source_id": "fda510k:K213451",
+      "status": "reviewable"
+    },
+    {
+      "checked_at": "2026-08-23T17:14:08.376284+00:00",
+      "content_sha256": "b22c9ec2e930bc26a4aeaf67ad22cfa5f27660be47ddf7c85f3c85422dcdf5ad",
+      "content_type": "application/pdf",
+      "detected_document_ids": [
+        "K232971",
+        "K251015"
+      ],
+      "device_id": "aspiration--alembic--apro-45",
+      "http_status": 200,
+      "identity_match": true,
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf25/K251015.pdf",
+      "source_id": "fda510k:K251015",
+      "status": "reviewable"
+    },
+    {
+      "checked_at": "2026-08-23T17:14:10.659351+00:00",
+      "content_sha256": "0a5339a458910d1b2337bdca4070539bb73934061ba2e20fa29a9c5a2265ace5",
+      "content_type": "application/pdf",
+      "detected_document_ids": [
+        "K173841",
+        "K223545",
+        "K232971"
+      ],
+      "device_id": "aspiration--alembic--apro-55",
+      "http_status": 200,
+      "identity_match": true,
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K232971.pdf",
+      "source_id": "fda510k:K232971",
+      "status": "reviewable"
+    },
+    {
+      "checked_at": "2026-08-23T17:14:12.213358+00:00",
+      "content_sha256": "02a188a8dc73c09b6526e8997d97e9bafd8034027edb21e63dffbec068272bdf",
+      "content_type": "application/pdf",
+      "detected_document_ids": [
+        "K142458",
+        "K173200",
+        "K223545"
+      ],
+      "device_id": "aspiration--alembic--apro-70",
+      "http_status": 200,
+      "identity_match": true,
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K223545.pdf",
+      "source_id": "fda510k:K223545",
+      "status": "reviewable"
+    },
+    {
+      "checked_at": "2026-08-23T17:14:13.630601+00:00",
+      "content_sha256": "e7dcacb8e048b325a7ac7d78c00406e9bba6ce25c289d95edc0ff5cbd5343665",
+      "content_type": "application/pdf",
+      "detected_document_ids": [
+        "K182918",
+        "K210996",
+        "K234083",
+        "K242376",
+        "K243948"
+      ],
+      "device_id": "aspiration--balt--raptor",
+      "http_status": 200,
+      "identity_match": true,
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K243948.pdf",
+      "source_id": "fda510k:K243948",
+      "status": "reviewable"
+    },
+    {
+      "checked_at": "2026-08-23T17:14:15.917569+00:00",
+      "content_sha256": "ab8b4d5664232f75d7a1707bae2e62fe8445347bc3a1af100b5cc85fc48928b1",
+      "content_type": "application/pdf",
+      "detected_document_ids": [
+        "K193380",
+        "K233988"
+      ],
+      "device_id": "aspiration--cerenovus--large-bore",
+      "http_status": 200,
+      "identity_match": true,
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K233988.pdf",
+      "source_id": "fda510k:K233988",
+      "status": "reviewable"
+    },
+    {
+      "checked_at": "2026-08-23T17:14:18.127134+00:00",
+      "content_sha256": "0dd9bd12ad1e2b8040e2ec209f9a1db6406c456604bcf7f01563ac2a97b0efaa",
+      "content_type": "application/pdf",
+      "detected_document_ids": [
+        "K210996",
+        "K211476",
+        "K242672",
+        "K243047"
+      ],
+      "device_id": "aspiration--imperative-care--zoom-7x",
+      "http_status": 200,
+      "identity_match": true,
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K243047.pdf",
+      "source_id": "fda510k:K243047",
+      "status": "reviewable"
+    },
+    {
+      "checked_at": "2026-08-23T17:14:20.593556+00:00",
+      "content_sha256": "c4e79bc65b0567409957c78b82830ce6aa8cec75fcaa9455df76b4df1e741b81",
+      "content_type": "application/pdf",
+      "detected_document_ids": [
+        "K150107",
+        "K161064",
+        "K172448",
+        "K180705"
+      ],
+      "device_id": "aspiration--medtronic--react-68",
+      "http_status": 200,
+      "identity_match": true,
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf18/K180705.pdf",
+      "source_id": "fda510k:K180705",
+      "status": "reviewable"
+    },
+    {
+      "checked_at": "2026-08-23T17:14:21.878251+00:00",
+      "content_sha256": "e6697aca62f8b119c871453f2605b340cca935d332a130a542cce00617998526",
+      "content_type": "application/pdf",
+      "detected_document_ids": [
+        "K072718",
+        "K203440",
+        "K222808"
+      ],
+      "device_id": "aspiration--penumbra--red-43",
+      "http_status": 200,
+      "identity_match": true,
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K222808.pdf",
+      "source_id": "fda510k:K222808",
+      "status": "reviewable"
+    },
+    {
+      "checked_at": "2026-08-23T17:14:24.416462+00:00",
+      "content_sha256": "672c9770b00f804e64a33b3fb7395e946754d337cd470d591448e79a40b778bd",
+      "content_type": "application/pdf",
+      "detected_document_ids": [
+        "K173761",
+        "K190010",
+        "K211654"
+      ],
+      "device_id": "aspiration--penumbra--red-72",
+      "http_status": 200,
+      "identity_match": true,
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K211654.pdf",
+      "source_id": "fda510k:K211654",
+      "status": "reviewable"
     }
   ],
-  "generated_at": "2026-08-23T01:20:01.268494+00:00",
+  "generated_at": "2026-08-23T17:14:25.621406+00:00",
   "policy": "official_domains_only_no_automatic_claim_promotion",
   "schema_version": "2.0.0"
 }

@@ -11,7 +11,12 @@
       "status": "historical",
       "jurisdiction": "US",
       "local_filename": "balloon-catheter--microvention--scepter-c-xc--ifu.pdf",
-      "identity": {"required_any": ["Scepter C", "Scepter XC"]},
+      "identity": {
+        "required_any": [
+          "Scepter C",
+          "Scepter XC"
+        ]
+      },
       "notes": "Local full text retained for historical lookup; current revision not established."
     },
     {
@@ -22,7 +27,11 @@
       "status": "historical",
       "jurisdiction": "US",
       "local_filename": "balloon-catheter--microvention--scepter-mini--ifu.pdf",
-      "identity": {"required_any": ["Scepter Mini"]},
+      "identity": {
+        "required_any": [
+          "Scepter Mini"
+        ]
+      },
       "notes": "Local full text retained for historical lookup; current revision not established."
     },
     {
@@ -33,7 +42,11 @@
       "status": "historical",
       "jurisdiction": "US",
       "local_filename": "distal-access--microvention--sofia--ifu.pdf",
-      "identity": {"required_any": ["SOFIA"]},
+      "identity": {
+        "required_any": [
+          "SOFIA"
+        ]
+      },
       "notes": "Local full text retained for historical lookup; current revision not established."
     },
     {
@@ -47,7 +60,10 @@
       "local_filename": "flow-diverter--medtronic--pipeline-flex-shield--ifu.pdf",
       "quarantine_reason": "Document is plain Pipeline Flex labeling and does not establish Shield technology labeling.",
       "identity": {
-        "required_any": ["Shield Technology", "phosphorylcholine"]
+        "required_any": [
+          "Shield Technology",
+          "phosphorylcholine"
+        ]
       }
     },
     {
@@ -59,7 +75,11 @@
       "document_id": "P100018",
       "jurisdiction": "US",
       "local_filename": "flow-diverter--medtronic--pipeline-ped-original--ifu.pdf",
-      "identity": {"required_any": ["Pipeline Embolization Device"]},
+      "identity": {
+        "required_any": [
+          "Pipeline Embolization Device"
+        ]
+      },
       "notes": "Original-generation historical labeling; do not apply to later Pipeline generations."
     },
     {
@@ -72,7 +92,12 @@
       "revision": "2019",
       "jurisdiction": "US",
       "local_filename": "flow-diverter--microvention--fred--ifu.pdf",
-      "identity": {"required_any": ["FRED", "Flow Re-Direction Endoluminal Device"]},
+      "identity": {
+        "required_any": [
+          "FRED",
+          "Flow Re-Direction Endoluminal Device"
+        ]
+      },
       "notes": "Original approval labeling; later supplements and safety actions require answer-time review."
     },
     {
@@ -83,7 +108,11 @@
       "status": "historical",
       "jurisdiction": "US",
       "local_filename": "intracranial-stent--microvention--lvis--ifu.pdf",
-      "identity": {"required_any": ["LVIS"]},
+      "identity": {
+        "required_any": [
+          "LVIS"
+        ]
+      },
       "notes": "Current revision not established; device-specific claims must not be transferred to Neuroform Atlas."
     },
     {
@@ -97,7 +126,11 @@
       "jurisdiction": "US",
       "local_filename": "intracranial-stent--stryker--neuroform-atlas--ifu.pdf",
       "superseded_by": "NV0026052 Rev AB (2025)",
-      "identity": {"required_any": ["Neuroform Atlas"]}
+      "identity": {
+        "required_any": [
+          "Neuroform Atlas"
+        ]
+      }
     },
     {
       "source_id": "ifu:microvention:web:rev-q-2018",
@@ -110,7 +143,12 @@
       "jurisdiction": "US",
       "local_filename": "intrasaccular--microvention--web-embolization--ifu.pdf",
       "superseded_by": "IFU100044 Rev E",
-      "identity": {"required_any": ["WEB Aneurysm Embolization System", "Woven EndoBridge"]}
+      "identity": {
+        "required_any": [
+          "WEB Aneurysm Embolization System",
+          "Woven EndoBridge"
+        ]
+      }
     },
     {
       "source_id": "ifu:medtronic:onyx-hd500:misfiled-enterprise",
@@ -123,8 +161,14 @@
       "local_filename": "liquid-embolic--medtronic--onyx-hd500--ifu.pdf",
       "quarantine_reason": "The PDF is Cordis ENTERPRISE stent labeling, not Onyx HD-500 H060003 labeling.",
       "identity": {
-        "required_any": ["Onyx HD-500", "H060003"],
-        "forbidden_any": ["ENTERPRISE", "H060001"]
+        "required_any": [
+          "Onyx HD-500",
+          "H060003"
+        ],
+        "forbidden_any": [
+          "ENTERPRISE",
+          "H060001"
+        ]
       }
     },
     {
@@ -137,7 +181,12 @@
       "revision": "03/2003",
       "jurisdiction": "US",
       "local_filename": "liquid-embolic--medtronic--onyx-les--ifu.pdf",
-      "identity": {"required_any": ["Onyx Liquid Embolic System", "Onyx LES"]},
+      "identity": {
+        "required_any": [
+          "Onyx Liquid Embolic System",
+          "Onyx LES"
+        ]
+      },
       "notes": "Historical IFU. Current manufacturer labeling must be reopened for dosing, compatibility, or procedural claims."
     },
     {
@@ -219,7 +268,12 @@
       "official_url": "https://www.stryker.com/content/dam/stryker/neurovascular/products/neuroform-atlas-stent-system/resources/Neuroform_Atlas_IFU_US_03-13-2025.pdf",
       "local_filename": "sources/official/current/intracranial-stent--stryker--neuroform-atlas--ifu.pdf",
       "expected_sha256": "2e304b7d7b837cce765fb19e90de62be3f26307215329200d8a48a00e40d78cc",
-      "identity": {"required_all": ["Neuroform Atlas", "NV0026052 Rev AB"]},
+      "identity": {
+        "required_all": [
+          "Neuroform Atlas",
+          "NV0026052 Rev AB"
+        ]
+      },
       "notes": "Official one-page indications and safety labeling. It directs users to the package insert for complete instructions; claims are limited to content printed on this page."
     },
     {
@@ -246,6 +300,405 @@
       "jurisdiction": "US",
       "official_url": "https://www.medtronic.com/en-us/healthcare-professionals/products/neurological/neurovascular/liquid-embolics/onyx-liquid-embolic-system.html",
       "notes": "Current manufacturer page lists multiple Onyx LES documents. Resolve formulation and exact IFU before dosing, preparation, or catheter claims."
+    },
+    {
+      "source_id": "fda510k:K251240",
+      "device_id": "balloon-catheter--asahi-intecc--branchor-x",
+      "title": "K251240 510(k) Summary — Branchor X Balloon Guide Catheter",
+      "source_type": "fda_510k_summary",
+      "status": "current",
+      "evidence_depth": "official_remote_full_text",
+      "jurisdiction": "US",
+      "document_id": "K251240",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf25/K251240.pdf",
+      "sha256": "54db754d4fd0c918c0c7cedf8b15d1c934f28a7c6272d3e20bfc9f6c516607d9",
+      "identity": {
+        "required_any": [
+          "K251240"
+        ]
+      },
+      "notes": "Official clearance document; not manufacturer IFU/current labeling and cannot override either.",
+      "provenance": "imported 2026-08-23 from the knowledge v2.1 lane (schema 2.1.0 export generated 2026-08-23T03:16Z)"
+    },
+    {
+      "source_id": "fda510k:K232542",
+      "device_id": "delivery-catheter--microvention--wedge-xl",
+      "title": "K232542 510(k) Summary — Wedge XL Delivery Catheter",
+      "source_type": "fda_510k_summary",
+      "status": "current",
+      "evidence_depth": "official_remote_full_text",
+      "jurisdiction": "US",
+      "document_id": "K232542",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K232542.pdf",
+      "sha256": "4429aca20ab321a82fd93b3a9efccce9707836ada717f775819bf7b3c9ee9cbb",
+      "identity": {
+        "required_any": [
+          "K232542"
+        ]
+      },
+      "notes": "Official clearance document; not manufacturer IFU/current labeling and cannot override either.",
+      "provenance": "imported 2026-08-23 from the knowledge v2.1 lane (schema 2.1.0 export generated 2026-08-23T03:16Z)"
+    },
+    {
+      "source_id": "fda510k:K241244",
+      "device_id": "distal-access--cerenovus--cereglide-42-57",
+      "title": "K241244 510(k) Summary — CEREGLIDE 42 and 57 Intermediate Catheters",
+      "source_type": "fda_510k_summary",
+      "status": "current",
+      "evidence_depth": "official_remote_full_text",
+      "jurisdiction": "US",
+      "document_id": "K241244",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K241244.pdf",
+      "sha256": "c8730b234391bde577e975ff5f9d2da9a172250a7b766a8429d8e54d1df8b0c9",
+      "identity": {
+        "required_any": [
+          "K241244"
+        ]
+      },
+      "notes": "Official clearance document; not manufacturer IFU/current labeling and cannot override either.",
+      "provenance": "imported 2026-08-23 from the knowledge v2.1 lane (schema 2.1.0 export generated 2026-08-23T03:16Z)"
+    },
+    {
+      "source_id": "fda510k:K221930",
+      "device_id": "distal-access--cerenovus--cereglide-71",
+      "title": "K221930 510(k) Summary — CEREGLIDE 71 Intermediate Catheter",
+      "source_type": "fda_510k_summary",
+      "status": "current",
+      "evidence_depth": "official_remote_full_text",
+      "jurisdiction": "US",
+      "document_id": "K221930",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K221930.pdf",
+      "sha256": "e33030ddd8ec8057f0809a22c0f53f0cefa64a41fb1ba939e144db7f7ae8a999",
+      "identity": {
+        "required_any": [
+          "K221930"
+        ]
+      },
+      "notes": "Official clearance document; not manufacturer IFU/current labeling and cannot override either.",
+      "provenance": "imported 2026-08-23 from the knowledge v2.1 lane (schema 2.1.0 export generated 2026-08-23T03:16Z)"
+    },
+    {
+      "source_id": "fda510k:K231056",
+      "device_id": "distal-access--wallaby--esperance",
+      "title": "K231056 510(k) Summary — Esperance Distal Access Catheter",
+      "source_type": "fda_510k_summary",
+      "status": "current",
+      "evidence_depth": "official_remote_full_text",
+      "jurisdiction": "US",
+      "document_id": "K231056",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K231056.pdf",
+      "sha256": "9690b9f1fb8eb3424e8b499281e0dc82fc48c2eb439e54fd40cce36093816edd",
+      "identity": {
+        "required_any": [
+          "K231056"
+        ]
+      },
+      "notes": "Official clearance document; not manufacturer IFU/current labeling and cannot override either.",
+      "provenance": "imported 2026-08-23 from the knowledge v2.1 lane (schema 2.1.0 export generated 2026-08-23T03:16Z)"
+    },
+    {
+      "source_id": "fda510k:K211594",
+      "device_id": "microcatheter--stryker--trevo-trak-21",
+      "title": "K211594 510(k) Summary — Trevo Trak 21 Microcatheter",
+      "source_type": "fda_510k_summary",
+      "status": "current",
+      "evidence_depth": "official_remote_full_text",
+      "jurisdiction": "US",
+      "document_id": "K211594",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K211594.pdf",
+      "sha256": "1d6b584567f97e38505f42bdfaa6dac0da7870953a8a39886cc5507a70c696a9",
+      "identity": {
+        "required_any": [
+          "K211594"
+        ]
+      },
+      "notes": "Official clearance document; not manufacturer IFU/current labeling and cannot override either.",
+      "provenance": "imported 2026-08-23 from the knowledge v2.1 lane (schema 2.1.0 export generated 2026-08-23T03:16Z)"
+    },
+    {
+      "source_id": "fda510k:K243297",
+      "device_id": "distal-access--alembic--apro-70-swift",
+      "title": "K243297 510(k) Summary — APRO 70 Swift Catheter",
+      "source_type": "fda_510k_summary",
+      "status": "current",
+      "evidence_depth": "official_remote_full_text",
+      "jurisdiction": "US",
+      "document_id": "K243297",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K243297.pdf",
+      "sha256": "43e7835776a6db6e531c0973c8b8630538c240e8c852edbc1be8782caca3dfd2",
+      "identity": {
+        "required_any": [
+          "K243297"
+        ]
+      },
+      "notes": "Official clearance document; not manufacturer IFU/current labeling and cannot override either.",
+      "provenance": "imported 2026-08-23 from the knowledge v2.1 lane (schema 2.1.0 export generated 2026-08-23T03:16Z)"
+    },
+    {
+      "source_id": "fda510k:K252569",
+      "device_id": "delivery-catheter--balt--carrier-xl",
+      "title": "K252569 510(k) Summary — Carrier XL Delivery Catheter",
+      "source_type": "fda_510k_summary",
+      "status": "current",
+      "evidence_depth": "official_remote_full_text",
+      "jurisdiction": "US",
+      "document_id": "K252569",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf25/K252569.pdf",
+      "sha256": "eda69f8af92b2877a7ac0884e8192b079d988800bf5704943712fa9ac0e36129",
+      "identity": {
+        "required_any": [
+          "K252569"
+        ]
+      },
+      "notes": "Official clearance document; not manufacturer IFU/current labeling and cannot override either.",
+      "provenance": "imported 2026-08-23 from the knowledge v2.1 lane (schema 2.1.0 export generated 2026-08-23T03:16Z)"
+    },
+    {
+      "source_id": "fda510k:K230609",
+      "device_id": "delivery-catheter--balt--ng",
+      "title": "K230609 510(k) Summary — NG Delivery Catheter",
+      "source_type": "fda_510k_summary",
+      "status": "current",
+      "evidence_depth": "official_remote_full_text",
+      "jurisdiction": "US",
+      "document_id": "K230609",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K230609.pdf",
+      "sha256": "7f11109f07e124f395b0bfb7637842e7ac7dce21a808196c723716f6d7094209",
+      "identity": {
+        "required_any": [
+          "K230609"
+        ]
+      },
+      "notes": "Official clearance document; not manufacturer IFU/current labeling and cannot override either.",
+      "provenance": "imported 2026-08-23 from the knowledge v2.1 lane (schema 2.1.0 export generated 2026-08-23T03:16Z)"
+    },
+    {
+      "source_id": "fda510k:K233982",
+      "device_id": "distal-access--cerenovus--cereglide-92",
+      "title": "K233982 510(k) Summary — CEREGLIDE 92 Catheter System",
+      "source_type": "fda_510k_summary",
+      "status": "current",
+      "evidence_depth": "official_remote_full_text",
+      "jurisdiction": "US",
+      "document_id": "K233982",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K233982.pdf",
+      "sha256": "398835dc6263fe4f5e591531497783551b9776bdbc22f10c939818478737ea76",
+      "identity": {
+        "required_any": [
+          "K233982"
+        ]
+      },
+      "notes": "Official clearance document; not manufacturer IFU/current labeling and cannot override either.",
+      "provenance": "imported 2026-08-23 from the knowledge v2.1 lane (schema 2.1.0 export generated 2026-08-23T03:16Z)"
+    },
+    {
+      "source_id": "fda510k:K110813",
+      "device_id": "microcatheter--microvention--headway-27",
+      "title": "K110813 510(k) Summary — Headway 27 Microcatheter",
+      "source_type": "fda_510k_summary",
+      "status": "current",
+      "evidence_depth": "official_remote_full_text",
+      "jurisdiction": "US",
+      "document_id": "K110813",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf11/K110813.pdf",
+      "sha256": "f95d50838699f1c840640805206bf866f0c095dd6c41db45eb131d8027830f7d",
+      "identity": {
+        "required_any": [
+          "K110813"
+        ]
+      },
+      "notes": "Official clearance document; not manufacturer IFU/current labeling and cannot override either.",
+      "provenance": "imported 2026-08-23 from the knowledge v2.1 lane (schema 2.1.0 export generated 2026-08-23T03:16Z)"
+    },
+    {
+      "source_id": "fda510k:K213451",
+      "device_id": "microcatheter--spartan-micro--spartan-mc-0165",
+      "title": "K213451 510(k) Summary — Spartan MC 0165",
+      "source_type": "fda_510k_summary",
+      "status": "current",
+      "evidence_depth": "official_remote_full_text",
+      "jurisdiction": "US",
+      "document_id": "K213451",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K213451.pdf",
+      "sha256": "501b4de0d6410ffa0018849b7ffdc41c2142e22cc7aaa3b624ef9947ee88deaf",
+      "identity": {
+        "required_any": [
+          "K213451"
+        ]
+      },
+      "notes": "Official clearance document; not manufacturer IFU/current labeling and cannot override either.",
+      "provenance": "imported 2026-08-23 from the knowledge v2.1 lane (schema 2.1.0 export generated 2026-08-23T03:16Z)"
+    },
+    {
+      "source_id": "fda510k:K251015",
+      "device_id": "aspiration--alembic--apro-45",
+      "title": "K251015 510(k) Summary — APRO 45 Catheter",
+      "source_type": "fda_510k_summary",
+      "status": "current",
+      "evidence_depth": "official_remote_full_text",
+      "jurisdiction": "US",
+      "document_id": "K251015",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf25/K251015.pdf",
+      "sha256": "b22c9ec2e930bc26a4aeaf67ad22cfa5f27660be47ddf7c85f3c85422dcdf5ad",
+      "identity": {
+        "required_any": [
+          "K251015"
+        ]
+      },
+      "notes": "Official clearance document; not manufacturer IFU/current labeling and cannot override either.",
+      "provenance": "imported 2026-08-23 from the knowledge v2.1 lane (schema 2.1.0 export generated 2026-08-23T03:16Z)"
+    },
+    {
+      "source_id": "fda510k:K232971",
+      "device_id": "aspiration--alembic--apro-55",
+      "title": "K232971 510(k) Summary — APRO 55 Catheter",
+      "source_type": "fda_510k_summary",
+      "status": "current",
+      "evidence_depth": "official_remote_full_text",
+      "jurisdiction": "US",
+      "document_id": "K232971",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K232971.pdf",
+      "sha256": "0a5339a458910d1b2337bdca4070539bb73934061ba2e20fa29a9c5a2265ace5",
+      "identity": {
+        "required_any": [
+          "K232971"
+        ]
+      },
+      "notes": "Official clearance document; not manufacturer IFU/current labeling and cannot override either.",
+      "provenance": "imported 2026-08-23 from the knowledge v2.1 lane (schema 2.1.0 export generated 2026-08-23T03:16Z)"
+    },
+    {
+      "source_id": "fda510k:K223545",
+      "device_id": "aspiration--alembic--apro-70",
+      "title": "K223545 510(k) Summary — APRO 70 Catheter",
+      "source_type": "fda_510k_summary",
+      "status": "current",
+      "evidence_depth": "official_remote_full_text",
+      "jurisdiction": "US",
+      "document_id": "K223545",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K223545.pdf",
+      "sha256": "02a188a8dc73c09b6526e8997d97e9bafd8034027edb21e63dffbec068272bdf",
+      "identity": {
+        "required_any": [
+          "K223545"
+        ]
+      },
+      "notes": "Official clearance document; not manufacturer IFU/current labeling and cannot override either.",
+      "provenance": "imported 2026-08-23 from the knowledge v2.1 lane (schema 2.1.0 export generated 2026-08-23T03:16Z)"
+    },
+    {
+      "source_id": "fda510k:K243948",
+      "device_id": "aspiration--balt--raptor",
+      "title": "K243948 510(k) Summary — Raptor Aspiration Catheter",
+      "source_type": "fda_510k_summary",
+      "status": "current",
+      "evidence_depth": "official_remote_full_text",
+      "jurisdiction": "US",
+      "document_id": "K243948",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K243948.pdf",
+      "sha256": "e7dcacb8e048b325a7ac7d78c00406e9bba6ce25c289d95edc0ff5cbd5343665",
+      "identity": {
+        "required_any": [
+          "K243948"
+        ]
+      },
+      "notes": "Official clearance document; not manufacturer IFU/current labeling and cannot override either.",
+      "provenance": "imported 2026-08-23 from the knowledge v2.1 lane (schema 2.1.0 export generated 2026-08-23T03:16Z)"
+    },
+    {
+      "source_id": "fda510k:K233988",
+      "device_id": "aspiration--cerenovus--large-bore",
+      "title": "K233988 510(k) Summary — Cerenovus Large Bore Catheter",
+      "source_type": "fda_510k_summary",
+      "status": "current",
+      "evidence_depth": "official_remote_full_text",
+      "jurisdiction": "US",
+      "document_id": "K233988",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K233988.pdf",
+      "sha256": "ab8b4d5664232f75d7a1707bae2e62fe8445347bc3a1af100b5cc85fc48928b1",
+      "identity": {
+        "required_any": [
+          "K233988"
+        ]
+      },
+      "notes": "Official clearance document; not manufacturer IFU/current labeling and cannot override either.",
+      "provenance": "imported 2026-08-23 from the knowledge v2.1 lane (schema 2.1.0 export generated 2026-08-23T03:16Z)"
+    },
+    {
+      "source_id": "fda510k:K243047",
+      "device_id": "aspiration--imperative-care--zoom-7x",
+      "title": "K243047 510(k) Summary — Zoom 7X Catheter",
+      "source_type": "fda_510k_summary",
+      "status": "current",
+      "evidence_depth": "official_remote_full_text",
+      "jurisdiction": "US",
+      "document_id": "K243047",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K243047.pdf",
+      "sha256": "0dd9bd12ad1e2b8040e2ec209f9a1db6406c456604bcf7f01563ac2a97b0efaa",
+      "identity": {
+        "required_any": [
+          "K243047"
+        ]
+      },
+      "notes": "Official clearance document; not manufacturer IFU/current labeling and cannot override either.",
+      "provenance": "imported 2026-08-23 from the knowledge v2.1 lane (schema 2.1.0 export generated 2026-08-23T03:16Z)"
+    },
+    {
+      "source_id": "fda510k:K180705",
+      "device_id": "aspiration--medtronic--react-68",
+      "title": "K180705 510(k) Summary — React 68 Catheter",
+      "source_type": "fda_510k_summary",
+      "status": "current",
+      "evidence_depth": "official_remote_full_text",
+      "jurisdiction": "US",
+      "document_id": "K180705",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf18/K180705.pdf",
+      "sha256": "c4e79bc65b0567409957c78b82830ce6aa8cec75fcaa9455df76b4df1e741b81",
+      "identity": {
+        "required_any": [
+          "K180705"
+        ]
+      },
+      "notes": "Official clearance document; not manufacturer IFU/current labeling and cannot override either.",
+      "provenance": "imported 2026-08-23 from the knowledge v2.1 lane (schema 2.1.0 export generated 2026-08-23T03:16Z)"
+    },
+    {
+      "source_id": "fda510k:K222808",
+      "device_id": "aspiration--penumbra--red-43",
+      "title": "K222808 510(k) Summary — Penumbra RED 43 Reperfusion Catheter",
+      "source_type": "fda_510k_summary",
+      "status": "current",
+      "evidence_depth": "official_remote_full_text",
+      "jurisdiction": "US",
+      "document_id": "K222808",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K222808.pdf",
+      "sha256": "e6697aca62f8b119c871453f2605b340cca935d332a130a542cce00617998526",
+      "identity": {
+        "required_any": [
+          "K222808"
+        ]
+      },
+      "notes": "Official clearance document; not manufacturer IFU/current labeling and cannot override either.",
+      "provenance": "imported 2026-08-23 from the knowledge v2.1 lane (schema 2.1.0 export generated 2026-08-23T03:16Z)"
+    },
+    {
+      "source_id": "fda510k:K211654",
+      "device_id": "aspiration--penumbra--red-72",
+      "title": "K211654 510(k) Summary — Penumbra RED 72 Reperfusion Catheter",
+      "source_type": "fda_510k_summary",
+      "status": "current",
+      "evidence_depth": "official_remote_full_text",
+      "jurisdiction": "US",
+      "document_id": "K211654",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K211654.pdf",
+      "sha256": "672c9770b00f804e64a33b3fb7395e946754d337cd470d591448e79a40b778bd",
+      "identity": {
+        "required_any": [
+          "K211654"
+        ]
+      },
+      "notes": "Official clearance document; not manufacturer IFU/current labeling and cannot override either.",
+      "provenance": "imported 2026-08-23 from the knowledge v2.1 lane (schema 2.1.0 export generated 2026-08-23T03:16Z)"
     }
   ]
 }

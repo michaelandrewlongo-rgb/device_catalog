@@ -14,6 +14,12 @@ ACTIONABLE_SOURCE_STATUSES = {"current"}
 ACTIONABLE_SOURCE_DEPTHS = {"local_full_text", "official_remote_full_text"}
 ACTIONABLE_REVIEW_STATES = {"source_checked", "clinician_reviewed"}
 ACTIONABLE_SUPPORT_STATES = {"direct"}
+ACTIONABLE_EVIDENCE_LAYERS = {"official_labeling", "official_specification", "clinical_context"}
+SCHEMA_VERSION = "2.1.0"
+# Secondary candidates (Endovascular Today guide rows, French-to-inch derivations) are
+# exported alongside claims but can never carry authoritative evidence or a reviewed
+# status. The exporter enforces this so a downstream consumer never has to trust us.
+SECONDARY_EVIDENCE_CLASSES = {"secondary_curated_catalog", "derived_calculation", "unverified"}
 KNOWN_SOURCE_STATUSES = {"current", "historical", "superseded", "quarantined", "unavailable"}
 KNOWN_SOURCE_DEPTHS = {"local_full_text", "official_remote_full_text", "metadata_only", "unavailable"}
 
@@ -23,9 +29,11 @@ def _safe_relative_filename(value: Any) -> bool:
         return False
     normalized = value.replace("\\", "/")
     path = Path(normalized)
+    # WindowsPath("/etc/passwd").is_absolute() is False, so a leading slash must be
+    # rejected explicitly or a POSIX-absolute path passes on Windows.
     return not (
         path.is_absolute()
-        or normalized.startswith("//")
+        or normalized.startswith("/")
         or re.match(r"^[A-Za-z]:/", normalized)
         or ".." in path.parts
     )
@@ -69,10 +77,35 @@ def _public_source(source: dict[str, Any]) -> dict[str, Any]:
     return {key: value for key, value in source.items() if key in allowed}
 
 
+def _candidate_errors(candidate: dict[str, Any]) -> list[str]:
+    errors: list[str] = []
+    if not candidate.get("candidate_id") or not candidate.get("device_name"):
+        errors.append("missing candidate_id or device_name")
+    if candidate.get("review_status") in ACTIONABLE_REVIEW_STATES:
+        errors.append("secondary candidate is marked reviewed")
+    dimensions = candidate.get("dimensions")
+    if not isinstance(dimensions, dict):
+        errors.append("dimensions must be a mapping")
+        return errors
+    for key, values in dimensions.items():
+        if not isinstance(values, list):
+            errors.append(f"dimension {key} must be a list")
+            continue
+        for item in values:
+            if item.get("evidence_class") not in SECONDARY_EVIDENCE_CLASSES:
+                errors.append(f"dimension {key} carries a non-secondary evidence class")
+            if item.get("review_status") in ACTIONABLE_REVIEW_STATES:
+                errors.append(f"dimension {key} observation is marked reviewed")
+            if not item.get("source_locator"):
+                errors.append(f"dimension {key} observation lacks a source_locator")
+    return errors
+
+
 def build_export(
     source_rows: list[dict[str, Any]],
     claim_rows: list[dict[str, Any]],
     output_dir: Path,
+    candidate_rows: list[dict[str, Any]] | None = None,
 ) -> dict[str, Any]:
     invalid_sources = {
         row.get("source_id", "<missing>"): errors
@@ -93,7 +126,7 @@ def build_export(
             reasons.append("source_ids must be a list")
         if not isinstance(claim.get("locators"), list):
             reasons.append("locators must be a list")
-        if claim.get("evidence_layer") not in {"official_labeling", "clinical_context"}:
+        if claim.get("evidence_layer") not in ACTIONABLE_EVIDENCE_LAYERS:
             reasons.append("claim has an invalid or non-actionable evidence layer")
         if claim.get("review_status") not in ACTIONABLE_REVIEW_STATES:
             reasons.append("claim is not source_checked or clinician_reviewed")
@@ -118,24 +151,45 @@ def build_export(
         else:
             accepted_claims.append(claim)
 
+    candidate_rows = candidate_rows or []
+    invalid_candidates = {
+        row.get("candidate_id", "<missing>"): errors
+        for row in candidate_rows
+        if (errors := _candidate_errors(row))
+    }
+    if invalid_candidates:
+        raise ValueError(f"invalid secondary candidates: {invalid_candidates}")
+
     public_sources = [_public_source(row) for row in source_rows]
     output_dir.mkdir(parents=True, exist_ok=True)
     write_jsonl(output_dir / "device_sources.v2.jsonl", public_sources)
     write_jsonl(output_dir / "device_claims.v2.jsonl", accepted_claims)
     write_jsonl(output_dir / "rejected_claims.v2.jsonl", rejected)
+    candidate_path = output_dir / "device_dimension_candidates.v2.jsonl"
+    if candidate_rows:
+        write_jsonl(candidate_path, candidate_rows)
+    elif candidate_path.exists():
+        candidate_path.unlink()
 
     manifest = {
-        "schema_version": "2.0.0",
+        "schema_version": SCHEMA_VERSION,
         "generated_at": datetime.now(UTC).isoformat(),
         "policy": "fail_closed_current_full_text_direct_support",
         "source_count": len(public_sources),
         "accepted_claim_count": len(accepted_claims),
         "rejected_claim_count": len(rejected),
+        "secondary_dimension_candidate_count": len(candidate_rows),
         "source_status_counts": dict(Counter(row.get("status", "missing") for row in public_sources)),
     }
     write_json(output_dir / "manifest.json", manifest)
     return manifest
 
 
-def build_export_from_files(source_path: Path, claim_path: Path, output_dir: Path) -> dict[str, Any]:
-    return build_export(read_jsonl(source_path), read_jsonl(claim_path), output_dir)
+def build_export_from_files(
+    source_path: Path,
+    claim_path: Path,
+    output_dir: Path,
+    candidate_path: Path | None = None,
+) -> dict[str, Any]:
+    candidates = read_jsonl(candidate_path) if candidate_path and candidate_path.exists() else []
+    return build_export(read_jsonl(source_path), read_jsonl(claim_path), output_dir, candidates)
