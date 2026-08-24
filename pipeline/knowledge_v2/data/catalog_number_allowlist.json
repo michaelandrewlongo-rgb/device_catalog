@@ -1,0 +1,56 @@
+[
+  {
+    "manufacturer": "microvention",
+    "catalog_number": "DA6125ST",
+    "device_ids": ["access-devices--microvention--sofia-plus-catheter", "aspiration--microvention--sofia-plus-aspiration-catheter"],
+    "reason": "The same SOFIA Plus catheter is printed in both the Access Devices table (PDF page 16) and the Ischemic Stroke Devices table (PDF page 28) of the MicroVention 2019 international catalog, with identical dimensions; verified on both pages."
+  },
+  {
+    "manufacturer": "microvention",
+    "catalog_number": "DA6131ST",
+    "device_ids": ["access-devices--microvention--sofia-plus-catheter", "aspiration--microvention--sofia-plus-aspiration-catheter"],
+    "reason": "Same SOFIA Plus dual listing as DA6125ST; verified on PDF pages 16 and 28."
+  },
+  {
+    "manufacturer": "microvention",
+    "catalog_number": "MC172150S",
+    "device_ids": ["microcatheter--microvention--headway-microcatheter", "microcatheter--microvention--phil-microcatheter-compatibility"],
+    "reason": "The PHIL compatibility table (PDF page 35) legitimately lists Headway 17 microcatheter codes as compatible delivery microcatheters; verified on pages 20 and 35."
+  },
+  {
+    "manufacturer": "microvention",
+    "catalog_number": "MC172150SX",
+    "device_ids": ["microcatheter--microvention--headway-microcatheter", "microcatheter--microvention--phil-microcatheter-compatibility"],
+    "reason": "Same Headway-in-PHIL-compatibility dual listing; verified on pages 20 and 35."
+  },
+  {
+    "manufacturer": "microvention",
+    "catalog_number": "MC162156S",
+    "device_ids": ["microcatheter--microvention--headway-microcatheter-with-duo-technology", "microcatheter--microvention--phil-microcatheter-compatibility"],
+    "reason": "Headway DUO codes repeated in the PHIL compatibility table; verified on pages 20 and 35."
+  },
+  {
+    "manufacturer": "microvention",
+    "catalog_number": "MC162167S",
+    "device_ids": ["microcatheter--microvention--headway-microcatheter-with-duo-technology", "microcatheter--microvention--phil-microcatheter-compatibility"],
+    "reason": "Headway DUO codes repeated in the PHIL compatibility table; verified on pages 20 and 35."
+  },
+  {
+    "manufacturer": "microvention",
+    "catalog_number": "MCWED21160",
+    "device_ids": ["microcatheter--microvention--wedge-microcatheter", "microcatheter--microvention--wedge-microcatheter-detailed-specifications"],
+    "reason": "The Wedge microcatheter is printed twice in the catalog (Microcatheters, PDF page 22, and Ischemic Stroke Devices detailed specifications, PDF page 30); verified on both pages."
+  },
+  {
+    "manufacturer": "microvention",
+    "catalog_number": "BC0411XC",
+    "device_ids": ["balloon-catheter--microvention--scepter-xc-occlusion-balloon-catheter", "microcatheter--microvention--phil-microcatheter-compatibility"],
+    "reason": "BC0411XC is the Scepter XC product code (its own table on PDF page 19, where the printed reference cell was corrected from the erroneous GC695BUVT per the same document's page 35) and is also legitimately listed in the PHIL compatibility table on page 35."
+  },
+  {
+    "manufacturer": "medtronic",
+    "catalog_number": "REACT-68",
+    "device_ids": ["distal-access--medtronic--react-68-catheter", "aspiration--medtronic--riptide-aspiration-system"],
+    "reason": "The React 68 catheter is printed both in its own table (PDF page 5) and as a component of the Riptide aspiration system table (PDF page 31), with consistent dimensions (ID 0.068 in, max OD 0.083 in, working length 132 cm); verified on both pages."
+  }
+]

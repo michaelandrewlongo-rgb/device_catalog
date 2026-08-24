@@ -1,0 +1,26 @@
+[
+  {
+    "set": "stryker_catalog_2024",
+    "catalog_number": "90073",
+    "field": "id",
+    "reason": "Printed verbatim on PDF page 12: '0.078in (1.9mm)'. 0.078 in = 1.981 mm; the catalog truncates the mm conversion to one decimal instead of rounding. The value is served as printed."
+  },
+  {
+    "set": "stryker_catalog_2024",
+    "catalog_number": "90074",
+    "field": "id",
+    "reason": "Printed verbatim on PDF page 12: '0.085in (2.1mm)'. 0.085 in = 2.159 mm, truncated by the catalog."
+  },
+  {
+    "set": "stryker_catalog_2024",
+    "catalog_number": "90076",
+    "field": "id",
+    "reason": "Printed verbatim on PDF page 12: '0.078in (1.9mm)'; same truncated conversion as 90073."
+  },
+  {
+    "set": "stryker_catalog_2024",
+    "catalog_number": "90077",
+    "field": "id",
+    "reason": "Printed verbatim on PDF page 12: '0.085in (2.1mm)'; same truncated conversion as 90074."
+  }
+]

@@ -64,6 +64,10 @@ class EvidenceLayer(StrEnum):
     # Manufacturer product catalogue: the manufacturer's own published specification
     # tables. Above a trade-journal guide, below current IFU/labeling; dated.
     MANUFACTURER_CATALOG = "manufacturer_catalog"
+    # Manufacturer public product page, retained as a dated screenshot capture.
+    # The manufacturer's own statement, but undated/revisable web content: below
+    # a printed catalogue, above clinical context; outranked by IFU on conflict.
+    MANUFACTURER_PRODUCT_PAGE = "manufacturer_product_page"
     CLINICAL_CONTEXT = "clinical_context"
     LEGACY_DERIVED_SUMMARY = "legacy_derived_summary"
 

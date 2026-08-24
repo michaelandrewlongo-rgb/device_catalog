@@ -18,10 +18,20 @@ from __future__ import annotations
 import argparse
 import csv
 import json
+import re
 from pathlib import Path
+
+from .config import normalize_manufacturer
 
 EXPORT = Path(__file__).resolve().parent / "knowledge_v2" / "data"
 DEFAULT_OUT = Path.home() / "Downloads" / "device_dimensions_flat.csv"
+
+YEAR_RE = re.compile(r"\b((?:19|20)\d\d)\b")
+# "1,46" -> "1.46" only when the cell uses no dot decimals (European decimal
+# comma, as printed by e.g. the Balt catalogue). Thousands separators do not
+# occur in these dimension cells, but a cell that already mixes "." decimals
+# is left alone to be safe. Masters keep the verbatim printed value.
+DECIMAL_COMMA_RE = re.compile(r"(?<=\d),(?=\d)")
 
 # canonical column <- printed field keys (sku "fields") and guide "dimensions" keys
 CANON = {
@@ -90,17 +100,40 @@ def device_parts(device_id: str, claim: dict) -> tuple:
     return name, manufacturer, category
 
 
+def derive_source_year(claim: dict, source) -> str:
+    """Best evidenced year for the claim's source; empty when truly undated."""
+    for candidate in (claim.get("catalog_year"), claim.get("source_year")):
+        if candidate:
+            return str(candidate)
+    source = source or {}
+    for text in (source.get("revision", ""), source.get("checked_at", ""),
+                 claim.get("checked_at", ""), (claim.get("source_ids") or [""])[0]):
+        match = YEAR_RE.search(str(text or ""))
+        if match:
+            return match.group(1)
+    return ""
+
+
+def normalize_decimal(text: str) -> str:
+    # Dimension cells never use thousands separators, and Balt prints comma
+    # decimals next to inch values with dots ("1,02 mm (.040'')"), so every
+    # digit,digit comma is a decimal comma.
+    return DECIMAL_COMMA_RE.sub(".", text)
+
+
 def base_row(claim: dict, source) -> dict:
     name, manufacturer, category = device_parts(claim["device_id"], claim)
     return {
         "device_id": claim["device_id"],
         "device_name": name,
-        "manufacturer": manufacturer,
-        "category": claim.get("catalog_category") or category,
+        "manufacturer": normalize_manufacturer(manufacturer) if manufacturer else "",
+        # device_id is the identity and the join key; where a claim's
+        # catalog_category disagrees with its own device_id, identity wins.
+        "category": category or claim.get("catalog_category") or "",
         "claim_type": claim.get("claim_type", ""),
         "evidence_layer": claim.get("evidence_layer", ""),
         "jurisdiction": claim.get("jurisdiction") or (source or {}).get("jurisdiction", ""),
-        "source_year": claim.get("catalog_year") or claim.get("source_year", ""),
+        "source_year": derive_source_year(claim, source),
         "source_id": (claim.get("source_ids") or [""])[0],
         "claim_id": claim["claim_id"],
         "locator": "; ".join(claim.get("locators") or []),
@@ -161,14 +194,17 @@ def fold_fields(fields: dict, units: dict) -> tuple:
     return row, other
 
 
-def main() -> int:
-    parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--out", type=Path, default=DEFAULT_OUT)
-    args = parser.parse_args()
+DIMENSION_COLUMNS = COLUMNS[6:23]  # diameter .. catheter_compatibility
 
-    claims = read_jsonl(EXPORT / "reviewed_claims.v2.jsonl")
-    registry = json.loads((EXPORT / "source_registry.json").read_text(encoding="utf-8"))
-    sources = {s["source_id"]: s for s in registry["sources"]}
+
+def build_rows(claims: list[dict] | None = None,
+               sources: dict[str, dict] | None = None) -> list[dict]:
+    """One CSV row per specification line, decimal-comma normalized."""
+    if claims is None:
+        claims = read_jsonl(EXPORT / "reviewed_claims.v2.jsonl")
+    if sources is None:
+        registry = json.loads((EXPORT / "source_registry.json").read_text(encoding="utf-8"))
+        sources = {s["source_id"]: s for s in registry["sources"]}
 
     rows = []
     for claim in claims:
@@ -198,13 +234,36 @@ def main() -> int:
             row["labeled_statement"] = claim.get("text", "").strip()
             rows.append(row)
 
+    for row in rows:
+        for column in DIMENSION_COLUMNS:
+            if row.get(column):
+                row[column] = normalize_decimal(str(row[column]))
+    return rows
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--out", type=Path, default=DEFAULT_OUT)
+    args = parser.parse_args()
+
+    rows = build_rows()
+
+    from .knowledge_v2.validate_dimensions import summarize, validate_csv_rows
+    findings = validate_csv_rows(rows)
+    summary = summarize(findings)
+    if summary["errors"]:
+        for item in findings:
+            if item["severity"] == "error":
+                print(json.dumps(item))
+        raise SystemExit(f"export blocked: {summary['errors']} validation errors")
+
     args.out.parent.mkdir(parents=True, exist_ok=True)
     with args.out.open("w", encoding="utf-8-sig", newline="") as handle:
         writer = csv.DictWriter(handle, fieldnames=COLUMNS, extrasaction="ignore")
         writer.writeheader()
         writer.writerows(rows)
     print(json.dumps({"rows": len(rows), "devices": len({r["device_id"] for r in rows}),
-                      "out": str(args.out)}, indent=2))
+                      "warnings": summary["warnings"], "out": str(args.out)}, indent=2))
     return 0
 
 

@@ -76,6 +76,11 @@ def main() -> int:
     )
     candidates_parser.add_argument("--include-peripheral", action="store_true")
 
+    subparsers.add_parser(
+        "validate",
+        help="Run deterministic data validators over the claims master and extracted catalog rows.",
+    )
+
     official_parser = subparsers.add_parser("official-scan")
     official_parser.add_argument(
         "--watchlist",
@@ -92,6 +97,24 @@ def main() -> int:
     args = parser.parse_args()
     if args.command == "audit":
         return run_audit(args.catalog_root, args.output_dir)
+
+    if args.command == "validate":
+        import json
+
+        from pipeline.knowledge_v2.io import read_jsonl
+        from pipeline.knowledge_v2.validate_dimensions import summarize, validate_all
+        from pipeline.knowledge_v2.verify_suspects import SET_PDFS
+
+        claims = read_jsonl(DATA_DIR / "reviewed_claims.v2.jsonl")
+        extracted = Path(__file__).resolve().parent / "data" / "extracted"
+        rows_by_set = {name: read_jsonl(extracted / f"{name}.rows.jsonl") for name in SET_PDFS}
+        findings = validate_all(claims, rows_by_set)
+        summary = summarize(findings)
+        for item in findings:
+            if item["severity"] == "error":
+                print(json.dumps(item))
+        print(json.dumps(summary, indent=2))
+        return 1 if summary["errors"] else 0
 
     if args.command == "official-scan":
         report = scan_watchlist(args.watchlist, args.output, timeout=args.timeout)

@@ -305,9 +305,9 @@ def _candidate(**overrides):
     return row
 
 
-def test_export_writes_secondary_candidates_with_schema_2_1(tmp_path):
+def test_export_writes_secondary_candidates_with_schema_2_2(tmp_path):
     manifest = build_export([_source()], [_claim()], tmp_path, [_candidate()])
-    assert manifest["schema_version"] == "2.1.0"
+    assert manifest["schema_version"] == "2.2.0"
     assert manifest["secondary_dimension_candidate_count"] == 1
     assert (tmp_path / "device_dimension_candidates.v2.jsonl").exists()
 

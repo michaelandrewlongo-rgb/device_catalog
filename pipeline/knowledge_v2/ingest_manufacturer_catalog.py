@@ -80,7 +80,8 @@ def family_device_name(family: str) -> str:
     return " ".join(w if w.isupper() and len(w) <= 3 else w.capitalize() if w.isupper() else w for w in name.split())
 
 
-def ingest(name: str, manufacturer: str, pdf_relative: str, catalog_year: str | None = None) -> dict[str, Any]:
+def ingest(name: str, manufacturer: str, pdf_relative: str, catalog_year: str | None = None,
+           rebuild: bool = False, review_note: str | None = None) -> dict[str, Any]:
     rows = read_jsonl(EXTRACTED_DIR / f"{name}.rows.jsonl")
     summary = read_json(EXTRACTED_DIR / f"{name}.summary.json")
     year = catalog_year or str(summary.get("catalog_year") or "")
@@ -96,8 +97,24 @@ def ingest(name: str, manufacturer: str, pdf_relative: str, catalog_year: str | 
         families[row["product_family"]].append(row)
 
     registry = read_json(REGISTRY)
-    have_sources = {s["source_id"] for s in registry["sources"]}
     existing = read_jsonl(CLAIMS)
+    purged_sources = purged_claims = 0
+    if rebuild:
+        # Purge this set's claims and sources so corrected extraction rows
+        # regenerate them; everything else is untouched.
+        source_prefix = f"catalog:{manufacturer}:{name}:"
+        claim_prefix = f"claim:catalog:{manufacturer}:{name}:"
+        before = len(registry["sources"])
+        registry["sources"] = [s for s in registry["sources"]
+                               if not s["source_id"].startswith(source_prefix)]
+        purged_sources = before - len(registry["sources"])
+        before = len(existing)
+        existing = [c for c in existing if not c["claim_id"].startswith(claim_prefix)]
+        purged_claims = before - len(existing)
+        with CLAIMS.open("w", encoding="utf-8", newline="\n") as handle:
+            for claim in existing:
+                handle.write(json.dumps(claim, sort_keys=True, separators=(",", ":")) + "\n")
+    have_sources = {s["source_id"] for s in registry["sources"]}
     have_claims = {c["claim_id"] for c in existing}
     new_sources, new_claims = [], []
     for family, frows in families.items():
@@ -164,7 +181,7 @@ def ingest(name: str, manufacturer: str, pdf_relative: str, catalog_year: str | 
             "evidence_class": "manufacturer_catalog",
             "support": "direct",
             "review_status": "source_checked",
-            "review_note": "Extracted by PyMuPDF table read and verified against the page text by an independent agent (every catalog number confirmed on its page).",
+            "review_note": review_note or "Extracted by PyMuPDF table read and verified against the page text by an independent agent (every catalog number confirmed on its page).",
             "source_ids": [source_id],
             "locators": [f"{page_label(p)}, {family} table" for p in pages],
             "checked_at": "2026-08-23",
@@ -180,7 +197,9 @@ def ingest(name: str, manufacturer: str, pdf_relative: str, catalog_year: str | 
     with CLAIMS.open("a", encoding="utf-8", newline="\n") as handle:
         for claim in new_claims:
             handle.write(json.dumps(claim, sort_keys=True, separators=(",", ":")) + "\n")
-    return {"families": len(families), "rows": len(rows), "new_sources": len(new_sources), "new_claims": len(new_claims)}
+    return {"families": len(families), "rows": len(rows), "new_sources": len(new_sources),
+            "new_claims": len(new_claims), "purged_sources": purged_sources,
+            "purged_claims": purged_claims}
 
 
 def main() -> int:
@@ -189,8 +208,12 @@ def main() -> int:
     parser.add_argument("--manufacturer", required=True)
     parser.add_argument("--pdf", required=True, help="repository-relative path of the retained catalog PDF")
     parser.add_argument("--year")
+    parser.add_argument("--rebuild", action="store_true",
+                        help="purge this set's existing claims and sources first, then re-ingest")
+    parser.add_argument("--review-note", help="override the claim review_note (e.g. after a re-verification pass)")
     args = parser.parse_args()
-    print(json.dumps(ingest(args.name, args.manufacturer, args.pdf, args.year), indent=2))
+    print(json.dumps(ingest(args.name, args.manufacturer, args.pdf, args.year,
+                            rebuild=args.rebuild, review_note=args.review_note), indent=2))
     return 0
 
 

@@ -18,10 +18,11 @@ ACTIONABLE_EVIDENCE_LAYERS = {
     "official_labeling",
     "official_specification",
     "manufacturer_catalog",
+    "manufacturer_product_page",
     "trade_journal_device_guide",
     "clinical_context",
 }
-SCHEMA_VERSION = "2.1.0"
+SCHEMA_VERSION = "2.2.0"
 # Secondary candidates (Endovascular Today guide rows, French-to-inch derivations) are
 # exported alongside claims but can never carry authoritative evidence or a reviewed
 # status. The exporter enforces this so a downstream consumer never has to trust us.
