@@ -6404,6 +6404,146 @@
       "official_scan_status": "not_watched",
       "source_id": "catalog:penumbra:penumbra_brochure_2025:aspiration--penumbra--penumbra-system",
       "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/aspiration--imperative-care--zoom-system--ifu.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "ifu:imperative-care:zoom-system:lbl002069-02d",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/aspiration--imperative-care--zoom-system--ifu.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "ifu:imperative-care:zoom-system:lbl002069-02d:zoom-88-ldp",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/aspiration--imperative-care--zoom-system--ifu.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "ifu:imperative-care:zoom-system:lbl002069-02d:tracstar-ldp",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/distal-access--imperative-care--zoom-88--ifu.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "ifu:imperative-care:zoom-88:lbl002052-02d",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/guide-catheter--imperative-care--tracstar-ldp--ifu.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "ifu:imperative-care:tracstar-ldp:lbl002056-02c",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/access-devices--imperative-care--zoom-rdl--ifu.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "ifu:imperative-care:zoom-rdl:lbl002007-02h",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/aspiration--imperative-care--zoom-system--510k-K242672.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "fda510k:K242672",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/aspiration--route-92-medical--hipoint-reperfusion-system--ifu.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "ifu:route-92-medical:hipoint-reperfusion-system:ifu-2418e",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/delivery-catheter--route-92-medical--tenzing-7--ifu.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "ifu:route-92-medical:tenzing-7:ifu-0466p",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/access-devices--route-92-medical--base-camp-sheath--ifu.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "ifu:route-92-medical:base-camp-sheath:ifu-0663j",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/access-devices--route-92-medical--base-camp-sheath-2-0--ifu.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "ifu:route-92-medical:base-camp-sheath-2-0:ifu-3798b",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/aspiration--route-92-medical--freeclimb-reperfusion-system--ifu.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "ifu:route-92-medical:freeclimb-reperfusion-system:ifu-2556e",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/aspiration--route-92-medical--hipoint-reperfusion-system--510k-K243601.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "fda510k:K243601",
+      "validation_errors": []
+    },
+    {
+      "configured_status": "current",
+      "extraction_error": null,
+      "identity_failures": [],
+      "local_filename": "sources/official/current/aspiration--route-92-medical--freeclimb-54-reperfusion-system--510k-K233329.pdf",
+      "observed_status": "current",
+      "official_scan_status": "not_watched",
+      "source_id": "fda510k:K233329",
+      "validation_errors": []
     }
   ]
 }

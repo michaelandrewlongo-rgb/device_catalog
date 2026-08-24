@@ -12877,6 +12877,290 @@
       "source_type": "manufacturer_product_catalog",
       "status": "current",
       "title": "Penumbra System - RED 72 SILVER LABEL with SENDit Technology brochure (31708 Rev. A 03/25) (2025), Penumbra System table"
+    },
+    {
+      "checked_at": "2026-08-24",
+      "device_id": "aspiration--imperative-care--zoom-aspiration-catheters",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Zoom System",
+          "Zoom 71",
+          "Zoom 55"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/aspiration--imperative-care--zoom-system--ifu.pdf",
+      "notes": "System eIFU covering the Zoom (7X, 71, 55, 45, 4S, 35) aspiration catheters; the same document also covers the LDP catheters (separate source records per device).",
+      "official_url": "https://imperativecare.com/wp-content/uploads/2026/02/LBL002069-02.D-Zoom-System-eIFU.pdf",
+      "revision": "LBL002069-02.D (retrieved 2026-08-24)",
+      "sha256": "7749310e5f8a16b621ad9eb8b0307c2de0fb0ac137ee699e4b89aeb9c3e26f47",
+      "source_id": "ifu:imperative-care:zoom-system:lbl002069-02d",
+      "source_type": "manufacturer_ifu",
+      "status": "current",
+      "title": "Imperative Care Zoom System eIFU, LBL002069-02.D"
+    },
+    {
+      "checked_at": "2026-08-24",
+      "device_id": "distal-access--imperative-care--zoom-88-ldp",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Zoom 88",
+          "Large Distal Platform"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/aspiration--imperative-care--zoom-system--ifu.pdf",
+      "notes": "Same retained eIFU PDF as the aspiration-catheter source; registered per device so claims join on device_id.",
+      "official_url": "https://imperativecare.com/wp-content/uploads/2026/02/LBL002069-02.D-Zoom-System-eIFU.pdf",
+      "revision": "LBL002069-02.D (retrieved 2026-08-24)",
+      "sha256": "7749310e5f8a16b621ad9eb8b0307c2de0fb0ac137ee699e4b89aeb9c3e26f47",
+      "source_id": "ifu:imperative-care:zoom-system:lbl002069-02d:zoom-88-ldp",
+      "source_type": "manufacturer_ifu",
+      "status": "current",
+      "title": "Imperative Care Zoom System eIFU, LBL002069-02.D (Zoom 88 LDP tables)"
+    },
+    {
+      "checked_at": "2026-08-24",
+      "device_id": "guide-catheter--imperative-care--tracstar-ldp",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "TracStar"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/aspiration--imperative-care--zoom-system--ifu.pdf",
+      "notes": "Same retained eIFU PDF as the aspiration-catheter source; registered per device.",
+      "official_url": "https://imperativecare.com/wp-content/uploads/2026/02/LBL002069-02.D-Zoom-System-eIFU.pdf",
+      "revision": "LBL002069-02.D (retrieved 2026-08-24)",
+      "sha256": "7749310e5f8a16b621ad9eb8b0307c2de0fb0ac137ee699e4b89aeb9c3e26f47",
+      "source_id": "ifu:imperative-care:zoom-system:lbl002069-02d:tracstar-ldp",
+      "source_type": "manufacturer_ifu",
+      "status": "current",
+      "title": "Imperative Care Zoom System eIFU, LBL002069-02.D (TracStar LDP tables)"
+    },
+    {
+      "checked_at": "2026-08-24",
+      "device_id": "distal-access--imperative-care--zoom-88-ldp",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Zoom 88"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/distal-access--imperative-care--zoom-88--ifu.pdf",
+      "notes": "Device-specific IFU; the Zoom System eIFU is the newer combined labeling.",
+      "official_url": "https://imperativecare.com/wp-content/uploads/2025/08/LBL002052-02.D_Zoom-88-IFU_DIGITAL_v2.pdf",
+      "revision": "LBL002052-02.D (retrieved 2026-08-24)",
+      "sha256": "66ac3602b4a72f47df8a88676c3d72be0380cfa350a7800dd6a3a5b27fd91c94",
+      "source_id": "ifu:imperative-care:zoom-88:lbl002052-02d",
+      "source_type": "manufacturer_ifu",
+      "status": "current",
+      "title": "Zoom 88 and Zoom 88 Support Large Distal Platform IFU, LBL002052-02.D"
+    },
+    {
+      "checked_at": "2026-08-24",
+      "device_id": "guide-catheter--imperative-care--tracstar-ldp",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "TracStar"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/guide-catheter--imperative-care--tracstar-ldp--ifu.pdf",
+      "notes": "Device-specific IFU; the Zoom System eIFU is the newer combined labeling.",
+      "official_url": "https://imperativecare.com/wp-content/uploads/2025/08/LBL002056-02.C_TracStar-LDP-Gen-2-IFU_DIGITAL_v2-1.pdf",
+      "revision": "LBL002056-02.C (retrieved 2026-08-24)",
+      "sha256": "d3fa9d8c673aa46350b76a472fee9cf2da4a5356f51d75167f2a166c4f46e603",
+      "source_id": "ifu:imperative-care:tracstar-ldp:lbl002056-02c",
+      "source_type": "manufacturer_ifu",
+      "status": "current",
+      "title": "TracStar LDP Large Distal Platform (Gen 2) IFU, LBL002056-02.C"
+    },
+    {
+      "checked_at": "2026-08-24",
+      "device_id": "access-devices--imperative-care--zoom-rdl",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Zoom RDL",
+          "Radial Access"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/access-devices--imperative-care--zoom-rdl--ifu.pdf",
+      "notes": "Radial access platform IFU.",
+      "official_url": "https://imperativecare.com/wp-content/uploads/2025/08/LBL002007-02.H-Imperative-Care-Zoom-RDL-Radial-Access-System-IFU_DIGITAL_v3.pdf",
+      "revision": "LBL002007-02.H (retrieved 2026-08-24)",
+      "sha256": "41385d2ebaac10692450922a6178999225db0e43ac9626203255915320c98210",
+      "source_id": "ifu:imperative-care:zoom-rdl:lbl002007-02h",
+      "source_type": "manufacturer_ifu",
+      "status": "current",
+      "title": "Zoom RDL Radial Access System IFU, LBL002007-02.H"
+    },
+    {
+      "checked_at": "2026-08-24",
+      "device_id": "distal-access--imperative-care--zoom-88-ldp",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "K242672"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/aspiration--imperative-care--zoom-system--510k-K242672.pdf",
+      "notes": "Official clearance document; not manufacturer IFU/current labeling and cannot override either.",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K242672.pdf",
+      "revision": "K242672 (decided 2025-01-14)",
+      "sha256": "72cfb70af0ced044ad50acd3d2f080a2c4601024899e06a24c134961b4fc3496",
+      "source_id": "fda510k:K242672",
+      "source_type": "fda_510k_summary",
+      "status": "current",
+      "title": "K242672 510(k) Summary - Imperative Care Zoom System (.088 aspiration, decided 2025-01-14)"
+    },
+    {
+      "checked_at": "2026-08-24",
+      "device_id": "aspiration--route-92-medical--hipoint-reperfusion-system",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "HiPoint"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/aspiration--route-92-medical--hipoint-reperfusion-system--ifu.pdf",
+      "notes": "Registered as a reopenable source; claims to follow page-level review.",
+      "official_url": "https://www.route92medical.com/wp-content/uploads/2024/12/IFU-2418.E-IFU-HiPoint-Reperfusion-System.pdf",
+      "revision": "IFU-2418 rev E (retrieved 2026-08-24)",
+      "sha256": "30e4772bf3e1165b399523f5485e2c90c45205eee7168e2d9c57dafa29388e3e",
+      "source_id": "ifu:route-92-medical:hipoint-reperfusion-system:ifu-2418e",
+      "source_type": "manufacturer_ifu",
+      "status": "current",
+      "title": "HiPoint Reperfusion System IFU (HiPoint 70 and 88; includes Tenzing 8), IFU-2418 rev E"
+    },
+    {
+      "checked_at": "2026-08-24",
+      "device_id": "delivery-catheter--route-92-medical--tenzing-7",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Tenzing"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/delivery-catheter--route-92-medical--tenzing-7--ifu.pdf",
+      "notes": "Registered as a reopenable source; claims to follow page-level review.",
+      "official_url": "https://www.route92medical.com/wp-content/uploads/2024/12/IFU-0466.P-IFU-Tenzing-7-Delivery-Catheter.pdf",
+      "revision": "IFU-0466 rev P (retrieved 2026-08-24)",
+      "sha256": "107ec843777dde68929cf738b5f6c19d7a95e16c51c31971dc5af432fb045570",
+      "source_id": "ifu:route-92-medical:tenzing-7:ifu-0466p",
+      "source_type": "manufacturer_ifu",
+      "status": "current",
+      "title": "Tenzing 7 Delivery Catheter IFU, IFU-0466 rev P"
+    },
+    {
+      "checked_at": "2026-08-24",
+      "device_id": "access-devices--route-92-medical--base-camp-sheath",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Base Camp"
+        ]
+      },
+      "jurisdiction": "EU",
+      "local_filename": "sources/official/current/access-devices--route-92-medical--base-camp-sheath--ifu.pdf",
+      "notes": "CE labeling; confirm US labeling before any US-availability claim.",
+      "official_url": "https://www.route92medical.com/wp-content/uploads/2025/08/IFU-0663.J-IFU-Base-Camp-Sheath-System-CE.pdf",
+      "revision": "IFU-0663 rev J (retrieved 2026-08-24)",
+      "sha256": "9a5f1a2aafdcac191505a3073116d6371303796f1507fee6b3aba2cfdf155d0a",
+      "source_id": "ifu:route-92-medical:base-camp-sheath:ifu-0663j",
+      "source_type": "manufacturer_ifu",
+      "status": "current",
+      "title": "Base Camp Sheath System IFU (CE), IFU-0663 rev J"
+    },
+    {
+      "checked_at": "2026-08-24",
+      "device_id": "access-devices--route-92-medical--base-camp-sheath-2-0",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "Base Camp"
+        ]
+      },
+      "jurisdiction": "EU",
+      "local_filename": "sources/official/current/access-devices--route-92-medical--base-camp-sheath-2-0--ifu.pdf",
+      "notes": "EU labeling; confirm US labeling before any US-availability claim.",
+      "official_url": "https://www.route92medical.com/wp-content/uploads/2025/08/IFU-3798.B-Instructions-for-Use-Base-Camp-Sheath-System-2.0-EU.pdf",
+      "revision": "IFU-3798 rev B (retrieved 2026-08-24)",
+      "sha256": "5451d200badc7860c0c7c755453d16c40f2928019b51197d2ccc6a3be650c122",
+      "source_id": "ifu:route-92-medical:base-camp-sheath-2-0:ifu-3798b",
+      "source_type": "manufacturer_ifu",
+      "status": "current",
+      "title": "Base Camp Sheath System 2.0 IFU (EU), IFU-3798 rev B"
+    },
+    {
+      "checked_at": "2026-08-24",
+      "device_id": "aspiration--route-92-medical--freeclimb-reperfusion-system",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "FreeClimb"
+        ]
+      },
+      "jurisdiction": "EU",
+      "local_filename": "sources/official/current/aspiration--route-92-medical--freeclimb-reperfusion-system--ifu.pdf",
+      "notes": "CE labeling; confirm US labeling before any US-availability claim.",
+      "official_url": "https://www.route92medical.com/wp-content/uploads/2026/07/Instructions-for-Use-FreeClimb-Reperfusion-System-CE-IFU-2556.pdf",
+      "revision": "IFU-2556 rev E (retrieved 2026-08-24)",
+      "sha256": "fdec1019f4f28412638e8a6cfba5bda1ae370c4b242408a64956f93e3dc4bdd1",
+      "source_id": "ifu:route-92-medical:freeclimb-reperfusion-system:ifu-2556e",
+      "source_type": "manufacturer_ifu",
+      "status": "current",
+      "title": "FreeClimb Reperfusion System IFU (70 and 88 sizes, CE), IFU-2556 rev E"
+    },
+    {
+      "checked_at": "2026-08-24",
+      "device_id": "aspiration--route-92-medical--hipoint-reperfusion-system",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "K243601"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/aspiration--route-92-medical--hipoint-reperfusion-system--510k-K243601.pdf",
+      "notes": "Official clearance document; not manufacturer IFU/current labeling and cannot override either.",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K243601.pdf",
+      "revision": "K243601 (decided 2025-05-19)",
+      "sha256": "6dce56cf44232700e0693d8784de802fc17746ebf1996ce9dcdd6f193de951ba",
+      "source_id": "fda510k:K243601",
+      "source_type": "fda_510k_summary",
+      "status": "current",
+      "title": "K243601 510(k) Summary - Route 92 HiPoint Reperfusion System (direct .088 aspiration, decided 2025-05-19)"
+    },
+    {
+      "checked_at": "2026-08-24",
+      "device_id": "aspiration--route-92-medical--freeclimb-54-reperfusion-system",
+      "evidence_depth": "local_full_text",
+      "identity": {
+        "required_any": [
+          "K233329"
+        ]
+      },
+      "jurisdiction": "US",
+      "local_filename": "sources/official/current/aspiration--route-92-medical--freeclimb-54-reperfusion-system--510k-K233329.pdf",
+      "notes": "Official clearance document; not manufacturer IFU/current labeling and cannot override either.",
+      "official_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K233329.pdf",
+      "revision": "K233329 (decided 2024-04-23)",
+      "sha256": "3736cfe8e4c8e261159cd52f6acfda6968f19aca04fa3ba303e03d3600f9a81c",
+      "source_id": "fda510k:K233329",
+      "source_type": "fda_510k_summary",
+      "status": "current",
+      "title": "K233329 510(k) Summary - Route 92 Full Length 054 Reperfusion System (FreeClimb 54, decided 2024-04-23)"
     }
   ]
 }
